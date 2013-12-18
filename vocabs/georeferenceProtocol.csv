@@ -1,4 +1,5 @@
 "georeferenceProtocol","standardgeoreferenceProtocol","standard","checked"
+"	Georeferencing Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
 "0914","not recorded",0,1
 "1986 Rand McNally Road Atlas (location of mountains), TopoZone.com 1:250,000 (coordinates)","not recorded",0,1
 "2931CC","not recorded",0,1
@@ -18,6 +19,7 @@
 "ArcView GNIS/DeLorme NV Gazetteer","not recorded",0,1
 "ArcView GNS & Atlas of Namibia data","not recorded",0,1
 "ArcView GNS data","not recorded",0,1
+"assumed that heading was by air","not recorded",0,1
 "atlas","not recorded",0,1
 "AZ GNIS downloaded March 2003","not recorded",0,1
 "BCGNIS downloaded April 2003/ SoftMap Oct 2003 (www.softmaptechnologies.com)","not recorded",0,1
@@ -71,6 +73,20 @@
 "GEOLocate","not recorded",0,1
 "Geological Survey of Canada : Mineral Map of British Columbia. 1951. 1:1,267,200","not recorded",0,1
 "GeoNet Name Server gazetteer","not recorded",0,1
+"Georeference Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Guidelines Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Guide 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Guide Version 2012-10-17","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Guide Version 2012-11-13","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Reference Guide Version 12-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Reference Guide Version 2012-10-08s","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Reference Guide Version 2012-11-25","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Reference Guide Version 2012-11-26","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Refernce Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferencng Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferenncing Quick Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferrencing Quick Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
 "Georefrencer","not recorded",0,1
 "GioG","VertNet Georeferencing Guidelines",0,1
 "GNIS","not recorded",0,1
@@ -93,7 +109,7 @@
 "GPS293, extent .05 mi, WGS84","not recorded",0,1
 "Graphical Locator site, TRS to Lat/long; Willamette Meridian","not recorded",0,1
 "GTOPO30; non-USGS map 1:1000000","not recorded",0,1
-"HerpNET Georeferencing Guidelines","not recorded",0,1
+"HerpNET Georeferencing Guidelines","VertNet Georeferencing Guidelines",0,1
 "HNHM database","not recorded",0,1
 "http://geonames.nrcan.gc.ca/search/search_e.php","not recorded",0,1
 "Instituto Geografico Nacional de Honduras. Departamento de Olancho. 1990. 1:350,000","not recorded",0,1
@@ -178,4 +194,5 @@ MaNIS/HerpNET/ORNIS Georeferencing Guidelines","VertNet Georeferencing Guideline
 "USGS map 1:24,000","not recorded",0,1
 "VertNet Georeferencing Guidelines, GBIF Best Practices","VertNet Georeferencing Guidelines",0,1
 "WGS 1984","not recorded",0,1
+"WGS84","not recorded",0,1
 "WGS84, Google Maps","not recorded",0,1

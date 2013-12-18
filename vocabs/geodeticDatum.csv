@@ -6,6 +6,8 @@
 "(WGS72) World Geodetic System 1972","(WGS72) World Geodetic System 1972",0,1
 "(WGS84) World Geodetic System 1984","WGS84",0,1
 "115.106995",,0,1
+"1787.192","not recorded (forced WGS84)",0,1
+"17938",,0,1
 "42.356157",,0,1
 "76.137987",,0,1
 "Adindan","Adindan",1,1
@@ -229,6 +231,7 @@
 "WGS 84","WGS84",0,1
 "WGS 84 / NAD 83","WGS84",0,1
 "WGS*4","WGS84",0,1
+"WGS48","WGS84",0,1
 "WGS66","WGS66",1,1
 "WGS72","WGS72",1,1
 "WGS8","WGS84",0,1

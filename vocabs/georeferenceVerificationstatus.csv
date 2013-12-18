@@ -1,7 +1,22 @@
 "georeferenceVerificationStatus","standardgeoreferenceVerificationStatus","standard","checked"
+"collector verified","verified by collector",0,1
+"curator verified","verified by curator",0,1
+"from BioGeomancer","unverified",0,1
+"no","unverified",0,1
+"not veridied","unverified",0,1
+"not verified","unverified",0,1
+"ORNIS georef data exists but has","unverified",0,1
 "requires verification","requires verification",1,1
 "unverified","requires verification",0,1
+"verfied","verified by curator",0,1
+"Verifed","verified by curator",0,1
+"Verified","verified by curator",0,1
+"Verified by Allen Chartier","verified by curator",0,1
+"Verified by Collection Manager","verified by curator",0,1
 "verified by collector","verified by collector",1,1
 "verified by curator","verified by curator",1,1
+"verified by institution","verified by curator",0,1
+"Verified by locality matchup","unverified",0,1
 "Verified by Match","requires verification",0,1
 "Verified by Rene","verified by curator",0,1
+"verifiied","verified by curator",0,1

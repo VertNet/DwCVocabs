@@ -1,6 +1,10 @@
 "verbatimPrep","StandardPrep","standard","checked"
 "",,0,1
 " 70% EtOH","70% alcohol",0,1
+" L",,0,0
+" N",,0,0
+" skull","skull",0,1
+"R M2/.",,0,0
 "Skull, Fluid","fluid, skull",0,1
 """Mount, Blood""","mount, blood",0,1
 """Mount, Tissue""","mount, tissue",0,1
@@ -19,6 +23,7 @@
 """Skin, Wing""","skin, wing",0,1
 """skin, wing, DNA & partial skeleton""","skin, wing, DNA, partial skeleton",0,1
 """wing, par skeleton""","wing, partial",0,1
+"###############################################################################################################################################################################################################################################################",,0,0
 "/M2",,0,1
 "?","unknown",0,1
 "? ilium.","ilium",0,1
@@ -123,11 +128,13 @@
 "4 VERTEBRAE.  IMM.","vertebrae",0,1
 "5",,0,1
 "5 FEMUR, 4 TIBIA, 2 HUMERI, 2 part innom.","5 femurs, 4 tibia, 2 humeri, 2 partial innominata",0,1
+"5 fragments cheek tooth.",,0,0
 "5 fragments cheekteeth.","cheekteeth fragments",0,1
 "5 UNDET.","undetermined",0,1
 "5 VERTEBRAE (DRY)","5 vertebrae",0,1
 "5 VERTEBRAE.","vertebrae",0,1
 "5% formalin","5% formalin",1,1
+"50% Isopropanol",,0,0
 "5EGGS","eggs",0,1
 "6 carapace frags,  3 limb frags, 1 pelvic frag",,0,0
 "6 upper cheekteeth, 1 L P2/.",,0,0
@@ -135,15 +142,28 @@
 "6699","6699",0,1
 "7 UNDET. AND MISCELLANEOUS.","undetermined",0,1
 "70 % EtOH","70% alcohol",0,1
+"70% Ethanol",,0,0
+"70% Ethanol straight",,0,0
+"70% Ethanol, Cast",,0,0
+"70% Ethanol, Cleared and Stained",,0,0
+"70% Ethanol, Mandible",,0,0
+"70% Ethanol, Skeleton",,0,0
+"70% Ethanol, Skin",,0,0
+"70% Ethanol, Skin, Skull, Skeleton",,0,0
+"70% Ethanol, Skull",,0,0
+"70% Ethanol, Skull, Skeleton",,0,0
 "70% EtOH","70% alcohol",0,1
 "70%EtOH","70% alcohol",0,1
 "70& EtOH","70% alcohol",0,1
 "74 UNDET.","undetermined",0,1
+"75% L astragalus.",,0,0
+"7th R costal.",,0,0
 "9 PIECES OF SHELL.","shell fragments",0,1
 "9/10 L dentary p3 p4 m1 m2 m3; 2/3 R dentary i1 p3 p4 m1 m2",,0,0
 "95% ETOH","95% alcohol",0,1
 "AC","alcoholic carcass (body carcass)",0,1
 "ACETABULAR AREA R",,0,0
+"Acetabular region and basal ilium.",,0,0
 "ACETABULAR REGION AND ISCHIUM OF L INNOMINATE.",,0,0
 "Acetabular region L innominate.",,0,0
 "Acetabular region R innominate.",,0,0
@@ -162,6 +182,7 @@
 "AL+T+ECTO","alcoholic, ectoparasite, tissue",0,1
 "AL+T+ECTO +CH","alcoholic, chromosomes, ectoparasite, tissue",0,1
 "AL+T+ECTO+CH","alcoholic, chromosomes, ectoparasite, tissue",0,1
+"Alar digit three.",,0,0
 "alc","alcoholic",0,1
 "alcFluid, skull, tissue","alcoholic, fluid, skull, tissue",0,1
 "alcFluid, tissue","alcoholic, fluid, tissue",0,1
@@ -174,6 +195,8 @@
 "alcohol - head only","alcoholilc carcass",0,1
 "alcohol & glycerol; skeleton",,0,0
 "alcohol (6 juvenile)",,0,0
+"alcohol ?",,0,0
+"alcohol, skull",,0,0
 "alcoholic","alcoholic",1,1
 "ALCOHOLIC AND DRY INDIVIDUAL PRIMARIES AND SECONDARIES","alcoholic, dry primaries, dry secondaries",0,1
 "ALCOHOLIC AND DRY INDIVIDUAL PRIMARIES AND SECONDARIES, tissue","alcoholic, dry primaries, dry secondaries, tissue",0,1
@@ -205,6 +228,7 @@
 "Aliz. Skel., Skin","alizarin skeleton, skin",0,1
 "Aliz. Skeleton","alizarin skeleton",0,1
 "an","anatomical",0,1
+"anchylosed vertebrae",,0,0
 "Angular process.",,0,0
 "Angular.",,0,0
 "ANGULAR/ARTICULAR REGION MANDIBLE R",,0,0
@@ -212,6 +236,9 @@
 "ANT DENTARY I/1 M/1-2 L",,0,0
 "Ant R dentary w post 1/2 p3.",,0,0
 "ANT SKULL WITH R I1/-M2/,  L U3/-M3/",,0,0
+"Anterio-dorsal L dentary m/1, m/2.",,0,0
+"Anterior (?) phalanx III.",,0,0
+"Anterior (cf.) phalanx I.",,0,0
 "Anterior 1/2 L dentary w i/1-m/2",,0,0
 "Anterior 1/2 L dentary w p/3-4",,0,0
 "Anterior 1/2 skull w L i1/",,0,0
@@ -237,17 +264,20 @@
 "Anterior 4/5 R dentary p/3 p/4 m/1 m/2.",,0,0
 "Anterior 9/10 R dentary",,0,0
 "Anterior and central skull L I1/ P4/ M2/ M3/; R P4/.",,0,0
+"Anterior and posterior L dentary i/1.",,0,0
 "Anterior axis",,0,0
 "Anterior beak.",,0,0
 "Anterior bill.",,0,0
 "Anterior carapace, through L peripheral 5. 
 
 R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
+"Anterior carapace, through L peripheral 5. R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior cheektooth.",,0,0
 "Anterior dentary i/1 m/1 m/2.",,0,0
 "Anterior dentary i/1 m/1.",,0,0
 "Anterior dentary m/1.",,0,0
 "Anterior dentary p/3 p/4 m/1 m/2",,0,0
+"Anterior dentary.",,0,0
 "Anterior dorsal R dentary m/1 m/2.",,0,0
 "ANTERIOR EDGE STERNAL KEEL.",,0,0
 "Anterior edge sternum.",,0,0
@@ -256,9 +286,11 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior end bill.",,0,0
 "Anterior end dentary.",,0,0
 "Anterior end L dentary.",,0,0
+"Anterior end of sternum.",,0,0
 "Anterior end R dentary.",,0,0
 "Anterior end R scapula.",,0,0
 "Anterior end sternum.",,0,0
+"Anterior face of incisor.",,0,0
 "Anterior face proximal half metatarsal III/IV.",,0,0
 "Anterior fifth R dentary.",,0,0
 "Anterior four/fifths L dentary",,0,0
@@ -271,16 +303,21 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior half carnassial.",,0,0
 "Anterior half incisor.",,0,0
 "Anterior half innominate.",,0,0
+"Anterior half L dentary  i/1 p/4.",,0,0
+"Anterior half L dentary i/1 broken m/1.",,0,0
 "Anterior half L dentary i/1 m/1 m/2 m/3.",,0,0
 "Anterior half L dentary i/1 m/1.",,0,0
 "Anterior half L dentary i/1.",,0,0
 "Anterior half L dentary i/1; L m/1.",,0,0
+"Anterior half L dentary i/1; molar(2).",,0,0
 "Anterior half L dentary m/1 m/2.",,0,0
 "Anterior half L dentary m/1.",,0,0
+"Anterior half L dentary p/3 p/4 m/1 m/2.",,0,0
 "Anterior half L dentary p/3 p4 m/1 m/2.",,0,0
 "Anterior half L dentary p/4 m/1 m/2.",,0,0
 "Anterior half L dentary p/4 m/1.",,0,0
 "Anterior half L dentary.",,0,0
+"Anterior half L dentary; molar (8).",,0,0
 "ANTERIOR HALF L HYPOPLASTRON.",,0,0
 "Anterior half L innominate.",,0,0
 "Anterior half L m/1.",,0,0
@@ -292,10 +329,14 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior half R dentary i/1 m/2.",,0,0
 "Anterior half R dentary i/1 p/3 p/4 m/1 m/2.",,0,0
 "Anterior half R dentary i/1 p/4 m/1.",,0,0
+"Anterior half R dentary i/1.",,0,0
 "Anterior half R dentary i/2 p/4 m/1 m/2.",,0,0
+"Anterior half R dentary m/1 m/2 m/3.",,0,0
+"Anterior half R dentary m/1 m/2.",,0,0
 "Anterior half R dentary m/2.",,0,0
 "Anterior half R dentary p/3 p/4 m/1 m/2 m/3.",,0,0
 "Anterior half R dentary p/3 p/4 m/1.",,0,0
+"Anterior half R dentary p/3.",,0,0
 "Anterior half R dentary p/4 m/1.",,0,0
 "Anterior half R dentary p/4.",,0,0
 "Anterior half R dentary.",,0,0
@@ -305,10 +346,12 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior half skull L I1/ R and L M1/ M2/",,0,0
 "Anterior half skull L P4/ M1/ M2/ M3/.",,0,0
 "Anterior half skull L P4/.",,0,0
+"Anterior half skull R and L P4/ M1/ M2/ M3/.",,0,0
 "Anterior half skull R I1/ (broken) M1/ M2/ M3, L I1/ (broken) M1/ M2/ M3/.",,0,0
 "Anterior half skull R I1/ L I1/.",,0,0
 "Anterior half skull R I1/ M1/ M2/ M3, L I1/ M1/ M2/ M3/.",,0,0
 "Anterior half skull R I1/ M1/ M2/ M3, L M1/ M2/ M3/.",,0,0
+"Anterior half skull R I1/ M1/ M2/ M3/, L I1/ M1/ M2/ M3/.",,0,0
 "Anterior half skull R I1/ M1/ M2/; L I1/ M2/.",,0,0
 "Anterior half skull R I1/ M1/; L i1/ M1/ M3/.",,0,0
 "Anterior half skull R M1/ M2/ M3, L M1/ M2/ M3/.",,0,0
@@ -327,6 +370,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior L dentary i/1 p/3.",,0,0
 "Anterior L dentary i/1 p/4.",,0,0
 "Anterior L dentary i/1 u/1 u/2 p/4 m/1 m/2 m/3.",,0,0
+"Anterior L dentary I/1 U/1-2 M/1-3 ANT L",,0,0
 "Anterior L dentary i/1.",,0,0
 "Anterior L dentary i/2 i/3 c/1 p/2 p/3 p/4 m/1 /2.",,0,0
 "Anterior L dentary i1; molar(2).",,0,0
@@ -347,14 +391,19 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior L dentary w M1/ M2/ M3/.",,0,0
 "Anterior L dentary with alveolus for p/3.",,0,0
 "Anterior L dentary, i/1 p/3 p/4 m/1 m/2 m/3.",,0,0
+"Anterior L dentary, portion of lateral wall missing.",,0,0
+"Anterior L dentary, roots p/3.",,0,0
 "Anterior L dentary.",,0,0
 "Anterior L dentary; anterior three-quarters R dentary m/1?",,0,0
+"Anterior L dentary; various",,0,0
 "Anterior L ilium.",,0,0
 "Anterior L innominate.",,0,0
 "Anterior L m/1.",,0,0
 "Anterior L PH 1.",,0,0
+"Anterior L phalanx I.",,0,0
 "Anterior L quadrant skull C1/ P2/ P3/ P4/ M1/ M2/ M3/.",,0,0
 "Anterior L scapula.",,0,0
+"Anterior lateral side R scapula.",,0,0
 "Anterior lower mandible.",,0,0
 "Anterior lower mandibles.",,0,0
 "Anterior m/1.",,0,0
@@ -365,24 +414,32 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior one-half R dentary m/1.",,0,0
 "Anterior one-quarter L dentary.",,0,0
 "Anterior one-quarter R dentary.",,0,0
+"Anterior one-third axis.",,0,0
 "Anterior one-third L dentary m/1.",,0,0
 "Anterior one-third L dentary.",,0,0
 "Anterior one-third R dentary m/1.",,0,0
 "Anterior one-third R dentary p/3.",,0,0
 "Anterior one-third R dentary.",,0,0
+"Anterior PH 1.",,0,0
+"Anterior phalanx I.",,0,0
 "ANTERIOR PORT. OF SK","partial skull",0,1
 "Anterior portion L dentary m/1 m/2 m/3.",,0,0
+"Anterior portion L dentary m/1.",,0,0
 "Anterior portion L dentary p/4.",,0,0
 "Anterior portion L dentary.",,0,0
 "Anterior portion L metacarpal.",,0,0
+"Anterior portion proximal end of L metatarsal.",,0,0
 "Anterior portion R dentary i/1 m/1 m/2 m/3.",,0,0
 "Anterior portion R dentary m/1 m/2 m/3.",,0,0
 "Anterior portion R dentary.",,0,0
+"Anterior portion skull R I1/ L I1/.",,0,0
 "Anterior portion skull w R P2/ P3/ P4/ M1/ M2/ M3/.",,0,0
 "Anterior portion sternum.",,0,0
 "ANTERIOR POST-CRANIUM (DRY)","anterior post-cranium",0,1
 "Anterior quarter R dentary.",,0,0
 "Anterior R and L dentary  R d/1 d/2 d/3 L d/1 d/2 d/3, unerupted R and L  i/1 i/2 i3/ in place",,0,0
+"Anterior R and L dentary  R d/1 d/2 d/3 L d/1 d/2 d/3, unerupted R and L  i/1 i/2 i3/ in place.",,0,0
+"Anterior R and L premaxilla.",,0,0
 "Anterior R dentary (part), posterior p/3.",,0,0
 "Anterior R dentary i/1",,0,0
 "Anterior R dentary i/1 i/2 i/3 p/3 p/4 m/1.",,0,0
@@ -397,6 +454,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior R dentary i/1 u/1 u/2 m/1.",,0,0
 "Anterior R dentary i/1 u/2 m/1.",,0,0
 "Anterior R dentary i/1.",,0,0
+"Anterior R dentary m/1 m/2 m/3.",,0,0
 "Anterior R dentary m/1 m/2.",,0,0
 "Anterior R dentary m/1.",,0,0
 "Anterior R dentary m/2.",,0,0
@@ -422,6 +480,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "ANTERIOR R ISCHIUM.",,0,0
 "Anterior R m/1.",,0,0
 "Anterior R maxilla M1/.",,0,0
+"Anterior R maxilla.",,0,0
 "Anterior R PH I.",,0,0
 "Anterior R phalanx I.",,0,0
 "Anterior R scapula",,0,0
@@ -432,6 +491,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior skull L I1/ M1/ M2/ M3/ R I1; M1/ M2/ M3/.",,0,0
 "Anterior skull L I1/ M1/ M2/ M3/, R M1/ M2/ M3/.",,0,0
 "ANTERIOR SKULL L I1/ U2-3/ P4-M2/, R I1/ U3/ P4-M2/",,0,0
+"Anterior skull L M1/ M2/, R M1/ M2/ M3/.",,0,0
 "Anterior skull L M2/ M3/; R M2/.",,0,0
 "Anterior skull L P4/, M2-3/; R M1-2/.",,0,0
 "ANTERIOR SKULL L U1-M2/, R U2-M3/",,0,0
@@ -476,22 +536,28 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior skull, nasals and zygomatic arches missing.  L I1/ DP3/ DP4/ M1/ M2/ M3/; R DP/4 M1/ M2/ M3/.",,0,0
 "Anterior skull, no nasals, R I1 I2 P2 P3 P4 M1 M2 M3; l I1 I2 P4 M1",,0,0
 "Anterior skull, portions R M1-2",,0,0
+"Anterior skull, R and L I1/ I2/ C1/ P3/ P4/ M1/ M2/ M3/, L canine broken.",,0,0
 "Anterior skull, R I1/, L I1/.",,0,0
 "Anterior skull.",,0,0
 "Anterior skull; L dentary.",,0,0
 "Anterior sternal rib?",,0,0
+"Anterior sternum and sternal fragment.",,0,0
 "Anterior sternum.",,0,0
 "ANTERIOR SYNSACRAL VERTEBRAE.",,0,0
 "ANTERIOR SYNSACRUM AND PORTION R ILIUM.",,0,0
 "ANTERIOR SYNSACRUM.",,0,0
 "Anterior third L dentary p/3 m/1.",,0,0
+"Anterior third L dentary p/3.",,0,0
 "Anterior third R dentary.",,0,0
+"Anterior third skull R P4/ L P4/.",,0,0
 "Anterior three-quarters L dentary i/1 p/3 p/4 /1 m/2 m/3.",,0,0
 "Anterior three-quarters L dentary i/1 p/3 p/4 m/1 m/2.",,0,0
 "Anterior three-quarters L dentary m/1 m/2.",,0,0
 "Anterior three-quarters L dentary part of ventral border missing) p/3 p/4 m/1.",,0,0
 "Anterior three-quarters L dentary.",,0,0
 "Anterior three-quarters R dentary i/1 m/1 m/2.",,0,0
+"Anterior three-quarters R dentary m/1.",,0,0
+"Anterior three-quarters R dentary p/4.",,0,0
 "Anterior three-quarters R dentary u/2 m/1  m/2 m/3.",,0,0
 "Anterior three-quarters skull R I1/ M1/ M2/ M3, L I1/ M1/ M2/ M3/.",,0,0
 "Anterior tip bill.",,0,0
@@ -505,6 +571,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior two-thirds L dentary i/1 m/1.",,0,0
 "Anterior two-thirds L dentary i/1 p/2 p/3 p/4 and anterior R dentary  i/1 p/2 p/3 p/4.",,0,0
 "Anterior two-thirds L dentary i/1 p/3 p/4 m/1 m/2.",,0,0
+"Anterior two-thirds L dentary i/1 p/3 p/4.",,0,0
 "Anterior two-thirds L dentary i/1 p/4 m/1 m/2.",,0,0
 "Anterior two-thirds L dentary i/1.",,0,0
 "Anterior two-thirds L dentary m/1 m/2 m/3.",,0,0
@@ -516,6 +583,8 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior two-thirds L dentary p/4 m/1 m/2 m/3.",,0,0
 "Anterior two-thirds L dentary p/4 m/1 m/2.",,0,0
 "Anterior two-thirds L dentary.",,0,0
+"Anterior two-thirds L m/3.",,0,0
+"Anterior two-thirds R dentary i/1 m/1 m/2.",,0,0
 "Anterior two-thirds R dentary i/1.",,0,0
 "Anterior two-thirds R dentary m/1 m/2 m/3.",,0,0
 "Anterior two-thirds R dentary m/2.",,0,0
@@ -537,6 +606,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anterior-most  L dentary and two-thirds R dentary with R p/4 m/1.",,0,0
 "AnteriorR dentary m/1 m/2.",,0,0
 "Antero-dorsal L dentary m/1 m/2.",,0,0
+"Antero-dorsal L dentary m/1.",,0,0
 "ANTEROLATERAL FRAGMENT OF L HYOPLASTRON.",,0,0
 "ANTEROLATERAL L HYPOPLASTRON.",,0,0
 "ANTEROLATERAL PORTION L STERNUM.",,0,0
@@ -545,6 +615,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "ANTEROMEDIAL L HYPOPLASTRON.",,0,0
 "ANTEROR SKULL, ALL DENTITION EXCEPT R I1/ ANT",,0,0
 "Anteror-dorsal half L dentary, distal half m/1.",,0,0
+"Antero-ventral half skull.",,0,0
 "Anteroventral R scapula.",,0,0
 "antler","antler",0,1
 "Antler (abnormal).","antler (abnormal)",0,1
@@ -553,14 +624,17 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "ANTLER HALF BASE","antler base",0,1
 "Antler Only","antler",0,1
 "ANTLER SEGMENT","antler segment",0,1
+"Antler segment.",,0,0
 "Antler velvet","antler velvet",1,1
 "antler, left","left antler",0,1
 "antler, right","right antler",0,1
 "Antler.","antler",0,1
 "Antlers","antlers",0,1
+"antlers (9 sets)",,0,0
 "Antlers/mandible","antlers, mandible",0,1
 "antlers; skull cap","antlers, skull cap",0,1
 "AO","alcoholic other (partial specimen)",0,1
+"Approximately 6-inch segment antler.",,0,0
 "Approximately half R calcaneum.",,0,0
 "ARMOR AND SKEL.","armor, skeleton",0,1
 "Articular area R mandible.",,0,0
@@ -590,6 +664,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Astragalus.","astragalus",0,1
 "ASTRAGALUS; TOOTH FRAGS",,0,0
 "at","at",0,1
+"atlas and axis",,0,0
 "ATLAS HALF",,0,0
 "ATLAS HALF L",,0,0
 "ATLAS ONE-THIRD",,0,0
@@ -603,6 +678,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "AUDITORY BULLA R",,0,0
 "Auditory bulla.",,0,0
 "AUDITORY COMPLEX INC MALLEUS INCUS",,0,0
+"Auditory complex including malleus, incus.",,0,0
 "AUDITORY COMPLEX R",,0,0
 "AUDITORY REGION",,0,0
 "AXIAL SKELETON AND FLUID SKIN AND HEAD","axial skeleton, fluid skin, fluid head",0,1
@@ -670,10 +746,12 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "BONE FRAGS. O.","bone fragments",0,1
 "BONE LARGE",,0,0
 "BONE; EGGSHELL",,0,0
+"bones",,0,0
 "BRAINCASE",,0,0
 "Braincase.",,0,0
 "Braincase?",,0,0
 "Breast skin",,0,0
+"Bridge element (?).",,0,0
 "BS","body skeleton",0,1
 "BULLA","bulla",0,1
 "BULLA/MASTOID AREA R",,0,0
@@ -757,6 +835,8 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Ca. 7th haemapophysis.",,0,0
 "Ca. half of carapace, most of plastron, limb one.",,0,0
 "Ca. half R diaphysis tibiotarsus.",,0,0
+"Ca. half tibiofibula.",,0,0
+"Ca. L m/1.",,0,0
 "CA. ONE-HALF INCH SEGMENT COSTAL NEAR MEDIAL END; SLIVER OF SIDE OF COSTAL MARGI",,0,0
 "CA. ONE-HALF LATERAL METAPODIAL, NO EPIPHYSIS.",,0,0
 "CA. ONE-HALF PERIPHERAL.",,0,0
@@ -764,7 +844,9 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "CA. ONE-THIRD CERVICAL VERTEBRA, IMM.",,0,0
 "Ca. one-third R dentary with erupting m/2 or m/3.",,0,0
 "Ca. three-quarters R carpometacarpus.",,0,0
+"Ca. three-quarters scapula.",,0,0
 "CA. TWO-THIRDS L TIBIOTARSUS, AD.",,0,0
+"Ca. two-thirds R DP3/ or DP4/.",,0,0
 "ca. two-thirds R m/1 or m/2.",,0,0
 "Calcaneal epiphysis.",,0,0
 "CALCANEUM & PARTIAL FIBULA",,0,0
@@ -799,11 +881,13 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "CARAPACE PIECES:  ALL COSTALS, ALL NEURALS, NUCHAL, 
 
 R PERIPHERALS 2 - 3.",,0,0
+"CARAPACE PIECES:  ALL COSTALS, ALL NEURALS, NUCHAL, R PERIPHERALS 2 - 3.",,0,0
 "CARAPACE PORT (4 ARTICULATED SCUTES",,0,0
 "Carapace, plastron",,0,0
 "carcassFluid, skelSkeleton, skin, skull, tissue","carcass, fluid, skeleton, skin, skull, tissue",0,1
 "carcassFluid, skin, skull, tissue","carcass, fluid, skin, skull, tissue",0,1
 "CARPAL  (?MAGNUM)",,0,0
+"Carpal (? magnum).",,0,0
 "Carpal.",,0,0
 "CARPOMETACARPUS DIST L",,0,0
 "CARPOMETACARPUS DIST R",,0,0
@@ -812,6 +896,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "CARPOMETACARPUS ONE-FOURTH R",,0,0
 "CARPOMETACARPUS PROX HALF",,0,0
 "CARPOMETACARPUS PROX PORT L",,0,0
+"Carpometacarpus, metacarpal III missing.",,0,0
 "CARPOMETACARPUS, ULNA, RADIUS, HUMERUS DIST END",,0,0
 "Carpometacarpus.",,0,0
 "Carpometacarpus; distal half humerus.",,0,0
@@ -828,9 +913,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Central 80% R dentary with m1-3.",,0,0
 "CENTRAL DIAPHYSIS L (?) HUMERUS.",,0,0
 "CENTRAL DIAPHYSIS R TIBIOFIBULA.",,0,0
+"Central dorsal L dentary p/3 p/4 m/1.",,0,0
 "Central half L dentary .",,0,0
 "Central L dentary m/1 m/2 m/3.",,0,0
 "Central L dentary m/1/ m/2.",,0,0
+"Central L dentary m/1m/2.",,0,0
 "Central L dentary p/3 p/4 m/1 m/2.",,0,0
 "Central L dentary p/4 m/1 m/2 m/3.",,0,0
 "Central L dentary p/4 m/1 m/2.",,0,0
@@ -838,6 +925,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "CENTRAL L PHALANX III.
 
 ",,0,0
+"CENTRAL L PHALANX III.",,0,0
 "Central one-fourth L dentary.",,0,0
 "Central one-third L dentary m/1 m/2.",,0,0
 "Central one-third L dentary p/4 m/1 m/2 m/3.",,0,0
@@ -848,22 +936,30 @@ R PERIPHERALS 2 - 3.",,0,0
 "Central portion femur shaft.",,0,0
 "CENTRAL PORTION L CALCANEUM, IMM.",,0,0
 "Central portion L dentary m/1 m/2 m/3.",,0,0
+"Central portion L dentary m/1 m/2.",,0,0
 "Central portion L dentary p/3 m/2.",,0,0
 "Central portion L dentary p/3 m/4 m/1.",,0,0
+"Central portion L dentary p/3 p/4 m/1 m/2 m/3.",,0,0
 "Central portion L dentary p/4.",,0,0
 "Central portion L dentary p2, p3, m1.",,0,0
+"Central portion L dentary, m/1 m/2 m/3.",,0,0
+"Central portion L dentary, posterior portion m/1 m/2 m/3.",,0,0
 "Central portion L dentary.  p/4 m/1 m/2 m/3.",,0,0
 "Central portion L dentary. p/4 m/1.",,0,0
 "Central portion L ilium.",,0,0
 "Central portion L innominate, including ishchium; sacrum; posterior lumbar vertebra.",,0,0
 "Central portion L innominate.",,0,0
 "Central portion L m/1.",,0,0
+"Central portion L scapula.",,0,0
 "Central portion of L dentary from posterior alveolus of c/1 to just posterior of alveolus of m/3.",,0,0
 "Central portion of R dentary m/1 m/2 m/3.",,0,0
 "Central portion of skull R M2, L M1, M2",,0,0
+"Central portion of skull.",,0,0
 "Central portion R dentary m/1 m/2 m/3.",,0,0
 "Central portion R dentary m1.",,0,0
+"Central portion R dentary p/2 p/3 p/4 m/1 m/2 m/3.",,0,0
 "Central portion R dentary p/3 p/4 m/1 m/2.",,0,0
+"Central portion R dentary p/3 p/4 m/1 m/3.",,0,0
 "Central portion R dentary p/4 m/1 m/2 m/3.",,0,0
 "Central portion R dentary p/4 m1.",,0,0
 "Central portion R dentary p4 m/1.",,0,0
@@ -871,6 +967,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Central portion R dentary.",,0,0
 "Central portion R dentary.  p/4 m/1 m/2 m/3.",,0,0
 "Central portion R dentary. p/3 p/4 m/1.",,0,0
+"Central portion R innominate.",,0,0
 "CENTRAL PORTION R SCAPULA.",,0,0
 "Central portion R ulna.",,0,0
 "Central portion R unerupted lower cheektooth.",,0,0
@@ -885,7 +982,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "CENTRAL R PHALANX III.
 
 ",,0,0
+"CENTRAL R PHALANX III.",,0,0
 "CENTRAL R TARSOMETATARSUS WITH SPUR, AD.",,0,0
+"Central segment R dentary m/1.",,0,0
 "CENTRAL SEGMENT SYNSACRUM.",,0,0
 "Central skull R M1/ M2/; L M1/ M2/.",,0,0
 "Central skull.",,0,0
@@ -901,6 +1000,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Cervical vertebrae","cervical vertebrae",1,1
 "CF. ARTICULAR",,0,0
 "Cf. coracoid.",,0,0
+"Cf. deciduous incisor.",,0,0
 "CF. DORSAL FIN SUPPORT.",,0,0
 "CF. L COSTAL 6.",,0,0
 "CF. L FEMUR THROUGH THIRD TROCHANTER.",,0,0
@@ -920,6 +1020,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "CF. R COSTAL 5 OR 6.",,0,0
 "CF. R COSTAL 6.",,0,0
 "CF. R FIBULA.",,0,0
+"Cf. R M1 M2.",,0,0
 "cf. R p/4.",,0,0
 "cf. R P4/",,0,0
 "CF. SKULL PART.",,0,0
@@ -931,15 +1032,19 @@ R PERIPHERALS 2 - 3.",,0,0
 "CHEEK TEETH (ISOLATED)",,0,0
 "CHEEK TOOTH",,0,0
 "CHEEK TOOTH FRAG",,0,0
+"Cheek tooth fragments.",,0,0
 "CHEEK TOOTH UPPER FRAG",,0,0
 "CHEEK TOOTH UPPER R",,0,0
 "CHEEK TOOTH UPPER; CHEEK TOOTH LOWER",,0,0
+"Cheek tooth, M3/.",,0,0
+"Cheek tooth.",,0,0
 "CHEEKTEETH 2 FRAGS UPPER",,0,0
 "CHEEKTEETH LOWER L",,0,0
 "CHEEKTEETH LOWER R",,0,0
 "CHEEKTEETH UPPER 3 RIGHT",,0,0
 "Cheekteeth.",,0,0
 "CHEEKTOOTH & JAW FRAGS",,0,0
+"Cheektooth (2); dentary (3).",,0,0
 "CHEEKTOOTH (20), MAXILLA PORT R, DENTARY (2)",,0,0
 "CHEEKTOOTH (24 DECID OR VERY YNG)",,0,0
 "Cheektooth (3).",,0,0
@@ -1022,6 +1127,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "cleared and stained, fluid",,0,0
 "cleared and stained, fluid, tissue",,0,0
 "cleared and stained, osteo",,0,0
+"Cleared and Stained, Skin",,0,0
+"Cleared and Stained, Skull, Skin",,0,0
 "CLEARED AND STAINED, SOFT PARTS IN ALCOHOL","cleared and stained, soft parts in alcohol",0,1
 "cleared and stained, tissue",,0,0
 "cleared and stained, tissue, fluid, tissue",,0,0
@@ -1081,6 +1188,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "COMPOUND BONE",,0,0
 "COMPOUND BONE FRAGMENT",,0,0
 "Condyle metapodial.",,0,0
+"Condyloid process of dentary.",,0,0
 "CONDYLOID PROCESS R",,0,0
 "Coosified PH I and II, digit I.",,0,0
 "Coossified PH I and II, digit 1.",,0,0
@@ -1115,6 +1223,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "CORACOID, HUMERUS EXC DIST, SCAPULA ANT HALF",,0,0
 "Coracoid, vertebra.",,0,0
 "Coracoid.",,0,0
+"Coronoid and articular processes region.",,0,0
 "CORONOID PROCESS",,0,0
 "Coronoid process of L dentary.",,0,0
 "COSTAL 4TH (?) R",,0,0
@@ -1161,6 +1270,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "DD",,0,0
 "DECIDUOUS CANINE",,0,0
 "DECIDUOUS INCISOR",,0,0
+"Deciduous incisor, complete and half.",,0,0
+"Deciduous incisor.",,0,0
+"Deciduous premolar, unworn.",,0,0
+"Deciduous R lower premolar.",,0,0
+"Deciduous R upper premolar.",,0,0
+"Dehydrated",,0,0
 "DENARY ALL TEETH L",,0,0
 "DENATRY PARTIAL P/4 L",,0,0
 "DENT FRAG L",,0,0
@@ -1172,8 +1287,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "DENTARY","dentary",0,1
 "DENTARY  ALL DENTITION R",,0,0
 "DENTARY  ALL TEETH L",,0,0
+"Dentary  and cheek tooth fragments.",,0,0
 "DENTARY  I/1 M/1-3 R",,0,0
 "DENTARY  I/1 P/4-M/3 R",,0,0
+"Dentary  p/2 p/3 p/4 m,/1 m/2 m/3.",,0,0
 "DENTARY  P/3-4 M/3 R",,0,0
 "DENTARY  P/4 M/1-3 PORT R",,0,0
 "DENTARY  P2  P3  P4  M1  M2  M3",,0,0
@@ -1185,6 +1302,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "DENTARY (14), M/1",,0,0
 "Dentary (16),cheektooth (20).",,0,0
 "DENTARY (2), M/1, M/2",,0,0
+"Dentary (2); m/2.",,0,0
 "Dentary (2); molar (7).",,0,0
 "DENTARY (2); P/3 (6)",,0,0
 "DENTARY (2); PALATE (3); PREMAXILLA PR",,0,0
@@ -1199,6 +1317,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Dentary (3); palate (2); m/2.",,0,0
 "DENTARY (4); P/3 (4)",,0,0
 "Dentary (5 with 7 molars).",,0,0
+"Dentary (5); molar 3).",,0,0
 "Dentary (5); pair frontals.",,0,0
 "Dentary (6); maxillla.",,0,0
 "Dentary (6); molar (6).",,0,0
@@ -1368,6 +1487,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "DENTARY FRAG VENTRAL L",,0,0
 "DENTARY FRAG, CHEEKTOOTH (15)",,0,0
 "DENTARY FRAG, SCAPULA PROX, ULNA",,0,0
+"Dentary fragments.",,0,0
 "DENTARY FRAGS",,0,0
 "DENTARY FRAGS P/2 M/1 PORT L",,0,0
 "DENTARY FRAGS P/4 M/1-2 PORT L",,0,0
@@ -1519,6 +1639,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "DENTARY L I/1 M/1-2 L",,0,0
 "DENTARY L I/1 P/3-4 M/1-2",,0,0
 "DENTARY L I/1-2, R I/1-3 ANT",,0,0
+"DENTARY L I/1-2, R I/1-3 ANT  Anterior end R an L dentary, L i/1 i/2, R i/1 i/2 i/3.",,0,0
 "DENTARY L, DENTARY POST HALF L",,0,0
 "DENTARY L, L M/2, L M/3",,0,0
 "DENTARY L, MAXILLA M2/, MOLAR",,0,0
@@ -1861,6 +1982,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Dentary, number of teeth variable",,0,0
 "Dentary, p/4 m/1 m/2.",,0,0
 "Dentary, portion m/1.",,0,0
+"Dentary, roots of two teeth.",,0,0
 "Dentary, tooth.",,0,0
 "Dentary, vertebra (3).",,0,0
 "Dentary.",,0,0
@@ -1871,6 +1993,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Dentary; maxilla.",,0,0
 "DENTARY; MAXILLA; TOOTH; DENTARY FR",,0,0
 "DENTARYP/4-M/3 L",,0,0
+"dentition",,0,0
 "DI/2 L",,0,0
 "DI1/ R",,0,0
 "Diaphysis and proximal epiphysis R tibia.",,0,0
@@ -1891,6 +2014,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Diaphysis radius.",,0,0
 "Diaphysis tibia.",,0,0
 "Diaphysis tibiotarsus.",,0,0
+"Diaphysys L tibia.",,0,0
+"Diaphysys R humerus.",,0,0
+"Diastema and anterior alveoli R dentary.",,0,0
 "Diet analysis  (231 vials)","stomach contents (231 vials)",0,1
 "digital image, cleared and stained, fluid",,0,0
 "digital image, electric organ discharge recording, fluid, tissue",,0,0
@@ -1927,6 +2053,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal 2/3 R radius, L radius, L MC IV",,0,0
 "DISTAL 2/3 R TIBIOTARSUS.",,0,0
 "Distal 3/4 L tibiofibula",,0,0
+"Distal 4/5 R humerus.",,0,0
 "Distal 4/5 R tarsometatarsus",,0,0
 "DISTAL CA. 80% R (?) RADIUS.",,0,0
 "Distal condyle and fragment of shaft metapodial.",,0,0
@@ -1937,6 +2064,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "DISTAL DIAPHYSIS R HUMERUS.",,0,0
 "DISTAL DIAPHYSIS R TIBIOTARSUS.",,0,0
 "Distal end and partial diaphysis L radius.",,0,0
+"Distal end and proximal end with partial diaphysis, L metatarsal III.",,0,0
 "Distal end diaphysis metapodial III.",,0,0
 "Distal end femur.",,0,0
 "Distal end fibula.",,0,0
@@ -1947,6 +2075,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal end L humerus.",,0,0
 "Distal end L radius",,0,0
 "Distal end L radius.",,0,0
+"Distal end L tarsometatarsus.",,0,0
 "Distal end L tibia",,0,0
 "DISTAL END L TIBIA, NO EPIPHYSIS.",,0,0
 "Distal end L tibia.",,0,0
@@ -1957,10 +2086,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal end L ulna.",,0,0
 "DISTAL END LATERAL METAPODIAL, PHALANX I, IMM.",,0,0
 "DISTAL END LEFT METAPODIAL, NEAR AD.",,0,0
+"Distal end metacarpal III/IV, one condyle missing.",,0,0
 "DISTAL END METAPODIAL III OR IV AND EPIPHYSIS, IMM.",,0,0
 "Distal end metapodial III.",,0,0
 "Distal end metapodial III/IV.",,0,0
+"Distal end metapodial, cf. metacarpal III.",,0,0
 "Distal end metapodial.",,0,0
+"Distal end metatarsal III.",,0,0
 "Distal end metatarsal.",,0,0
 "Distal end phalanx I.",,0,0
 "Distal end R carpometacarpus.",,0,0
@@ -1969,6 +2101,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal end R femur.",,0,0
 "Distal end R humerus.",,0,0
 "Distal end R metacarpal.",,0,0
+"Distal end R metapodial IV.",,0,0
 "DISTAL END R RADIUS.",,0,0
 "Distal end R tarsometatarsus.",,0,0
 "Distal end R tibia.",,0,0
@@ -1998,6 +2131,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal epiphysis L tibia.",,0,0
 "DISTAL EPIPHYSIS METAPODIAL III OR IV, L SIDE OF FOOT.  IMM.",,0,0
 "DISTAL EPIPHYSIS METAPODIAL III OR IV, R SIDE OF FOOT.  IMM.",,0,0
+"Distal epiphysis metapodial III.",,0,0
 "DISTAL EPIPHYSIS METAPODIAL, L SIDE.",,0,0
 "Distal epiphysis metapodial.",,0,0
 "DISTAL EPIPHYSIS OF L METAPODIAL.",,0,0
@@ -2008,6 +2142,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal epiphysis R fibula.",,0,0
 "Distal epiphysis R humerus.",,0,0
 "DISTAL EPIPHYSIS R METAPODIAL III OR IV, IMM.",,0,0
+"Distal epiphysis R tibia.",,0,0
 "Distal femur.",,0,0
 "Distal five-sixth humerus.",,0,0
 "Distal five-sixth R tibiofibula.",,0,0
@@ -2015,8 +2150,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal four-fifths distal tibiotarsus.",,0,0
 "Distal four-fifths humerus.",,0,0
 "Distal four-fifths L ulna.",,0,0
+"Distal four-fifths metatarsal.",,0,0
 "Distal four-fifths R humerus.",,0,0
 "Distal four-fifths tibiotarsus.",,0,0
+"Distal fragment metapodial II or IV.",,0,0
 "Distal fragment of femur",,0,0
 "Distal fragment of humerus",,0,0
 "Distal fragment of maxilla and premaxilla I3/ C1/.",,0,0
@@ -2027,12 +2164,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal fragments humerus",,0,0
 "DISTAL FURCULA.",,0,0
 "Distal half anterior cannonbone.",,0,0
+"Distal half diaphysis L tarsometatarsus.",,0,0
 "DISTAL HALF DIAPHYSIS R FEMUR.",,0,0
 "Distal half femur, no distal epiphyses.",,0,0
 "Distal half femur.",,0,0
 "Distal half humerus, lacking distal end.",,0,0
 "Distal half humerus, no epiphysis.",,0,0
 "Distal half humerus.",,0,0
+"Distal half L calcaneum.",,0,0
 "DISTAL HALF L CARPOMETACARPUS.",,0,0
 "Distal half L dentary m/2 m/3; fragment innominate.",,0,0
 "Distal half L femur except tip.",,0,0
@@ -2041,6 +2180,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal half L humerus.",,0,0
 "Distal half L metacarpal V.",,0,0
 "DISTAL HALF L PHALANX I.",,0,0
+"Distal half L radius and partial ulna.",,0,0
 "DISTAL HALF L TARSOMETATARSUS, 2 CONDYLES MISSING.  MALE.",,0,0
 "DISTAL HALF L TARSOMETATARSUS, MALE.",,0,0
 "Distal half L tarsometatarsus.",,0,0
@@ -2060,6 +2200,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal half R humerus.",,0,0
 "DISTAL HALF R RADIUS.",,0,0
 "DISTAL HALF R TARSOMETATARSUS, PROBABLY MALE.",,0,0
+"Distal half R tarsometatarsus.",,0,0
+"Distal half R tibia.",,0,0
 "Distal half R tibiofibula.",,0,0
 "DISTAL HALF R TIBIOTARSUS, AD.",,0,0
 "DISTAL HALF R TIBIOTARSUS, IMM (?).",,0,0
@@ -2089,9 +2231,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal mandible",,0,0
 "Distal metacarpal.",,0,0
 "Distal metapodial condyle of tarsometatarsus.",,0,0
+"Distal metapodial II or IV.",,0,0
 "Distal metapodial III.",,0,0
 "Distal metapodial, central articular surface missing.",,0,0
 "Distal metapodial.",,0,0
+"Distal nine-tenths L humerus.",,0,0
 "Distal one-fifth L tibia.",,0,0
 "Distal one-fifth metapodial III.",,0,0
 "Distal one-fifth phalanx I.",,0,0
@@ -2099,10 +2243,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal one-fifth R ulna.",,0,0
 "Distal one-fourth humerus.",,0,0
 "Distal one-fourth L tarsometatarsus.",,0,0
+"Distal one-fourth R tarsometatarsus.",,0,0
+"Distal one-fourth R tibia.",,0,0
 "Distal one-fourth radius.",,0,0
 "Distal one-half tibiofibula.",,0,0
 "Distal one-quarter L ulna.",,0,0
 "Distal one-quarter metatarsal V.",,0,0
+"Distal one-quarter R tarsometatarsus.",,0,0
 "Distal one-quarter R tibiofibula.",,0,0
 "Distal one-quarter tibiofibula.",,0,0
 "Distal one-sixth L ulna.",,0,0
@@ -2110,10 +2257,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal one-third humerus.",,0,0
 "Distal one-third L  ulna.",,0,0
 "Distal one-third L carpometacarpus.",,0,0
+"Distal one-third L coracoid.",,0,0
 "Distal one-third L humerus",,0,0
 "Distal one-third L humerus.",,0,0
+"Distal one-third L metatarsal III.",,0,0
 "Distal one-third L radius.",,0,0
+"Distal one-third L tarsometatarsus.",,0,0
 "Distal one-third L tibia.",,0,0
+"Distal one-third L tibiotarsus.",,0,0
 "DISTAL ONE-THIRD LATERAL METAPODIAL, NO EPIPHYSIS,",,0,0
 "Distal one-third metacarpals III/IV.",,0,0
 "Distal one-third metapodial III/IV.",,0,0
@@ -2124,6 +2275,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal one-third R tibiofibula.",,0,0
 "Distal one-third R tibiotarsus.",,0,0
 "Distal one-third radius.",,0,0
+"Distal one-third shaft metatarsal III.",,0,0
 "Distal one-third ulna.",,0,0
 "Distal phalanx I.",,0,0
 "Distal portion  of tibia",,0,0
@@ -2138,6 +2290,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal portion of tibia",,0,0
 "Distal portion of ulna",,0,0
 "Distal portion of ulna and radius",,0,0
+"Distal portion R tarsometatarsus, medial condyle missing.",,0,0
 "Distal portion R tibia.",,0,0
 "Distal portion R tibiotarsus.",,0,0
 "Distal portion shaft tarsometatarsus.",,0,0
@@ -2175,6 +2328,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "DISTAL SHALFT R METAPODIAL III OR IV, IMM.",,0,0
 "Distal tarsometatarsus.",,0,0
 "DISTAL THIRD L HUMERUS, AD.",,0,0
+"Distal third L tarsometatarsus.",,0,0
 "Distal third L ulna.",,0,0
 "DISTAL THIRD R HUMERUS, AD.",,0,0
 "Distal third R humerus.",,0,0
@@ -2182,10 +2336,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal three-fourths femur.",,0,0
 "Distal three-quarters L tibiotarsus.",,0,0
 "Distal three-quarters R tarsometatarsus.",,0,0
+"Distal three-quarters R tibia.",,0,0
 "Distal three-quarters R ulna and fragments.",,0,0
 "Distal tibia.",,0,0
 "Distal tibiotarsus.",,0,0
+"Distal tip femur.",,0,0
 "Distal tip humerus.",,0,0
+"Distal tip L tibiofibula.",,0,0
 "DISTAL TIP L TIBIOTARSUS, IMM.",,0,0
 "Distal tip metapodial III.",,0,0
 "Distal tip metapodial III/IV.",,0,0
@@ -2208,6 +2365,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Distal two-thirds R dentary i/1 p/4 m/1 m/2.",,0,0
 "Distal two-thirds R femur.",,0,0
 "Distal two-thirds R humerus.",,0,0
+"Distal two-thirds R tarsometatarsus.",,0,0
 "Distal two-thirds R tibia.",,0,0
 "DISTAL TWO-THIRDS R TIBIOTARSUS.",,0,0
 "Distal two-thirds R ulna.",,0,0
@@ -2229,11 +2387,17 @@ R PERIPHERALS 2 - 3.",,0,0
 "Dorsal half coracoid",,0,0
 "Dorsal half coracoid.",,0,0
 "Dorsal L coracoid.",,0,0
+"Dorsal portion central R dentary p/4.",,0,0
 "Dorsal portion R coracoid.",,0,0
 "Dorsal portion R furculum.",,0,0
+"Dorsal portion R m/1 (cf.).",,0,0
+"Dorsal skull.",,0,0
 "DORSAL THIRD L CORACOID.",,0,0
 "DORSAL THIRD R CORACOID.",,0,0
+"Dorsal two-thirds L coracoid.",,0,0
+"Dorsal two-thirds L dentary.",,0,0
 "Dorsal, anterior L dentary m/1 m/2 m/3.",,0,0
+"Dorsl portion R furcula.",,0,0
 "DP FRAG R",,0,0
 "DP POST PORT R",,0,0
 "DP R",,0,0
@@ -2469,7 +2633,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Elements, including innominata, cheekteeth, calcanea, tibiofibula, femur, maxilla, metapodial.",,0,0
 "Elements, including tibiofibula, femur, upper cheektooth, humerus",,0,0
 "Elements.",,0,0
-"EM","EM",0,1
+"EM","egg mass",0,1
 "en liquido","fluid",0,1
 "En Líquido","fluid",0,1
 "En Líquido y Cráneo","fluid, skull",0,1
@@ -2534,6 +2698,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Endoparasites; Ectoparasites; Chromosomes; Tissue; Unknown - 1",,0,0
 "Entepicondylar area R humerus.",,0,0
 "ENTOPLASTRON.",,0,0
+"Epiphysis metapodical III (L?).",,0,0
 "EPIPHYSIS OF R PHALANX I, MISSING LEFT SIDE.",,0,0
 "Epiphysis of radius",,0,0
 "Epiphysis phalanx II.",,0,0
@@ -2640,7 +2805,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Feather; Syrinx; Skin; Skel",,0,0
 "Feather; Syrinx; Tissue; Skin; Skel",,0,0
 "Feather; Syrinx; Wings_tail; Tissue; Skin",,0,0
-"Feather; Tissue",,0,0
+"Feather; Tissue","feather, tissue",0,1
 "Feather; Tissue; Skel",,0,0
 "Feather; Tissue; Skin",,0,0
 "Feather; Wings_tail; Flat_skin; Skel",,0,0
@@ -2753,6 +2918,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "FIBULA, IMM.",,0,0
 "Fibula.",,0,0
 "First lumbar vertebrae",,0,0
+"First phalanx second digit of manis.",,0,0
+"FL",,0,0
 "FLAT","flat skin",0,1
 "flat skin","flat skin",1,1
 "flat skin, alcoholic",,0,0
@@ -4203,12 +4370,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid; Tissue; Skin",,0,0
 "FOOT HIND L",,0,0
 "formalin","formalin",1,1
+"Fossette area of upper cheek tooth.",,0,0
 "fossil",,0,0
 "FOUR CERVICAL VERTEBRAE.",,0,0
 "FOUR FRAGMENTS OF SHELL.",,0,0
 "FOUR PHALANGES.",,0,0
 "FOUR RIBS.",,0,0
 "FOUR VERTEBRAE.","vertebrae - 4",0,1
+"FP",,0,0
 "fracción de piel","partial skin",0,1
 "fracción de piel, piel, sangre y muestra de riñón","blood, kidney sample, partial skin",0,1
 "FRAG R DENTARY WITH BROKEN I/1 AND P/4; M/1-2",,0,0
@@ -4218,6 +4387,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fragment ? skull.",,0,0
 "Fragment angular process dentary.",,0,0
 "Fragment anterior face I1/.",,0,0
+"Fragment anterior L dentary m/1.",,0,0
 "Fragment anterior R cannonbone",,0,0
 "Fragment anterior R dentary p/3 p/4.",,0,0
 "Fragment anterior R dentary p/3.",,0,0
@@ -4227,6 +4397,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fragment astragalus.",,0,0
 "Fragment canine.",,0,0
 "Fragment carapace (?).",,0,0
+"Fragment carapace, neural?.",,0,0
 "Fragment carapace, possibly anterolateral hypoplastron.",,0,0
 "Fragment carapace.",,0,0
 "Fragment carnassial.",,0,0
@@ -4236,23 +4407,31 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fragment central portion L dentary m/1 m/2.",,0,0
 "Fragment central portion L dentary p/4.",,0,0
 "Fragment central R dentary m/1 m/2.",,0,0
+"Fragment cheek tooth.",,0,0
 "Fragment cheektooth",,0,0
 "Fragment cheektooth.",,0,0
 "Fragment condyle of metapodial?",,0,0
 "FRAGMENT COSTAL.",,0,0
+"Fragment deciduous lower cheek tooth.",,0,0
+"Fragment deciduous R premolar.",,0,0
 "Fragment dentary (2), M2/.",,0,0
 "Fragment dentary m/1 m/2 m/3.",,0,0
 "Fragment dentary m/1 m/2; molar (2).",,0,0
+"Fragment dentary m/3, fragment of lower  molar.",,0,0
+"Fragment dentary p m/3 m/4.",,0,0
 "Fragment dentary with lower cheektooth.",,0,0
 "Fragment dentary.",,0,0
 "Fragment diastema L dentary.",,0,0
 "Fragment distal diaphysis humerus.",,0,0
 "FRAGMENT DISTAL END COSTAL.",,0,0
 "Fragment distal end L humerus.",,0,0
+"Fragment distal end metapodial III.",,0,0
 "Fragment distal end R femur.",,0,0
 "Fragment distal end R humerus.",,0,0
+"Fragment distal end radius.",,0,0
 "Fragment distal humerus.",,0,0
 "Fragment distal L tibiofibula.",,0,0
+"Fragment distal metapodial III.",,0,0
 "Fragment distal R humerus",,0,0
 "Fragment distal R tibia.",,0,0
 "Fragment frontal.",,0,0
@@ -4261,6 +4440,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fragment hypsodont cheektooth.",,0,0
 "Fragment I1/.",,0,0
 "Fragment ilium.",,0,0
+"Fragment incisor, fragment cheek tooth.",,0,0
 "Fragment innominate.",,0,0
 "Fragment L anterolateral hypoplastron.",,0,0
 "Fragment L deciduous premolar.",,0,0
@@ -4272,6 +4452,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fragment L dentary m/1.",,0,0
 "Fragment L dentary m/2 m/3.",,0,0
 "Fragment L dentary p//3 p/4 m/1 m/2.",,0,0
+"Fragment L dentary p/2 p/3 p/4 m/1.",,0,0
 "Fragment L dentary p/2 p/3 p/4.",,0,0
 "Fragment L dentary p/3 p/4 m/1.",,0,0
 "Fragment L dentary p/3 p/4.",,0,0
@@ -4285,6 +4466,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fragment L dentary w 4 teeth.",,0,0
 "Fragment L dentary w m1, m2",,0,0
 "Fragment L dentary with alveoli c/1-p/4.",,0,0
+"Fragment L dentary with fragment tooth.",,0,0
+"Fragment L dentary, apparently dp/2 dp/3 dp/4.",,0,0
 "Fragment L dentary.",,0,0
 "Fragment L dentary; fragment upper adult cheektooth; 3 immature upper cheekteeth.",,0,0
 "Fragment L dp/3 or dp/4.",,0,0
@@ -4308,13 +4491,17 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fragment lateral portion lower cheektooth.",,0,0
 "Fragment limb bone.",,0,0
 "Fragment long bone.",,0,0
+"Fragment lower cheek tooth.",,0,0
 "Fragment lower cheektooth.",,0,0
+"Fragment lower L cheek tooth.",,0,0
+"Fragment lower R cheek tooth.",,0,0
 "Fragment m/1 or m/2.",,0,0
 "Fragment m/1.",,0,0
 "Fragment maxilla and cheektooth.",,0,0
 "Fragment maxilla L M1/.",,0,0
 "Fragment maxilla.",,0,0
 "Fragment medial costal.",,0,0
+"Fragment metapodial, fragment innominate, fragment cervical vertebra.",,0,0
 "Fragment metapodial.",,0,0
 "Fragment molar.",,0,0
 "Fragment nuchal.",,0,0
@@ -4329,6 +4516,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fragment of innominate: acetabulum",,0,0
 "Fragment of L dentary",,0,0
 "Fragment of L dentary m1, m2",,0,0
+"Fragment of L frontal with horn core.",,0,0
 "Fragment of left innominate, acetabulum",,0,0
 "Fragment of left innominate, ilium.",,0,0
 "Fragment of maxillary",,0,0
@@ -4343,34 +4531,46 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fragment of vertebrae",,0,0
 "Fragment P4.",,0,0
 "Fragment partial L P3/.",,0,0
+"Fragment phalanx III.",,0,0
 "Fragment plastron.",,0,0
 "Fragment proximal articular surface radius.",,0,0
+"Fragment proximal end L metacarpal III.",,0,0
+"Fragment proximal end ulna.",,0,0
 "FRAGMENT PROXIMAL EPIPHYSIS L FEMUR.",,0,0
 "FRAGMENT R ANTEROLATERAL STERNUM.",,0,0
+"Fragment R cuneiform (cf.).",,0,0
 "Fragment R dentary",,0,0
+"Fragment R dentary dp/4.",,0,0
 "Fragment R dentary i/1 m/1.",,0,0
 "Fragment R dentary M/1 m/2 m/3.",,0,0
 "Fragment R dentary m/1 m/2.",,0,0
 "Fragment R dentary m/1.",,0,0
+"Fragment R dentary m/1; m/1.",,0,0
 "Fragment R dentary m/2 m/3.",,0,0
 "Fragment R dentary m/3.",,0,0
+"Fragment R dentary p/2.",,0,0
 "Fragment R dentary p/3.",,0,0
+"Fragment R dentary p/4 m/1 m/2.",,0,0
 "Fragment R dentary p/4 m/1 m/2; isolated lower cheektooth.",,0,0
 "Fragment R dentary p/4.",,0,0
 "Fragment R dentary w m2-3",,0,0
 "Fragment R dentary w p/3-4",,0,0
+"Fragment R dentary, half dp/2 dp/3 dp/4.",,0,0
 "Fragment R dentary, post-p/3 cheektooth.",,0,0
 "Fragment R dentary.",,0,0
 "FRAGMENT R HUMERUS, DELTOID AREA.",,0,0
+"Fragment R I1/.",,0,0
 "Fragment R innominate.",,0,0
 "Fragment R ischium.",,0,0
 "Fragment R lower cheektooth.",,0,0
 "Fragment R m/3",,0,0
+"Fragment R m/3.",,0,0
 "Fragment R M3/.",,0,0
 "Fragment R mandible near symphysis.",,0,0
 "Fragment R maxilla m/1.",,0,0
 "Fragment R maxilla M1/ M2/ M3/.",,0,0
 "Fragment R maxilla M2/.",,0,0
+"Fragment R maxilla p/2 p/3 p/4 m/1.",,0,0
 "FRAGMENT R MAXILLA WITH M1-2/",,0,0
 "Fragment R maxilla with several alveoli.",,0,0
 "Fragment R maxilla.",,0,0
@@ -4380,7 +4580,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fragment R parietal.",,0,0
 "FRAGMENT R SQUAMOSAL AT GLENOID AND ZYGOMATIC ROOT.",,0,0
 "Fragment R ulna.",,0,0
+"Fragment R upper molar.",,0,0
 "Fragment rib.",,0,0
+"Fragment shaft L humerus.",,0,0
 "Fragment shaft long bone.",,0,0
 "Fragment shaft tibia.",,0,0
 "Fragment shaft tibiotarsus; ungual phalanx.",,0,0
@@ -4390,22 +4592,35 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fragment synsacrum.",,0,0
 "Fragment tibia.",,0,0
 "Fragment tooth.",,0,0
+"Fragment toothplate?",,0,0
 "Fragment tusk.",,0,0
+"Fragment unerupted cheek tooth.",,0,0
+"Fragment unerupted L upper cheek tooth.",,0,0
+"Fragment upper cheek tooth.",,0,0
 "Fragment upper cheektooth.",,0,0
 "Fragment upper L cheektooth.",,0,0
 "Fragment vertebra.",,0,0
 "Fragment.",,0,0
+"Fragmentary L dentary dp3/ dp/4 m/1.",,0,0
+"Fragmentary L dentary p/2 p/3 p/4.",,0,0
 "Fragmentary pelvic girdle.",,0,0
+"Fragmentary R dentary p/3 p/4 m/1 m/2.",,0,0
 "FRAGMENTARY R DENTARY WITH M/1-2",,0,0
 "Fragmented skull, assorted fragments of post-cranial elements.",,0,0
 "fragments",,0,0
 "Fragments cheektooth.",,0,0
+"Fragments cheektooth; fragment magnum.",,0,0
 "Fragments I1/.",,0,0
 "Fragments L dentary i/1; 4 cheekteeth.",,0,0
 "Fragments of carapace.",,0,0
 "Fragments of cheekteeth.",,0,0
+"Fragments of incisor.",,0,0
+"Fragments of lower cheek teeth.",,0,0
+"Fragments of proximal radius.",,0,0
 "FRAGMENTS OF TWO ARTICULATING COSTALS, PROBABLY L 5 AND 6.",,0,0
 "Fragments R and L dentary.",,0,0
+"Fragments R dentary p/2 p/3 m/1 m2 m/3.",,0,0
+"Fragments R dentary with cheek tooth.",,0,0
 "Fragments shell, limb bones, girdle elements.",,0,0
 "Fragments shell.",,0,0
 "FREE VERTEBRA.",,0,0
@@ -4414,6 +4629,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FRONTAL & MAXILLA R",,0,0
 "FRONTAL & NASAL PART PR",,0,0
 "FRONTAL & PARIETAL PAIRS",,0,0
+"Frontal (4); maxilla (2).",,0,0
 "Frontal and parietal",,0,0
 "FRONTAL FRAG",,0,0
 "FRONTAL FRAG L",,0,0
@@ -4447,6 +4663,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FRONTOPARIETAL",,0,0
 "FRONTOPARIETAL L",,0,0
 "FRONTOPARIETAL R",,0,0
+"Frontoparietal.",,0,0
 "Frozen","frozen",1,1
 "frozen carcass","frozen carcass",1,1
 "frozen carcass, tissue","frozen carcass, tissue",1,1
@@ -4608,6 +4825,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Glans, Skin, Skull","glans, skin, skull",1,1
 "GLENOID & SQUAMOSAL ROOT ZYGO L",,0,0
 "GLY BODY AND DRY SKULL (GLY AND DRY)","body (glycerin), skull",0,1
+"H",,0,0
 "HA","HA",0,1
 "Haemapophysis, ca. 2nd R.",,0,0
 "HALF CERVICAL VERTEBRA, IMM.",,0,0
@@ -4655,8 +4873,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "HEMIPENE (GLYCERIN)","hemipene (glycerin)",0,1
 "HEMIPENES (GLYCERIN)","hemipenes (glycerin)",0,1
 "HEMIPENIS (GLYCERIN)","hemipenes (glycerin)",0,1
+"HL",,0,0
 "HM","head mount",0,1
-"HO","horn",0,1
+"HO","head",0,1
 "Hoof",,0,0
 "hooves",,0,0
 "horn","horn",1,1
@@ -4670,7 +4889,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "HORNS AND HORN CORES ONLY","horns, horn cores",0,1
 "HORNS O.","horns",0,1
 "Horns only",,0,0
-"HT","HT",0,1
+"HP",,0,0
+"HT","head, skin, tail",0,1
 "Humeral end L coracoid.",,0,0
 "Humeral end L scapula",,0,0
 "Humeral end R scapula",,0,0
@@ -4697,6 +4917,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "HUMERUS DIST TWO-THIRDS L",,0,0
 "HUMERUS DIST TWO-THIRDS R",,0,0
 "HUMERUS DISTAL",,0,0
+"HUMERUS Entepicondylar area R humerus.",,0,0
 "HUMERUS EXC DIST END",,0,0
 "HUMERUS EXC PROX END",,0,0
 "HUMERUS EXC PROX END L",,0,0
@@ -4704,6 +4925,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "HUMERUS EXC PROX EPIPHYSIS",,0,0
 "HUMERUS EXC PROX EPIPHYSIS L",,0,0
 "Humerus except distal end.",,0,0
+"Humerus except distal tip.",,0,0
 "Humerus except head.",,0,0
 "Humerus except head; proximal femur.",,0,0
 "HUMERUS EXCEPT PROX END",,0,0
@@ -4758,11 +4980,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "HUMERUS, FEMUR, CORACOID (2), ULNA (2), OTHER ITEM",,0,0
 "Humerus, lacking distal tip.",,0,0
 "Humerus, no proximal epiphysis.",,0,0
+"Humerus, proximal epiphysis missing.",,0,0
 "HUMERUS, RADIUS PROX, ULNA",,0,0
 "HUMERUS, SCAPULA, CORACOID, QUADRATE, FURCULA, INNOMINATE, FEMUR, STERNUM",,0,0
 "Humerus, tibiotarsus.",,0,0
 "Humerus.",,0,0
 "HUMERUS; FEMUR; TIBIA",,0,0
+"Humerus; radio-ulna.",,0,0
 "HUMERUS; RADIUS; ULNA",,0,0
 "Humerus?",,0,0
 "HYOID",,0,0
@@ -4776,15 +5000,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "HYPOPLASTRON L; PERIPHERAL POST L",,0,0
 "HYPURAL PLATE.",,0,0
 "I/",,0,0
+"I/.",,0,0
 "I/1 L",,0,0
 "I/1 OR I/2",,0,0
 "I/1 R",,0,0
 "I/1 R, I/1 L, MAXILLA P4-M2/ R, P4/ L, DENTARY (2)",,0,0
 "I/1 R, M/1 OR M/2 R",,0,0
 "I/2",,0,0
+"i/2 (cf.).",,0,0
 "I/2 ? L",,0,0
 "I/2 CF R",,0,0
 "I/2 R",,0,0
+"i/2.",,0,0
 "I/3 L",,0,0
 "I/3 R",,0,0
 "I/3? L, P/2 L",,0,0
@@ -4822,6 +5049,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "ILIUM R & L",,0,0
 "Ilium.",,0,0
 "ILIUM-ISCHIUM JUNCTION.",,0,0
+"Illium.",,0,0
 "Image - 1; Image - 1; Skin - 1","Image - 1; Image - 1; Skin - 1",0,1
 "Image - 1; Skin - 1","Image - 1; Skin - 1",0,1
 "Image - 1; Tissue - 1; Skin - 1; Genbank - 1; Genbank - 1; Genbank - 1","Image - 1; Tissue - 1; Skin - 1; Genbank - 1; Genbank - 1; Genbank - 1",0,1
@@ -4840,7 +5068,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "INCISOR LOWER",,0,0
 "INCISOR PORT","incisor port",0,1
 "INCISOR UPPER","upper incisor",0,1
+"Incisor, longitudinal half lose.",,0,0
 "Incisor, many fragmented.","incisors, fragmented incisors",0,1
+"Incisor, somewhat fragmented.",,0,0
 "Incisor.","incisor",0,1
 "INCOM (DRY)","partial animal",0,1
 "INCOM SKULL MISSING (DRY)","post-cranial",0,1
@@ -4892,6 +5122,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "ISCHIUM PORT R",,0,0
 "ISCHIUM PUBIS PROX EPI FEMUR",,0,0
 "ISCHIUM R",,0,0
+"Ischium, pubis, and proximal epiphysis of femur.",,0,0
+"Ischium.",,0,0
 "ISOLATED LIMB BONE","limb bone",0,1
 "jaw","jaw",1,1
 "JAW & FORELIMB O.","jaw, forelimb",0,1
@@ -4919,10 +5151,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "kb","study skin, body skeleton",0,1
 "L","L",0,1
 "L  metatarsals III/IV.",,0,0
+"L & R deciduous premolar.",,0,0
 "L (?) FIBULA, CENTRAL SHAFT.",,0,0
 "L (?) PROXIMAL RADIUS.",,0,0
 "L (anterior?) PH I.",,0,0
 "L (cf.) m/1.",,0,0
+"L /Palate M1/ M2/.",,0,0
 "L 1/2 THORACIC VERTEBRA AND DETACHED EPIPHYSIS.",,0,0
 "L ACETABULAR AREA.",,0,0
 "L ACETABULAR REGION.",,0,0
@@ -4933,6 +5167,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "L ANTEROLATERAL STERNUM.",,0,0
 "L ARTICULAR.",,0,0
 "L astragalus",,0,0
+"L astragalus, calcaneum.",,0,0
 "L astragalus.",,0,0
 "L atlas (broken).",,0,0
 "L auditory bulla and adjacent temporal.",,0,0
@@ -4947,13 +5182,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "L carpometacarpus.",,0,0
 "L CARPOMETACARPUS.  IMM.",,0,0
 "L cf. M1/, antero-medial portion missing.",,0,0
+"L cheek tooth.",,0,0
 "L condyle and distal diaphysis metapodial.",,0,0
+"L condyle of metapodial.",,0,0
 "L coracoid",,0,0
 "L coracoid except head.",,0,0
 "L coracoid, broken.",,0,0
 "L CORACOID, IMM.",,0,0
+"L coracoid, portion dorsal end missing.",,0,0
 "L coracoid.",,0,0
 "L CORACOID.  IMM.",,0,0
+"L coracoid; small part distal end missing.",,0,0
+"L coronoid process.",,0,0
 "L COSTAL 3.",,0,0
 "L COSTALS 6, 7, AND 8.",,0,0
 "L cuboid.",,0,0
@@ -4968,21 +5208,26 @@ R PERIPHERALS 2 - 3.",,0,0
 "L dentary  p/3 p/4 m/1 m/2.",,0,0
 "L dentary  p/4 m/1 m/2 m/3.",,0,0
 "L dentary  part p/2 p/4 m/1 m/2. Proximal end partly missing.",,0,0
+"L dentary (2); R dentary (1).",,0,0
 "L DENTARY ALL TEETH EXC I/1",,0,0
 "L DENTARY ALL TEETH EXC U/1",,0,0
 "L DENTARY ALL TEETH EXC U/1 I/1",,0,0
 "L dentary and 1 loose molar.",,0,0
 "L dentary and molar.",,0,0
+"L dentary and synphysis L i/2 i/3 R i/1 i/2 i/3 p/2 p/3 p/4 m/1 m/2.",,0,0
 "L dentary anterior root m/1.",,0,0
 "L dentary c/1 (broken) p/2 (broken) p/3 p/4 m/1 m/2.",,0,0
 "L dentary c/1 p/1 p/2 p/3 p/4 m/1 m/2 m/3.",,0,0
 "L dentary c/1 p/2 p/3 p/4 m/2 m/3.",,0,0
 "L DENTARY COMPLETE DENTITION.",,0,0
 "L dentary dc/1 p/3.",,0,0
+"L dentary dp/2 dp/3 dp/4 m/1.",,0,0
 "L dentary dp/3 dp/4; unerupted m/1.",,0,0
 "L dentary dp/4.",,0,0
+"L dentary dp2/ dp3 dp4 m/1 , m/2 breaking through.",,0,0
 "L dentary edentulous",,0,0
 "L dentary except anterior and posterior portions; p2/ p4/ m1/ m2/ ; soft tissue?",,0,0
+"L dentary except anterior end p/4 m/1 m/2 m/3.",,0,0
 "L dentary except anterior end.",,0,0
 "L dentary except anterior end; teeth broken",,0,0
 "L dentary except posteriormost.",,0,0
@@ -5001,11 +5246,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "L dentary i/1 m/1 m/2 m/3.",,0,0
 "L dentary i/1 m/1 m/2, posterior portion missing.",,0,0
 "L dentary i/1 m/1 m/2.",,0,0
+"L dentary i/1 m/1 m/2; L m/2.",,0,0
 "L dentary I/1 m/1, missing posterior third.",,0,0
 "L dentary i/1 m/1.",,0,0
 "L dentary i/1 m/2 m/3.",,0,0
 "L dentary i/1 m/2.",,0,0
+"L dentary i/1 m/2; L dentary i/1.",,0,0
 "L dentary i/1 m/3.",,0,0
+"L dentary i/1 m1.",,0,0
 "L dentary i/1 p/3 m/4 m/1 m/2 m/3.",,0,0
 "L dentary i/1 p/3 p/4 M/1 m/2 m/3.",,0,0
 "L dentary i/1 p/3 p/4 m/1 m/2.",,0,0
@@ -5015,18 +5263,22 @@ R PERIPHERALS 2 - 3.",,0,0
 "L dentary i/1 p/4 m/1 m/2 m/3.",,0,0
 "L dentary i/1 p/4 m/1 m/2.",,0,0
 "L dentary i/1 p/4 m/1.",,0,0
+"L dentary i/1 p/4 m/2 m/3.",,0,0
 "L dentary i/1 p/4.",,0,0
 "L DENTARY I/1 P/4-M/3",,0,0
 "L dentary i/1 part p/3 p/4 m/1 m/2.",,0,0
 "L dentary i/1 u/1 u/2 m/1 m/2 m/3",,0,0
 "L dentary i/1 u/1 u/2 p/4 m/1 m/2 m/3.",,0,0
 "L dentary i/1 u/1 u/2 p/4 m/1 m/2.",,0,0
+"L dentary I/1 U/1-2 M/1-3.",,0,0
 "L dentary i/1 u/2 m/1 m/2 m/3.",,0,0
 "L dentary i/1 u/2 m/1 m/2.",,0,0
 "L dentary i/1 u/2 m/2 m/3.",,0,0
 "L dentary i/1 u/2 p/4 m/1 m/2.",,0,0
 "L dentary i/1, fragment m/3.",,0,0
+"L dentary i/1, p/4 m/1 m/2 m/3.",,0,0
 "L dentary i/1.",,0,0
+"L dentary i/1; M3/.",,0,0
 "L dentary i/1; R dentary.",,0,0
 "L DENTARY I/1-M/3",,0,0
 "L dentary i/1-m/3.",,0,0
@@ -5043,10 +5295,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "L dentary m/1 m/2 m3/.",,0,0
 "L dentary m/1 m/2.",,0,0
 "L dentary m/1 m/2; palate R M1/ M2/, L M1/ M2.",,0,0
+"L dentary m/1 m/2; R dentary m/1 m/2; molar (6).",,0,0
 "L dentary m/1 m/3.",,0,0
 "L dentary m/1.",,0,0
 "L dentary m/1/ m/2.",,0,0
 "L dentary m/1; lacks coronoid process.",,0,0
+"L dentary m/1; palate L P4/.",,0,0
 "L dentary m/1; R dentary.",,0,0
 "L dentary m/2 m/3.",,0,0
 "L dentary m/2.",,0,0
@@ -5061,9 +5315,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "L dentary m2",,0,0
 "L dentary m2/",,0,0
 "L dentary p/1 m/2.",,0,0
+"L dentary p/1 p/2 p/3 p/4 m/1 m/2, anterior tip and top of coronoid process missing.",,0,0
 "L dentary p/2 m/1 m/2.",,0,0
 "L dentary p/2 m/2.",,0,0
 "L dentary p/2 p/3 m/1 m/2.",,0,0
+"L dentary p/2 p/3 p/4 m/1 m/2 m/3.",,0,0
+"L dentary p/2 p/3 p/4 m/1 m/2 m/4.",,0,0
 "L dentary p/2 p/3 p/4 m/1 m/2.",,0,0
 "L dentary p/2 p/3 p/4 m/1 m2 m/3.",,0,0
 "L dentary p/2 p/3 p/4 m/1.",,0,0
@@ -5076,16 +5333,19 @@ R PERIPHERALS 2 - 3.",,0,0
 "L dentary p/3 p/3 m/1 m/2 m/3.",,0,0
 "L dentary p/3 p/4 m/1 m/2 m/3.",,0,0
 "L dentary p/3 p/4 m/1 m/2.",,0,0
+"L dentary p/3 p/4 m/1, anterior end and part of posterior missing.",,0,0
 "L dentary p/3 p/4 m/1.",,0,0
 "L dentary p/3 p/4.",,0,0
 "L dentary p/4",,0,0
 "L dentary p/4 m/1",,0,0
 "L dentary p/4 m/1 m/2 m/3",,0,0
 "L dentary p/4 m/1 m/2 m/3 (other teeth?).",,0,0
+"L dentary p/4 m/1 m/2 m/3, angular and condyloid processes missing.",,0,0
 "L dentary p/4 m/1 m/2 m/3.",,0,0
 "L dentary p/4 m/1 m/2.",,0,0
 "L dentary p/4 m/1 m/3.",,0,0
 "L dentary p/4 m/1.",,0,0
+"L dentary p/4 m/2 m/3.",,0,0
 "L dentary p/4 m/2.",,0,0
 "L dentary p/4.",,0,0
 "L dentary p1, m1, m2",,0,0
@@ -5096,6 +5356,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "L dentary p3 m/ 1",,0,0
 "L dentary p3 p4 m1 m2",,0,0
 "L dentary p3, p4",,0,0
+"L dentary P3/ P4/ M1/ M2/ M3; anterior end missing.",,0,0
 "L dentary p4",,0,0
 "L dentary p4 m/1 m/2.",,0,0
 "L dentary partial dp/4.",,0,0
@@ -5107,6 +5368,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "L DENTARY U/1-2 M/1-3",,0,0
 "L DENTARY U/2 M/1",,0,0
 "L dentary u/2 m/1 m/2 m/3.",,0,0
+"L dentary u/2 m/1.",,0,0
 "L DENTARY U/2 M/1-2",,0,0
 "L DENTARY U/2 M/1-3",,0,0
 "L dentary u/2 p/4 m/1 m/2 m/3.",,0,0
@@ -5156,13 +5418,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "L dentary, base of i/1; p/4 m/1 m/2 m/3.",,0,0
 "L dentary, broken /1 m/2.",,0,0
 "L dentary, c1, p2, p3, p4, m1, m2",,0,0
+"L dentary, fragment L maxilla P4/.",,0,0
+"L dentary, fragment R dentary.",,0,0
 "L dentary, m/3, fragmentary m/1 m/2.",,0,0
 "L dentary, missing anterior end.",,0,0
+"L dentary, most of medial wall and posterior end missing.",,0,0
 "L dentary, no anterior end, m/3.",,0,0
 "L DENTARY, NO TEETH",,0,0
 "L dentary, no teeth.",,0,0
 "L DENTARY, P/4-M/1",,0,0
 "L DENTARY, P/4-M/2",,0,0
+"L dentary, pair frontals, pair parietals.",,0,0
+"L dentary, partial i/1 m/1.",,0,0
 "L dentary, portion i/1, m/1 m/2.",,0,0
 "L dentary, unerupted p/3 p/4.",,0,0
 "L dentary.",,0,0
@@ -5187,9 +5454,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "L dentary: p4 in socket",,0,0
 "L dentary: p4, m1",,0,0
 "L dentary; frontal pair.",,0,0
+"L dentary; L maxilla.",,0,0
+"L dentary; P4/.",,0,0
 "L dentary; R dentary; R m/1 or m/2.",,0,0
+"L di/2.",,0,0
 "L DIAPHYSIS TIBIOTARSUS.  IMM.",,0,0
 "L distal end metapodial III or IV.",,0,0
+"L dp/2.",,0,0
+"L dp/3 or dp.4.",,0,0
 "L dp/3 or dp/4.",,0,0
 "L DP2/.",,0,0
 "L dp3/ dp/4 m/1.",,0,0
@@ -5201,19 +5473,26 @@ R PERIPHERALS 2 - 3.",,0,0
 "L femur except distal epiphysis.",,0,0
 "L femur head.",,0,0
 "L femur shaft",,0,0
+"L femur shaft.",,0,0
 "L femur, epiphyses not fused.",,0,0
+"L femur, fragment distal shaft missing.",,0,0
 "L femur, lacking head.",,0,0
 "L femur, lacking proximal and distal ends.",,0,0
 "L femur, no ephyses.",,0,0
 "L femur, no proximal epiphyses, distal end missing",,0,0
 "L femur, no proximal epiphysis.",,0,0
 "L femur, proximal end radius.",,0,0
+"L femur, trochanter missing.",,0,0
 "L femur.",,0,0
+"L Fragment L dentary, cheek tooth.",,0,0
 "L frontal",,0,0
+"L frontal, anterior L parietal.",,0,0
 "L frontal.",,0,0
+"L frontoparietal.",,0,0
 "L fused ectocuneiform and medial cuneiform.",,0,0
 "L half furculum.",,0,0
 "L HALF LUMBAR VERTEBRA; IMM.",,0,0
+"L horn core.",,0,0
 "L humeral coracoid.",,0,0
 "L humerus except head region.",,0,0
 "L humerus except head.",,0,0
@@ -5222,20 +5501,30 @@ R PERIPHERALS 2 - 3.",,0,0
 "L HUMERUS, IMM.",,0,0
 "L humerus, lacking head.",,0,0
 "L humerus, missing proximal end.",,0,0
+"L humerus, missing proximal epiphysis and part of proximal diaphysis.",,0,0
 "L humerus, no distal end.",,0,0
 "L humerus, no proximal end.",,0,0
 "L humerus, no proximal epiphysis.",,0,0
+"L humerus, no proximal epiphysis; distal epiphysis not fused.",,0,0
+"L humerus, portion of head and proximal diaphysis missing.",,0,0
 "L humerus, portion of proximal end missing.",,0,0
+"L humerus, portions proximal end missing.",,0,0
 "L humerus, proximal half L femur, R radius.",,0,0
+"L humerus, R humerus, L ulna, R ulna, L radius, R radius, axis, proximal portion of L tibia, proximal portion of R tibia, distal portion of L tibia, distal portion of R tibia, proximal fragment of R femur, distal portion of R femur, distal portion of L fe",,0,0
 "L humerus.",,0,0
 "L HUMERUS.  IMM.",,0,0
 "L humerus: proximal epiphysis and distal shaft.",,0,0
 "L HYOPLASTRON, HYPOPLASTRON, AND XIPHIPLASTRON.",,0,0
 "L HYOPLASTRON.",,0,0
+"L hypoplastron, L posterior peripheral.",,0,0
 "L I/1.",,0,0
+"L i/2 (?).",,0,0
 "L i/2.",,0,0
+"L i/3.",,0,0
 "L I1.",,0,0
 "L I1/.",,0,0
+"L I2/ fragment.",,0,0
+"L I2/.",,0,0
 "L iIium.",,0,0
 "L ilium, ishium and acetabulum",,0,0
 "L ilium.",,0,0
@@ -5247,12 +5536,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "L ISCHIUM (?).",,0,0
 "L ISCHIUM.",,0,0
 "L LATERAL PROCESS STERNUM.",,0,0
+"L lower cheek tooth.",,0,0
+"L lower cheektooth (m/2 ?).",,0,0
 "L lower cheektooth (M3/ ?).",,0,0
 "L lower cheektooth.",,0,0
 "L lower molar.",,0,0
 "L lunar.",,0,0
+"L m/1",,0,0
 "L M/1  R M/2  R M/3",,0,0
 "L m/1 or m/2.",,0,0
+"L m/1 or nearby tooth.",,0,0
 "L m/1, missing portion of anteior.",,0,0
 "L m/1, R M1/.",,0,0
 "L m/1.",,0,0
@@ -5266,7 +5559,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "L M1/ in fragment maxilla.",,0,0
 "L M1/ L M2/.",,0,0
 "L M1/ M/2.",,0,0
+"L M1/ M2/.",,0,0
 "L M1/ or M2/.",,0,0
+"L M1/, L m/1.",,0,0
 "L M1/, R M1/ (3), L M2 (2), R M2/",,0,0
 "L M1/.",,0,0
 "L M1/; R M1.",,0,0
@@ -5306,8 +5601,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "L maxilla P4",,0,0
 "L maxilla P4, M1",,0,0
 "L maxilla P4, M1, M2",,0,0
+"L maxilla P4/ and palate.",,0,0
 "L maxilla P4/ M1/ M2/ M/3/.",,0,0
 "L maxilla P4/ M1/ M2/ M3/.",,0,0
+"L maxilla P4/ M1/ M2/.",,0,0
 "L maxilla P4/ M1/, elements.",,0,0
 "L maxilla P4/ M1/.",,0,0
 "L MAXILLA P4/ M1-2/",,0,0
@@ -5339,19 +5636,38 @@ R PERIPHERALS 2 - 3.",,0,0
 "L mesocuneiform.",,0,0
 "L METACARPAL EXCEPT DISTAL END.  VERY YOUNG.",,0,0
 "L metacarpal II.",,0,0
+"L metacarpal III, lacking distal epiphysis.",,0,0
+"L Metacarpal III, no epiphysis.",,0,0
+"L metacarpal III, portion diaphysis missing.",,0,0
 "L metacarpal III.",,0,0
 "L metacarpal III/IV, portion proximal shaft and articular surface missing.",,0,0
 "L metacarpal III/IV.",,0,0
 "L metacarpal IV.",,0,0
 "L metacarpal.",,0,0
+"L metacarpals III/IV, distal end missing.",,0,0
+"L metacarpals III/IV, distal epiphysis missing.",,0,0
+"L metacarpals III/IV, distal fifth missing.",,0,0
+"L metacarpals III/IV, distal sixth missing.",,0,0
+"L metacarpals III/IV, distal third missing.",,0,0
+"L metacarpals III/IV.",,0,0
 "L metacarpals.",,0,0
 "L metatarsal II.",,0,0
+"L metatarsal III, half of distal end missing.",,0,0
 "L metatarsal III, phalanges I II III, calcaneum, astragalus, ectocueiform, navicular.",,0,0
 "L metatarsal III.",,0,0
+"L metatarsal III/IV, distal end and distak lateral diaphysis missing.",,0,0
+"L metatarsal III/IV, distal end missing.",,0,0
+"L metatarsal III/IV, distal one-fifth missing.",,0,0
+"L metatarsal III/IV, distal one-third missing.",,0,0
+"L metatarsal III/IV, no distal end.",,0,0
+"L metatarsal III/IV, proximal end missing.",,0,0
+"L metatarsal III/IV.",,0,0
 "L metatarsal IV",,0,0
 "L metatarsal IV.",,0,0
 "L metatarsal V except distal end.",,0,0
 "L metatarsal V.",,0,0
+"L metatarsus III/IV.",,0,0
+"L mid-cuneiform.",,0,0
 "L molar (M2/ ?).",,0,0
 "L MT II.",,0,0
 "L MT III/IV.",,0,0
@@ -5366,6 +5682,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "L p/2.",,0,0
 "L p/3.",,0,0
 "L p/3; L lower cheektooth.",,0,0
+"L p/4 (cf.).",,0,0
 "L p/4.",,0,0
 "L p/4; 2 lower molars.",,0,0
 "L P2-4/ M1-3/ R I/ P2/ P4/ M1/",,0,0
@@ -5373,13 +5690,17 @@ R PERIPHERALS 2 - 3.",,0,0
 "L P3/.",,0,0
 "L P4/",,0,0
 "L P4/ M1/ M2/ M3/.",,0,0
+"L P4/ or M1/.",,0,0
 "L P4/.",,0,0
+"L P4/; L M1/ or M2/.",,0,0
 "L parietal.",,0,0
 "L partial maxilla with M1-2",,0,0
+"L patella.",,0,0
 "L peripheral 11.",,0,0
 "L PERIPHERAL, CF. 9.",,0,0
 "L PERIPHERALS 8 AND 9.",,0,0
 "L PERIPHERALS 9 AND 10.",,0,0
+"L petrosal and bulla.",,0,0
 "L PH I, digit II.",,0,0
 "L PH III, DIGIT III OR IV.",,0,0
 "L phalanx I, digit 2 of wing.",,0,0
@@ -5393,8 +5714,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "L pisiform.",,0,0
 "L post-dentary mandible.",,0,0
 "L POSTERIOR CERVICAL VERTEBRA, NO EPIPHYSES.  IMM.",,0,0
+"L posterior mandible complex.",,0,0
 "L POSTERIOR ZYGAPOPHYSEAL AREA.",,0,0
 "L postorbital bar.",,0,0
+"L premaxilla and maxilla C1/ P3/ P4/.",,0,0
 "L premaxilla and maxilla P4/ M3/.",,0,0
 "L PREMAXILLA AND MAXILLA WITH I/-3U/, ANT M1/",,0,0
 "L premaxilla and maxilla.",,0,0
@@ -5417,23 +5740,31 @@ R PERIPHERALS 2 - 3.",,0,0
 "L radius and ulna.",,0,0
 "L radius except distal end.",,0,0
 "L RADIUS EXCEPT PROXIMAL TIP, IMM.",,0,0
+"L radius, ends damaged.",,0,0
+"L radius, ends missing.",,0,0
 "L radius, lateral portion from proximal articular surface to beyond ulna scar.",,0,0
+"L radius, missing distal epiphysis and much of proximal end.",,0,0
 "L radius, small section mid-shaft missing.",,0,0
 "L radius, some damage distal end, sample taken for DNA. Distal two-thirds R radius",,0,0
 "L radius.",,0,0
 "L ramus of mandible.",,0,0
+"L rib.",,0,0
 "L rostrum P4-M2/ R P4-M1/",,0,0
 "L scaphoid.",,0,0
 "L SCAPULA AND CORACOID.",,0,0
 "L scapula.",,0,0
 "L side and anterior end lower mandible.",,0,0
+"L side centrum epiphysis of thoracic vertebra.",,0,0
 "L SIDE CERVICAL VERTEBRA, IMM.",,0,0
+"L side occiput.",,0,0
 "L squamosal and auditory bulla.",,0,0
 "L squamosal region.",,0,0
 "L squamosal.",,0,0
 "L tarsometarsus",,0,0
 "L tarsometarsus, portion distal end missing",,0,0
 "L tarsometatarsus except proximal end.",,0,0
+"L tarsometatarsus missing two distal condyles.",,0,0
+"L tarsometatarsus, spur broken off.",,0,0
 "L tarsometatarsus.",,0,0
 "L tibia except proximal end,",,0,0
 "L tibia except proximal end.",,0,0
@@ -5452,8 +5783,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "L ulna except distal tip.",,0,0
 "L ulna head.",,0,0
 "L ulna, no distal epiphysis.",,0,0
+"L ulna, no proximal epiphysis.",,0,0
 "L ulna.",,0,0
 "L ULNA.  IMM.",,0,0
+"L unciform.",,0,0
+"L unerupted lower cheek tooth.",,0,0
+"L upper cheek tooth, presumably M1/ or M2/.",,0,0
+"L upper cheek tooth.",,0,0
 "L upper cheektooth.",,0,0
 "L upper molar, L lower cheektooth.",,0,0
 "L VENTRAL ISCHIUM AND PROXIMAL PUBIS, IMM.",,0,0
@@ -5463,59 +5799,66 @@ R PERIPHERALS 2 - 3.",,0,0
 "L XIPHIPLASTRON.",,0,0
 "L zygomatic process of maxilla.",,0,0
 "L/E","L/E",0,1
-"LA (12)","LA (12)",0,1
-"LA (19)","LA (19)",0,1
-"LA (32)","LA (32)",0,1
-"LA(5)","LA(5)",0,1
+"L:",,0,0
+"LA (12)","adults",0,1
+"LA (19)","adults",0,1
+"LA (32)","adults",0,1
+"LA(5)","adults",0,1
 "LARGE LOT",,0,0
 "LARGE VERTEBRA.",,0,0
 "Larva","larva",0,1
 "Larvae","larvae",0,1
 "Larvae/Form.","larvae in formalin",0,1
+"Last lumbar vertebra.","last lumbar vertebra",0,1
 "LATERAL HALF L COSTAL 2.",,0,0
 "Lateral half R P4? (?).",,0,0
+"Lateral L maxilla.",,0,0
 "LATERAL L PHALANX III.
 
 ",,0,0
+"LATERAL L PHALANX III.",,0,0
 "LATERAL METAPODIAL, NO PROXIMAL EPIPHYSIS, IMM.",,0,0
+"Lateral one-third peripheral.",,0,0
 "LATERAL PORTION COSTAL, LACKING ONE MARGIN.",,0,0
 "Lateral portion costal.",,0,0
 "Lateral portion L tibia",,0,0
 "Lateral portion R maxilla.",,0,0
 "LATERAL PORTION SHAFT R HUMERUS.",,0,0
 "Lateral side p/2 ?",,0,0
+"Lateral two-thirds distal end R tarsometatarsus.",,0,0
 "Lateral two-thirds L M3/.",,0,0
+"Lateral two-thirds upper cheek tooth. Not in wear.",,0,0
 "Lateral wall cf. R M2/.",,0,0
 "Lateral wall lower molar.",,0,0
 "Lateral wall R dentary.",,0,0
 "Lateral wall R M1/ or M2/.",,0,0
-"LE","LE",0,1
-"LE (>50)","LE (>50)",0,1
-"LE (1)","LE (1)",0,1
-"LE (12)","LE (12)",0,1
-"LE (13)","LE (13)",0,1
-"LE (14)","LE (14)",0,1
-"LE (15)","LE (15)",0,1
-"LE (18)","LE (18)",0,1
-"LE (19)","LE (19)",0,1
-"LE (2)","LE (2)",0,1
-"LE (20)","LE (20)",0,1
-"LE (21)","LE (21)",0,1
-"LE (22)","LE (22)",0,1
-"LE (23)","LE (23)",0,1
-"LE (26)","LE (26)",0,1
-"LE (27)","LE (27)",0,1
-"LE (3)","LE (3)",0,1
-"LE (36)","LE (36)",0,1
-"LE (4)","LE (4)",0,1
-"LE (5)","LE (5)",0,1
-"LE (6)","LE (6)",0,1
-"LE (68)","LE (68)",0,1
-"LE (8)","LE (8)",0,1
-"LE (80)","LE (80)",0,1
-"LE (83)","LE (83)",0,1
-"LE (97)","LE (97)",0,1
-"Leading edge of sternum.",,0,0
+"LE","larvae",0,1
+"LE (>50)","larvae",0,1
+"LE (1)","larva",0,1
+"LE (12)","larva",0,1
+"LE (13)","larva",0,1
+"LE (14)","larva",0,1
+"LE (15)","larva",0,1
+"LE (18)","larva",0,1
+"LE (19)","larva",0,1
+"LE (2)","larva",0,1
+"LE (20)","larva",0,1
+"LE (21)","larva",0,1
+"LE (22)","larva",0,1
+"LE (23)","larva",0,1
+"LE (26)","larva",0,1
+"LE (27)","larva",0,1
+"LE (3)","larva",0,1
+"LE (36)","larva",0,1
+"LE (4)","larva",0,1
+"LE (5)","larva",0,1
+"LE (6)","larva",0,1
+"LE (68)","larva",0,1
+"LE (8)","larva",0,1
+"LE (80)","larva",0,1
+"LE (83)","larva",0,1
+"LE (97)","larva",0,1
+"Leading edge of sternum.","leading edge of sternum",0,1
 "LEFT ANTLER ONLY","left antler",0,1
 "LEFT BRANCH FURCULA.",,0,0
 "LEFT COSTAL #1 (DRY)","left costal #1",0,1
@@ -5530,6 +5873,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "LEFT LOWER JAW+QUADRATE+SQUAMOSAL (DRY)","left lower jaw, quadrate, squamosal",0,1
 "LEFT MANDIBLE O.","left mandible",0,1
 "LEFT MAXILLA WITH U1-3/, P4- M1/",,0,0
+"Left radius.",,0,0
 "Left tibia, missing proximal epiphysis.",,0,0
 "Left ulna.",,0,0
 "LEFT UPPER C1, LEFT LOWER C1","left upper C1, left lower C1",0,1
@@ -5537,75 +5881,75 @@ R PERIPHERALS 2 - 3.",,0,0
 "leg bones",,0,0
 "Leg/atlas",,0,0
 "Legs",,0,0
-"LF","LF",0,1
-"LF (1)","LF (1)",0,1
-"LF (10)","LF (10)",0,1
-"LF (107)","LF (107)",0,1
-"LF (11)","LF (11)",0,1
-"LF (12)","LF (12)",0,1
-"LF (129)","LF (129)",0,1
-"LF (13)","LF (13)",0,1
-"LF (133)","LF (133)",0,1
-"LF (14)","LF (14)",0,1
-"LF (15)","LF (15)",0,1
-"LF (16)","LF (16)",0,1
-"LF (17)","LF (17)",0,1
-"LF (18)","LF (18)",0,1
-"LF (19)","LF (19)",0,1
-"LF (196)","LF (196)",0,1
-"LF (2)","LF (2)",0,1
-"LF (20)","LF (20)",0,1
-"LF (21)","LF (21)",0,1
-"LF (22)","LF (22)",0,1
-"LF (23)","LF (23)",0,1
-"LF (231)","LF (231)",0,1
-"LF (24)","LF (24)",0,1
-"LF (25)","LF (25)",0,1
-"LF (26)","LF (26)",0,1
-"LF (29)","LF (29)",0,1
-"LF (3)","LF (3)",0,1
-"LF (30)","LF (30)",0,1
-"LF (32)","LF (32)",0,1
-"LF (33)","LF (33)",0,1
-"LF (35)","LF (35)",0,1
-"LF (36)","LF (36)",0,1
-"LF (37)","LF (37)",0,1
-"LF (38)","LF (38)",0,1
-"LF (4)","LF (4)",0,1
-"LF (41)","LF (41)",0,1
-"LF (45)","LF (45)",0,1
-"LF (46)","LF (46)",0,1
-"LF (4766)","LF (4766)",0,1
-"LF (48)","LF (48)",0,1
-"LF (49)","LF (49)",0,1
-"LF (5)","LF (5)",0,1
-"LF (53)","LF (53)",0,1
-"LF (54)","LF (54)",0,1
-"LF (55)","LF (55)",0,1
-"LF (6)","LF (6)",0,1
-"LF (61)","LF (61)",0,1
-"LF (63)","LF (63)",0,1
-"LF (64)","LF (64)",0,1
-"LF (65)","LF (65)",0,1
-"LF (67)","LF (67)",0,1
-"LF (68)","LF (68)",0,1
-"LF (69)","LF (69)",0,1
-"LF (7)","LF (7)",0,1
-"LF (72)","LF (72)",0,1
-"LF (73)","LF (73)",0,1
-"LF (75)","LF (75)",0,1
-"LF (77)","LF (77)",0,1
-"LF (78)","LF (78)",0,1
-"LF (8)","LF (8)",0,1
-"LF (81)","LF (81)",0,1
-"LF (9)","LF (9)",0,1
-"LF (93)","LF (93)",0,1
-"LF(1)","LF(1)",0,1
-"LF(143)","LF(143)",0,1
-"LF(6)","LF(6)",0,1
-"LF(9)","LF(9)",0,1
-"LIMB BONE SHAFT",,0,0
-"Limb element.",,0,0
+"LF","larvae in formalin",0,1
+"LF (1)","larva in formalin",0,1
+"LF (10)","larvae in formalin",0,1
+"LF (107)","larvae in formalin",0,1
+"LF (11)","larvae in formalin",0,1
+"LF (12)","larvae in formalin",0,1
+"LF (129)","larvae in formalin",0,1
+"LF (13)","larvae in formalin",0,1
+"LF (133)","larvae in formalin",0,1
+"LF (14)","larvae in formalin",0,1
+"LF (15)","larvae in formalin",0,1
+"LF (16)","larvae in formalin",0,1
+"LF (17)","larvae in formalin",0,1
+"LF (18)","larvae in formalin",0,1
+"LF (19)","larvae in formalin",0,1
+"LF (196)","larvae in formalin",0,1
+"LF (2)","larvae in formalin",0,1
+"LF (20)","larvae in formalin",0,1
+"LF (21)","larvae in formalin",0,1
+"LF (22)","larvae in formalin",0,1
+"LF (23)","larvae in formalin",0,1
+"LF (231)","larvae in formalin",0,1
+"LF (24)","larvae in formalin",0,1
+"LF (25)","larvae in formalin",0,1
+"LF (26)","larvae in formalin",0,1
+"LF (29)","larvae in formalin",0,1
+"LF (3)","larvae in formalin",0,1
+"LF (30)","larvae in formalin",0,1
+"LF (32)","larvae in formalin",0,1
+"LF (33)","larvae in formalin",0,1
+"LF (35)","larvae in formalin",0,1
+"LF (36)","larvae in formalin",0,1
+"LF (37)","larvae in formalin",0,1
+"LF (38)","larvae in formalin",0,1
+"LF (4)","larvae in formalin",0,1
+"LF (41)","larvae in formalin",0,1
+"LF (45)","larvae in formalin",0,1
+"LF (46)","larvae in formalin",0,1
+"LF (4766)","larvae in formalin",0,1
+"LF (48)","larvae in formalin",0,1
+"LF (49)","larvae in formalin",0,1
+"LF (5)","larvae in formalin",0,1
+"LF (53)","larvae in formalin",0,1
+"LF (54)","larvae in formalin",0,1
+"LF (55)","larvae in formalin",0,1
+"LF (6)","larvae in formalin",0,1
+"LF (61)","larvae in formalin",0,1
+"LF (63)","larvae in formalin",0,1
+"LF (64)","larvae in formalin",0,1
+"LF (65)","larvae in formalin",0,1
+"LF (67)","larvae in formalin",0,1
+"LF (68)","larvae in formalin",0,1
+"LF (69)","larvae in formalin",0,1
+"LF (7)","larvae in formalin",0,1
+"LF (72)","larvae in formalin",0,1
+"LF (73)","larvae in formalin",0,1
+"LF (75)","larvae in formalin",0,1
+"LF (77)","larvae in formalin",0,1
+"LF (78)","larvae in formalin",0,1
+"LF (8)","larvae in formalin",0,1
+"LF (81)","larvae in formalin",0,1
+"LF (9)","larvae in formalin",0,1
+"LF (93)","larvae in formalin",0,1
+"LF(1)","larvae in formalin",0,1
+"LF(143)","larvae in formalin",0,1
+"LF(6)","larvae in formalin",0,1
+"LF(9)","larvae in formalin",0,1
+"LIMB BONE SHAFT","limb bone shaft",0,1
+"Limb element.","limb element",0,1
 "LIMB ELEMENTS","limb elements",0,1
 "LIMB ELEMENTS; INNOMINATE L",,0,0
 "LIMB ELEMENTS; SCAPULA",,0,0
@@ -5616,8 +5960,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "líquido","fluid",0,1
 "líquido, cráneo","fluid, skull",0,1
 "LIVE","LIVE",0,1
+"LO",,0,0
+"Longitudinal half of phalanx I.",,0,0
+"Longitudinal half phalanx I.",,0,0
+"Longitudinal portion shaft, distal end.",,0,0
 "Lot: Various.",,0,0
 "Lower cheektooth.",,0,0
+"Lower deciduous premolar.",,0,0
+"Lower incisor.",,0,0
 "LOWER JAW (DRY)","lower jaw",0,1
 "LOWER JAW O.","lower jaw",0,1
 "LOWER JAW ONLY","lower jaw",0,1
@@ -5633,26 +5983,35 @@ R PERIPHERALS 2 - 3.",,0,0
 "Lower mandibles with teeth",,0,0
 "Lower mandibles.",,0,0
 "Lower molar.",,0,0
+"Lower premolar (?).",,0,0
 "Lower premolar or molar",,0,0
 "Lower premolar or molar.",,0,0
+"Lower R cheek tooth (4).",,0,0
+"Lower R cheek tooth row, fragments dentary",,0,0
+"Lower R cheek tooth.",,0,0
 "Lower R cheektooth (m/2 ?).",,0,0
 "Lower R cheektooth.",,0,0
+"Lower R deciduous premolar.",,0,0
 "Lower R molar.",,0,0
 "L-SEC (MICROSLIDE)","L-section (microslide)",0,1
 "L-SEC MOUTH (MICROSLIDE)","L-section mouth (microslide)",0,1
 "L-SEC SERIAL (MICROSLIDE)","L-section serial (microslide)",0,1
+"Lumbar vertebra, both centrum epiphyses missing.",,0,0
+"Lumbar vertebra, portion of centrum and arch missing.",,0,0
+"Lumbar vertebra, posterior centrum epiphysis missing..",,0,0
 "Lumbar vertebra.",,0,0
 "Lumbar vertebrae",,0,0
 "Lunar.",,0,0
-"LY (10)","LY (10)",0,1
-"LY (11)","LY (11)",0,1
-"LY (12)","LY (12)",0,1
-"LY (5)","LY (5)",0,1
-"LY (6)","LY (6)",0,1
-"LY (7)","LY (7)",0,1
-"LY (8)","LY (8)",0,1
+"LY (10)","young from egg clutch/litter",0,1
+"LY (11)","young from egg clutch/litter",0,1
+"LY (12)","young from egg clutch/litter",0,1
+"LY (5)","young from egg clutch/litter",0,1
+"LY (6)","young from egg clutch/litter",0,1
+"LY (7)","young from egg clutch/litter",0,1
+"LY (8)","young from egg clutch/litter",0,1
 "M 2/L",,0,0
 "M/ OR M/2 L",,0,0
+"m/1 (1); R dentary.",,0,0
 "m/1 (3); R dentary.",,0,0
 "m/1 (cf.)",,0,0
 "M/1 ? FRAG R",,0,0
@@ -5666,6 +6025,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "M/1 L, M2/ R",,0,0
 "M/1 OR M/1",,0,0
 "M/1 OR M/2",,0,0
+"m/1 or m/2.",,0,0
 "M/1 OR M/2; DENTARY FRAG R (3) & L (1)",,0,0
 "M/1 OR NEARBY L LOWER CHEEKTOOTH",,0,0
 "M/1 PARTIAL R",,0,0
@@ -5709,6 +6069,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "M1 R",,0,0
 "M1/ & M2/",,0,0
 "M1/ ?",,0,0
+"M1/ ?.",,0,0
 "M1/ CA FRAG L",,0,0
 "M1/ CA R",,0,0
 "M1/ CF",,0,0
@@ -5725,6 +6086,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "M1/ OR M2/ L; /M1 OR /M2 R",,0,0
 "M1/ OR M2/ L; M/1 R",,0,0
 "M1/ OR M2/ R",,0,0
+"M1/ or M2/.",,0,0
 "M1/ R (2), M1/ L",,0,0
 "M1/ R (2), M1/ L (3)",,0,0
 "M1/ R (2), M2/ R",,0,0
@@ -5990,6 +6352,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "MAXILLA P4/ L",,0,0
 "MAXILLA P4/ M1/",,0,0
 "MAXILLA P4/ M1/ L",,0,0
+"Maxilla P4/ M1/ M2/ M3/.",,0,0
 "MAXILLA P4/ M1/ R",,0,0
 "MAXILLA P4/ M1/ R & L; PARIETAL PR",,0,0
 "MAXILLA P4/ M1-2/ L",,0,0
@@ -6087,6 +6450,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "MAXILLA/PALATINE M2-3/ R",,0,0
 "MAXILLA/PREMAXILLA I1/ U2/-M2/ L",,0,0
 "MAXILLA/TOOTH",,0,0
+"Maxilla; R dentary.",,0,0
 "MAXILLAE ALL DENTITION L & R",,0,0
 "MAXILLAE L M1-3/ R NO DENTITION",,0,0
 "MAXILLAE L P4/ R P4/-M1/",,0,0
@@ -6129,23 +6493,24 @@ R PERIPHERALS 2 - 3.",,0,0
 "MC SHAFT R",,0,0
 "MC V DIST 3/4 R",,0,0
 "MC V R",,0,0
-"ME","ME",0,1
-"ME (10)","ME (10)",0,1
-"ME (11)","ME (11)",0,1
-"ME (12)","ME (12)",0,1
-"ME (14)","ME (14)",0,1
-"ME (2)","ME (2)",0,1
-"ME (26)","ME (26)",0,1
-"ME (28)","ME (28)",0,1
-"ME (4)","ME (4)",0,1
-"ME (5)","ME (5)",0,1
-"ME (6)","ME (6)",0,1
-"ME (9)","ME (9)",0,1
-"ME(1)","ME(1)",0,1
+"ME","metamorphosed juveniles",0,1
+"ME (10)","metamorphosed juveniles",0,1
+"ME (11)","metamorphosed juveniles",0,1
+"ME (12)","metamorphosed juveniles",0,1
+"ME (14)","metamorphosed juveniles",0,1
+"ME (2)","metamorphosed juveniles",0,1
+"ME (26)","metamorphosed juveniles",0,1
+"ME (28)","metamorphosed juveniles",0,1
+"ME (4)","metamorphosed juveniles",0,1
+"ME (5)","metamorphosed juveniles",0,1
+"ME (6)","metamorphosed juveniles",0,1
+"ME (9)","metamorphosed juveniles",0,1
+"ME(1)","metamorphosed juveniles",0,1
 "MEDIAL 40 MM OF COSTAL.",,0,0
 "MEDIAL COSTAL.",,0,0
 "MEDIAL END OF COSTAL.",,0,0
 "Medial portion costal.",,0,0
+"Medial portion L P4/.",,0,0
 "Medial process L scapula.",,0,0
 "Metacarpal II and proximal carpometacarpus.",,0,0
 "Metacarpal III.",,0,0
@@ -6170,6 +6535,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "METAPODIAL DIST FRAG",,0,0
 "METAPODIAL DIST ONE-FOURTH",,0,0
 "METAPODIAL DIST, ASTRAGALUS",,0,0
+"Metapodial distal epiphysis.",,0,0
 "METAPODIAL EPIPHYSIS",,0,0
 "METAPODIAL EXC DIST EPIPHYSIS",,0,0
 "METAPODIAL FRAG",,0,0
@@ -6193,6 +6559,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "METATARSAL DIST FOUR-FIFTHS",,0,0
 "METATARSAL FRAG DIST CONDYLE",,0,0
 "METATARSAL III, IV",,0,0
+"Metatarsal III, metacarpal III, 2 upper cheek tooth, 1 lower cheek tooth.",,0,0
 "Metatarsal III/IV, no epiphyses.",,0,0
 "Metatarsal III/IV, podials, phalanges.",,0,0
 "Metatarsal III/IV.",,0,0
@@ -6205,6 +6572,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Metatarsal.",,0,0
 "Metatarsal; shaft R and L tibiofibula; fragment tibiofibula.",,0,0
 "Metatarsals III/IV, distal L femur.",,0,0
+"Metatarsals III/IV.",,0,0
 "Microtechnique, Skeleton",,0,0
 "MID-CUNEIFORM L",,0,0
 "MIDSECTION L HUMERUS.",,0,0
@@ -6225,6 +6593,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "miscellaneous, miscellaneous, fluid, cleared and stained",,0,0
 "miscellaneous, tissue, fluid, miscellaneous",,0,0
 "Molar",,0,0
+"molar (3).",,0,0
+"Molar (4); L maxilla M1/ M3/.",,0,0
 "MOLAR (8)",,0,0
 "MOLAR 18 & DENTARY FRAG",,0,0
 "MOLAR FRAG",,0,0
@@ -6247,17 +6617,24 @@ R PERIPHERALS 2 - 3.",,0,0
 "MOLAR UPPER, DENTARY FRAG R",,0,0
 "MOLAR UPPER, MOLAR LOWER",,0,0
 "Molar.",,0,0
+"Molar; fragment dentary m/1 m/2.",,0,0
 "Molars.",,0,0
 "MOST OF COSTAL EXCEPT ONE MARGIN AND LATERAL EDGE.",,0,0
 "MOST OF DORSAL LIMB OF SCAPULA; LITTLE OF HORIZONTAL LIMB.",,0,0
 "Most of paired parietal.",,0,0
+"Most of sacrum.",,0,0
 "Most of scapula.",,0,0
 "Most of skull except R maxilla, R and L premaxillae, L parietal.  L P4/.",,0,0
 "Most of skull R C1/ P3/ P4/, L P3/ P4/ M1/.",,0,0
 "mount","mount",1,1
+"mount & bones",,0,0
+"mount (head)",,0,0
+"mount and skull",,0,0
 "Mount as a Decoy","mount",0,1
 "Mount, Blood","mount, blood",0,1
 "mount, skeleton","mount, skeleton",1,1
+"mount, skelton",,0,0
+"mount, skull",,0,0
 "Mount, Tissue","mount, tissue",0,1
 "Mount/Skeleton","mount, skeleton",0,1
 "Mount/skull","mount, skull",0,1
@@ -6285,27 +6662,27 @@ R PERIPHERALS 2 - 3.",,0,0
 "MP III FRAG DIST",,0,0
 "MP III FRAG DIST END",,0,0
 "MP III/IV.",,0,0
-"MS","body mount, body skeleton",0,1
-"MS (>100)","MS (>100)",0,1
-"MS (>30)","MS (>30)",0,1
-"MS (>40)","MS (>40)",0,1
-"MS (>50)","MS (>50)",0,1
-"MS (>60)","MS (>60)",0,1
-"MS (>80)","MS (>80)",0,1
-"MS (10)","MS (10)",0,1
-"MS (11)","MS (11)",0,1
-"MS (1-14)","MS (1-14)",0,1
-"MS (23)","MS (23)",0,1
-"MS (27)","MS (27)",0,1
-"MS (28)","MS (28)",0,1
-"MS (29)","MS (29)",0,1
-"MS (32)","MS (32)",0,1
-"MS (38)","MS (38)",0,1
-"MS (45)","MS (45)",0,1
-"MS (467)","MS (467)",0,1
-"MS (6)","MS (6)",0,1
-"MS (71)","MS (71)",0,1
-"MS (8)","MS (8)",0,1
+"MS","mixed larvae and subadults",0,1
+"MS (>100)","mixed larvae and subadults",0,1
+"MS (>30)","mixed larvae and subadults",0,1
+"MS (>40)","mixed larvae and subadults",0,1
+"MS (>50)","mixed larvae and subadults",0,1
+"MS (>60)","mixed larvae and subadults",0,1
+"MS (>80)","mixed larvae and subadults",0,1
+"MS (10)","mixed larvae and subadults",0,1
+"MS (11)","mixed larvae and subadults",0,1
+"MS (1-14)","mixed larvae and subadults",0,1
+"MS (23)","mixed larvae and subadults",0,1
+"MS (27)","mixed larvae and subadults",0,1
+"MS (28)","mixed larvae and subadults",0,1
+"MS (29)","mixed larvae and subadults",0,1
+"MS (32)","mixed larvae and subadults",0,1
+"MS (38)","mixed larvae and subadults",0,1
+"MS (45)","mixed larvae and subadults",0,1
+"MS (467)","mixed larvae and subadults",0,1
+"MS (6)","mixed larvae and subadults",0,1
+"MS (71)","mixed larvae and subadults",0,1
+"MS (8)","mixed larvae and subadults",0,1
 "MT",,0,0
 "MT 2 FUSED",,0,0
 "MT DISTAL",,0,0
@@ -6340,6 +6717,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "MT V R",,0,0
 "MT; MC; CHEEKTOOTH 2 UPPER 1 LOWER",,0,0
 "MT; SHAFT ULNA",,0,0
+"Much  of skull.",,0,0
 "MUCH OF SKULL",,0,0
 "Much of skull except posterior ventral.",,0,0
 "multiple skeletons","skeletons (multiple)",0,1
@@ -6400,15 +6778,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "NEURAL SPINE, HALF TOP OF NEURAL ARCH, AND POSITION OF ZYGAPOPHYSES, R SIDE; NO",,0,0
 "NEURAL SPINE.",,0,0
 "NEURAL.",,0,0
+"Nine-tenths L ulna.",,0,0
 "Nine-tenths R dentary, no teeth.",,0,0
 "No data",,0,1
 "NO ID",,0,0
+"No ID.",,0,0
 "no skin","none",0,1
 "NO SPECIMEN",,0,1
 "NOT GIVEN",,0,0
 "Not Mounted",,0,0
 "NOT RECORDED",,0,0
 "Not recorded.",,0,0
+"NP",,0,0
 "NUCHAL.",,0,0
 "o","other",0,1
 "OCCIPITAL",,0,0
@@ -6417,6 +6798,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "OCCIPITAL CONDYLE R",,0,0
 "Occipital condyle, foramen magnum, occipital",,0,0
 "OCCIPITAL REGION EXC DORSAL",,0,0
+"Occipital region except dorsal portion.",,0,0
 "Occipital region.",,0,0
 "OCCIPITALS ONLY (DRY)","occipitals",0,1
 "OCCIPUT  AUDITORY BULLA",,0,0
@@ -6431,7 +6813,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Occiput; interparietal; R and L auditory bullae.",,0,0
 "One cervical vertebrae",,0,0
 "One costal, 5 limb fragments",,0,0
+"One half R astragalus.",,0,0
 "One lumbar vertebrae",,0,0
+"One side distal half metapodial.",,0,0
 "One side lower mandible.",,0,0
 "One thoracic vertebrae",,0,0
 "one vertebra","vertebra",0,1
@@ -6439,6 +6823,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "ONE-QUARTER OF RIGHT SIDE OF CERVICAL VERTEBRA, IMM.",,0,0
 "One-third navicular.",,0,0
 "One-third R dentary.",,0,0
+"One-third unerupted lower cheek tooth.",,0,0
+"Opercular.",,0,0
 "originally:   EtOH",,0,0
 "originally:   formalin",,0,0
 "originally:  10% Formalin",,0,0
@@ -7004,10 +7390,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "P4/, M1/ OR M2/",,0,0
 "P4/.",,0,0
 "Pair dentaries R p/3 p/4 p/1, L c/1 p/3 m/1.",,0,0
+"Pair dentary R i/1, R and L i/2 i/3 p/2 p/3 p/4 m/1 m/2 m3/",,0,0
 "Pair dentary.",,0,0
 "Pair frontal, partial L parietal.",,0,0
 "Pair frontal.",,0,0
 "Pair frontals.",,0,0
+"Pair frontals; L frontal.",,0,0
 "Pair maxilla L P4/ M1/ M2/.",,0,0
 "Pair maxilla R I1/.",,0,0
 "Pair maxilla.",,0,0
@@ -7039,10 +7427,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "PALATE & FRAG MOLAR (TOGETHER)",,0,0
 "PALATE & MAXILLA PR",,0,0
 "PALATE (2), DENTARY FRAG (5), CHEEKTOOTH (9), ITEM",,0,0
+"PALATE (3), CHEEKTOOTH (57), OTHER 19",,0,0
 "PALATE (3), CHEEKTOOTH (60), OTHER 19",,0,0
 "PALATE (3), PALATE R M1-2",,0,0
 "PALATE ? FRAG",,0,0
+"Palate and L zygomatic R & L P2/ P3/ P4/ M1/ 2/ M3/.",,0,0
+"Palate and portion L maxilla.",,0,0
 "Palate and premaxillae. L M1/ M2/; R I1/ M1/ M2/.",,0,0
+"Palate and R and L maxilla and R premaxilla, R ID2/ ID3/ DP2/ DP3/ DP4/ M1/ M2/; L DI1 DP2/ DP3/ DP4/ M1/.",,0,0
 "Palate and R premaxilla, R ID2/ ID3/ DP2/ DP3/ DP4/ M1/ M2/; L DI1 DP2/ DP3/ DP4/ M1/.",,0,0
 "PALATE ANT",,0,0
 "PALATE CENTRAL",,0,0
@@ -7053,6 +7445,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Palate L m/1 m/2 m/3.",,0,0
 "Palate L M1/ M2/ M3/ R M1/ M2/.",,0,0
 "Palate L M1/ M2/ M3/.",,0,0
+"Palate L M1/ M2/.",,0,0
 "PALATE L M1/ R M2/",,0,0
 "Palate L M1/ R M2/.",,0,0
 "PALATE L M1/, R M2-3/",,0,0
@@ -7061,6 +7454,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PALATE L M1-2/ R M2/",,0,0
 "PALATE L M1-3/ R M2-3/",,0,0
 "PALATE L M2/",,0,0
+"Palate L M2/  M3/; R M2/.",,0,0
 "PALATE L M2/, M1/ R, M/2 L",,0,0
 "PALATE L M2-3 FRAG",,0,0
 "Palate L M3/.",,0,0
@@ -7068,6 +7462,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PALATE L P4/ M2/",,0,0
 "PALATE L P4-M3/",,0,0
 "Palate M1/ M2/ M3/; R dentary.",,0,0
+"Palate M1/ M2/ M3/; R dentary; R m/1.",,0,0
 "Palate M1/ M2/.",,0,0
 "Palate M1/.",,0,0
 "PALATE M1-2/ L",,0,0
@@ -7089,6 +7484,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PALATE R & L P4-M1/ L M2-3/",,0,0
 "PALATE R & L P4-M3/",,0,0
 "PALATE R C1/ P4-M2/ L P4-M3/",,0,0
+"Palate R DP2/ DP3/ DP4/ M1/, L DP2/ DP3/ DP4 M1/.",,0,0
 "PALATE R DP2-4/",,0,0
 "PALATE R M1/ L M1-3/",,0,0
 "PALATE R M1/ L M2/",,0,0
@@ -7096,7 +7492,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Palate R M1/ M2/ L M1/ M2/.",,0,0
 "Palate R M1/ M2/ M3, L M1/ M2/ M3/.",,0,0
 "Palate R M1/ M2/ M3/ (all loose); L M1/ M2/ M3/.",,0,0
+"Palate R M1/ M2/ M3/.",,0,0
 "Palate R M1/ M2/, L M1/.",,0,0
+"Palate R M1/ M2/; L M1/.",,0,0
 "Palate R M1/ M3/; L M3/.",,0,0
 "PALATE R M1-2, M1/ R, M2/ L (2)",,0,0
 "PALATE R M1-2/",,0,0
@@ -7114,6 +7512,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PALATE R P2/ P4-M3/ L P2/",,0,0
 "PALATE R P3/ M1-3 L P2/ M1-3/",,0,0
 "PALATE R P4/ M1/ L P4/ M2/",,0,0
+"Palate R P4/ M1/ M2/ M3/, L P4/ M1/ M2/ (P4/s probably deciduous).",,0,0
 "Palate R P4/ M1/, L P4/ M1/.",,0,0
 "PALATE R P4-M1/ L P4-M2/",,0,0
 "PALATE R P4-M3/ L P4-M1/",,0,0
@@ -7134,6 +7533,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "PALATE, MOLAR (25), DENTARY FRAG",,0,0
 "Palate, roots of several teeth.",,0,0
 "Palate.",,0,0
+"Palate; dentary fragment; molar (25).",,0,0
+"Palate; M2/.",,0,0
 "par skel + DNA","partial skeleton, DNA",0,1
 "Par Skeleton, Wing, Skin, DNA","partial skeleton, wing, skin, DNA",0,1
 "Par. Skeleton","partial skeleton",0,1
@@ -7144,6 +7545,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "PARIETAL L",,0,0
 "Parietal pair (?).",,0,0
 "Parietal pair.",,0,0
+"Parietal pair; dentary (2); maxilla (2).",,0,0
+"Parietal pair; R dentary.",,0,0
 "PARIETAL PART",,0,0
 "PARIETAL PARTIAL",,0,0
 "PARIETAL R",,0,0
@@ -7152,6 +7555,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Parietals.",,0,0
 "PART","partial skeleton",0,1
 "PART BODY SKELETON","partial body skeleton",0,1
+"part of Skull",,0,0
 "PART OF UPPER TOOTH ROW (MICROSLIDE)","partial upper tooth row (microslide)",0,1
 "Part proximal end ulna.",,0,0
 "PART SKULL & SEVERAL CERV","partial body skeleton, cervicals",0,1
@@ -7166,45 +7570,70 @@ R PERIPHERALS 2 - 3.",,0,0
 "PARTIAL (DRY), tissue","partial animal, tissue",0,1
 "Partial (EtOH)","partial animal (ETOH)",0,1
 "Partial (Formalin)","partial animal (Formalin)",0,1
+"Partial anterior sternum.",,0,0
 "PARTIAL BODY SKELETON","partial body skeleton",0,1
 "PARTIAL CARAPACE (DRY)","partial carapace",0,1
+"Partial cheek tooth.",,0,0
 "Partial cheektooth.",,0,0
 "Partial dentary m/1 m/2.",,0,0
 "Partial dentary.",,0,0
 "Partial diaphysis L femur.",,0,0
+"Partial distal end femur.",,0,0
 "Partial distal end R femur.",,0,0
 "Partial distal half L coracoid.",,0,0
+"Partial distal humerus.",,0,0
 "PARTIAL DISTAL L HUMERUS.",,0,0
+"Partial distal tibia.",,0,0
 "Partial distal tip tibiotarsus.",,0,0
 "PARTIAL FLAT SKIN","partial flat skin",0,1
 "Partial furcula.",,0,0
 "Partial I1/.",,0,0
+"Partial L astragalus.",,0,0
+"Partial L astragalus; tooth fragments.",,0,0
+"Partial L calcaneum.",,0,0
 "Partial L dentary m/1.",,0,0
 "Partial L dentary p/3 p/4.",,0,0
 "Partial L dentary, tooth fragments.",,0,0
+"Partial L dentary.",,0,0
 "PARTIAL L FRONTAL, IMM.",,0,0
 "Partial L m/3.",,0,0
 "Partial L maxilla M1/.",,0,0
 "Partial L maxilla p/4, partial m/1.",,0,0
 "Partial L maxilla P2/ P3/ P4/ M1/ M2/ M3/.",,0,0
+"Partial L maxilla P3/ P4/ M1/ M2/ M3/.",,0,0
 "Partial L maxilla P4/ M1/ M2/.",,0,0
 "Partial L p/3.",,0,0
 "Partial L scapula.",,0,0
 "Partial L squamosal.",,0,0
+"Partial L tibia.",,0,0
+"Partial L upper cheek tooth.",,0,0
 "Partial L upper cheektooth.",,0,0
+"Partial lower cheek tooth.",,0,0
+"Partial lower L cheek tooth.",,0,0
 "Partial m/1 (?).",,0,0
 "Partial m/1.",,0,0
 "Partial metapodial III/IV.",,0,0
 "Partial pair parietals, R squamosal, most of occiput.",,0,0
 "Partial pair premaxilla.",,0,0
+"Partial palate M1/ M2/.",,0,0
+"Partial palate.",,0,0
+"Partial parietal pair.",,0,0
 "Partial pleural.",,0,0
+"Partial proximal end R tibia.",,0,0
+"Partial proximal epiphysis R humerus.",,0,0
 "Partial proximal femur.",,0,0
 "PARTIAL R (?) SCAPULA.",,0,0
+"Partial R astragalus.",,0,0
+"Partial R calcaneum, missing epiphysis.",,0,0
+"Partial R cheek tooth.",,0,0
+"Partial R dentary dp/2 dp/3 dp/4, unerupted m/1.",,0,0
 "Partial R dentary m/1 m/2 m/3.",,0,0
 "Partial R dentary M/1 m/2.",,0,0
 "Partial R dentary m/1.",,0,0
 "Partial R dentary m/2.",,0,0
+"Partial R dentary p/2 p/3 p/4 m/1 m/2 m/3.",,0,0
 "Partial R dentary, fragmentary teeth.",,0,0
+"Partial R dentary.",,0,0
 "Partial R frontal.",,0,0
 "Partial R ilium.",,0,0
 "PARTIAL R ISCHIUM.",,0,0
@@ -7213,7 +7642,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Partial R tibiotarsus.",,0,0
 "Partial radius.",,0,0
 "partial right dentary",,0,0
+"Partial shaft femur.",,0,0
 "PARTIAL SHAFT L TARSOMETATARSUS.",,0,0
+"Partial shaft metapodial.",,0,0
 "Partial shaft metatarsal.",,0,0
 "PARTIAL SHELL (DRY)","parital shell",0,1
 "PARTIAL SHELL AND FLUID PARTS","partial shell, fluid parts",0,1
@@ -7288,11 +7719,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Partial tibia.",,0,0
 "Partial tibiofibula.",,0,0
 "Partial tooth.",,0,0
+"Partial upper cheek tooth.",,0,0
+"Partial upper R cheek tooth, unworn.",,0,0
 "Partial vertebra",,0,0
 "PARTIAL VERTEBRAE.",,0,0
 "partial wing","partial wing",0,1
 "PARTIAL: SKULL AND TAIL ONLY","skull, tail",0,1
 "PARTIAL: SKULL AND TAIL ONLY, tissue","skull, tail, tissue",0,1
+"Parts L p/2 p/3 p/4 m/1 m/2 m/3.",,0,0
 "parts of 3 skulls",,0,0
 "PARTS OF TWO THORACIC VERTEBRAE, SUBAD.",,0,0
 "PATELLA",,0,0
@@ -7308,6 +7742,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PECTORAL SPINE (?) OR PREMAXILLA (?).",,0,0
 "PECTORAL SPINE (?).",,0,0
 "PECTORAL SPINE FRAG",,0,0
+"Pectoral spine fragment.",,0,0
 "PECTORAL SPINE.",,0,0
 "pelt","pelt",1,1
 "pelt (tanned)",,0,0
@@ -7396,32 +7831,45 @@ R PERIPHERALS 2 - 3.",,0,0
 "Phalanx",,0,0
 "Phalanx (claw)",,0,0
 "phalanx (claw).",,0,0
+"Phalanx 1.",,0,0
 "PHALANX EXCEPT PROXIMAL END.",,0,0
 "PHALANX FRAGMENT",,0,0
 "Phalanx I",,0,0
 "PHALANX I DIGIT II OF MANIS",,0,0
 "Phalanx I digit II of manis.",,0,0
 "Phalanx I except proximal end.",,0,0
+"Phalanx I, cf. anterior, portion of proximal end missing.",,0,0
 "Phalanx I, cf. anterior.",,0,0
 "PHALANX I, DIGIT III, L SIDE.",,0,0
+"Phalanx I, ends badly worn.",,0,0
+"Phalanx I, missing part of side and proximal end.",,0,0
 "Phalanx I, missing proximal end and portion posterior.",,0,0
 "Phalanx I, no epiphysis.",,0,0
+"Phalanx I, no proximal epiphysis",,0,0
 "Phalanx I, no proximal epiphysis.",,0,0
+"Phalanx I, one side missing, no epiphysis.",,0,0
 "Phalanx I, phalanx II.",,0,0
+"Phalanx I, portions of both ends missing.",,0,0
 "Phalanx I, probably anterior.",,0,0
+"Phalanx I, proximal epiphysis missing.",,0,0
 "Phalanx I.",,0,0
 "PHALANX II, AD.",,0,0
 "PHALANX II, DIGIT III, L SIDE.",,0,0
+"Phalanx II, distal end partly missing.",,0,0
 "Phalanx II, no proximal epiphysis.",,0,0
 "PHALANX II, PROBABLY DIGIT II OR V.",,0,0
 "Phalanx II.",,0,0
+"Phalanx II; distal end Phalanx II.",,0,0
 "Phalanx III (2); phalanx II (2).",,0,0
+"Phalanx III (posterior?)",,0,0
 "PHALANX III, IMM.",,0,0
 "PHALANX III, L SIDE.",,0,0
 "PHALANX III, L.",,0,0
+"Phalanx III, much of antero-dorsal region missing.",,0,0
 "Phalanx III.",,0,0
 "PHALANX L UNGUAL",,0,0
 "Phalanx of manis",,0,0
+"Phalanx of manis.",,0,0
 "PHALANX OF MANUS",,0,0
 "Phalanx of pes.",,0,0
 "PHALANX PES",,0,0
@@ -7503,8 +7951,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Plastron.",,0,0
 "plate",,0,0
 "PLATE (OF DECID TOOTH  ?)",,0,0
+"Plate (of deciduous tooth?).",,0,0
 "PLEURAL FRAG",,0,0
 "Pleural.",,0,0
+"PN",,0,0
 "PO",,0,0
 "Podial.",,0,0
 "PODIALS",,0,0
@@ -7520,7 +7970,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Portion canine.",,0,0
 "Portion carpometacarpus.",,0,0
 "Portion cervical vertebra.",,0,0
+"Portion cheek tooth.",,0,0
 "Portion cheektooth.",,0,0
+"Portion condyloid and coronoid processes of dentary.",,0,0
 "Portion condyloid and coronoid processes.",,0,0
 "Portion costal.",,0,0
 "Portion cranium.",,0,0
@@ -7529,13 +7981,21 @@ R PERIPHERALS 2 - 3.",,0,0
 "Portion diaphysis humerus.",,0,0
 "Portion diaphysis L tibia.",,0,0
 "Portion diaphysis metapodial (ca. 25%, posterior wall only)",,0,0
+"Portion distal end metapodial III.",,0,0
+"Portion distal epiphysis femur.",,0,0
 "PORTION DISTAL EPIPHYSIS METAPODIAL.",,0,0
+"Portion distal L humerus.",,0,0
+"Portion distal L tibia.",,0,0
+"Portion distal R tarsometatarsus.",,0,0
+"Portion dorsal end L coracoid.",,0,0
 "Portion epiphysis L humerus.",,0,0
 "Portion frontal pair.",,0,0
 "Portion frontal?",,0,0
 "Portion frontals; L dentary.",,0,0
 "Portion head L humerus.",,0,0
 "Portion head of humerus.",,0,0
+"Portion horn core.",,0,0
+"Portion i/1.",,0,0
 "Portion ilium.",,0,0
 "Portion innominate.",,0,0
 "Portion ischium.",,0,0
@@ -7553,6 +8013,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Portion L dentary with cheekteeth.",,0,0
 "Portion L dentary.",,0,0
 "Portion L frontal with L horn core.",,0,0
+"Portion L frontal.",,0,0
+"Portion L horn core.",,0,0
 "Portion L ilium and acetabulum.",,0,0
 "PORTION L MANDIBLE.",,0,0
 "Portion L maxilla M2/.",,0,0
@@ -7560,19 +8022,23 @@ R PERIPHERALS 2 - 3.",,0,0
 "Portion L maxilla.",,0,0
 "Portion L P4/.",,0,0
 "Portion L palatine.",,0,0
+"Portion L scapula.",,0,0
 "Portion L tibia.",,0,0
 "Portion limb.",,0,0
+"Portion long bone.",,0,0
 "Portion lumbar vertebra.",,0,0
 "Portion mandible.",,0,0
 "Portion marginal, plastron.",,0,0
 "Portion maxilla.",,0,0
 "Portion neural arch.",,0,0
+"Portion neural.",,0,0
 "Portion of  innominate: ishium, acetabulum",,0,0
 "Portion of axis",,0,0
 "PORTION OF COSTAL.",,0,0
 "Portion of dentary: Angular process, coronoid process, mandibular condyle, massenteric fossa",,0,0
 "Portion of dentary: massenteric fossa",,0,0
 "Portion of fibula",,0,0
+"Portion of incisor.",,0,0
 "Portion of innominate, ischium",,0,0
 "Portion of innominate: ilium , acetabulum",,0,0
 "Portion of L dentary: coronoid process, masseteric fossa, madiabular condyle",,0,0
@@ -7604,15 +8070,20 @@ R PERIPHERALS 2 - 3.",,0,0
 "PORTION OF STERNUM.",,0,0
 "Portion of thoracic vertebrae",,0,0
 "Portion of tibia",,0,0
+"Portion P2/.",,0,0
 "Portion pair maxilla 1 tooth.",,0,0
+"Portion palate R and L DP2/ DP3/ P4/ M1/ M2/.",,0,0
 "Portion parietal.",,0,0
 "Portion peripheral.",,0,0
 "Portion PH I.",,0,0
 "Portion premolar.",,0,0
+"Portion proximal epiphysis R humerus.",,0,0
+"Portion proximal epiphysis R tibia.",,0,0
 "Portion proximal one-third R tibiotarsus.",,0,0
 "Portion R dentary  p/2 p/3 p/4.",,0,0
 "Portion R dentary i/1 p/3 p.4 m/1 m/2.",,0,0
 "Portion R dentary i/1.",,0,0
+"Portion R dentary m/1 m/2 m/3.",,0,0
 "Portion R dentary m/1 m/2.",,0,0
 "Portion R dentary m/3.",,0,0
 "Portion R dentary P/2 m/1.",,0,0
@@ -7623,13 +8094,19 @@ R PERIPHERALS 2 - 3.",,0,0
 "Portion R dentary, 13 teeth.",,0,0
 "Portion R dentary.",,0,0
 "Portion R frontal.",,0,0
+"Portion R horn core.",,0,0
 "Portion R hypoplastron.",,0,0
 "Portion R ilium and ischium.",,0,0
 "Portion R innominate.",,0,0
 "Portion R M1/ or M2/.",,0,0
+"Portion R maxiilla M1/ M2/.",,0,0
 "Portion R maxilla M2/.",,0,0
 "Portion R maxilla.",,0,0
+"Portion R scapula.",,0,0
+"Portion R squamosal.",,0,0
+"Portion R ulna.",,0,0
 "Portion radius.",,0,0
+"Portion sacral vertebra.",,0,0
 "Portion scapula.",,0,0
 "PORTION SHAFT R TIBIA.",,0,0
 "Portion shaft tibiotarsus.",,0,0
@@ -7655,26 +8132,37 @@ R PERIPHERALS 2 - 3.",,0,0
 "POSTCRANIAL SKELETON (DRY)","post-cranial skeleton",0,1
 "Post-dentary L mandible.",,0,0
 "Post-dentary mandible.",,0,0
+"Posterio R ilium.",,0,0
 "POSTERIOR 1/5 SKULL.",,0,0
 "Posterior 2/3 L dentary w m/1-3",,0,0
 "Posterior 3/4 L dentary w m/1-3",,0,0
 "Posterior articular.",,0,0
 "POSTERIOR BODY",,0,0
 "Posterior braincase.",,0,0
+"Posterior dentary with condyloid and coronoid processes.",,0,0
+"Posterior end cheek tooth.",,0,0
 "POSTERIOR END CHEEKTOOTH.",,0,0
 "Posterior end mandible.",,0,0
+"Posterior fragment R dentary.",,0,0
 "Posterior fragment R dentary; m/1.",,0,0
+"Posterior half dentary",,0,0
 "Posterior half L dentary m/1 m/2.",,0,0
+"Posterior half L dentary m/3.",,0,0
 "Posterior half L dentary p/4 m/1 m/2 m/3.",,0,0
 "Posterior half L dentary.",,0,0
 "Posterior half L innominate.",,0,0
 "Posterior half L tibia.",,0,0
 "POSTERIOR HALF OF SHELL + (DRY)","posterior half of shell",0,1
+"Posterior half phalanx I.",,0,0
+"Posterior half R cheek tooth.",,0,0
 "Posterior half R dentary m/1 m/2 m/3.",,0,0
 "Posterior half R dentary p4 m1 m2",,0,0
+"Posterior half R dentary, articular process missing.",,0,0
+"Posterior half R dentary, posterior m/1 m/2 m/3.",,0,0
 "Posterior half R dentary.",,0,0
 "Posterior half R dentary. m/2 (unerupted).",,0,0
 "Posterior half R innominate.",,0,0
+"Posterior half R m/1.",,0,0
 "Posterior half skull with much of left horn core.",,0,0
 "Posterior half skull, including antler pedestals.",,0,0
 "Posterior half skull, R and L dentary.",,0,0
@@ -7698,10 +8186,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Posterior one-third L cheektooth.",,0,0
 "Posterior one-third L dentary m/3.",,0,0
 "Posterior one-third skull.",,0,0
+"Posterior PH 1.",,0,0
+"Posterior phalanx I, portion proximal end missing.",,0,0
+"Posterior phalanx I.",,0,0
 "Posterior phalanx III.",,0,0
 "Posterior portion lower mandible.",,0,0
 "Posterior portion R dentary m/1.",,0,0
 "Posterior portion R dentary.",,0,0
+"Posterior portion R dp/, unworn.",,0,0
 "Posterior portion R mandible.",,0,0
 "POSTERIOR PROXIMAL END R FEMUR, AD.",,0,0
 "POSTERIOR PROXIMAL END R FEMUR.",,0,0
@@ -7726,17 +8218,23 @@ R PERIPHERALS 2 - 3.",,0,0
 "Posterior skull, portion R maxilla, metatarsal, metacarpal, scapula, pair innominata, ulna, radius, humerus, femur, tibia, calcaneum, sacrum, cervical vertebra.","posterior skull, portion R maxilla, metatarsal, metacarpal, scapula, pair innominata, ulna, radius, humerus, femur, tibia, calcaneum, sacrum, cervical vertebra",0,1
 "Posterior skull.",,0,0
 "Posterior three quarters R dentary m/1.",,0,0
+"Posterior three-quarters L astragalus.",,0,0
 "Posterior three-quarters L calcaneum.",,0,0
+"Posterior three-quarters L calcaneum; fragment distal metapodial, limb fragments.",,0,0
 "Posterior three-quarters L dentary.",,0,0
 "Posterior three-quarters R dentary p/4 m/1 m/2.",,0,0
 "Posterior two-thirds L calcaneum.",,0,0
 "Posterior two-thirds L dentary m/1 m/2",,0,0
+"Posterior two-thirds L dentary m/1.",,0,0
 "Posterior two-thirds L dentary.",,0,0
+"Posterior two-thirds L molar, probably m/2.",,0,0
+"Posterior two-thirds R dentary m/1.",,0,0
 "POSTERIOR TWO-THIRDS R SIDE OF SKULL.",,0,0
 "Posterior two-thirds skull and L maxilla P4/.",,0,0
 "Posterior two-thirds skull.",,0,0
 "Postero-dorsal L dentary.",,0,0
 "POSTEROLATERAL FRAG. R HYPOPLASTRON.",,0,0
+"Postero-lateral m/1.",,0,0
 "POSTEROVENTRAL ONE-EIGHTH R SCAPULA, IMM.",,0,0
 "Postero-ventral quarter L scapula.",,0,0
 "POSTORBITAL PORTION L FRONTAL, VERY IMM.",,0,0
@@ -7753,6 +8251,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PREMAXILLA & MAXILLA PR",,0,0
 "PREMAXILLA & MAXILLA PR, DENTARY POST R",,0,0
 "PREMAXILLA & MAXILLAE OR",,0,0
+"Premaxilla (2); maxilla (2); L dentary.",,0,0
 "PREMAXILLA AND FANG",,0,0
 "PREMAXILLA AND FANG L",,0,0
 "PREMAXILLA AND FANG R",,0,0
@@ -7769,6 +8268,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PREMAXILLA L & R I1/",,0,0
 "PREMAXILLA L I1/ PR",,0,0
 "PREMAXILLA L I1-3/, R I2/",,0,0
+"PREMAXILLA L I1-3/, R I2/ Premaxilla L I1/ I2/ I3/, R I2/.",,0,0
 "PREMAXILLA L&R",,0,0
 "PREMAXILLA L&R I1/ L&R",,0,0
 "PREMAXILLA LI1/ RI1/ L&R",,0,0
@@ -7797,6 +8297,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PREMOLAR HALF",,0,0
 "PREMOLAR LOWER DECIDUOUS R",,0,0
 "PREMOLAR LOWER R",,0,0
+"Premolar, medial half premolar.",,0,0
 "Premolar.",,0,0
 "PREMOLARS",,0,0
 "PREOPERCULA (?).",,0,0
@@ -7857,6 +8358,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Primary",,0,0
 "Probably fragment costal.",,0,0
 "Protoconal area of upper cheektooth.",,0,0
+"Protocone L cheek tooth.",,0,0
 "proventriculus & stomach","proventriculus, stomach",0,1
 "Prox 1/4 L tarsometarsus",,0,0
 "Prox 1/5 L humerus",,0,0
@@ -7907,9 +8409,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Proximal 4/5 R humerus.",,0,0
 "Proximal 4/5 R ulna",,0,0
 "Proximal 5/6 metatarsal.",,0,0
+"Proximal 9/10 R tibiotarsus.",,0,0
+"Proximal and distal R coracoid.",,0,0
 "Proximal and distal ulna.",,0,0
 "Proximal carpometacarpus.",,0,0
 "Proximal coracoid.",,0,0
+"Proximal diaphysis L tarsometatarsus.",,0,0
 "Proximal diaphysis R femur.",,0,0
 "PROXIMAL DIAPHYSIS R HUMERUS, PROXIMAL EPIPHYSIS MISSING.",,0,0
 "PROXIMAL DIAPHYSIS R HUMERUS.",,0,0
@@ -7923,7 +8428,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Proximal end L femur.",,0,0
 "PROXIMAL END L HUMERUS, AD.",,0,0
 "Proximal end L humerus.",,0,0
+"Proximal end L mandible.",,0,0
 "PROXIMAL END L PHALANX I, AD.",,0,0
+"Proximal end L radius, distal end L tibiofibula.",,0,0
 "Proximal end L radius.",,0,0
 "PROXIMAL END L SCAPULA, AD.",,0,0
 "PROXIMAL END L SCAPULA, SUBAD.",,0,0
@@ -7936,6 +8443,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Proximal end L ulna.",,0,0
 "Proximal end mandible.",,0,0
 "Proximal end metacarpal  III/IV.",,0,0
+"Proximal end metacarpal II.",,0,0
 "PROXIMAL END METACARPAL.",,0,0
 "Proximal end metacarpals III/IV.",,0,0
 "PROXIMAL END METAPODIAL.",,0,0
@@ -7956,8 +8464,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "PROXIMAL END R ULNA EXCEPT PROXIMAL TIP.",,0,0
 "PROXIMAL END R ULNA, AD.",,0,0
 "Proximal end R ulna.",,0,0
+"Proximal end radius",,0,0
 "Proximal end radius.",,0,0
 "Proximal end scapula.",,0,0
+"Proximal end shaft R humerus.",,0,0
+"Proximal end sternum.",,0,0
+"Proximal end tibia.",,0,0
 "Proximal end tibiofibula.",,0,0
 "Proximal end tibiotarsus.",,0,0
 "Proximal end ulna.",,0,0
@@ -7965,12 +8477,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "PROXIMAL EPIPHYSIS L HUMERUS.",,0,0
 "PROXIMAL EPIPHYSIS L PHALANX I, IMM.",,0,0
 "PROXIMAL EPIPHYSIS L TIBIA, R TWO-THIRDS.",,0,0
+"Proximal epiphysis L tibia.",,0,0
 "PROXIMAL EPIPHYSIS OF PHALANX III OR IV, RIGHT SIDE OF FOOT.  IMM.",,0,0
 "Proximal epiphysis of R tibia.",,0,0
 "PROXIMAL EPIPHYSIS PH I.",,0,0
 "PROXIMAL EPIPHYSIS PHALANX (I?), LATERAL DIGIT.",,0,0
 "PROXIMAL EPIPHYSIS PHALANX I, IMM.",,0,0
 "PROXIMAL EPIPHYSIS PHALANX I.",,0,0
+"Proximal epiphysis phalanx II.",,0,0
 "Proximal epiphysis R humerus.",,0,0
 "PROXIMAL EPIPHYSIS R PHALANX I, DIGIT III OR IV, IMM.",,0,0
 "Proximal epiphysis R tibia.",,0,0
@@ -7981,6 +8495,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Proximal five-sixth L humerus.",,0,0
 "Proximal five-sixth L tibia.",,0,0
 "Proximal four-fifth L femur.",,0,0
+"Proximal four-fifths L metatarsus.",,0,0
 "Proximal four-fifths L PH I, digit 2 of manis.",,0,0
 "Proximal four-fifths L tarsometatarsus.",,0,0
 "Proximal four-fifths R coracoid.",,0,0
@@ -8017,6 +8532,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Proximal half L scapula.",,0,0
 "Proximal half L tarsometatarsus, portion proximal end missing.",,0,0
 "Proximal half L tarsometatarsus.",,0,0
+"Proximal half L tibia.",,0,0
 "Proximal half L tibiotarsus.",,0,0
 "PROXIMAL HALF L ULNA, PROXIMAL END BROKEN OFF.",,0,0
 "Proximal half L ulna.",,0,0
@@ -8051,9 +8567,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Proximal L metacarpal  III/IV.",,0,0
 "Proximal L metacarpal III.",,0,0
 "Proximal L metacarpal.",,0,0
+"Proximal L metatarsal III.",,0,0
+"Proximal L metatarsal.",,0,0
 "Proximal L radius.",,0,0
 "PROXIMAL L SCAPULA, AD.",,0,0
 "Proximal L scapula.",,0,0
+"Proximal L side phalanx III.",,0,0
 "PROXIMAL L TARSOMETATARSUS, AD.",,0,0
 "Proximal L tarsometatarsus.",,0,0
 "PROXIMAL L TIBIOFIBULA, AD.",,0,0
@@ -8061,9 +8580,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Proximal L ulna.",,0,0
 "Proximal medial two-thirds L femur.",,0,0
 "Proximal metacarpals III/IV.",,0,0
+"Proximal metatarsal III/IV.",,0,0
 "Proximal metatarsal.",,0,0
 "Proximal metatarsals III/IV, segment more distal diaphysis.",,0,0
 "Proximal one-fifth tibiofibula.",,0,0
+"Proximal one-fourth L ulna.",,0,0
 "Proximal one-fourth R femur.",,0,0
 "Proximal one-fourth R humerus.",,0,0
 "Proximal one-fourth radius.",,0,0
@@ -8075,8 +8596,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Proximal one-quarter L tibiofibula.",,0,0
 "Proximal one-quarter R radius.",,0,0
 "Proximal one-quarter ulna.",,0,0
+"Proximal one-sixth L humerus, portions missing.",,0,0
+"Proximal one-third diaphysis radius, manibular symphysis, petrosal.",,0,0
 "Proximal one-third humerus.",,0,0
 "Proximal one-third L femur.",,0,0
+"Proximal one-third L humerus; proximal end R humerus; 3 fragments coracoid; 6 partial to entire vertebrae; synsacrum with fragment L ilium and partial R innominate (2 pieces); ulna except distal tip in 2 pieces; distal two-thirds radius in 2 pieces; scapu",,0,0
+"Proximal one-third L metacarpal III/IV.",,0,0
 "Proximal one-third L radius.",,0,0
 "Proximal one-third L tarsometatarsus.",,0,0
 "Proximal one-third L ulna.",,0,0
@@ -8089,6 +8614,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Proximal one-third R scapula.",,0,0
 "Proximal one-third R ulna.",,0,0
 "Proximal one-third scapula.",,0,0
+"Proximal one-third tarsometatarsus, proximal end damaged.",,0,0
 "Proximal one-third tibiotarsus.",,0,0
 "Proximal one-third ulna.",,0,0
 "PROXIMAL PH I.",,0,0
@@ -8144,6 +8670,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Proximal radius.",,0,0
 "Proximal scapula",,0,0
 "Proximal scapula.",,0,0
+"Proximal shaft femur, proximal end cut off, distal end segment ringed..",,0,0
 "PROXIMAL SHAFT FIBULA (L?).",,0,0
 "PROXIMAL SHAFT L ULNA.",,0,0
 "Proximal shaft limb bone.",,0,0
@@ -8151,36 +8678,51 @@ R PERIPHERALS 2 - 3.",,0,0
 "Proximal shaft tibiotarsus.",,0,0
 "Proximal tarsometatarsus.",,0,0
 "Proximal third L scapula.",,0,0
+"Proximal third L tarsometatarsus.",,0,0
 "Proximal third L ulna, missing proximal tip.",,0,0
+"Proximal third R tarsometatarsus.",,0,0
+"Proximal third radius.",,0,0
 "Proximal three-fifths radius.",,0,0
 "Proximal three-quarters femur.",,0,0
+"Proximal three-quarters humerus.",,0,0
 "Proximal three-quarters L femur.",,0,0
 "Proximal three-quarters L humerus.",,0,0
 "Proximal three-quarters L metacarpal IV.",,0,0
+"Proximal three-quarters L radius and base of ulna.",,0,0
 "Proximal three-quarters L tarsometatarsus.",,0,0
 "Proximal three-quarters metacarpal IV.",,0,0
 "Proximal three-quarters R dentary i/1 m/1 m/2 m/3.",,0,0
 "Proximal three-quarters R femur.",,0,0
+"Proximal three-quarters R tarsometatarsus.",,0,0
 "Proximal three-quarters R tibiotarsus.",,0,0
 "Proximal three-quarters radius.",,0,0
 "Proximal tibiotarsus.",,0,0
 "Proximal tip humerus, terminal phalanx pes.",,0,0
+"Proximal tip of R tarsometatarsus.",,0,0
+"Proximal tip of ulna.",,0,0
 "Proximal tip R radius.",,0,0
 "Proximal tip R tibiofibula.",,0,0
+"Proximal tip R ulna.",,0,0
 "Proximal tip ulna.",,0,0
 "Proximal two-thirds humerus.",,0,0
 "PROXIMAL TWO-THIRDS L HUMERUS, IMM.",,0,0
 "Proximal two-thirds L humerus.",,0,0
+"Proximal two-thirds L metacarpal II and metacarpal III (fused).",,0,0
+"Proximal two-thirds L metatarsal III.",,0,0
 "Proximal two-thirds L MT III.",,0,0
 "Proximal two-thirds L radius.",,0,0
 "PROXIMAL TWO-THIRDS L SCAPULA, AD.",,0,0
+"Proximal two-thirds L scapula.",,0,0
+"Proximal two-thirds L tarsometatarsus.",,0,0
 "Proximal two-thirds L tibiofibula.",,0,0
 "Proximal two-thirds metacarpal II and metacarpal III (fused).",,0,0
 "PROXIMAL TWO-THIRDS METAPODIALS III AND IV.",,0,0
 "PROXIMAL TWO-THIRDS R CARPOMETACARPUS.",,0,0
+"Proximal two-thirds R coracoid with a portion of proximal end missing.",,0,0
 "PROXIMAL TWO-THIRDS R CORACOID.",,0,0
 "Proximal two-thirds R humerus.",,0,0
 "Proximal two-thirds R metacarpal III/IV.",,0,0
+"Proximal two-thirds R metatarsal III/IV.",,0,0
 "Proximal two-thirds R ulna.",,0,0
 "Proximal two-thirds radius.",,0,0
 "Proximal two-thirds ulna.",,0,0
@@ -8191,6 +8733,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PROXIMALPHALANX II, IMM.
 
 ",,0,0
+"PROXIMALPHALANX II, IMM.",,0,0
 "ps","partial skeleton",0,1
 "PS0","PS0",0,1
 "PTERYGOID L",,0,0
@@ -8200,12 +8743,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "PYGAL.",,0,0
 "PYGOSTYLE",,0,0
 "Quadrate.",,0,0
+"R  and L dentary; frontal pair.",,0,0
 "R & L I1/ ; R I2/",,0,0
 "R (?) metatarsal.",,0,0
 "R ? p/4 or ? m/1.",,0,0
+"R ?m/3.",,0,0
 "R ACETABULAR AREA.",,0,0
 "R ACETABULAR REGION.",,0,0
 "R ACETABULUM AND PARTIAL ISCHIUM.",,0,0
+"R acetabulum and portion ischium.",,0,0
 "R and central portion furcula.",,0,0
 "R and L calcaneum.",,0,0
 "R and L dentaries.","right dentary, left dentary",0,1
@@ -8214,8 +8760,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "R and L dentary; R and L i/1 p/3 p/4 m/1 m/2 m/3.",,0,0
 "R and L frontal, L parietal, L squamosal.",,0,0
 "R and L frontal.",,0,0
+"R and L I1/ I2/ I3/ P2/ P3/ P4/ M1/ M2/ M3/.",,0,0
 "R and L lower cheektooth.",,0,0
+"R and L mandible 3 cheek teeth.",,0,0
 "R and L maxilla and posterior to basisphenoid; R P3/ P4/; L P4/ M1/; loose cheektooth.",,0,0
+"R and L maxilla and premaxilla, R and L DP2/ DP3/ DP4/ M1/ M2/ M3/.",,0,0
+"R and L maxilla M2/ M3/.",,0,0
 "R and L maxilla R and L P3/ P4/ M1/ M2/ M3/.",,0,0
 "R and L maxilla R P3/ P4/ M1/ M2/ M3/ and L P3/ P4/ M1/ M2/ M3/.",,0,0
 "R and L maxilla w R m1-2/",,0,0
@@ -8227,6 +8777,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "R and L maxilla.",,0,0
 "R and L maxilla. L P4/.",,0,0
 "R and L maxilla;  R and L p4/ m2/",,0,0
+"R and L maxilla; central palate.",,0,0
 "R and L maxilla; L P4/.",,0,0
 "R and L parietal.",,0,0
 "R and L premaxilla",,0,0
@@ -8242,10 +8793,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "R and L premaxillae R and L maxillae R M1/.",,0,0
 "R and L premaxillae.",,0,0
 "R and left magnum.",,0,0
+"R anterior dentary R and L i/1 i/2 i/3, R p/2.",,0,0
+"R anterior phalanx I.",,0,0
 "R anterior skull U3/ U4/ P4/ M1/ M2/ M3/.",,0,0
 "R ANTEROLATERAL LUMBAR VERTEBRA.",,0,0
 "R articular.",,0,0
 "R astragalus",,0,0
+"R astragalus, chip missing.",,0,0
 "R astragalus.",,0,0
 "R auditory bulla, mastoid region.",,0,0
 "R auditory bulla.",,0,0
@@ -8260,12 +8814,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "R carpometacarpus",,0,0
 "R carpometacarpus, articulations missing.",,0,0
 "R CARPOMETACARPUS, LACKING DISTAL END.",,0,0
+"R carpometacarpus, missing MC III and distal tip.",,0,0
+"R carpometacarpus, proximal three-quarters R carpometacarpus.",,0,0
 "R carpometacarpus.",,0,0
 "R CARPOMETACARPUS.  IMM.",,0,0
 "R cheektooth.",,0,0
 "R condyle and fragment diaphysis metatarsal IV.",,0,0
 "R coracoid except dorsal end (rodent gnawed).",,0,0
 "R CORACOID EXCEPT HEAD, AD.",,0,0
+"R coracoid, head and a portion of base missing.",,0,0
 "R coracoid, head region damaged.",,0,0
 "R coracoid, missing head.",,0,0
 "R coracoid.",,0,0
@@ -8283,6 +8840,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "R dentary  d/i  dc/1 dp/2 dp/3 dp/4 ; forming i/1, m/1.",,0,0
 "R dentary  i/1 m/1 m/2  m/3.",,0,0
 "R dentary  i/1 m/2 m/3.",,0,0
+"R dentary  I/1 U/2 M/1-2.",,0,0
 "R dentary  i/1.",,0,0
 "R dentary  m/1 m/2.",,0,0
 "R dentary  m/1.",,0,0
@@ -8297,15 +8855,21 @@ R PERIPHERALS 2 - 3.",,0,0
 "R dentary C/1 P/2,4 M/1-3 .",,0,0
 "R dentary c/1 p/3 p/4 m/1 m/2.",,0,0
 "R dentary c/1 p/3 p/4 m/1.",,0,0
+"R dentary C/1 P/3-M/3.",,0,0
+"R dentary c/1.",,0,0
 "R dentary c1 p3-4 m1-2",,0,0
+"R dentary dp/2 dp/3 dp/4 m/1 m/2.",,0,0
 "R dentary dp/3 dp/4.",,0,0
 "R DENTARY FRAG WITH M/2, PARTIAL M/3",,0,0
 "R dentary fragment i/1.",,0,0
 "R dentary fragment m/1.",,0,0
+"R dentary fragment.",,0,0
+"R dentary fragments, 5 cheek teeth.",,0,0
 "R dentary i/ u/1 u/2 p/4 m/1 m/2 m/3.",,0,0
 "R dentary i/1 (broken) p/4 m/1 m/2 m/3.",,0,0
 "R dentary i/1 /1 m/2.",,0,0
 "R dentary i/1 m/1 m/2 m/3.",,0,0
+"R dentary i/1 m/1 m/2 m/3; R dentary i/1 m/1 m/2.",,0,0
 "R dentary i/1 m/1 m/2 m/3; R maxlla M1/ M/2 M/3.",,0,0
 "R dentary i/1 m/1 m/2.",,0,0
 "R dentary i/1 m/1 m/2; M2/.",,0,0
@@ -8316,8 +8880,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "R DENTARY I/1 M/1-2, LOOSE TOOTH",,0,0
 "R dentary i/1 m/2 m/3.",,0,0
 "R dentary i/1 m/2.",,0,0
+"R dentary i/1 m/2; R dentary; molar (1).",,0,0
 "R dentary i/1 m/2; R dentary; molar (3).",,0,0
 "R dentary i/1 m1 m/2 m/3.",,0,0
+"R dentary i/1 m1 m/2.",,0,0
 "R dentary i/1 p.4 m/1 m/2.",,0,0
 "R dentary i/1 p/2 m/3 m/4 m/1 m/2.",,0,0
 "R dentary i/1 p/3 p/4 m/1 m/2",,0,0
@@ -8353,6 +8919,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "R dentary i/1, missing coronoid  and angular processes.",,0,0
 "R dentary i/1, missing coronoid process.",,0,0
 "R dentary i/1.",,0,0
+"R dentary i/1; molar (4).",,0,0
+"R dentary i/1; molar(4).",,0,0
 "R dentary i/1-m/3.",,0,0
 "R dentary i/2 i/3 p/2 m/2 m/3.",,0,0
 "R dentary i/3 m2 m/3.",,0,0
@@ -8362,12 +8930,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "R dentary m/1 m/2 m/3",,0,0
 "R dentary m/1 m/2 m/3 (loose).",,0,0
 "R dentary m/1 m/2 m/3.",,0,0
+"R dentary m/1 m/2 m/3; L dentary.",,0,0
 "R dentary m/1 m/2 m3/.",,0,0
 "R dentary m/1 m/2.",,0,0
 "R dentary m/1 m/2; palate.",,0,0
+"R dentary m/1 m/2; R dentary; palate.",,0,0
 "R dentary m/1 m/3.",,0,0
 "R dentary m/1.",,0,0
 "R dentary m/1; L dentary m/1.",,0,0
+"R dentary m/1; R dentary.",,0,0
 "R dentary m/1m/2 m/3.",,0,0
 "R dentary m/2 m/3.",,0,0
 "R dentary m/2, R dentary m/1 m/2.",,0,0
@@ -8375,6 +8946,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "R dentary m/3.",,0,0
 "R dentary m1",,0,0
 "R dentary m1 m/2 m/3.",,0,0
+"R dentary m1 m/2 m/3; L m/1.",,0,0
 "R dentary m1, m2",,0,0
 "R dentary m1, m2, p1, p2",,0,0
 "R dentary m1,m2, p3, p4",,0,0
@@ -8404,6 +8976,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "R dentary p/3 p/4 m/1 m/2.",,0,0
 "R dentary p/3 p/4 m/1 m/2; limb fragments.",,0,0
 "R dentary p/3 p/4 m/1.",,0,0
+"R dentary p/3 p/4 m1.",,0,0
 "R dentary p/3 p/4.",,0,0
 "R dentary p/3 partial p/4 m/1.",,0,0
 "R dentary p/3.",,0,0
@@ -8436,6 +9009,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "R dentary u/2 p/4 m/1 m/2 m/3.",,0,0
 "R dentary u/2 p/4 m/1.",,0,0
 "R dentary u/2 p/4 m/2.",,0,0
+"R dentary u/2 u/3 m/1 m/2 m/3.",,0,0
 "R dentary u/2 u/3 p/4 m/1 m/2 m/3; L I1/.",,0,0
 "R DENTARY U/2-M/2",,0,0
 "R dentary w all teeth.",,0,0
@@ -8520,20 +9094,27 @@ R PERIPHERALS 2 - 3.",,0,0
 "R dentary. p/4 m/1.",,0,0
 "R dentary. p/4 m/2.",,0,0
 "R dentary: m1, m2",,0,0
+"R dentary; cheektooth (3).",,0,0
 "R dentary; cheektooth (4).",,0,0
 "R dentary; innominate.",,0,0
 "R dentary; L dentary.",,0,0
+"R dentary; portion frontal pair.",,0,0
 "R dentary; R m/1.",,0,0
+"R dentary; segment R dentary.",,0,0
 "R DISTAL 1/3 TIBIOTARSUS.",,0,0
 "R DORSAL ACETABULAR AREA.",,0,0
+"R dp/3 dp/4.",,0,0
 "R dp/3 or dp/4.",,0,0
 "R dp/3-4.",,0,0
+"R DP3/ or DP4/.",,0,0
+"R DP3-4/; M1-2/ R; DI/; many tooth fragments.",,0,0
 "R ectocuneiform.",,0,0
 "R ectomesocuneiform.",,0,0
 "R eleventh peripheral.",,0,0
 "R femur",,0,0
 "R FEMUR EXCEPT HEAD.",,0,0
 "R femur except proximal end.",,0,0
+"R femur, distal end and portions of proximal end missing.",,0,0
 "R femur, distal end missing.",,0,0
 "R FEMUR, IMM.",,0,0
 "R femur, L femur, L humerus, anterior R innominate, fibula.",,0,0
@@ -8546,6 +9127,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "R FIBULA.",,0,0
 "R frontal.",,0,0
 "R fronto-parietal.",,0,0
+"R furcula.",,0,0
 "R HALF SKULL EXC FRAG R ANT MAXILLA, NASAL.",,0,0
 "R half skull.",,0,0
 "R HUMERUS EXCEPT DISTAL TIP, AD.",,0,0
@@ -8554,10 +9136,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "R humerus, 2 pieces.",,0,0
 "R humerus, head missing.",,0,0
 "R humerus, lacking head.",,0,0
+"R humerus, missing distal end and portions of proximal end.",,0,0
 "R humerus, no epiphyses.",,0,0
 "R humerus, no proximal epiphysis.",,0,0
+"R humerus, portion head and proximal diaphysis missing.",,0,0
+"R humerus, portions proximal end missing.",,0,0
+"R humerus, proximal epiphysis and distal diaphysis missing.",,0,0
+"R humerus, proximal epiphysis present but not fused.",,0,0
 "R humerus, radius, ulna, carpals, carpometacarpus, phalanges, associated by soft tissue",,0,0
 "R humerus.",,0,0
+"R humerus; small portion proximal end missing.",,0,0
 "R HYOPLASTRON",,0,0
 "R HYOPLASTRON.",,0,0
 "R HYPOPLASTRON",,0,0
@@ -8565,6 +9153,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "R I/.",,0,0
 "R i/1 or i/2.",,0,0
 "R i/2.",,0,0
+"R i/3 (?).",,0,0
 "R i/3.",,0,0
 "R I1/ L I1/ L premaxilla.",,0,0
 "R I1/.",,0,0
@@ -8572,6 +9161,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "R ilium and acetabulum",,0,0
 "R ilium and acetabulum.",,0,0
 "R ilium.",,0,0
+"R incisor.",,0,0
 "R innominate",,0,0
 "R innominate except pubis.",,0,0
 "R innominate, ischium missing.",,0,0
@@ -8583,16 +9173,20 @@ R PERIPHERALS 2 - 3.",,0,0
 "R jugals.",,0,0
 "R lacrimal and malar.",,0,0
 "R lacrimal with fragments of R frontal and R jugal.",,0,0
+"R Lateral side of proximal one-third metatarsal III.",,0,0
 "R LIMB FURCULA.",,0,0
 "R LIMB OF FURCULA.",,0,0
+"R lower cheek tooth.",,0,0
 "R lower cheektooth, cf. p/4 or m/1.",,0,0
 "R lower cheektooth, tooth fragments.",,0,0
 "R lower cheektooth.",,0,0
 "R lunar.",,0,0
 "R M/1",,0,0
 "R M/1  L M/1  L M  L M/3",,0,0
+"R m/1 (?).",,0,0
 "R m/1 in fragment dentary.",,0,0
 "R m/1 or m/2.",,0,0
+"R m/1 or m2.",,0,0
 "R m/1, fragment premolar.",,0,0
 "R m/1, missing posterior end.",,0,0
 "R m/1, posterior portion missing.",,0,0
@@ -8607,11 +9201,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "R M1, portion anterior missing.",,0,0
 "R m1.",,0,0
 "R M1/  R M2/  R M3/",,0,0
+"R M1/ or M2/.",,0,0
 "R M1/, broken.",,0,0
 "R M1/, L M1/.",,0,0
 "R M1/.",,0,0
+"R M1/; premolar.",,0,0
 "R m2.",,0,0
 "R M2/ (?).",,0,0
+"R M2/ M3/ (cf.)",,0,0
 "R M2/.",,0,0
 "R M3/.",,0,0
 "R magnum",,0,0
@@ -8625,19 +9222,24 @@ R PERIPHERALS 2 - 3.",,0,0
 "R MAXILLA AND PREMAXILLA WITH I1/, U2-M2/.",,0,0
 "R maxilla and root of zygomatic arch P3/ P4/ M1/ M2/.",,0,0
 "R maxilla C1/ P3/ P4/ M1/ M2/ M3/.",,0,0
+"R maxilla DP4/",,0,0
 "R Maxilla fragment M2/.",,0,0
 "R maxilla m/1 m/2.",,0,0
 "R maxilla M1/ M1/; R m/1; L m/2.",,0,0
+"R maxilla M1/ M2/ M3/, R dentary m/1 m/2.",,0,0
 "R maxilla M1/ M2/ M3/.",,0,0
 "R maxilla M1/ M2/.",,0,0
 "R maxilla M1/.",,0,0
 "R maxilla M1/; L maxilla.",,0,0
+"R maxilla M1/M2/; R m/1.",,0,0
 "R maxilla M2/.",,0,0
 "R maxilla p/1 p/3 p/4 m/1.",,0,0
 "R maxilla p/2 p/3 p/4 m/1 m/2.",,0,0
 "R maxilla p/3 p/4 m/1.",,0,0
+"R maxilla p/4 m/1 m/2 m/3.",,0,0
 "R maxilla p/4 m/1 m/2.",,0,0
 "R maxilla P1/ P3/ P4/ M1.",,0,0
+"R maxilla P2/ P3/ P4/",,0,0
 "R maxilla P2/ P3/ P4/ M1/ M2/ M3/; L dentary p/3 p/4 m/1 m/2; fragment of rib.",,0,0
 "R maxilla P2/ P3/ P4/ M1/ M3/.",,0,0
 "R maxilla P2/ P3/ P4/ M1/.",,0,0
@@ -8652,6 +9254,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "R maxilla p4.",,0,0
 "R maxilla P4/ M1.",,0,0
 "R maxilla P4/ M1/ M2/ M3/.",,0,0
+"R maxilla P4/ M1/ M2/.",,0,0
 "R maxilla P4/ M1/,",,0,0
 "R maxilla P4/ M1/.",,0,0
 "R maxilla P4/ M2/ M3/.",,0,0
@@ -8679,27 +9282,54 @@ R PERIPHERALS 2 - 3.",,0,0
 "R maxilla.",,0,0
 "R maxilla. R P4/ 1/ M2/ M3/.",,0,0
 "R maxilla: P2, P3, M1, M2, M3",,0,0
+"R maxilla; partial L maxilla.",,0,0
 "R MC II.",,0,0
 "R MC III.",,0,0
 "R MC IV.",,0,0
 "R metacarpal II.",,0,0
+"R metacarpal III except distal end.",,0,0
+"R metacarpal III, dista epiphysis not fused.",,0,0
 "R metacarpal III.",,0,0
+"R metacarpal III/IV, most of medial trochlea and part of lateral trochlea  missing.",,0,0
+"R metacarpal III/IV, no distal end.",,0,0
 "R metacarpal III/IV.",,0,0
+"R metacarpal II-III.",,0,0
 "R metacarpal IV.",,0,0
 "R metacarpal.",,0,0
+"R metacarpals III/IV, distal end missing.",,0,0
+"R metacarpals III/IV, distal epiphysis missing.",,0,0
+"R metacarpals III/IV, distal fifth missing.",,0,0
+"R metacarpals III/IV, distal half missing.",,0,0
+"R metacarpals III/IV, distal sixth missing.",,0,0
+"R metacarpals III/IV, distal third missing.",,0,0
+"R metacarpals III/IV, lateral trochlea missing.",,0,0
+"R metacarpals III/IV, missing distal end.",,0,0
+"R metacarpals III/IV.",,0,0
 "R metatarsal II, III, IV.",,0,0
+"R metatarsal II, III.",,0,0
 "R metatarsal II.",,0,0
 "R metatarsal III, II.",,0,0
 "R metatarsal III.",,0,0
+"R metatarsal III/IV, distal end missing.",,0,0
+"R metatarsal III/IV, distal epiphyses glued on.",,0,0
+"R metatarsal III/IV, distal epiphyses not fully fused.",,0,0
+"R metatarsal III/IV, distal one-fifth missing.",,0,0
+"R metatarsal III/IV, no distal end.",,0,0
+"R metatarsal III/IV, no distal epiphyses.",,0,0
+"R metatarsal III/IV.",,0,0
 "R metatarsal IV",,0,0
 "R Metatarsal IV (?).",,0,0
 "R metatarsal IV.",,0,0
+"R Metatarsal, phalanx II, metacarpal IV (?), R cuboid, R mid cuneiform, numerous bone fragments.",,0,0
 "R metatarsal; R calcaneum; R naviculocuboid; vertebra; 2 pieces innominate.",,0,0
 "R metatarsals III/IV.",,0,0
+"R mid-cuneiform.",,0,0
 "R nasal.",,0,0
 "R navicular.",,0,0
 "R naviculocuboid.",,0,0
 "R NEURAL 7, PORTIONS NEURAL 8 (?) AND COSTAL 7.",,0,0
+"R occipital condyle,  portion L.",,0,0
+"R occipital condyle.",,0,0
 "R p/2 or p/3.",,0,0
 "R p/2.",,0,0
 "R p/3",,0,0
@@ -8721,13 +9351,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "R P4/, L I1/, L m/2, fragment R dentary.",,0,0
 "R P4/.",,0,0
 "R palate P4/ M2/ M3/.",,0,0
+"R Palate with R  P3/ M1-3, L P2/ M1-3/.",,0,0
 "R palatine.",,0,0
 "R parietal.",,0,0
 "R partial horn core and portion frontal.",,0,0
+"R patella.",,0,0
 "R peripheral 11.",,0,0
 "R peripheral 8.",,0,0
 "R peripherals 7 to 10.",,0,0
 "R peripherals 8 and 9.",,0,0
+"R petrosal.",,0,0
 "R PH I, digit II of wing.",,0,0
 "R PH I.",,0,0
 "R PHALANX I, DIGIT III OR IV, AD.",,0,0
@@ -8738,8 +9371,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "R post-dentary elements of mandible.",,0,0
 "R posterior cannonbone.",,0,0
 "R posterior PH I.",,0,0
+"R posterior phalanx I.",,0,0
 "R premaxilla and maxilla M2/.",,0,0
 "R premaxilla I1/ and anterior L premax.",,0,0
+"R premaxilla I1/ I2/ I3/.",,0,0
 "R premaxilla I1/ I2/.",,0,0
 "R premaxilla I1/, L premaxilla I1/.",,0,0
 "R premaxilla I1/.",,0,0
@@ -8750,6 +9385,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "R radius, no distal epiphysis.",,0,0
 "R radius.",,0,0
 "R Rostrum I1/ P4/; L I1/ ROSTRUM R I1/ P4/ L I/1 P4/ M1/ .",,0,0
+"R rostrum P4/ M2/ L P4/.",,0,0
+"R scaphoid, limb fragments, rib, thoracic vertebra, miscellaneous.",,0,0
 "R scaphoid.",,0,0
 "R scapula.",,0,0
 "R side cervical vertebra.",,0,0
@@ -8757,10 +9394,22 @@ R PERIPHERALS 2 - 3.",,0,0
 "R sternal process.",,0,0
 "R tarsometarsus",,0,0
 "R tarsometatarsus",,0,0
+"R tarsometatarsus, both ends damaged.",,0,0
+"R tarsometatarsus, broken and rehealed.",,0,0
 "R tarsometatarsus, fragment proximal articular surface missing.",,0,0
 "R tarsometatarsus, lacking a portion of shaft.",,0,0
+"R tarsometatarsus, middle condyle missing.",,0,0
+"R tarsometatarsus, middle digit missing.",,0,0
+"R tarsometatarsus, missing distal end.",,0,0
 "R tarsometatarsus, missing proximal end.",,0,0
 "R tarsometatarsus, no distal end.",,0,0
+"R tarsometatarsus, proximal end and much of distal end missing.",,0,0
+"R tarsometatarsus, proximal end missing, distal condyles damaged.",,0,0
+"R tarsometatarsus, proximal end missing.",,0,0
+"R tarsometatarsus, proximal end undeveloped.",,0,0
+"R tarsometatarsus, proximal one-fifth missing.",,0,0
+"R tarsometatarsus, spur broken, proximal end damaged.",,0,0
+"R tarsometatarsus, two condyles missing.",,0,0
 "R tarsometatarsus.",,0,0
 "R temporal and auditory complex.",,0,0
 "R THIRD OF CERVICAL VERTEBRA, IMM.",,0,0
@@ -8773,8 +9422,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "R tibia.",,0,0
 "R tibiofibula.",,0,0
 "R TIBIOTARSUS CENTRAL TWO-THIRDS SHAFT.",,0,0
+"R tibiotarsus, distal end damaged.",,0,0
 "R tibiotarsus, no distal end.",,0,0
+"R tibiotarsus, portion both tips damaged.",,0,0
 "R tibiotarsus.",,0,0
+"R tibofibula, missing proximal tip.",,0,0
+"R trapezius",,0,0
+"R two-thirds phalanx III.",,0,0
 "R ulna",,0,0
 "R ULNA AND RADIUS.",,0,0
 "R ulna except distal end.",,0,0
@@ -8782,12 +9436,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "R ulna shaft.",,0,0
 "R ULNA, AD.",,0,0
 "R ULNA, BOTH ENDS MISSING.",,0,0
+"R ulna, no distal epiphysis.",,0,0
 "R ulna, two pieces.",,0,0
 "R ulna.",,0,0
 "R ULNA.  IMM.",,0,0
 "R unciform.",,0,0
 "R unerupted cheektooth.",,0,0
+"R upper cheek tooth.",,0,0
 "R upper cheektooth.",,0,0
+"R upper deciduous premolar.",,0,0
 "R wing","right wing",0,1
 "R XIPHIPLASTRON.",,0,0
 "r5","rectrix 5",0,1
@@ -8851,6 +9508,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "RADIUS, ULNA, PODIALS",,0,0
 "Radius.",,0,0
 "Radius?",,0,0
+"Ramus L dentary p/3 p/4 m/1.",,0,0
 "RATTLE","rattle",0,1
 "RATTLE (DRY)","rattle",0,1
 "Rattle.",,0,0
@@ -8884,6 +9542,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Right metacarpals III/IV.",,0,0
 "Right metatarsals III/IV.",,0,0
 "right wing",,0,0
+"Robe",,0,0
 "ROSTRUM",,0,0
 "ROSTRUM ALL TEETH EXC R M3/",,0,0
 "ROSTRUM L P4/-M2/",,0,0
@@ -8936,12 +9595,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "round/wing -check","round skin, wing",0,1
 "round/wing/part skel","partial skeleton, round skin, wing",0,1
 "round/wing/skel","skeleton, round skin, wing",0,1
+"rug with half head mount",,0,0
 "S0",,0,0
 "SA","alcoholic carcass",0,1
+"Sacral vertebra, R third missing, articulations with adjacent vertebrae not fused.",,0,0
 "Sacral vertebra.",,0,0
 "Sacral-urostyle.",,0,0
 "SACROCOCCYX",,0,0
 "SACRO-UROSTYLE",,0,0
+"Sacro-urostyle, R sacral area missing.",,0,0
 "Sacro-urostyle.",,0,0
 "SACRUM  INNOMINATE PORT R",,0,0
 "SACRUM ANT",,0,0
@@ -8950,7 +9612,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SACRUM, SCAPULA",,0,0
 "Sacrum.",,0,0
 "salted skin","wing (salted)",0,1
-"SB","study skin, body skeleton",0,1
+"SB","skin in alcohol, body skeleton",0,1
 "SB      91","SB      91",0,1
 "SB      92","SB      92",0,1
 "SB      93","SB      93",0,1
@@ -8994,6 +9656,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SCAPULA PROX R",,0,0
 "SCAPULA PROX TWO-THIRDS",,0,0
 "SCAPULA PROX TWO-THIRDS L",,0,0
+"Scapula, much of blade missing.",,0,0
 "SCAPULA, PROX TIBIOFIBULA (2)",,0,0
 "Scapula.",,0,0
 "Scapulocoracoid.",,0,0
@@ -9021,8 +9684,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "SECTION SHAFT R HUMERUS.",,0,0
 "Segment anterior L dentary",,0,0
 "Segment anterior L dentary partial p/4.",,0,0
+"Segment anterior shaft L scapula.",,0,0
 "SEGMENT BELOW HEAD END OF R FEMUR.",,0,0
 "SEGMENT CENTRAL SCAPULA.",,0,0
+"Segment diaphysis and distal end R radio-ulna.",,0,0
 "Segment diaphysis L tibiotarsus, including contact for fibula.",,0,0
 "Segment diaphysis radio-ulna",,0,0
 "Segment L (?) ulna.",,0,0
@@ -9036,8 +9701,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Segment L scapula.",,0,0
 "SEGMENT OF CENTRAL SCAPULA.",,0,0
 "Segment of costal.",,0,0
+"Segment of L maxilla.",,0,0
 "SEGMENT OF R SCAPULA.",,0,0
 "Segment of rib.",,0,0
+"Segment of shell, probably worked (smoothed).",,0,0
 "SEGMENT OF VERTEBRA.",,0,0
 "SEGMENT PROXIMAL SHAFT R TIBIOTARSUS.",,0,0
 "Segment proximal ulna with articular surfaces.",,0,0
@@ -9053,23 +9720,36 @@ R PERIPHERALS 2 - 3.",,0,0
 "SEGMENT SCAPULA.",,0,0
 "SEGMENT STERNUM, L RIB FACETS (PART) TO BASE PROCESSES.",,0,0
 "SEGMENT SYNSACRUM (CA. THIRD AND FOURTH VERTEBRAE FROM DISTAL END).",,0,0
+"Segment ulna near proximal end.",,0,0
 "SEGMENT VENTRAL BORDER R SCAPULA.",,0,0
 "SELETON, WING, FEATHERS","skeleton, wing, feathers",0,1
 "SEM","stub for scanning electron microscope",0,1
 "SESEMOID",,0,0
 "Sesemoid.",,0,0
 "SEVERAL CERVICAL VERTEBRA","cervical vertebrae",0,1
-"SH","SH",0,1
+"SH","shell",0,1
+"Shaft and partial distal end L humerus.",,0,0
+"Shaft and proximal epiphysis L tibia.",,0,0
 "Shaft femur.",,0,0
 "Shaft humerus.",,0,0
+"Shaft L humerus.",,0,0
+"Shaft L tarsometatarsus.",,0,0
+"Shaft L tibia.",,0,0
 "SHAFT MAIN MC OF CARPOMETACARPUS, IMM.",,0,0
 "SHAFT OF R HUMERUS.",,0,0
+"Shaft of R metacarpal III.",,0,0
+"Shaft phalanx I, no proximal epiphysis, distal end gone.",,0,0
+"Shaft R femur.",,0,0
 "SHAFT R HUMERUS.",,0,0
+"Shaft R radius.",,0,0
 "Shaft R tibiotarsus.",,0,0
 "Shaft radius.",,0,0
 "Shaft tarsometatarsus.",,0,0
 "Shaft tibiotarsus.",,0,0
+"Shaft ulna; portion shaft radius.",,0,0
+"Shed Skin",,0,0
 "SHED SKIN (DRY)","shed skin",0,1
+"Shell",,0,0
 "SHELL (DRY)","shell",0,1
 "SHELL (DRY), tissue","shell, tissue",0,1
 "SHELL AND FLUID GONADS","shell, fluid gonads",0,1
@@ -9084,8 +9764,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "SHELL INCOMPLETE PLASTRON (DRY)","shell, incomplete plastron",0,1
 "SHELL OF MARINE LIMPET.",,0,0
 "SHELL PLATES (DRY)","shell plates",0,1
+"Shell, Skeleton",,0,0
 "Shell, skin, gonad","gonad, shell, skin",0,1
 "Shell, skin, gonads","gonads, shell, skin",0,1
+"Shell, Skull, Skeleton",,0,0
 "Shell.",,0,0
 "SHELL+GIRDLES+LIMBS+TAIL (DRY)","girdles, limbs, shell, tail",0,1
 "SHELL+PARTIAL SKELETON (DRY)","shell, partial skeleton",0,1
@@ -9205,7 +9887,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel; Syrinx; Tissue; Skin",,0,0
 "Skel; Syrinx; Wings_tail; Tissue",,0,0
 "Skel; Thin section",,0,0
-"Skel; Tissue",,0,0
+"Skel; Tissue","skeleton, tissue",0,1
 "Skel; Tissue; Flat_skin",,0,0
 "Skel; Tissue; Flat_skin; Syrinx",,0,0
 "Skel; Tissue; Fluid",,0,0
@@ -9220,7 +9902,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel; Tissue; Syrinx; Wings_tail",,0,0
 "Skel; Tissue; Tissue",,0,0
 "Skel; Tissue; Wings_tail",,0,0
-"Skel; Wings_tail",,0,0
+"Skel; Wings_tail","skeleton, tail, wings",0,1
 "Skel; Wings_tail; Flat_skin",,0,0
 "Skel; Wings_tail; Tissue",,0,0
 "Skel; Wings_tail; Tissue; Wings_tail",,0,0
@@ -9273,6 +9955,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton (Complete skeleton), Tissue (Complete skeleton)",,0,0
 "Skeleton (Femur only) (Femur only)",,0,0
 "Skeleton (Incomplete skeleton) (Incomplete skeleton) (Incomplete skeleton)",,0,0
+"skeleton (incomplete)",,0,0
 "Skeleton (Leg elements only) (Leg elements only) (Leg elements only)",,0,0
 "Skeleton (Mostly complete skeleton) (Mostly complete skeleton)",,0,0
 "Skeleton (Mounted skeleton) (Mounted skeleton)",,0,0
@@ -9392,6 +10075,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELETON, HEAD SKIN","skeleton, head skin",0,1
 "SKELETON, HEAD SKIN, FEATHERS","skeleton, head skin, feathers",0,1
 "SKELETON, HEAD, WING, FOOT","skeleton, head, wing foot",0,1
+"skeleton, incomplete skull",,0,0
 "Skeleton, Leg bones, Leg bones, Skin, Toe pad sample, Skin, Skin, Toe pad sample, Leg bones, Skin",,0,0
 "Skeleton, Leg bones, Skin, Leg bones, Skin, Toe pad sample, Leg bones, Skin, Toe pad sample, Skin",,0,0
 "Skeleton, Leg bones, Skin, Leg bones, Skin, Toe pad sample, Skin, Leg bones, Skin, Toe pad sample",,0,0
@@ -9886,6 +10570,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (With separate wing) (With separate wing) (With separate wing)",,0,0
 "Skin (With separate wing) (With separate wing), Toe pad sample (With separate wing), Toe pad sample",,0,0
 "Skin (With separate wing), Toe pad sample (With separate wing), Toe pad sample (With separate wing)",,0,0
+"skin ?",,0,0
 "skin + DNA","skin, DNA",0,1
 "skin + partial skel + DNA","skin, partial skeleton, DNA",0,1
 "skin + wing + partial skel + DNA","skin, wing, partial skeleton, DNA",0,1
@@ -9904,9 +10589,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKIN WITH SKULL AND FOOT BONES","skin with skull and foot bones",0,1
 "SKIN WITH SKULL AND LIM BONES","skin with skull and limb bones",0,1
 "SKIN WITH SKULL IN FLUID","fluid skin with skull",0,1
+"skin",,0,0
+"skin, (skull?)",,0,0
+"skin, 2 skulls",,0,0
 "skin, alcoholic, tissue",,0,0
 "Skin, Baculum",,0,0
 "SKIN, BODY SKELETON","skin, body skeleton",0,1
+"Skin, Cleared and Stained",,0,0
 "skin, complete skeleton",,0,0
 "skin, complete skeleton, tissue",,0,0
 "Skin, dry skeleton","dry skeleton, skin",0,1
@@ -9928,6 +10617,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Fluid, Fluid",,0,0
 "Skin, Fluid, Glans, Karyotype",,0,0
 "Skin, Fluid, Karyotype",,0,0
+"skin, jaw",,0,0
+"skin, mandible",,0,0
+"skin, mandibles",,0,0
 "skin, no skull","skin",0,1
 "skin, other",,0,0
 "Skin, Par Skeleton, Wing, DNA","skin, partial skeleton, wing, DNA",0,1
@@ -9974,9 +10666,21 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, skin","skin",0,1
 "Skin, Skin sample, Skin sample","skin, skin sample",0,1
 "Skin, Skull","skin, skull",1,1
+"skin, skull & embryo",,0,0
+"skin, skull (?)",,0,0
+"skin, skull (broken)",,0,0
+"skin, skull (in part)",,0,0
+"skin, skull (no mandbile)",,0,0
+"skin, skull (uncleaned)",,0,0
+"skin, skull + atlas",,0,0
+"skin, skull +3 anterior verteb.",,0,0
+"skin, skull",,0,0
 "skin, skull, alc","alcoholic, skin, skull",0,1
 "Skin, Skull, Baculum","baculum, skin, skull",0,1
 "Skin, skull, body skeleton","skin, skull, body skeleton",0,1
+"skin, skull, ectos",,0,0
+"skin, skull, embryo",,0,0
+"skin, skull, embryos",,0,0
 "Skin, Skull, Fluid","fluid, skin, skull",0,1
 "Skin, Skull, Fluid, Glans","fluid, glans, skin, skull",0,1
 "Skin, Skull, Fluid, Karyotype",,0,0
@@ -9992,7 +10696,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Skull, Skeleton, Glans",,0,0
 "Skin, Skull, Skeleton, Karyotype",,0,0
 "skin, skull, skin",,0,0
+"skin, skull, stomach",,0,0
 "Skin, Skull, tissue","skin, skull, tissue",1,1
+"skin, skull?",,0,0
+"skin, skull?*",,0,0
 "Skin, Tissue","skin, tissue",1,1
 "Skin, Tissue (100% ethanol)",,0,0
 "Skin, Tissue (DMSO/EDTA Buffer / No Medium)",,0,0
@@ -10230,7 +10937,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin; Syrinx; Wings_tail; Tissue; Skel",,0,0
 "skin; tail only",,0,0
 "Skin; Thin section; Tissue",,0,0
-"Skin; Tissue",,0,0
+"Skin; Tissue","skin, tissue",0,1
 "Skin; Tissue; Feather",,0,0
 "Skin; Tissue; Fluid",,0,0
 "Skin; Tissue; Image",,0,0
@@ -10317,6 +11024,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull (fragmented)","fragmented skull",0,1
 "SKULL (GLYCERIN)","skull (glycerin)",0,1
 "SKULL / VERTEBRAE / LEG (DRY), tissue","leg, skull, vertebrae, tissue",0,1
+"skull ?",,0,0
 "SKULL + VERTEBRAE (DRY)","skull, vertebrae",0,1
 "SKULL ALL DENTITION",,0,0
 "SKULL ALL DENTITION ANT",,0,0
@@ -10383,6 +11091,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULL EXC CRANIAL ROOF  DENTARY R&L",,0,0
 "SKULL EXC OCCIPUT",,0,0
 "SKULL EXC OCCIPUT & BILL",,0,0
+"Skull except antero-ventral portion.",,0,0
 "Skull except occipital region. L I1/ P4/ M1/ M2/ M3/; R I1/ P4/ M1/ M2/ M3/.",,0,0
 "Skull except occiput and nasals.",,0,0
 "Skull except occiput, zygomatic arches. L P4/ M1/ M2/ M3/; R I1/ P4/ M1/ M2/ M3/.",,0,0
@@ -10398,6 +11107,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULL FRAGMENTED",,0,0
 "skull fragments",,0,0
 "Skull fragments making up most of skull; anterior 5/6 L dentary w teeth; axis and four other cervicals; two ribs",,0,0
+"Skull fragments.",,0,0
 "SKULL FRAGS",,0,0
 "SKULL I/ 3 U/ P4/ R",,0,0
 "SKULL I1/ L&R ANT",,0,0
@@ -10574,6 +11284,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULL R I1-M2/ L I1/ M1-3/ ANT HALF",,0,0
 "SKULL R I1-M2/ L I1-M3 ANT HALF",,0,0
 "SKULL R I1-M3/ L P3-M3/",,0,0
+"Skull R I2/ I3/ P2/ P3/ P4/ M1/ M2/ M3/ and l3/ P2/ P3/ P4/ M1/.",,0,0
 "SKULL R I2/ R & L P3-M1 ANT ONE-FOURTH",,0,0
 "SKULL R I2-3/ P2-M3/ L I3/ P2-M1/",,0,0
 "SKULL R M1/ ANT",,0,0
@@ -10654,6 +11365,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull, Fluid, Glans",,0,0
 "Skull, Fluid, Karyotype",,0,0
 "Skull, Karyotype",,0,0
+"Skull, L part P2/ P3/ P4/ M1; L P2/ part P3/ P4/ M1/.",,0,0
 "Skull, lacking anterior R frontal, maxilla, and premaxilla. L I2/ I3/ C1/ P1/ P3/ P4/ M1/ M2/.",,0,0
 "Skull, lacking nasals and occiput.",,0,0
 "Skull, lacking occiput; L P4/; R P4/ M1/ M2/ M3/.",,0,0
@@ -10665,6 +11377,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull, mandibles, atlas, axis","skull, mandibles, atlas, axis",0,1
 "Skull, mandibles, partial skeleton","skull, mandible, partial skeleton",0,1
 "Skull, mandibles,atlas,axis","skull, mandibles, axis",0,1
+"Skull, mandibles.",,0,0
 "Skull, missing occipital region and premaxillae, portion R nasal. L P4/ missing lateral side; R M2/.",,0,0
 "Skull, missing part of L parietal and L bulla. R C1/ P2/ P3/ P3/ M1/, L C1/ P3/ P4/ M1/.",,0,0
 "Skull, missing part of palate and anterior R maxilla; L maxilla separate. R P4/ M1/. L C1/ P4/ M1/ M2.",,0,0
@@ -10690,6 +11403,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull, portion R jugal missing. L P4/ M1/ M3/;  R M1/ M3/.",,0,0
 "Skull, R and L dentaries. Very young with deciduous dentition.","skull, left, dentary, right dentary",0,1
 "Skull, R and L dentary.",,0,0
+"Skull, R dentary.",,0,0
 "Skull, R postero-ventral region missing.",,0,0
 "Skull, R side except maxilla missing; rostrum missing.",,0,0
 "SKULL, SCAPULA, VERTEBRA C1-3",,0,0
@@ -10698,6 +11412,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull, Skeleton, Fluid",,0,0
 "Skull, Skeleton, Fluid, Karyotype",,0,0
 "Skull, Skeleton, Karyotype",,0,0
+"Skull, Skeleton, Skin",,0,0
 "skull, skin",,0,0
 "skull, skin, alcoholic",,0,0
 "skull, skin, complete skeleton",,0,0
@@ -10801,8 +11516,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "SN     292","SN     292",0,1
 "SN     293","SN     293",0,1
 "SN     94","SN     94",0,1
-"SN (2)","SN (2)",0,1
-"SN (part.)","parital skeleton",0,1
+"SN (2)","skeletons",0,1
+"SN (part.)","partial skeleton",0,1
 "SN +BAC","baculum, skeleton",0,1
 "SN +T","skeleton, tissue",0,1
 "SN +T+ECTO","ectoparasite, skeleton, tissue",0,1
@@ -10811,23 +11526,23 @@ R PERIPHERALS 2 - 3.",,0,0
 "SN+T+BAC","baculum, skeleton, tissue",0,1
 "SN+T+ECTO","ectoparasite, skeleton, tissue",0,1
 "SN+T+ECTO+CH","chromosomes, ectoparasite, skeleton, tissue",0,1
-"so","skin",0,1
-"so    Ad.","skin",0,1
-"so   Ad.","skin",0,1
-"so   Im.","skin",0,1
-"so   Juv.","skin",0,1
-"so  Ad","skin",0,1
-"so  Ad.","skin",0,1
-"so  Im.","skin",0,1
-"so  Juv.","skin",0,1
-"so  Yg.","skin",0,1
-"SO +T","skin, tissue",0,1
-"so AD","skin",0,1
-"so Im","skin",0,1
-"so, & part","skin, partial skeleton",0,1
-"so, & part. skeleton","skin, partial skeleton",0,1
-"so, eg, ot","skin, egg, other",0,1
-"SO+T","skin, tissue",0,1
+"so","skin in alcohol",0,1
+"so    Ad.","skin in alcohol",0,1
+"so   Ad.","skin in alcohol",0,1
+"so   Im.","skin in alcohol",0,1
+"so   Juv.","skin in alcohol",0,1
+"so  Ad","skin in alcohol",0,1
+"so  Ad.","skin in alcohol",0,1
+"so  Im.","skin in alcohol",0,1
+"so  Juv.","skin in alcohol",0,1
+"so  Yg.","skin in alcohol",0,1
+"SO +T","skin in alcohol, tissue",0,1
+"so AD","skin in alcohol",0,1
+"so Im","skin in alcohol",0,1
+"so, & part","skin in alcohol, partial skeleton",0,1
+"so, & part. skeleton","skin in alcohol, partial skeleton",0,1
+"so, eg, ot","skin in alcohol, egg, other",0,1
+"SO+T","skin in alcohol, tissue",0,1
 "SOFT PARTS REMOVED DURING PREPARATION","soft parts",0,1
 "SOME LIMB ELEMENTS O.","limb elements",0,1
 "Sound - 1; Skin - 1","Sound - 1; Skin - 1",0,1
@@ -10892,6 +11607,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "ss","skin, skull",0,1
 "ST","ST",0,1
 "STAHLBEIN",,0,0
+"Stahlbein.",,0,0
 "Sternal segment.",,0,0
 "STERNUM  FRAGMENT",,0,0
 "STERNUM ANT",,0,0
@@ -10903,6 +11619,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "STERNUM POST PORT",,0,0
 "STERNUM TWO-THIRDS",,0,0
 "Sternum, femur except proximal end.",,0,0
+"Sternum, missing anterio-ventral keel and posterior end.",,0,0
 "Sternum.",,0,0
 "stick bird","stick bird",1,1
 "stick bird - NIC","stick bird",0,1
@@ -11057,7 +11774,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Syrinx; Wings_tail; Tissue; Skin; Skel",,0,0
 "T",,0,0
 "T +ECTO","ectoparasite, tissue",0,1
-"TA","TA",0,1
+"TA","alcoholic, tissue",0,1
 "tail","tail",1,1
 "tail & 2 wings","tail, wings",0,1
 "tail only",,0,0
@@ -11113,11 +11830,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tarsometatarsus.",,0,0
 "TARSUS AND FOOT L",,0,0
 "TAXIDERMIED MOUNT, SKELETON","mount, skeleton",0,1
+"Taxidermy",,0,0
 "Taxidermy Mount","taxidermy mount",0,1
 "TAXIDERMY MOUNT, tissue","taxidermy mount, tissue",0,1
-"TB","TB",0,1
+"TB","skin in alcohol, skeleton, tissue",0,1
 "TBIOFIBULA",,0,0
-"TE","TE",0,1
+"TE","alcoholic, tissue",0,1
 "teaching",,0,1
 "teaching skel/wing/tail","skeleton, tail, wing",0,1
 "TEETH","teeth",0,1
@@ -11129,7 +11847,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "TERMINAL CAUDAL VERTEBRAE (DRY)","terminal caudal vertebrae",0,1
 "TESTES AND KIDNEYS (MICROSLIDES/TISSUE BLOCKS), tissue","testes (microslides, tissue blocks), kidneys (microslides, tissue blocks), tissue",0,1
 "TESTES IN ALCOHOL","testes in alcohol",0,1
-"TH","teeth",0,1
+"TH","head, tail, body skin in alcohol, tissue",0,1
 "Thin section",,0,0
 "Thin section - 1","Thin section - 1",0,1
 "Thin section - 1; Skel - 1","Thin section - 1; Skel - 1",0,1
@@ -11149,9 +11867,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Thoracic vertebra fragment.",,0,0
 "Thoracic vertebra, no centrum.",,0,0
 "Thoracic vertebra, no ephiphyses.",,0,0
+"Thoracic vertebra, spinus process missing.",,0,0
 "Thoracic vertebra, two pieces.",,0,0
 "Thoracic vertebra.",,0,0
 "Thoracic vertebrae",,0,0
+"Thoracic vertebta.",,0,0
 "Three lumbar vertebrae and sacrum",,0,0
 "THREE VERTEBRAE, NINE RIB-LIKE ELEMENTS.",,0,0
 "Three-quarters L humerus.",,0,0
@@ -11867,7 +12587,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue; Fluid; Wings_tail; Skin; Skel",,0,0
 "Tissue; Genbank; Genbank; Genbank; Genbank",,0,0
 "Tissue; Genbank; Skel",,0,0
-"Tissue; Skel",,0,0
+"Tissue; Skel","skeleton, tissue",0,1
 "Tissue; Skel; Feather",,0,0
 "Tissue; Skel; Flat_skin",,0,0
 "Tissue; Skel; Flat_skin; Syrinx",,0,0
@@ -11876,7 +12596,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue; Skel; Syrinx; Fluid",,0,0
 "Tissue; Skel; Tissue",,0,0
 "Tissue; Skel; Wings_tail",,0,0
-"Tissue; Skin",,0,0
+"Tissue; Skin","skin, tissue",0,1
 "Tissue; Skin; Feather",,0,0
 "Tissue; Skin; Feather; Skel",,0,0
 "Tissue; Skin; Fluid",,0,0
@@ -11901,18 +12621,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue; Syrinx; Fluid",,0,0
 "Tissue; Syrinx; Fluid; Skin; Skel",,0,0
 "Tissue; Syrinx; Skel",,0,0
-"Tissue; Syrinx; Skel; Skin/toe clip","Tissue; Syrinx; Skel",0,1
+"Tissue; Syrinx; Skel; Skin/toe clip","skeleton, syrinx, tissue",0,1
 "Tissue; Syrinx; Skin",,0,0
 "Tissue; Thin section; Skin",,0,0
 "Tissue; Tissue",,0,0
 "Tissue; Tissue; Skel",,0,0
-"Tissue; Wings_tail",,0,0
+"Tissue; Wings_tail","tail, tissue, wings",0,1
 "Tissue; Wings_tail; Skel",,0,0
 "Tissue; Wings_tail; Skin",,0,0
 "TISSUES","tissues",0,1
 "TK","tusk",0,1
 "TN",,0,0
-"TO","TO",0,0
+"TO","skeleton, tissue",0,0
 "tooth","tooth",0,1
 "TOOTH (2), PREMAXILLA PR, MAXILLA P2/ R, OTHER (10",,0,0
 "TOOTH (DRY)","tooth",0,1
@@ -11934,12 +12654,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "trap",,1,1
 "TRAPEZIUS",,0,0
 "TRAPEZIUS R",,0,0
+"Trapezius.",,0,0
 "TRIANGULAR PIECE COSTAL OR PLASTRON.",,0,0
+"Trochlea portion distal end R humerus.",,0,0
 "TRUNK SKELETON","trunk skeleton",0,1
 "TRUNK SKELETON, ONE EYE RING","trunk skeleton, eye ring",0,1
 "TRUNK SKELETON, ONE EYE RING AND HYOID APPARATUS","trunk skeleton, eye ring, hyoid apparatus",0,1
 "TRUNK SKELETON, TWO EYE RINGS AND HYOID APPARATUS","trunk skeleton, eye rings, hyoid apparatus",0,1
-"TS","tissue",0,1
+"TS","alcoholic skin, tissue",0,1
 "TS, 70% EtOH","tissue, 70% alcohol",0,1
 "Turtle carapace fragments.",,0,0
 "tusk",,0,0
@@ -11948,11 +12670,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tusk only",,0,0
 "tusks","tusks",0,1
 "Two anterior skull; 13 dentary; four maxilla.",,0,0
+"Two dorsal vertebrae.",,0,0
 "Two fragments humerus.",,0,0
 "Two fused sacral vertebrae.",,0,0
+"Two incisors, probably deciduous.",,0,0
 "Two lower cheektooth.",,0,0
 "Two pairs frontals; fragment frontal.",,0,0
 "TWO PECTORAL SPINES (ONE IN TWO PIECES).",,0,0
+"Two portions R dentary m/2, portion m/1, p/3.",,0,0
 "TWO PROJECTIONS, PRESUMABLY FROM PLASTRON.",,0,0
 "Two R and three L dentary.",,0,0
 "TWO SEGMENTS OF SCAPULA (WHICH FIT TOGETHER), CA. ONE AND ONE-QUARTER INCH WIDE.",,0,0
@@ -12011,6 +12736,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "ULNA SHAFT  PORT SHAFT RADIUS",,0,0
 "ULNA SHAFT L",,0,0
 "Ulna, lacking distal end.",,0,0
+"Ulna, metacarpal III, metatarsal IV, misc.",,0,0
 "Ulna, metacarpal III, misc.",,0,0
 "ULNA, RADIUS, 3 MT, PH",,0,0
 "Ulna, radius, carpals, metacarpals, phalanges",,0,0
@@ -12023,11 +12749,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "UNCIFORM R",,0,0
 "Unciform.",,0,0
 "UNDET.",,0,0
+"UNDET.  ELEMENT.",,0,0
 "UNDET. ELEMENT.",,0,0
 "Uneruped M3/.",,0,0
 "Unerupted L p/2.",,0,0
+"Unerupted lower cheek tooth.",,0,0
 "Unerupted m/3.",,0,0
 "Unerupted M3/.",,0,0
+"Unerupted P2/.",,0,0
+"Unerupted R cheek tooth.",,0,0
 "Unerupted upper cheektooth, probably P3/ or P4/.",,0,0
 "UNGUAL PHALANX",,0,0
 "Ungual phalanx pes.",,0,0
@@ -12036,14 +12766,22 @@ R PERIPHERALS 2 - 3.",,0,0
 "UNKNOWN ELEMENT.",,0,0
 "Unrecorded.",,0,0
 "Upper bill.",,0,0
+"Upper cheek tooth.",,0,0
 "Upper cheekteeth.",,0,0
 "Upper cheektooth (13); lower cheektooth (1); element.",,0,0
 "Upper cheektooth, ca. 3 or 4.",,0,0
 "Upper cheektooth.",,0,0
 "Upper incisor.",,0,0
+"Upper L cheek tooth, no lingual side.",,0,0
+"Upper L cheek tooth.",,0,0
+"Upper left cheek tooth.",,0,0
 "upper mandible","upper mandible",1,1
+"Upper mandible, partial.",,0,0
+"Upper mandible.",,0,0
 "Upper molar.",,0,0
 "Upper portion cheektooth.",,0,0
+"Upper R cheek tooth.",,0,0
+"Upper R cheektooth, M1/ or M2.",,0,0
 "Upper R cheektooth.",,0,0
 "Upper R half of bill",,0,0
 "upper/lower jaw","upper jaw, mandible",0,1
@@ -12064,6 +12802,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Ventral half anterior half skull.",,0,0
 "Ventral half R coracoid.",,0,0
 "Ventral portion furcula.",,0,0
+"Ventral R coracoid, portion ventral tip missing.",,0,0
 "Ventral skull, all cheekteeth.",,0,0
 "Ventral surface R maxilla.",,0,0
 "VENTRAL THIRD L CORACOID.",,0,0
@@ -12234,7 +12973,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "wings/tail/part skel","partial skeleton, tail, wings",0,1
 "wings; tail",,0,0
 "wings; tail;  leg",,0,0
-"Wings_tail",,0,0
+"Wings_tail","tail, wings",0,1
 "Wings_tail - 1","Wings_tail - 1",0,1
 "Wings_tail - 1; Feather - 1; Skel - 1","Wings_tail - 1; Feather - 1; Skel - 1",0,1
 "Wings_tail - 1; Feather - 1; Skel - 1; Flat_skin - 1","Wings_tail - 1; Feather - 1; Skel - 1; Flat_skin - 1",0,1

@@ -249,6 +249,7 @@ M[F]","unknown",0,1
 "~","unknown",0,1
 "<","unknown",0,1
 "=[F]M","unknown",0,1
+">",,0,1
 "1",,0,1
 "11","unknown",0,1
 "13","unknown",0,1
@@ -258,6 +259,7 @@ M[F]","unknown",0,1
 "36010","unknown",0,1
 "58","unknown",0,1
 "6","unknown",0,1
+"A",,0,1
 "ad","unknown",0,1
 "ad sex ?","unknown",0,1
 "AD. ?","unknown",0,1
@@ -426,6 +428,7 @@ M[F]","unknown",0,1
 "Female [?]","female",0,1
 "Female [Male?]","unknown",0,1
 "Female [Male]","unknown",0,1
+"Female and 1 newborn","female",0,1
 "female and male","hermaphrodite",0,1
 "Female br.","female",0,1
 "Female(?)","female",0,1
@@ -660,6 +663,7 @@ M[F]","unknown",0,1
 "Male, nest","male",0,1
 "Male?","male",0,1
 "Male[?]","male",0,1
+"Male+Female","male, female",0,1
 "males","male",0,1
 "marked as both F and M","unknown",0,1
 "MF","hermaphrodite",0,1
