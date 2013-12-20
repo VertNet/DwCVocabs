@@ -24,22 +24,30 @@
 "{zakoni n. sp.}","sp. nov.",0,1
 "aegyptiaca X sp.","aegyptiaca X sp.",0,1
 "auriceps large black tailed sp.","sp.",0,1
+"balsodichthys X sp.",,0,0
 "C. sp. X G. nycthemerus","C. sp. X G. nycthemerus",0,1
 "C. sp. X P. colchicus","C. sp. X P. colchicus",0,1
 "cactorum sp. nov.","sp. nov.",0,1
 "cf","cf.",0,1
 "cf.","cf.",0,1
+"chrysocephalus X sp.",,0,0
 "colchicus mongolicus X colchicus ssp.","colchicus mongolicus X colchicus ssp.",0,1
 "cyanellus x sp.","cyanellus X sp.",0,1
 "egregia or sp. nov.","egregia or sp. nov.",0,1
 "galbula ssp. bullockii","ssp.",0,1
 "genus in question","genus in question",0,1
 "genus questioned","genus in question",1,1
+"gulosus X sp.",,0,0
 "inornatus x sp. Uniparens",,0,1
+"leuciodus X sp.",,0,0
+"lutrensa X sp.",,0,0
+"macrochirus X sp.",,0,0
+"megalotis X sp.",,0,0
 "n. sp.","sp. nov.",0,1
 "n.sp.","sp. nov.",0,1
 "new sp.","sp. nov.",0,1
 "nov. subsp.","ssp. nov.",0,1
+"pandora X R. sp.",,0,0
 "perlates (subsp.)","ssp.",0,1
 "proserpina x Notropis sp.","proserpina X Notropis sp.",0,1
 "regularis x sp.","sp.",0,1
@@ -89,6 +97,7 @@
 "sp. BSP2","sp. nov.",0,1
 "sp. BSP4","sp. nov.",0,1
 "sp. C","sp.",0,1
+"sp. cf. cyprinus x velifer",,0,0
 "sp. D","sp.",0,1
 "sp. E","sp.",0,1
 "sp. F","sp.",0,1
@@ -122,6 +131,8 @@
 "sp. tenuicauda","sp. nov.",0,1
 "sp. unnamed","sp.",0,1
 "sp. vadamans","sp. nov.",0,1
+"sp. X sp.",,0,0
+"sp. X venustus",,0,0
 "sp.1","sp.",0,1
 "sp.2","sp.",0,1
 "sp.3","sp.",0,1
@@ -145,3 +156,4 @@
 "subspecies in question","subspecies in question",1,1
 "subspecies questioned","subspecies in question",0,1
 "venusta x sp.","venusta X sp.",0,1
+"vivax X sp.",,0,0
