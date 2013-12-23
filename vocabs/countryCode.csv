@@ -311,6 +311,8 @@
 "ASIA",,0,1
 "ASIA (BY INFERE",,0,1
 "ASIA (BY INFERENCE)",,0,1
+"ASIA (BY INFERERENCE",,0,1
+"ASIA (BY INFERERENCE)",,0,1
 "Asia Minor",,0,1
 "ASIA?",,0,1
 "Assam","IN",0,1
@@ -928,6 +930,7 @@
 "Centr.Australia","AU",0,1
 "Centr.Br. New Guinea","PG",0,1
 "Centr.Du. New Guinea","ID",0,1
+"Central / South America",,0,1
 "Central Afghanistan","AF",0,1
 "CENTRAL AFRICA",,0,1
 "CENTRAL AFRICAN REP","CF",0,1
@@ -937,6 +940,7 @@
 "Central Bolivia","BO",0,1
 "Central Ceylon","LK",0,1
 "Central Chile","CL",0,1
+"Central China","CN",0,1
 "Central div. Papua","PG",0,1
 "Central Division Papua","PG",0,1
 "Central Dutch Guinea","ID",0,1
@@ -1003,6 +1007,7 @@
 "CHINA SEA",,0,1
 "China, E. Tibet","CN",0,1
 "China, N. Tibet","CN",0,1
+"China, People's Republic","CN",0,1
 "China, Tibet","CN",0,1
 "China, W. Mongolia",,0,1
 "China?","CN",0,1
@@ -1140,6 +1145,7 @@
 "Crozet Is.","FR",0,1
 "Crozet Islands","FR",0,1
 "Cuba","CU",1,1
+"Cuba (?)","CU",0,1
 "Cuba(?)","CU",0,1
 "Cuba, W. Indies","CU",0,1
 "Cuba?","CU",0,1
@@ -1601,6 +1607,7 @@
 "Fr.W. Africa",,0,1
 "Fr.W. Turkestan",,0,1
 "France","FR",1,1
+"France & Netherlands",,0,1
 "France ?","FR",0,1
 "France?","FR",0,1
 "Free State Congo",,0,1
@@ -1708,6 +1715,7 @@
 "German, Africa",,0,1
 "Germany","DE",1,1
 "Germany ?","DE",0,1
+"Germany or Poland",,0,1
 "Germany, Captive","DE",0,1
 "Germany, E Prussia",,0,1
 "Germany, E. Prussia",,0,1
@@ -1715,6 +1723,7 @@
 "Germany?","DE",0,1
 "Ghana","GH",1,1
 "Gibraltar","GI",1,1
+"Gibralter","GI",0,1
 "Gilbert Islands","KI",0,1
 "Gold Coast","GH",0,1
 "Gold Coast (Interior)","GH",0,1
@@ -1946,6 +1955,7 @@
 "Indonesia","ID",1,1
 "Indonesia, New Guinea Id","ID",0,1
 "Indonesia: Sulawesi","ID",0,1
+"Indonesia-Malaysia",,0,1
 "Indrulaman I.","ID",0,1
 "Inland Center E. Madagascar","MG",0,1
 "Inland E. Madagascar","MG",0,1
@@ -1982,6 +1992,7 @@
 "Irag","IQ",0,1
 "Iran","IR",1,1
 "Iran ?","IR",0,1
+"Iran or Iraq",,0,1
 "IRAN, ISLAMIC REPUBLIC OF","IR",0,1
 "Iraq","IQ",1,1
 "Ire.","IE",0,1
@@ -2086,6 +2097,7 @@
 "Kerguelen Island","FR",0,1
 "Kerguelen Islands","FR",0,1
 "Kerguelen Isle","FR",0,1
+"Kerguelin Islands","TF",0,1
 "Kerguellan Is.","FR",0,1
 "Kerguellen I.","FR",0,1
 "Kermadec I.","NZ",0,1
@@ -2099,6 +2111,7 @@
 "Kikuyu.","KE",0,1
 "Kilimanjaro","TZ",0,1
 "Kilimanjaro District","TZ",0,1
+"Kingdom of the Netherlands","NL",0,1
 "Kio I.","RU",0,1
 "Kiribati","KI",1,1
 "Kisoei I.","ID",0,1
@@ -2182,6 +2195,8 @@
 "Livland",,0,1
 "Lloyds I.","AQ",0,1
 "LOCALITY DATA U",,0,1
+"LOCALITY DATA UNKNOWN",,0,1
+"LOCALITY DATA UNKOWN",,0,1
 "LOCALITY UNKNOW",,0,1
 "LOCALITY UNKNOWN",,0,1
 "Lomblem","ID",0,1
@@ -2322,6 +2337,7 @@
 "MARIANAS","MP",0,1
 "MARIANAS IS","MP",0,1
 "Marianas Is.",,0,1
+"Marianas Islands",,0,1
 "Marianne I.","SC",0,1
 "Marianne Is","SC",0,1
 "Marianne Is.","SC",0,1
@@ -2947,6 +2963,7 @@
 "New Ireland I","PG",0,1
 "New Ireland I.","PG",0,1
 "New Ireland Is.","PG",0,1
+"NEW MEXICO","US",0,1
 "New Pommern","PG",0,1
 "New S. Wales","AU",0,1
 "New Siberia","RU",0,1
@@ -3040,6 +3057,7 @@
 "North end of San Tomé","ST",0,1
 "North Ethiopia","ET",0,1
 "North Formosa","TW",0,1
+"North Germany","DE",0,1
 "North Greenland","GL",0,1
 "North Guatemala","GT",0,1
 "North Holland","NL",0,1
@@ -3073,6 +3091,7 @@
 "North Wales","GB",0,1
 "North West America",,0,1
 "North West Australia","AU",0,1
+"North. South America",,0,1
 "Northeast coast of St. Vincent, B.W.I.","VC",0,1
 "Northeastern United States","US",0,1
 "Northern Australia","AU",0,1
@@ -3106,6 +3125,7 @@
 "Northwestern Taiwan","TW",0,1
 "Norway","NO",1,1
 "Norway ?","NO",0,1
+"Norway, Sweden, Finland or Russia",,0,1
 "Norway.","NO",0,1
 "NORWEGIAN SEA",,0,1
 "Nor-West Australia","AU",0,1
@@ -3234,6 +3254,7 @@
 "Palmer Archipelago",,0,1
 "Pan.","PA",0,1
 "Panama","PA",1,1
+"Panama (?)","PA",0,1
 "Panama (captive)","PA",0,1
 "Panama [illeg]","PA",0,1
 "Panama Bay","PA",0,1
@@ -4111,6 +4132,7 @@
 "Soa I.","GB",0,1
 "Society I.","PF",0,1
 "Society Is.","PF",0,1
+"Society Islands","PF",0,1
 "Socotra","YE",0,1
 "Socotra I.","YE",0,1
 "SOCOTRA IS","YE",0,1
@@ -4178,6 +4200,7 @@
 "South George I.","GS",0,1
 "South Georgia","GS",0,1
 "South Georgia & South Sandwich Islands","GS",0,1
+"South Georgia and South Sandwich Islands","GS",0,1
 "South Georgia and the South Sandwich Islands","GS",1,1
 "South Georgia I.","GS",0,1
 "SOUTH GEORGIA IS","GS",0,1
@@ -4424,11 +4447,13 @@
 "Tangangika Terr.","TZ",0,1
 "Tangangika Territory","TZ",0,1
 "Tanganyika","TZ",0,1
+"Tanganyika [Tanzania], Africa","TZ",0,1
 "Tanganyika Ter.","TZ",0,1
 "Tanganyika Terr.","TZ",0,1
 "Tanganyka Terr.","TZ",0,1
 "Tang-ter.","TZ",0,1
 "Tanguinyika","TZ",0,1
+"Tansania","TZ",0,1
 "Tanzania","TZ",1,1
 "Tanzania ?","TZ",0,1
 "TANZANIA, UNITED REPUBLIC OF","TZ",0,1
@@ -4469,6 +4494,7 @@
 "Terr. Papua","PG",0,1
 "Territory of American Samoa","AS",0,1
 "Territory of Papua","PG",0,1
+"Territory of the French Southern and Antarctic Lands","TF",0,1
 "Tevor Is.","MY",0,1
 "Texas","US",0,1
 "Thailand","TH",1,1
@@ -4514,6 +4540,7 @@
 "Tonga I.","TO",0,1
 "Tonga Is.","TO",0,1
 "Tonga I's.","TO",0,1
+"Tonga Island","TO",0,1
 "Tonga Islands","TO",0,1
 "Tonkin","VN",0,1
 "Toro Uganda","UG",0,1
@@ -4640,6 +4667,7 @@
 "United Arab Emirates","AE",1,1
 "United Kindom","GB",0,1
 "United Kingdom","GB",1,1
+"United Kingdom of Great Britain","GB",0,1
 "United Kingdom?","GB",0,1
 "United Sta","US",0,1
 "United States","US",1,1
@@ -4674,6 +4702,7 @@
 "US Virgin Islands","VI",0,1
 "US, ALONG RIVER TRAIL","US",0,1
 "USA","US",0,1
+"USA (?)","US",0,1
 "USA (BY INFEREN","US",0,1
 "USA (BY INFERENCE(","US",0,1
 "USA (BY INFERENCE)","US",0,1
@@ -4681,8 +4710,10 @@
 "USA (PROB.)","US",0,1
 "USA (PROBABLY)","US",0,1
 "USA or Canada",,0,1
+"USA				","US",0,1
 "USA
 ","US",0,1
+"USA","US",0,1
 "USA(?)","US",0,1
 "USA?","US",0,1
 "USSR",,0,1
@@ -4986,6 +5017,7 @@
 "West Colombia","CO",0,1
 "West Ecuador","EC",0,1
 "West Falkland","FK",0,1
+"West Falkland Islands","FK",0,1
 "WEST GERMANY","DE",0,1
 "West Greenland","GL",0,1
 "WEST INDIAN OCEAN",,0,1
