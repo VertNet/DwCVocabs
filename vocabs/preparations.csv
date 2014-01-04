@@ -266,6 +266,7 @@
 "alcoholic, flat skin","alcoholic, flat skin",1,1
 "Alcoholic, Hyoid","alcoholic, hyoid",0,1
 "alcoholic, other","alcoholic, other",1,1
+"alcoholic, other prep","alcoholic, other prep",1,1
 "alcoholic, round skin","alcoholic, round skin",1,1
 "alcoholic, round skin, partial skeleton","alcoholic, partial skeleton, round skin",0,1
 "alcoholic, skin","alcoholic, skin",1,1
@@ -2570,6 +2571,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "ECTOPARASITE:  ALC","ectoparasite (alcohol)",0,1
 "eg","egg",0,1
 "egg","egg",1,1
+"Egg - 1",,0,0
 "EGG (DRY)","egg",0,1
 "Egg cast",,0,0
 "Egg cast - 1","Egg cast - 1",0,1
@@ -3028,6 +3030,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Flat Round Skin",,0,0
 "Flat Round Skin and Castor Glands",,0,0
 "flat skin","flat skin",1,1
+"Flat skin - 1",,0,0
 "flat skin, alcoholic",,0,0
 "flat skin, cleared and stained",,0,0
 "flat skin, complete skeleton",,0,0
@@ -6793,6 +6796,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Misc - 4",,0,0
 "Misc feathers/bones",,0,0
 "Misc.","miscellaneous",0,1
+"Misc. - 1",,0,0
+"Misc. - 1; Misc. - 1",,0,0
+"Misc. - 1; No data - 1",,0,0
+"Misc. - 1; Skeleton - 1",,0,0
+"Misc. - 1; Skin - 1",,0,0
+"Misc. - 1; Study skin - 1",,0,0
+"Misc. - 1; Whole (EtOH) - 1",,0,0
 "Misc. bones",,0,0
 "Misc.; Misc.","miscellaneous",0,1
 "Misc.; No data","miscellaneous",0,1
@@ -6856,6 +6866,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "mount; blood","blood, mount",0,1
 "mount?",,0,0
 "mounted","mount",0,1
+"Mounted - 1",,0,0
 "Mounted (live mount ?)",,0,0
 "mounted antlers","mounted antlers",0,1
 "MOUNTED ARTICULATED SKELETON","mounted articulated skeleton",0,1
@@ -6976,6 +6987,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Nest - 1; Eggset - 4","Nest - 1; Eggset - 4",0,1
 "Nest - 1; Eggset - 7","Nest - 1; Eggset - 7",0,1
 "Nest - 1; Eggset - null","Nest - 1; Eggset - null",0,1
+"Nest - 1; Misc. - 1",,0,0
 "Nest - 1; Skin - 1","Nest - 1; Skin - 1",0,1
 "Nest - 1; Skin - 1; Eggset - 1","Nest - 1; Skin - 1; Eggset - 1",0,1
 "Nest - 50","Nest - 50",0,1
@@ -7004,6 +7016,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Nine-tenths L ulna.",,0,0
 "Nine-tenths R dentary, no teeth.",,0,0
 "No data",,0,1
+"No data - 1",,0,0
 "NO ID",,0,0
 "No ID.",,0,0
 "no skin","none",0,1
@@ -7513,6 +7526,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "other","other",1,1
 "OTHER PICKLED MATERIAL","pickled material",0,1
 "OTHER PICKLED MATERIAL, tissue","pickled material, tissue",0,1
+"other prep","other prep",1,1
 "other, alcoholic",,0,0
 "other, baculum",,0,0
 "other, baculum, skull, partial skeleton",,0,0
@@ -7794,7 +7808,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "PART. SK","partial skeleton",0,1
 "PARTIAL (DRY), tissue","partial animal, tissue",0,1
 "Partial (EtOH)","partial animal (ETOH)",0,1
+"Partial (EtOH) - 1",,0,0
 "Partial (Formalin)","partial animal (Formalin)",0,1
+"Partial (Formalin) - 1",,0,0
 "Partial anterior sternum.",,0,0
 "PARTIAL BODY SKELETON","partial body skeleton",0,1
 "PARTIAL CARAPACE (DRY)","partial carapace",0,1
@@ -8178,6 +8194,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PISIFORM R",,0,0
 "Pisiform.",,0,0
 "plastic","plastic",0,1
+"Plastic - 1",,0,0
 "plastic gi","plastic gastro-intestinal tract",0,1
 "plastic gi tract","plastic gastro-intestinal tract",0,1
 "plastic, skel for mount","plastic, skeleton for mount",0,1
@@ -10325,7 +10342,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeletal remains of 2 adults and 1 immature.",,0,0
 "skeleton","skeleton",1,1
 "Skeleton - 1","skeleton",0,1
+"Skeleton - 1; Flat skin - 1",,0,0
+"Skeleton - 1; Misc. - 1",,0,0
+"Skeleton - 1; Mounted - 1",,0,0
+"Skeleton - 1; No data - 1",,0,0
 "Skeleton - 1; Skeleton - 1","skeleton",0,1
+"Skeleton - 1; Skin - 1",,0,0
+"Skeleton - 1; Skin (EtOH) - 1",,0,0
+"Skeleton - 1; Study skin - 1",,0,0
+"Skeleton - 1; Whole (EtOH) - 1",,0,0
 "Skeleton - 2","skeleton",0,1
 "skeleton  2 wings & flattened skin","skeleton, wings, flat skin",0,1
 "Skeleton - 564","skeleton",0,1
@@ -10456,6 +10481,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELETON PARTIAL",,0,0
 "SKELETON SPECIMEN","skeleton",0,1
 "SKELETON SPECIMEN AND FLUID SKIN","skeleton, fluid skin",0,1
+"skeleton, alcoholic","alcoholic, skeleton",0,1
 "Skeleton, Body (no head), Body (no head), Body (no head), Tissue, Tissue",,0,0
 "Skeleton, Body (no head), Tissue, Body (no head), Body (no head), Tissue",,0,0
 "Skeleton, Body (Skeleton), Body (Skeleton), Body (Skeleton)",,0,0
@@ -10485,6 +10511,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton, Microtechnique, Microtechnique",,0,0
 "SKELETON, NO SKULL","skeleton",0,1
 "Skeleton, no skull, a few hairs",,0,0
+"skeleton, other prep","other prep, skeleton",0,1
 "skeleton, parasites, tissue, wing",,0,0
 "Skeleton, partial","partial skeleton",0,1
 "Skeleton, Pelvis, Pelvis, Skin, Skin, Toe pad sample, Pelvis, Skin, Skin, Toe pad sample",,0,0
@@ -10625,6 +10652,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELETON, WING FEATHERS","skeleton, wing feathers",0,1
 "SKELETON, WING, AND TAIL","skeleton, wing, tail",0,1
 "SKELETON, WING, AND TAIL, tissue","skeleton, wing, tail, tissue",0,1
+"SKELETON, WING, BONELESS SKIN","skeleton, boneless skin, wing",0,1
 "SKELETON, WING, FEATHERS","skeleton, wing, feathers",0,1
 "SKELETON, WING, FOOT, FEATHERS","skeleton, wing, foot, feathers",0,1
 "SKELETON, WING, HEAD FEATHERS","skeleton, wing, head feathers",0,1
@@ -10784,6 +10812,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Body in spirits) (Body in spirits) (Body in spirits)",,0,0
 "SKIN (DRY)","skin",0,1
 "Skin (EtOH)","skin (ETOH)",0,1
+"Skin (EtOH) - 1",,0,0
 "Skin (Feet only) (Feet only), Toe pad sample, Toe pad sample (Feet only)",,0,0
 "Skin (Feet, wings, tail only) (Feet, wings, tail only)",,0,0
 "Skin (Flat skin & wing), Tissue (Flat skin & wing), Skeleton, Skeleton (Flat skin & wing), Tissue",,0,0
@@ -11037,6 +11066,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, 2nd class skin, only",,0,0
 "Skin, A",,0,0
 "Skin, Accession card: first bird skinned by F. T. Hall",,0,0
+"skin, alcoholic","alcoholic, skin",0,1
 "skin, alcoholic, tissue",,0,0
 "Skin, April 1951",,0,0
 "Skin, Aug. 1951",,0,0
@@ -11107,6 +11137,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, O.OWRE",,0,0
 "Skin, one wing and one leg skinned out; Skel, one wing and one leg skinned out",,0,0
 "skin, other",,0,0
+"skin, other prep","other prep, skin",0,1
 "Skin, ovary preserved",,0,0
 "Skin, ovary saved",,0,0
 "Skin, Par Skeleton, Wing, DNA","skin, partial skeleton, wing, DNA",0,1
@@ -11179,7 +11210,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, shmoo made up; Skel, shmoo made up",,0,0
 "Skin, sk and sex; Feather",,0,0
 "SKIN, SKELEON","skin, skeleton",0,1
-"Skin, Skeleton","skin, skeleton",0,1
+"Skin, Skeleton","skeleton, skin",0,1
 "SKIN, SKELETON (FEW WING BONES)","skin, skeleton, wing bones",0,1
 "Skin, Skeleton (Partial skeleton)",,0,0
 "Skin, Skeleton (Partial skeleton), Skeleton (Partial skeleton), Tissue, Heart, liver, muscle, Tissue, Heart, liver, muscle",,0,0
@@ -11276,6 +11307,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, skull and tarsus removed from skin",,0,0
 "skin, skull",,0,0
 "skin, skull, alc","alcoholic, skin, skull",0,1
+"skin, skull, alcoholic","alcoholic, skin, skull",0,1
 "Skin, Skull, Baculum","baculum, skin, skull",0,1
 "Skin, skull, body skeleton","skin, skull, body skeleton",0,1
 "skin, skull, ectos",,0,0
@@ -11289,12 +11321,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Skull, Karyotype",,0,0
 "skin, skull, karytype",,0,0
 "skin, skull, other",,0,0
+"skin, skull, other prep","opther prep, skin, skull",0,1
 "Skin, Skull, PART",,0,0
-"skin, skull, skeleton","skin, skull, skeleton",0,1
+"skin, skull, skeleton","skeleton, skin, skull",0,1
+"skin, skull, skeleton, alcoholic","alcoholic, skeleton, skin, skull",0,1
 "Skin, Skull, Skeleton, Fluid",,0,0
 "Skin, Skull, Skeleton, Fluid, Karyotype",,0,0
 "Skin, Skull, Skeleton, Glans",,0,0
 "Skin, Skull, Skeleton, Karyotype",,0,0
+"skin, skull, skeleton, other prep","other prep, skeleton, skin, skull",0,1
 "skin, skull, skin",,0,0
 "skin, skull, stomach",,0,0
 "skin, skull, tail, left paw, left leg, tissue",,0,0
@@ -11803,6 +11838,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKIN\BODY SKELETON","skin, body skeleton",0,1
 "Skin+Wing","skin, wing",0,1
 "skin+wing+partial skel.+DNA (muscle only)","skin, wing, partial skeleton, DNA (muscle)",0,1
+"SKINK/SKELETON/FEATHERS","feathers, skeleton, skin",0,1
 "Skinot found",,0,0
 "Skinot washed",,0,0
 "Skinov 1954",,0,0
@@ -11822,6 +11858,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKO+T","skull, tissue",0,1
 "SKON)","SKON)",0,1
 "skull","skull",1,1
+"Skull - 1",,0,0
+"Skull - 1; Flat Skin - 1",,0,0
+"Skull - 1; Misc. - 1",,0,0
+"Skull - 1; Mounted - 1",,0,0
+"Skull - 1; Skin - 1",,0,0
+"Skull - 1; Skull - 1",,0,0
+"Skull - 1; Study skin - 1",,0,0
 "SKULL  AND MANDIBLES ONLY","skull, mandibles",0,1
 "SKULL  POSTERIOR 3/5",,0,0
 "SKULL & ANT VERTEBRAE ONLY","skull, anterior vertebrae",0,1
@@ -12195,7 +12238,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull, alc, karyo/NC",,0,0
 "skull, alc, karyotype",,0,0
 "skull, alc, karytype",,0,0
-"skull, alcoholic",,0,0
+"skull, alcoholic","alcoholic, skull",0,1
+"skull, alcoholic, other prep","alcoholic, other prep, skull",0,1
 "skull, alcoholic, skin",,0,0
 "skull, alcoholic, skin, skin",,0,0
 "SKULL, ALL TEETH EXC. L I3, NO PALATE NOR BASIOCCIPITAL AREA",,0,0
@@ -12244,6 +12288,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull, missing R zygomatic arch; R P2/ P3/ P4/ M1/, L P3/ P4/ M1/.",,0,0
 "Skull, missing zygomatic arches; R P4/ M1/; L I2/ I3/ P4/ M1/.",,0,0
 "skull, other",,0,0
+"skull, other prep","other prep, skull",0,1
 "skull, other, complete skeleton",,0,0
 "skull, other, partial skeleton",,0,0
 "skull, other, skin",,0,0
@@ -12270,10 +12315,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull, Right Ulna and Radius",,0,0
 "SKULL, SCAPULA, VERTEBRA C1-3",,0,0
 "SKULL, SHELL AND FLUID GONADS","skull, shell, fluid gonads",0,1
-"Skull, Skeleton",,0,0
+"Skull, Skeleton","skeleton, skull",0,1
+"skull, skeleton, alcoholic","alcoholic, skeleton, skull",0,1
 "Skull, Skeleton, Fluid",,0,0
 "Skull, Skeleton, Fluid, Karyotype",,0,0
 "Skull, Skeleton, Karyotype",,0,0
+"skull, skeleton, other prep","other prep, skeleton, skull",0,1
 "Skull, Skeleton, Skin",,0,0
 "skull, skin",,0,0
 "skull, skin, alcoholic",,0,0
@@ -12501,6 +12548,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "stomach plastic","plastic stomach",0,1
 "STUDY","study skin",0,1
 "study skin","study skin",0,1
+"Study skin - 1",,0,0
 "STUDY SKIN AND ALCOHOLIC TRUNK","study skin, alcoholic trunk",0,1
 "STUDY SKIN AND ALCOHOLIC TRUNK, tissue","study skin, alcoholic trunk, tissue",0,1
 "STUDY SKIN AND BODY SKELETON","study skin, body skeleton",0,1
@@ -13625,7 +13673,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue; Wings_tail; Syrinx; Skin; Skel",,0,0
 "TISSUES","tissues",0,1
 "TK","tusk",0,1
-"TN",,0,0
+"TN","skin in alcohol, skeleton, tissue",0,1
 "TO","skeleton, tissue",0,1
 "Toe Bones",,0,0
 "tooth","tooth",0,1
@@ -13859,12 +13907,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "Whole - 1","Whole - 1",0,1
 "WHOLE (DRY)","whole animal",0,1
 "Whole (EtOH)","whole animal (ETOH)",0,1
+"Whole (EtOH) - 1",,0,0
+"Whole (EtOH) - 1; Skeleton - 1",,0,0
 "Whole (EtOH); Skeleton","skeleton, whole animal (ETOH)",0,1
 "Whole (Formalin)","whole animal (formalin)",0,1
+"Whole (Formalin) - 1",,0,0
 "whole bird","whole animal",0,1
 "WHOLE MOUNT LABIAL TEETH (MICROSLIDE)","mount, labial teeth (microslide)",0,1
 "wind & tail & skeleton","wing, tail, skeleton",0,1
 "wing","wing",1,1
+"wing - 1; No data - 1",,0,0
 "wing  partial skeleton","wing, partial skeleton",0,1
 "wing & partial skeleton","wing, partial skeleton",0,1
 "wing & skeleton","wing, skeleton",0,1

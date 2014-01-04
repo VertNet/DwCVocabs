@@ -276,6 +276,7 @@
 "Arabia?",,0,1
 "Aralo-Caspia",,0,1
 "Archipelago",,0,1
+"ARCTIC",,0,1
 "Arctic Canada","CA",0,1
 "ARCTIC OCEAN",,0,1
 "Arctic, Canada","CA",0,1
@@ -1488,6 +1489,7 @@
 "El Salvadore","SV",0,1
 "El Salvadpr","SV",0,1
 "ElSalvador","SV",0,1
+"ELSALVATOR","SV",0,1
 "Eng","GB",0,1
 "Eng.","GB",0,1
 "Engano I.","ID",0,1
@@ -2199,6 +2201,7 @@
 "LOCALITY DATA UNKOWN",,0,1
 "LOCALITY UNKNOW",,0,1
 "LOCALITY UNKNOWN",,0,1
+"LOCALITY UNKNOWN *",,0,1
 "Lomblem","ID",0,1
 "Lomblen","ID",0,1
 "Lomblen I","ID",0,1
@@ -2868,6 +2871,7 @@
 "Nairobi","KE",0,1
 "Namaqualand",,0,1
 "Namibia","NA",1,1
+"NAMIBIA (SWA)","NA",0,1
 "N'Angola","AO",0,1
 "Napal Valley","NP",0,1
 "Narcondam I.","IN",0,1
@@ -4399,6 +4403,7 @@
 "SW China","CN",0,1
 "SW Kenya","KE",0,1
 "Swallow I.","KI",0,1
+"SWA-NAMIBIA","NA",0,1
 "Swaziland","SZ",1,1
 "Sweden","SE",1,1
 "Sweden ?","SE",0,1

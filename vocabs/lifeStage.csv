@@ -461,6 +461,7 @@
 "0.6",,0,0
 "0.8",,0,0
 "0.t-b-B",,0,0
+"0?",,0,1
 "0-0-0",,0,0
 "0000",,0,0
 "0-0-0-0",,0,0
@@ -6638,6 +6639,7 @@ Trace.",,0,0
 "F","unknown",0,1
 "F AD","adult",0,1
 "f advanced",,0,0
+"F IMM","immature",0,1
 "F JUV","juvenile",0,1
 "F JUV.","juvenile",0,1
 "F, NESTLING","nestling",0,1
@@ -6649,7 +6651,11 @@ Trace.",,0,0
 "F/JUV","juvenile",0,1
 "F/juvenile","juvenile",0,1
 "F/NESTLING","nestling",0,1
+"F?/AD","adult",0,1
+"F?/FLEDGLING","fledling",0,1
+"F?/IMM","immature",0,1
 "F~","unknown",0,1
+"F~ JUV","juvenile",0,1
 "Failed",,0,0
 "Failed (?)",,0,0
 "Failed (1 of 2- 2nd broke)",,0,0

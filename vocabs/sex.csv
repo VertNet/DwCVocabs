@@ -250,6 +250,7 @@ M[F]","unknown",0,1
 "<","unknown",0,1
 "=[F]M","unknown",0,1
 ">",,0,1
+"0?",,0,1
 "1",,0,1
 "1 hemipene, throat white, scales",,0,1
 "11","unknown",0,1
@@ -363,6 +364,7 @@ M[F]","unknown",0,1
 "F AHY","female",0,1
 "F br","female",0,1
 "F br.","female",0,1
+"F IMM","female",0,1
 "F JUV","female",0,1
 "F JUV.","female",0,1
 "F JUV?","female",0,1
@@ -412,6 +414,9 @@ M[F]","unknown",0,1
 "F?(M)","unknown",0,1
 "F?)","female",0,1
 "F?*","female",0,1
+"F?/AD","female",0,1
+"F?/FLEDGLING","female",0,1
+"F?/IMM","female",0,1
 "F??","female",0,1
 "F?[=M]","unknown",0,1
 "F?[M]","unknown",0,1
@@ -434,6 +439,7 @@ M[F]","unknown",0,1
 "F[M]?!","unknown",0,1
 "F`","female",0,1
 "F~","female",0,1
+"F~ JUV","female",0,1
 "F4","unknown",0,1
 "Fall Male","male",0,1
 "F'CHICK'","female",0,1
