@@ -6852,6 +6852,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Most of skull R C1/ P3/ P4/, L P3/ P4/ M1/.",,0,0
 "mount","mount",1,1
 "mount & bones",,0,0
+"mount (body)",,0,0
+"mount (body), tissue",,0,0
 "mount (head)",,0,0
 "mount and skull",,0,0
 "Mount as a Decoy","mount",0,1
@@ -6993,6 +6995,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Nest - 50","Nest - 50",0,1
 "Nest - null","Nest - null",0,1
 "NEST & EGGS","eggs, nest",0,1
+"nest (complete)",,0,0
 "NEST GROUP","nests",0,1
 "NEST WITH EGGS","eggs, nest",0,1
 "NEST WITH EGGS, tissue","eggs, nest, tissue",0,1
@@ -8384,7 +8387,23 @@ R PERIPHERALS 2 - 3.",,0,0
 "POST R DENTARY",,0,0
 "POSTCRANIAL (DRY)","post-cranial",0,1
 "postcranial skeleton",,0,0
+"postcranial skeleton (complete)",,0,0
+"postcranial skeleton (complete); skull  (complete)",,0,0
+"postcranial skeleton (complete); skull (broken)",,0,0
+"postcranial skeleton (complete); skull (broken), tissue, wings",,0,0
+"postcranial skeleton (complete); skull (complete)",,0,0
+"postcranial skeleton (complete); skull (complete), tissue",,0,0
+"postcranial skeleton (complete); skull (complete), wings",,0,0
+"postcranial skeleton (complete); skull (partial)",,0,0
 "POSTCRANIAL SKELETON (DRY)","post-cranial skeleton",0,1
+"postcranial skeleton (partial)",,0,0
+"postcranial skeleton (partial), wings",,0,0
+"postcranial skeleton (partial); skull (broken)",,0,0
+"postcranial skeleton (partial); skull (complete)",,0,0
+"postcranial skeleton (partial); skull (complete), wings",,0,0
+"postcranial skeleton (sternum), wings",,0,0
+"postcranial skeleton (syrinx)",,0,0
+"postcranial skeleton (vertebrae and neck parts); skull (complete)",,0,0
 "Post-dentary L mandible.",,0,0
 "Post-dentary mandible.",,0,0
 "Posterio R ilium.",,0,0
@@ -10813,7 +10832,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKIN (DRY)","skin",0,1
 "Skin (EtOH)","skin (ETOH)",0,1
 "Skin (EtOH) - 1",,0,0
+"skin (feather)",,0,0
+"skin (feathers)",,0,0
 "Skin (Feet only) (Feet only), Toe pad sample, Toe pad sample (Feet only)",,0,0
+"skin (feet)",,0,0
 "Skin (Feet, wings, tail only) (Feet, wings, tail only)",,0,0
 "Skin (Flat skin & wing), Tissue (Flat skin & wing), Skeleton, Skeleton (Flat skin & wing), Tissue",,0,0
 "Skin (Flat skin & wing), Tissue, Tissue (Flat skin & wing) (Flat skin & wing), Skeleton, Skeleton",,0,0
@@ -10851,16 +10873,25 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Flat skin), Tissue, Heart, liver, muscle (Flat skin), Skeleton, Tissue, Heart, liver, muscle (Flat skin), Skeleton",,0,0
 "Skin (Flat skin), Tissue, Skeleton (Flat skin)",,0,0
 "Skin (Flat skin), Toe pad sample (Flat skin) (Flat skin), Toe pad sample",,0,0
+"skin (flat)",,0,0
+"skin (flat); skull (broken)",,0,0
 "Skin (Flat. skin) (Flat. skin), Skeleton (Flat. skin), Skeleton",,0,0
 "Skin (Flat. skin) (Flat. skin), Skeleton, Skeleton (Flat. skin)",,0,0
+"skin (foot)",,0,0
+"skin (foot), wings",,0,0
+"skin (foot); skull (complete)",,0,0
 "Skin (fore part) and Skull",,0,0
 "Skin (Formalin) (Formalin) (Formalin)",,0,0
 "skin (freeze dried)","skin (freeze fried)",0,1
+"skin (head and feet), wings",,0,0
+"skin (head and foot), wings",,0,0
 "Skin (Head and Left Wing) (Head and Left Wing) (Head and Left Wing)",,0,0
 "Skin (Head and neck only) (Head and neck only)",,0,0
 "Skin (Head only) (Head only), Skin sample (Head only), Skin sample",,0,0
 "Skin (Head only) (Head only), Skin sample, Skin sample (Head only)",,0,0
 "Skin (Head only), Skin sample (Head only) (Head only), Skin sample",,0,0
+"skin (head only), tissue",,0,0
+"skin (head)",,0,0
 "Skin (Head, foot & quills only) (Head, foot & quills only) (Head, foot & quills only), Skin sample, Skin sample",,0,0
 "Skin (Head, foot & quills only) (Head, foot & quills only), Skin sample, Skin sample (Head, foot & quills only)",,0,0
 "Skin (Injected formalin) (Injected formalin) (Injected formalin)",,0,0
@@ -10875,6 +10906,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Mummy) (Mummy) (Mummy)",,0,0
 "Skin (Mummy; put in skin collection) (Mummy; put in skin collection)",,0,0
 "Skin (No head) (No head), Toe pad sample",,0,0
+"skin (partial flat), wings",,0,0
+"skin (partial round), wings",,0,0
 "Skin (Partial skeleton) (Partial skeleton) (Partial skeleton)",,0,0
 "Skin (Partial skeleton) (Partial skeleton), Skeleton (Partial skeleton), Skeleton",,0,0
 "Skin (Partial skeleton) (Partial skeleton), Skeleton, Skeleton (Partial skeleton)",,0,0
@@ -10885,6 +10918,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Partial skeleton, feathers), Skeleton (Partial skeleton, feathers), Skeleton (Partial skeleton, feathers)",,0,0
 "Skin (Primary feathers) (Primary feathers)",,0,0
 "Skin (Retrix; Primary) (Retrix; Primary) (Retrix; Primary)",,0,0
+"skin (round)",,0,0
+"skin (round), tissue",,0,0
+"skin (round), tissue, wings",,0,0
+"skin (round), wings",,0,0
+"skin (round);  ",,0,0
 "Skin (Schmoo & spread wing) (Schmoo & spread wing) (Schmoo & spread wing), Tissue, Skeleton, Tissue, Skeleton",,0,0
 "Skin (Schmoo & spread wing), Skeleton (Schmoo & spread wing), Tissue",,0,0
 "Skin (Schmoo & spread wing), Tissue (Schmoo & spread wing), Skeleton, Skeleton (Schmoo & spread wing), Tissue",,0,0
@@ -10994,6 +11032,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Tail & wing feathers only) (Tail & wing feathers only)",,0,0
 "Skin (Tail feathers only) (Tail feathers only)",,0,0
 "Skin (Tail feathers only) (Tail feathers only) (Tail feathers only)",,0,0
+"skin (tail), wings",,0,0
+"skin (two feet and tail), wings",,0,0
 "Skin (Wing only) (Wing only) (Wing only)",,0,0
 "Skin (Wing only) (Wing only), Skeleton, Tissue",,0,0
 "Skin (Wing only), Skeleton (Wing only), Tissue",,0,0
@@ -11895,6 +11935,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull & vertebrae","skull, vertebrae",0,1
 "SKULL & VERTEBRAE (DRY)","skull, vertebrae",0,1
 "Skull (back missing)",,0,0
+"skull (complete)",,0,0
 "Skull (disarticulated)",,0,0
 "SKULL (DRY)","skull",0,1
 "SKULL (DRY), tissue","skull, tissue",0,1
@@ -13558,6 +13599,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, wing, tissue, alcoholic",,0,0
 "tissue, wing, tissue, other",,0,0
 "tissue, wing, tissue, round skin",,0,0
+"tissue, wings","tissue, wings",1,1
 "Tissue; Eggset",,0,0
 "Tissue; Eggset; Fluid",,0,0
 "Tissue; Eggset; Skin",,0,0
