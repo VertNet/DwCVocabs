@@ -682,6 +682,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anteroventral R scapula.",,0,0
 "antler","antler",0,1
 "Antler (abnormal).","antler (abnormal)",0,1
+"antler (complete)",,0,0
 "ANTLER BASE","antler base",1,1
 "ANTLER FRAG","antler fragment",0,1
 "ANTLER HALF BASE","antler base",0,1
@@ -753,6 +754,39 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Axis.","axis",0,1
 "B","eggs, nest",0,1
 "Baculum","baculum",1,1
+"baculum  (complete); postcranial skeleton (complete); skull (complete)",,0,0
+"baculum  (complete); postcranial skeleton (partial); skin (round); skull (complete)",,0,0
+"baculum  (complete); skin (round)",,0,0
+"baculum  (complete); skin (round); skull (complete)",,0,0
+"baculum (broken); postcranial skeleton (complete); skin (pelt); skull (complete)",,0,0
+"baculum (broken); postcranial skeleton (complete); skull (complete)",,0,0
+"baculum (broken); postcranial skeleton (partial); skin (round); skull (broken)",,0,0
+"baculum (broken); skin (round)",,0,0
+"baculum (broken); skin (round); skull (broken)",,0,0
+"baculum (broken); skin (round); skull (complete)",,0,0
+"baculum (broken); skull (complete)",,0,0
+"baculum (complete)",,0,0
+"baculum (complete); postcranial skeleton (complete)",,0,0
+"baculum (complete); postcranial skeleton (complete); skin (round); skull (broken)",,0,0
+"baculum (complete); postcranial skeleton (complete); skin (round); skull (complete)",,0,0
+"baculum (complete); postcranial skeleton (complete); skull (broken)",,0,0
+"baculum (complete); postcranial skeleton (complete); skull (complete)",,0,0
+"baculum (complete); postcranial skeleton (leg bones); skin (round); skull (complete)",,0,0
+"baculum (complete); postcranial skeleton (partial); skin (round); skull (broken)",,0,0
+"baculum (complete); postcranial skeleton (partial); skin (round); skull (complete)",,0,0
+"baculum (complete); postcranial skeleton (partial); skin (round); skull (two mandibles)",,0,0
+"baculum (complete); postcranial skeleton (partial); skull (complete)",,0,0
+"baculum (complete); skin (pelt); skull (complete)",,0,0
+"baculum (complete); skin (round)",,0,0
+"baculum (complete); skin (round); cranium (complete)",,0,0
+"baculum (complete); skin (round); mandible (two mandibles)",,0,0
+"baculum (complete); skin (round); skull (broken)",,0,0
+"baculum (complete); skin (round); skull (complete)",,0,0
+"baculum (complete); skull (broken)",,0,0
+"baculum (complete); skull (complete)",,0,0
+"baculum (partial); skin (round); skull (broken)",,0,0
+"baculum (partial); skin (round); skull (complete)",,0,0
+"baculum (partial); skull (complete)",,0,0
 "baculum, complete skeleton","baculum, complete skeleton",1,1
 "Baculum, Fluid","baculum, fluid",1,1
 "baculum, other","baculum, other",1,1
@@ -767,6 +801,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "baculum, skull, skin, complete skeleton","baculum, complete skeleton, skin, skull",0,1
 "Baculum.","baculum",0,1
 "baleen","baleen",1,1
+"baleen (1 plate)",,0,0
 "Baleen plate","baleen plate",1,1
 "Basal portion L p3.",,0,0
 "Basal portion scapula.",,0,0
@@ -777,6 +812,14 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Basioccipital, R exoccipital, auditory bulla.",,0,0
 "Basioccipital.","basioccipital",0,1
 "BASISPHENOID PR",,0,0
+"baubellum (complete); postcranial skeleton (complete); skin (round); skull (complete)",,0,0
+"baubellum (complete); postcranial skeleton (complete); skull (complete)",,0,0
+"baubellum (complete); postcranial skeleton (partial); skin (round); skull (complete)",,0,0
+"baubellum (complete); postcranial skeleton (partial); skull (complete)",,0,0
+"baubellum (complete); skin (round)",,0,0
+"baubellum (complete); skin (round); cranium (complete)",,0,0
+"baubellum (complete); skin (round); skull (broken)",,0,0
+"baubellum (complete); skin (round); skull (complete)",,0,0
 "BEAK","beak",1,1
 "Beak  leg and feathers (stomach contents of an Otus kennicottii)","beak, leg, feathers, stomach contents",0,1
 "beak & sternum","beak, sternum",0,1
@@ -1252,6 +1295,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete skeleton, wing, tissue",,0,0
 "complete skeleton, wing, tissue, flat skin",,0,0
 "Complete upper and lower dentition.",,0,0
+"complete; skin (round); skull (complete)",,0,0
 "COMPOUND BONE",,0,0
 "COMPOUND BONE FRAGMENT",,0,0
 "Condyle metapodial.",,0,0
@@ -1318,6 +1362,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Cráneo y fracción de piel, sangre","blood, partial skin, skull",0,1
 "Cráneo, fracción","partial skull",0,1
 "CRANIUM","skull",0,1
+"cranium  (complete)",,0,0
+"cranium (broken)",,0,0
+"cranium (complete)",,0,0
+"cranium (partial)",,0,0
+"cranium (worn)",,0,0
 "CRANIUM AND L DENTARY","cranium, left dentary",0,1
 "CRANIUM AND R DENTARY","cranium, right dentary",0,1
 "CRANIUM FRAG","partial skull",0,1
@@ -5023,6 +5072,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Hair",,0,0
 "hair, skull, tissue",,0,0
 "hair, tissue",,0,0
+"hairball",,0,0
 "HALF CERVICAL VERTEBRA, IMM.",,0,0
 "Half cheektooth.",,0,0
 "HALF OF PELVIC GIRDLE (GLYCERIN)","half of pelvic girdle (glycerin)",0,1
@@ -5081,6 +5131,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Hoof",,0,0
 "hooves",,0,0
 "horn","horn",1,1
+"horn (horn sheath)",,0,0
+"horn (one horn sheath)",,0,0
 "HORN CORE",,0,0
 "HORN CORE BASE FRAG'S",,0,0
 "HORN CORE FRAG",,0,0
@@ -6345,6 +6397,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Malleus.",,0,0
 "mandible","mandible",1,1
 "MANDIBLE (DRY)","mandible",0,1
+"mandible (one mandible)",,0,0
+"mandible (one partial mandible)",,0,0
+"mandible (two mandibles)",,0,0
 "MANDIBLE AND QUADRATES",,0,0
 "Mandible and skull fragments",,0,0
 "MANDIBLE ANT",,0,0
@@ -6382,6 +6437,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "MANDIBLE UPPER",,0,0
 "Mandible.",,0,0
 "mandible; antlers",,0,0
+"mandibles (2 mandibles)",,0,0
 "MANDIBLES ANT TIP",,0,0
 "MANDIBLES O.","mandibles",0,1
 "MANDIBULAR SYMPHYSIS",,0,0
@@ -6854,7 +6910,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "mount & bones",,0,0
 "mount (body)",,0,0
 "mount (body), tissue",,0,0
+"mount (body); cranium (complete)",,0,0
+"mount (body); postcranial skeleton (complete); skull (complete)",,0,0
+"mount (body); postcranial skeleton (sternum)",,0,0
+"mount (body); skull (complete)",,0,0
 "mount (head)",,0,0
+"mount (skin); skull (complete)",,0,0
 "mount and skull",,0,0
 "Mount as a Decoy","mount",0,1
 "Mount, Blood","mount, blood",0,1
@@ -8387,23 +8448,69 @@ R PERIPHERALS 2 - 3.",,0,0
 "POST R DENTARY",,0,0
 "POSTCRANIAL (DRY)","post-cranial",0,1
 "postcranial skeleton",,0,0
+"postcranial skeleton (articulated); skull (complete)",,0,0
+"postcranial skeleton (broken); skull (complete)",,0,0
 "postcranial skeleton (complete)",,0,0
+"postcranial skeleton (complete); cranium (partial)",,0,0
+"postcranial skeleton (complete); skin (feathers and tail); skull (complete)",,0,0
+"postcranial skeleton (complete); skin (feathers); skull (complete)",,0,0
+"postcranial skeleton (complete); skin (feathers); skull (complete), wings",,0,0
+"postcranial skeleton (complete); skin (flat); skull (complete)",,0,0
+"postcranial skeleton (complete); skin (foot); skull (complete), wings",,0,0
+"postcranial skeleton (complete); skin (foot); skull (partial), wings",,0,0
+"postcranial skeleton (complete); skin (partial round); skull (complete)",,0,0
+"postcranial skeleton (complete); skin (pelt); skull (broken)",,0,0
+"postcranial skeleton (complete); skin (pelt); skull (complete)",,0,0
+"postcranial skeleton (complete); skin (round); skull (broken)",,0,0
+"postcranial skeleton (complete); skin (round); skull (complete)",,0,0
+"postcranial skeleton (complete); skin (round); skull (partial)",,0,0
+"postcranial skeleton (complete); skin (tail); skull (complete), wings",,0,0
 "postcranial skeleton (complete); skull  (complete)",,0,0
 "postcranial skeleton (complete); skull (broken)",,0,0
 "postcranial skeleton (complete); skull (broken), tissue, wings",,0,0
 "postcranial skeleton (complete); skull (complete)",,0,0
 "postcranial skeleton (complete); skull (complete), tissue",,0,0
 "postcranial skeleton (complete); skull (complete), wings",,0,0
+"postcranial skeleton (complete); skull (cranium)",,0,0
+"postcranial skeleton (complete); skull (cut open)",,0,0
+"postcranial skeleton (complete); skull (cut)",,0,0
 "postcranial skeleton (complete); skull (partial)",,0,0
 "POSTCRANIAL SKELETON (DRY)","post-cranial skeleton",0,1
+"postcranial skeleton (femur and humerus); skin (round); skull (complete)",,0,0
+"postcranial skeleton (leg bones); skin (round); skull (broken)",,0,0
+"postcranial skeleton (leg bones); skin (round); skull (complete)",,0,0
 "postcranial skeleton (partial)",,0,0
 "postcranial skeleton (partial), wings",,0,0
+"postcranial skeleton (partial); mandible (two mandibles)",,0,0
+"postcranial skeleton (partial); skin (feathers)",,0,0
+"postcranial skeleton (partial); skin (feathers); skull (complete)",,0,0
+"postcranial skeleton (partial); skin (flat); skull (broken)",,0,0
+"postcranial skeleton (partial); skin (flat); skull (complete)",,0,0
+"postcranial skeleton (partial); skin (partial round); skull (complete)",,0,0
+"postcranial skeleton (partial); skin (pelt); skull (complete)",,0,0
+"postcranial skeleton (partial); skin (round and feathers)",,0,0
+"postcranial skeleton (partial); skin (round)",,0,0
+"postcranial skeleton (partial); skin (round), wings",,0,0
+"postcranial skeleton (partial); skin (round); cranium (complete)",,0,0
+"postcranial skeleton (partial); skin (round); skull (broken)",,0,0
+"postcranial skeleton (partial); skin (round); skull (complete)",,0,0
+"postcranial skeleton (partial); skin (round); skull (partial)",,0,0
+"postcranial skeleton (partial); skin (tail), wings",,0,0
+"postcranial skeleton (partial); skin (tail); skull (complete), wings",,0,0
+"postcranial skeleton (partial); skin (two feet and tail); skull (complete), wings",,0,0
+"postcranial skeleton (partial); skin (two feet); skull (complete), wings",,0,0
 "postcranial skeleton (partial); skull (broken)",,0,0
 "postcranial skeleton (partial); skull (complete)",,0,0
 "postcranial skeleton (partial); skull (complete), wings",,0,0
+"postcranial skeleton (partial); skull (partial)",,0,0
 "postcranial skeleton (sternum), wings",,0,0
+"postcranial skeleton (sternum); skin (foot), wings",,0,0
+"postcranial skeleton (sternum); skin (head and foot), wings",,0,0
+"postcranial skeleton (sternum); skin (round)",,0,0
 "postcranial skeleton (syrinx)",,0,0
+"postcranial skeleton (tympanic bullae); skin (round)",,0,0
 "postcranial skeleton (vertebrae and neck parts); skull (complete)",,0,0
+"postcranial skeleton; skull (complete)",,0,0
 "Post-dentary L mandible.",,0,0
 "Post-dentary mandible.",,0,0
 "Posterio R ilium.",,0,0
@@ -10726,6 +10833,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELTON/WING","skeleton, wing",0,1
 "skin","skin",1,1
 "Skin'","skin",0,1
+"skin  (pelt)",,0,0
+"skin  (round)",,0,0
+"skin  (round); skull (broken)",,0,0
+"skin  (round); skull (complete)",,0,0
 "Skin - 1","Skin - 1",0,1
 "Skin - 1; Eggset - 1","Skin - 1; Eggset - 1",0,1
 "Skin - 1; Feather - 1","Skin - 1; Feather - 1",0,1
@@ -10874,7 +10985,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Flat skin), Tissue, Skeleton (Flat skin)",,0,0
 "Skin (Flat skin), Toe pad sample (Flat skin) (Flat skin), Toe pad sample",,0,0
 "skin (flat)",,0,0
+"skin (flat); cranium (complete)",,0,0
 "skin (flat); skull (broken)",,0,0
+"skin (flat); skull (complete)",,0,0
+"skin (flat); skull (two mandibles)",,0,0
 "Skin (Flat. skin) (Flat. skin), Skeleton (Flat. skin), Skeleton",,0,0
 "Skin (Flat. skin) (Flat. skin), Skeleton, Skeleton (Flat. skin)",,0,0
 "skin (foot)",,0,0
@@ -10891,11 +11005,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Head only) (Head only), Skin sample, Skin sample (Head only)",,0,0
 "Skin (Head only), Skin sample (Head only) (Head only), Skin sample",,0,0
 "skin (head only), tissue",,0,0
+"skin (head pelt); skull (partial cranium)",,0,0
 "skin (head)",,0,0
 "Skin (Head, foot & quills only) (Head, foot & quills only) (Head, foot & quills only), Skin sample, Skin sample",,0,0
 "Skin (Head, foot & quills only) (Head, foot & quills only), Skin sample, Skin sample (Head, foot & quills only)",,0,0
 "Skin (Injected formalin) (Injected formalin) (Injected formalin)",,0,0
 "Skin (Left wing) (Left wing)",,0,0
+"skin (leg); cranium (complete)",,0,0
 "Skin (Life mount) (Life mount)",,0,0
 "Skin (Life mount) (Life mount) (Life mount)",,0,0
 "SKIN (MICROSLIDE)","skin (microslide)",0,1
@@ -10916,6 +11032,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Partial skeleton), Skeleton (Partial skeleton), Skeleton (Partial skeleton)",,0,0
 "Skin (Partial skeleton, feathers) (Partial skeleton, feathers), Skeleton (Partial skeleton, feathers), Skeleton",,0,0
 "Skin (Partial skeleton, feathers), Skeleton (Partial skeleton, feathers), Skeleton (Partial skeleton, feathers)",,0,0
+"skin (pelt)",,0,0
+"skin (pelt); cranium (complete)",,0,0
+"skin (pelt); skull (broken)",,0,0
+"skin (pelt); skull (complete)",,0,0
+"skin (pelt); skull (cranium)",,0,0
+"skin (pelt); skull (partial)",,0,0
+"skin (pelt); skull (skull cap)",,0,0
 "Skin (Primary feathers) (Primary feathers)",,0,0
 "Skin (Retrix; Primary) (Retrix; Primary) (Retrix; Primary)",,0,0
 "skin (round)",,0,0
@@ -10923,6 +11046,20 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin (round), tissue, wings",,0,0
 "skin (round), wings",,0,0
 "skin (round);  ",,0,0
+"skin (round);  skull (complete)",,0,0
+"skin (round); cranium  (broken)",,0,0
+"skin (round); cranium  (complete)",,0,0
+"skin (round); cranium (broken)",,0,0
+"skin (round); cranium (complete)",,0,0
+"skin (round); mandible (one mandible)",,0,0
+"skin (round); mandible (two mandibles)",,0,0
+"skin (round); skull (broken)",,0,0
+"skin (round); skull (complete)",,0,0
+"skin (round); skull (cranium)",,0,0
+"skin (round); skull (one mandible missing)",,0,0
+"skin (round); skull (partial)",,0,0
+"skin (round); skull (two mandibles)",,0,0
+"skin (round); two mandibles (complete)",,0,0
 "Skin (Schmoo & spread wing) (Schmoo & spread wing) (Schmoo & spread wing), Tissue, Skeleton, Tissue, Skeleton",,0,0
 "Skin (Schmoo & spread wing), Skeleton (Schmoo & spread wing), Tissue",,0,0
 "Skin (Schmoo & spread wing), Tissue (Schmoo & spread wing), Skeleton, Skeleton (Schmoo & spread wing), Tissue",,0,0
@@ -11032,6 +11169,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Tail & wing feathers only) (Tail & wing feathers only)",,0,0
 "Skin (Tail feathers only) (Tail feathers only)",,0,0
 "Skin (Tail feathers only) (Tail feathers only) (Tail feathers only)",,0,0
+"skin (tail)",,0,0
 "skin (tail), wings",,0,0
 "skin (two feet and tail), wings",,0,0
 "Skin (Wing only) (Wing only) (Wing only)",,0,0
@@ -11934,18 +12072,34 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULL & SOME ELEMENTS","skull, skeletal elements",0,1
 "skull & vertebrae","skull, vertebrae",0,1
 "SKULL & VERTEBRAE (DRY)","skull, vertebrae",0,1
+"skull (2 partial mandibles)",,0,0
+"skull (antlers only)",,0,0
+"skull (antlers)",,0,0
 "Skull (back missing)",,0,0
+"skull (broken)",,0,0
 "skull (complete)",,0,0
+"skull (cranium)",,0,0
 "Skull (disarticulated)",,0,0
 "SKULL (DRY)","skull",0,1
 "SKULL (DRY), tissue","skull, tissue",0,1
+"skull (fossil partial cranium)",,0,0
+"skull (fossil)",,0,0
 "Skull (frag [ment?])",,0,0
 "skull (fragmented)","fragmented skull",0,1
 "SKULL (GLYCERIN)","skull (glycerin)",0,1
 "Skull (jaw missing)",,0,0
+"skull (Mandibles missing)",,0,0
+"skull (mandibles)",,0,0
 "Skull (no jaw)",,0,0
 "Skull (no lower [jaw ?])",,0,0
 "Skull (no lower jaw)",,0,0
+"skull (one mandible missing)",,0,0
+"skull (one mandible)",,0,0
+"skull (one partial mandible)",,0,0
+"skull (partial cranium)",,0,0
+"skull (partial)",,0,0
+"skull (skull cap)",,0,0
+"skull (two mandibles)",,0,0
 "SKULL / VERTEBRAE / LEG (DRY), tissue","leg, skull, vertebrae, tissue",0,1
 "skull ?",,0,0
 "SKULL + VERTEBRAE (DRY)","skull, vertebrae",0,1
@@ -12009,6 +12163,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULL ANT; INNOMINATE R",,0,0
 "SKULL BRAINCASE",,0,0
 "SKULL CAP",,0,0
+"skull cap (partial)",,0,0
+"skull cap, partial mandibles (partial)",,0,0
 "SKULL CARAPACE GIRDLES (DRY)","carapace, girdles, skull",0,1
 "SKULL CENTRAL L",,0,0
 "SKULL CENTRAL PORT",,0,0
@@ -13761,6 +13917,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Two fused sacral vertebrae.",,0,0
 "Two incisors, probably deciduous.",,0,0
 "Two lower cheektooth.",,0,0
+"two mandibles (complete)",,0,0
 "Two pairs frontals; fragment frontal.",,0,0
 "TWO PECTORAL SPINES (ONE IN TWO PIECES).",,0,0
 "Two portions R dentary m/2, portion m/1, p/3.",,0,0
