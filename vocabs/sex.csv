@@ -469,6 +469,7 @@ M[F]","unknown",0,1
 "F's","unknown",0,1
 "G","unknown",0,1
 "G ?","unknown",0,1
+"GF","unknown",0,1
 "gonads not found","unknown",0,1
 "Gravid",,0,1
 "Green",,0,1
@@ -502,6 +503,7 @@ M[F]","unknown",0,1
 "hermaphrodite","hermaphrodite",1,1
 "hg","unknown",0,1
 "HY male","male",0,1
+"IM","unknown",0,1
 "Im.","unknown",0,1
 "IMF","unknown",0,1
 "IMM","unknown",0,1
@@ -509,6 +511,7 @@ M[F]","unknown",0,1
 "IMM. FEMALE?","female",0,1
 "IMM?","unknown",0,1
 "Indeterminate","unknown",0,1
+"J","unknown",0,1
 "JU?. MALE?","male",0,1
 "juv","unknown",0,1
 "JUV ?","unknown",0,1
@@ -647,6 +650,8 @@ M[F]","unknown",0,1
 "M[F]","unknown",0,1
 "M[illeg]","male",0,1
 "M[M]","male",0,1
+"M]","male",0,1
+"M`","male",0,1
 "M~","male",0,1
 "M=[F ?]","unknown",0,1
 "M=[F] C.H.R.","unknown",0,1
@@ -714,6 +719,7 @@ M[F]","unknown",0,1
 "no sex given","unknown",0,1
 "not found","unknown",0,1
 "not sexed","unknown",0,1
+"NR","unknown",0,1
 "O","unknown",0,1
 "o ?","unknown",0,1
 "O.B","unknown",0,1

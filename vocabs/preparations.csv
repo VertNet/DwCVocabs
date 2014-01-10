@@ -7587,6 +7587,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "osteo, tissue",,0,0
 "OSTEODERM",,0,0
 "ot","other",0,1
+"OT*","other",0,1
 "other","other",1,1
 "OTHER PICKLED MATERIAL","pickled material",0,1
 "OTHER PICKLED MATERIAL, tissue","pickled material, tissue",0,1
@@ -12653,6 +12654,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SO +T","skin in alcohol, tissue",0,1
 "so AD","skin in alcohol",0,1
 "so Im","skin in alcohol",0,1
+"SO*","skin in alcohol",0,1
 "so, & part","skin in alcohol, partial skeleton",0,1
 "so, & part. skeleton","skin in alcohol, partial skeleton",0,1
 "so, eg, ot","skin in alcohol, egg, other",0,1
