@@ -134,7 +134,9 @@
 "1 emb; CR=26mm",,0,0
 "1 emb; CR=30mm",,0,0
 "1 embryo",,0,0
+"1 Embryo, 20 mm",,0,0
 "1 embryo, 25mm",,0,0
+"1 Embryo, 28 mm",,0,0
 "1 embryo, CR (crown-rump length) 14",,0,0
 "1 embryo, CR (crown-rump length) 18",,0,0
 "1 embryo, L, CR (crown-rump length) = 19.1",,0,0
@@ -292,6 +294,7 @@
 "2 pac scars: 1(L)&1(R)",,0,0
 "2 pac scars:1(L),1(R)",,0,0
 "2 placental scars, right",,0,0
+"2 rt 1 lf, fresh scars",,0,0
 "2 scars",,0,0
 "2 scars, 2 R; lact.",,0,0
 "2 scars, 2R",,0,0
@@ -629,6 +632,7 @@
 "5 = X 9 mm",,0,0
 "5 Embryo",,0,0
 "5 embryos",,0,0
+"5 embryos (10 mm)",,0,0
 "5 embryos, 14mm",,0,0
 "5 embryos, 1mm",,0,0
 "5 embryos, 21mm long",,0,0
@@ -12972,8 +12976,14 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "pregnant emb.",,0,0
 "pregnant,  1 (?) embryo",,0,0
 "pregnant, ~3 embryos",,0,0
+"Pregnant, 1 embryo",,0,0
+"Pregnant, 1 embyro",,0,0
+"Pregnant, 2 embryos",,0,0
+"Pregnant, 2 embyros, 19 mm",,0,0
+"Pregnant, 3 embryos",,0,0
 "pregnant, 3 fetuses",,0,0
 "pregnant, 4 embryos",,0,0
+"Pregnant, 7 embryos",,0,0
 "Pregnant, 8@9",,0,0
 "pregnant, embryos in alc",,0,0
 "pregnant: 4 embryos",,0,0
@@ -13981,6 +13991,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes 4 x 8",,0,0
 "testes 4.1 x 2.1",,0,0
 "testes 4.1 x 3.1",,0,0
+"Testes 4.5 mm",,0,0
 "testes 4.5 X 3",,0,0
 "testes 4.6 x 1.5",,0,0
 "testes 4.9 x 3",,0,0
@@ -14287,6 +14298,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Vag. clsd; parous; no emb",,0,0
 "Vag. clsd; parous; scars",,0,0
 "Vag. clsed; parous-scars",,0,0
+"Vagina perforate",,0,0
 "virginal",,0,0
 "vulva corn. mammae swollen",,0,0
 "well-developed embryo",,0,0

@@ -23,6 +23,7 @@
 "{ubangi 1 n. sp.}","sp. nov.",0,1
 "{zakoni n. sp.}","sp. nov.",0,1
 "aegyptiaca X sp.","aegyptiaca X sp.",0,1
+"asper  n. gen,","asper gen. nov.",0,1
 "auriceps large black tailed sp.","sp.",0,1
 "balsodichthys X sp.","balsodichthys X sp.",0,1
 "C. sp. X G. nycthemerus","C. sp. X G. nycthemerus",0,1
@@ -30,15 +31,22 @@
 "cactorum sp. nov.","sp. nov.",0,1
 "cf","cf.",0,1
 "cf.","cf.",0,1
+"chrysocephala s","chrysocephala sp. nov.",0,1
 "chrysocephalus X sp.","chrysocephalus X sp.",0,1
 "colchicus mongolicus X colchicus ssp.","colchicus mongolicus X colchicus ssp.",0,1
+"curiosus sp. no","curiosus sp. nov.",0,1
 "cyanellus x sp.","cyanellus X sp.",0,1
 "egregia or sp. nov.","egregia or sp. nov.",0,1
+"fusca n. sp.","fusca sp. nov.",0,1
 "galbula ssp. bullockii","ssp.",0,1
+"gardineri n.sp.","gardineri sp. nov.",0,1
 "genus in question","genus in question",0,1
 "genus questioned","genus in question",1,1
 "gulosus X sp.","gulosus X sp.",0,1
+"haematodus x Eos sp.","haematodus x Eos sp.",0,1
 "inornatus x sp. Uniparens",,0,1
+"janitor n. sp.","janitor sp. nov.",0,1
+"kobelti n. sp.","kobelti sp. nov.",0,1
 "leuciodus X sp.","leuciodus X sp.",0,1
 "lutrensa X sp.","lutrensa X sp.",0,1
 "macrochirus X sp.","macrochirus X sp.",0,1
@@ -47,8 +55,10 @@
 "n.sp.","sp. nov.",0,1
 "new sp.","sp. nov.",0,1
 "nov. subsp.","ssp. nov.",0,1
+"novecrinita n.","novecrinita sp. nov.",0,1
 "pandora X R. sp.","pandora X R. sp.",0,1
 "perlates (subsp.)","ssp.",0,1
+"pipilodryas sp.","pipilodryas sp. nov.",0,1
 "proserpina x Notropis sp.","proserpina X Notropis sp.",0,1
 "regularis x sp.","sp.",0,1
 "S. ellioti X G. sp.","S. ellioti X G. sp.",0,1
@@ -57,6 +67,7 @@
 "sp. ""kazumbe""","sp. nov.",0,1
 "sp. ""moshi""","sp. nov.",0,1
 "sp. ""walteri""","sp. nov.",0,1
+"sp. # 1","sp.",0,1
 "sp. (albino)","sp.",0,1
 "sp. (alnorum or trailli ?)","sp.",0,1
 "sp. (Caura, Orinoco)","sp.",0,1
@@ -80,6 +91,7 @@
 "sp. A","sp.",0,1
 "sp. A.","sp.",0,1
 "sp. A/C","sp.",0,1
+"sp. aff. lysina","sp. aff. lysina",0,1
 "sp. albogularis","sp.",0,1
 "sp. B","sp.",0,1
 "sp. B.","sp.",0,1
@@ -98,7 +110,9 @@
 "sp. BSP4","sp. nov.",0,1
 "sp. C","sp.",0,1
 "sp. cf. cyprinus x velifer","sp. cf. cyprinus x velifer",0,1
+"sp. cf. sollasi","sp. cf. sollasi",0,1
 "sp. D","sp.",0,1
+"sp. div.","sp. div.",0,1
 "sp. E","sp.",0,1
 "sp. F","sp.",0,1
 "sp. G","sp.",0,1
@@ -107,6 +121,8 @@
 "sp. I","sp.",0,1
 "sp. II","sp.",0,1
 "sp. III","sp.",0,1
+"sp. incert","sp. incert.",0,1
+"sp. incert.","sp. incert.",0,1
 "sp. lissmanni","sp. nov.",0,1
 "sp. magnostipes","sp. nov.",0,1
 "sp. missing","sp.",0,1
@@ -136,6 +152,7 @@
 "sp. SN9","sp. nov.",0,1
 "sp. szaboi","sp. nov.",0,1
 "sp. tenuicauda","sp. nov.",0,1
+"sp. undet.","sp. incert.",0,1
 "sp. unnamed","sp.",0,1
 "sp. vadamans","sp. nov.",0,1
 "sp. X sp.","sp. X sp.",0,1
@@ -153,14 +170,21 @@
 "sp.A","sp.",0,1
 "sp.B (cf.bransfordii)","sp.",0,1
 "sp.III (c.f.cruentes)","sp.",0,1
+"sp.n","sp. nov.",0,1
 "sp.--not M. mogollonensis","sp.",0,1
 "sp.nov.","sp. nov.",0,1
 "sparveria (subsp.)","ssp.",0,1
 "species in question","species in question",1,1
 "species questioned","species in question",0,1
+"spiralocucullata sp. ined.","spiralocucullata sp. ined.",0,1
 "ssp.","ssp.",1,1
 "subsp. ","ssp.",0,1
 "subspecies in question","subspecies in question",1,1
 "subspecies questioned","subspecies in question",0,1
+"unidentata parv",,0,1
+"unidentata pras",,0,1
+"unidentata sebe",,0,1
 "venusta x sp.","venusta X sp.",0,1
 "vivax X sp.","vivax X sp.",0,1
+"willii gen & sp",,0,1
+"wood-masoni n.","wood-masoni sp. nov.",0,1

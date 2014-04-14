@@ -16,6 +16,7 @@ M","unknown",0,1
 M","unknown",0,1
 "
 M[F]","unknown",0,1
+"""",,0,1
 """?""","unknown",0,1
 """?""[=M]","male",0,1
 """[illeg]""","unknown",0,1
@@ -83,6 +84,7 @@ M[F]","unknown",0,1
 """Male""","male",0,1
 """O""","unknown",0,1
 """O""[=F]","female",0,1
+"""t",,0,1
 """upside down F symbol""","female",0,1
 "(""M ad"")No! is juv","male",0,1
 "(?)","unknown",0,1
@@ -158,6 +160,7 @@ M[F]","unknown",0,1
 "[""M"" or F ?]","unknown",0,1
 "[?]","unknown",0,1
 "[?F]","female",0,1
+"[?Female]","female",0,1
 "[[illeg]]","unknown",0,1
 "[=F?]M","unknown",0,1
 "--[=F]","female",0,1
@@ -274,6 +277,7 @@ M[F]","unknown",0,1
 "AD.? MALE","male",0,1
 "AD?","unknown",0,1
 "ADM","unknown",0,1
+"Adult + [Juvenile]","unknown",0,1
 "adult female","female",0,1
 "AHY MALE","male",0,1
 "AHY-M","male",0,1
@@ -512,6 +516,7 @@ M[F]","unknown",0,1
 "IMM ?","unknown",0,1
 "IMM. FEMALE?","female",0,1
 "IMM?","unknown",0,1
+"immature","immature",1,1
 "Indeterminate","unknown",0,1
 "J","unknown",0,1
 "JU?. MALE?","male",0,1
@@ -692,6 +697,7 @@ M[F]","unknown",0,1
 "Male (by bleeding?)","male",0,1
 "Male (likely)","male",0,1
 "Male ?","male",0,1
+"Male [?]","male",0,1
 "Male [Female?]","unknown",0,1
 "Male [Female]","unknown",0,1
 "Male and Female","male, female",0,1
@@ -703,6 +709,7 @@ M[F]","unknown",0,1
 "Male[?]","male",0,1
 "Male+Female","male, female",0,1
 "males","male",0,1
+"males, females","males, females",1,1
 "marked as both F and M","unknown",0,1
 "MF","hermaphrodite",0,1
 "M-F","unknown",0,1
@@ -786,3 +793,4 @@ M[F]","unknown",0,1
 "Ventrals white & powder blue on ",,0,1
 "with light turquoise dorsal spec",,0,1
 "Yankee Pond","unknown",0,1
+"Young adult","young adult",1,1

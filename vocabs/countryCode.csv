@@ -13,20 +13,24 @@
 """Holland""?","NL",0,1
 """Japan""","JP",0,1
 """U. S, A. ""","US",0,1
+"& East. Africa [Kenya & Tanzania]",,0,1
 "(AFRICA)",,0,1
 "(Alger-Marocco border)",,0,1
 "(AMAZON VALLEY)",,0,1
+"(Antarctic)","AQ",0,1
 "(Argentine Republic)","AR",0,1
 "(ATLANTIC)",,0,1
 "(AUSTRIA/HUNGARY?)",,0,1
 "(Bali)","ID",0,1
 "(Baluchistan)-Persia",,0,1
 "(Belgian)",,0,1
+"(Br. Guiana)","GY",0,1
 "(Central) Guatemala","GT",0,1
 "(Ceram)","ID",0,1
 "(COLOMBIA)","CO",0,1
 "(Congo Fr. St.)",,0,1
 "(Costa Rico)","CR",0,1
+"(Denmark)","DK",0,1
 "(EAST AFRICA?)",,0,1
 "(EAST INDIES)",,0,1
 "(East) Cuba","CU",0,1
@@ -44,10 +48,12 @@
 "(Interior) Gold Coast","GH",0,1
 "(Interior)Gold Coast","GH",0,1
 "(Ireland?)","IE",0,1
+"(Kenya)","KE",0,1
 "(LATIN AMERICA)",,0,1
 "(Liberia ? or Sierra Leone)",,0,1
 "(LOWER AMAZON)",,0,1
 "(Mexico)","MX",0,1
+"(Morocco)","MA",0,1
 "(N. Bechuanaland)","BW",0,1
 "(N. coast of) Ger. New Guinea","PG",0,1
 "(N. Coast) Ger. New Guinea","PG",0,1
@@ -79,6 +85,7 @@
 "(USA)","US",0,1
 "(Venezuela)","VE",0,1
 "(W. Ecuador","EC",0,1
+"(W. of Ireland); [Atlantic Ocean]",,0,1
 "(WEST AFRICA)",,0,1
 "(West) Colombia","CO",0,1
 "(West) Ecuador","EC",0,1
@@ -90,36 +97,193 @@
 "? Antipodes I. [S.E. of New Zealand]","NZ",0,1
 "? Australia","AU",0,1
 "? Brit. Guiana","GY",0,1
+"? Britain","GB",0,1
+"? British","GB",0,1
+"? Ceylon","LK",0,1
+"? China","CN",0,1
+"? Costa Rica","CR",0,1
 "? England","GB",0,1
 "? Madagascar","MG",0,1
 "? Mongolia","MN",0,1
 "? N.W. Australia","AU",0,1
 "? New Ireland","PG",0,1
+"? North West Atlantic",,0,1
+"? Palestine","PS",0,1
 "? Panama","PA",0,1
 "? Trinidad","TT",0,1
+"? West Indies",,0,1
+"? West Ireland","IE",0,1
+"?""South Africa""","ZA",0,1
+"?""South Africa""]","ZA",0,1
+"?[South Africa]","ZA",0,1
+"?Africa",,0,1
+"?India","IN",0,1
+"?Madeira; [Atlantic Ocean]","PT",0,1
 "?New Guinea",,0,1
 "?Panama","PA",0,1
+"?S. America [?]",,0,1
+"?Scotland; [U.K.]","GB",0,1
+"?Spanish","ES",0,1
 "?Turkestan?",,0,1
+"?U.S.A.","US",0,1
 "?Uganda","UG",0,1
+"[""Australia""]","AU",0,1
 "[...""Central...""] Guatemala*","GT",0,1
+"[? Austria]","AT",0,1
+"[? Britain]","GB",0,1
+"[? Central America]",,0,1
+"[? Congo or Zambia]",,0,1
+"[? East Indies]",,0,1
+"[? India]","IN",0,1
+"[? Mediterranean]",,0,1
+"[? Norway]","NO",0,1
+"[? Seychelles]","SC",0,1
+"[? South Africa]","ZA",0,1
+"[? Thailand]","TH",0,1
+"[? Trinidad]","TT",0,1
+"[?Australia]","AU",0,1
+"[?England; U.K.]","GB",0,1
+"[?France]","FR",0,1
+"[?Italy]","IT",0,1
+"[?Mexico]","MX",0,1
+"[?New Zealand]","NZ",0,1
+"[?Tanzania]","TZ",0,1
+"[?Thailand]","TH",0,1
+"[?U.S.A. or Canada]",,0,1
+"[?U.S.A.]","US",0,1
+"[= Indonesia  or Malaysia]",,0,1
+"[= Indonesia or Malaysia]",,0,1
+"[= Malayasia or Indonesia]",,0,1
+"[= Malaysia or Indonesia]",,0,1
+"[=Malaysia or Indonesia]",,0,1
 "[Abyssinia]",,0,1
+"[Africa]",,0,1
+"[Alaska; U.S.A.]","US",0,1
+"[Algeria]","DZ",0,1
+"[Algiers]","DZ",0,1
+"[Antarctica]","AQ",0,1
+"[Arabia]",,0,1
+"[Arabian Sea]",,0,1
+"[Argentina / Chile]",,0,1
 "[Argentina]","AR",0,1
+"[Asia Minor]",,0,1
+"[Atlantic Ocean]",,0,1
+"[Australia","AU",0,1
 "[Australia]","AU",0,1
+"[Austria]","AT",0,1
+"[Bahamas; West Indies]","BS",0,1
+"[Bahamas]","BS",0,1
+"[Bahamas]; West Indies","BS",0,1
+"[Baltic Sea]",,0,1
+"[Barbados; West Indies]","BB",0,1
+"[Barbados]","BB",0,1
+"[Barents Sea]",,0,1
+"[Bay of Bengal]",,0,1
+"[Bearing Sea]",,0,1
+"[Belgium]","BE",0,1
+"[Bering Sea]",,0,1
+"[Border Botswana and South Africa]",,0,1
+"[Border South Africa and Botswana]",,0,1
 "[Borneo]",,0,1
+"[Botswana ?]","BW",0,1
+"[Botswana]","BW",0,1
+"[Br Guiana]","GY",0,1
+"[Brazil ?]","BR",0,1
+"[Brazil or Argentina]",,0,1
+"[Brazil?]","BR",0,1
 "[Brazil]","BR",0,1
 "[Brazil] -> erroneous = Mexico","MX",0,1
 "[Brit. Guiana] Locality Doubtful","GY",0,1
+"[Britain]","GB",0,1
+"[British Cameroons]","CM",0,1
+"[British]","GB",0,1
+"[Bulgaria]","BG",0,1
+"[Burma [Myanmar]]","MM",0,1
+"[Burmah [Myanmar]]","MM",0,1
+"[Cameroon]","CM",0,1
+"[Canada[","CA",0,1
 "[CANADA]","CA",0,1
+"[Canada] and Greenland",,0,1
+"[Cayman Islands; West Indies]","KY",0,1
+"[Central Africa]",,0,1
 "[Central America]",,0,1
+"[Central Malawi]","MW",0,1
+"[Ceylon; Sri Lanka]","LK",0,1
+"[Chad or Somalia]",,0,1
+"[Chad]","TD",0,1
+"[Chile or Argentina]",,0,1
+"[Chile]","CL",0,1
+"[China ?]","CN",0,1
+"[China/Mongolia]",,0,1
+"[China?]","CN",0,1
 "[China]","CN",0,1
+"[Cochin; China]","VN",0,1
 "[Colombia]","CO",0,1
+"[Comoros]","KM",0,1
 "[Costa Rica]","CR",0,1
+"[Croatia]","HR",0,1
 "[Cuba]","CU",0,1
+"[Cyprus]","CY",0,1
+"[Czech Republic]","CZ",0,1
+"[Czech Republic] [Czechoslovakia]","CZ",0,1
+"[Czech Republic] Czechoslovakia","CZ",0,1
+"[Czech Republic]; Czechoslovakia","CZ",0,1
+"[Czechoslovakia]",,0,1
+"[Danish West Indies]","VI",0,1
+"[Denmark]","DK",0,1
+"[Djibouti]","DJ",0,1
+"[Dominica]","DM",0,1
+"[Dominican Republic]","DO",0,1
+"[E. Africa]",,0,1
+"[East Africa]",,0,1
 "[Ecuador]","EC",0,1
+"[Egypt]","EG",0,1
+"[England; U.K","GB",0,1
+"[England; U.K or Germany or Portugal]",,0,1
+"[England; U.K.; English Channel]","GB",0,1
+"[England; U.K.]","GB",0,1
+"[England; U.K]","GB",0,1
 "[England]","GB",0,1
+"[England]; U.K","GB",0,1
+"[England]; U.K.","GB",0,1
+"[English Channel; England; U.K.]","GB",0,1
+"[English Channel]","GB",0,1
+"[Equatorial Guinea]","CQ",0,1
+"[Eritrea]","ER",0,1
+"[Ethiopia]","ET",0,1
+"[Faroe Islands]","FO",0,1
+"[Fiji; South Pacific]","FJ",0,1
+"[Fiji]","FJ",0,1
+"[Finland]","FI",0,1
+"[France or Spain]",,0,1
+"[France; Atlantic Ocean]","FR",0,1
+"[France]","FR",0,1
+"[French Guiana]","GF",0,1
+"[French Polynesia; Pacific Ocean]","PF",0,1
+"[French] Guiana","GF",0,1
+"[From either Atlantic or Indian Ocean]",,0,1
+"[Gambia / Senegal]",,0,1
+"[Gambia]","GM",0,1
+"[Germany or Poland]",,0,1
+"[Germany]","DE",0,1
+"[Ghana]","GH",0,1
+"[Greece]","GR",0,1
+"[Greenland / Canada]",,0,1
 "[Greenland]","GL",0,1
+"[Grenada]","GD",0,1
+"[Guam]","GU",0,1
+"[Guatemala","GT",0,1
+"[Guatemala]","GT",0,1
+"[Guyana]","GY",0,1
+"[Haiti]","HT",0,1
 "[Hebrides Is]","GB",0,1
 "[Hebrides]","GB",0,1
+"[Himalaya]",,0,1
+"[Himalayas; India]","IN",0,1
+"[Holland ?]","NL",0,1
+"[Honduras]","HN",0,1
+"[Hungary]","HU",0,1
+"[Iceland]","IS",0,1
 "[illeg]",,0,1
 "[illeg] Congo","CG",0,1
 "[illeg] Mexico","MX",0,1
@@ -128,38 +292,261 @@
 "[illeg]. Mozambique","MZ",0,1
 "[illeg]Mexico","MX",0,1
 "[illeg]New Grenada","GD",0,1
+"[India / Bangladesh]",,0,1
+"[India / Pakistan]",,0,1
+"[India ?]","IN",0,1
+"[India ]","IN",0,1
+"[India or Tibet]",,0,1
+"[India; Indian Ocean]","IN",0,1
+"[India?]","IN",0,1
+"[India]","IN",0,1
+"[Indian Ocean]",,0,1
+"[Indo-Malay Region]",,0,1
+"[Indonesia ]","ID",0,1
+"[Indonesia or Malaya]",,0,1
+"[Indonesia or Malaysia]",,0,1
+"[Indonesia]","ID",0,1
+"[Ireland]","IE",0,1
+"[Irian Jaya]","ID",0,1
+"[Israel or Jordon]",,0,1
+"[Israel]","IL",0,1
+"[Italy]","IT",0,1
+"[Jamaica]","JM",0,1
 "[Japan?]","JP",0,1
+"[Japan]","JP",0,1
 "[Java]","ID",0,1
+"[Jordan]","JO",0,1
+"[Kashmir]",,0,1
+"[Kazakhstan]","KZ",0,1
 "[Kenya Colony ?]","KE",0,1
+"[Kenya or Tanzania]",,0,1
 "[KENYA]","KE",0,1
+"[Lapland]",,0,1
+"[Latvia]","LV",0,1
+"[Lebanon]","LB",0,1
+"[Madagascar; Indian Ocean]","MG",0,1
+"[Madagascar]","MG",0,1
+"[Malawi]","MW",0,1
+"[Malaysia & Singapore]",,0,1
+"[Malaysia & Thailand]",,0,1
+"[Malaysia / Thailand]",,0,1
+"[Malaysia and Singapore]",,0,1
+"[Malaysia or Indonesia]",,0,1
+"[Malaysia or Thailand]",,0,1
+"[Malaysia]","MY",0,1
+"[Maldives; Indian Ocean]","MV",0,1
+"[Maldives]","MV",0,1
+"[Mauritius; Indian Ocean]","MU",0,1
+"[Mauritius]","MU",0,1
+"[Mayo; Ireland]","IE",0,1
+"[Mediterranean Sea]",,0,1
+"[Mediterranean]",,0,1
+"[Meditterranean Sea]",,0,1
+"[Mexico or S. America]",,0,1
 "[Mexico]","MX",0,1
+"[Micronesia]","FM",0,1
 "[Mongolia]","MN",0,1
+"[Morocco or Algeria]",,0,1
+"[Morocco]","MA",0,1
+"[Morocco]; [N. Africa]","MA",0,1
+"[Mozambique]","MZ",0,1
+"[Myanmar]","MM",0,1
+"[N E Africa]",,0,1
+"[N. America; Canada or U.S.A.]",,0,1
+"[N. Atlantic Ocean]",,0,1
+"[N. Atlantic; Scotland; U.K.]","GB",0,1
+"[N. Botswana]","BW",0,1
 "[N. China ?]","CN",0,1
+"[N. India]","IN",0,1
+"[N. Italy]","IT",0,1
 "[N. New Guinea?]",,0,1
+"[N.E. Brazil]","BR",0,1
+"[N.E. India]","IN",0,1
+"[N.E. Tanzania]","TZ",0,1
+"[N.W. Canada]","CA",0,1
+"[Namibia]","NA",0,1
+"[Netherlands]","NL",0,1
 "[New Guinea & Aru Is]","ID",0,1
 "[New Guinea]",,0,1
 "[New Zealand]","NZ",0,1
 "[Nicaragua?]","NI",0,1
+"[Nicaragua]","NI",0,1
+"[Nigeria]","NG",0,1
+"[North America]",,0,1
+"[North Atlantic Ocean]",,0,1
+"[North India]",,0,1
+"[North Sea or Norwegian Sea]",,0,1
+"[North Sea; England; U.K.]","GB",0,1
+"[North Sea]",,0,1
+"[North West Spain]","ES",0,1
+"[Northern India]","IN",0,1
+"[Northern Ireland; U.K.]","GB",0,1
+"[Northern Ireland; U.K]","GB",0,1
+"[Northern Ireland]","GB",0,1
+"[Northern Malawi]","MW",0,1
+"[Northern Rhodesia]","ZW",0,1
+"[Northern Venezuela]","VE",0,1
+"[north-western Egypt]","EG",0,1
+"[Norway]","NO",0,1
+"[Norwegian Sea]",,0,1
+"[Pacific Ocean]",,0,1
+"[Pakistan]","PK",0,1
+"[Palestine]","PS",0,1
 "[Panama Chiriqui]","PA",0,1
 "[Panama]","PA",0,1
+"[Papua New Guinea ]","PG",0,1
+"[Papua New Guinea or South Pacific Ocean]]",,0,1
+"[Papua New Guinea]","PG",0,1
+"[Paraguay]","PY",0,1
 "[Peru]","PE",0,1
 "[Philippine Is. no]","PH",0,1
 "[Philippine Is.]","PH",0,1
 "[Philippines]","PH",0,1
+"[Portugal]","PT",0,1
 "[presumably French Guiana]","GF",0,1
+"[Probably from Nigeria]","NG",0,1
+"[Probably from W. of N. America]",,0,1
+"[probably Morocco]","MA",0,1
+"[Probably Niger] [or Gambia]",,0,1
+"[Probably North American]",,0,1
+"[Probably Trinidad]","TT",0,1
+"[Puerto Rico]","PR",0,1
+"[R.S.A; South Africa]","ZA",0,1
+"[Red Sea; Egypt]","EG",0,1
+"[Red Sea]",,0,1
 "[Region of New Guinea]",,0,1
+"[Rep. of Ireland]","IE",0,1
+"[Romania]","RO",0,1
+"[Russia]","RU",0,1
+"[Russian Federation]","RU",0,1
+"[S. Africa]","ZA",0,1
+"[S. America]",,0,1
+"[S. Atlantic Ocean]",,0,1
+"[S. India]","IN",0,1
+"[S. Nigeria]","NI",0,1
+"[S. Norway]","NO",0,1
+"[S. Pacific Ocean]",,0,1
 "[S.E. Brazil]","BR",0,1
+"[Sabah; Malaysia]","MY",0,1
+"[Samoa; South Pacific Ocean]","WS",0,1
 "[Samoa]","WS",0,1
+"[Sao Tome & Principe]","ST",0,1
+"[Sarawak; Malaysia]","MY",0,1
+"[Scotland, UK]","GB",0,1
+"[Scotland; U.K.; Atlantic Ocean]","GB",0,1
+"[Scotland; U.K.]","GB",0,1
+"[Scotland; U.K.] ?Scotch","GB",0,1
+"[Scotland; U.K.] ?Scotch ?Bavaria",,0,1
+"[Scotland; U.K.]]","GB",0,1
+"[Scotland; U.K]","GB",0,1
+"[Scotland; U.K]]","GB",0,1
 "[Scotland]","GB",0,1
+"[Senegal; Gambia]",,0,1
+"[Senegal]","SN",0,1
+"[Seychelles; Indian Ocean]","SC",0,1
+"[Seychelles; West Indian Ocean]","SC",0,1
+"[Seychelles]","SC",0,1
+"[Seychelles]; W. Indian Ocean","SC",0,1
+"[Seychelles]; West Indian Ocean","SC",0,1
+"[Siberia]","RU",0,1
+"[Singapore & Thailand]",,0,1
+"[Singapore or Thailand]",,0,1
+"[Singapore]","SG",0,1
 "[So. Ryukyus]","JP",0,1
+"[Somalia]","SO",0,1
+"[South Africa??]","ZA",0,1
+"[South Africa]","ZA",0,1
+"[South Africa] or Natal","ZA",0,1
+"[South African Seas]","ZA",0,1
+"[South America ]",,0,1
+"[South America]",,0,1
+"[South Atlantic Ocean]",,0,1
+"[South Atlantic]",,0,1
+"[South Australia ]","AU",0,1
+"[South Australia]","AU",0,1
+"[South East Africa]",,0,1
+"[South India Coast]","IN",0,1
+"[South India]","IN",0,1
+"[South Indian Ocean]","IN",0,1
+"[South Pacific Ocean and Papua New Guinea]",,0,1
+"[South Pacific Ocean or Papua New Guinea]",,0,1
+"[South Pacific Ocean]",,0,1
+"[South Pacific]",,0,1
+"[South West Madagascar]","MG",0,1
+"[South West of U.K.; Atlantic Ocean]","GB",0,1
+"[Southern Malawi]","MW",0,1
+"[Southern Ocean]",,0,1
 "[Southern Ryukyus]","JP",0,1
+"[Southern Spain]","ES",0,1
+"[Southern Thailand]","TH",0,1
+"[South-West Africa; Namibia]","NA",0,1
+"[Spain]","ES",0,1
+"[Spitzbergen; Svalbard]","NO",0,1
+"[Sri Lanka]","LK",0,1
+"[St Lucia]","LC",0,1
+"[Sudan (S.W)]","SD",0,1
+"[Sudan ?]","SD",0,1
+"[Sudan]","SD",0,1
+"[Sulawesi; Indonesia]","ID",0,1
 "[Sumatra. Bock]","ID",0,1
+"[Sumatra]","ID",0,1
+"[Svalbard; Norway]","NO",0,1
+"[Svalbard]","NO",0,1
+"[Sweden]","SE",0,1
+"[Switzerland]","CH",0,1
+"[Taiwan]","TW",0,1
 "[Tanzania]","TZ",0,1
+"[Thailand & Malaysia]",,0,1
+"[Thailand or Malaysia]",,0,1
+"[Thailand]","TH",0,1
+"[The Gambia / Senegal]",,0,1
 "[Tobago]-Brit. W. Indies","TT",0,1
+"[Tonga]","TO",0,1
 "[Trinidad & Tobago]","TT",0,1
+"[Trinidad and Tobago]","TT",0,1
+"[Trinidad or Tobago]","TT",0,1
+"[Trinidad]","TT",0,1
+"[Tristan da Cunha; St. Helana]","SH",0,1
+"[Tunisia]","TN",0,1
+"[Turkey]","TR",0,1
+"[Tyrrhenian Sea; Mediterranean Sea]",,0,1
+"[U.K.; England]","GB",0,1
+"[U.K.]","GB",0,1
+"[U.S.A. ; North Atlantic Ocean]","US",0,1
+"[U.S.A.; Pacific Ocean]","US",0,1
+"[U.S.A.; Pacific Ocean]]","US",0,1
+"[U.S.A.?]","US",0,1
+"[U.S.A.]","US",0,1
+"[U.S.A.}","US",0,1
+"[U.S.A]","US",0,1
+"[U.S.S.R.]",,0,1
+"[U.S.S.R]",,0,1
 "[Uganda]","UG",0,1
+"[Ukraine / Moldova]",,0,1
+"[Ukraine]","UA",0,1
+"[Upper Egypt]","EG",0,1
+"[Uruguay]","UY",0,1
 "[USA]","US",0,1
+"[Uzbekistan]","UZ",0,1
+"[Vanuatu]","VU",0,1
 "[Venezuela]","VE",0,1
+"[Vietnam]","VN",0,1
+"[W. Africa]",,0,1
+"[W. Australia]","AU",0,1
+"[W. Indian Ocean]",,0,1
+"[Wales; U.K.]","GB",0,1
+"[West Indian Ocean]",,0,1
+"[West Indies]",,0,1
+"[West Pakistan]","PK",0,1
+"[Western India]","IN",0,1
+"[Western Indian Ocean]",,0,1
+"[Western N. America]",,0,1
+"[Western Panama]","PA",0,1
+"[Western Samoa; Pacific Ocean]","WS",0,1
+"[Yemen]","YE",0,1
+"[Yugoslavia]",,0,1
+"[Zambia]","ZM",0,1
+"[Zimbabwe]","ZW",0,1
 "`",,0,1
 "<exico","MX",0,1
 "10/19/2004",,0,1
@@ -171,25 +558,38 @@
 "Abdal Kuri I","YE",0,1
 "Abysinia",,0,1
 "Abyss.",,0,1
+"Abyssiania",,0,1
 "Abyssimia",,0,1
+"Abyssina; [Ethiopia]","ET",0,1
 "ABYSSINIA",,0,1
 "Abyssinia ?",,0,1
+"Abyssinia [Ethiopia]","ET",0,1
 "Abyssinia = [Ethiopia]","ET",0,1
+"Abyssinia; [Ethiopia]","ET",0,1
 "Abyssinia?",,0,1
+"Abyssinia? [Ethiopia]","ET",0,1
 "Adaman Is.","IN",0,1
 "Admiralty","PG",0,1
 "Admiralty Group","PG",0,1
 "Admiralty I.","PG",0,1
 "Admiralty Is.","PG",0,1
 "Admiralty Islands","PG",0,1
+"Adriatic",,0,1
+"Adriatic [Sea]",,0,1
+"Aegean Sea",,0,1
 "Afganistan","AF",0,1
 "Afghanistan","AF",1,1
 "Afghenistan","AF",0,1
 "Africa",,0,1
+"'Africa'",,0,1
+"Africa  [Zimbabwe]","ZW",0,1
 "AFRICA (BY INFE",,0,1
 "AFRICA (BY INFERENCE)",,0,1
 "AFRICA..",,0,1
+"Africa?",,0,1
+"Ain",,0,1
 "Alaska","US",0,1
+"Alaska; [Bearing Sea]","US",0,1
 "Albania","AL",1,1
 "Albanio","AL",0,1
 "ALBERTA","CA",0,1
@@ -208,6 +608,7 @@
 "Algeria or Tunis",,0,1
 "Algeria, Tunisia",,0,1
 "Algeria, W. Morocco",,0,1
+"Algeria?","DZ",0,1
 "Algerian Sahara","DZ",0,1
 "Algiers","DZ",0,1
 "ALL LOCALITY DA",,0,1
@@ -217,6 +618,7 @@
 "Alor Is.","ID",0,1
 "Alori I","ID",0,1
 "Alov I.","ID",0,1
+"Alpine India","IN",0,1
 "Altai","RU",0,1
 "Am. Samoa","AS",0,1
 "Amazons of Peru","PE",0,1
@@ -225,6 +627,8 @@
 "Amer.",,0,1
 "Amer. Samoa","AS",0,1
 "America",,0,1
+"America [U.S.A.]","US",0,1
+"America; Pacific Ocean",,0,1
 "American Samoa","AS",1,1
 "American Samoa I.","AS",0,1
 "Amst.",,0,1
@@ -235,6 +639,7 @@
 "Andaman Is","IN",0,1
 "Andaman Is.","IN",0,1
 "ANDAMAN ISLANDS","IN",0,1
+"Andaman Sea",,0,1
 "Andamans","IN",0,1
 "Andaman's","IN",0,1
 "Andes of Venez.","VE",0,1
@@ -258,9 +663,12 @@
 "Annam","VE",0,1
 "Annan","VE",0,1
 "Antarctic","AQ",0,1
+"Antarctic [Antarctica]","AQ",0,1
+"Antarctic Circle","AQ",0,1
 "ANTARCTIC OCEAN",,0,1
 "ANTARCTIC PEINSULA","AQ",0,1
 "ANTARCTIC PENINSULA","AQ",0,1
+"Antarctic Seas",,0,1
 "Antarctica","AQ",1,1
 "Antigua","AG",0,1
 "Antigua & Barbuda","AG",0,1
@@ -277,7 +685,10 @@
 "Aralo-Caspia",,0,1
 "Archipelago",,0,1
 "ARCTIC",,0,1
+"Arctic America",,0,1
+"Arctic America;",,0,1
 "Arctic Canada","CA",0,1
+"Arctic Coast",,0,1
 "ARCTIC OCEAN",,0,1
 "Arctic, Canada","CA",0,1
 "Aree Is.",,0,1
@@ -295,6 +706,7 @@
 "Argentine","AR",0,1
 "Argentine Rep","AR",0,1
 "Argentine Republic","AR",0,1
+"Argentine Republic [Argentina]","AR",0,1
 "Argentine-Republic","AR",0,1
 "Arkansas","US",0,1
 "Armenia","AM",1,1
@@ -315,17 +727,26 @@
 "ASIA (BY INFERERENCE",,0,1
 "ASIA (BY INFERERENCE)",,0,1
 "Asia Minor",,0,1
+"Asia Minor [Turkey]","TR",0,1
+"Asia Minor?",,0,1
 "ASIA?",,0,1
+"Asiatic Russia","RU",0,1
+"Asiatic Turkey","TR",0,1
 "Assam","IN",0,1
 "Assassi",,0,1
+"at sea off N. Africa",,0,1
 "Atapupu","ID",0,1
 "Atlantic",,0,1
 "Atlantic O",,0,1
 "ATLANTIC OCEAN",,0,1
+"'Atlantic Ocean'",,0,1
+"Atlantic or South Indian Ocean",,0,1
+"Atlantic States","US",0,1
 "Auckland I.","NZ",0,1
 "Auckland I. [S. of New Zealand]","NZ",0,1
 "Auckland Is.","NZ",0,1
 "Auckland Island","NZ",0,1
+"Auckland Islands","NZ",0,1
 "Augustus I.",,0,1
 "AUS","AU",0,1
 "Aust.",,0,1
@@ -334,8 +755,11 @@
 "Austral Is.","PF",0,1
 "Austral Isles","PF",0,1
 "Australia","AU",1,1
+"'Australia'","AU",0,1
 "Australia (South ?)","AU",0,1
 "Australia ?","AU",0,1
+"Australia [?]","AU",0,1
+"'Australia""","AU",0,1
 "Australia,  [= Tonga Is.]",,0,1
 "Australia, eastern","AU",0,1
 "Australia?","AU",0,1
@@ -352,6 +776,7 @@
 "Azores Is.","PT",0,1
 "Azores Islands","PT",0,1
 "Azores.","PT",0,1
+"B. [Bay] of Bengal",,0,1
 "B. Africa",,0,1
 "B. Bechuanaland","BW",0,1
 "B. Burmah","MM",0,1
@@ -371,6 +796,7 @@
 "B.E. Africa","KE",0,1
 "B.E. Africa, Kenya Colony","KE",0,1
 "B.E. Africa?","KE",0,1
+"B.E.A. [British East Africa; Kenya]","KE",0,1
 "B.E.A., Kenya Colony","KE",0,1
 "B.G.",,0,1
 "B.N. Guinea","PG",0,1
@@ -395,6 +821,8 @@
 "Bahamas  Is.","BS",0,1
 "Bahamas ?","BS",0,1
 "Bahamas Is.","BS",0,1
+"Bahamas; [West Indies]","BS",0,1
+"Bahamas; West Indies","BS",0,1
 "Bahrain","BH",1,1
 "BAKER IS","UM",0,1
 "Baker Island","US",0,1
@@ -436,11 +864,13 @@
 "Banks Is.","CA",0,1
 "Barbado","BB",0,1
 "Barbadoes","BB",0,1
+"Barbadoes [Barbados]","BB",0,1
 "Barbados","BB",1,1
 "Barbados Island","BB",0,1
 "Barbados, B.W.I.","BB",0,1
 "Barbuda","AG",0,1
 "BARENTS SEA",,0,1
+"Barent's Sea",,0,1
 "Barotseland","ZM",0,1
 "Basilan I.","PH",0,1
 "Basilan Island","PH",0,1
@@ -452,6 +882,7 @@
 "Batavia","ID",0,1
 "Batjan Is.","ID",0,1
 "Batu I.","ID",0,1
+"Bavaria","DE",0,1
 "Bay of Bengal",,0,1
 "Bay of Panama","PA",0,1
 "Bazil","BR",0,1
@@ -490,13 +921,18 @@
 "Bering Straits",,0,1
 "Bermuda","BM",1,1
 "Bermuda ?","BM",0,1
+"Bermuda [West Indies]","BM",0,1
 "Bermuda Ids.","BM",0,1
 "Bermuda Is.","BM",0,1
 "BERMUDA ISLAND/S","BM",0,1
+"Bermudas [West Indies]","BM",0,1
 "betw. Celebes & Sula Is.","ID",0,1
 "Between Celebes & Flores Is.","ID",0,1
 "Between Celebes and Flores Islands","ID",0,1
 "Between Flores and Celebes","ID",0,1
+"Between Greenland and Jan Mayen",,0,1
+"between India and Ceylon",,0,1
+"between India and Ceylon [Sri Lanka]",,0,1
 "between Mozambique-Brit Cent. Africa",,0,1
 "Between New Zealand and Australia",,0,1
 "Bhutan","BT",1,1
@@ -510,6 +946,8 @@
 "Bismark Archip.","PG",0,1
 "Bismark Archipelago","PG",0,1
 "Bismark Is.","PG",0,1
+"Black Sea",,0,1
+"Black Sea or Caspian Sea",,0,1
 "Boffin land","CA",0,1
 "Bogota","CO",0,1
 "Bohemia","CZ",0,1
@@ -521,10 +959,12 @@
 "Bolivia","BO",1,1
 "Bolívia","BO",0,1
 "Bolivia ?","BO",0,1
+"Bolivia [?]","BO",0,1
 "Bolivia, Brazil ?",,0,1
 "Bolivia/Peru",,0,1
 "Bolivia?","BO",0,1
 "Boliviar","BO",0,1
+"Bombay","IN",0,1
 "Bonaire","BQ",0,1
 "Bonaire Island, W Indies","BQ",0,1
 "Bongao I","PH",0,1
@@ -539,9 +979,11 @@
 "Borneo (?)",,0,1
 "Borneo ?",,0,1
 "Borneó ?",,0,1
+"Borneo [Indonesia]","ID",0,1
 "Borneo Is.",,0,1
 "Borneo!",,0,1
 "Borneo, Brunei","BN",0,1
+"Borneo; [Sarawak; Malaysia]",,0,1
 "Borneo?",,0,1
 "Bosnia","BA",0,1
 "Bosnia & Herzegovina","BA",0,1
@@ -599,12 +1041,17 @@
 "Brazil (?)","BR",0,1
 "Brazil ?","BR",0,1
 "Brazil ? Venezuela ?",,0,1
+"Brazil [probably Bolivia]",,0,1
+"Brazil or West Indies",,0,1
 "Brazil!","BR",0,1
+"Brazil(?)","BR",0,1
+"Brazil.","BR",0,1
 "Brazil?","BR",0,1
 "Bresil","BR",0,1
 "Bri. Central Africa","MW",0,1
 "Briazil","BR",0,1
 "Bristish Guiana","GY",0,1
+"Bristish New Guinea","GY",0,1
 "Brit C. Africa","MW",0,1
 "Brit Cent. Africa","MW",0,1
 "Brit Cent. E. Africa","MW",0,1
@@ -627,6 +1074,7 @@
 "Brit. C. Africa","MW",0,1
 "Brit. Cameroons","CM",0,1
 "Brit. Cent. Africa","MW",0,1
+"Brit. Cent. Africa [Malawi]","MW",0,1
 "Brit. Cent. Protectorate Africa","MW",0,1
 "Brit. Centr. Africa","MW",0,1
 "Brit. Centr. Africa?","MW",0,1
@@ -644,6 +1092,7 @@
 "Brit. E. Africa, Kenya Colony","KE",0,1
 "Brit. E. Africa, Kenya District","KE",0,1
 "BRIT. EAST AFRICA","KE",0,1
+"Brit. East Africa [Tanzania]","TZ",0,1
 "Brit. East Africa, Kenya","KE",0,1
 "Brit. East Africa?","KE",0,1
 "Brit. Guiana","GY",0,1
@@ -694,18 +1143,40 @@
 "Brit.? Guiana","GY",0,1
 "Brit.E. Africa","KE",0,1
 "Britain","GB",0,1
+"Britain (?); [U.K.]","GB",0,1
+"Britain [U.K.]","GB",0,1
+"Britain(?); [U.K.]","GB",0,1
+"Britain; [U.K.]","GB",0,1
+"Britain?","GB",0,1
+"British [U.K.]","GB",0,1
 "British Africa",,0,1
+"British America [Canada]","CA",0,1
+"British America; [Canada]","CA",0,1
 "British Baluchistan",,0,1
 "British Cameroons","CM",0,1
+"British Cameroons [Cameroon]","CM",0,1
 "British Central Africa","MW",0,1
+"British Central Africa [Malawi]","MW",0,1
+"British Central Africa; [Malawi]","MW",0,1
+"British Coast","GB",0,1
+"British Colombia","CA",0,1
+"British Columbia","CA",0,1
 "British E. Africa","KE",0,1
 "British East Africa","KE",0,1
+"British East Africa [Kenya and Tanzania]",,0,1
+"British East Africa [Kenya or Tanzania]",,0,1
+"British East Africa [Kenya]","KE",0,1
+"British East Africa [Malawi]","MW",0,1
+"British East Africa [Tanzania]","TZ",0,1
 "British East Africa: Kenya","KE",0,1
 "British Guiana","GY",0,1
 "British Guiana ? Venezuela ?",,0,1
+"British Guiana [Guyana]","GY",0,1
 "British Guiana or Brazil",,0,1
 "British Guina","GY",0,1
+"British Guyana","GY",0,1
 "British Honduras","BZ",0,1
+"British Honduras; [= Belize]","BZ",0,1
 "British Honduras; Belize","BZ",0,1
 "British India","IN",0,1
 "British Isles",,0,1
@@ -727,6 +1198,7 @@
 "Br't. Guiana","GY",0,1
 "Brunei","BN",0,1
 "Buchara","UZ",0,1
+"Bueno[Argentina]","AR",0,1
 "Bulgaria","BG",1,1
 "Bunguran I.","ID",0,1
 "Bunguran Is.","ID",0,1
@@ -734,11 +1206,13 @@
 "Burma","MM",0,1
 "Burma (Myanmar)","MM",0,1
 "Burma ?","MM",0,1
+"Burma [Myanmar]","MM",0,1
 "Burma border","MM",0,1
 "Burma India",,0,1
 "Burma, India",,0,1
 "BURMA?","MM",0,1
 "Burmah","MM",0,1
+"Burmah [Burma; Myanmar]","MM",0,1
 "Burma-Yunnan Frontier",,0,1
 "Buru","ID",0,1
 "Buru I.","ID",0,1
@@ -774,6 +1248,7 @@
 "C.E. Madagascar","MG",0,1
 "C.O. Madagascar","MG",0,1
 "C.P.",,0,1
+"C.P.S.A.","ZA",0,1
 "C.R.","CR",0,1
 "C.S. Australia","AU",0,1
 "CA","CA",0,1
@@ -795,7 +1270,14 @@
 "Cameroon North","CM",0,1
 "Cameroons","CM",0,1
 "Cameroon's","CM",0,1
+"Cameroons (British) [Cameroon]","CM",0,1
+"Cameroons (West Africa)","CM",0,1
+"Cameroons [Cameroon]","CM",0,1
+"Cameroons [Cameroon]; W. Africa","CM",0,1
+"Cameroons [Cameroon]; West Africa","CM",0,1
+"Cameroons; West Africa","CM",0,1
 "CAMEROUN","CM",0,1
+"Cameroun [Cameroon]","CM",0,1
 "Camiguin","PH",0,1
 "Campbell Is.",,0,1
 "Campbell Island",,0,1
@@ -818,6 +1300,7 @@
 "CANARY ISLAND/S","ES",0,1
 "Canary Islands","ES",0,1
 "Cape Colony","ZA",0,1
+"Cape Seas (i.e. South African Seas)",,0,1
 "Cape Verde","CV",1,1
 "Cape Verde Is","CV",0,1
 "Cape Verde Is.","CV",0,1
@@ -847,6 +1330,7 @@
 "CARRIBEAN SEA",,0,1
 "Cashmere",,0,1
 "Caspia",,0,1
+"Caspian Sea",,0,1
 "Caucacus",,0,1
 "Caucasia",,0,1
 "Caucasus",,0,1
@@ -941,8 +1425,11 @@
 "CENTRAL AFRICAN REP","CF",0,1
 "Central African Republic","CF",1,1
 "CENTRAL AMERICA",,0,1
+"Central and southern America",,0,1
+"Central Asia",,0,1
 "Central Australia","AU",0,1
 "Central Bolivia","BO",0,1
+"Central Brazil","BR",0,1
 "Central Ceylon","LK",0,1
 "Central Chile","CL",0,1
 "Central China","CN",0,1
@@ -953,6 +1440,7 @@
 "Central Dutch New Guinea","ID",0,1
 "Central E. Madagascar","MG",0,1
 "CENTRAL EUROPE",,0,1
+"Central Europe probably",,0,1
 "Central Formosa","TW",0,1
 "Central India","IN",0,1
 "Central Italy","IT",0,1
@@ -966,6 +1454,7 @@
 "Central Morocco","MA",0,1
 "Central N. Loo Choo Is.","JP",0,1
 "Central Peru","PE",0,1
+"Central Polynesia",,0,1
 "Central Pyrenees",,0,1
 "Central region",,0,1
 "Central S.E. Madagascar","MG",0,1
@@ -982,6 +1471,7 @@
 "Ceylon","LK",0,1
 "Ceylon ?","LK",0,1
 "Ceylon ? India ?",,0,1
+"Ceylon [Sri Lanka]","LK",0,1
 "Ceylon I.","LK",0,1
 "CEYLON IS","LK",0,1
 "Ceylon Is.","LK",0,1
@@ -999,19 +1489,27 @@
 "CHATHAM IS","NZ",0,1
 "Chatham Is.","NZ",0,1
 "Chatham Island","NZ",0,1
+"check",,0,1
 "CHIL","CL",0,1
 "Chile","CL",1,1
 "Chile ?","CL",0,1
 "Chile?","CL",0,1
 "Chili","CL",0,1
+"Chili ? [Chile]","CL",0,1
+"Chili [?] [Chile]","CL",0,1
+"Chili [Chile]","CL",0,1
+"Chili [Chile] or Central America",,0,1
 "Chili(?)","CL",0,1
 "Chili?","CL",0,1
+"Chili? [Chile]","CL",0,1
 "CHIN","CN",0,1
 "China","CN",1,1
 "CHINA (BY INFERENCE)","CN",0,1
+"China / India",,0,1
 "China ?","CN",0,1
 "China or Japan ?",,0,1
 "CHINA SEA",,0,1
+"China Seas",,0,1
 "China, E. Tibet","CN",0,1
 "China, N. Tibet","CN",0,1
 "China, People's Republic","CN",0,1
@@ -1072,6 +1570,7 @@
 "Colombia Ter.","CO",0,1
 "Colombia/Ecuador",,0,1
 "Colombia/Panama",,0,1
+"Colombia; South America","CO",0,1
 "Colombia?","CO",0,1
 "Colombia?, Venezuela?",,0,1
 "Colombia-Panama ?",,0,1
@@ -1079,6 +1578,7 @@
 "Columba","CO",0,1
 "Columbia","CO",0,1
 "Columbia ?","CO",0,1
+"Columbia [Colombia]","CO",0,1
 "Columbia?","CO",0,1
 "Commander I","RU",0,1
 "Commander I.","RU",0,1
@@ -1119,6 +1619,7 @@
 "CONGO RUPUBLIC","CG",0,1
 "Congo, Gaboon",,0,1
 "Conn.","US",0,1
+"'Continental India'","IN",0,1
 "Cook Is.","CK",0,1
 "Cook Islands","CK",1,1
 "CORAL SEA",,0,1
@@ -1154,6 +1655,7 @@
 "Crozet Islands","FR",0,1
 "Cuba","CU",1,1
 "Cuba (?)","CU",0,1
+"Cuba [?]","CU",0,1
 "Cuba(?)","CU",0,1
 "Cuba, W. Indies","CU",0,1
 "Cuba?","CU",0,1
@@ -1202,18 +1704,22 @@
 "D.W. India",,0,1
 "D.W. Indies",,0,1
 "D.W.I.",,0,1
+"D.W.I. [Danish West Indies]","VI",0,1
 "D.W.Indies",,0,1
 "DAHOMEY","BJ",0,1
 "Dalmatia","HR",0,1
+"Dalmatia [Croatia]","HR",0,1
 "Dalmatien","HR",0,1
 "Damaraland","NA",0,1
 "Damaraland?","NA",0,1
 "Dammer I.","ID",0,1
 "Dammer Is.","ID",0,1
+"Danish West Indies","VI",0,1
 "Danzig","PL",0,1
 "Danzig F.S.","PL",0,1
 "Davis","US",0,1
 "DAVIS STRAIT",,0,1
+"Davis Straits",,0,1
 "DEM REP OF CONGO","CD",0,1
 "DEM. REP. CONGO","CD",0,1
 "Demarara","GY",0,1
@@ -1231,6 +1737,7 @@
 "Djibouti","DJ",1,1
 "Dominica","DM",1,1
 "Dominica I.W.I.","DM",0,1
+"Dominica; (Lesser Antilles)","DM",0,1
 "Dominica?","DM",0,1
 "DOMINICAN REPUB","DO",0,1
 "Dominican Republic","DO",1,1
@@ -1250,6 +1757,7 @@
 "Duke of York Is","PG",0,1
 "Duke of York Is.","PG",0,1
 "Duke of York Island","PG",0,1
+"Dutch Coast; North Sea","NL",0,1
 "Dutch E. Indies","ID",0,1
 "Dutch East Indies","ID",0,1
 "Dutch Guiana","SR",0,1
@@ -1282,6 +1790,7 @@
 "E. & S. Australia","AU",0,1
 "E. Afr.",,0,1
 "E. Africa",,0,1
+"E. Africa (Somaliland possibly)",,0,1
 "E. African coast",,0,1
 "E. Algeria","DZ",0,1
 "E. Angola","AO",0,1
@@ -1352,6 +1861,7 @@
 "E. Napal","NP",0,1
 "E. Nepal","NP",0,1
 "E. Nigeria","NG",0,1
+"E. North America",,0,1
 "E. of Austr.","AU",0,1
 "E. of Australia","AU",0,1
 "E. of Australian","AU",0,1
@@ -1393,7 +1903,9 @@
 "E. Solomon Is.","SB",0,1
 "E. Sumatra","ID",0,1
 "E. Sweden","SE",0,1
+"E. Thibet","CN",0,1
 "E. Tibet","CN",0,1
+"E. Transvaal","ZA",0,1
 "E. Tunesia","TN",0,1
 "E. Turkestan",,0,1
 "E. Turkestan ?",,0,1
@@ -1410,7 +1922,11 @@
 "E.W. Madagascar","MG",0,1
 "E/ern Pan.","PA",0,1
 "East Africa",,0,1
+"East Africa [Kenya or Tanzania]",,0,1
+"East Africa [Kenya]","KE",0,1
+"East Atlantic",,0,1
 "East Bolivia","BO",0,1
+"East Brazil (?)","BR",0,1
 "East Burma","MM",0,1
 "East Celebes","ID",0,1
 "East Cent. D. N. Guinea","ID",0,1
@@ -1422,12 +1938,23 @@
 "East coast of St. Vincent, B.W.I.","VC",0,1
 "East Cuba","CU",0,1
 "East Ecuador","EC",0,1
+"East Finmark; [Norway]","NO",0,1
 "EAST GERMANY","DE",0,1
+"East Greenland","GL",0,1
+"East Iceland","IS",0,1
+"East India","IN",0,1
+"East Indian Islands",,0,1
 "EAST INDIES",,0,1
+"East Indies (?)",,0,1
+"East Indies [?]",,0,1
+"east Madagascar","MG",0,1
 "East Malaysia","MY",0,1
 "East of Australia","AU",0,1
 "East of Borneo",,0,1
 "East of Celebes","ID",0,1
+"East of Greenland","GL",0,1
+"East of Iceland","IS",0,1
+"East of Japan","JP",0,1
 "East of Java","ID",0,1
 "East of New Ireland","PG",0,1
 "East of New Zealand","NZ",0,1
@@ -1436,6 +1963,7 @@
 "East of Spain","ES",0,1
 "East of Sumatra","ID",0,1
 "east Panama","PA",0,1
+"East Patagonia","AR",0,1
 "East Persia",,0,1
 "east Peru","PE",0,1
 "East Prussia",,0,1
@@ -1450,14 +1978,20 @@
 "Easter Island","CL",0,1
 "Eastern Australia","AU",0,1
 "eastern Belg. Congo","CD",0,1
+"Eastern Brazil","BR",0,1
+"Eastern Brazil (?)","BR",0,1
 "eastern Congo","CG",0,1
 "eastern Ecuador","EC",0,1
 "Eastern Egypt","EG",0,1
+"Eastern India","IN",0,1
+"eastern Madagascar","MG",0,1
 "Eastern Panama","PA",0,1
 "Eastern Persia",,0,1
 "Eastern Persia ?",,0,1
 "EASTERN PRUSSIA",,0,1
 "Eastern Tropical",,0,1
+"Eastern Tropical America",,0,1
+"Eastern United States [U.S.A.]","US",0,1
 "Ec.","EC",0,1
 "Ecaudor","EC",0,1
 "Ecu.","EC",0,1
@@ -1490,6 +2024,7 @@
 "Egyptien Sudan",,0,1
 "Egypt-Sudan",,0,1
 "Ehtiopia ?","ET",0,1
+"Eire [Ireland]","IE",0,1
 "Eitrea","ER",0,1
 "EL ECUADOR","EC",0,1
 "El Salvador","SV",1,1
@@ -1503,14 +2038,25 @@
 "Eng.","GB",0,1
 "Engano I.","ID",0,1
 "Engl.","GB",0,1
+"Englan; U.K.","GB",0,1
 "England","GB",0,1
 "England (Great Britain)","GB",0,1
 "England ?","GB",0,1
+"England [U.K.]","GB",0,1
+"England or Macedonia",,0,1
 "England, North Wales","GB",0,1
+"England; [U. K.]","GB",0,1
+"England; [U.K.]","GB",0,1
+"England; U.K.","GB",0,1
+"England; U.K.]","GB",0,1
+"England;U.K","GB",0,1
 "England?","GB",0,1
+"English Coast","GB",0,1
 "EQUADOR","EC",0,1
 "Equat. Africa",,0,1
+"Equatorial Africa",,0,1
 "Equatorial Guinea","GQ",0,1
+"Equatorial Pacific",,0,1
 "Equitorial Guinea","GQ",1,1
 "Eritrea","ER",1,1
 "ESTADOS UNIDOS","US",0,1
@@ -1526,7 +2072,11 @@
 "EUROPE (BY INFE",,0,1
 "EUROPE (BY INFERENCE)",,0,1
 "evidently British New Guinea","PG",0,1
+"Ex. British Guiana  [Guyana]","GY",0,1
+"Ex-British Central New Guinea","PG",0,1
 "Ext [illeg] N. Madagascar","MG",0,1
+"extreme Southern Portugal","PT",0,1
+"F [Finland]","FI",0,1
 "F. Cameroon","CM",0,1
 "F. Guiana","GF",0,1
 "F.E. Africa","DJ",0,1
@@ -1543,6 +2093,7 @@
 "Fair I.","GB",0,1
 "Falkland I.","FK",0,1
 "Falkland Ids","FK",0,1
+"Falkland Is","FK",0,1
 "Falkland Is.","FK",0,1
 "Falkland Island","FK",0,1
 "Falkland Islands","FK",1,1
@@ -1550,6 +2101,7 @@
 "Falkland Isle","FK",0,1
 "Falklands","FK",0,1
 "Fanning Is.","KI",0,1
+"Far_e Islands","FO",0,1
 "Faroe Is.","FO",0,1
 "Faroe Islands","FO",1,1
 "Faroer I","FO",0,1
@@ -1562,6 +2114,7 @@
 "Federated States of Micronesia","FM",0,1
 "Federated States of Micronesia (Caroline Islands)","FM",0,1
 "Federated States of Micronesia?","FM",0,1
+"Feefs of Sawakin; Red Sea","SD",0,1
 "Feni I.","PG",0,1
 "Fergusson I.","PG",0,1
 "Fernadno Po. I.","GQ",0,1
@@ -1577,6 +2130,7 @@
 "Figi Islands","FJ",0,1
 "Fiji","FJ",1,1
 "Fiji - Tonga Groups?",,0,1
+"Fiji [South Pacific]","FJ",0,1
 "Fiji I.","FJ",0,1
 "Fiji Is","FJ",0,1
 "Fiji Is.","FJ",0,1
@@ -1585,14 +2139,21 @@
 "FIJI ISLAND/S","FJ",0,1
 "Fiji Islands","FJ",0,1
 "Fiji Islant","FJ",0,1
+"Fiji or West Pacific",,0,1
+"Fiji; [South Pacific]","FJ",0,1
+"Fiji; South Pacific","FJ",0,1
 "Fijis","FJ",0,1
 "Finland","FI",1,1
+"Finland?","FI",0,1
+"Finnish Lapland [Finland]","FI",0,1
 "Finnland","FI",0,1
 "Flores",,0,1
 "Flores I",,0,1
 "Flores I.",,0,1
 "Flores Is.",,0,1
 "FORMOSA","TW",0,1
+"Formosa [Taiwan]","TW",0,1
+"Formosa [Tawain]","TW",0,1
 "Formosa Is.","TW",0,1
 "Formosa, Taiwan","TW",0,1
 "FOROYAR","FO",0,1
@@ -1620,6 +2181,14 @@
 "France","FR",1,1
 "France & Netherlands",,0,1
 "France ?","FR",0,1
+"France 11","FR",0,1
+"France 13","FR",0,1
+"France 19","FR",0,1
+"France 3","FR",0,1
+"France 7","FR",0,1
+"France 8","FR",0,1
+"France 9","FR",0,1
+"France; Spain",,0,1
 "France?","FR",0,1
 "Free State Congo",,0,1
 "French Africa",,0,1
@@ -1650,6 +2219,7 @@
 "French, W Africa",,0,1
 "Friji Is.","FJ",0,1
 "frontier of Siam","TH",0,1
+"Fuji","FJ",0,1
 "Fuji Is.","FJ",0,1
 "Fulanga I.","FJ",0,1
 "G. Api I.","ID",0,1
@@ -1683,7 +2253,10 @@
 "Gambia River",,0,1
 "Gambia West","EC",0,1
 "Gambia, The","EC",0,1
+"Gambia; West Africa","GM",0,1
+"Garna",,0,1
 "Gautemala","GT",0,1
+"Gaza Strip","PS",0,1
 "Georgia","GE",1,1
 "Georgian Soviet Socialist Republic","GE",0,1
 "Ger","DE",0,1
@@ -1734,6 +2307,7 @@
 "Germany, West","DE",0,1
 "Germany?","DE",0,1
 "Ghana","GH",1,1
+"Ghana (Eastern Region)","GH",0,1
 "Gibraltar","GI",1,1
 "Gibralter","GI",0,1
 "Gilbert Islands","KI",0,1
@@ -1774,6 +2348,7 @@
 "Great Banda I.","ID",0,1
 "Great Banda Is.","ID",0,1
 "GREAT BRITAIN","GB",0,1
+"Great Britain [England; U.K.]","GB",0,1
 "Great Natuna I.","ID",0,1
 "Great Natuna Is.","ID",0,1
 "Great Natuna I's.","ID",0,1
@@ -1800,10 +2375,12 @@
 "GRENADINES","VC",0,1
 "Grenadines, B.W.I.","VC",0,1
 "Grenadines, British West Indies","VC",0,1
+"Gronland; West Greenland","GL",0,1
 "Gt Natuna I","ID",0,1
 "Gt. Banda I. [Banda Is.]","ID",0,1
 "Gt. Banda Is","ID",0,1
 "Gt. Banda Is.","ID",0,1
+"Gt. Britain; Germany; or unknown",,0,1
 "Gt. Key Is.","ID",0,1
 "Gt. Natuna I","ID",0,1
 "Gt. Natuna I.","ID",0,1
@@ -1833,6 +2410,7 @@
 "GUAYANA","GY",0,1
 "Guiana","GY",0,1
 "Guiana (?)","GY",0,1
+"Guiana [Guyana]","GY",0,1
 "Guinea","GN",1,1
 "Guinea-Bissau","GW",1,1
 "GULF OF GUINEA",,0,1
@@ -1843,6 +2421,7 @@
 "Guyana ?","GY",0,1
 "Gy. Natuna Is.","ID",0,1
 "H.T.",,0,1
+"Haima; Bunyoro; North Uganda","UG",0,1
 "Hainan","CN",0,1
 "Hainan Is.","CN",0,1
 "Hainan Island","CN",0,1
@@ -1879,6 +2458,7 @@
 "Herzegovina","BA",0,1
 "HIGHLANDS CO.",,0,1
 "Himalaya",,0,1
+"'Himalayan India'","IN",0,1
 "Himalayas",,0,1
 "Hinterland Gold Coast","GH",0,1
 "Hinterland of Gold Coast","GH",0,1
@@ -1887,6 +2467,8 @@
 "Höfuðborgarsvæðið","IS",0,1
 "HOLLAND","NL",0,1
 "Holland ?","NL",0,1
+"Holland [Netherlands]","NL",0,1
+"Holland; [Netherlands]","NL",0,1
 "Holy Land","VA",0,1
 "Hond","HN",0,1
 "Hond.","HN",0,1
@@ -1918,6 +2500,7 @@
 "Iceland","IS",1,1
 "Iceland (?)","IS",0,1
 "Iceland (North)","IS",0,1
+"Iceland (south of)","IS",0,1
 "Iceland ?","IS",0,1
 "Idaho","US",0,1
 "Ifugan?",,0,1
@@ -1928,11 +2511,18 @@
 "Ind.","ID",0,1
 "INDES",,0,1
 "India","IN",1,1
+"'India'","IN",0,1
 "India & Ceylon",,0,1
 "India (?)","IN",0,1
 "India (Pakistan]",,0,1
 "India (Tibet Frontier)","IN",0,1
 "India ?","IN",0,1
+"India [?]","IN",0,1
+"India [Burma [Myanmar]]",,0,1
+"India [Nepal]",,0,1
+"India [Pakistan]",,0,1
+"India or Australia",,0,1
+"India or China",,0,1
 "INDIA, BANGLADESH",,0,1
 "India, Bengal",,0,1
 "India, Bhutan",,0,1
@@ -1947,16 +2537,21 @@
 "India, Upper Burma",,0,1
 "India, W. Ceylon",,0,1
 "India, W. Nepal",,0,1
+"India; [Burma [Myanmar]]",,0,1
 "India; border of Nepal","IN",0,1
 "India; Ceylon",,0,1
 "India; Nepal",,0,1
 "India?","IN",0,1
+"Indian",,0,1
 "Indian O.",,0,1
 "Indian Ocean",,0,1
 "INDIAN OCEAN ISLAND/S",,0,1
+"Indian or Atlantic Ocean",,0,1
 "Indian Penins.","IN",0,1
+"Indian Seas",,0,1
 "Indian Territory","IN",0,1
 "Indies",,0,1
+"Indio Pacific",,0,1
 "Indo",,0,1
 "Indo China",,0,1
 "Indo China, Cambodia","KH",0,1
@@ -2013,8 +2608,10 @@
 "Ire.","IE",0,1
 "Ireland","IE",1,1
 "Ireland ?","IE",0,1
+"Ireland [Northern Ireland]",,0,1
 "Ireland?","IE",0,1
 "Ireland[?]","IE",0,1
+"Irish Sea",,0,1
 "Is. of Dominica","DO",0,1
 "Is. Pifore!",,0,1
 "Isl. of Skyros","GR",0,1
@@ -2028,11 +2625,15 @@
 "ISRAEL-JORDAN",,0,1
 "Isreal","IL",0,1
 "ITAL","IT",0,1
+"Italian Abyssinia",,0,1
+"Italian Coast","IT",0,1
 "Italian Somaliland","SO",0,1
 "Italian Somililand","SO",0,1
 "Italy","IT",1,1
 "Italy (North)","IT",0,1
 "Italy ?","IT",0,1
+"Italy PP07","IT",0,1
+"Italy PP83","IT",0,1
 "Italy?","IT",0,1
 "Ivory Coast","CI",0,1
 "Jamaica","JM",1,1
@@ -2040,7 +2641,9 @@
 "JAMAICA IS","JM",0,1
 "Jamaica, W.I.","JM",0,1
 "Jamaica, West Indies","JM",0,1
+"Jamaica; [West Indies]","JM",0,1
 "Jamaica; West Indies","JM",0,1
+"Jamaica?","JM",0,1
 "Jampea I.","ID",0,1
 "Jampea Is.","ID",0,1
 "JAP","JP",0,1
@@ -2087,6 +2690,7 @@
 "Kangean I.","ID",0,1
 "Kangean Is.","ID",0,1
 "Kanjean Is.","ID",0,1
+"Kara Sea",,0,1
 "Karinthia","AT",0,1
 "Kashmir",,0,1
 "KAZACHSTAN","KZ",0,1
@@ -2197,6 +2801,7 @@
 "LIBERIEA","LR",0,1
 "Libya","LY",1,1
 "LIBYAN ARAB JAMAHIRIYA","LY",0,1
+"Lichtenstein","LI",0,1
 "Liechenstein","LI",0,1
 "Liechtenstein","LI",1,1
 "LINE IS",,0,1
@@ -2281,10 +2886,15 @@
 "Macquarie Island","AU",0,1
 "Macquarrie Is.","AU",0,1
 "Madag. S.W.","MG",0,1
+"Madagasca","MG",0,1
 "Madagascar","MG",1,1
 "Madagascar (SE)","MG",0,1
 "Madagascar ?","MG",0,1
+"Madagascar [Mauritius]",,0,1
 "Madagascar I.","MG",0,1
+"Madagascar.","MG",0,1
+"Madagascar; [Indian Ocean]","MG",0,1
+"Madagascar; [Mauritius]",,0,1
 "Madagascar?","MG",0,1
 "Madeira","PT",0,1
 "Madeira I","PT",0,1
@@ -2292,6 +2902,7 @@
 "Madeira Is.","PT",0,1
 "Madeira Island","PT",0,1
 "MADEIRA ISLANDS","PT",0,1
+"Madeira; [Atlantic Ocean]","PT",0,1
 "Maderas Islands","PT",0,1
 "Maderia Is.","PT",0,1
 "Mafor I.","ID",0,1
@@ -2308,6 +2919,10 @@
 "Malawi","MW",1,1
 "Malawi (Nyasaland)","MW",0,1
 "Malawi / Mozambique / Tanzania",,0,1
+"Malawi [=Nyasaland]","MW",0,1
+"Malawi [Nyasaland]","MW",0,1
+"Malawi [olim Nyasaland]","MW",0,1
+"Malawi; (Nyasaland)","MW",0,1
 "Malay","MY",0,1
 "Malay Archipelago","MY",0,1
 "Malay Pen",,0,1
@@ -2320,16 +2935,27 @@
 "Malay Penin., Siam","TH",0,1
 "Malay Penins.",,0,1
 "Malay Peninsula",,0,1
+"Malay Peninsula [Malaysia]","MY",0,1
 "Malay Peninsula, Singapore","SG",0,1
 "Malay Peninsula?",,0,1
+"Malay Peninsular [Malaysia]","MY",0,1
 "Malay Penisula",,0,1
 "Malay Penn.",,0,1
 "Malay Penninsula",,0,1
 "Malay States","MY",0,1
 "Malaya","MY",0,1
+"Malaya [Malaysia]","MY",0,1
+"Malaya [Thailand]",,0,1
+"Malaya; [Thailand]",,0,1
 "Malaysia","MY",1,1
+"Malaysia [Peninsular Thailand]",,0,1
+"Malaysia [Thailand]",,0,1
 "MALAYSIA TIMOR","MY",0,1
+"Malaysia; [Thailand]",,0,1
+"Maldive Is","MV",0,1
+"Maldive Is.","MV",0,1
 "MALDIVE ISLAND/S","MV",0,1
+"Maldive Islands","MV",0,1
 "Maldives","MV",1,1
 "Mali","ML",1,1
 "Mallorca","ML",0,1
@@ -2375,6 +3001,7 @@
 "Marshall Islands",,0,1
 "Martinique","MQ",1,1
 "Martinique Island","MQ",0,1
+"Martinique; [West Indies]","MQ",0,1
 "Martinque","MQ",0,1
 "Masailand","KE",0,1
 "Mascarene Islands",,0,1
@@ -2382,18 +3009,27 @@
 "Matuku I.",,0,1
 "Mauretania","MR",0,1
 "Mauritania","MR",1,1
+"Mauritania; [Morocco]",,0,1
 "Mauritius","MU",1,1
+"Mauritius (probably)","MU",0,1
+"Mauritius ?","MU",0,1
+"Mauritius [? or Rodriguez]","MU",0,1
+"Mauritius [Indian Ocean]","MU",0,1
 "Mauritius I","MU",0,1
 "Mauritius I (E. of Africa)","MU",0,1
 "Mauritius I.","MU",0,1
 "Mauritius Is","MU",0,1
 "Mauritius Is.","MU",0,1
 "MAURITIUS ISLAND/S","MU",0,1
+"Mauritius; [Indian Ocean]","MU",0,1
+"Mauritius?","MU",0,1
 "Mazedonia","MK",0,1
 "Md.","US",0,1
+"Mediterranean",,0,1
 "MELAYSIA","MY",0,1
 "Melchior Islands",,0,1
 "Mengalum Is.","MY",0,1
+"Merida-Venezuela","VE",0,1
 "Mesopotamia",,0,1
 "Mesopotomia",,0,1
 "Mesoptamia",,0,1
@@ -2401,15 +3037,18 @@
 "MEW ZEALAND","NZ",0,1
 "Mex","MX",0,1
 "Mex (La Paz)","MX",0,1
+"Mex [Mexico]","MX",0,1
 "Mex.","MX",0,1
 "MEXCO","MX",0,1
 "MEXIC0","MX",0,1
 "Mexicao","MX",0,1
 "Mexico","MX",1,1
 "México","MX",0,1
+"Mexico (1-3); [U.S.A.] (5)",,0,1
 "MEXICO (BY INFE","MX",0,1
 "MEXICO (BY INFERENCE)","MX",0,1
 "Mexico ?","MX",0,1
+"Mexico [?]; [Jamaica]",,0,1
 "Mexico D.F.","MX",0,1
 "Mexico or Guatemala ?",,0,1
 "Mexico/Guatemala",,0,1
@@ -2440,7 +3079,9 @@
 "Misol Is.","ID",0,1
 "Missouri","US",0,1
 "Moa I.","AU",0,1
+"Mocambique","MZ",0,1
 "Moçambique","MZ",0,1
+"Mocambique [Mozambique]","MZ",0,1
 "MOLDAVIA","MD",0,1
 "Moldova","MD",1,1
 "Molucca","ID",0,1
@@ -2452,6 +3093,7 @@
 "Moluccas ?","ID",0,1
 "MOLUCCAS IS","ID",0,1
 "Moluccas Is.","ID",0,1
+"Monaco","MC",0,1
 "Mongolia","MN",1,1
 "MONGOLIA?","MN",0,1
 "Montenegro","ME",1,1
@@ -2460,6 +3102,7 @@
 "Moracco","MA",0,1
 "Moroc","MA",0,1
 "Morocco","MA",1,1
+"Morocco (?)","MA",0,1
 "Morocco?","MA",0,1
 "MOROCCO-ALGERIA",,0,1
 "Moroco","MA",0,1
@@ -2478,6 +3121,7 @@
 "MUSEUM",,0,1
 "Myanmar","MM",1,1
 "N Algeria","DZ",0,1
+"N America",,0,1
 "N Argentina","AR",0,1
 "N Borneo",,0,1
 "N Burma","MM",0,1
@@ -2498,17 +3142,25 @@
 "N Venezuela","VE",0,1
 "N.  Australia","AU",0,1
 "N. & N.W. Australia","AU",0,1
+"N. Africa",,0,1
 "N. Albania","AL",0,1
 "N. Algeria","DZ",0,1
 "N. Algeria ?","DZ",0,1
 "N. America",,0,1
+"'N. America'",,0,1
+"N. America ?",,0,1
+"N. America [U.S.A.]","US",0,1
+"N. America; [U.S.A.]","US",0,1
 "N. Andaman I.","IN",0,1
 "N. Andaman Is.","IN",0,1
 "N. Angola","AO",0,1
 "N. Arabia",,0,1
 "N. Argentina","AR",0,1
+"N. Atlantic",,0,1
 "N. Australia","AU",0,1
 "N. Austria","AT",0,1
+"N. B. ; [Scotland; U.K.]","GB",0,1
+"N. B. [Scotland; U.K.]","GB",0,1
 "N. Bechoanaland","BW",0,1
 "N. Bechuanaland","BW",0,1
 "N. Belg. Congo","CD",0,1
@@ -2527,6 +3179,7 @@
 "N. Carolina","US",0,1
 "N. Caucasus",,0,1
 "N. Celebes","ID",0,1
+"N. Celebes [Sulawesi]","ID",0,1
 "N. Celebes Is.","ID",0,1
 "N. Celebes?","ID",0,1
 "N. Cent. Australia","AU",0,1
@@ -2577,6 +3230,7 @@
 "N. Germ. New Guinea","PG",0,1
 "N. Germany","DE",0,1
 "N. Germany?","DE",0,1
+"N. Granada","GD",0,1
 "N. Greenland","GL",0,1
 "N. Guatamala","GT",0,1
 "N. Guatemala","GT",0,1
@@ -2627,6 +3281,7 @@
 "N. Niger","NE",0,1
 "N. Nigeria","NG",0,1
 "N. Norway","NO",0,1
+"N. Nyasaland [Malawi]","MW",0,1
 "N. of Andaman Is.","IN",0,1
 "N. of Arabia",,0,1
 "N. of Bali Is.","ID",0,1
@@ -2664,7 +3319,13 @@
 "N. Philippines","PH",0,1
 "N. Philippine's","PH",0,1
 "N. Portugal","PT",0,1
+"N. R. [Northern Rhodesia; Zambia]","ZM",0,1
+"N. Rhod[esia]","ZW",0,1
 "N. Rhodesia","ZW",0,1
+"N. Rhodesia [=Zambia]","ZM",0,1
+"N. Rhodesia [Zambia]","ZM",0,1
+"N. Rhodesia; [Zambia ]","ZM",0,1
+"N. Rhodesia; [Zambia]","ZM",0,1
 "N. Rumania","RO",0,1
 "N. Russia","RU",0,1
 "N. Russia?","RU",0,1
@@ -2682,6 +3343,7 @@
 "N. Tang. Terr.","TZ",0,1
 "N. Tanganyika T.","TZ",0,1
 "N. Tanganyika Terr.","TZ",0,1
+"N. Tanzania","TZ",0,1
 "N. Tasmania","AU",0,1
 "N. Tibet","CN",0,1
 "N. Transvaal","ZA",0,1
@@ -2703,6 +3365,10 @@
 "N. Zealand","NZ",0,1
 "N./W. Australia","AU",0,1
 "N./West Australia","AU",0,1
+"N.America",,0,1
+"N.America (S.E. of) [U.S.A.]","US",0,1
+"N.B. [Scotland; U.K.]","GB",0,1
+"N.B. [Scotland]","GB",0,1
 "N.Br. New Guinea","PG",0,1
 "N.C. Australia","AU",0,1
 "N.Celebes","ID",0,1
@@ -2717,6 +3383,7 @@
 "N.E. . U.S.A.","US",0,1
 "N.E. Africa",,0,1
 "N.E. Algeria","DZ",0,1
+"N.E. America",,0,1
 "N.E. Australia","AU",0,1
 "N.E. Belgian Congo","CD",0,1
 "N.E. Borneo",,0,1
@@ -2737,6 +3404,7 @@
 "N.E. Coast of D. New Guinea","ID",0,1
 "N.E. Coast of D. New Guinea ?","ID",0,1
 "N.E. Coast Venezuela","VE",0,1
+"N.E. Ecuador","EC",0,1
 "N.E. England","GB",0,1
 "N.E. Ethiopia","ET",0,1
 "N.E. Germany","DE",0,1
@@ -2768,6 +3436,7 @@
 "N.E. of Tunis","TN",0,1
 "N.E. Persia",,0,1
 "N.E. Peru","PE",0,1
+"N.E. Prussia",,0,1
 "N.E. Rhodesia","ZW",0,1
 "N.E. Ruanda","RW",0,1
 "N.E. Russia","RU",0,1
@@ -2778,6 +3447,7 @@
 "N.E. Sumatra I.","ID",0,1
 "N.E. Sumatra, (Deli etc.)","ID",0,1
 "N.E. Sumatra, Deli","ID",0,1
+"N.E. Tanzania","TZ",0,1
 "N.E. Tibet","CN",0,1
 "N.E. Transvaal","ZA",0,1
 "N.E. Venezuela","VN",0,1
@@ -2790,10 +3460,12 @@
 "N.E.Du. New Guinea","ID",0,1
 "N.E.Greenland","GL",0,1
 "N.E.P. Ec.",,0,1
+"N.E.Tanzania","TZ",0,1
 "N.F.",,0,1
 "N.G.",,0,1
 "N.G. New Guinea Coast","PG",0,1
 "N.Ger. New Guinea","PG",0,1
+"N.Guinea",,0,1
 "N.J.","US",0,1
 "N.L. Mex.","MX",0,1
 "N.N. Guinea",,0,1
@@ -2802,8 +3474,10 @@
 "N.S.","CA",0,1
 "N.S. Canada","CA",0,1
 "N.S. Wales","AU",0,1
+"N.S.W. [Australia]","AU",0,1
 "N.S.W. Australia","AU",0,1
 "N.T.","CA",0,1
+"N.Tanzania","TZ",0,1
 "N.W Australia","AU",0,1
 "N.W New Guinea","ID",0,1
 "N.W of New Guinea","ID",0,1
@@ -2814,6 +3488,8 @@
 "N.W. Africa",,0,1
 "N.W. Algeria","DZ",0,1
 "N.W. America",,0,1
+"N.W. America [U.S.A.]","US",0,1
+"N.W. America; [U.S.A.]","US",0,1
 "N.W. Arabia",,0,1
 "N.W. Argentina","AR",0,1
 "N.W. Australia","AU",0,1
@@ -2836,6 +3512,7 @@
 "N.W. Du. New Guinea","ID",0,1
 "N.W. Ecua.","EC",0,1
 "N.W. Ecuador","EC",0,1
+"N.W. Finland","FI",0,1
 "N.W. Fokien","CN",0,1
 "N.W. France","FR",0,1
 "N.W. Germany","DE",0,1
@@ -2844,6 +3521,7 @@
 "N.W. Honduras","HN",0,1
 "N.W. Iceland","IS",0,1
 "N.W. India","IN",0,1
+"N.W. Ireland","IE",0,1
 "N.W. Java","ID",0,1
 "N.W. Kenya","KE",0,1
 "N.W. Madagascar","MG",0,1
@@ -2865,6 +3543,7 @@
 "N.W. Persia",,0,1
 "N.W. Peru","PE",0,1
 "N.W. Rhodesia","ZW",0,1
+"N.W. Rhodesia [Zambia]","ZM",0,1
 "N.W. Russia","RU",0,1
 "N.W. Scotland","GB",0,1
 "N.W. Siam","TH",0,1
@@ -2882,6 +3561,7 @@
 "N.W.T. Canada","CA",0,1
 "N.West Australia","AU",0,1
 "N.Z.","NZ",0,1
+"N.Z. [New Zealand]","NZ",0,1
 "N/A",,0,1
 "N/West Australia","AU",0,1
 "Nagamiland","BW",0,1
@@ -2891,6 +3571,7 @@
 "NAMIBIA (SWA)","NA",0,1
 "N'Angola","AO",0,1
 "Napal Valley","NP",0,1
+"Naples","IT",0,1
 "Narcondam I.","IN",0,1
 "NARES STRAIT",,0,1
 "Natal","ZA",0,1
@@ -2905,9 +3586,11 @@
 "NE Siberia","RU",0,1
 "NE Sumatra","ID",0,1
 "near Australia","AU",0,1
+"near boundary of Sweden/Norway/Finland",,0,1
 "Near Ceram Laut","ID",0,1
 "Near Ceram Laut Is","ID",0,1
 "Near Ceram Laut Is.","ID",0,1
+"Near East",,0,1
 "near England","GB",0,1
 "near Galapagos Is.","EC",0,1
 "near Java","ID",0,1
@@ -2927,6 +3610,7 @@
 "near Venezuela","VE",0,1
 "Negros Is.","PH",0,1
 "Nepal","NP",1,1
+"Nepal [?]","NP",0,1
 "Nepal Valley","NP",0,1
 "Nepal, India",,0,1
 "Nepal, Sikkim Frontier",,0,1
@@ -2967,6 +3651,7 @@
 "NEW GUINEA",,0,1
 "New Guinea (Crandall 1929)",,0,1
 "New Guinea ?",,0,1
+"New Guinea [?]",,0,1
 "New Guinea [N. New Guinea?]",,0,1
 "New Guinea Papua","PG",0,1
 "New Guinea Terr. Papua","PG",0,1
@@ -2980,6 +3665,9 @@
 "New Hebrides ?","VU",0,1
 "New Hebrides Is.","VU",0,1
 "New Hebrides Island","NZ",0,1
+"New Holland [Australia]","AU",0,1
+"New Holland [Western Australia]","AU",0,1
+"New Holland; [Australia]","AU",0,1
 "New Ireland","PG",0,1
 "New Ireland I","PG",0,1
 "New Ireland I.","PG",0,1
@@ -2990,10 +3678,14 @@
 "New Siberia","RU",0,1
 "New York","US",0,1
 "New Zealand","NZ",1,1
+"'New Zealand'","NZ",0,1
 "New Zealand (?)","NZ",0,1
+"New Zealand (introduced)","NZ",0,1
 "New Zealand ?","NZ",0,1
+"New Zealand [?Australia]",,0,1
 "New Zealand Is.","NZ",0,1
 "New Zealand Seas","NZ",0,1
+"New Zealand*","NZ",0,1
 "New Zealand, Captive","NZ",0,1
 "New Zealand?","NZ",0,1
 "New Zeeland","NZ",0,1
@@ -3056,7 +3748,12 @@
 "North Africa",,0,1
 "North Algeria","DZ",0,1
 "NORTH AMERICA",,0,1
+"'North America'",,0,1
 "NORTH AMERICA (BY INFERENCE)",,0,1
+"North America [Canada]","CA",0,1
+"North America [U.S.A.]","US",0,1
+"North America and Mexico",,0,1
+"North America?",,0,1
 "North Angola","AO",0,1
 "North Atlantic",,0,1
 "North Atlantic Ocean",,0,1
@@ -3072,17 +3769,22 @@
 "north coast of Ger. Papua","PG",0,1
 "North Coast of Iceland","IS",0,1
 "North E. Germany","DE",0,1
+"North East America",,0,1
 "North East Coast of Dutch New Guinea","ID",0,1
+"North East Jamaica","JM",0,1
+"North East of Ireland","IE",0,1
 "North Eastern U.S.","US",0,1
 "North Ecaudor","EC",0,1
 "North Ecuador","EC",0,1
 "North end of San Tomé","ST",0,1
 "North Ethiopia","ET",0,1
+"North Europe",,0,1
 "North Formosa","TW",0,1
 "North Germany","DE",0,1
 "North Greenland","GL",0,1
 "North Guatemala","GT",0,1
 "North Holland","NL",0,1
+"North Holland [Netherlands]","NL",0,1
 "North Iceland","IS",0,1
 "North India","IN",0,1
 "North Ireland","GB",0,1
@@ -3099,10 +3801,13 @@
 "North of Iceland","IS",0,1
 "North of N. Guinea ?",,0,1
 "North of New Guinea",,0,1
+"North of Scotland","GB",0,1
 "North of Venezuela","VE",0,1
 "North Pacific",,0,1
 "North Pacific Ocean",,0,1
 "NORTH PACIFIC OCEAN",,0,1
+"North Portugal","PT",0,1
+"North Rhodesia [Zambia]","ZM",0,1
 "North Russia","RU",0,1
 "North Sea",,0,1
 "North Siam","TH",0,1
@@ -3111,44 +3816,77 @@
 "North Venezuela","VE",0,1
 "North Vietnam","VN",0,1
 "North Wales","GB",0,1
+"North Wales [U.K.]","GB",0,1
+"North Wales; [U.K.]","GB",0,1
+"North Wales; U.K.","GB",0,1
 "North West America",,0,1
+"North West America [U.S.A.]","US",0,1
 "North West Australia","AU",0,1
+"North West Ireland [Atlantic Ocean]","IE",0,1
+"North West of Ireland; [Atlantic Ocean]","IE",0,1
+"North West Persia",,0,1
+"North West Spain","ES",0,1
 "North. South America",,0,1
 "Northeast coast of St. Vincent, B.W.I.","VC",0,1
 "Northeastern United States","US",0,1
+"Northern Angola","AO",0,1
 "Northern Australia","AU",0,1
 "Northern Borneo",,0,1
 "Northern Burma","MM",0,1
 "Northern Cyprus","CY",0,1
+"Northern Ecuador","EC",0,1
+"Northern England; [U.K.]","GB",0,1
 "Northern Europe",,0,1
 "Northern Georgia","GE",0,1
 "Northern Greenland","GL",0,1
+"Northern Grenada","GD",0,1
+"Northern Grenada [Nicaragua]",,0,1
 "Northern Grenadines, B.W.I.","VC",0,1
 "Northern Guatemala","GT",0,1
+"Northern India","IN",0,1
 "Northern Ireland","GB",0,1
+"Northern Ireland; [U.K.]","GB",0,1
+"Northern Ireland; U.K.","GB",0,1
 "Northern Madagascar","MG",0,1
+"Northern Malawi","MW",0,1
 "Northern Mariana Islands","MP",1,1
 "Northern Marianas Island","MP",0,1
 "NORTHERN MARIANAS ISLANDS","MP",0,1
 "Northern New Guinea",,0,1
 "northern Nicaragua","NI",0,1
 "Northern Nigeria","NG",0,1
+"Northern Nigeria; Cameroons [Cameroon]",,0,1
 "Northern Peru","PE",0,1
 "Northern Region",,0,1
 "Northern Rhodesia","ZW",0,1
+"Northern Rhodesia [Zambia]","ZM",0,1
+"Northern Sudan","SD",0,1
 "Northern Tanganyika","TZ",0,1
+"Northern Tanzania","TZ",0,1
+"Northern United States [U.S.A.]","US",0,1
 "Northern Uruguay","UY",0,1
 "Northern Urundi","BI",0,1
+"North-west America",,0,1
 "Northwest Australia","AU",0,1
 "Northwest Bali","ID",0,1
+"North-west central Australia","AU",0,1
 "Northwest coast of St. Vincent, B.W.I.","VC",0,1
+"North-west India","IN",0,1
+"North-west Madagascar","MG",0,1
 "Northwest Region",,0,1
+"North-western Australia","AU",0,1
 "Northwestern Crete","GR",0,1
+"North-Western Egypt","EG",0,1
+"North-western India","IN",0,1
+"North-western Ireland","IE",0,1
+"North-western Madagascar","MG",0,1
 "Northwestern Taiwan","TW",0,1
 "Norway","NO",1,1
 "Norway ?","NO",0,1
 "Norway, Sweden, Finland or Russia",,0,1
 "Norway.","NO",0,1
+"Norwegian and Swedish frontier",,0,1
+"Norwegian Fjord","NO",0,1
 "NORWEGIAN SEA",,0,1
 "Nor-West Australia","AU",0,1
 "Not recorded",,0,1
@@ -3164,6 +3902,7 @@
 "Novaya Zembya","RU",0,1
 "Novaya Zemlya","RU",0,1
 "NR Barotseland","ZM",0,1
+"nr boundary of Sweden, Norway and Finland",,0,1
 "Nr. Coast of Gaboon","GA",0,1
 "Nr. New Britain Is.","PG",0,1
 "Nr. Somaliland ?","SO",0,1
@@ -3176,8 +3915,12 @@
 "NW. Celebes","ID",0,1
 "Nyamiland","BW",0,1
 "Nyasaland","MW",0,1
+"Nyasaland [Malawi]","MW",0,1
 "Nyasaland,  Rungwe ?","MW",0,1
+"Nyasaland; [Malawi]","MW",0,1
+"Nyassa Land [Malawi]","MW",0,1
 "Nyassaland","MW",0,1
+"Nyassaland [Malawi]","MW",0,1
 "Nyssaland","MW",0,1
 "Nzamiland","MW",0,1
 "O.F.S. Africa","ZA",0,1
@@ -3200,7 +3943,9 @@
 "off Ecuador","EC",0,1
 "Off England","GB",0,1
 "off Galapagos Is.","EC",0,1
+"Off Iceland","IS",0,1
 "off Japan","JP",0,1
+"Off Japan [Pacific Ocean]","JP",0,1
 "off Laysan Isle","US",0,1
 "Off Madagascar","MG",0,1
 "off Mauritius","MU",0,1
@@ -3208,6 +3953,7 @@
 "off N. Zealand","NZ",0,1
 "off N.E. Coast of Madagascar","MG",0,1
 "Off N.W. France","FR",0,1
+"off N.W. Madagascar","MG",0,1
 "off New Zealand","NZ",0,1
 "off Newfoundland","CA",0,1
 "OFF PANAMA","PA",0,1
@@ -3224,6 +3970,7 @@
 "Off W. Scotland","GB",0,1
 "Off W. Sumatra","ID",0,1
 "off West Coast of Malay Peninsula",,0,1
+"off West Patagonia [Pacific Ocean]","CL",0,1
 "off Yugo slavia",,0,1
 "Oklahoma","US",0,1
 "Olorua I.","FJ",0,1
@@ -3244,9 +3991,11 @@
 "Orkney Is.","GB",0,1
 "Orkney Islands","GB",0,1
 "Orkney or Shetland Is.","GB",0,1
+"Otaheite [Tahiti]","PF",0,1
 "Otego","US",0,1
 "Ouham-Pende","CF",0,1
 "Outer Hebrides","GB",0,1
+"Outer Mongolia","MN",0,1
 "Ovalau I.","FJ",0,1
 "P. Guianea","PG",0,1
 "P. Is.",,0,1
@@ -3257,6 +4006,7 @@
 "P.P. India","IN",0,1
 "Pac. coast of Colombia","CO",0,1
 "Pacific",,0,1
+"Pacific [Ocean]",,0,1
 "Pacific coast of Colombia","CO",0,1
 "Pacific O.",,0,1
 "Pacific Ocean",,0,1
@@ -3270,10 +4020,12 @@
 "Palawan Island","PH",0,1
 "Palestine","PS",1,1
 "Palestine ?","PS",0,1
+"Palestine [Israel]",,0,1
 "Palestine Egypt","EG",0,1
 "Palestine, Egypt","EG",0,1
 "Palestine, Jordan","JO",0,1
 "Palestine, Lebanon","LB",0,1
+"Palestine; [Israel?]",,0,1
 "Palestine?","PS",0,1
 "Palmer Archipelago",,0,1
 "PAN","PA",0,1
@@ -3281,6 +4033,8 @@
 "Panama","PA",1,1
 "Panama (?)","PA",0,1
 "Panama (captive)","PA",0,1
+"Panama ?","PA",0,1
+"Panama [?]","PA",0,1
 "Panama [illeg]","PA",0,1
 "Panama Bay","PA",0,1
 "Panama C.Z.","PA",0,1
@@ -3348,6 +4102,7 @@
 "Peruvian Amazons","PE",0,1
 "Philip.","PH",0,1
 "Philippine","PH",0,1
+"Philippine [Philippines]","PH",0,1
 "Philippine I.","PH",0,1
 "Philippine Ids.","PH",0,1
 "PHILIPPINE IS","PH",0,1
@@ -3355,6 +4110,7 @@
 "Philippine Isl.","PH",0,1
 "PHILIPPINE ISLAND/S","PH",0,1
 "PHILIPPINE ISLANDS","PH",0,1
+"Philippine Islands [Philippines]","PH",0,1
 "Philippine Isls.","PH",0,1
 "PhilippineI.","PH",0,1
 "Philippines","PH",1,1
@@ -3383,6 +4139,7 @@
 "POLAND (?)","PL",0,1
 "Poland ?","PL",0,1
 "Polillo Is.","PH",0,1
+"Polynesia","PF",0,1
 "POMERANIA","DE",0,1
 "Pommern","PG",0,1
 "Ponape' I.","FM",0,1
@@ -3393,22 +4150,30 @@
 "Port. Guinea","GW",0,1
 "Porto Rica","PR",0,1
 "Porto Rico","PR",0,1
+"Porto Rico [Puerto Rico]","PR",0,1
 "Porto Rico?","PR",0,1
 "Portu. E. Africa","MZ",0,1
 "Portug. E. Africa","MZ",0,1
 "Portugal","PT",1,1
+"Portugal (Province of Algarve)","PT",0,1
 "Portugese Africa","MZ",0,1
 "Portugese Guinea","GW",0,1
+"Portugese India","IN",0,1
 "Portugese Zambia","ZM",0,1
 "Portugies Guinea","GW",0,1
 "Portuguese",,0,1
 "Portuguese Africa","MZ",0,1
 "Portuguese E. Africa","MZ",0,1
+"Portuguese E. Africa [Mozambique]","MZ",0,1
 "Portuguese East Afr.?","MZ",0,1
 "Portuguese East Africa","MZ",0,1
+"Portuguese East Africa [Mozambique]","MZ",0,1
+"Portuguese East Africa; [Mozambique]","MZ",0,1
 "Portuguese Guiana","GW",0,1
 "Portuguese Guinea","GW",0,1
+"Portuguese Guinea; [Guinea]","GW",0,1
 "Portuguese W. Africa","AO",0,1
+"Portuguese West Africa","AO",0,1
 "Prince Edward I.","CA",0,1
 "PRINCE EDWARD IS","CA",0,1
 "Prince Edward Island Cape","CA",0,1
@@ -3416,7 +4181,15 @@
 "Prince of Wales Island","US",0,1
 "Principe I","ST",0,1
 "Principe Is.","ST",0,1
+"prob. Australia","AU",0,1
 "Prob. S. Australia","AU",0,1
+"Prob. W. of N. America",,0,1
+"Probably from N.W. Scotland; [U.K.]","GB",0,1
+"Probably from Nigeria","NG",0,1
+"'Probably Mediterranean'",,0,1
+"'Probably Sierra Leone but uncertain'","SL",0,1
+"Probably Singapore","SG",0,1
+"Probably U.S.A. (South)","US",0,1
 "Prov. Nigeria","NG",0,1
 "Prussia",,0,1
 "Pskov","RU",0,1
@@ -3432,6 +4205,7 @@
 "Queensland","AU",0,1
 "Quito","EC",0,1
 "R.P.",,0,1
+"R.S.A; [South Africa]","ZA",0,1
 "Rangwe","KE",0,1
 "Rapa Is.","PF",0,1
 "Rapa Island","PF",0,1
@@ -3468,11 +4242,17 @@
 "REVILLAGIGEDOS IS","MX",0,1
 "Rhodesia","ZW",0,1
 "Rhodesia ?","ZW",0,1
+"Rhodesia [Zambia / Zimbabwe]",,0,1
+"Rhodesia [Zambia]","ZM",0,1
+"Rhodesia [Zimbabwe]","ZW",0,1
+"Rhodesia Zimbabwe]","ZW",0,1
 "Rhodesia?","ZW",0,1
 "Rhodis I.","GR",0,1
 "Rimgwe","TZ",0,1
 "Rio de Hanabana","CU",0,1
 "Rodesia","ZW",0,1
+"Rodrigues","MU",0,1
+"Rodriguez","MU",0,1
 "Rodriguez Is.","MU",0,1
 "Roma Is.","AU",0,1
 "Romani","RO",0,1
@@ -3490,6 +4270,7 @@
 "ROSS DEPENDENCY","AQ",0,1
 "Ross Sea",,0,1
 "Rossel Is.","PG",0,1
+"Rotterdam","NL",0,1
 "Rotumah","FJ",0,1
 "Rotumah I.","FJ",0,1
 "Roumainia","RO",0,1
@@ -3505,6 +4286,7 @@
 "Russia","RU",1,1
 "Russia (South)","RU",0,1
 "Russia ?","RU",0,1
+"Russia [U.S.S.R.]","RU",0,1
 "Russia or Mongolia",,0,1
 "Russia, Finland",,0,1
 "Russian Altai","RU",0,1
@@ -3528,12 +4310,14 @@
 "S Morocco","MA",0,1
 "S Nigeria","NG",0,1
 "S of Celebes","ID",0,1
+"'S of W Africa'",,0,1
 "S Russia","RU",0,1
 "S SANDWICH IS","GS",0,1
 "S Siberia","RU",0,1
 "S Spain","ES",0,1
 "S W. China","CN",0,1
 "S, Morocco","MA",0,1
+"S. & W. Africa",,0,1
 "S. Abysinia",,0,1
 "S. Abysinnia",,0,1
 "S. Abyss.",,0,1
@@ -3545,12 +4329,22 @@
 "S. Afr.","ZA",0,1
 "S. Africa","ZA",0,1
 "S. Africa ?","ZA",0,1
+"S. Africa [?]","ZA",0,1
+"S. Africa [Botswana]","BW",0,1
+"'S. Africa' [South Africa]","ZA",0,1
 "S. Africa, Cape Colony","ZA",0,1
 "S. Africa, Transvaal","ZA",0,1
 "S. Africa?","ZA",0,1
 "S. Albania","AL",0,1
 "S. Algeria","DZ",0,1
 "S. Algeria, Morocco",,0,1
+"S. America",,0,1
+"S. America [Brazil]","BR",0,1
+"S. America [Chile]","CL",0,1
+"S. America [Uruguay]","UY",0,1
+"S. America or W. Indies",,0,1
+"S. America; [Argentina]","AR",0,1
+"S. America; [Grenada]","GD",0,1
 "S. Andaman","IN",0,1
 "S. Andaman I","IN",0,1
 "S. Andaman I.","IN",0,1
@@ -3563,6 +4357,8 @@
 "S. Annam","VE",0,1
 "S. Arabia","SA",0,1
 "S. Argentina","AR",0,1
+"S. Atlantic",,0,1
+"S. Atlantic Ocean",,0,1
 "S. Aust.","AU",0,1
 "S. Australia","AU",0,1
 "S. Bolivia","BO",0,1
@@ -3618,6 +4414,7 @@
 "S. England","GB",0,1
 "S. Eritrea","ER",0,1
 "S. Ethiopia","ET",0,1
+"S. Europe",,0,1
 "S. Flores",,0,1
 "S. Flores I",,0,1
 "S. Flores I.",,0,1
@@ -3640,6 +4437,7 @@
 "S. India","IN",0,1
 "S. India - Malay",,0,1
 "S. India ?","IN",0,1
+"S. Indian Ocean",,0,1
 "S. Italy","IT",0,1
 "S. Japan","JP",0,1
 "S. Java","ID",0,1
@@ -3647,6 +4445,7 @@
 "S. Java Is.","ID",0,1
 "S. Kameroon","CM",0,1
 "S. Kamerun","CM",0,1
+"S. Kazakhstan","KZ",0,1
 "S. Khartum","SD",0,1
 "S. Kurdestan",,0,1
 "S. Leone","SL",0,1
@@ -3693,14 +4492,17 @@
 "S. of Malay Pen.",,0,1
 "S. of Morocco","MA",0,1
 "S. of N. Guinea",,0,1
+"S. of N.Z.","NZ",0,1
 "S. of New Guinea",,0,1
 "S. of New Zealand","NZ",0,1
 "S. of Sumatra","ID",0,1
 "S. of Sumba",,0,1
 "S. Orkney Is.",,0,1
+"S. Pacific",,0,1
 "S. Palestine","PS",0,1
 "S. Persia",,0,1
 "S. Peru","PE",0,1
+"S. Portugal","PT",0,1
 "S. Prussia",,0,1
 "S. Rhodesia","ZW",0,1
 "S. Rhodiesia","ZW",0,1
@@ -3712,6 +4514,7 @@
 "S. Russia-W. China",,0,1
 "S. Sardenia","IT",0,1
 "S. Scotland","GB",0,1
+"S. Scotland; U.K.","GB",0,1
 "S. Serbia","RS",0,1
 "S. Shan States","MM",0,1
 "S. Shetland Is.","AQ",0,1
@@ -3738,6 +4541,7 @@
 "S. Victoria Land","AQ",0,1
 "S. W. Australia","AU",0,1
 "S. W. Coast of Madagascar","MG",0,1
+"S. Wales","GB",0,1
 "S. Wert Is.",,0,1
 "S. West Australia","AU",0,1
 "S. West Australia?","AU",0,1
@@ -3757,6 +4561,9 @@
 "S./West Australia","AU",0,1
 "S./West Australia, coast","AU",0,1
 "S.A.",,0,1
+"S.A. [South Australia]","AU",0,1
+"S.Africa","ZA",0,1
+"S.America",,0,1
 "S.Br. New Guinea","PG",0,1
 "S.C. Australia","AU",0,1
 "S.C. D. New Guinea","ID",0,1
@@ -3772,6 +4579,7 @@
 "S.E Ethiopia","ET",0,1
 "S.E New Guinea","PG",0,1
 "S.E.  Ethiopia","ET",0,1
+"S.E. [Papua] New Guinea","PG",0,1
 "S.E. Abyssinia",,0,1
 "S.E. Africa",,0,1
 "S.E. Africa ?",,0,1
@@ -3848,6 +4656,7 @@
 "S.E. Sierre Leone","SL",0,1
 "S.E. Sumatra","ID",0,1
 "S.E. Sweden","SE",0,1
+"S.E. Tanganyika","TZ",0,1
 "S.E. Tibet","CN",0,1
 "S.E. Tunis","TN",0,1
 "S.E. Turkestan",,0,1
@@ -3876,15 +4685,18 @@
 "S.W. Argentina","AR",0,1
 "S.W. Australia","AU",0,1
 "S.W. Borneo",,0,1
+"S.W. Boundary of Uganda","UG",0,1
 "S.W. Celebes","ID",0,1
 "S.W. Chile","CL",0,1
 "S.W. China","CN",0,1
 "S.W. China ?","CN",0,1
 "S.W. coast Madagascar","MG",0,1
 "S.W. Coast New Ireland","PG",0,1
+"S.W. Coast of Iceland","IS",0,1
 "S.W. Colombia","CO",0,1
 "s.W. corner Bechuanaland","BW",0,1
 "S.W. Ecuador","EC",0,1
+"S.W. Europe",,0,1
 "S.W. Formosa","TW",0,1
 "S.W. France","FR",0,1
 "S.W. Germany","DE",0,1
@@ -3973,6 +4785,7 @@
 "Samoa I.",,0,1
 "Samoa Is.",,0,1
 "SAMOA ISLAND/S",,0,1
+"Samoa; [South Pacific Ocean]","WS",0,1
 "San Domingo","DO",0,1
 "San José",,0,1
 "San Salvador",,0,1
@@ -4000,6 +4813,8 @@
 "Sangir Is.","ID",0,1
 "Sansibar","TZ",0,1
 "Santa Cruz Is.",,0,1
+"Santa Lucia","LC",0,1
+"Santa Lucia [St Lucia]","LC",0,1
 "Santa Lucia, West Indies","LC",0,1
 "Santiago de Cuba","CU",0,1
 "Santo Domingo","DO",0,1
@@ -4012,9 +4827,12 @@
 "Sao Tome and Principe","ST",1,1
 "São Tomé and Príncipe","ST",1,1
 "Sarawak","MY",0,1
+"Sarawak; [Malaysia]","MY",0,1
+"Sarawak; Malaysia","MY",0,1
 "Sardenia","IT",0,1
 "SARDINIA","IT",0,1
 "Saren I",,0,1
+"Sargasso Sea",,0,1
 "Saru I",,0,1
 "Satonda I.","ID",0,1
 "Saudi Arab","SA",0,1
@@ -4029,18 +4847,25 @@
 "Saychelles Is.","SC",0,1
 "SC Kenya","KE",0,1
 "Scandinavia",,0,1
+"Schweiz","CH",0,1
+"Schweiz; [Switzerland]","CH",0,1
 "Scilly Islands","GB",0,1
 "Scot.","GB",0,1
 "SCOTIA SEA",,0,1
 "Scotland","GB",0,1
 "Scotland (Great Britain)","GB",0,1
 "Scotland ?","GB",0,1
+"Scotland [U.K.]","GB",0,1
 "Scotland or Ireland ?",,0,1
+"Scotland: U.K.","GB",0,1
+"Scotland; [U.K.]","GB",0,1
+"Scotland; U.K.","GB",0,1
 "SE ASIA",,0,1
 "SE Celebes","ID",0,1
 "SE N. Guinea",,0,1
 "SE. Celebes","ID",0,1
 "SE. Ethiopia","ET",0,1
+"Sea of Japan",,0,1
 "Seas of New Zealand","NZ",0,1
 "see card",,0,1
 "SE-Iceland","IS",0,1
@@ -4048,11 +4873,14 @@
 "Selayer I.","ID",0,1
 "Senagal","SN",0,1
 "Senegal","SN",1,1
+"Senegal (?)","SN",0,1
+"Senegal [?]","SN",0,1
 "Senegal Colony","SN",0,1
 "Senegal, Gambia",,0,1
 "Senegambia",,0,1
 "Sengal","SN",0,1
 "Serbia","RS",1,1
+"Serbia and Montenegro",,0,1
 "Serbia?","RS",0,1
 "Serdinia","IT",0,1
 "Sermatta I.","ID",0,1
@@ -4069,12 +4897,17 @@
 "Seychelle Islands","SC",0,1
 "Seychelles","SC",1,1
 "Seychelle's","SC",0,1
+"Seychelles [West Indian Ocean]","SC",0,1
 "Seychelles I.","SC",0,1
 "Seychelles Is","SC",0,1
 "Seychelles Is.","SC",0,1
 "Seychelles Islands","SC",0,1
 "Seychelles Isles","SC",0,1
 "SEYCHELLES/COMORROS",,0,1
+"Seychelles; [Indian Ocean]","SC",0,1
+"Seychelles; [West Indian Ocean]","SC",0,1
+"Seychelles; W. Indian Ocean","SC",0,1
+"Seychelles; West Indian Ocean","SC",0,1
 "SHELIKOF STRAIT","US",0,1
 "Shetland Is","GB",0,1
 "Shetland Is.","GB",0,1
@@ -4115,6 +4948,9 @@
 "Sinai Penins.","EG",0,1
 "Sinai Peninsula","EG",0,1
 "Singapore","SG",1,1
+"Singapore (?)","SG",0,1
+"Singapore ?","SG",0,1
+"Singapore?","SG",0,1
 "Singi Is.","ID",0,1
 "SINT EUSTATIUS","BQ",0,1
 "Sioban",,0,1
@@ -4133,6 +4969,7 @@
 "So. Abyssinia",,0,1
 "So. Africa","ZA",0,1
 "So. Algeria","DZ",0,1
+"So. America",,0,1
 "So. Brazil","BR",0,1
 "So. Cameroons","CM",0,1
 "So. Cent. Dutch New Guinea","ID",0,1
@@ -4177,6 +5014,7 @@
 "SOLOMON ISLAND/S","SB",0,1
 "Solomon Islands","SB",1,1
 "Solomon Islands: New Georgia Group","SB",0,1
+"Solomon Iss.","SB",0,1
 "Solomons","SB",0,1
 "Solomon's","SB",0,1
 "Solomon's I.","SB",0,1
@@ -4189,18 +5027,31 @@
 "Somliland","SO",0,1
 "Soroti","UG",0,1
 "Soudan","SD",0,1
+"Soudan [Sudan]","SD",0,1
 "South Africa","ZA",1,1
 "South Africa ?","ZA",0,1
+"South Africa [?]","ZA",0,1
+"'South Africa""","ZA",0,1
+"South Africa.","ZA",0,1
 "South Africa/Kenya",,0,1
+"South Africa; W.O.","ZA",0,1
+"South Africa?","ZA",0,1
 "SOUTH AMERICA",,0,1
+"'South America'",,0,1
 "SOUTH AMERICA (",,0,1
 "SOUTH AMERICA (BY INFERENCE)",,0,1
+"South America [Argentina]","AR",0,1
+"South America [Paraguay]","PY",0,1
 "South America?",,0,1
+"South American [Chile]","CL",0,1
 "South Andaman Is.","IN",0,1
 "South Annam","VE",0,1
 "SOUTH ARABIA",,0,1
+"South Arfica","ZA",0,1
 "South Atlantic",,0,1
 "SOUTH ATLANTIC COAST",,0,1
+"South Atlantic Ocean",,0,1
+"South Atlantic Ocean?",,0,1
 "South Australia","AU",0,1
 "South Bolivia","BO",0,1
 "South Brazil","BR",0,1
@@ -4211,10 +5062,13 @@
 "South Chile","CL",0,1
 "South China","CN",0,1
 "SOUTH CHINA SEA",,0,1
+"South Coast of Australia","AU",0,1
+"South Coast of India","IN",0,1
 "South coast of St. Vincent, B.W.I.","VC",0,1
 "South East Ethiopia","ET",0,1
 "South East I.",,0,1
 "South East Is.",,0,1
+"South East Madagascar","MG",0,1
 "South East of New Guinea","PG",0,1
 "South Eastern Brazil","BR",0,1
 "South end of San Tomè Is.","ST",0,1
@@ -4223,8 +5077,10 @@
 "South end San Thomé Is.","ST",0,1
 "South end San Tomé Is.","ST",0,1
 "South Ethiopia","ET",0,1
+"South Europe",,0,1
 "South Flores",,0,1
 "South Formosa","TW",0,1
+"South France","FR",0,1
 "South George I.","GS",0,1
 "South Georgia","GS",0,1
 "South Georgia & South Sandwich Islands","GS",0,1
@@ -4234,9 +5090,14 @@
 "SOUTH GEORGIA IS","GS",0,1
 "South Georgia Island","GS",0,1
 "South Germ. New Guinea","PG",0,1
+"South Greenland","GL",0,1
 "South Highlands",,0,1
 "South Iceland","IS",0,1
+"South India","IN",0,1
+"South Indian Ocean",,0,1
+"South Indian or Atlantic Ocean",,0,1
 "South Italy","IT",0,1
+"South Japan","JP",0,1
 "South Korea","KR",0,1
 "South Loo choo Is","JP",0,1
 "South Madagascar","MG",0,1
@@ -4245,22 +5106,30 @@
 "South New Guinea",,0,1
 "South Nigeria","NG",0,1
 "South Northwest Australia","AU",0,1
+"South Norway","NO",0,1
 "South of Australia","AU",0,1
 "South of Bonin Is.","JP",0,1
 "South of Burma","MM",0,1
 "South of Celebes","ID",0,1
+"South of France","FR",0,1
+"South of Iceland","IS",0,1
+"South of Ireland","IE",0,1
 "South of Madeira I.","PT",0,1
 "South of N. Zealand","NZ",0,1
 "South of New Guinea",,0,1
 "South of New Zealand","NZ",0,1
 "South Orkney Islands","AQ",0,1
 "South Pacific",,0,1
+"South Pacific (probably)",,0,1
 "SOUTH PACIFIC OCEAN",,0,1
 "South Peru","PE",0,1
+"South Portugal","PT",0,1
 "South Rhodesia","ZW",0,1
 "South Russia","RU",0,1
 "South Russia ?","RU",0,1
 "South Sea I's.",,0,1
+"South Seas",,0,1
+"'South Seas'",,0,1
 "South Shetland I.","AQ",0,1
 "SOUTH SHETLAND IS","AQ",0,1
 "South Shetland Islands","AQ",0,1
@@ -4276,15 +5145,24 @@
 "South West Africa","NA",0,1
 "South West Angola","AO",0,1
 "South West Australia","AU",0,1
+"South West Greenland","GL",0,1
 "South West I.",,0,1
+"South West Iceland","IS",0,1
+"South West Ireland","IE",0,1
 "South West Is",,0,1
 "South West I's",,0,1
 "South West Is.",,0,1
 "South West I's.",,0,1
+"South West Japan","JP",0,1
+"South West of Iceland; [Atlantic Ocean]","IS",0,1
+"South West of Ireland; [Atlantic Ocean]","IE",0,1
+"South West Uganda","UG",0,1
 "South West. Is.",,0,1
 "South Yemen","YE",0,1
+"South-east Africa",,0,1
 "Southeast Asia",,0,1
 "Southeast Brazil","BR",0,1
+"South-east coast of Madagascar","MG",0,1
 "southeast N. Guinea",,0,1
 "Southeast New Guinea",,0,1
 "southeastern Iran (Kirman)","IR",0,1
@@ -4295,6 +5173,7 @@
 "Southern Cameroon","CM",0,1
 "southern Cameroons","CM",0,1
 "Southern Coast of Greenland","GL",0,1
+"Southern Ethiopa","ET",0,1
 "Southern Ethiopia","ET",0,1
 "SOUTHERN EUROPE",,0,1
 "Southern French Cameroon","CM",0,1
@@ -4302,6 +5181,8 @@
 "southern Iran","IR",0,1
 "Southern Island of N. Zealand","NZ",0,1
 "Southern Kenya","KE",0,1
+"Southern Mexico","MX",0,1
+"Southern Mongolia","MN",0,1
 "Southern N. Hebrides","VU",0,1
 "Southern New Hebrides","VU",0,1
 "Southern Nigeria","NG",0,1
@@ -4311,14 +5192,21 @@
 "Southern Russia","RU",0,1
 "Southern Ryukyus","JP",0,1
 "Southern Somalia","SO",0,1
+"Southern Spain","ES",0,1
 "Southern St. Vincent, B.W.I.","VC",0,1
 "Southern Syria","SY",0,1
+"Southern United States","US",0,1
 "Southern Uruguay","UY",0,1
 "Southwest Africa","NA",0,1
+"South-west Africa",,0,1
 "South-West Africa (Nambia)","NA",0,1
+"South-West Africa [Namibia]","NA",0,1
 "Southwest Africa Protectorate","NA",0,1
 "Southwest Australia","AU",0,1
+"South-west Iceland","IS",0,1
 "Southwest Is.",,0,1
+"South-west Madagascar","MG",0,1
+"South-western Iceland","IS",0,1
 "SOVIET UNION",,0,1
 "Sp. Honduras","HN",0,1
 "Sp. W. Africa","EH",0,1
@@ -4343,17 +5231,21 @@
 "ST KITTS","KN",0,1
 "St Lucia","LC",0,1
 "St Lucia, WI","LC",0,1
+"St Lucia; [West Indies]","LC",0,1
 "ST MARTIN","SX",0,1
 "St Mathias I.","PG",0,1
 "St Vincent","VC",0,1
 "St. Aignan I.","PG",0,1
 "ST. AMDREW ISLAND",,0,1
 "St. Christopher","KN",0,1
+"St. Helena","SH",0,1
 "St. Helena I.","SH",0,1
 "St. Kilda","GB",0,1
 "St. Kilda I.","GB",0,1
 "St. Kitts","KN",0,1
 "St. Lucia","LC",0,1
+"St. Lucia; [West Indies]","LC",0,1
+"St. Lucia; West Indies","LC",0,1
 "St. Mathias I.","PG",0,1
 "St. Matthias","PG",0,1
 "St. Matthias I","PG",0,1
@@ -4368,6 +5260,7 @@
 "St. Vincent and the Grenadines","VC",0,1
 "St. Vincent, B.W.I.","VC",0,1
 "St. Vincent; West Indies","VC",0,1
+"St.Lucia","LC",0,1
 "Stewart Island","NZ",0,1
 "Sto. Domingo","DO",0,1
 "Storm I","PG",0,1
@@ -4434,8 +5327,10 @@
 "Swaziland","SZ",1,1
 "Sweden","SE",1,1
 "Sweden ?","SE",0,1
+"Sweden [Norway]",,0,1
 "Sweden?","SE",0,1
 "Swedish Lapland","SE",0,1
+"Swedish Lapland [Sweden]","SE",0,1
 "Swedon","SE",0,1
 "SW-Iceland","IS",0,1
 "SWITZ","CH",0,1
@@ -4480,6 +5375,7 @@
 "Tangangika Terr.","TZ",0,1
 "Tangangika Territory","TZ",0,1
 "Tanganyika","TZ",0,1
+"Tanganyika [Tanzania]","TZ",0,1
 "Tanganyika [Tanzania], Africa","TZ",0,1
 "Tanganyika Ter.","TZ",0,1
 "Tanganyika Terr.","TZ",0,1
@@ -4575,6 +5471,7 @@
 "Tonga I's.","TO",0,1
 "Tonga Island","TO",0,1
 "Tonga Islands","TO",0,1
+"Tonga Iss.","TO",0,1
 "Tonkin","VN",0,1
 "Toro Uganda","UG",0,1
 "Torres Islands","VU",0,1
@@ -4592,20 +5489,28 @@
 "Transvaal","ZA",0,1
 "Transylvania","RO",0,1
 "Trinadad and Tobago","TT",0,1
+"Trindad [Trinida and Tobago]","TT",0,1
 "Trinida","TT",0,1
 "Trinidad","TT",0,1
 "TRINIDAD & TOBAGO","TT",0,1
+"Trinidad (?)","TT",0,1
 "Trinidad ?","TT",0,1
+"Trinidad [?]","TT",0,1
+"Trinidad [Venezuela]",,0,1
 "Trinidad and Tobago","TT",1,1
 "Trinidad and Tobago & TOBAGO","TT",0,1
 "Trinidad I.","TT",0,1
 "Trinidad Is.","TT",0,1
 "Trinidad or Venezuela",,0,1
+"Trinidad(?)","TT",0,1
 "Trinidad, B.W.I.","TT",0,1
 "Trinïdad, S.A","TT",0,1
 "Trinidad, S.A.","TT",0,1
 "TRINIDAD/TOBAGO","TT",0,1
+"Trinidad; [West Indies]","TT",0,1
+"Trinidad; British West Indies","TT",0,1
 "Trinidad?","TT",0,1
+"Trinidad? also Mexico",,0,1
 "Trinité",,0,1
 "Tripoli","LY",0,1
 "Tristan da Cunha","SH",0,1
@@ -4615,6 +5520,9 @@
 "Tristan de Cunha Island","SH",0,1
 "Tristanda Cunha Is.","SH",0,1
 "Trobriand Is.","PG",0,1
+"Tropical Africa",,0,1
+"Tropical America",,0,1
+"Tropical Mexico","MX",0,1
 "TUAMOTU ARCH","PF",0,1
 "Tuamotu Arch.","PF",0,1
 "Tuamotu Archipelago","PF",0,1
@@ -4642,6 +5550,8 @@
 "Tunusia","TN",0,1
 "Turkestan",,0,1
 "Turkestan ?",,0,1
+"Turkestan [Kazakhstan]",,0,1
+"Turkestan; [Kazakhstan]",,0,1
 "Turkestan?",,0,1
 "Turkeston",,0,1
 "Turkey","TR",1,1
@@ -4670,13 +5580,16 @@
 "U. S. Virgin Isls.","VI",0,1
 "U..P. India","IN",0,1
 "U.K","GB",0,1
+"U.K.","GB",0,1
 "U.P. India","IN",0,1
 "U.S.","US",0,1
+"U.S. America [U.S.A.]","US",0,1
 "U.S. Virgin Islands","VI",0,1
 "U.S.A","US",0,1
 "U.S.A.","US",0,1
 "U.S.A. ?","US",0,1
 "U.S.A./Canada",,0,1
+"U.S.S.R",,0,1
 "U.S.S.R.",,0,1
 "U.S.S.R., Black Sea",,0,1
 "UAS","US",0,1
@@ -4685,6 +5598,7 @@
 "Uganda & E. Africa",,0,1
 "Uganda & Zaire",,0,1
 "Uganda ?","UG",0,1
+"Uganda and Northern Rhodesia",,0,1
 "Uganda Colony","UG",0,1
 "Uganda or Bel. Congo",,0,1
 "Uganda or Kenya",,0,1
@@ -4702,13 +5616,17 @@
 "United Kingdom","GB",1,1
 "United Kingdom of Great Britain","GB",0,1
 "United Kingdom?","GB",0,1
+"United Republic of Tanzania","TZ",0,1
 "United Sta","US",0,1
 "United States","US",1,1
+"United States [U.S.A.]","US",0,1
 "United States Minor Outlying Islands","UM",1,1
 "United States of America","US",0,1
+"'United States of America' [U.S.A.]","US",0,1
 "United States Virgin Islands","VI",0,1
 "United States-Mexico",,0,1
 "UNKNOWN",,0,1
+"UNR",,0,1
 "Unyoro","UG",0,1
 "Up. Assam","VE",0,1
 "Up. Burma","MM",0,1
@@ -4727,6 +5645,7 @@
 "Upper Egypt","EG",0,1
 "Upper Egypt ?","EG",0,1
 "Upper Eqypt","EG",0,1
+"Upper Nubia","SD",0,1
 "Upper Volta","BF",0,1
 "Uraguay","UY",0,1
 "Uruguay","UY",1,1
@@ -4775,6 +5694,7 @@
 "Venezuela, S.A.","VE",0,1
 "Venezuèla, S.A.","VE",0,1
 "Venezuela, Surinam",,0,1
+"Venezuela; [West Indies]","VE",0,1
 "Venezuela?","VE",0,1
 "Venzuela","VE",0,1
 "Venzuela or Trinidad",,0,1
@@ -4821,6 +5741,9 @@
 "W.  Sumatra","ID",0,1
 "W. A.",,0,1
 "W. Africa",,0,1
+"W. Africa [Ghana]","GH",0,1
+"W. Africa; [The Gambia / Senegal]",,0,1
+"W. Africa; Cameroon","CM",0,1
 "W. Algeria","DZ",0,1
 "W. Angola","AO",0,1
 "W. Arabia",,0,1
@@ -4845,6 +5768,7 @@
 "W. China","CN",0,1
 "W. China, E. Tibet","CN",0,1
 "W. China?","CN",0,1
+"W. Coast of Africa [Ghana]","GH",0,1
 "W. Coast of C. America",,0,1
 "W. Coast of Ecuador","EC",0,1
 "W. Coast of Greenland","GL",0,1
@@ -4871,6 +5795,8 @@
 "W. I.",,0,1
 "W. Iceland","IS",0,1
 "W. India","IN",0,1
+"W. Indian Ocean",,0,1
+"W. Indian Ocean [Seychelles]","SC",0,1
 "W. Indies",,0,1
 "W. Indies, Antigua","AG",0,1
 "W. Indies, Antigua I","AG",0,1
@@ -4952,9 +5878,11 @@
 "W. of Mexico","MX",0,1
 "W. of Molucca Is.","ID",0,1
 "W. of Moluccas","ID",0,1
+"W. of N. America",,0,1
 "W. of N. Ireland","PG",0,1
 "W. of N. Madagascar","MG",0,1
 "W. of New Guinea","ID",0,1
+"W. of North America?",,0,1
 "W. of Peru","PE",0,1
 "W. of Scotland","GB",0,1
 "W. of South Africa","ZA",0,1
@@ -5014,6 +5942,7 @@
 "W.I.; Bahama","BS",0,1
 "W.I.; Guadeloupe","GP",0,1
 "W.I.; Porto Rico","PR",0,1
+"W.Kenya","KE",0,1
 "W.N. America",,0,1
 "W.S. Australia","AU",0,1
 "W.S. Colombia","CO",0,1
@@ -5028,6 +5957,8 @@
 "Wake I.","US",0,1
 "Wake Island","US",0,1
 "Wales","GB",0,1
+"Wales; [U.K.]","GB",0,1
+"Wales; U.K.","GB",0,1
 "Wallis I.","WF",0,1
 "Wangava I.","FJ",0,1
 "WEDDELL SEA","AQ",0,1
@@ -5036,6 +5967,15 @@
 "W'ern Senegal Col.","SN",0,1
 "W'ern Senegal Colony","SN",0,1
 "West Africa",,0,1
+"'West Africa'",,0,1
+"West Africa [Gambia / Senegal]",,0,1
+"West Africa [South Africa]",,0,1
+"'West Africa""",,0,1
+"West Africa; [Gabon]","GA",0,1
+"West Africa; [Ghana]","GH",0,1
+"West Africa; [Senegal]","SN",0,1
+"West Africa; Gambia","GA",0,1
+"West Africa?",,0,1
 "West Australia","AU",0,1
 "West Australia Coast.","AU",0,1
 "West Bank",,0,1
@@ -5043,17 +5983,21 @@
 "West Burma","MM",0,1
 "West Ceylon","LK",0,1
 "West China","CN",0,1
+"West Coast of Africa",,0,1
 "West Coast of Ecuador","EC",0,1
 "West Coast of Greenland","GL",0,1
 "West Coast of Ireland","IE",0,1
+"West coast of Madagascar","MG",0,1
 "West Coast of N. Zealand","NZ",0,1
 "West coast of St. Vincent, B.W.I.","VC",0,1
 "West Colombia","CO",0,1
 "West Ecuador","EC",0,1
 "West Falkland","FK",0,1
 "West Falkland Islands","FK",0,1
+"West frica",,0,1
 "WEST GERMANY","DE",0,1
 "West Greenland","GL",0,1
+"West Indian Cruise",,0,1
 "WEST INDIAN OCEAN",,0,1
 "West Indies",,0,1
 "West Indies - (Lesser Ant.)",,0,1
@@ -5100,24 +6044,39 @@
 "West Indies; Santo Domingo","DO",0,1
 "West Indies; Tobago","TT",0,1
 "West Indies?",,0,1
+"West Ireland","IE",0,1
 "West Irian","ID",0,1
 "West Java","ID",0,1
+"West Kenya","KE",0,1
 "West Madagascar","MG",0,1
+"West Mexico","MX",0,1
 "West New Guinea","ID",0,1
+"West of Ireland; [Atlantic Ocean]","IE",0,1
 "West of Key Is.","ID",0,1
 "West of Panama","PA",0,1
+"West of Scotland","GB",0,1
 "West of Sumatra","ID",0,1
+"West Pacific",,0,1
 "West Pakistan","PK",0,1
+"West Patagonia",,0,1
 "West Russia","RU",0,1
 "West Senegal","SN",0,1
 "West Sumatra I.","ID",0,1
+"West Zambia","ZM",0,1
+"Western Africa",,0,1
 "Western Asia",,0,1
 "Western Australia","AU",0,1
+"Western Canary Islands","ES",0,1
 "Western China","CN",0,1
 "western Colombia","CO",0,1
 "Western Columbia","CO",0,1
 "western Ecuador","EC",0,1
+"Western Indian Ocean",,0,1
+"Western Ireland","IE",0,1
 "Western Italian Somaliland","SO",0,1
+"Western Japan","JP",0,1
+"Western Kenya","KE",0,1
+"Western Madagascar","MG",0,1
 "Western Mexico","MX",0,1
 "Western Panama","PA",0,1
 "Western Sahara","EH",1,1
@@ -5126,7 +6085,10 @@
 "Western Senegal Colony","SN",0,1
 "Western Spain","ES",0,1
 "Western Taiwan","TW",0,1
+"Western U.S.A.","US",0,1
+"Western United States [U.S.A.]","US",0,1
 "White Nile",,0,1
+"White Sea","RU",0,1
 "Wiagiou Is.",,0,1
 "Windward coast of St. Vincent, B.W.I.","VC",0,1
 "Windward Islands",,0,1
@@ -5155,9 +6117,11 @@
 "Yugo-Slavia, Hercegovina","BA",0,1
 "Yunnan","CN",0,1
 "Zaire","CD",0,1
+"Zaire [Congo]","CD",0,1
 "Zambia","ZM",1,1
 "Zambia (Northern Rhodesia)","ZM",0,1
 "Zambia / Zimbabwe",,0,1
+"Zambia [N. Rhodesia]","ZM",0,1
 "Zansibar","TZ",0,1
 "Zansibar Insel.","TZ",0,1
 "Zanzibar","TZ",0,1

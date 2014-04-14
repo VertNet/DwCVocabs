@@ -55,7 +55,21 @@
 "(Type? -); Type","holotype",0,1
 "(Type?)","holotype",0,1
 ".",,0,1
+"? status",,0,0
+"? Type",,0,0
+"?Co-Type",,0,0
+"?Figured",,0,0
+"?Neotype",,0,0
+"?Possible Type",,0,0
+"?Type",,0,0
+"[?Type]",,0,0
+"[Co-type]",,0,0
+"[Holotype]",,0,0
 "[illeg] Type of D.Orbigny","holotype",0,1
+"[Paratype]",,0,0
+"[Paratypes]",,0,0
+"[SYNTYPE]",,0,0
+"[Type]",,0,0
 "= (type of idoneus Ridgway)","holotype",0,1
 "= TYPE: C. walteri","holotype",0,1
 "2 SYNTYPES in U.S.N.M.",,0,1
@@ -63,7 +77,7 @@
 "A","allotype",0,1
 "A type","holotype",0,1
 "Abronia",,0,1
-"allotype",,0,0
+"allotype","allotype",1,1
 "ALLOTYPE OF DEIROCHELYS RETICULARIA CHRYSEA",,0,0
 "ALLOTYPE OF EURYCEA NANA",,0,0
 "ALLOTYPE OF NECTURUS MACULOSUS STICTUS",,0,0
@@ -72,6 +86,8 @@
 "ALLOTYPE OF SYNCOPE ANTENORI",,0,0
 "ALLOTYPE OF TRITURUS GRANULOSUS TWITTYI",,0,0
 "ALLOTYPE OF TRITURUS PERSTRIATUS",,0,0
+"authentic",,0,0
+"authentic material",,0,0
 "Chapin TYPE","holotype",0,1
 "Co - Type","syntype",0,1
 "Co TYPE","syntype",0,1
@@ -81,11 +97,16 @@
 "Cotype [=Paratype]",,0,0
 "Co-TYPE of Oestrelata nigripennis","syntype",0,1
 "Co-Type specimen","syntype",0,1
+"Co-type?",,0,0
+"Co-types",,0,0
 "DM Harris",,0,1
+"drawing of type",,0,0
+"epitype","epitype",1,1
 "ex Holotype","holotype",0,1
 "ex MS Holotype","holotype",0,1
 "ex MS Paratype(s)","paratype",0,1
 "ex Paratype","paratype",0,1
+"Figured",,0,0
 "from Type Locality",,0,0
 "G",,0,0
 "H","holotype",0,1
@@ -93,8 +114,9 @@
 "holotype","holotype",1,1
 "Holotype (at USNM)",,0,0
 "Holotype (MS)","holotype",0,1
+"holotype fragment","holotype",0,1
 "HOLOTYPE HYLA RIVEROI, COCHRAN AND GOIN, 1970, U.S. NATL. MUS. BULL., 288:284",,0,0
-"HOLOTYPE OF",,0,0
+"HOLOTYPE OF","holotype",0,1
 "HOLOTYPE OF  LEPIDODACTYLUS NAUJANENSIS, TAYLOR, 1919, PHILIPPINE JOUR. SCI., 14:113",,0,0
 "HOLOTYPE OF  TYPHLOPS DENDROPHIS, TAYLOR, 1922, PHILIPPINE BUR. SCI., PUBL. 16:60",,0,0
 "HOLOTYPE OF ABRONIA ANZUETOI",,0,0
@@ -2221,8 +2243,19 @@
 "holoype?",,0,0
 "Holoytpe of Amphispiza belli xerophilus",,0,0
 "iguana",,0,1
+"isolectotype","isolectotype",1,1
+"isolectotype fragment",,0,0
+"isoneotype","isoneotype",1,1
+"isoparatype","isoparatype",1,1
+"isosyntype","isosyntype",1,1
+"isotopotype","isotopotype",1,1
+"isotype","isotype",1,1
+"isotype fragment","isotype",1,1
 "Lecto(Type) of rupestris","lectotype",0,1
+"Lectoparatypes",,0,0
 "Lectotype","lectotype",1,1
+"Lectotype + Paratypes",,0,0
+"lectotype fragment","lectotype",1,1
 "LECTOTYPE OF AESTRELATA VOCIFERANS, SHUFELDT, R.W. 1916. THE BIRD-CAVES OF THE BERMUDAS AND THEIR FORMER INHABITANTS. IBIS, 623-637. PAGE 633, PUBLISHED 2 OCTOBER 1916.",,0,0
 "Lectotype of Aphantochroa cuvieri saturatior","Lectotype of Aphantochroa cuvieri saturatior",0,1
 "Lectotype of Calamoherpe ambigua","Lectotype of Calamoherpe ambigua",0,1
@@ -2249,7 +2282,10 @@
 "Lectotype of Traversia lyalli","Lectotype of Traversia lyalli",0,1
 "Lectotype of Zosterops japonica insularis","Lectotype of Zosterops japonica insularis",0,1
 "Lectotype of Zosterops smithi (Neumann, 1902)","Lectotype of Zosterops smithi (Neumann, 1902)",0,1
+"Lectotype proposed",,0,0
+"Lectotype; Lectoparatype",,0,0
 "marked Co-Type","syntype",0,1
+"microslide of type",,0,0
 "NEAR TOPOTYPE OF OTOCORYS NIGRIFRONS PRZEWALSKI",,0,0
 "NEAR-TOPOTYPE OF SAXICOLA MACULARIA QUOY & GAIMARD",,0,0
 "NEAR-TOPOTYPE; COLLECTED 12 MI SW OF TYPE LOCALITY MOUNT CARMEL",,0,0
@@ -2273,8 +2309,9 @@
 "non-types",,0,1
 "not a TYPE",,0,1
 "One of the TYPE","holotype",0,1
+"Original material",,0,1
 "P","paratype",0,1
-"PARALECTOTYPE",,0,0
+"PARALECTOTYPE","paralectotype",1,1
 "PARALECTOTYPE OF [AMMODRAMUS] [SANDWICHENSIS] [BRUNNESCENS], BUTLER, A. W. 1888. ON A NEW SUBSPECIES OF AMMODRAMUS SANDWICHENSIS FROM MEXICO ***NAMED COTYPE BUT NOT CONSUBSPECIFIC**. AUK, 264-266. PAGE 265, PUBLISHED JULY 1888.",,0,0
 "PARALECTOTYPE OF AESTRELATA VOCIFERANS, SHUFELDT, R.W. 1916. THE BIRD-CAVES OF THE BERMUDAS AND THEIR FORMER INHABITANTS. IBIS, 623-637. PAGE 633, PUBLISHED 2 OCTOBER 1916.",,0,0
 "PARALECTOTYPE OF ANOLIS CEPEDII EXTREMUS",,0,0
@@ -2294,6 +2331,7 @@
 "PARALECTOTYPE OF SCELOPORUS LONGIPES",,0,0
 "Paralectotype of Tamias bulleri bulleri (Allen)",,0,0
 "Paralectotype of Tamiasciurus hudsonicus mogollonensis ((Mearns))",,0,0
+"Paralectotypes",,0,0
 "PARALECTOTYPES OF ANOLIS GRISEUS",,0,0
 "PARATOPOTYES OF HYLA BOGERTI",,0,0
 "Paratopotype","paratopotype",1,1
@@ -3869,16 +3907,30 @@
 "PARATYPES PSEUDOEURYCEA EXSPECTATA",,0,0
 "PARATYPES PSEUDOPALUDICOLA BOLIVIANA",,0,0
 "PARATYPES TOMODACTYLUS GRANDIS",,0,0
+"photo of type",,0,0
 "pipiens",,0,1
+"possible holotype",,0,0
+"possible isosyntype",,0,0
+"possible isotype",,0,0
 "POSSIBLE PARATYPE OF PARUS MAJOR KAGOSHIMAE, TAKA-TSUKASA. 1919. DOBUTSUGAKU ZASSHI, 31:55.",,0,0
+"possible syntype",,0,0
+"possible type",,0,0
 "previous LACM type(s)",,0,1
+"probable holotype",,0,0
+"probable isolectotype",,0,0
+"probable isosyntype",,0,0
+"probable isotype",,0,0
+"probable syntype",,0,0
 "Probable syntype of lembeyi","syntype",0,1
+"probable type",,0,0
 "Probable type of Scolopax longirostris","holotype",0,1
+"probably not a type",,0,0
 "S",,0,0
 "Syn TYPE","syntype",0,1
 "Syn Type of P. superciliaris","syntype",0,1
 "Syn Type S.g. chapmani B[illeg][illeg][illeg][illeg]oz, 1941","syntype",0,1
 "Syntype","syntype",1,1
+"syntype fragment","syntype",0,1
 "SYNTYPE OF AETHOPYGA AROLASI BOURNS & WORCESTER",,0,0
 "SYNTYPE OF ANOLIS BOCOURTII",,0,0
 "SYNTYPE OF ANOLIS GORGONAE",,0,0
@@ -3958,6 +4010,8 @@
 "SYNTYPE OF VIREO HUTTONI UNITTI, REA, A. M. [IN PHILLIPS, A. R.]. 1991. KNOWN BIRDS OF NORTH & MIDDLE AMERICA. 185. PAGE 185, PUBLISHED 1991.",,0,0
 "SYNTYPE OF ZOSTEROPS SIQUIJORENSIS BOURNS & WORCESTER",,0,0
 "Syntype Tunneyi","syntype",0,1
+"Syntype?",,0,0
+"Syntypes",,0,0
 "SYNTYPES OF ANOLIS ASPER",,0,0
 "SYNTYPES OF ANOLIS CEPEDII CINEREUS",,0,0
 "SYNTYPES OF ANOLIS CEPEDII GENTILIS",,0,0
@@ -3975,6 +4029,7 @@
 "SYNTYPES OF SCINCUS OFFICINALIS LATERIMACULATA",,0,0
 "Syntypes, Paratypes","syntypes, paratypes",0,1
 "T","topotype",0,1
+"taxon ined.",,0,1
 "THIS SPECIMEN WAS ONE OF THE TYPE SERIES BUT NOT DESIGNATED A PARATYPE.",,0,0
 "TopeTYPE","topotype",0,1
 "Topotype","topotype",1,1
@@ -4174,10 +4229,12 @@
 "TYPE Drycopus javensis esthleterus","holotype",0,1
 "TYPE ex Cosquin, Cordova","holotype",0,1
 "TYPE ex Santa Marta","holotype",0,1
+"type fragment",,0,0
 "TYPE H. caerulea victoriae","holotype",0,1
 "Type Host",,0,0
 "TYPE if centralis","holotype",0,1
 "Type Lawr.","holotype",0,1
+"type material",,0,0
 "TYPE new genus & species","holotype",0,1
 "TYPE Not a Type ?",,0,1
 "Type of A. aquaticus major","holotype",0,1
@@ -4387,6 +4444,7 @@
 "TYPE of Turdus margaretae","holotype",0,1
 "Type of turneri","holotype",0,1
 "TYPE of ultima","holotype",0,1
+"Type of var.",,0,0
 "Type of venusta(?)","holotype",0,1
 "TYPE of Veraguensis","holotype",0,1
 "Type of viridissima","holotype",0,1
@@ -4430,7 +4488,9 @@
 "Type?? Type of saulae","holotype",0,1
 "TYPE=aberration of barrali","holotype",0,1
 "TYPEof tucopiae","holotype",0,1
+"Types",,0,0
 "TYPES OF SPHAERODACTYLUS GAIGEAE",,0,0
+"Types of var.",,0,0
 "Type-specimen","holotype",0,1
-"Unverified",,0,0
+"Unverified",,0,1
 "Winter TYPE","holotype",0,1

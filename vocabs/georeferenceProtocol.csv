@@ -1,5 +1,6 @@
 "georeferenceProtocol","standardgeoreferenceProtocol","standard","checked"
 "	Georeferencing Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"[ORNIS]GeoreferenceProtocol","VertNet Georeferencing Guidelines",0,1
 "0914","not recorded",0,1
 "1986 Rand McNally Road Atlas (location of mountains), TopoZone.com 1:250,000 (coordinates)","not recorded",0,1
 "2931CC","not recorded",0,1
@@ -100,6 +101,7 @@
 "Google Maps, WGS84","not recorded",0,1
 "Google Maps, WGS84, extent .1 mi","not recorded",0,1
 "Google Maps, WGS84, July 2011","not recorded",0,1
+"GoogleEarth",,0,1
 "Government of the United Kingdom. Turks and Caicos Islands, 1/25,000","not recorded",0,1
 "GPS","not recorded",0,1
 "GPS 204","not recorded",0,1
@@ -109,6 +111,7 @@
 "GPS293, extent .05 mi, WGS84","not recorded",0,1
 "Graphical Locator site, TRS to Lat/long; Willamette Meridian","not recorded",0,1
 "GTOPO30; non-USGS map 1:1000000","not recorded",0,1
+"handheld GPS (WGS84)",,0,1
 "HerpNET Georeferencing Guidelines","VertNet Georeferencing Guidelines",0,1
 "HNHM database","not recorded",0,1
 "http://geonames.nrcan.gc.ca/search/search_e.php","not recorded",0,1
@@ -196,4 +199,5 @@ MaNIS/HerpNET/ORNIS Georeferencing Guidelines","VertNet Georeferencing Guideline
 "VertNet Georeferencing Guidelines, GBIF Best Practices","VertNet Georeferencing Guidelines",0,1
 "WGS 1984","not recorded",0,1
 "WGS84","not recorded",0,1
+"WGS84 Geolocate",,0,1
 "WGS84, Google Maps","not recorded",0,1

@@ -263,11 +263,13 @@
 "(check mark)",,0,1
 "(checkmark)",,0,0
 "(chick)","chick",0,1
+"(Downy chick)",,0,0
 "(Fh)",,0,0
 "(Fh-) see card",,0,0
 "(finally) Vble trace to s. embry",,0,0
 "(finally) Vble trace to s. embryo",,0,0
 "(FL)",,0,0
+"(fledgling)",,0,0
 "(Fresh) Brought to WFVZ in 1993",,0,0
 "(Im ?)","immature",0,1
 "(im)","immature",0,1
@@ -317,14 +319,22 @@
 "?","unknown",0,1
 "-?","unknown",0,1
 "? Adult","adult",0,1
+"? Juvenile",,0,0
 "? Nest fell from a tree, probabl",,0,0
 "? Nest fell from a tree, probably during storm",,0,0
+"? Young",,0,0
 "??","unknown",0,1
 "?Ad",,0,0
+"?Adult",,0,0
+"?Juvenile",,0,0
+"?Young",,0,0
 "@ 8 days",,0,0
+"[ breeding dress]",,0,0
+"[ or Immature]",,0,0
 "[(im?)]",,0,0
 "[? M Juv.]",,0,0
 "[?]",,0,0
+"[?Immature]",,0,0
 "[[illeg]i[illeg] ad]",,0,0
 "[=Ad.]",,0,0
 "[=Im.?]",,0,0
@@ -348,12 +358,30 @@
 "[ad?]",,0,0
 "[Ad]",,0,0
 "[ad]?",,0,0
+"[Adult*]",,0,0
+"[Adult, Summer]",,0,0
+"[Adult, Winter]",,0,0
 "[Adult]","adult",0,1
+"[Adult] + young",,0,0
+"[Adult]*",,0,0
+"[aestiv.]",,0,0
+"[Albino]",,0,0
 "[app. a dull Ad.]",,0,0
+"[Autumn or Immature]",,0,0
+"[Autumn]",,0,0
+"[breeding dress]",,0,0
 "[chick]",,0,0
+"[dark phase]",,0,0
+"[domestic]",,0,0
 "[downy chick]",,0,0
+"[downy young]",,0,0
+"[Embryo]",,0,0
 "[F]",,0,0
+"[First Winter]",,0,0
 "[Fledgling]",,0,0
+"[Foetus]",,0,0
+"[head only]",,0,0
+"[hepatic]",,0,0
 "[illeg]?",,0,0
 "[im - ad]",,0,0
 "[Im.",,0,0
@@ -377,7 +405,16 @@
 "[Imm]",,0,0
 "[imm]?",,0,0
 "[imm+]",,0,0
+"[Immature*]",,0,0
+"[Immature, autumn]",,0,0
+"[Immature, first plumage]",,0,0
+"[Immature, hepatic]",,0,0
+"[Immature, second plumage]",,0,0
+"[Immature?]",,0,0
 "[Immature]","immature",0,1
+"[Immature] *",,0,0
+"[Immature] or [Off-season]",,0,0
+"[Immature]*",,0,0
 "[Judging by size]",,0,0
 "[Juv.",,0,0
 "[Juv. ?]",,0,0
@@ -393,21 +430,46 @@
 "[juv]",,0,0
 "[juv] written below crossed-out ",,0,0
 "[Juvenile]","juvenile",0,1
+"[Juvenile]?",,0,0
 "[jv.]",,0,0
+"[light phase]",,0,0
 "[M]",,0,0
 "[molting im-ad]",,0,0
 "[Nestling]",,0,0
+"[off-season]",,0,0
+"[or Immature]",,0,0
+"[Part winter]",,0,0
+"[partial breeding dress]",,0,0
+"[Partial Immature]",,0,0
+"[partial summer, faded]",,0,0
+"[partial summer]",,0,0
+"[partially feathered nestling]",,0,0
 "[prob. Ad. ?]",,0,0
 "[pullus] ?",,0,0
+"[spring]",,0,0
 "[sub ad]",,0,0
+"[sub.adult]",,0,0
 "[subad]",,0,0
 "[sub-ad]",,0,0
+"[Subadult]",,0,0
+"[Sub-adult]",,0,0
+"[summer dress]",,0,0
+"[Summer]",,0,0
+"[Summer-winter]",,0,0
 "[sure im.]",,0,0
 "[ud]",,0,0
 "[underlined ad]",,0,0
 "[vix ad]",,0,0
+"[winter -]",,0,0
+"[winter dress]",,0,0
+"[Winter or Immature]",,0,0
+"[winter*]",,0,0
+"[Winter,adult]",,0,0
+"[Winter]",,0,0
+"[Winter-summer]",,0,0
 "[Yg.]",,0,0
 "[yg]",,0,0
+"[Young]",,0,0
 "_",,0,0
 "{½ Ad.]",,0,0
 "{downy nestling}",,0,0
@@ -3959,6 +4021,22 @@ b= ",,0,0
 "ADULT ; SKULL WELL OSS",,0,0
 "Adult ?","adult",0,1
 "adult ?)","adult",0,1
+"Adult + ?Embryo",,0,0
+"Adult + egg",,0,0
+"Adult + Eggs",,0,0
+"Adult + embryo",,0,0
+"Adult + embryo + larvae + egg",,0,0
+"Adult + Embryos",,0,0
+"Adult + Immature",,0,0
+"Adult + Juvenile",,0,0
+"Adult + Juveniles",,0,0
+"Adult + larvae + egg",,0,0
+"Adult + larval",,0,0
+"Adult + larval + egg",,0,0
+"Adult + Nymph",,0,0
+"Adult + Young",,0,0
+"Adult + Young + Egg",,0,0
+"Adult + Young + Embryo",,0,0
 "adult 15+ years old",,0,0
 "Adult 43 g",,0,0
 "adult 6 yrs","adult",0,1
@@ -4008,9 +4086,11 @@ b= ",,0,0
 "Adult skull100% oss",,0,0
 "Adult SNFO",,0,0
 "Adult still incubating.",,0,0
+"Adult summer",,0,0
 "Adult winter",,0,0
 "adult with 4 young in-uteri",,0,0
 "adult(?)","adult",0,1
+"Adult*",,0,0
 "Adult,  skull oss.",,0,0
 "ADULT, ALTERNATE PLUMAGE; NO BUR",,0,0
 "Adult, breeding",,0,0
@@ -4029,12 +4109,15 @@ b= ",,0,0
 "Adult, skull oss",,0,0
 "Adult, skull oss.",,0,0
 "adult, skull ossified",,0,0
+"Adult, summer",,0,0
+"adult, winter",,0,0
 "adult,skull fully ossified",,0,0
 "Adult.",,0,0
 "ADULT/IMM",,0,0
 "ADULT/JUV",,0,0
 "Adult; 5-6 Weeks old.",,0,0
 "ADULT; ALTERNATE PPLUMAGE; NO BU",,0,0
+"Adult; Egg",,0,0
 "adult; immature",,0,0
 "ADULT; NO BURSA",,0,0
 "ADULT; NO BURSA FOUND; SKULL 25%",,0,0
@@ -4053,6 +4136,12 @@ b= ",,0,0
 "Adult; skull well-oss.",,0,0
 "adult?","adult",0,1
 "adult11.1 g",,0,0
+"Adults + Egg",,0,0
+"Adults + Eggs",,0,0
+"Adults + Embryos",,0,0
+"Adults + Juvenile",,0,0
+"Adults + Juveniles",,0,0
+"Adults + Young",,0,0
 "ADULTS AND 2  LARVAE",,0,0
 "ADULTS AND LARVAE",,0,0
 "adults, eggs","adult, egg",0,1
@@ -4249,6 +4338,7 @@ perhaps one half",,0,0
 "advnced",,0,0
 "Advt",,0,0
 "advvanced",,0,0
+"aestiv.",,0,0
 "AF",,0,0
 "after 6 days or more",,0,0
 "AFTER FOURTH YEAR","after fourth year",0,1
@@ -4533,6 +4623,7 @@ warbler's dent",,0,0
 "Almt. 8 days",,0,0
 "along",,0,0
 "ALTERNATE PLUMAGE; NO BURSA FOUN",,0,0
+"Ammocoete",,0,0
 "AN","adult",0,1
 "an egg in nest on the 17th",,0,0
 "Anout one week",,0,0
@@ -4605,6 +4696,7 @@ warbler's dent",,0,0
 "ATY; NO BURSA; SKULL 100% OSS.",,0,0
 "AUD.",,0,0
 "audlt",,0,0
+"Autumn",,0,0
 "Av.",,0,0
 "Avanced",,0,0
 "b",,0,0
@@ -5637,6 +5729,7 @@ Trace.",,0,0
 "CA. 34 YEARS OLD",,0,0
 "ca. 6 days",,0,0
 "Ca-3 days",,0,0
+"Cacoons",,0,0
 "calf",,0,0
 "cam",,0,0
 "Captive",,0,0
@@ -6139,6 +6232,9 @@ Trace.",,0,0
 "Egg #88 died late in incubation, eggs #89,90,91- h",,0,0
 "Egg #99 hatched in captivity, eg",,0,0
 "Egg #99 hatched in captivity, egg #100 failed in t",,0,0
+"Egg + Embryo",,0,0
+"Egg + larvae",,0,0
+"Egg + larval",,0,0
 "Egg 1 & 2: trace Of Blood; Egg 3",,0,0
 "Egg 1 & 2: trace Of Blood; Egg 3: Fresh.",,0,0
 "Egg 1- addled, egg 2- about 1/4.",,0,0
@@ -6303,6 +6399,7 @@ Trace.",,0,0
 "Egg#1-infertile; egg#2 found cra",,0,0
 "Egg#1-infertile; egg#2 found cracked in nest, late",,0,0
 "Egg(s) Failed",,0,0
+"Egg; Embryo",,0,0
 "Egg1- Fresh, egg2- Slight",,0,0
 "Egg1- fresh, egg2- very slightly",,0,0
 "Egg1- fresh, egg2- very slightly.",,0,0
@@ -6311,6 +6408,8 @@ Trace.",,0,0
 "Egg1-2 weeks, egg2- infertile.",,0,0
 "Egg61 died with very small embry",,0,0
 "Egg61 died with very small embryo; egg 62 was addl",,0,0
+"Egg-capsule",,0,0
+"Egg-capsules",,0,0
 "eggcase","egg case",0,1
 "eggcases","egg case",0,1
 "eggs","egg",0,1
@@ -6362,6 +6461,8 @@ Trace.",,0,0
 "Eggs #87,89, 90 died with large ",,0,0
 "Eggs #87,89, 90 died with large embryos; egg #88 h",,0,0
 "eggs & adult",,0,0
+"Eggs + Larvae",,0,0
+"Eggs + Young",,0,0
 "Eggs 1 and 2 very small embryo, ",,0,0
 "Eggs 1 and 2 very small embryo, Eggs 3 and 4 trace",,0,0
 "Eggs 1, 3: Trace Of Blood; 2: Fresh",,0,0
@@ -6493,6 +6594,7 @@ Trace.",,0,0
 "Eggs yolk sac larvae","egg yolk sac larva",0,1
 "eggs, embryos","egg, embryo",0,1
 "EGGS, TADPOLE, TRANS.",,0,0
+"Eggs.",,0,0
 "eggs/larvae","egg, larva",0,1
 "eggs/ovaries","egg, ovary",0,1
 "Eggs: #2,3,5,7: Trace of Blood; ",,0,0
@@ -6522,7 +6624,10 @@ Trace.",,0,0
 "EMB 1 emb. 18mm","adult",0,1
 "Emb.","embryo",0,1
 "embryo","embryo",1,1
+"Embryo + egg",,0,0
 "embryo + eggs","embryo, egg",0,1
+"Embryo + larva",,0,0
+"Embryo + young",,0,0
 "embryo about 1 week old",,0,0
 "EMBRYO AND 3 JUVENILES",,0,0
 "Embryo beginning to form",,0,0
@@ -6766,6 +6871,7 @@ Trace.",,0,0
 "Feathered embryo. 2 chicks in nest.",,0,0
 "feathered embryos",,0,0
 "feathered embyos",,0,0
+"Feathered nestling",,0,0
 "feathered young",,0,0
 "Feathered young.",,0,0
 "feathers",,0,0
@@ -6912,6 +7018,7 @@ Trace.",,0,0
 "Fledglings left nest 3 days prior",,0,0
 "FLEDLGING; BURSA 8 X 9 MM",,0,0
 "FLEDLING;",,0,0
+"Foetal",,0,0
 "foetus",,0,0
 "for adv.",,0,0
 "for advanced",,0,0
@@ -8533,6 +8640,7 @@ Sowing blood-1",,0,0
 "HY? NO BURSA; SKULL 100% OSS.",,0,0
 "hybrid young",,0,0
 "HYBURSA NOT FOUND; SKULL 75% OSS",,0,0
+"hyem.",,0,0
 "HYF","hatch-year",0,1
 "I",,0,0
 "I Chick, I Addled, Plus Fragment",,0,0
@@ -8697,6 +8805,8 @@ Sowing blood-1",,0,0
 "Immature(?); skull 50% oss.","immature",0,1
 "Immature(?); skull almost comple","immature",0,1
 "Immature(?); skull almost completely oss.","immature",0,1
+"Immature, autumn",,0,0
+"Immature, Autumn [Winter]",,0,0
 "immature, skull 10% ossified","immature",0,1
 "Immature, skull 20% oss.","immature",0,1
 "immature, skull not ossified","immature",0,1
@@ -8734,6 +8844,7 @@ Sowing blood-1",,0,0
 "immature; skull unossified","immature",0,1
 "immature?","immature",0,1
 "immature? skull single","immature",0,1
+"Immatures + Adults",,0,0
 "immaturre",,0,0
 "Impacted, infertile",,0,0
 "Imperfect",,0,0
@@ -8942,6 +9053,7 @@ Sowing blood-1",,0,0
 "Intact, unhatched, fertile egg; ",,0,0
 "Intact, unhatched, fertile egg; feathers, beak, we",,0,0
 "interior consumed by ants",,0,0
+"Intermediate",,0,0
 "Irregula (small to medium embryo",,0,0
 "Irregula (small to medium embryo)",,0,0
 "irregular",,0,0
@@ -9477,12 +9589,14 @@ Infertile-1",,0,0
 "larva (27)",,0,0
 "larva (with rear legs)",,0,0
 "larvae","larva",0,1
+"Larvae + Embryos + Eggs",,0,0
 "larvae cell","larva cell",0,1
 "larvae ref.","larva",0,1
 "larvae, juveniles","larva, juvenile",0,1
 "larval","larva",0,1
 "larval collection","larva",0,1
 "larval fish","larva",0,1
+"Larval form",,0,0
 "Larval tray","larva",0,1
 "larve","larva",0,1
 "Last 4 chicks left nest on 16th.",,0,0
@@ -9645,6 +9759,7 @@ Infertile-1",,0,0
 "merely begun",,0,0
 "Merely started",,0,0
 "merest trace",,0,0
+"Mesusoid + Hydroid",,0,0
 "metamorphosed in August",,0,0
 "metamorphosing larva",,0,0
 "meta-young",,0,0
@@ -9736,6 +9851,7 @@ Infertile-1",,0,0
 "Nearly 2/3",,0,0
 "nearly 3/4 incubated",,0,0
 "Nearly adult",,0,0
+"'nearly adult'",,0,0
 "nearly complete",,0,0
 "Nearly complete, Heavy",,0,0
 "Nearly complete, would have hatc",,0,0
@@ -10137,6 +10253,7 @@ Infertile-1",,0,0
 "Not entered",,0,0
 "Not fertile",,0,0
 "not fresh",,0,0
+"Not fully adult",,0,0
 "Not given",,0,0
 "Not Given (3 Minus One Destroyed",,0,0
 "Not Given (3 Minus One Destroyed)",,0,0
@@ -10227,6 +10344,7 @@ Infertile-1",,0,0
 "nulle (egg cold)",,0,0
 "NURSA 6 X 4 MM",,0,0
 "NY",,0,0
+"Nymph",,0,0
 "O",,0,0
 "O - O - b - b - B",,0,0
 "O b B B",,0,0
@@ -10521,7 +10639,9 @@ Infertile-1",,0,0
 "O-O-B.-E",,0,0
 "O-O-O-O-O",,0,0
 "Open skull",,0,0
+"or [Immature]",,0,0
 "or Im.",,0,0
+"or Immature",,0,0
 "ORGANS DESSICATED",,0,0
 "original data lost",,0,0
 "Orioles(1 missing)- several days",,0,0
@@ -10594,6 +10714,7 @@ Infertile-1",,0,0
 "Partial (1/2)",,0,0
 "Partial (3 or 4 days)",,0,0
 "PARTIAL ADULT ALTERNATE PLUMAGE;",,0,0
+"Partial Immature",,0,0
 "partially",,0,0
 "partially hatched",,0,0
 "Partially hatched, about 1/3",,0,0
@@ -10649,6 +10770,7 @@ fresh",,0,0
 "Possibly infertile",,0,0
 "POSSIBLY JUVENILE","juvenile",0,1
 "Post larvaeJuveniles","juvenile",0,1
+"Post nupt.",,0,0
 "Practically complete",,0,0
 "Practically fresh",,0,0
 "Prairies are incubating",,0,0
@@ -10668,6 +10790,7 @@ fresh",,0,0
 "prob. Imm.",,0,0
 "Prob. very slight",,0,0
 "probable AHY",,0,0
+"probably  first year",,0,0
 "probably 1/2",,0,0
 "probably 1/3 advanced",,0,0
 "Probably 10 days",,0,0
@@ -12060,6 +12183,8 @@ large embryos:",,0,0
 "SP61, specimen intact. Nest material collected",,0,0
 "SP69, egg slightly cracked. Nest",,0,0
 "SP69, egg slightly cracked. Nest site in exclosure",,0,0
+"Spermatophore",,0,0
+"Spermatophores",,0,0
 "spike horn",,0,0
 "spoiled",,0,0
 "spotted egg",,0,0
@@ -12251,6 +12376,7 @@ Started",,0,0
 "Suggestion",,0,0
 "suggestion of embryos",,0,0
 "Suggestion seen in 2 & fresh",,0,0
+"Summer",,0,0
 "Sure",,0,0
 "surely begun",,0,0
 "suspected adult",,0,0
@@ -12836,6 +12962,7 @@ Started",,0,0
 "Vble. F to very slight",,0,0
 "veined",,0,0
 "veins formed",,0,0
+"vern.",,0,0
 "very",,0,0
 "very  fresh",,0,0
 "very addled; ca. 1mm embryo",,0,0
@@ -12960,6 +13087,7 @@ Started",,0,0
 "very well advanced",,0,0
 "Very well incubated",,0,0
 "Very young",,0,0
+"Very young *",,0,0
 "Vide embryos (?)",,0,0
 "Vireos about 1/2; Cowbirds ready",,0,0
 "Virtually nil",,0,0
@@ -13130,6 +13258,7 @@ Started",,0,0
 "WILD-CAUGHT IN 1976",,0,0
 "WILD-HATCHED IN INDONESIA; PURCH",,0,0
 "Wings & legs barely forming",,0,0
+"Winter",,0,0
 "With blood",,0,0
 "with eggs",,0,0
 "with nest eggs",,0,0
@@ -13162,6 +13291,9 @@ Started",,0,0
 "Yolks bloody",,0,0
 "yolk-sac","yolk sac",0,1
 "young","juvenile",0,1
+"Young + Adult",,0,0
+"Young + Egg",,0,0
+"Young + larval form.",,0,0
 "young adult",,0,0
 "young adults","young adult",0,1
 "young bird",,0,0
@@ -13180,3 +13312,4 @@ Started",,0,0
 "young?",,0,0
 "YS","yolk sac",0,1
 "Zero",,0,0
+"Zooid",,0,0
