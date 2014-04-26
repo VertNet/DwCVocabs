@@ -1,5 +1,4 @@
 "Genus","standardGenus","Family","Order","Class","Phylum","Kingdom","authority","standard","checked","error","resolvelater"
-"",,,,,,,,0,1,"Genus is empty.",0
 "-",,,,,,,,0,1,"Not a genus.",0
 " = Conothraupis","Conothraupis","Thraupidae","Passeriformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus misspelled.",0
 " Blank",,,,,,,,0,1,"Not a genus.",0
@@ -52,6 +51,7 @@
 "[Rail ?]",,"Rallidae","Gruiformes","Aves","Chordata","Animalia",,0,1,"Not a genus.",0
 "[unknown]",,,,,,,,0,1,"Not a genus.",0
 "[Zonotricia","Zonotrichia","Emberizidae","Passeriformes","Aves","Chordata","Animalia","ITIS",0,1,"Genus misspelled.",0
+"\",,,,,,,,0,1,"Genus is empty.",0
 "=Agelaius","Agelaius","Icteridae","Passeriformes","Aves","Chordata","Animalia","ITIS",0,1,"Genus misspelled.",0
 "1031",,,,,,,,0,1,"Not a genus.",0
 "114",,,,,,,,0,1,"Not a genus.",0
@@ -2325,6 +2325,7 @@
 "Bothriodon",,"ANTHRACOTHERIIDAE","Artiodactyla","Mammalia","Chordata","Animalia",,0,0,,1
 "Bothriolepis","Bothriolepis","Bothriolepidae","Antiarchi","Placodermi","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Bothrioneuron",,,,"OLIGOCHAETA","ANNELIDA","Animalia",,0,0,,1
+"BOTHRIOPIS","Bothriopsis","Viperidae","Squamata","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus misspelled.",0
 "Bothriopsis","Bothriopsis","Viperidae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
 "Bothrocara","Bothrocara","Zoarcidae","Perciformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "BOTHROCHILUS","Bothrochilus","Pythonidae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
@@ -3687,6 +3688,7 @@
 "Chelon","Chelon","Mugilidae","Mugiliformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Chelone",,"CHELONIDAE","CRYPTODIRA","Reptilia","Chordata","Animalia",,0,0,,1
 "Chelonia","Chelonia","Cheloniidae","Testudines","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: May 2012",1,1,,0
+"CHELONIDES","Chelonoidis","Testudinidae","Testudines","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus misspelled.",0
 "Cheloniidae",,"Cheloniidae","Testudines","Reptilia","Chordata","Animalia",,0,1,"Genus is a family.",0
 "CHELONIIDAE UNDETERMINED",,"Cheloniidae","Testudines","Reptilia","Chordata","Animalia","The Reptile Database",0,1,"Genus is a family.",0
 "Chelonobia",,,,"CRUSTACEA; ENTOMOSTRACA","ARTHROPODA","Animalia",,0,0,,1
@@ -12516,6 +12518,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Nomoctes","Bathytroctes","Alepocephalidae","Osmeriformes","Actinopterygii","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus is a synonym.",0
 "Nomonyx","Nomonyx","Anatidae","Anseriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Nomorhamphus","Nomorhamphus","Hemiramphidae","Beloniformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
+"NONE",,,,,,,,0,1,,0
 "Nonnula","Nonnula","Bucconidae","Galbuliformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Nonula","Nonnula","Bucconidae","Galbuliformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus misspelled.",0
 "Norfolkia","Norfolkia","Tripterygiidae","Perciformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
@@ -17567,6 +17570,7 @@ Colubridae: Xenodontinae). Herpetologica 52, 271-275.",0
 "Sissotis","Lissotis","Otididae","Gruiformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus misspelled.",0
 "Sistrum",,,"MONOTOCARDIA","GASTROPODA","MOLLUSCA","Animalia",,0,0,,1
 "SISTRURUS","Sistrurus","Viperidae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
+"SISTURUS","Sistrurus","Viperidae","Squamata","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus misspelled.",0
 "Sisura",,,,"Aves","Chordata","Animalia",,0,1,"Not a genus.",0
 "Sitagra","Ploceus","Ploceidae","Passeriformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus is a synonym.",0
 "Sitagra (near intermedia)","Ploceus","Ploceidae","Passeriformes","Aves","Chordata","Animalia","ITIS",0,1,"Genus is a synonym.",0
@@ -18631,6 +18635,7 @@ Colubridae: Xenodontinae). Herpetologica 52, 271-275.",0
 "Terpsiphore","Terpsiphone","Monarchidae","Passeriformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus misspelled.",0
 "Terraba",,,,"Aves","Chordata","Animalia",,0,1,"Not a genus.",0
 "TERRAPENE","Terrapene","Emydidae","Testudines","Reptilia","Chordata","Animalia","ITIS",1,1,,0
+"TERREPENE","Terrapene","Emydidae","Testudines","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus misspelled.",0
 "Tersa",,,,"Aves","Chordata","Animalia",,0,1,"Not a genus.",0
 "Tersina","Tersina","Thraupidae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Tersiphone","Terpsiphone","Monarchidae","Passeriformes","Aves","Chordata","Animalia","ITIS",0,1,"Genus misspelled.",0

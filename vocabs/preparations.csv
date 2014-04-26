@@ -12590,7 +12590,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "round/wing/skel","skeleton, round skin, wing",0,1
 "round/wing/skel, tissue","skeleton, round skin, tissue, wing",0,1
 "rug with half head mount",,0,0
-"S0",,0,0
+"S0","skin in alcohol",0,1
 "SA","alcoholic carcass",0,1
 "Sabot (right, fore)",,0,0
 "Sacral vertebra, R third missing, articulations with adjacent vertebrae not fused.",,0,0
@@ -18076,7 +18076,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Two-thirds radius.",,0,0
 "TYMPANIC BULLAE & MASTOID AREA L",,0,0
 "TYMPANIC BULLAE & PORT MASTOID AREA L",,0,0
-"U",,0,0
+"U","unknown",0,1
 "Ulna",,0,0
 "Ulna ( (left, part)",,0,0
 "Ulna (fragment)",,0,0
