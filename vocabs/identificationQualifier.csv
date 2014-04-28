@@ -1,4 +1,5 @@
 "identificationQualifier","standardidentificationQualifier","standard","checked"
+"(=Z. cornutus)",,0,1
 "(aurulenta subsp.)","ssp.",0,1
 "(budytes ?) sp.","sp.",0,1
 "(gyroloides subsp.)","ssp.",0,1
@@ -7,7 +8,92 @@
 "(s.s.) sp.","sp.",0,1
 "(sp. nov)","sp. nov.",0,1
 "(sp.?)","sp.",0,1
+"*specimen lost",,0,1
 "?","in question",0,1
+"? class","class in question",0,1
+"? class ?id","class in question",0,1
+"? fam","family in question",0,1
+"? fam & genus","family, genus in question",0,1
+"? fam order","order, family in question",0,1
+"? fam, ? gen","family, genus in question",0,1
+"? family","family in question",0,1
+"? fm","family in question",0,1
+"? gen","genus in question",0,1
+"? gen & sp.","genus, species in question",0,1
+"? gen ? sp","genus, species in question",0,1
+"? gen ?sp","genus, species in question",0,1
+"? gen.","genus in question",0,1
+"? gen. & sp.","genus, species in question",0,1
+"? gen+fam","family, genus in question",0,1
+"? gen+sp","genus, species in question",0,1
+"? genus","genus in question",0,1
+"? GN","genus in question",0,1
+"? id","id in question",0,1
+"? ord","order in question",0,1
+"? order","order in question",0,1
+"? order ? fam","order, family in question",0,1
+"? order ? family","order, family in question",0,1
+"? order ?fam","order, family in question",0,1
+"? order, fam","order, family in question",0,1
+"? order; tent. gen&sp.","order in question",0,1
+"? ordr","order in question",0,1
+"? ordr ? fam","order, family in question",0,1
+"? other id","id in question",0,1
+"? otherid","id in question",0,1
+"? sp","species in question",0,1
+"? sp.","species in question",0,1
+"? sp.; not available to GPW","species in question",0,1
+"? species","species in question",0,1
+"? subfam","subfamily in question",0,1
+"? subfamily","subfamily in question",0,1
+"? taxon","id in question",0,1
+"?, ?genus","genus in question",0,1
+"?, ?genus, ?sp","genus, species in question",0,1
+"?, ?sp","species in question",0,1
+"?, ?sp, worn","species in question",0,1
+"?, ?sp.","species in question",0,1
+"?, cf sp","species in question",0,1
+"?, worn","species in question",0,1
+"?cl","class in question",0,1
+"?class","class in question",0,1
+"?ele","id in question",0,1
+"?ele (DP4/), ?sp","species in question",0,1
+"?fam","family in question",0,1
+"?fam ?gen","family, genus in question",0,1
+"?family","family in question",0,1
+"?fm","family in question",0,1
+"?formosa?thomps.; (Weil 2004)","id in question",0,1
+"?ge","genus in question",0,1
+"?gen","genus in question",0,1
+"?gen ?sp","genus, species in question",0,1
+"?gen.","genus in question",0,1
+"?gen; L > 4mm (Weil 2004)","genus in question",0,1
+"?genus","genus in question",0,1
+"?genus, ?sp","genus, species in question",0,1
+"?genus, big","genus in question",0,1
+"?gn","genus in question",0,1
+"?gn ?sp","genus, species in question",0,1
+"?gn?sp","genus, species in question",0,1
+"?ord?fm","order, family in question",0,1
+"?order","order in question",0,1
+"?order ?gen","genus in question",0,1
+"?other id","id in question",0,1
+"?sp","species in question",0,1
+"?sp ?trochuus","species in question",0,1
+"?sp, ?genus","genus, species in question",0,1
+"?sp, big","species in question",0,1
+"?sp, small","species in question",0,1
+"?sp, worn","species in question",0,1
+"?sp.","species in question",0,1
+"?sp.; not available to GPW","species in question",0,1
+"?sp; big","species in question",0,1
+"?sp; M. seminoensis or E. browni","species in question",0,1
+"?sp; not available to GPW","species in question",0,1
+"?sp; small","species in question",0,1
+"?sp; very big","species in question",0,1
+"?species","species in question",0,1
+"?subfam","subfamily in question",0,1
+"`",,0,1
 "{billsi n. sp.}","sp. nov.",0,1
 "{chilala n. sp.}","sp. nov.",0,1
 "{Congo n. sp.}","sp. nov.",0,1
@@ -22,47 +108,262 @@
 "{Ruzizi n. sp.}","sp. nov.",0,1
 "{ubangi 1 n. sp.}","sp. nov.",0,1
 "{zakoni n. sp.}","sp. nov.",0,1
+"14.5 in. s.l.",,0,1
+"155 m.m. s.l.",,0,1
+"180mm s.l., (dried)",,0,1
+"190 m.m. s.l.",,0,1
+"200 m.m. s.l.",,0,1
+"212 m.m. s.l.",,0,1
+"215 m.m. s.l.",,0,1
+"220 m.m. s.l.",,0,1
+"225 m.m. s.l.",,0,1
+"234 m.m. s.l.",,0,1
+"243 m.m. s.l.",,0,1
+"250 m.m. s.l.",,0,1
+"255 m.m. s.l.",,0,1
+"258 m.m. s.l.",,0,1
+"260 m.m. s.l.",,0,1
+"262 m.m. s.l.",,0,1
+"294 m.m. s.l.",,0,1
+"300 m.m. s.l.",,0,1
+"310mm s.l.,Head=78mm",,0,1
+"315mm s.l.,Head=84mm",,0,1
+"344 m.m. s.l.",,0,1
+"370 m.m. s.l.",,0,1
+"400 m.m. t.l.",,0,1
+"435 m.m. s.l.",,0,1
+"44.5 c.m. t.l.",,0,1
+"451 m.m. s.l.",,0,1
+"480 m.m. s.l.",,0,1
+"490 m.m. t.l.",,0,1
+"670 m.m. s.l.",,0,1
+"740m.m.s.l.tip of tail ab",,0,1
 "aegyptiaca X sp.","aegyptiaca X sp.",0,1
+"aff sp","aff.",0,1
+"americana or crassidens","species in question",0,1
+"Arvicolinae",,0,1
 "asper  n. gen,","asper gen. nov.",0,1
 "auriceps large black tailed sp.","sp.",0,1
 "balsodichthys X sp.","balsodichthys X sp.",0,1
+"big",,0,1
+"broken",,0,1
 "C. sp. X G. nycthemerus","C. sp. X G. nycthemerus",0,1
 "C. sp. X P. colchicus","C. sp. X P. colchicus",0,1
+"c.f. canadensis","cf.",0,1
+"c.f. Chaetodipus","cf.",0,1
+"c.f. cinerea","cf.",0,1
+"c.f. Marmota flaviventris","cf.",0,1
+"c.f. Neotoma","cf.",0,1
+"c.f. Ovis c.f. canadensis","cf.",0,1
+"c.f. Spilogale","cf.",0,1
+"c.f. tigris","cf.",0,1
 "cactorum sp. nov.","sp. nov.",0,1
 "cf","cf.",0,1
+"cf Chaetodipus","cf.",0,1
+"cf cinerea","cf.",0,1
+"cf cinereoargenteus","cf.",0,1
+"cf class","cf.",0,1
+"cf fam","cf.",0,1
+"cf fam cf gen","cf.",0,1
+"cf family","cf.",0,1
+"cf flaviventris","cf.",0,1
+"cf fm","cf.",0,1
+"cf gen","cf.",0,1
+"cf gen + sp","cf.",0,1
+"cf gen cf sp","cf.",0,1
+"cf gen, ?sp","cf.",0,1
+"cf gen+sp","cf.",0,1
+"cf genus","cf.",0,1
+"cf genus and species","cf.",0,1
+"cf gn","cf.",0,1
+"cf gn cf sp","cf.",0,1
+"cf order","cf.",0,1
+"cf other_id","cf.",0,1
+"cf otherid","cf.",0,1
+"cf Ovis canadensis","cf.",0,1
+"cf sp","cf.",0,1
+"cf sp cf gn","cf.",0,1
+"cf sp, ?genus, worn","cf.",0,1
+"cf sp, very worn","cf.",0,1
+"cf sp, worn","cf.",0,1
+"cf sp.","cf.",0,1
+"cf sp; ?genus","cf.",0,1
+"cf species","cf.",0,1
+"cf Spilogale","cf.",0,1
+"cf subfam","cf.",0,1
+"cf suborder","cf.",0,1
+"cf subsp","cf.",0,1
+"cf subspecies","cf.",0,1
+"cf, so,","cf.",0,1
 "cf.","cf.",0,1
+"cf. A. nobilis","cf.",0,1
+"cf. Aetiocetidae","cf.",0,1
+"cf. C. occidentalis","cf.",0,1
+"cf. fam.","cf.",0,1
+"cf. family","cf.",0,1
+"cf. family, cf. genus","cf.",0,1
+"cf. family, ge. cf.","cf.",0,1
+"cf. family, subfamily","cf.",0,1
+"cf. G. moringa","cf.",0,1
+"cf. gen","cf.",0,1
+"cf. gen.","cf.",0,1
+"cf. genus","cf.",0,1
+"cf. order","cf.",0,1
+"cf. other_id","cf.",0,1
+"cf. otherid","cf.",0,1
+"cf. sp","cf.",0,1
+"cf. sp, spp","cf.",0,1
+"cf. sp.","cf.",0,1
+"cf. sp., ?sp.","cf.",0,1
+"cf. sp.; worn","cf.",0,1
+"cf. species","cf.",0,1
+"cf. subfamily","cf.",0,1
+"cf.gn","cf.",0,1
+"cf.gn sp","cf.",0,1
+"cf.sp","cf.",0,1
+"cfsp","cf.",0,1
 "chrysocephala s","chrysocephala sp. nov.",0,1
 "chrysocephalus X sp.","chrysocephalus X sp.",0,1
+"cl ?","class in question",0,1
+"cl ? ;or ?","class, order question in order",0,1
+"cl cf","class in question",0,1
+"CL?","class in question",0,1
+"class ?","class in question",0,1
+"class cf","cf.",0,1
 "colchicus mongolicus X colchicus ssp.","colchicus mongolicus X colchicus ssp.",0,1
+"Cryptodira",,0,1
 "curiosus sp. no","curiosus sp. nov.",0,1
 "cyanellus x sp.","cyanellus X sp.",0,1
 "egregia or sp. nov.","egregia or sp. nov.",0,1
+"EmydidC",,0,1
+"Erinaceoidea",,0,1
+"Eryops also",,0,1
+"Euryodus also",,0,1
+"fa ?","family in question",0,1
+"fa ? ;ge ?","family, genus in question",0,1
+"fa ? ;ge ? ;sp ?","family, genus, species in question",0,1
+"fa ? ;ge cf","cf.",0,1
+"fa ? ;oi ?","family in question",0,1
+"fa ? ;sp cf","cf.",0,1
+"fa cf","cf.",0,1
+"fa cf;ge ?","cf.",0,1
+"fam ?","family in question",0,1
+"Fam. ?","family in question",0,1
+"Female, 505m.m. s.l.",,0,1
+"female?",,0,1
+"fl=80m.m.",,0,1
+"fm ?","family in question",0,1
+"fm cf","cf.",0,1
+"FM GN ?","family, genus in question",0,1
+"FM?","family in question",0,1
 "fusca n. sp.","fusca sp. nov.",0,1
 "galbula ssp. bullockii","ssp.",0,1
 "gardineri n.sp.","gardineri sp. nov.",0,1
+"ge ?","genus in question",0,1
+"ge ? ;oi ?","genus in question",0,1
+"ge ? ;sp ?","genus, species in question",0,1
+"ge ? ;sp cf","genus, species in question",0,1
+"ge ? or Desmostylus?","genus in question",0,1
+"ge cf","cf.",0,1
+"ge cf.","cf.",0,1
+"ge cf;sp ?","cf.",0,1
+"ge cf;sp cf","cf.",0,1
+"ge nr","cf.",0,1
+"ge. cf.","cf.",0,1
+"ge. cf. sp. cf.","cf.",0,1
+"ge?","genus in question",0,1
+"gen","genus in question",0,1
+"gen cf.","cf.",0,1
+"gen in quotes","genus in question",0,1
+"gen indet","gen. indet.",0,1
+"gen nr","genus in question",0,1
+"gen. ?","genus in question",0,1
+"gen?","genus in question",0,1
+"genus ?","genus in question",0,1
 "genus in question","genus in question",0,1
+"genus in quotes","genus in question",0,1
+"genus in quotes and ?","genus in question",0,1
+"genus in quotes, cf gen","cf.",0,1
+"genus in quotes, cf sp","cf.",0,1
+"genus in quotes. ? Sp","genus, species in question",0,1
 "genus questioned","genus in question",1,1
+"genus, ?sp","genus, species in question",0,1
+"gn ?","genus in question",0,1
+"gn ? sp ?","genus, species in question",0,1
+"gn cf","cf.",0,1
+"gn cf sg cf","cf.",0,1
+"gn cf sp cf","cf.",0,1
+"gn?","genus in question",0,1
+"gs ?","genus in question",0,1
+"gs cf","cf.",0,1
 "gulosus X sp.","gulosus X sp.",0,1
 "haematodus x Eos sp.","haematodus x Eos sp.",0,1
 "inornatus x sp. Uniparens",,0,1
 "janitor n. sp.","janitor sp. nov.",0,1
+"juvenile",,0,1
+"juvenile?",,0,1
 "kobelti n. sp.","kobelti sp. nov.",0,1
+"L=170m.m.",,0,1
+"large",,0,1
 "leuciodus X sp.","leuciodus X sp.",0,1
 "lutrensa X sp.","lutrensa X sp.",0,1
 "macrochirus X sp.","macrochirus X sp.",0,1
+"male",,0,1
 "megalotis X sp.","megalotis X sp.",0,1
 "n. sp.","sp. nov.",0,1
 "n.sp.","sp. nov.",0,1
+"near sp","cf.",0,1
+"near sp.","cf.",0,1
 "new sp.","sp. nov.",0,1
+"not id-able to sp. (Weil 2004)",,0,1
 "nov. subsp.","ssp. nov.",0,1
 "novecrinita n.","novecrinita sp. nov.",0,1
+"nr","cf.",0,1
+"nr gn","cf.",0,1
+"nr sp","cf.",0,1
+"nr.","cf.",0,1
+"oi ?","id in question",0,1
+"oi cf","id in question",0,1
+"or ?","order in question",0,1
+"or ? ;fa ?","order, family in question",0,1
+"or ? ;fa ? ;ge ?","order, family, genus in question",0,1
+"or ? ;sp ?","order in question",0,1
+"or ? ;sp cf","cf.",0,1
+"or ?, fa ?","order, family in question",0,1
+"or ?, worn","order in question",0,1
+"or ?; fa ?","order, family in question",0,1
+"or ?; sp ?","order in question",0,1
+"or Carnivora","order in question",0,1
+"or cf","cf.",0,1
+"or M. seminoensis","species in question",0,1
+"or nr","cf.",0,1
+"or Pliohippus","genus in question",0,1
 "pandora X R. sp.","pandora X R. sp.",0,1
 "perlates (subsp.)","ssp.",0,1
 "pipilodryas sp.","pipilodryas sp. nov.",0,1
+"possibly gen","genus in question",0,1
+"possibly gen +sp","genus, species in question",0,1
+"possibly sp.","species in question",0,1
+"probably","id in question",0,1
 "proserpina x Notropis sp.","proserpina X Notropis sp.",0,1
+"Q sp","species in question",0,1
 "regularis x sp.","sp.",0,1
+"rhina,binoculata,inornata","species in question",0,1
 "S. ellioti X G. sp.","S. ellioti X G. sp.",0,1
+"sensu lato","s.l.",0,1
+"sg ?","genus, species in question",0,1
+"sg cf","cf.",0,1
+"sg cf;sp cf","cf.",0,1
+"Sigmodontinae",,0,1
+"small",,0,1
 "sp","sp.",0,1
+"sp ?","species in question",0,1
+"sp cf","cf.",0,1
+"sp cf. ss cf","cf.",0,1
+"sp cf; worn","cf.",0,1
+"SP D",,0,1
+"sp near","cf.",0,1
+"sp nr","cf.",0,1
 "sp.","sp.",1,1
 "sp. ""kazumbe""","sp. nov.",0,1
 "sp. ""moshi""","sp. nov.",0,1
@@ -80,6 +381,7 @@
 "sp. (speciosa or trichas)","sp.",0,1
 "sp. (taeniura)","sp.",0,1
 "sp. (trailii / alnorum [?])","sp.",0,1
+"sp. ?","species in question",0,1
 "sp. ??","sp.",0,1
 "sp. ???","sp.",0,1
 "sp. 1","sp.",0,1
@@ -109,6 +411,7 @@
 "sp. BSP2","sp. nov.",0,1
 "sp. BSP4","sp. nov.",0,1
 "sp. C","sp.",0,1
+"sp. cf.","cf.",0,1
 "sp. cf. cyprinus x velifer","sp. cf. cyprinus x velifer",0,1
 "sp. cf. sollasi","sp. cf. sollasi",0,1
 "sp. D","sp.",0,1
@@ -123,6 +426,7 @@
 "sp. III","sp.",0,1
 "sp. incert","sp. incert.",0,1
 "sp. incert.","sp. incert.",0,1
+"sp. indet.","sp. indet.",1,1
 "sp. lissmanni","sp. nov.",0,1
 "sp. magnostipes","sp. nov.",0,1
 "sp. missing","sp.",0,1
@@ -173,18 +477,38 @@
 "sp.n","sp. nov.",0,1
 "sp.--not M. mogollonensis","sp.",0,1
 "sp.nov.","sp. nov.",0,1
+"sp?","species in question",0,1
+"sp?, worn","species in question",0,1
+"sp?; L > 4mm (Weil 2004)","species in question",0,1
+"sp?; not available to GPW","species in question",0,1
+"sp?; not id-able to sp. (Weil 2004)","species in question",0,1
 "sparveria (subsp.)","ssp.",0,1
+"spcf","cf.",0,1
 "species in question","species in question",1,1
 "species questioned","species in question",0,1
 "spiralocucullata sp. ined.","spiralocucullata sp. ined.",0,1
+"ss ?","subspecies in question",0,1
+"ss cf","cf.",0,1
 "ssp.","ssp.",1,1
+"subadult",,0,1
+"subadult?",,0,1
+"subcl. elasmobranchii",,0,1
+"Suborder= Acanthuroidei",,0,1
+"subsp cf","cf.",0,1
 "subsp. ","ssp.",0,1
 "subspecies in question","subspecies in question",1,1
 "subspecies questioned","subspecies in question",0,1
+"tent sp","species in question",0,1
+"tribe: Microtini",,0,1
+"trimerorhachis also",,0,1
+"Uintasoricinae",,0,1
 "unidentata parv",,0,1
 "unidentata pras",,0,1
 "unidentata sebe",,0,1
 "venusta x sp.","venusta X sp.",0,1
+"Vespertilionoidea cf fm","cf.",0,1
 "vivax X sp.","vivax X sp.",0,1
 "willii gen & sp",,0,1
 "wood-masoni n.","wood-masoni sp. nov.",0,1
+"worn",,0,1
+"worn, not id-able (Weil 2004)",,0,1

@@ -106,6 +106,7 @@
 "ex MS Holotype","holotype",0,1
 "ex MS Paratype(s)","paratype",0,1
 "ex Paratype","paratype",0,1
+"FIG",,0,0
 "Figured",,0,0
 "from Type Locality",,0,0
 "G",,0,0
@@ -3925,6 +3926,8 @@
 "probable type",,0,0
 "Probable type of Scolopax longirostris","holotype",0,1
 "probably not a type",,0,0
+"PUBL",,0,0
+"PUBL?",,0,0
 "S",,0,0
 "Syn TYPE","syntype",0,1
 "Syn Type of P. superciliaris","syntype",0,1
