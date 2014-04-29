@@ -4057,6 +4057,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Cast of skull with jaw + teeth",,0,0
 "Cast of skull with jaw + teeth (anterior)",,0,0
 "Cast of snout + teeth",,0,0
+"cast of specimen",,0,0
 "Cast of squeeze of skull (dorsal face)",,0,0
 "Cast of stapes + extra stapes",,0,0
 "Cast of stapes from Holotype",,0,0
@@ -16848,6 +16849,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "large zygapophysis frag",,0,0
 "Larva","larva",0,1
 "Larvae","larvae",0,1
+"larvae or embryos",,0,0
 "Larvae/Form.","larvae in formalin",0,1
 "Laryngeal cartilage",,0,0
 "Larynx (in spirit)",,0,0
@@ -24413,6 +24415,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PHARYNGEAL,PHARYNGEAL TOOTH,SKULL BONES",,0,0
 "PHARYNGEALS",,0,0
 "PHLANGES",,0,0
+"photo specimen",,0,0
 "Photo voucher","photo voucher",0,1
 "photo, tissue",,0,0
 "Photograph (35mm transparencies)",,0,0
@@ -31431,6 +31434,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SHELL IN ALCOHOL, OVARIES IN FORMALIN","shell in alcohol, ovaries in formalin",0,1
 "SHELL INCOMPLETE PLASTRON (DRY)","shell, incomplete plastron",0,1
 "SHELL OF MARINE LIMPET.",,0,0
+"shell of turtle",,0,0
 "SHELL PARTS",,0,0
 "SHELL PLATES (DRY)","shell plates",0,1
 "SHELL W INNOMINATE",,0,0
@@ -31990,6 +31994,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELETON ONLY, NO SKULL","skeleton",0,1
 "Skeleton only.","skeleton",0,1
 "SKELETON ONLY?","skeleton",0,1
+"skeleton or skeletal parts",,0,0
 "SKELETON PART (11); CHEEKTOOTH (5)",,0,0
 "SKELETON PARTIAL",,0,0
 "Skeleton partly prepared (in spirit)",,0,0
@@ -32727,6 +32732,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKIN ONLY/MUMMIFIED","mummy (skin)",0,1
 "SKIN ONLY/SKELETON","skin, skeleton",0,1
 "Skin only: destroyed","skin (destroyed)",0,1
+"skin or hide",,0,0
 "Skin patch",,0,0
 "Skin Removed",,0,0
 "skin sample, bone sample, tissue",,0,0

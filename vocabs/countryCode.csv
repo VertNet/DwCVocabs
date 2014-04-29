@@ -1254,6 +1254,7 @@
 "C.S. Australia","AU",0,1
 "CA","CA",0,1
 "CAANADA","CA",0,1
+"Caicos Islands","TC",0,1
 "Cal.",,0,1
 "CALIFORNIA","US",0,1
 "Cam.","CM",0,1
@@ -2372,6 +2373,7 @@
 "GREENLAND SEA",,0,1
 "Greenland?","GL",0,1
 "Grenada","GD",1,1
+"Grenada & Grenadines","VC",0,1
 "Grenada W.I.","GD",0,1
 "GRENADINES","VC",0,1
 "Grenadines, B.W.I.","VC",0,1
@@ -2990,6 +2992,7 @@
 "Marianne Is.","SC",0,1
 "Marianne I's.","SC",0,1
 "Marianne or Japan ?",,0,1
+"Marie Galante","GP",0,1
 "Marion Island","ZA",0,1
 "Marocco","MA",0,1
 "Marquesa Is.","PF",0,1
@@ -3629,6 +3632,7 @@
 "Netherlands Antilles",,0,1
 "Netherlands New Guinea","ID",0,1
 "Netherlands, New Guinea","ID",0,1
+"Nevis","KN",0,1
 "New Britain","PG",0,1
 "New Britain ?","PG",0,1
 "New Britain [Bismarck Archip.]","PG",0,1
@@ -4212,6 +4216,7 @@
 "Rapa Island","PF",0,1
 "Rawanda","RW",0,1
 "Red Sea",,0,1
+"Redonda Is","AG",0,1
 "Reef I.","SB",0,1
 "Reg. of Avalo-Caspia",,0,1
 "Region IV Coquimbo","CL",0,1
@@ -4748,6 +4753,7 @@
 "S/West Australia","AU",0,1
 "S[illeg].Cameroon","CM",0,1
 "SA","SA",0,1
+"Saba","BQ",0,1
 "Saba Island","BQ",0,1
 "Sachlin I.","RU",0,1
 "Saghalien","RU",0,1
@@ -5228,7 +5234,10 @@
 "SRV",,0,1
 "SSR",,0,1
 "ST BARTHELEMY","BL",0,1
+"St Christopher","KN",0,1
+"St Croix","VI",0,1
 "St Domingo","DO",0,1
+"St Eustatius","BQ",0,1
 "ST KITTS","KN",0,1
 "St Lucia","LC",0,1
 "St Lucia, WI","LC",0,1
@@ -5236,6 +5245,7 @@
 "ST MARTIN","SX",0,1
 "St Mathias I.","PG",0,1
 "St Vincent","VC",0,1
+"St Vincent & Grenadines","VC",0,1
 "St. Aignan I.","PG",0,1
 "ST. AMDREW ISLAND",,0,1
 "St. Christopher","KN",0,1
@@ -5709,6 +5719,7 @@
 "Victoria Land","AQ",0,1
 "Viet Nam","VN",0,1
 "Vietnam","VN",1,1
+"Virgin Gorda","VG",0,1
 "Virgin Is.",,0,1
 "Virgin Is. (Brit.)","VG",0,1
 "Virgin Is. (U.S.)","VI",0,1
