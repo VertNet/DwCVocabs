@@ -17,70 +17,70 @@ M","unknown",0,1
 "
 M[F]","unknown",0,1
 """",,0,1
-"""?""","unknown",0,1
-"""?""[=M]","male",0,1
+"""?""","in question",0,1
+"""?""[=M]","in question",0,1
 """[illeg]""","unknown",0,1
 """[illeg]"" [app M]","male",0,1
 """[illeg]"" [presumably =F]","female",0,1
-"""F ? *","female",0,1
-"""F ? M""","unknown",0,1
+"""F ? *","in question",0,1
+"""F ? M""","in question",0,1
 """F [M]","unknown",0,1
 """F I think""","female",0,1
 """F M""","unknown",0,1
 """F""","female",0,1
 """F"" & ""M"" [app.=F]","unknown",0,1
-"""F"" ?","female",0,1
-"""F"" ? [=M]","unknown",0,1
-"""F"" ?[=M]","unknown",0,1
+"""F"" ?","in question",0,1
+"""F"" ? [=M]","in question",0,1
+"""F"" ?[=M]","in question",0,1
 """F"" [=app.M]","unknown",0,1
-"""F"" [=M ?]","unknown",0,1
+"""F"" [=M ?]","in question",0,1
 """F"" [=M prob.]","unknown",0,1
-"""F"" [=M?]","unknown",0,1
+"""F"" [=M?]","in question",0,1
 """F"" [=M]","unknown",0,1
 """F"" [=M]*","unknown",0,1
-"""F"" [=M]?","unknown",0,1
+"""F"" [=M]?","in question",0,1
 """F"" [app. M]","unknown",0,1
 """F"" [M]","unknown",0,1
 """F"" M","unknown",0,1
 """F""(M)","unknown",0,1
 """F""[=app. M]","unknown",0,1
-"""F""[=M?[im]]","unknown",0,1
-"""F""[=M?]","unknown",0,1
+"""F""[=M?[im]]","in question",0,1
+"""F""[=M?]","in question",0,1
 """F""[=M]","unknown",0,1
 """F""[Bill scratch indicates M]","unknown",0,1
 """F""[from size is a M]","unknown",0,1
 """F""[is size of M]","unknown",0,1
 """F""[M*]","unknown",0,1
 """F""[M]","unknown",0,1
-"""F(?)""","female",0,1
-"""F?""","female",0,1
-"""F?""[=F]","female",0,1
-"""F?""[=M]","unknown",0,1
+"""F(?)""","in question",0,1
+"""F?""","in question",0,1
+"""F?""[=F]","in question",0,1
+"""F?""[=M]","in question",0,1
 """hor, F'","female",0,1
 """Im. F""; Sex ambiguous","unknown",0,1
-"""M (?) [=M]","male",0,1
+"""M (?) [=M]","in question",0,1
 """M [F]","unknown",0,1
-"""M or F ?""","unknown",0,1
+"""M or F ?""","in question",0,1
 """M""","male",0,1
-"""M"" ?","male",0,1
-"""M"" [=F ?]","unknown",0,1
+"""M"" ?","in question",0,1
+"""M"" [=F ?]","in question",0,1
 """M"" [=F app.]","unknown",0,1
 """M"" [=F surely]","female",0,1
-"""M"" [=F?]","unknown",0,1
+"""M"" [=F?]","in question",0,1
 """M"" [=F]","unknown",0,1
 """M"" [app. F]","unknown",0,1
 """M"" [app. M]","unknown",0,1
 """M"" [little doubt =F]","female",0,1
 """M"" app.[=F]","unknown",0,1
-"""M""[=F?]","unknown",0,1
+"""M""[=F?]","in question",0,1
 """M""[=F]","unknown",0,1
-"""M""[F?]","unknown",0,1
-"""M""=F ?","unknown",0,1
+"""M""[F?]","in question",0,1
+"""M""=F ?","in question",0,1
 """M""F","unknown",0,1
 """M: [apparently =F]","unknown",0,1
-"""M?""","male",0,1
-"""M?""[=M]","male",0,1
-"""M?""[=underlined M]","male",0,1
+"""M?""","in question",0,1
+"""M?""[=M]","in question",0,1
+"""M?""[=underlined M]","in question",0,1
 """Male""","male",0,1
 """O""","unknown",0,1
 """O""[=F]","female",0,1
@@ -89,29 +89,29 @@ M[F]","unknown",0,1
 "(""M ad"")No! is juv","male",0,1
 "(?)","unknown",0,1
 "(?) six","unknown",0,1
-"(F ?)","female",0,1
+"(F ?)","in question",0,1
 "(F)","female",0,1
-"(F) ?","female",0,1
+"(F) ?","in question",0,1
 "(F)=[M]","unknown",0,1
-"(F?)","female",0,1
+"(F?)","in question",0,1
 "(Female)","female",0,1
-"(Female?)","female",0,1
-"(M ?)","male",0,1
-"(M ?) [F]","unknown",0,1
+"(Female?)","in question",0,1
+"(M ?)","in question",0,1
+"(M ?) [F]","in question",0,1
 "(M =)[F]","unknown",0,1
 "(M apparantly)","male",0,1
-"(M Im ?)","male",0,1
+"(M Im ?)","in question",0,1
 "(M)","male",0,1
-"(M) ?","male",0,1
-"(M) ?)","male",0,1
+"(M) ?","in question",0,1
+"(M) ?)","in question",0,1
 "(M)=(F)","unknown",0,1
 "(M)=F","unknown",0,1
-"(M/F?)","unknown",0,1
-"(M?)","male",0,1
-"(M?)=[F]","unknown",0,1
-"(Male or Female ?)","unknown",0,1
+"(M/F?)","in question",0,1
+"(M?)","in question",0,1
+"(M?)=[F]","in question",0,1
+"(Male or Female ?)","in question",0,1
 "(Male)","male",0,1
-"(Male)?","male",0,1
+"(Male)?","in question",0,1
 "(Sex Unknown)","unknown",0,1
 "(sex?)","unknown",0,1
 "*","unknown",0,1
@@ -120,51 +120,51 @@ M[F]","unknown",0,1
 "?","unknown",0,1
 "--?","unknown",0,1
 "-?-","unknown",0,1
-"? (F)","female",0,1
-"? (M)","male",0,1
+"? (F)","in question",0,1
+"? (M)","in question",0,1
 "? (sign blurred)","unknown",0,1
-"? [=F]","female",0,1
-"? [=M?]","male",0,1
-"? [=M]","male",0,1
-"? [M]","male",0,1
-"? [Male]","male",0,1
-"? [surely F]","female",0,1
-"? = F","female",0,1
-"? = M","male",0,1
+"? [=F]","in question",0,1
+"? [=M?]","in question",0,1
+"? [=M]","in question",0,1
+"? [M]","in question",0,1
+"? [Male]","in question",0,1
+"? [surely F]","in question",0,1
+"? = F","in question",0,1
+"? = M","in question",0,1
 "? AD.","unknown",0,1
 "? br.","unknown",0,1
-"? F","female",0,1
+"? F","in question",0,1
 "? IMM","unknown",0,1
 "? JUV","unknown",0,1
-"? M","male",0,1
-"? M.","male",0,1
+"? M","in question",0,1
+"? M.","in question",0,1
 "?, adult","unknown",0,1
 "?, immature","unknown",0,1
 "?, juvenile","unknown",0,1
 "?. Adult","unknown",0,1
 "??","unknown",0,1
-"--?[=F]","female",0,1
-"?[=Female]","female",0,1
-"--?[=M]","male",0,1
-"?[F]","female",0,1
-"?[Female]","female",0,1
-"?[illeg] [M]","male",0,1
-"?[M]","male",0,1
-"?=F","female",0,1
-"?=M","male",0,1
-"?F","female",0,1
-"?Female","female",0,1
-"?M","male",0,1
-"?M*","male",0,1
-"?Male","male",0,1
-"[""M"" or F ?]","unknown",0,1
+"--?[=F]","in question",0,1
+"?[=Female]","in question",0,1
+"--?[=M]","in question",0,1
+"?[F]","in question",0,1
+"?[Female]","in question",0,1
+"?[illeg] [M]","in question",0,1
+"?[M]","in question",0,1
+"?=F","in question",0,1
+"?=M","in question",0,1
+"?F","in question",0,1
+"?Female","in question",0,1
+"?M","in question",0,1
+"?M*","in question",0,1
+"?Male","in question",0,1
+"[""M"" or F ?]","in question",0,1
 "[?]","unknown",0,1
-"[?F]","female",0,1
-"[?Female]","female",0,1
+"[?F]","in question",0,1
+"[?Female]","in question",0,1
 "[[illeg]]","unknown",0,1
-"[=F?]M","unknown",0,1
+"[=F?]M","in question",0,1
 "--[=F]","female",0,1
-"[=M ?]","male",0,1
+"[=M ?]","in question",0,1
 "[=M]","male",0,1
 "--[=M]","male",0,1
 "[=M] F","unknown",0,1
@@ -175,36 +175,36 @@ M[F]","unknown",0,1
 "[almost surely a F]","female",0,1
 "[app F]","female",0,1
 "--[app. F]","female",0,1
-"[F ?]","female",0,1
-"[F ?] M","unknown",0,1
+"[F ?]","in question",0,1
+"[F ?] M","in question",0,1
 "[F ]","female",0,1
 "[F M]","unknown",0,1
 "[F or M]","unknown",0,1
 "--[F or M]","unknown",0,1
 "[F pract. certainly]","female",0,1
-"[F?]","female",0,1
-"--[F?]","female",0,1
+"[F?]","in question",0,1
+"--[F?]","in question",0,1
 "[f]","female",0,1
 "--[F]","female",0,1
 "[F]-","female",0,1
 "[F] ""M""","unknown",0,1
-"[F] ?","female",0,1
-"[F] ? M","unknown",0,1
+"[F] ?","in question",0,1
+"[F] ? M","in question",0,1
 "[F] [M]","unknown",0,1
 "[F] F","female",0,1
 "[F] M","unknown",0,1
 "[F] see Collector's notes","female",0,1
 "[f], adult","female",0,1
 "[f], immature","female",0,1
-"[F]?","female",0,1
+"[F]?","in question",0,1
 "[F]=(M)","unknown",0,1
 "[F]M","unknown",0,1
 "[F]sic","female",0,1
 "[F}","female",0,1
-"[Female?]","female",0,1
-"[Female?] by plumage","female",0,1
+"[Female?]","in question",0,1
+"[Female?] by plumage","in question",0,1
 "[Female]","female",0,1
-"[Female]?","female",0,1
+"[Female]?","in question",0,1
 "[illeg.]","unknown",0,1
 "[illeg]","unknown",0,1
 "[illeg] F","female",0,1
@@ -219,24 +219,24 @@ M[F]","unknown",0,1
 "[juv. Male]","male",0,1
 "[Juv.]","unknown",0,1
 "[M","male",0,1
-"[M ?]","male",0,1
-"[M ?] (illeg.)","male",0,1
+"[M ?]","in question",0,1
+"[M ?] (illeg.)","in question",0,1
 "[M imm.]F","unknown",0,1
 "[M imm]","male",0,1
 "[M pract. certainly]","male",0,1
-"[M?]","male",0,1
+"[M?]","in question",0,1
 "[m]","male",0,1
 "--[M]","male",0,1
-"[M] ?","male",0,1
+"[M] ?","in question",0,1
 "[M] F","unknown",0,1
 "[M] see Collector's notes","male",0,1
 "[M]""F""","unknown",0,1
 "[m], adult","male",0,1
-"[M]?","male",0,1
+"[M]?","in question",0,1
 "[M]F","unknown",0,1
 "[M]ns","male",0,1
 "[M=] F","unknown",0,1
-"[Male?]","male",0,1
+"[Male?]","in question",0,1
 "[Male]","male",0,1
 "[Male] by plumage","male",0,1
 "[size Female]","female",0,1
@@ -253,11 +253,12 @@ M[F]","unknown",0,1
 "<","unknown",0,1
 "=[F]M","unknown",0,1
 ">",,0,1
-"0?",,0,1
+"0?","unknown",0,1
 "1",,0,1
 "1 hemipene, throat white, scales",,0,1
 "11","unknown",0,1
 "13","unknown",0,1
+"17.5","unknown",0,1
 "2",,0,1
 "263.5","unknown",0,1
 "3","unknown",0,1
@@ -268,13 +269,13 @@ M[F]","unknown",0,1
 "ad","unknown",0,1
 "ad sex ?","unknown",0,1
 "AD. ?","unknown",0,1
-"AD. ? FEMALE","female",0,1
-"AD. ? MALE","male",0,1
+"AD. ? FEMALE","in question",0,1
+"AD. ? MALE","in question",0,1
 "AD. FEMALE (LIKELY)","female",0,1
-"AD. MALE?","male",0,1
+"AD. MALE?","in question",0,1
 "AD.?","unknown",0,1
-"AD.? FEMALE","female",0,1
-"AD.? MALE","male",0,1
+"AD.? FEMALE","in question",0,1
+"AD.? MALE","in question",0,1
 "AD?","unknown",0,1
 "ADM","unknown",0,1
 "Adult + [Juvenile]","unknown",0,1
@@ -308,35 +309,35 @@ M[F]","unknown",0,1
 "F","female",0,1
 "F  [=M]","unknown",0,1
 "F !","female",0,1
-"F (? M)","unknown",0,1
-"F (?)","female",0,1
-"F (=?)","female",0,1
+"F (? M)","in question",0,1
+"F (?)","in question",0,1
+"F (=?)","in question",0,1
 "F (=M)","unknown",0,1
-"F (M ?)","unknown",0,1
+"F (M ?)","in question",0,1
 "F (M juv.)","unknown",0,1
 "F (M)","unknown",0,1
 "F (with curved line resting on t","female",0,1
-"F )?)","female",0,1
-"F ?","female",0,1
-"F ? (M ?)","unknown",0,1
-"F ? (M J)","unknown",0,1
-"F ? (M)","unknown",0,1
-"F ? [=F]","female",0,1
-"F ? [=M]","unknown",0,1
-"F ? [M]","unknown",0,1
-"F ? ARP","female",0,1
-"F ? IMM","female",0,1
-"F ? JUV","female",0,1
-"F ? M","unknown",0,1
-"F ? or M?","unknown",0,1
-"F ??","female",0,1
-"F ?[=M]","unknown",0,1
+"F )?)","in question",0,1
+"F ?","in question",0,1
+"F ? (M ?)","in question",0,1
+"F ? (M J)","in question",0,1
+"F ? (M)","in question",0,1
+"F ? [=F]","in question",0,1
+"F ? [=M]","in question",0,1
+"F ? [M]","in question",0,1
+"F ? ARP","in question",0,1
+"F ? IMM","in question",0,1
+"F ? JUV","in question",0,1
+"F ? M","in question",0,1
+"F ? or M?","in question",0,1
+"F ??","in question",0,1
+"F ?[=M]","in question",0,1
 "F [!]","female",0,1
-"F [?]","female",0,1
+"F [?]","in question",0,1
 "F [= M]","unknown",0,1
 "F [=almost sure M]","male",0,1
-"F [=M ?]","unknown",0,1
-"F [=M?]","unknown",0,1
+"F [=M ?]","in question",0,1
+"F [=M?]","in question",0,1
 "F [=M]","unknown",0,1
 "'F' [=M]","unknown",0,1
 "F [F M]","unknown",0,1
@@ -345,25 +346,25 @@ M[F]","unknown",0,1
 "F [illeg]","female",0,1
 "f [juvenile]","female",0,1
 "F [likely a M]","male",0,1
-"F [M ?]","unknown",0,1
+"F [M ?]","in question",0,1
 "F [M!]","unknown",0,1
-"F [M?]","unknown",0,1
+"F [M?]","in question",0,1
 "F [M]","unknown",0,1
 "'F' [M]","unknown",0,1
-"F [M] ?","unknown",0,1
+"F [M] ?","in question",0,1
 "F [M]!","unknown",0,1
 "F [M=]","unknown",0,1
-"F [perhaps M ?]","unknown",0,1
+"F [perhaps M ?]","in question",0,1
 "F [Sign not very legible]","female",0,1
 "F [sure=M]","male",0,1
 "F +","female",0,1
 "F ++","female",0,1
 "F =","female",0,1
-"F = [M Juv.]?","unknown",0,1
+"F = [M Juv.]?","in question",0,1
 "F = [M]","unknown",0,1
 "F = M","unknown",0,1
 "F =[M]","unknown",0,1
-"F =M ?","unknown",0,1
+"F =M ?","in question",0,1
 "F AD","female",0,1
 "F Adu.","female",0,1
 "F AHY","female",0,1
@@ -372,9 +373,9 @@ M[F]","unknown",0,1
 "F IMM","female",0,1
 "F JUV","female",0,1
 "F JUV.","female",0,1
-"F JUV?","female",0,1
+"F JUV?","in question",0,1
 "F M","unknown",0,1
-"F M ?","unknown",0,1
+"F M ?","in question",0,1
 "F mate of #358","female",0,1
 "F o.n.e.","female",0,1
 "F o.s.e.","female",0,1
@@ -387,16 +388,16 @@ M[F]","unknown",0,1
 "F with eggs","female",0,1
 "F!","female",0,1
 "F! [M]","unknown",0,1
-"F(?)","female",0,1
-"f(?), adult","female",0,1
-"F(?)M","unknown",0,1
-"F(?M juv)","unknown",0,1
-"F(?M)","unknown",0,1
+"F(?)","in question",0,1
+"f(?), adult","in question",0,1
+"F(?)M","in question",0,1
+"F(?M juv)","in question",0,1
+"F(?M)","in question",0,1
 "F(a M im - L.F)","unknown",0,1
 "f(by Plumage)","female",0,1
 "F(M juv.)","unknown",0,1
 "F(M)","unknown",0,1
-"F(M?)","unknown",0,1
+"F(M?)","in question",0,1
 "F*","female",0,1
 "f, adult","female",0,1
 "f, immature","female",0,1
@@ -412,36 +413,36 @@ M[F]","unknown",0,1
 "F/juvenile","female",0,1
 "F/M","unknown",0,1
 "F/NESTLING","female",0,1
-"F?","female",0,1
-"F-?","female",0,1
-"F? M juv","unknown",0,1
-"F?(M juv)","unknown",0,1
-"F?(M)","unknown",0,1
-"F?)","female",0,1
-"F?*","female",0,1
-"F?/AD","female",0,1
-"F?/FLEDGLING","female",0,1
-"F?/IMM","female",0,1
-"F??","female",0,1
-"F?[=M]","unknown",0,1
-"F?[M]","unknown",0,1
-"F?M","unknown",0,1
-"F[* with ? below *]","female",0,1
-"F[?]","female",0,1
-"F-[?](See Remarks)","female",0,1
-"F[?]*","female",0,1
+"F?","in question",0,1
+"F-?","in question",0,1
+"F? M juv","in question",0,1
+"F?(M juv)","in question",0,1
+"F?(M)","in question",0,1
+"F?)","in question",0,1
+"F?*","in question",0,1
+"F?/AD","in question",0,1
+"F?/FLEDGLING","in question",0,1
+"F?/IMM","in question",0,1
+"F??","in question",0,1
+"F?[=M]","in question",0,1
+"F?[M]","in question",0,1
+"F?M","in question",0,1
+"F[* with ? below *]","in question",0,1
+"F[?]","in question",0,1
+"F-[?](See Remarks)","in question",0,1
+"F[?]*","in question",0,1
 "F[=M ad]","unknown",0,1
-"F[=M?]","unknown",0,1
+"F[=M?]","in question",0,1
 "F[=M]","unknown",0,1
 "'F'[=M]","unknown",0,1
 "F[almost surely a M from size]","male",0,1
 "F[illeg]","female",0,1
-"F[M ?]","unknown",0,1
+"F[M ?]","in question",0,1
 "F[M juv.]","unknown",0,1
 "F[M juv]","unknown",0,1
-"F[M?]","unknown",0,1
+"F[M?]","in question",0,1
 "F[M]","unknown",0,1
-"F[M]?!","unknown",0,1
+"F[M]?!","in question",0,1
 "F]","female",0,1
 "F`","female",0,1
 "F~","female",0,1
@@ -451,20 +452,20 @@ M[F]","unknown",0,1
 "F'CHICK'","female",0,1
 "FD","female",0,1
 "female","female",1,1
-"Female (?)","female",0,1
+"Female (?)","in question",0,1
 "Female (likely)","female",0,1
 "Female (probably)","female",0,1
-"Female ?","female",0,1
-"Female [?]","female",0,1
-"Female [Male?]","unknown",0,1
+"Female ?","in question",0,1
+"Female [?]","in question",0,1
+"Female [Male?]","in question",0,1
 "Female [Male]","unknown",0,1
 "Female and 1 newborn","female",0,1
 "female and male","hermaphrodite",0,1
 "Female br.","female",0,1
-"Female(?)","female",0,1
+"Female(?)","in question",0,1
 "Female, but has male plumage","female",0,1
 "Female, nest","female",0,1
-"female?","female",0,1
+"female?","in question",0,1
 "Female[illeg]","female",0,1
 "females","female",0,1
 "FF","unknown",0,1
@@ -514,12 +515,12 @@ M[F]","unknown",0,1
 "IMF","unknown",0,1
 "IMM","unknown",0,1
 "IMM ?","unknown",0,1
-"IMM. FEMALE?","female",0,1
+"IMM. FEMALE?","in question",0,1
 "IMM?","unknown",0,1
 "immature","immature",1,1
 "Indeterminate","unknown",0,1
 "J","unknown",0,1
-"JU?. MALE?","male",0,1
+"JU?. MALE?","in question",0,1
 "juv","unknown",0,1
 "JUV ?","unknown",0,1
 "juv.","unknown",0,1
@@ -541,52 +542,52 @@ M[F]","unknown",0,1
 "M !","male",0,1
 "M ! F","unknown",0,1
 "M ""hor""","male",0,1
-"M (?)","male",0,1
-"M (?) (M)","male",0,1
-"M (=F ?)","unknown",0,1
+"M (?)","in question",0,1
+"M (?) (M)","in question",0,1
+"M (=F ?)","in question",0,1
 "M (=F)","unknown",0,1
 "M (BASED ON PLUMAGE)","male",0,1
 "m (by plumage)","male",0,1
-"M (F ?)","unknown",0,1
+"M (F ?)","in question",0,1
 "M (F!)","unknown",0,1
 "M (F(","unknown",0,1
 "M (F)","unknown",0,1
-"M ?","male",0,1
-"M ? (F)","unknown",0,1
-"M ? [=F]","unknown",0,1
-"M ? [=M]","unknown",0,1
-"'M' ? [=M]","unknown",0,1
-"M ? [=surely a F]","female",0,1
-"M ? [F]","unknown",0,1
-"M ? = [F]","unknown",0,1
-"M ? =[F]","unknown",0,1
-"M ? F","unknown",0,1
-"M ? F ?","unknown",0,1
-"M ??","male",0,1
-"M ?[=F]","unknown",0,1
-"M ?[F]","unknown",0,1
-"M [?]","male",0,1
-"M [?]*","male",0,1
+"M ?","in question",0,1
+"M ? (F)","in question",0,1
+"M ? [=F]","in question",0,1
+"M ? [=M]","in question",0,1
+"'M' ? [=M]","in question",0,1
+"M ? [=surely a F]","in question",0,1
+"M ? [F]","in question",0,1
+"M ? = [F]","in question",0,1
+"M ? =[F]","in question",0,1
+"M ? F","in question",0,1
+"M ? F ?","in question",0,1
+"M ??","in question",0,1
+"M ?[=F]","in question",0,1
+"M ?[F]","in question",0,1
+"M [?]","in question",0,1
+"M [?]*","in question",0,1
 "M [= F]","unknown",0,1
-"M [=F ?]","unknown",0,1
+"M [=F ?]","in question",0,1
 "M [=F apparently]","unknown",0,1
-"M [=F?]","unknown",0,1
+"M [=F?]","in question",0,1
 "M [=F]","unknown",0,1
 "M [almost surely F]","female",0,1
 "M [apparantly F]","unknown",0,1
-"M [F ?]","unknown",0,1
+"M [F ?]","in question",0,1
 "M [F!]","unknown",0,1
-"M [F?]","unknown",0,1
-"'M' [F?]","unknown",0,1
+"M [F?]","in question",0,1
+"'M' [F?]","in question",0,1
 "M [F]","unknown",0,1
 "M [F]!","unknown",0,1
-"M [illeg. ?]","male",0,1
+"M [illeg. ?]","in question",0,1
 "M [illeg]","male",0,1
 "M [M]","male",0,1
 "M [on coll label]","male",0,1
 "M [or F]","unknown",0,1
 "M [perhaps a F]","unknown",0,1
-"M [perhaps F?]","unknown",0,1
+"M [perhaps F?]","in question",0,1
 "M [prob. a F]","female",0,1
 "M [prob. F]","female",0,1
 "M +","male",0,1
@@ -612,15 +613,15 @@ M[F]","unknown",0,1
 "M prop.","male",0,1
 "M R","male",0,1
 "M!","male",0,1
-"M(?)","male",0,1
-"m(?), adult","male",0,1
-"M(?F)","unknown",0,1
+"M(?)","in question",0,1
+"m(?), adult","in question",0,1
+"M(?F)","in question",0,1
 "M(crossed out)","unknown",0,1
 "M(F)","unknown",0,1
-"M(F?)","unknown",0,1
+"M(F?)","in question",0,1
 "M(i.e. upside down ""F"")","unknown",0,1
 "M*","male",0,1
-"M* with [?] written in pencil af","male",0,1
+"M* with [?] written in pencil af","in question",0,1
 "m, 2nd-year","male",0,1
 "m, adult","male",0,1
 "m, immature","male",0,1
@@ -637,31 +638,31 @@ M[F]","unknown",0,1
 "M/JUV","male",0,1
 "M/juvenile","male",0,1
 "M/NESTLING","male",0,1
-"M?","male",0,1
-"M-?","male",0,1
-"M? or M","male",0,1
-"M?(F)","unknown",0,1
-"M?(Fjuv.)","unknown",0,1
-"m?, adult","male",0,1
-"M??","male",0,1
-"M?[=illeg]","male",0,1
-"M?F","unknown",0,1
-"M?F?","unknown",0,1
-"M[* with ? below *]","male",0,1
-"M[?]","male",0,1
-"M[?]*","male",0,1
-"M[=F?]","unknown",0,1
+"M?","in question",0,1
+"M-?","in question",0,1
+"M? or M","in question",0,1
+"M?(F)","in question",0,1
+"M?(Fjuv.)","in question",0,1
+"m?, adult","in question",0,1
+"M??","in question",0,1
+"M?[=illeg]","in question",0,1
+"M?F","in question",0,1
+"M?F?","in question",0,1
+"M[* with ? below *]","in question",0,1
+"M[?]","in question",0,1
+"M[?]*","in question",0,1
+"M[=F?]","in question",0,1
 "M[=F]","unknown",0,1
 "M[app=F]","unknown",0,1
 "M[app'y = F]WM.","unknown",0,1
-"M[F?]","unknown",0,1
+"M[F?]","in question",0,1
 "M[F]","unknown",0,1
 "M[illeg]","male",0,1
 "M[M]","male",0,1
 "M]","male",0,1
 "M`","male",0,1
 "M~","male",0,1
-"M=[F ?]","unknown",0,1
+"M=[F ?]","in question",0,1
 "M=[F] C.H.R.","unknown",0,1
 "M7","male",0,1
 "Ma","male",0,1
@@ -693,20 +694,21 @@ M[F]","unknown",0,1
 "macho test esc","male",0,1
 "male","male",1,1
 "male & female","male, female",0,1
-"male (?)","male",0,1
-"Male (by bleeding?)","male",0,1
+"male (?)","in question",0,1
+"Male (by bleeding?)","in question",0,1
 "Male (likely)","male",0,1
-"Male ?","male",0,1
-"Male [?]","male",0,1
-"Male [Female?]","unknown",0,1
+"Male ?","in question",0,1
+"Male [?]","in question",0,1
+"Male [Female?]","in question",0,1
 "Male [Female]","unknown",0,1
 "Male and Female","male, female",0,1
 "Male br.","male",0,1
 "Male Female","unknown",0,1
-"Male(?)","male",0,1
+"Male(?)","in question",0,1
 "Male, nest","male",0,1
-"Male?","male",0,1
-"Male[?]","male",0,1
+"male/female","unknown",0,1
+"Male?","in question",0,1
+"Male[?]","in question",0,1
 "Male+Female","male, female",0,1
 "males","male",0,1
 "males, females","males, females",1,1
@@ -723,6 +725,7 @@ M[F]","unknown",0,1
 "n.s.","unknown",0,1
 "n/","unknown",0,1
 "N/A","unknown",0,1
+"No","unknown",0,1
 "no data","unknown",0,1
 "No nuptial pads, throat white, n",,0,1
 "no sex","unknown",0,1
