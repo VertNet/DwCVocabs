@@ -3310,6 +3310,7 @@
 "Capra/Ovis",,"Bovidae","Artiodactyla","Mammalia","Chordata","Animalia","Mammal Species of the World. 2005.",0,1,"Genus contains two distinct genera.",0
 "Caprella",,,"CAPRELLIDA","CRUSTACEA; MALACOSTRACA","ARTHROPODA","Animalia",,0,0,,1
 "CAPREOLUS","Capreolus","Cervidae","Artiodactyla","Mammalia","Chordata","Animalia","ITIS",1,1,,0
+"capricorn","Capricornis","Bovidae","Artiodactyla","Mammalia","Chordata","Animalia","ITIS",0,1,"Genus misspelled.",0
 "Capricornis","Capricornis","Bovidae","Artiodactyla","Mammalia","Chordata","Animalia","Mammal Species of the World. 2005.",1,1,,0
 "Caprilmulgus","Caprimulgus","Caprimulgidae","Caprimulgiformes","Aves","Chordata","Animalia","ITIS",0,1,"Genus misspelled.",0
 "Caprimalgus","Caprimulgus","Caprimulgidae","Caprimulgiformes","Aves","Chordata","Animalia","ITIS",0,1,"Genus misspelled.",0
@@ -11463,6 +11464,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "LOXOCEMUS","Loxocemus","Loxocemidae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
 "Loxodon","Loxodon","Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: May 2012",1,1,,0
 "LOXODONTA","Loxodonta","Elephantidae","Proboscidea","Mammalia","Chordata","Animalia","ITIS",1,1,,0
+"loxodontomys","Auliscomys","Muridae","Rodentia","Mammalia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus is a synonym.",0
 "Loxoides",,,,"Aves","Chordata","Animalia",,0,1,"Not a genus.",0
 "Loxolithax",,"Kentriodontidae","Cetacea","Mammalia",,"Animalia",,0,0,,1
 "Loxolophus",,"Arctocyonidae","Condylarthra","Mammalia",,"Animalia",,0,0,,1
@@ -18689,6 +18691,7 @@ Colubridae: Xenodontinae). Herpetologica 52, 271-275.",0
 "Rubecula",,,,"Aves","Chordata","Animalia",,0,1,"Not a genus.",0
 "Rubigula",,,,"Aves","Chordata","Animalia",,0,1,"Not a genus.",0
 "Rubrisciurus","Rubrisciurus","Sciuridae","Rodentia","Mammalia","Chordata","Animalia","ITIS",1,1,,0
+"rucervus","Rucervus","Cervidae","Artiodactyla","Mammalia","Chordata","Animalia","ITIS",1,1,,0
 "Rudarius","Rudarius","Monacanthidae","Tetraodontiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Rudiomys",,"Aplodontidae","Rodentia","Mammalia",,"Animalia",,0,0,,1
 "Rukia","Rukia","Zosteropidae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
@@ -22483,7 +22486,9 @@ Colubridae: Xenodontinae). Herpetologica 52, 271-275.",0
 "Zyzomys","Zyzomys","Muridae","Rodentia","Mammalia","Chordata","Animalia","ITIS",1,1,,0
 "ZZ CHELONIIDAE UNDET",,"Cheloniidae","Testudines","Reptilia","Chordata","Animalia","The Reptile Database",0,1,"Genus is a family.",0
 "ZZ EMYDIDAE UNDET.",,"Emydidae","Testudines","Reptilia","Chordata","Animalia","The Reptile Database",0,1,"Genus is a family.",0
+"zzbat",,,,"Mammalia","Chordata","Animalia",,0,1,"Not a genus.",0
 "ZZBOVID",,"Bovidae","Artiodactyla","Mammalia","Chordata","Animalia",,0,1,"Not a genus.",0
 "ZZMURID",,"Muridae","Rodentia","Mammalia","Chordata","Animalia",,0,1,"Not a genus.",0
 "ZZPHYLLOSTOMID",,"Phyllostomidae","Chiroptera","Mammalia","Chordata","Animalia",,0,1,"Not a genus.",0
+"zzpitymys",,,,"Mammalia","Chordata","Animalia",,0,1,"Not a genus.",0
 "ZZWALLABY",,"Macropodidae","Diprotodontia","Mammalia","Chordata","Animalia",,0,1,"Not a genus.",0
