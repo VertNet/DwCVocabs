@@ -949,6 +949,7 @@
 "Bismark Is.","PG",0,1
 "Black Sea",,0,1
 "Black Sea or Caspian Sea",,0,1
+"Bodensee",,0,1
 "Boffin land","CA",0,1
 "Bogota","CO",0,1
 "Bohemia","CZ",0,1
@@ -1302,6 +1303,7 @@
 "CANARY ISLAND/S","ES",0,1
 "Canary Islands","ES",0,1
 "Cape Colony","ZA",0,1
+"Cape Province","ZA",0,1
 "Cape Seas (i.e. South African Seas)",,0,1
 "Cape Verde","CV",1,1
 "Cape Verde Is","CV",0,1
@@ -1424,6 +1426,7 @@
 "Central / South America",,0,1
 "Central Afghanistan","AF",0,1
 "CENTRAL AFRICA",,0,1
+"Central African Empire","CF",0,1
 "CENTRAL AFRICAN REP","CF",0,1
 "Central African Republic","CF",1,1
 "CENTRAL AMERICA",,0,1
@@ -1654,6 +1657,7 @@
 "Crimea","UA",0,1
 "Croatia","HR",1,1
 "Crozet Is.","FR",0,1
+"Crozet Island","TF",0,1
 "Crozet Islands","FR",0,1
 "Cuba","CU",1,1
 "Cuba (?)","CU",0,1
@@ -2114,6 +2118,7 @@
 "Fed. Malay Strait",,0,1
 "FEDERAL REPUBLI",,0,1
 "FEDERAL REPUBLIC GERMANY","DE",0,1
+"Federal Republic of Germany","DE",0,1
 "Federated States of Micronesia","FM",0,1
 "Federated States of Micronesia (Caroline Islands)","FM",0,1
 "Federated States of Micronesia?","FM",0,1
@@ -3584,6 +3589,7 @@
 "Narcondam I.","IN",0,1
 "NARES STRAIT",,0,1
 "Natal","ZA",0,1
+"Natal Province","ZA",0,1
 "Natuna I.","ID",0,1
 "Natuna Is.","ID",0,1
 "Nauna Islands","PG",0,1
@@ -3983,6 +3989,7 @@
 "off West Coast of Malay Peninsula",,0,1
 "off West Patagonia [Pacific Ocean]","CL",0,1
 "off Yugo slavia",,0,1
+"Okinawa","JP",0,1
 "Oklahoma","US",0,1
 "Olorua I.","FJ",0,1
 "Oman","OM",1,1
@@ -4762,6 +4769,7 @@
 "SA","SA",0,1
 "Saba","BQ",0,1
 "Saba Island","BQ",0,1
+"Sabah","ID",0,1
 "Sachlin I.","RU",0,1
 "Saghalien","RU",0,1
 "Saghalien I.","RU",0,1
@@ -5507,6 +5515,7 @@
 "Transcauscasica",,0,1
 "Trans-Jordania",,0,1
 "Transvaal","ZA",0,1
+"Transvaal Province","ZA",0,1
 "Transylvania","RO",0,1
 "Trinadad and Tobago","TT",0,1
 "Trindad [Trinida and Tobago]","TT",0,1
@@ -5631,6 +5640,7 @@
 "Unia I.","PG",0,1
 "Unia I. [Bismarck Archip.]","PG",0,1
 "Union Is.","VC",0,1
+"Union Of Soviet Socialist Republics",,0,1
 "United Arab Emirates","AE",1,1
 "United Kindom","GB",0,1
 "United Kingdom","GB",1,1
