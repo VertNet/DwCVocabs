@@ -1,13 +1,24 @@
 "identificationQualifier","standardidentificationQualifier","standard","checked"
 "(=Z. cornutus)",,0,1
+"(Alburnops) sp.","sp.",0,1
+"(Alburnops) sp. longirostris","sp.",0,1
+"(Alvordius) sp.","sp.",0,1
 "(aurulenta subsp.)","ssp.",0,1
 "(budytes ?) sp.","sp.",0,1
+"(Catonotus) sp.","sp.",0,1
+"(cyprinella) sp.","sp.",0,1
+"(Doration) sp.","sp.",0,1
+"(Etheostoma) sp.","sp.",0,1
 "(gyroloides subsp.)","ssp.",0,1
 "(Loricariichthys)sp.","sp.",0,1
+"(Nanostoma) sp.","sp.",0,1
 "(probably)","in question",0,1
+"(Pteronotropist) sp.","sp.",0,1
 "(s.s.) sp.","sp.",0,1
+"(slhumops) sp. longinostris","sp.",0,1
 "(sp. nov)","sp. nov.",0,1
 "(sp.?)","sp.",0,1
+"(Ulocentra) sp.","sp.",0,1
 "*specimen lost",,0,1
 "?","in question",0,1
 "? class","class in question",0,1
@@ -147,6 +158,7 @@
 "balsodichthys X sp.","balsodichthys X sp.",0,1
 "big",,0,1
 "broken",,0,1
+"c",,0,1
 "C. sp. X G. nycthemerus","C. sp. X G. nycthemerus",0,1
 "C. sp. X P. colchicus","C. sp. X P. colchicus",0,1
 "c.f. canadensis","cf.",0,1
@@ -233,6 +245,7 @@
 "colchicus mongolicus X colchicus ssp.","colchicus mongolicus X colchicus ssp.",0,1
 "Cryptodira",,0,1
 "curiosus sp. no","curiosus sp. nov.",0,1
+"cyanellus x L. sp.","cyanellus x L. sp.",0,1
 "cyanellus x sp.","cyanellus X sp.",0,1
 "egregia or sp. nov.","egregia or sp. nov.",0,1
 "EmydidC",,0,1
@@ -338,6 +351,7 @@
 "or M. seminoensis","species in question",0,1
 "or nr","cf.",0,1
 "or Pliohippus","genus in question",0,1
+"oreas x Nocomis sp.","oreas x Nocomis sp.",0,1
 "pandora X R. sp.","pandora X R. sp.",0,1
 "perlates (subsp.)","ssp.",0,1
 "pipilodryas sp.","pipilodryas sp. nov.",0,1
@@ -367,25 +381,36 @@
 "sp.","sp.",1,1
 "sp. ""kazumbe""","sp. nov.",0,1
 "sp. ""moshi""","sp. nov.",0,1
+"sp. ""sawfin shiner""","sp.",0,1
 "sp. ""walteri""","sp. nov.",0,1
 "sp. # 1","sp.",0,1
 "sp. (albino)","sp.",0,1
 "sp. (alnorum or trailli ?)","sp.",0,1
+"sp. (ammoceotes)","sp.",0,1
+"sp. (ammocoete)","sp.",0,1
+"sp. (ammocoetes)","sp.",0,1
+"sp. (broadtail madtom)","sp.",0,1
 "sp. (Caura, Orinoco)","sp.",0,1
+"sp. (Holston)","sp.",0,1
 "sp. (macconnelli / oleagineus)","sp.",0,1
 "sp. (migrans?)","sp.",0,1
 "sp. (peregrina or ruficapilla ?)","sp.",0,1
 "sp. (philadelphia X tolmei)","philadelphia X tolmei",0,1
 "sp. (possibly tolmiei)","sp.",0,1
 "sp. (prob. hybrid elegans X flaveolus)","sp.",0,1
+"sp. (redband)","sp.",0,1
 "sp. (speciosa or trichas)","sp.",0,1
+"sp. (stauriphora)","sp.",0,1
 "sp. (taeniura)","sp.",0,1
+"sp. (Tallapoosa sculpin)","sp.",0,1
 "sp. (trailii / alnorum [?])","sp.",0,1
 "sp. ?","species in question",0,1
 "sp. ??","sp.",0,1
 "sp. ???","sp.",0,1
 "sp. 1","sp.",0,1
+"sp. '1'","sp.",0,1
 "sp. 2","sp.",0,1
+"sp. '2'","sp.",0,1
 "sp. 3","sp.",0,1
 "sp. 4","sp.",0,1
 "sp. 5","sp.",0,1
@@ -402,7 +427,10 @@
 "sp. BBP2","sp. nov.",0,1
 "sp. BBP3","sp. nov.",0,1
 "sp. bennetti","sp. nov.",0,1
+"sp. 'Bluestone sculpin'","sp.",0,1
 "sp. bongolonensis","sp. nov.",0,1
+"sp. 'brindisi'","sp.",0,1
+"sp. 'broadtail'","sp.",0,1
 "sp. BSN1","sp. nov.",0,1
 "sp. BSN2","sp. nov.",0,1
 "sp. BSN9","sp. nov.",0,1
@@ -411,15 +439,86 @@
 "sp. BSP2","sp. nov.",0,1
 "sp. BSP4","sp. nov.",0,1
 "sp. C","sp.",0,1
+"sp. c.f. arcticus","cf. arcticus",0,1
+"sp. c.f. carbonaria","cf. carbonaria",0,1
+"sp. c.f. nigrofasciata","cf. nigrofasciata",0,1
 "sp. cf.","cf.",0,1
+"sp. cf. aestivalis","cf. aestivalis",0,1
+"sp. cf. aestivalis A","cf. aestivalis A",0,1
+"sp. cf. aestivalis B","cf. aestivalis B",0,1
+"sp. cf. aestivalis C","cf. aestivalis C",0,1
+"sp. cf. aestivalis D","cf. aestivalis D",0,1
+"sp. cf. aestivalis 'D'","cf. aestivalis D",0,1
+"sp. cf. albifimbria","cf. albifimbria",0,1
+"sp. cf. alfari","cf. alfari",0,1
+"sp. cf. asprigene","cf. asprigene",0,1
+"sp. cf. aureum","cf. aureum",0,1
+"sp. cf. austrinum","cf. austrinum",0,1
+"sp. cf. bairdi","cf. bairdi",0,1
+"sp. cf. bairdi 'hubbsi'","cf. bairdi",0,1
+"sp. cf. bairdi 'smoky'","cf. bairdi",0,1
+"sp. cf. balteatus","cf. balteatus",0,1
+"sp. cf. bardi","cf. bairdi",0,1
+"sp. cf. beldingi","cf. beldingi",0,1
+"sp. cf. bellator","cf. bellator",0,1
+"sp. cf. caeruleomentum","cf. caeruleomentum",0,1
+"sp. cf. caeruleum","cf. caeruleum",0,1
+"sp. cf. caprodes","cf. caprodes",0,1
+"sp. cf. carbonaria","cf. carbonaria",0,1
+"sp. cf. carolinae","cf. carolinae",0,1
+"sp. cf. clarki","cf. clarki",0,1
+"sp. cf. cognatus","cf. cognatus",0,1
+"sp. cf. coosae","cf. coosae",0,1
 "sp. cf. cyprinus x velifer","sp. cf. cyprinus x velifer",0,1
+"sp. cf. ditrema","cf. ditrema",0,1
+"sp. cf. elongatus","cf. elongatus",0,1
+"sp. cf. episcopa","cf. episcopa",0,1
+"sp. cf. erythrogaster","cf. erythrogaster",0,1
+"sp. cf. fenestratum","cf. fenestratum",0,1
+"sp. cf. floridae","cf. floridae",0,1
+"sp. cf. gagei","cf. gagei",0,1
+"sp. cf. hemiurus","cf. hemiurus",0,1
+"sp. cf. hypselopterus","cf. hypselopterus",0,1
+"sp. cf. lachneri","cf. lachneri",0,1
+"sp. cf. lentignosum","cf. lentignosum",0,1
+"sp. cf. leptacanthus","cf. leptacanthus",0,1
+"sp. cf. leuciodus","cf. leuciodus",0,1
+"sp. cf. longirostris","cf. longirostris",0,1
+"sp. cf. macrocephala","cf. macrocephala",0,1
+"sp. cf. munitus","cf. munitus",0,1
+"sp. cf. mykiss","cf. mykiss",0,1
+"sp. cf. occidentalis","cf. occidentalis",0,1
+"sp. cf. pantostictum","cf. pantostictum",0,1
+"sp. cf. parvus","cf. parvus",0,1
+"sp. cf. poecilurum","cf. poecilurum",0,1
+"sp. cf. punctulatum","cf. punctulatum",0,1
+"sp. cf. ramseyi","cf. ramseyi",0,1
+"sp. cf. rhytisma","cf. rhytisma",0,1
+"sp. cf. saylori","cf. saylori",0,1
+"sp. cf. septemfasciatum","cf. septemfasciatum",0,1
 "sp. cf. sollasi","sp. cf. sollasi",0,1
+"sp. cf. spectabile","cf. spectabile",0,1
+"sp. cf. spectrunculus","cf. spectrunculus",0,1
+"sp. cf. stigmaeum","cf. stigmaeum",0,1
+"sp. cf. swaini","cf. swaini",0,1
+"sp. cf. velifer","cf. velifer",0,1
+"sp. cf. vitreum","cf. vitreum",0,1
+"sp. cf. vitreus","cf. vitreus",0,1
+"sp. cf. vulgaris","cf. vulgaris",0,1
+"sp. cf. winchelli","cf. winchelli",0,1
+"sp. cf. zonistium","cf. zonistium",0,1
+"sp. 'chacamax'","sp.",0,1
+"sp. 'chomba'","sp.",0,1
+"sp. 'Clinch sculpin'","sp.",0,1
 "sp. D","sp.",0,1
 "sp. div.","sp. div.",0,1
 "sp. E","sp.",0,1
+"sp. 'ebano'","sp.",0,1
 "sp. F","sp.",0,1
 "sp. G","sp.",0,1
+"sp. 'grammarion' ms","sp.",0,1
 "sp. green","sp. nov.",0,1
+"sp. 'Holston sculpin'","sp.",0,1
 "sp. hybrid","sp. hybrid",0,1
 "sp. I","sp.",0,1
 "sp. II","sp.",0,1
@@ -427,10 +526,14 @@
 "sp. incert","sp. incert.",0,1
 "sp. incert.","sp. incert.",0,1
 "sp. indet.","sp. indet.",1,1
+"sp. 'las flores'","sp.",0,1
+"sp. 'lemon'","sp.",0,1
+"sp. lentigriosum","sp.",0,1
 "sp. lissmanni","sp. nov.",0,1
 "sp. magnostipes","sp. nov.",0,1
 "sp. missing","sp.",0,1
 "sp. ngouniensis","sp. nov.",0,1
+"sp. nigrum","sp.",0,1
 "sp. nov","sp. nov.",0,1
 "sp. nov 2","sp. nov.",0,1
 "sp. nov.","sp. nov.",0,1
@@ -447,14 +550,20 @@
 "sp. NZO","sp. nov.",0,1
 "sp. offouensis","sp. nov.",0,1
 "sp. okanoensis","sp. nov.",0,1
+"sp. 'o-lugubris'","sp.",0,1
+"sp. 'o-walacii'","sp.",0,1
+"sp. 'o-wallacii'","sp.",0,1
 "sp. parsegnis","sp. nov.",0,1
 "sp. puffinus","sp.",0,1
 "sp. robertsi","sp. nov.",0,1
 "sp. rufina","sp.",0,1
+"sp. 'sicklefin'","sp.",0,1
 "sp. SN3","sp. nov.",0,1
 "sp. SN4","sp. nov.",0,1
 "sp. SN9","sp. nov.",0,1
 "sp. szaboi","sp. nov.",0,1
+"sp. 'Tallapoosa sculpin'","sp.",0,1
+"sp. 'Teapa'","sp.",0,1
 "sp. tenuicauda","sp. nov.",0,1
 "sp. undet.","sp. incert.",0,1
 "sp. unnamed","sp.",0,1
@@ -477,6 +586,7 @@
 "sp.n","sp. nov.",0,1
 "sp.--not M. mogollonensis","sp.",0,1
 "sp.nov.","sp. nov.",0,1
+"sp.'o-walacii'","sp.",0,1
 "sp?","species in question",0,1
 "sp?, worn","species in question",0,1
 "sp?; L > 4mm (Weil 2004)","species in question",0,1
@@ -498,6 +608,7 @@
 "subsp. ","ssp.",0,1
 "subspecies in question","subspecies in question",1,1
 "subspecies questioned","subspecies in question",0,1
+"tabira ssp. 1","ssp.",0,1
 "tent sp","species in question",0,1
 "tribe: Microtini",,0,1
 "trimerorhachis also",,0,1
