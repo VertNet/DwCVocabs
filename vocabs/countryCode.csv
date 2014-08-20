@@ -718,7 +718,9 @@
 "Aru Is,","ID",0,1
 "Aru Is.","ID",0,1
 "Aru Is. ?","ID",0,1
+"Aru Islands?","ID",0,1
 "Aruba","AW",1,1
+"Aruba Island","AW",0,1
 "Ary Is.",,0,1
 "Ascension I.","SH",0,1
 "Ascension Island","SH",0,1
@@ -2575,6 +2577,7 @@
 "Indonesia","ID",1,1
 "Indonesia, New Guinea Id","ID",0,1
 "Indonesia: Sulawesi","ID",0,1
+"Indonesia-Gt. Sunda","ID",0,1
 "Indonesia-Malaysia",,0,1
 "Indrulaman I.","ID",0,1
 "Inland Center E. Madagascar","MG",0,1
@@ -2928,7 +2931,9 @@
 "Malacca","ID",0,1
 "Malacca or Borneo",,0,1
 "Malacca Strs.","ID",0,1
+"Malagasy","MG",0,1
 "MALAGASY REPUBLIC","MG",0,1
+"Malasia","MY",0,1
 "Malawi","MW",1,1
 "Malawi (Nyasaland)","MW",0,1
 "Malawi / Mozambique / Tanzania",,0,1
@@ -3108,6 +3113,7 @@
 "Moluccas ?","ID",0,1
 "MOLUCCAS IS","ID",0,1
 "Moluccas Is.","ID",0,1
+"Moluccas Islands","ID",0,1
 "Monaco","MC",0,1
 "Mongolia","MN",1,1
 "MONGOLIA?","MN",0,1
@@ -3748,6 +3754,7 @@
 "NO DATA",,0,1
 "NO LOCALITY DAT",,0,1
 "NO LOCALITY DATA",,0,1
+"No other data",,0,1
 "No Record",,0,1
 "No. Angola","AO",0,1
 "No. Iceland","IS",0,1
@@ -4813,6 +4820,7 @@
 "San Domingo","DO",0,1
 "San José",,0,1
 "San Salvador",,0,1
+"San Salvador Island",,0,1
 "San Thomé","ST",0,1
 "San Thome I","ST",0,1
 "San Thomé I","ST",0,1
@@ -4846,7 +4854,9 @@
 "Santo Domingo, D. West Indies","DO",0,1
 "Santo Domingo, R.D.","DO",0,1
 "SAO TOME","ST",0,1
+"São Tomé","ST",0,1
 "Sao Tome & Principe","ST",0,1
+"São Tomé & Principe","ST",0,1
 "SAO TOME / PRINCIPE","ST",0,1
 "Sao Tome and Principe","ST",1,1
 "São Tomé and Príncipe","ST",1,1
@@ -4861,6 +4871,7 @@
 "Satonda I.","ID",0,1
 "Saudi Arab","SA",0,1
 "Saudi Arabia","SA",1,1
+"Saudia Arabia","SA",0,1
 "Savage I. = Niue I.","NU",0,1
 "Savannah near Panama","PA",0,1
 "Savannah of D. Guiana, Surinam","SR",0,1
@@ -4916,6 +4927,7 @@
 "S'ern, Mex.","MX",0,1
 "Servia","RS",0,1
 "Seven Is.",,0,1
+"Seychellas","SC",0,1
 "SEYCHELLE IS","SC",0,1
 "Seychelle Is.","SC",0,1
 "Seychelle Islands","SC",0,1
@@ -5029,7 +5041,9 @@
 "Sokotia I.","YE",0,1
 "Sokotra I","YE",0,1
 "Sokotra I.","YE",0,1
+"Soloman Islands","SB",0,1
 "Solomen Is.","SB",0,1
+"Solomon","SB",0,1
 "Solomon I","SB",0,1
 "Solomon I.","SB",0,1
 "Solomon Ids","SB",0,1
@@ -5247,6 +5261,7 @@
 "Squally I.","PG",0,1
 "Squally or Storm I.","PG",0,1
 "Sri Lanka","LK",1,1
+"Sri Lanka (Ceylon)","LK",0,1
 "SRIL","LK",0,1
 "SRV",,0,1
 "SSR",,0,1
@@ -5608,6 +5623,7 @@
 "U S VIRGIN ISLAND/S","VI",0,1
 "U. Burma","MM",0,1
 "U. Coast of Madagascar","MG",0,1
+"U. S. Virgin Islands","VI",0,1
 "U. S. Virgin Isls.","VI",0,1
 "U..P. India","IN",0,1
 "U.K","GB",0,1
@@ -6082,6 +6098,7 @@
 "West Java","ID",0,1
 "West Kenya","KE",0,1
 "West Madagascar","MG",0,1
+"West Malaysia","MY",0,1
 "West Mexico","MX",0,1
 "West New Guinea","ID",0,1
 "West of Ireland; [Atlantic Ocean]","IE",0,1
