@@ -11642,6 +11642,17 @@ R PERIPHERALS 2 - 3.",,0,0
 "Feathers (crest)",,0,0
 "Feathers (from flanks)",,0,0
 "Feathers (wing)",,0,0
+"feathers ,feathers","feathers",0,1
+"feathers ,Skel","feathers, skeleton",0,1
+"feathers ,Skel ,wing","feathers, skeleton, wing",0,1
+"feathers ,Skin","feathers, skin",0,1
+"feathers ,Skin ,Skel ,Skel","feathers, skin, skeleton",0,1
+"feathers ,tissue ,Skel ,wing","feathers, skeleton, tissue, wing",0,1
+"feathers ,tissue ,wing ,Skel","feathers, skeleton, tissue, wing",0,1
+"feathers ,wing","feathers, wing",1,1
+"feathers ,wing ,Skel","feathers, skeleton, wing",0,1
+"feathers ,wing ,Skel ,tissue","feathers, skeleton, tissue, wing",0,1
+"feathers ,wing ,tissue ,Skel","feathers, skeleton, tissue, wing",0,1
 "feathers, skeleton",,0,0
 "feathers, tail, wing",,0,0
 "FEATHERS, tissue","feathers, tissue",0,1
@@ -34620,6 +34631,27 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel - null; Feather - 1","Skel - null; Feather - 1",0,1
 "Skel - null; Flat_skin - 1","Skel - null; Flat_skin - 1",0,1
 "skel (partial)","partial skeleton",0,1
+"Skel ,feathers","feathers, skeleton",0,1
+"Skel ,feathers ,tissue","feathers, skeleton, tissue",0,1
+"Skel ,feathers ,tissue ,wing","feathers, skeleton, tissue, wing",0,1
+"Skel ,feathers ,wing","feathers, skeleton, wing",0,1
+"Skel ,feathers ,wing ,tissue","feathers, skeleton, tissue, wing",0,1
+"Skel ,Skel","skeleton",0,1
+"Skel ,Skin","skeleton, skin",0,1
+"Skel ,Skin ,Skel","skeleton, skin",0,1
+"Skel ,Skin ,tissue","skeleton, skin, tissue",0,1
+"Skel ,Skin ,wing ,tissue","skeleton, skin, tissue, wing",0,1
+"Skel ,slide","skeleton, slide",0,1
+"Skel ,tissue","skeleton, tissue",0,1
+"Skel ,tissue ,feathers","feathers, skeleton, tissue",0,1
+"Skel ,tissue ,feathers ,wing","feathers, skeleton, tissue, wing",0,1
+"Skel ,tissue ,wing","skeleton, tissue, wing",0,1
+"Skel ,wing","skeleton, wing",0,1
+"Skel ,wing ,feathers","feathers, skeleton, wing",0,1
+"Skel ,wing ,feathers ,tissue","feathers, skeleton, tissue, wing",0,1
+"Skel ,wing ,Skel","skeleton, wing",0,1
+"Skel ,wing ,tissue","skeleton, tissue, wing",0,1
+"Skel ,wing ,tissue ,feathers","feathers, skeleton, tissue, wing",0,1
 "SKEL + TISSUE","skeleton, tissue",0,1
 "Skel cast",,0,0
 "Skel cast - 1","Skel cast - 1",0,1
@@ -38986,6 +39018,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (With separate wing) (With separate wing), Toe pad sample (With separate wing), Toe pad sample",,0,0
 "Skin (With separate wing), Toe pad sample (With separate wing), Toe pad sample (With separate wing)",,0,0
 "Skin , cast (mounted, in spirit)",,0,0
+"Skin ,feathers","feathers, skin",0,1
+"Skin ,Skel","skeleton, skin",0,1
+"Skin ,tissue","skin, tissue",0,1
+"Skin ,wing ,Skel","skeleton, skin, wing",0,1
 "skin ?",,0,0
 "Skin + ? skull with jaw (in skin)",,0,0
 "Skin + carpus (removed from skin, mounted)",,0,0
@@ -58460,6 +58496,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "slab with three tracks",,0,0
 "Slabs with fossil fish.",,0,0
 "SLICE THROUGH NECK OF SCAPULA.",,0,0
+"slide ,Skel","skeleton, slide",0,1
+"slide ,wing ,Skel","skeleton, slide, wing",0,1
 "slide, electric organ discharge recording, fluid",,0,0
 "slide, fluid",,0,0
 "slide, fluid, electric organ discharge recording, tissue",,0,0
@@ -60085,6 +60123,17 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue (LN2), Skeleton (LN2)",,0,0
 "Tissue (No Medium) (No Medium)",,0,0
 "Tissue (SDS buffer) (SDS buffer) (SDS buffer)",,0,0
+"tissue ,feathers","feathers, tissue",0,1
+"tissue ,feathers ,Skel","feathers, skeleton, tissue",0,1
+"tissue ,feathers ,Skel ,wing","feathers, skeleton, tissue, wing",0,1
+"tissue ,Skel","skeleton, tissue",0,1
+"tissue ,Skel ,feathers ,wing","feathers, skeleton, tissue, wing",0,1
+"tissue ,Skel ,wing","skeleton, tissue, wing",0,1
+"tissue ,Skel ,wing ,feathers","feathers, skeleton, tissue, wing",0,1
+"tissue ,Skin","skin, tissue",0,1
+"tissue ,wing","tissue, wing",0,1
+"tissue ,wing ,Skel","skeleton, tissue, wing",0,1
+"tissue ,wing ,Skel ,feathers","feathers, skeleton, tissue, wing",0,1
 "Tissue number 10186",,0,0
 "Tissue number 10585",,0,0
 "Tissue number 10636",,0,0
@@ -62517,6 +62566,20 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing & tail & partial skeleton","wing, tail, partial skeleton",0,1
 "wing (2); Feet (2)",,0,0
 "Wing (left)",,0,0
+"wing ,feathers","feathers, wing",0,1
+"wing ,feathers ,Skel ,tissue","feathers, skeleton, tissue, wing",0,1
+"wing ,feathers ,tissue ,Skel","feathers, skeleton, tissue, wing",0,1
+"wing ,Skel","skeleton, wing",0,1
+"wing ,Skel ,feathers","feathers, skeleton, wing",0,1
+"wing ,Skel ,feathers ,tissue","feathers, skeleton, tissue, wing",0,1
+"wing ,Skel ,slide","skeleton, slide, wing",0,1
+"wing ,Skel ,tissue","skeleton, tissue, wing",0,1
+"wing ,Skel ,tissue ,feathers","feathers, skeleton, tissue, wing",0,1
+"wing ,Skin","skin, wing",0,1
+"wing ,tissue ,feathers ,Skel","feathers, skeleton, tissue, wing",0,1
+"wing ,tissue ,Skel","skeleton, tissue, wing",0,1
+"wing ,tissue ,Skel ,feathers","feathers, skeleton, tissue, wing",0,1
+"wing ,wing","wing",0,1
 "wing + par skeleton","wing, partial skeleton",0,1
 "wing + par skeleton + DNA","wing, partial skeleton, DNA",0,1
 "wing + partial skel","wing, partial skeleton",0,1
