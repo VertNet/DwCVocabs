@@ -1566,7 +1566,7 @@
 "6 vertebrae",,0,0
 "6 VERTEBRAE (DRY)","6 vertebrae",0,1
 "63 m",,0,0
-"6699","6699",0,1
+"6699",,0,1
 "6th cervical vertebra",,0,0
 "7 ASTRAGALI",,0,0
 "7 general trunk vertebrae",,0,0
@@ -34564,7 +34564,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "sk","skull",0,1
 "Sk [?]",,0,0
 "SK +T","skeleton, skin, tissue",0,1
-"SK, tissue",,0,0
+"SK, tissue","skull, tissue",0,1
 "ske/wing","skeleton, wing",0,1
 "skeketon",,0,0
 "skel","skeleton",0,1
@@ -56293,6 +56293,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKO(part)+T","partial skull, tissue",0,1
 "SKO+T","skull, tissue",0,1
 "SKON)","SKON)",0,1
+"sktissue",,0,0
 "Skul (damaged)l with jaw",,0,0
 "Skul (sectioned)l with jaw",,0,0
 "skull","skull",1,1
@@ -58531,6 +58532,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SN +BAC","baculum, skeleton",0,1
 "SN +T","skeleton, tissue",0,1
 "SN +T+ECTO","ectoparasite, skeleton, tissue",0,1
+"sn, tissue","skeleton, tissue",0,1
 "SN+T","skeleton, tissue",0,1
 "SN+T +ECTO","ectoparasite, skeleton, tissue",0,1
 "SN+T+BAC","baculum, skeleton, tissue",0,1
@@ -58549,6 +58551,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "snout in concretion",,0,0
 "SNOUT,ANT MANDIBLE FRAG",,0,0
 "Snouts",,0,0
+"sntissue",,0,0
 "so","skin in alcohol",0,1
 "so    Ad.","skin in alcohol",0,1
 "so   Ad.","skin in alcohol",0,1
@@ -58566,11 +58569,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "so, & part","skin in alcohol, partial skeleton",0,1
 "so, & part. skeleton","skin in alcohol, partial skeleton",0,1
 "so, eg, ot","skin in alcohol, egg, other",0,1
+"so, tissue","skin in alcohol, tissue",0,1
 "SO+T","skin in alcohol, tissue",0,1
 "socket",,0,0
 "SOFT PARTS REMOVED DURING PREPARATION","soft parts",0,1
 "SOME LIMB ELEMENTS O.","limb elements",0,1
 "something",,0,0
+"sotissue",,0,0
 "Sound - 1; Skin - 1","Sound - 1; Skin - 1",0,1
 "sound recording",,0,0
 "sound recording, other, tissue, round skin",,0,0
@@ -58717,6 +58722,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Squeezes of skull + vertebrae etc.",,0,0
 "Squeezes of skulls + casts",,0,0
 "ss","skin, skull",0,1
+"ss, tissue","skin, skull, tissue",0,1
+"sstissue",,0,0
 "ST","ST",0,1
 "STAHLBEIN",,0,0
 "Stahlbein.",,0,0
@@ -60602,7 +60609,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, tissue, wing, round skin",,0,0
 "Tissue, Toe pad, Toe pad",,0,0
 "Tissue, Toe, Toe",,0,0
-"tissue, wing",,0,0
+"tissue, wing","tissue, wing",1,1
 "tissue, wing, alcoholic",,0,0
 "tissue, wing, alcoholic, tissue",,0,0
 "tissue, wing, cleared and stained",,0,0
@@ -62628,6 +62635,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing, round skin, tissue, tissue",,0,0
 "wing, tail","wing, tail",0,1
 "WING, TAIL FEATHERS","wing, tail feathers",0,1
+"wing, tail, tissue","tail, tissue, wing",0,1
+"wing, tailtissue",,0,0
 "wing, tissue","tissue, wing",0,1
 "wing, tissue, alcoholic",,0,0
 "wing, tissue, complete skeleton",,0,0
@@ -62824,6 +62833,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "wingspread, Tissue number 7041",,0,0
 "wingspread, Tissue number 7858",,0,0
 "wingspread, Tissue number 7876",,0,0
+"wingtissue",,0,0
 "With Skin",,0,0
 "WO","wings",0,1
 "wood specimens",,0,0
