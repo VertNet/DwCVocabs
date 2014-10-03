@@ -19,6 +19,7 @@
 " Immature","immature",0,1
 " NO BURSA; SKULL 100% OSS.",,0,0
 " no data given","unknown",0,1
+" not indicated",,0,0
 " Not recorded","unknown",0,1
 " one fourth",,0,0
 " or Juv.","juvenile",0,1
@@ -29,6 +30,7 @@
 " stale& slight",,0,0
 "! F chick banded. 1/2 had a smal",,0,0
 "! F chick banded. 1/2 had a small embryo, 2/2 had ",,0,0
+"""",,0,0
 """5/6 j"" (5-6 days)",,0,0
 """a few incubated"" (? few days)",,0,0
 """about 5 Days In All""",,0,0
@@ -42,6 +44,7 @@
 """FEMALE: PLUMAGED; BURSA 4 X 4 M",,0,0
 """Few incubated"" (? Few days)",,0,0
 """Fresh enough to blow""",,0,0
+"""Fresh to one""",,0,0
 """Friska"" needs translation",,0,0
 """im""","immature",0,1
 """im""[ad?]","immature",0,1
@@ -52,9 +55,11 @@
 """juv""","juvenile",0,1
 """Juv.""","juvenile",0,1
 """Juv."" First winter of Juv.","juvenile",0,1
+"""Known"" 8 days",,0,0
 """Mature or nearly so, at least 2","adult",0,1
 """Mature""","adult",0,1
 """New""",,0,0
+"""no incubation""",,0,0
 """Old""",,0,0
 """Piped"" ""Hatching""",,0,0
 """slightly inc""",,0,0
@@ -87,6 +92,7 @@
 "#1 fresh, 2,3 &4 Full grown",,0,0
 "#1 fresh; #2 showing blood",,0,0
 "#1 infertile #2 embryo",,0,0
+"#1 Infertile, #2 infertile, #3 s",,0,0
 "#1 infertile, fragments; #2 crus",,0,0
 "#1 infertile, fragments; #2 crushed, fragments, em",,0,0
 "#1 large embryo, #2 infertile, #",,0,0
@@ -131,6 +137,7 @@
 "#1: small eyeballs; #2 & 4: tiny",,0,0
 "#1: small eyeballs; #2 & 4: tiny embryos; #3: fres",,0,0
 "#1: very small embryo; # 2 & 3: ",,0,0
+"#1:embryo ~ 5mm, #2: clear",,0,0
 "#1:very slight trace of blood, #2,#3:slight trace ",,0,0
 "#1; eggshell fragment",,0,0
 "#11; eggshell fragments collecte",,0,0
@@ -250,9 +257,11 @@
 "(2) 3 Days",,0,0
 "(22) days old",,0,0
 "(2-3 eggs full clutch)",,0,0
+"(2-3 weeks incubation) Abandoned",,0,0
 "(4-5 yrs old)",,0,0
 "(48 hours old) yg.",,0,0
 "(9) days old",,0,0
+"(about) 1/3",,0,0
 "(Ad ?)","adult",0,1
 "(ad)","adult",0,1
 "(Ad. ?)","adult",0,1
@@ -271,6 +280,7 @@
 "(FL)",,0,0
 "(fledgling)",,0,0
 "(Fresh) Brought to WFVZ in 1993",,0,0
+"(gummy) one week",,0,0
 "(Im ?)","immature",0,1
 "(im)","immature",0,1
 "(Im. ?)","immature",0,1
@@ -289,9 +299,11 @@
 "(nestl.)","nestling",0,1
 "(nestling)","nestling",0,1
 "(newly hatched)",,0,0
+"(over 2 days)",,0,0
 "(S/1)",,0,0
 "(see card)",,0,1
 "(see original data card)",,0,1
+"(sub?)adult",,0,0
 "(subad)",,0,0
 "(Subadult)",,0,0
 "(Yg)",,0,0
@@ -446,6 +458,7 @@
 "[partially feathered nestling]",,0,0
 "[prob. Ad. ?]",,0,0
 "[pullus] ?",,0,0
+"[see eggs]",,0,0
 "[spring]",,0,0
 "[sub ad]",,0,0
 "[sub.adult]",,0,0
@@ -498,8 +511,11 @@
 ">10 years",,0,0
 ">12 years",,0,0
 ">90% pneumatized",,0,0
+"± 7 days",,0,0
+"± 8 days",,0,0
 "✓",,0,0
 "0",,0,0
+"0 - (deserted)",,0,0
 "0 - 0 - 0",,0,0
 "0 - Fresh",,0,0
 "0 [days]",,0,0
@@ -513,6 +529,7 @@
 "0 to 1/3",,0,0
 "0 to 4 days",,0,0
 "0 to 5 days",,0,0
+"0 to commenced",,0,0
 "0 to well begun",,0,0
 "0% ossified",,0,0
 "0, unbef.",,0,0
@@ -524,6 +541,7 @@
 "0.6",,0,0
 "0.8",,0,0
 "0.t-b-B",,0,0
+"0; egg taken from bird",,0,0
 "0?",,0,1
 "0-0-0",,0,0
 "0000",,0,0
@@ -543,6 +561,9 @@
 "½ Imm.",,0,0
 "1",,0,0
 "-1",,0,0
+"1 - 1/3; 3 - 1/4",,0,0
+"1 - 1/4; 1 - 1/3; 2 - 1/2",,0,0
+"1 - fresh (had yolk); 7  - norma",,0,0
 "1 - fresh, 1 - showing blood, 1 ",,0,0
 "1 - fresh, 1 - showing blood, 1 - small embryo",,0,0
 "1 - no embryo; 2 - fledged",,0,0
@@ -555,9 +576,11 @@
 "1 1 1 1",,0,0
 "1- 1/2 inc, 2 soft embryos",,0,0
 "1 30 day old male banded",,0,0
+"1 4 days, 1 2 days, Black-billed",,0,0
 "1 5 days, others less",,0,0
 "1- 80%, 2 no signs of developmen",,0,0
 "1- 80%, 2 no signs of development",,0,0
+"1 about 1/3, 1 addled",,0,0
 "1 about 1/3, 4 about 1/4",,0,0
 "1 about 2/5 4 addled",,0,0
 "1 about 5 days and 1 about 2 day",,0,0
@@ -586,11 +609,16 @@
 "1 addled egg, 1 young 2.5 weeks old",,0,0
 "1 addled, 1 3/4 inc",,0,0
 "1 addled, 1 begun",,0,0
+"1 addled, 1 live bird",,0,0
+"1 addled, 1 month-old juvenile b",,0,0
 "1 addled, 10 days",,0,0
 "1 addled, 2 about half",,0,0
+"1 addled, 2 apparently freshly l",,0,0
 "1 addled, 2 begun",,0,0
 "1 addled, 2 feathered",,0,0
+"1 addled, 2 fresh",,0,0
 "1 addled, 2 hatched in lab",,0,0
+"1 addled, 2 large embryos",,0,0
 "1 addled, 2 well begun",,0,0
 "1 addled, 2 young; infertile",,0,0
 "1 addled, 3 feathered embryos",,0,0
@@ -605,14 +633,18 @@
 "1 addled, ready to hatch",,0,0
 "1 addled, two highly incubated",,0,0
 "1 addled; 1 about half",,0,0
+"1 addled; 1 fresh; 1 with fair i",,0,0
 "1 addled; 2 w/ large embryos",,0,0
 "1 addled; 3 advanced",,0,0
 "1 addled; 4 about 1 week",,0,0
+"1 addled; 7 ready to hatch",,0,0
 "1 adult & 1 metamorphosing larva",,0,0
 "1 adv., 3 infertile?",,0,0
+"1 advancec; 1 addled",,0,0
 "1 advanced 2 addled",,0,0
 "1 advanced 2 infertile",,0,0
 "1 Advanced, 1 Addled",,0,0
+"1 advanced, 1 addled.",,0,0
 "1 advanced, 1 infertile",,0,0
 "1 Advanced, 2 addled",,0,0
 "1 advanced, 2 commenced, 2 barel",,0,0
@@ -624,7 +656,9 @@
 "1 and 2 medium embryos, 3 fresh",,0,0
 "1 apparently fresh, 5 advanced",,0,0
 "1 begun",,0,0
+"1 begun; 1 fresh",,0,0
 "1 begun; 1 infertile",,0,0
+"1 blood - 1 fresh",,0,0
 "1 blood, 1 bones",,0,0
 "1 broken",,0,0
 "1 broken egg + 2 young approx. 3",,0,0
@@ -649,6 +683,7 @@
 "1 com- 3 fresh",,0,0
 "1 Commenced 2 Fresh",,0,0
 "1 commenced 2 weeks; 2 infertile",,0,0
+"1 commenced; 1 infertele",,0,0
 "1 con sangre- 5 frescos",,0,0
 "1 cowbird egg showing blood, 3 i",,0,0
 "1 cowbird fresh, 4 blackbird lar",,0,0
@@ -662,6 +697,7 @@
 "1 day old","1 day old",0,1
 "1 day, 2 eggs in nest on the 24t",,0,0
 "1 day, a little blood",,0,0
+"1 day. Nest held 3 eggs May 19",,0,0
 "1 day-fresh (bird on)",,0,0
 "1 day-heard singing Apr1, comple",,0,0
 "1 day-heard singing Apr1, complete nest found 24 A",,0,0
@@ -690,8 +726,11 @@
 "1 egg + 4 young 3 weeks old",,0,0
 "1 egg + fragments",,0,0
 "1 egg 5 days, 2 eggs infertile",,0,0
+"1 egg 6 days. Others Fresh.",,0,0
 "1 egg about 3/4 incubated, 1 egg",,0,0
 "1 egg about 5 days; 1 fresh",,0,0
+"1 egg addled; 1 egg large embryo",,0,0
+"1 egg and 1 young; two weeks old",,0,0
 "1 egg badly incubated",,0,0
 "1 egg- box failed.  Was a clutch",,0,0
 "1 egg- box failed.  Was a clutch of 8 eggs.",,0,0
@@ -703,6 +742,7 @@
 "1 egg exactly 13 days, other approx. 10",,0,0
 "1 egg failed",,0,0
 "1 egg failed.  T35NR13ES27SWNE",,0,0
+"1 egg far adv., 1 newly young",,0,0
 "1 egg- fledged young",,0,0
 "1 egg found below MV-42.  Egg ap",,0,0
 "1 egg found below MV-42.  Egg appears fresh.",,0,0
@@ -715,8 +755,10 @@
 "1 egg fresh. The others half inc",,0,0
 "1 egg in nest on 16th",,0,0
 "1 egg in nest on 23rd",,0,0
+"1 egg inc 25 days, 1 cracked emb",,0,0
 "1 egg infertile or fresh, 1 abou",,0,0
 "1 egg infertile or fresh, 1 about 1/3, next less, ",,0,0
+"1 egg infertile, 1 egg far advan",,0,0
 "1 egg infertile, large embryos",,0,0
 "1 egg missing",,0,0
 "1 egg of 3 failed eggs.  Dried y",,0,0
@@ -775,6 +817,7 @@
 "1 fresh ; 2 just showing blood",,0,0
 "1 fresh 1 incubation begun",,0,0
 "1 fresh 1 old",,0,0
+"1 Fresh 1 Showing Blood",,0,0
 "1 fresh 1 trace",,0,0
 "1 fresh 2 medium embryos",,0,0
 "1 fresh 2 showing blood",,0,0
@@ -785,7 +828,9 @@
 "1 fresh and 2 about 4 days incubated.",,0,0
 "1 fresh and 2 about a 5 days inc",,0,0
 "1 fresh and 2 about a 5 days incubated.",,0,0
+"1 fresh,  2 slight",,0,0
 "1 fresh,  7-8 days, 10 days",,0,0
+"1 fresh, 1 ?",,0,0
 "1 fresh, 1 1/3 set",,0,0
 "1 fresh, 1- 1/4, 1 - 1/3, 1 almo",,0,0
 "1 fresh, 1- 1/4, 1 - 1/3, 1 almost complete",,0,0
@@ -796,18 +841,24 @@
 "1 Fresh, 1 2 Or 3 Days",,0,0
 "1 fresh, 1 3 days",,0,0
 "1 fresh, 1 addled",,0,0
+"1 fresh, 1 addled, 1 advanced, 1",,0,0
 "1 fresh, 1 begun",,0,0
 "1 fresh, 1 broken",,0,0
+"1 fresh, 1 considerable, 2 heavy",,0,0
 "1 fresh, 1 craked",,0,0
 "1 fresh, 1 embryo, 2 large embry",,0,0
 "1 fresh, 1 embryo, 2 large embryos",,0,0
+"1 fresh, 1 half incubated",,0,0
 "1 fresh, 1 in oviduct",,0,0
+"1 fresh, 1 incomplete",,0,0
 "1 Fresh, 1 Infertile",,0,0
 "1 fresh, 1 just showing blood",,0,0
 "1 fresh, 1 rotten, 2 one-third",,0,0
+"1 fresh, 1 set",,0,0
 "1 Fresh, 1 Showing Blood",,0,0
 "1 fresh, 1 showing blood and 2 s",,0,0
 "1 fresh, 1 showing blood and 2 small embryo",,0,0
+"1 fresh, 1 showing blood, 1 in o",,0,0
 "1 fresh, 1 showing blood, 1 smal",,0,0
 "1 fresh, 1 showing blood, 1 small embryo",,0,0
 "1 fresh, 1 showing blood, 2 smal",,0,0
@@ -815,6 +866,8 @@
 "1 Fresh, 1 Slight Trace Of Blood",,0,0
 "1 Fresh, 1 Slight Trace, 2 Trace",,0,0
 "1 fresh, 1 slightly fresh, 1 lig",,0,0
+"1 fresh, 1 slightly incubated",,0,0
+"1 fresh, 1 slightly incubated, 1",,0,0
 "1 fresh, 1 small embryo",,0,0
 "1 Fresh, 1 Small embryos, 2 Larg",,0,0
 "1 Fresh, 1 Small embryos, 2 Large embryos",,0,0
@@ -825,13 +878,18 @@
 "1 fresh, 1 very slight",,0,0
 "1 fresh, 1 very slight trace of ",,0,0
 "1 fresh, 1 well advanced",,0,0
+"1 fresh, 1 well begun",,0,0
+"1 fresh, 1 with blood",,0,0
 "1 fresh, 2- 1/4",,0,0
 "1 fresh, 2 15%",,0,0
+"1 fresh, 2 begun",,0,0
 "1 fresh, 2 begun, 1 advanced",,0,0
 "1 fresh, 2 bloodshot",,0,0
+"1 fresh, 2 far advanced",,0,0
 "1 fresh, 2 half",,0,0
 "1 fresh, 2 half, 6-2/3, 2 almost",,0,0
 "1 fresh, 2 half, 6-2/3, 2 almost complete",,0,0
+"1 fresh, 2 incubated",,0,0
 "1 fresh, 2 just began",,0,0
 "1 fresh, 2 just showing blood",,0,0
 "1 fresh, 2 large embryo",,0,0
@@ -882,11 +940,13 @@
 "1 fresh, 4 slightly bloodshot",,0,0
 "1 Fresh, 4 Small Embryos",,0,0
 "1 fresh, 4 very slight",,0,0
+"1 fresh, 5 slightly incubated",,0,0
 "1 fresh, 6 adooneed",,0,0
 "1 fresh, 6 well incubated",,0,0
 "1 fresh, incubated, medium",,0,0
 "1 fresh, others 4-5 days",,0,0
 "1 fresh, others well set",,0,0
+"1 fresh, others well set (advanc",,0,0
 "1 fresh, showing blood, small em",,0,0
 "1 fresh, showing blood, small embryo",,0,0
 "1 fresh, well begun",,0,0
@@ -894,8 +954,10 @@
 "1 fresh. 1 started. 3- 1/2. 3 - 1/2",,0,0
 "1 fresh. 2 started. 6 one quarte",,0,0
 "1 fresh. 2 started. 6 one quarter",,0,0
+"1 fresh; 1 - 1/2",,0,0
 "1 fresh; 1 about 2 days",,0,0
 "1 fresh; 1 advanced",,0,0
+"1 fresh; 1 begun",,0,0
 "1 fresh; 1 commenced",,0,0
 "1 fresh; 1 infert.; 3 one-half",,0,0
 "1 fresh; 1 set",,0,0
@@ -905,19 +967,24 @@
 "1 fresh; 1 started",,0,0
 "1 fresh; 1 started; 2 one-third",,0,0
 "1 fresh; 1 started; 3 one-third",,0,0
+"1 fresh; 1 trace",,0,0
 "1 fresh; 1 trace of blood",,0,0
 "1 fresh; 1 two days",,0,0
 "1 fresh; 1 two days; 1 four days",,0,0
+"1 fresh; 1 very slight",,0,0
 "1 fresh; 2 commenced",,0,0
 "1 fresh; 2 commenced
 2 commence",,0,0
 "1 fresh; 2 commenced
 2 commenced",,0,0
+"1 fresh; 2 slight; 1 infertile",,0,0
 "1 fresh; 2 started",,0,0
 "1 fresh; 2 two days begun",,0,0
 "1 Fresh; 3 Started",,0,0
 "1 Fresh; 4 Begun",,0,0
+"1 fresh; 4 incubation begun",,0,0
 "1 fresh; blood traces in 2",,0,0
+"1 gone; 4 poor",,0,0
 "1 half; 4 1/3",,0,0
 "1 half-grown young, 2 addled",,0,0
 "1 hatched in lab, 2 died with sm",,0,0
@@ -944,6 +1011,7 @@
 "1- heavy 1-partly",,0,0
 "1 Heavy, 4 addled",,0,0
 "1 host egg pecked and stuck to l",,0,0
+"1 host slightly incubated, 1 hos",,0,0
 "1 inc; 4 rotten",,0,0
 "1 incubated (2 young)",,0,0
 "1 incubated 10-12 days, 1 infert",,0,0
@@ -973,8 +1041,10 @@ begun",,0,0
 2 eggs 1/3 incubate",,0,0
 "1 infertile
 2 eggs 1/3 incubated",,0,0
+"1 infertile, 1 - 1/2 incubated",,0,0
 "1 infertile, 1 - 2/3, 3 pipping",,0,0
 "1 infertile, 1 a week",,0,0
+"1 infertile, 1 far incubated",,0,0
 "1 infertile, 1 feathered",,0,0
 "1 infertile, 1 fresh, 2 slight",,0,0
 "1 infertile, 1 slight",,0,0
@@ -983,28 +1053,36 @@ begun",,0,0
 "1 infertile, 2 1/2-advanced",,0,0
 "1 infertile, 2 advanced",,0,0
 "1 infertile, 2 eggs 1/3 incubate",,0,0
+"1 infertile, 2 showing blood",,0,0
 "1 infertile, 2 tiny embryos",,0,0
 "1 infertile, 2 young with tufts ",,0,0
 "1 infertile, 2 young with tufts of down",,0,0
+"1 infertile, 3 about 5 days",,0,0
 "1 infertile, 3 started",,0,0
 "1 infertile, 3 very large embryo",,0,0
 "1 infertile, 3 very large embryos",,0,0
 "1 infertile, 3 young in nest",,0,0
+"1 infertile, 4 about 2/3",,0,0
 "1 infertile, 4 one week",,0,0
 "1 infertile, 4 slightly incibate",,0,0
 "1 infertile, 4 slightly incibated",,0,0
 "1 infertile, 6 with embryos",,0,0
 "1 infertile, embryos formed",,0,0
 "1 Infertile, Most Far Advanced",,0,0
+"1 infertile, other pipping",,0,0
 "1 infertile, others 7-10 days",,0,0
 "1 infertile; 1 pipping",,0,0
+"1 infertile; 1 slight; 1 started",,0,0
 "1 infertile; 2 about 1 week",,0,0
 "1 infertile; 3 about three days",,0,0
 "1 infertile; 3 with soft embryos",,0,0
+"1 infertile; others hatched and ",,0,0
+"1 just commenced, 2 ....more tha",,0,0
 "1 just commenced, rest fresh",,0,0
 "1 Large Embryo",,0,0
 "1 large embryo (decomposed); 1 i",,0,0
 "1 large embryo (decomposed); 1 infertile",,0,0
+"1 large embryo ; abandoned",,0,0
 "1 large embryo 1 infertile",,0,0
 "1 large embryo, 1 fresh",,0,0
 "1 large embryo, 1 infertile",,0,0
@@ -1022,10 +1100,12 @@ begun",,0,0
 "1 Lrg Embryo, 1 Infertile, 1 Addled",,0,0
 "1 Male And I Female Eyas Produce",,0,0
 "1 Male And I Female Eyas Produced",,0,0
+"1 male chick, ca. 18 days old",,0,0
 "1 male fledged",,0,0
 "1 med, 2 advanced",,0,0
 "1 Med, 2 Small embryos",,0,0
 "1 medium host embryo, 4 large co",,0,0
+"1 medium small embryo, 1 large e",,0,0
 "1 mo",,0,0
 "1 moderate, 3 infertile (frosted",,0,0
 "1 moderate, 3 infertile (frosted?)",,0,0
@@ -1034,9 +1114,13 @@ begun",,0,0
 "1 near hatching, 3 slight",,0,0
 "1 nearly fresh, 1 three and 1 fo",,0,0
 "1 nearly fresh, 1 three and 1 four",,0,0
+"1 nearly fresh; 3 seriously incu",,0,0
 "1 nestling",,0,0
 "1 no development, 1 showing bloo",,0,0
 "1 no development, 1 showing blood",,0,0
+"1 not fertile; the other ready t",,0,0
+"1 not recorded; 3 young",,0,0
+"1 of 2 Fresh",,0,0
 "1 of 3 failed eggs",,0,0
 "1 of 4 eggs-clutch failed",,0,0
 "1 one-half; 1 one-eighth",,0,0
@@ -1103,13 +1187,16 @@ begun",,0,0
 "1 slight, 1 small embryo, 1 medi",,0,0
 "1 slight, 1 small embryo, 1 medium embryo",,0,0
 "1 slight, 2 fresh",,0,0
+"1 slight, 3 advanced",,0,0
 "1 slight, 3 fresh",,0,0
 "1 slight, 4 fresh",,0,0
 "1 slight, 5 fresh",,0,0
 "1 slight; 1 infertile;  Cowbird'",,0,0
 "1 slight; 1 infertile;  Cowbird's egg slight",,0,0
+"1 slight; 1 infertile; Cowbird's",,0,0
 "1 slight; 1 three-fourths",,0,0
 "1 slight; 3 no development",,0,0
+"1 slightly incubated but addled,",,0,0
 "1 slightly incubated others fres",,0,0
 "1 slightly incubated others fresh",,0,0
 "1 slightly incubated, 1 infertil",,0,0
@@ -1127,6 +1214,7 @@ begun",,0,0
 "1 small embryo, and 3 medium emb",,0,0
 "1 small embryo, and 3 medium embryos.",,0,0
 "1 small embryo; 1 large embryo",,0,0
+"1 small embryo; 1 large embryo; ",,0,0
 "1 small embryo; 1 with blood",,0,0
 "1 small embryo; 2 infertile",,0,0
 "1 Small Embryos",,0,0
@@ -1180,14 +1268,19 @@ begun",,0,0
 "1 very small embryo, 2 broken",,0,0
 "1 very small embryo, 2 trace of ",,0,0
 "1 Week",,0,0
+"1 week - more and less",,0,0
 "1 Week (nest held 3 eggs 8 days ",,0,0
 "1 Week (nest held 3 eggs 8 days ago)",,0,0
+"1 week advanced",,0,0
+"1 week and fresh",,0,0
 "1 week incubated",,0,0
 "1 week or more",,0,0
+"1 week plus",,0,0
 "1 week to 10 days",,0,0
 "1 week, addled",,0,0
 "1 well along, 2 addled",,0,0
 "1 well along, 2 infertile",,0,0
+"1 Well Begun, 1 Fresh",,0,0
 "1 well developed embryo",,0,0
 "1 well set, 2 rotten",,0,0
 "1 well started, 3 infertile",,0,0
@@ -1211,6 +1304,7 @@ begun",,0,0
 "1 young in nest, egg rotten when",,0,0
 "1 young in nest, egg rotten when prepared",,0,0
 "1 young near fledging present",,0,0
+"1 young, 1 egg broken",,0,0
 "1 young, 2 eggs",,0,0
 "1 young, 7 weeks + 1 egg",,0,0
 "1 youngster 3 weeks old (in Vall",,0,0
@@ -1238,6 +1332,7 @@ begun",,0,0
 "1) 2.75g, showing blood; 2) 2.70g, showing blood",,0,0
 "1) 3.4 g Fresh  2) 3.25 g fresh",,0,0
 "1) 4.662g Fresh  2) 4.532 Fresh ",,0,0
+"1) 6.3 g, small embryo; 2) - , s",,0,0
 "1) Addled, 2) Small Embryo",,0,0
 "1) fresh 2&3 showing blood",,0,0
 "1) infertile, 2&3) medium embryo",,0,0
@@ -1255,6 +1350,7 @@ begun",,0,0
 "1,2,4,5,6,7 fresh; 3 small embryo",,0,0
 "1,3,4 fresh, 2 small embryo",,0,0
 "1,4 fresh, 2,3 showing blood",,0,0
+"1.1.1",,0,0
 "1.4 advanced",,0,0
 "1.5 days",,0,0
 "1.5 years",,0,0
@@ -1267,13 +1363,18 @@ begun",,0,0
 "1/2 - 1/3",,0,0
 "1/2 - 3/4",,0,0
 "1/2 & 1 addled",,0,0
+"1/2 (1 addled)",,0,0
 "1/2 (1 infertile)",,0,0
 "1/2 (2 infertile)",,0,0
+"1/2 (started)",,0,0
 "1/2 + 2/3 + 3/4",,0,0
+"1/2 addled",,0,0
 "1/2 adv",,0,0
 "1/2 adv.",,0,0
 "1/2 Advanced",,0,0
 "1/2 advanced in incubation",,0,0
+"1/2 advanced.",,0,0
+"1/2 along",,0,0
 "1/2 and rotten, whew",,0,0
 "1/2 br.",,0,0
 "1/2 complete",,0,0
@@ -1305,6 +1406,7 @@ begun",,0,0
 "1/2 one addled",,0,0
 "1/2 or more",,0,0
 "1/2 or over",,0,0
+"1/2 over",,0,0
 "1/2 set",,0,0
 "1/2 Time",,0,0
 "1/2 to 1/3",,0,0
@@ -1321,6 +1423,8 @@ begun",,0,0
 "1/2. 1 spotted Molothrus egg was",,0,0
 "1/2. 1 spotted Molothrus egg was 4 days more advan",,0,0
 "1/2. Host fresh",,0,0
+"1/2: large embryos--1.13 cm",,0,0
+"1/2; one egg addled",,0,0
 "1/2-2/3 advanced",,0,0
 "1/22-2/25, hatching unknown but ",,0,0
 "1/22-2/25, hatching unknown but not likely",,0,0
@@ -1329,13 +1433,19 @@ begun",,0,0
 "1/2-half",,0,0
 "1/3",,0,0
 "1/3-",,0,0
+"1/3 - 1/2",,0,0
+"1/3 - 31",,0,0
 "1/3 & fresh",,0,0
+"1/3 (1 runt fertilized)",,0,0
+"1/3 (2 days)",,0,0
 "1/3 (I addled)",,0,0
 "1/3 , 1 addled",,0,0
 "1/3- 1/2",,0,0
+"1/3 about",,0,0
 "1/3 adv",,0,0
 "1/3 adv.",,0,0
 "1/3 advanced",,0,0
+"1/3 advanced.",,0,0
 "1/3 and 1/2, both pipped",,0,0
 "1/3 and addled",,0,0
 "1/3 at least",,0,0
@@ -1344,6 +1454,8 @@ begun",,0,0
 "1/3 done",,0,0
 "1/3 formed",,0,0
 "1/3 fully",,0,0
+"1/3 hatched",,0,0
+"1/3 in started",,0,0
 "1/3 Inc",,0,0
 "1/3 inc.",,0,0
 "1/3 incubated",,0,0
@@ -1352,6 +1464,7 @@ begun",,0,0
 "1/3 over",,0,0
 "1/3 plus",,0,0
 "1/3 rd",,0,0
+"1/3 rd.",,0,0
 "1/3 set",,0,0
 "1/3 to 1/2",,0,0
 "1/3 To Advanced",,0,0
@@ -1360,13 +1473,21 @@ begun",,0,0
 "1/3, addled",,0,0
 "1/3, Bufflehead 1/4",,0,0
 "1/3, infertile",,0,0
+"1/3: Infertile
+2/3: dry, infert",,0,0
+"1/3: small embryo
+2/3: small em",,0,0
+"1/3-addled",,0,0
 "1/3rd",,0,0
 "1/3rd incubated",,0,0
 "1/4",,0,0
 "1/4 - 1/2",,0,0
 "1/4 - 3/4",,0,0
+"1/4 (1 addled)",,0,0
 "1/4 (embryo stage)",,0,0
+"1/4 about",,0,0
 "1/4 advanced",,0,0
+"1/4 begun",,0,0
 "1/4 brooded",,0,0
 "1/4 com",,0,0
 "1/4- contained 2 eggs May 2",,0,0
@@ -1377,6 +1498,7 @@ begun",,0,0
 "1/4 incubated (4) & nearly hatching (5)",,0,0
 "1/4 incubated (5) & 3/4 incubate",,0,0
 "1/4 incubated (5) & 3/4 incubated (6)",,0,0
+"1/4 over",,0,0
 "1/4 sat.",,0,0
 "1/4 set",,0,0
 "1/4 Time",,0,0
@@ -1392,6 +1514,7 @@ begun",,0,0
 "1/4; 1/3",,0,0
 "1/4-1/3",,0,0
 "1/4-3/4",,0,0
+"1/4-fresh",,0,0
 "1/4th",,0,0
 "1/4th incubated",,0,0
 "1/5",,0,0
@@ -1414,19 +1537,25 @@ begun",,0,0
 "1=1/2, 2=addled, Of Which 1 A Ru",,0,0
 "1=1/2, 2=addled, Of Which 1 A Runt",,0,0
 "1=3-4 days; 1=1/4; 2=1/2",,0,0
+"10",,0,0
 "10 - 12 days",,0,0
 "10 - 15% incubated except one ro",,0,0
 "10 - 15% incubated except one rotten",,0,0
+"10 % (see card)",,0,0
 "10 % incubated",,0,0
 "10 Days",,0,0
+"10 days (12)",,0,0
 "10 days (soft bones)",,0,0
 "10 days advanced",,0,0
+"10 days advanced.",,0,0
+"10 days hatched",,0,0
 "10 days incubated, 1infertile",,0,0
 "10 days old","10 days old",0,1
 "10 days post laying",,0,0
 "10 days, 1 infertile",,0,0
 "10 days, runt-addled",,0,0
 "10 hatched, 1 broken",,0,0
+"10 j.",,0,0
 "10 larva",,0,0
 "10 larvae","larva",0,1
 "10 mo.",,0,0
@@ -1455,8 +1584,10 @@ begun",,0,0
 "100% ossified",,0,0
 "10-12 days",,0,0
 "10-14 days",,0,0
+"1014 moderate dead; 1015 moderat",,0,0
 "10-15 days",,0,0
 "1021 moderate",,0,0
+"1054-1055 addled; 1056 advanced",,0,0
 "11 days",,0,0
 "11 days post-laying",,0,0
 "11 large embryos, 1 medium embry",,0,0
@@ -1491,12 +1622,14 @@ begun",,0,0
 "12 days post-laying",,0,0
 "12 days, 10 days, 8 days",,0,0
 "12 Eggs Bloodshot",,0,0
+"1-2 eggs starting",,0,0
 "12 far advanced; 7 fresh",,0,0
 "1-2 fresh; 3-4 large embryo; 5 n",,0,0
 "1-2 fresh; 3-4 large embryo; 5 not recorded",,0,0
 "12 hatched, 4 broken",,0,0
 "12 mi",,0,0
 "12 or 14 days",,0,0
+"12 or more",,0,0
 "12 to 14 days",,0,0
 "12 to 15 days",,0,0
 "1-2 to pipped",,0,0
@@ -1511,8 +1644,10 @@ begun",,0,0
 "12-14 days old",,0,0
 "12-15 days",,0,0
 "12-16 days",,0,0
+"1260 moderate-viable; 1261-1262 ",,0,0
 "1291 slight-moderate; 1292 moder",,0,0
 "1291 slight-moderate; 1292 moderate",,0,0
+"1-3 advanced",,0,0
 "13 days",,0,0
 "1-3 days",,0,0
 "13 days post-laying",,0,0
@@ -1521,6 +1656,7 @@ begun",,0,0
 "13 larvae",,0,0
 "13 mos",,0,0
 "1-3 to 1-2",,0,0
+"13 to 14 days",,0,0
 "13 wks",,0,0
 "1300-01 fresh, 1302 slight",,0,0
 "1303-05 slight; 1304 no developm",,0,0
@@ -1528,6 +1664,7 @@ begun",,0,0
 "1306-07 fresh; 1308 very slight",,0,0
 "13-1/3; 4-1/4",,0,0
 "1312-14 slight; 1315 very slight",,0,0
+"13-15 days",,0,0
 "1320 Fresh; 1321 slight",,0,0
 "1322 fresh; 1323 slight; 1324 sl",,0,0
 "1322 fresh; 1323 slight; 1324 slight-viable",,0,0
@@ -1543,6 +1680,7 @@ begun",,0,0
 "1390-91 fresh; 1392 very slight; 1393 slight and d",,0,0
 "14 Days",,0,0
 "1-4 days",,0,0
+"14 days incubated",,0,0
 "14 days old",,0,0
 "14 days old chick",,0,0
 "14 days post laying",,0,0
@@ -1581,6 +1719,7 @@ begun",,0,0
 "15% incubated",,0,0
 "15½ -16 days",,0,0
 "15-18 days",,0,0
+"15-18 days old",,0,0
 "15-20 days",,0,0
 "1551 fresh",,0,0
 "1553 fresh",,0,0
@@ -1596,6 +1735,7 @@ begun",,0,0
 "1582 fresh/infertile; 1583 moderate.",,0,0
 "16 day old chicks",,0,0
 "16 days",,0,0
+"16 days for 3, 1 addled",,0,0
 "16 days incub.",,0,0
 "16 days old",,0,0
 "1-6 fresh; 7 small embryo",,0,0
@@ -1604,6 +1744,7 @@ begun",,0,0
 "16 to 18 days",,0,0
 "16 years",,0,0
 "16 yrs",,0,0
+"16/7/85",,0,0
 "16-20 days",,0,0
 "16-fresh 17-advanced",,0,0
 "16g",,0,0
@@ -1621,7 +1762,9 @@ begun",,0,0
 "18 days post-laying",,0,0
 "18 months",,0,0
 "18 mos",,0,0
+"18 to 20 days",,0,0
 "18-20 days",,0,0
+"1845 and 1848 advanced; 1846 no ",,0,0
 "1861-63 slight",,0,0
 "1866-67 fresh; 1864 cracked in n",,0,0
 "1866-67 fresh; 1864 cracked in nest",,0,0
@@ -1651,6 +1794,14 @@ begun",,0,0
 "1adv. 3 addled",,0,0
 "1day",,0,0
 "1-day juv.",,0,0
+"1-dried up, 3-embryos large and ",,0,0
+"1-embryo large and sof, 4-embryo",,0,0
+"1-embryo large and soft, 2-a lit",,0,0
+"1-embryo large and soft, 2-embry",,0,0
+"1-embryo large and soft, 3-embry",,0,0
+"1-embryo visible, 2-embryo large",,0,0
+"1-faint trace of blood, 2-pronou",,0,0
+"1-faint trace of blood, 3-pronou",,0,0
 "1fresh:others begun",,0,0
 "1-fresh; see card",,0,0
 "1-infertile, 2-embryo",,0,0
@@ -1658,6 +1809,10 @@ begun",,0,0
 "1-large embryo, 1-infertile",,0,0
 "1-one half, 2-two thirds incubat",,0,0
 "1-one half, 2-two thirds incubated",,0,0
+"1-pronounced trace of blood, 1-e",,0,0
+"1-pronounced trace of blood, 2-e",,0,0
+"1-pronounced trace of blood, 3-e",,0,0
+"1-Showing blood, 2-Infertile",,0,0
 "1small,2fresh,3small,4runt W Yol",,0,0
 "1small,2fresh,3small,4runt W Yolk",,0,0
 "1st",,0,0
@@ -1665,6 +1820,7 @@ begun",,0,0
 "1ST BASIC PLUM.; BURSA 16 X 10 M",,0,0
 "1st clutch frag- broke in nest. ",,0,0
 "1st clutch frag- broke in nest. Also, 1 addled egg",,0,0
+"1st egg April 1, set taken Apr. ",,0,0
 "1st egg layed 28th, 2nd layed 29",,0,0
 "1st egg layed 28th, 2nd layed 29th",,0,0
 "1st egg of season",,0,0
@@ -1681,16 +1837,22 @@ begun",,0,0
 "1st yr.",,0,0
 "1st yr.?",,0,0
 "1st.",,0,0
+"1-strictly fresh, 1-faint trace ",,0,0
+"1-strictly fresh, 2-faint trace ",,0,0
+"1-strictly fresh, 2faint trace o",,0,0
 "1x20%, 2 rotten",,0,0
 "1y",,0,0
 "1yr?",,0,0
 "2",,0,0
 "-2",,0,0
 "2  - fresh",,0,0
+"2 - 1/3; 1 - 1/2",,0,0
+"2 - 1/4; 1 - 1/3",,0,0
 "2 - 3 days",,0,0
 "2 - fresh, 2 - showing blood",,0,0
 "2 & 3yr.",,0,0
 "2 & 4 days",,0,0
+"2 + 3 days",,0,0
 "2- 28 days, 1 infertile",,0,0
 "2 6-7 days, 1 infertile",,0,0
 "2 abandoned and dented eggs.",,0,0
@@ -1702,6 +1864,7 @@ begun",,0,0
 "2 addled - 2 slight",,0,0
 "2 addled , 2 about 1/3",,0,0
 "2 addled 2 slight",,0,0
+"2 addled eggs",,0,0
 "2 Addled Eggs Plus Fragments",,0,0
 "2 addled eggs, 3 young",,0,0
 "2 Addled eggs, broken; 1 fragmen",,0,0
@@ -1711,18 +1874,24 @@ begun",,0,0
 "2 addled other about 1/2",,0,0
 "2 addled)
 1 pipped)",,0,0
+"2 addled, 1 advanced",,0,0
 "2 addled, 1 half",,0,0
 "2 addled, 1 hatched in lab, 1 di",,0,0
 "2 addled, 1 hatched in lab, 1 died in lab",,0,0
 "2 addled, 1 pipped",,0,0
 "2 addled, 1 ready to hatch",,0,0
 "2 addled, 1 small embryo",,0,0
+"2 addled, 1 young bird",,0,0
 "2 addled, 2 fresh",,0,0
+"2 addled, 2 young hatched",,0,0
+"2 addled, 2 young just hatched",,0,0
 "2 adv. 2 infertile",,0,0
 "2 adv. 4 addled",,0,0
 "2 advanced - 1 addled",,0,0
 "2 advanced 2 infertile",,0,0
+"2 advanced to feathers; 1 unfert",,0,0
 "2 advanced, 1 addled",,0,0
+"2 advanced, 1 fresh",,0,0
 "2 advanced, 1 infertile",,0,0
 "2 advanced, 2 addled",,0,0
 "2 advanced, 2 begun",,0,0
@@ -1734,10 +1903,12 @@ begun",,0,0
 "2 advanced; 1 one third; 2 fresh",,0,0
 "2 almost hatching",,0,0
 "2 already pipped for hatching.",,0,0
+"2 and 4 days",,0,0
 "2 bad eggs, 2 young.",,0,0
 "2 begun",,0,0
 "2 begun, 1 addled",,0,0
 "2 begun, 1 fresh",,0,0
+"2 begun, 1 half-hatched, 2 nearl",,0,0
 "2 begun, 2 a fifth",,0,0
 "2 begun, 2 fresh",,0,0
 "2 begun, 2 medium",,0,0
@@ -1761,6 +1932,7 @@ begun",,0,0
 "2 clutch",,0,0
 "2 comm, 2 fresh",,0,0
 "2 commenced 2 fresh",,0,0
+"2 commenced, 1 fresh",,0,0
 "2 commenced, 2 fresh",,0,0
 "2 contained live young and 1 was",,0,0
 "2 contained live young and 1 was rotten",,0,0
@@ -1770,8 +1942,10 @@ begun",,0,0
 "2 dayas (nest held 1 egg Mar. 27)",,0,0
 "2 days",,0,0
 "2 days - 4 eggs Apr 22",,0,0
+"2 days - found before",,0,0
 "2 days - Trace in 1",,0,0
 "2 days - trace of red",,0,0
+"2 days (1 egg, lighter than the ",,0,0
 "2 days (4), fresh (2)",,0,0
 "2 days (but fresh)",,0,0
 "2 days (held 3 on the 28th)",,0,0
@@ -1784,6 +1958,7 @@ begun",,0,0
 "2 days incubated",,0,0
 "2 days old",,0,0
 "2 days on last egg",,0,0
+"2 days or so",,0,0
 "2 days, 1 fresh",,0,0
 "2 days, 4 very slight, 4 inferti",,0,0
 "2 days, 4 very slight, 4 infertile",,0,0
@@ -1804,6 +1979,8 @@ begun",,0,0
 "2 eggs + 1 young",,0,0
 "2 eggs 1/4 advanced, 2 eggs 1/3 ",,0,0
 "2 eggs 1/4 advanced, 2 eggs 1/3 advanced",,0,0
+"2 eggs 3/4 set, 1 egg nearly hat",,0,0
+"2 eggs 4/5 set; 2 eggs 2/3 set",,0,0
 "2 eggs addled and 2 started.",,0,0
 "2 eggs addled, 1 egg inc. 10 -12",,0,0
 "2 eggs addled, 1 egg inc. 10 -12 days",,0,0
@@ -1822,7 +1999,9 @@ begun",,0,0
 "2 eggs hatched under a chicken, ",,0,0
 "2 eggs hatched under a chicken, 1 addled",,0,0
 "2 Eggs Hatching & I Addled",,0,0
+"2 eggs in failed nest",,0,0
 "2 eggs incubated",,0,0
+"2 eggs incubated other two are n",,0,0
 "2 eggs infertile, 3 eggs incubat",,0,0
 "2 eggs infertile, 3 eggs incubated 1 week",,0,0
 "2 eggs May 24",,0,0
@@ -1838,9 +2017,12 @@ begun",,0,0
 "2 eggs with fully formed embryos, 5 were addled.",,0,0
 "2 eggs, 1 chick (2/2 ready to ha",,0,0
 "2 eggs, 1 chick (2/2 ready to hatch)",,0,0
+"2 embryo full grown, 1 infertile",,0,0
 "2 embryos, 1 infertile.",,0,0
+"2 embryos, both in first 1/4 of ",,0,0
 "2 Eyases Produced",,0,0
 "2 failed eggs + 1 young",,0,0
+"2 faint trace of blood, 3 pronou",,0,0
 "2 fairly fresh, 1 well set",,0,0
 "2 Far advanced, 1 Infertile",,0,0
 "2 far advanced, 1 rotten",,0,0
@@ -1853,21 +2035,28 @@ begun",,0,0
 "2 fresh & 1 incubated",,0,0
 "2 Fresh & 2 started",,0,0
 "2 fresh & others well along",,0,0
+"2 fresh (incubation for other 4 ",,0,0
 "2 fresh a & b; other varying",,0,0
 "2 fresh and 1 small embryo",,0,0
 "2 fresh and 2 started",,0,0
 "2 fresh and 4 begun",,0,0
 "2 Fresh And 4 Started",,0,0
 "2 fresh and others one-third",,0,0
+"2 fresh eggs and one badly incub",,0,0
 "2 fresh, + 2 small embryos",,0,0
 "2 fresh, 1 addled",,0,0
 "2 fresh, 1 advanced",,0,0
+"2 fresh, 1 ancient",,0,0
 "2 fresh, 1 bloody",,0,0
 "2 fresh, 1 broke during preparat",,0,0
 "2 fresh, 1 broke during preparation",,0,0
+"2 Fresh, 1 dried up",,0,0
+"2 fresh, 1 inc",,0,0
+"2 fresh, 1 incu.",,0,0
 "2 fresh, 1 just showing blood",,0,0
 "2 fresh, 1 just started",,0,0
 "2 fresh, 1 one day",,0,0
+"2 fresh, 1 rotten",,0,0
 "2 fresh, 1 showing",,0,0
 "2 Fresh, 1 Showing Blood",,0,0
 "2 fresh, 1 showing blood, 1 very",,0,0
@@ -1884,10 +2073,12 @@ begun",,0,0
 "2 fresh, 1 trace, 3 slight",,0,0
 "2 fresh, 1 very slight",,0,0
 "2 fresh, 1 well begun",,0,0
+"2 fresh, 2 about 5 or 6 days",,0,0
 "2 fresh, 2 addled",,0,0
 "2 fresh, 2 advanced",,0,0
 "2 fresh, 2 badly incubated, 1 bl",,0,0
 "2 fresh, 2 badly incubated, 1 blackened",,0,0
+"2 fresh, 2 begun",,0,0
 "2 Fresh, 2 Commeced",,0,0
 "2 fresh, 2 commenced",,0,0
 "2 fresh, 2 feathered embryos",,0,0
@@ -1909,10 +2100,12 @@ begun",,0,0
 "2 fresh, 2 well advanced",,0,0
 "2 Fresh, 2 with blood traces",,0,0
 "2 fresh, 3 begun",,0,0
+"2 fresh, 3 just started",,0,0
 "2 Fresh, 3 Showing Blood",,0,0
 "2 fresh, 3 showing blood.",,0,0
 "2 fresh, 3 slight",,0,0
 "2 fresh, 3 small embryos",,0,0
+"2 Fresh, 3 started.",,0,0
 "2 fresh, 3 trace of blood",,0,0
 "2 fresh, 4 showing blood",,0,0
 "2 fresh, 4 started",,0,0
@@ -1931,31 +2124,40 @@ begun",,0,0
 1 commence",,0,0
 "2 fresh; 1 commenced
 1 commenced",,0,0
+"2 fresh; 1 half incubated",,0,0
+"2 fresh; 1 just begun",,0,0
+"2 fresh; 1 just started",,0,0
 "2 fresh; 1 slightly inc.",,0,0
 "2 Fresh; 1 Started",,0,0
 "2 fresh; 1 trace; 1 begun",,0,0
 "2 fresh; 1 with trace of blood",,0,0
 "2 fresh; 2 commenced",,0,0
 "2 fresh; 2 infert.",,0,0
+"2 fresh; 2 slightly incubated",,0,0
 "2 Fresh; 2 Started",,0,0
+"2 fresh; 2 started; no yolk in 1",,0,0
 "2 fresh; 2 started; no yolk in r",,0,0
 "2 fresh; 2 started; no yolk in runt",,0,0
 "2 fresh; 3 started",,0,0
 "2 fresh; 4 commenced",,0,0
+"2 fresh; 4 faint trace",,0,0
 "2 fresh; one slight",,0,0
 "2 GHO eggs + 1 chick from '93 RS",,0,0
 "2 GHO eggs + 1 chick from '93 RSH nest.",,0,0
 "2 hacked, 1 radioed; 97-SC07-ES-",,0,0
 "2 hacked, 1 radioed; 97-SC07-ES-1, fragments",,0,0
+"2 had pipped",,0,0
 "2 half rotten, 1 fresh",,0,0
 "2 half, 1 infertile",,0,0
 "2 half; 1 infertile",,0,0
 "2 hard embryos, 2 infertile",,0,0
 "2 hard, 1 addled",,0,0
 "2 Hatched",,0,0
+"2 hatched eggs of host, 5 cowbir",,0,0
 "2 hatched in captivity, 1 infert",,0,0
 "2 hatched in captivity, 1 infertile",,0,0
 "2 hatched young died in nest",,0,0
+"2 hatched, 1 embryo",,0,0
 "2 hatched, one still being incub",,0,0
 "2 hatched, one still being incubated",,0,0
 "2 hatching, 2 infertile",,0,0
@@ -1963,6 +2165,10 @@ begun",,0,0
 "2 heavy, 1 infertile",,0,0
 "2 highly incubated, 2 infertile",,0,0
 "2 highly incubated; 1 infertile",,0,0
+"2 host fresh, 1 host started, 1 ",,0,0
+"2 host infertile, 2 host full in",,0,0
+"2 host slight, 1 host addled, al",,0,0
+"2 host slight, 2 host and cowbir",,0,0
 "2 incubated 5 days, 2 rotten",,0,0
 "2 incubated eggs",,0,0
 "2 incubated, 1 infertile",,0,0
@@ -1972,6 +2178,7 @@ begun",,0,0
 "2 infertile 2 about half",,0,0
 "2 Infertile, 1 3/4",,0,0
 "2 infertile, 1 advanced",,0,0
+"2 infertile, 1 begun",,0,0
 "2 infertile, 1 large fledgling",,0,0
 "2 infertile, 1 slight",,0,0
 "2 infertile, 2 advanced",,0,0
@@ -1984,6 +2191,7 @@ begun",,0,0
 "2 infertile. The other 3 hatched",,0,0
 "2 infertile. The other 3 hatched and reared.",,0,0
 "2 infertile/ 1 with dead embryos",,0,0
+"2 infertile; 1 advanced",,0,0
 "2 infertile; 2 advanced",,0,0
 "2 infertile; 2 three days",,0,0
 "2 infertile; 2 well begun",,0,0
@@ -1993,23 +2201,28 @@ begun",,0,0
 "2 J",,0,0
 "2 jars",,0,0
 "2 just begun, 1 none",,0,0
+"2 just started; 1 - 1/4",,0,0
 "2 large embryo, 1 fresh",,0,0
 "2 Large Embryos",,0,0
+"2 large embryos ; abandoned",,0,0
 "2 large embryos 1 infertile",,0,0
 "2 large embryos, 1 infertile",,0,0
 "2 large embryos, 1 no developmen",,0,0
 "2 large embryos, 1 no development",,0,0
 "2 large embryos, 2 infertile (da",,0,0
 "2 large embryos; 1 infertile",,0,0
+"2 large embryos; abandoned",,0,0
 "2 large embryos; these and all o",,0,0
 "2 large embryos; these and all others rotten, crac",,0,0
 "2 large embyros, 1 infertile",,0,0
+"2 large tough embryos, 3 down st",,0,0
 "2 large, 1 medium embryo",,0,0
 "2 larva",,0,0
 "2 larvae",,0,0
 "2 Med, 2 Small embryos",,0,0
 "2 med. Embryos",,0,0
 "2 med. Embryos, 1 addled",,0,0
+"2 medium embryos",,0,0
 "2 medium embryos, 1 large embryo",,0,0
 "2 medium embryos, 1 small embryo",,0,0
 "2 medium, 1 small embryo",,0,0
@@ -2038,6 +2251,7 @@ begun",,0,0
 "2 of 5 eggs laid in captivity",,0,0
 "2 of them natural size. Eggs in ",,0,0
 "2 of them natural size. Eggs in nest in 15 inst.",,0,0
+"2 on 3 days",,0,0
 "2 one-half; rest three-fourths",,0,0
 "2 one-third; 2 infert.",,0,0
 "2 one-third; others infert.",,0,0
@@ -2075,6 +2289,8 @@ begun",,0,0
 "2 showing, 1 fresh",,0,0
 "2 showing, 3 fresh",,0,0
 "2 showing; 1 fresh",,0,0
+"2 slight + 1 advanced",,0,0
+"2 slight and 1 fresh (infertile?",,0,0
 "2 slight trace of blood, 1 trace",,0,0
 "2 slight, 1 addled",,0,0
 "2 slight, 1 addled, all of cowbi",,0,0
@@ -2082,11 +2298,14 @@ begun",,0,0
 "2 Slight, 1 Embryo Forming",,0,0
 "2 slight, 1 fresh",,0,0
 "2 slight, 1 fresh (infertile?)",,0,0
+"2 slight, 2 1/2",,0,0
 "2 slight, 2 about 3/5",,0,0
 "2 slight, 2 addled",,0,0
 "2 slight, 2 fresh",,0,0
 "2 slight, 3 fresh",,0,0
 "2 slight/unfertile",,0,0
+"2 slight; 1 advanced",,0,0
+"2 slight; 1 fresh; lodged over r",,0,0
 "2 slight; 1 half",,0,0
 "2 slight; 3 at two-thirds",,0,0
 "2 sm. Embryos, 1 sl. Bloody",,0,0
@@ -2097,6 +2316,7 @@ begun",,0,0
 "2 small embryos , 1 infertile",,0,0
 "2 small embryos, 1 embryo",,0,0
 "2 small embryos, 1 infertile",,0,0
+"2 small embryos, 1 large embryo",,0,0
 "2 small embryos, 1 medium embryo",,0,0
 "2 small embryos, 1 slight",,0,0
 "2 small embryos, 2 large embryos",,0,0
@@ -2113,6 +2333,7 @@ begun",,0,0
 "2 started, 1 fresh",,0,0
 "2 started, 2 addled",,0,0
 "2 started, 3 fresh",,0,0
+"2 started, one 1/3 incubated",,0,0
 "2 started; 1small infertile",,0,0
 "2 started; 2 fresh; 2 about 1/3",,0,0
 "2 three-fourths inc.; 3 addled",,0,0
@@ -2120,11 +2341,14 @@ begun",,0,0
 "2 to 4 days",,0,0
 "2 to 5 days",,0,0
 "2 to 6 days",,0,0
+"2 towhee fresh, 1 almost hatched",,0,0
 "2 tr",,0,0
+"2 trace",,0,0
 "2 trace of blood, 1 fresh",,0,0
 "2 trace of blood, 1 slight trace",,0,0
 "2 trace, 1 fresh",,0,0
 "2 trace, 2 fresh",,0,0
+"2 trace; 1 advanced",,0,0
 "2 v. small embryos, 1 infertile",,0,0
 "2 very advanced 2 clear",,0,0
 "2 very heavy, 1 light, 1 broken",,0,0
@@ -2138,13 +2362,17 @@ begun",,0,0
 "2 very small embryos, 1 fresh",,0,0
 "2 very small embryos, 2 infertil",,0,0
 "2 very small embryos, 2 infertile",,0,0
+"2 very small embryos, 2 trace of",,0,0
+"2 very well advanced, 2 fresher",,0,0
 "2 weeks",,0,0
+"2 weeks and large dead embryo in",,0,0
 "2 weeks old",,0,0
 "2 weeks, 1 addled",,0,0
 "2 well begun, 1 infertile",,0,0
 "2 well begun, 1 runt infertile",,0,0
 "2 well formed embryos, 4 fresh",,0,0
 "2 well incubated",,0,0
+"2 well started; 1 infertile",,0,0
 "2 well started-2 infertile",,0,0
 "2 well-grown chicks",,0,0
 "2 whole eggs, no chicks",,0,0
@@ -2159,6 +2387,7 @@ begun",,0,0
 "2 young + 1 egg in nest",,0,0
 "2 young 3 weeks + 1 egg",,0,0
 "2 young birds w/feathers",,0,0
+"2 young cardinals about 2 days o",,0,0
 "2 Young Fledged",,0,0
 "2 young fledged but disappeared",,0,0
 "2 young fledged.",,0,0
@@ -2192,13 +2421,17 @@ begun",,0,0
 "2/10",,0,0
 "2/10-3/17, 2 young hatched & fle",,0,0
 "2/10-3/17, 2 young hatched & fledged",,0,0
+"2/2 half",,0,0
 "2/20-3/23. Site failed before ha",,0,0
 "2/20-3/23. Site failed before hatching",,0,0
 "2/26-4/1, 2 young hatched",,0,0
 "2/3",,0,0
+"2/3 - eggs found in all stages",,0,0
 "2/3 - pipped",,0,0
+"2/3 : feathering",,0,0
 "2/3 adv.",,0,0
 "2/3 advanced",,0,0
+"2/3 aged",,0,0
 "2/3 At Least",,0,0
 "2/3 complete",,0,0
 "2/3 days",,0,0
@@ -2213,15 +2446,20 @@ begun",,0,0
 "2/3 incubated",,0,0
 "2/3 or more",,0,0
 "2/3 Or Over",,0,0
+"2/3 or so",,0,0
+"2/3 set",,0,0
+"2/3 to 3/4",,0,0
 "2/3 to 34",,0,0
 "2/3, 1 infertile",,0,0
 "2/3, 1/2 in runt egg",,0,0
 "2/3-3/8, 2 young hatched & fledg",,0,0
 "2/3-3/8, 2 young hatched & fledged",,0,0
 "2/3rds",,0,0
+"2/3s of",,0,0
 "2/4",,0,0
 "2/4 last incubation",,0,0
 "2/5",,0,0
+"2/5 about",,0,0
 "2/5 or more",,0,0
 "2/5 or ore",,0,0
 "2/7",,0,0
@@ -2272,6 +2510,7 @@ begun",,0,0
 "2192-93 slight",,0,0
 "2196-97 moderate",,0,0
 "22 +/- days",,0,0
+"22 days",,0,0
 "22 days old",,0,0
 "2200-01 moderate",,0,0
 "2202 advanced; 2204 advanced-fea",,0,0
@@ -2294,7 +2533,13 @@ begun",,0,0
 "23 days",,0,0
 "2-3 Days",,0,0
 "23 mos.",,0,0
+"2-3 week incubation ; abandoned",,0,0
 "2-3 weeks",,0,0
+"2-3 weeks incubation ; abandoned",,0,0
+"2-3 weeks incubation; abandoned",,0,0
+"2-3 weeks incubation; Abandoned.",,0,0
+"2-3 weeks; abandoned",,0,0
+"2-3 weels incubation ; abandoned",,0,0
 "2-3 young fledged",,0,0
 "2-3 yr",,0,0
 "2-3 yrs",,0,0
@@ -2309,6 +2554,7 @@ begun",,0,0
 "24 hours",,0,0
 "24 hours - fresh",,0,0
 "24 months",,0,0
+"24.7 g",,0,0
 "2405 slight",,0,0
 "2408 moderate",,0,0
 "2415 slight; 2416 moderate",,0,0
@@ -2328,6 +2574,7 @@ begun",,0,0
 "2467 advanced; 2468 moderate",,0,0
 "2471 advanced",,0,0
 "2472 advanced",,0,0
+"25 days",,0,0
 "2-5 days",,0,0
 "25 days old","25 days old",0,1
 "25 yr. old",,0,0
@@ -2399,6 +2646,14 @@ begun",,0,0
 "2d yr?",,0,0
 "2-day juv.",,0,0
 "2days",,0,0
+"2-embryo visible, 3-embryos larg",,0,0
+"2-embryos visible, 2-embryos lar",,0,0
+"2-embryos visible, 2-pronounced ",,0,0
+"2-embryos visible, 3-embryos lar",,0,0
+"2-embryos visible, 5-embryos lar",,0,0
+"2-faint trace of blood, 1-pronou",,0,0
+"2-faint trace of blood, 2-pronou",,0,0
+"2-fairly well incubated; 2-fresh",,0,0
 "2j",,0,0
 "2-large embryos, 2-infertile",,0,0
 "2nd clutch frag. Broke in nest",,0,0
@@ -2409,12 +2664,18 @@ begun",,0,0
 "2nd year immature",,0,0
 "2nd yr",,0,0
 "2nd yr.",,0,0
+"2-pronounced trace of blood, 1-e",,0,0
+"2-pronounced trace of blood, 1-f",,0,0
 "2-Showing blood; 1 Large embryo",,0,0
 "2-Showing Blood; 1-Fresh",,0,0
 "2-small embryos; 1- large embryo",,0,0
+"2-strictly fresh, 1-faint trace ",,0,0
+"2-strictly fresh, 2-faint trace ",,0,0
+"2-strictly fresh, 3-faint trace ",,0,0
 "3",,0,0
 "-3",,0,0
 "3 - 2/3, 2 addled",,0,0
+"3 - 9/10; 1 - 1/4; 1 fresh",,0,0
 "3 & 4 days",,0,0
 "3 & 5 DAYS RESPECTIVELY",,0,0
 "3 (=HY)",,0,0
@@ -2424,24 +2685,30 @@ begun",,0,0
 "3 about 1/3, 2 about 2/3",,0,0
 "3 about 1/3. 4 about 1/4",,0,0
 "3 about half; 1 almost complete",,0,0
+"3 addled eggs left in nest; 9 ha",,0,0
 "3 addled eggs. No copulation obs",,0,0
 "3 addled eggs. No copulation observed",,0,0
 "3 addled, 1 died small embryo, e",,0,0
 "3 addled, 1 died small embryo, estimated 7 days",,0,0
 "3 addled, 1 hatched in lab",,0,0
 "3 addled, 1 heavy",,0,0
+"3 addled, 2 begun",,0,0
 "3 addled, 2 one week",,0,0
 "3 addled, 2 well-begun",,0,0
 "3 adults",,0,0
 "3 ADULTS, 8 LARVAE",,0,0
 "3 advanced, 1 addled",,0,0
+"3 advanced, 1 fresh",,0,0
 "3 advanced, 1 infertile",,0,0
 "3 advanced, 6 rotten",,0,0
 "3 advanced. One infertile egg.",,0,0
+"3 badly incubated, 2 infertile",,0,0
 "3 begun",,0,0
 "3 begun, 2 fresh",,0,0
+"3 begun, 5 advanced",,0,0
 "3 begun, right fresh no yolk",,0,0
 "3 broken",,0,0
+"3 broken, 1 commenced",,0,0
 "3 broken; 1 fresh",,0,0
 "3 chicks @ 4.5 - 5.5 + 1 egg",,0,0
 "3 chicks + 1 egg",,0,0
@@ -2458,7 +2725,9 @@ begun",,0,0
 "3 days (very slight)",,0,0
 "3 days advanced",,0,0
 "3 days after complete set",,0,0
+"3 days after set complete",,0,0
 "3 days exactly",,0,0
+"3 days in 2 Towhees + several of",,0,0
 "3 Days Incubated",,0,0
 "3 days incubated'",,0,0
 "3 days incubated- nest held 2 eg",,0,0
@@ -2491,14 +2760,18 @@ begun",,0,0
 "3 eggs fresh/ 2 eggs about a wee",,0,0
 "3 eggs fresh/ 2 eggs about a week",,0,0
 "3 eggs fresh; 1 6-8 days",,0,0
+"3 eggs fresh; 1 egg slightly set",,0,0
 "3 eggs from 3 nests, all abnorma",,0,0
 "3 eggs from 3 nests, all abnormal",,0,0
 "3 eggs from a failed clutch of 4",,0,0
 "3 eggs from a failed clutch of 4 in a nest box. 2 ",,0,0
 "3 eggs in near April 22nd",,0,0
+"3 eggs in nest on June 15th",,0,0
 "3 eggs incubated",,0,0
 "3 eggs incubated (young formed)",,0,0
 "3 eggs incubated, 1 egg fresh",,0,0
+"3 eggs incubated, 1 with large e",,0,0
+"3 eggs large chicks, all started",,0,0
 "3 eggs of Chipping Sparrow fresh",,0,0
 "3 eggs on june 14",,0,0
 "3 eggs one-half incubated, 1 ste",,0,0
@@ -2509,6 +2782,7 @@ begun",,0,0
 "3 eggs, 1 chick 5 weeks old.",,0,0
 "3 eggs, no chicks (only 2 eggs a",,0,0
 "3 eggs, no chicks (only 2 eggs arrived at WFVZ, 1 ",,0,0
+"3 embryos visable; 1 large soft ",,0,0
 "3 failed eggs (1/3 contained a f",,0,0
 "3 failed eggs (1/3 contained a feathered embryo)",,0,0
 "3 failed eggs- dried & hollow.  ",,0,0
@@ -2518,8 +2792,10 @@ begun",,0,0
 "3 failed eggs- possiblt due to t",,0,0
 "3 failed eggs- possiblt due to trapping Female 2 m",,0,0
 "3 far advanced, 1 fresh",,0,0
+"3 far advanced, 1 too far hatche",,0,0
 "3 fr.  others begun",,0,0
 "3 Fresh",,0,0
+"3 Fresh ; 1 Advanced",,0,0
 "3 fresh 2 advanced",,0,0
 "3 Fresh 2 inc well begun",,0,0
 "3 fresh 2 well begun",,0,0
@@ -2535,6 +2811,8 @@ begun",,0,0
 "3 fresh, 1 addled (left over from previous clutch ",,0,0
 "3 fresh, 1 begun",,0,0
 "3 fresh, 1 bloody",,0,0
+"3 fresh, 1 considerable",,0,0
+"3 Fresh, 1 Embryo Formed",,0,0
 "3 fresh, 1 infertile",,0,0
 "3 fresh, 1 just started",,0,0
 "3 fresh, 1 showing blood",,0,0
@@ -2554,7 +2832,10 @@ begun",,0,0
 "3 fresh, 2 slight",,0,0
 "3 Fresh, 2 Slight Trace Of Blood",,0,0
 "3 Fresh, 2 Slight Trace, 1 Trace",,0,0
+"3 fresh, 2 slightly incubated",,0,0
+"3 fresh, 2 small embryos, 2 larg",,0,0
 "3 fresh, 2 started",,0,0
+"3 fresh, 2 trace of red",,0,0
 "3 fresh, 2 very slight",,0,0
 "3 fresh, 3 addled",,0,0
 "3 fresh, 3 showing blood",,0,0
@@ -2590,6 +2871,7 @@ begun",,0,0
 "3 hatched, 9 broken",,0,0
 "3 hatched, 9 broken (3 developed",,0,0
 "3 hatched, 9 broken (3 developed)",,0,0
+"3 hatched, 9 broken (developed)",,0,0
 "3 hatched, 9 broken(developed)",,0,0
 "3 hatched, one pipping",,0,0
 "3 heavy, 1 infertile",,0,0
@@ -2598,6 +2880,7 @@ begun",,0,0
 "3 infert.; 3 one-third inc.",,0,0
 "3 infertile 5 heavy",,0,0
 "3 infertile, 1- incubated 1/4",,0,0
+"3 infertile, 1 young bird about ",,0,0
 "3 infertile, 2 well adv.",,0,0
 "3 infertile, 2 with incubation f",,0,0
 "3 infertile, 2 with incubation far advanced",,0,0
@@ -2607,6 +2890,8 @@ begun",,0,0
 "3 large embryo, 1 fresh",,0,0
 "3 large embryos",,0,0
 "3 large embryos (eggs saved), 1 ",,0,0
+"3 large embryos ; abandoned",,0,0
+"3 large embryos, 1 fresh",,0,0
 "3 large embryos, 1 infertile",,0,0
 "3 large embryos, 1 medium embryo",,0,0
 "3 large embryos, 1 no developmen",,0,0
@@ -2615,6 +2900,7 @@ begun",,0,0
 "3 large embryos, runt was infert",,0,0
 "3 large embryos, runt was infertile, the contents ",,0,0
 "3 large embryos, within 1-2 days",,0,0
+"3 large embryos; abandoned",,0,0
 "3 larva",,0,0
 "3 larvae",,0,0
 "3 Male Eyases Produced",,0,0
@@ -2627,17 +2913,22 @@ begun",,0,0
 "3 of Chat eggs much incubated, C",,0,0
 "3 of Chat eggs much incubated, Cuckoo egg slightly",,0,0
 "3 of host + cowbird slight, 1 ad",,0,0
+"3 of host + cowbird slight, 1 ho",,0,0
+"3 of the eggs were in the nest o",,0,0
 "3 one half, 1 infertile",,0,0
 "3 Or 4 Days",,0,0
 "3 or 4 days, advanced",,0,0
 "3 or 4 days.",,0,0
 "3 or 4 days-well begun",,0,0
 "3 or 6 days",,0,0
+"3 partial, 4 advanced",,0,0
 "3 partly incubated, 2 perfectly ",,0,0
 "3 partly incubated, 2 perfectly fresh",,0,0
 "3 pequeno embrios- 2 frescos",,0,0
+"3 quarters through",,0,0
 "3 ready to hatch",,0,0
 "3 ready to hatch, 1 fresh--proba",,0,0
+"3 rotten on ewell on.",,0,0
 "3 rotten, 1 large embryo",,0,0
 "3 samples; 1st layer, ""2003 frag",,0,0
 "3 samples; 1st layer, ""2003 fragments""; 2nd layer,",,0,0
@@ -2658,13 +2949,18 @@ begun",,0,0
 "3 slight, 2 fresh (damaged)",,0,0
 "3 slight; 1 addled",,0,0
 "3 slight; 1 infertile",,0,0
+"3 slight; 2 fresh",,0,0
+"3 slightly incubated, 2 incubate",,0,0
 "3 small 1 large embryo",,0,0
 "3 small eggs and 1 average size",,0,0
 "3 small emb., 1 showing blood",,0,0
 "3 small embryo, 1 addled",,0,0
 "3 Small Embryos",,0,0
+"3 small embryos ; abandoned",,0,0
 "3 small embryos, 1 addled",,0,0
+"3 small embryos, 1 large embryo",,0,0
 "3 small embryos, 1 showing blood",,0,0
+"3 small embryos, 1 trace, 1 fres",,0,0
 "3 Small Embryos, 3 Large Embryos",,0,0
 "3 small embryos; 1 addled (dente",,0,0
 "3 small embryos; 1 infertile",,0,0
@@ -2675,12 +2971,14 @@ begun",,0,0
 "3 started, 2 fresh, 1 at about 1/5.",,0,0
 "3 started; 1 fresh.",,0,0
 "3 Started; 2 Fresh",,0,0
+"3- strictly fresh, 1-faint trace",,0,0
 "3 to 4 days",,0,0
 "3 To 5 Days",,0,0
 "3 to 6 days",,0,0
 "3 to 6 days advanced",,0,0
 "3 trace of blood, 1 very small e",,0,0
 "3 trace, 2 begun, 1 slight",,0,0
+"3 trace; 1 blue fresh",,0,0
 "3 two-thirds; 1 one-half; 1 addl",,0,0
 "3 two-thirds; 1 one-half; 1 addled",,0,0
 "3 undead 1 infertile",,0,0
@@ -2715,22 +3013,28 @@ begun",,0,0
 "3 young 4.5 weeks + 1 egg",,0,0
 "3 young birds half grown, one eg",,0,0
 "3 young birds half grown, one egg incubation about",,0,0
+"3 young birds, 1 addled egg",,0,0
 "3 young collected",,0,0
 "3 Young Fledged",,0,0
 "3 young in nest",,0,0
 "3 young, 2 infertile",,0,0
 "3 young, 2 infertile eggs",,0,0
 "3 young, 2-2.5 weeks old.",,0,0
+"3 Young, half grown
+1 Eggs fres",,0,0
 "3 yr",,0,0
 "3 yr.",,0,0
 "3 yr. ?",,0,0
 "3 yrs",,0,0
 "3 yrs  8 mos",,0,0
+"3, fresh; 1, slight trace of blo",,0,0
 "3, inc - 1 fresh",,0,0
 "3.5 years",,0,0
 "3/10",,0,0
+"3/3",,0,0
 "3/4",,0,0
 "3/4 & addled",,0,0
+"3/4 + addled",,0,0
 "3/4 adv.",,0,0
 "3/4 advanced",,0,0
 "3/4 begun",,0,0
@@ -2743,15 +3047,20 @@ begun",,0,0
 "3/4 incubation",,0,0
 "3/4 or more",,0,0
 "3/4 Over",,0,0
+"3/4 set",,0,0
 "3/4 set (1 rotten)",,0,0
 "3/4, one egg was broken in blowi",,0,0
 "3/4. all fertile",,0,0
 "3/4+",,0,0
 "3/4+, Add-out of nest, probably ",,0,0
 "3/4+, Add-out of nest, probably kicked out, almost",,0,0
+"3/4's",,0,0
 "3/4s nest deserted",,0,0
+"3/4ths",,0,0
 "3/4ths.",,0,0
 "3/5",,0,0
+"3/5 Advanced",,0,0
+"3/6/91",,0,0
 "3/8"" embryos",,0,0
 "3+ mm embryo",,0,0
 "3+ yr.",,0,0
@@ -2796,6 +3105,7 @@ begun",,0,0
 "3-4 weeks",,0,0
 "3-4 yr",,0,0
 "3438 fresh",,0,0
+"3-4-4",,0,0
 "3441 slight",,0,0
 "3444 slight",,0,0
 "3447 slight",,0,0
@@ -2803,9 +3113,11 @@ begun",,0,0
 "3453 fresh",,0,0
 "3-5 dats",,0,0
 "3-5 days",,0,0
+"3-5 days advanced",,0,0
 "3-5 days advanced.",,0,0
 "3-5 days incubated",,0,0
 "3-5 days old","3-5 days old",0,1
+"35%",,0,0
 "3530 slight; 3531 moderate",,0,0
 "3534 advanced; 3535 adv.-feather",,0,0
 "3534 advanced; 3535 adv.-feathered",,0,0
@@ -2818,9 +3130,11 @@ begun",,0,0
 "3-6 (yrs?)",,0,0
 "36 days",,0,0
 "3-6 days",,0,0
+"3-6 days (see card",,0,0
 "36 hrs.",,0,0
 "3622 moderate",,0,0
 "3667 advanced-feathered",,0,0
+"37 advanced dead; 38 infertile",,0,0
 "3-7 days",,0,0
 "3-7 days advanced",,0,0
 "3792 slight",,0,0
@@ -2835,11 +3149,21 @@ begun",,0,0
 "3918, 3920 fresh; 3919 very slight",,0,0
 "3-about 1/3, 1 almost complete",,0,0
 "3-B-1-0",,0,0
+"3-embryos large and soft, 1-embr",,0,0
+"3-embryos large and soft, 2-embr",,0,0
+"3-embryos large and soft, 3-embr",,0,0
+"3-faint trace of blood, 1-pronou",,0,0
+"3-faint trace of blood, 2-strict",,0,0
 "3fresh-1showing blood streak",,0,0
+"3-pronounced trace of blood, 1-s",,0,0
+"3rd addled egg from 2006 nest.",,0,0
 "3rd winter","3rd winter",0,1
 "3rd y",,0,0
 "3rd year",,0,0
 "3rd yr.",,0,0
+"3-strictly fresh, 1-faint trace ",,0,0
+"3-strictly fresh, 1-pronounced t",,0,0
+"3-strictly fresh, 2-faint trace ",,0,0
 "3-trace",,0,0
 "3Y/4Y; NO BURSA",,0,0
 "3Y; NO BURSA",,0,0
@@ -2864,9 +3188,12 @@ begun",,0,0
 "4 days (blood, soft embryos)",,0,0
 "4 days (nest had 2 eggs on the 2",,0,0
 "4 days (nest had 2 eggs on the 24th)",,0,0
+"4 days (soft embyos)",,0,0
 "4 days- 2 eggs on 13 May",,0,0
 "4 days advanced",,0,0
 "4 days begun",,0,0
+"4 days down",,0,0
+"4 days down to fresh",,0,0
 "4 days- evenly progressing",,0,0
 "4 days incubated",,0,0
 "4 days old",,0,0
@@ -2897,9 +3224,11 @@ begun",,0,0
 "4 eggs well advanced, 2 eggs about 10 days",,0,0
 "4 eggs well advanced; 1 fresh",,0,0
 "4 Eyases Produced",,0,0
+"4 faint trace of blood; 1 pronou",,0,0
 "4 fresh",,0,0
 "4 fresh 1 broken",,0,0
 "4 fresh 1 inf.",,0,0
+"4 fresh 1 one day addled",,0,0
 "4 fresh 3 just started",,0,0
 "4 fresh, 1 addled",,0,0
 "4 fresh, 1 advanced",,0,0
@@ -2912,9 +3241,12 @@ begun",,0,0
 "4 fresh, 2 showing blood",,0,0
 "4 fresh, 2 slight",,0,0
 "4 fresh, 2 started",,0,0
+"4 fresh, 2 well begun",,0,0
 "4 Fresh, 2 With blood",,0,0
 "4 fresh, 3 incubated",,0,0
 "4 fresh, 3 infertile",,0,0
+"4 fresh, 3 just begun",,0,0
+"4 fresh, 3 just started",,0,0
 "4 Fresh, 3 Slight Trace Of Blood",,0,0
 "4 fresh, 3 small embryos.",,0,0
 "4 fresh, 3 well begun",,0,0
@@ -2943,25 +3275,31 @@ begun",,0,0
 "4 heavily incubated, 1 incubated",,0,0
 "4 heavily incubated, 1 incubated about 2 days",,0,0
 "4 host incubated",,0,0
+"4 host normal eggs, large embryo",,0,0
 "4 infertile",,0,0
 "4 infertile one advanced",,0,0
 "4 infertile
 1 advanced",,0,0
+"4 infertile, 1 egg with 23 day o",,0,0
 "4 infertile, 10 days",,0,0
 "4 infertile; 9 at 2-3 days; 1 at",,0,0
 "4 infertile; 9 at 2-3 days; 1 at 4 days.",,0,0
 "4 just begun, 1 infertile",,0,0
 "4 just started. 4 about 1/4",,0,0
 "4 large embryos & 1 infertile",,0,0
+"4 large embryos, 2 small embryos",,0,0
 "4 large embryos; see card",,0,0
 "4 large, 4 medium, 2 fresh",,0,0
 "4 larva",,0,0
 "4 larvae",,0,0
 "4 months",,0,0
 "4 months old","4 months old",0,1
+"4 of phoebe slight, 1 addled; co",,0,0
 "4 or 4 days",,0,0
 "4 Or 5 Days",,0,0
+"4 or 5 days (nearly equal in all",,0,0
 "4 or 5 days advanced",,0,0
+"4 or 5 days at the most",,0,0
 "4 or 5 days incubated",,0,0
 "4 or 5 days to hatching",,0,0
 "4 out of 5 eggs piped",,0,0
@@ -2974,6 +3312,7 @@ begun",,0,0
 "4 slight, 1 infertile",,0,0
 "4 slight, 2 fresh",,0,0
 "4 slight, 4 fully form",,0,0
+"4 slight; 1 infertile",,0,0
 "4 slight; 1 sterile",,0,0
 "4 slightly incubated, 2 addled",,0,0
 "4 Small Embryos",,0,0
@@ -2999,10 +3338,12 @@ begun",,0,0
 "4 very slight; 1 addled",,0,0
 "4 Very Sm. Embryos, 1 Sm. Embryo",,0,0
 "4 very small embryos",,0,0
+"4 weeks",,0,0
 "4 years",,0,0
 "4 yo",,0,0
 "4 Young",,0,0
 "4 young + 1 egg",,0,0
+"4 young 1 egg",,0,0
 "4 young 2.5-3 weeks + 1 egg",,0,0
 "4 young fledged",,0,0
 "4 young hatched in wild",,0,0
@@ -3029,8 +3370,14 @@ begun",,0,0
 "4/5 advanced",,0,0
 "4/5 complete",,0,0
 "4/5 complete - then addled",,0,0
+"4/5 Hatched",,0,0
 "4/5 incubated",,0,0
+"4/5 or so",,0,0
+"4/5 set",,0,0
 "4/5, 1 egg infertile",,0,0
+"4/5. Eggs un blowable and lost",,0,0
+"4/5-1 lost",,0,0
+"4/5ths",,0,0
 "4/6- formed embryo; 5/6- tiny em",,0,0
 "4/6- formed embryo; 5/6- tiny embryo; 6/6- eyes fo",,0,0
 "4/89 fresh",,0,0
@@ -3065,6 +3412,8 @@ begun",,0,0
 "4-3/4, 1 infertile",,0,0
 "4345-46 slight",,0,0
 "43g",,0,0
+"4-4-4",,0,0
+"4-4-4-6",,0,0
 "4447 very slight; 4448 slight; 4",,0,0
 "4447 very slight; 4448 slight; 4449 slight-dead/de",,0,0
 "4451 no development",,0,0
@@ -3089,11 +3438,14 @@ begun",,0,0
 "4539 slight-dead?; 4540 no dev.",,0,0
 "4541 no dev.; 4542 slight; 4543-",,0,0
 "4541 no dev.; 4542 slight; 4543-44 slight-dead-det",,0,0
+"4-5-5",,0,0
+"4-5-5-5",,0,0
 "4587 slight-dead? Detached",,0,0
 "4590 slight-detached; 4591 fresh",,0,0
 "4590 slight-detached; 4591 fresh; 4592 slight-dead",,0,0
 "4-6",,0,0
 "4-6 days",,0,0
+"4-6 days; advanced",,0,0
 "46 Hatched, 47,48,49 Infertile",,0,0
 "4601 slight; 4602 moderate; 4603",,0,0
 "4601 slight; 4602 moderate; 4603 advanced",,0,0
@@ -3127,8 +3479,10 @@ begun",,0,0
 "4985 very slight",,0,0
 "4991 fresh",,0,0
 "4-b",,0,0
+"4-embryos visible, 1-faint trace",,0,0
 "4th quarter",,0,0
 "5",,0,0
+"5 5 5",,0,0
 "5 5 5 5",,0,0
 "5 about 1/3. 2 about 1/2",,0,0
 "5 about 1/4, one addled (no yolk",,0,0
@@ -3180,19 +3534,24 @@ begun",,0,0
 "5 infertile, 1 heavy",,0,0
 "5 j.",,0,0
 "5 months",,0,0
+"5 newly hatched young and 1 egg",,0,0
 "5 one-half; 1 infertile",,0,0
 "5 or 6 days",,0,0
 "5 or 6 days advanced",,0,0
 "5 or 6 days.",,0,0
 "5 showing",,0,0
 "5 showing blood",,0,0
+"5 slight, 1 fresh",,0,0
 "5 small embryos",,0,0
 "5 small embryos, 1 fresh",,0,0
 "5 small embryos; 1 showing blood",,0,0
 "5 soft embryo, 1 addled",,0,0
 "5 soft embryos; one addled",,0,0
+"5 spoiled eggs and tow young bir",,0,0
 "5 To 6 Days",,0,0
+"5 to 6 days gone",,0,0
 "5 to 7 days",,0,0
+"5 to 7 days (advanced)",,0,0
 "5 to 7 days advanced",,0,0
 "5 to 7 days along",,0,0
 "5 to 8 days",,0,0
@@ -3201,6 +3560,7 @@ begun",,0,0
 "5 young + 1 egg (1-2.5 weeks old",,0,0
 "5 young + 1 egg (1-2.5 weeks old)",,0,0
 "5 young + 1 egg 3 weeks +",,0,0
+"5 young, perhaps 3 days old",,0,0
 "5 yr",,0,0
 "5 yrs",,0,0
 "5 yrs  11 months",,0,0
@@ -3209,6 +3569,7 @@ begun",,0,0
 "5.5g showing blood",,0,0
 "5/10",,0,0
 "5/10 developed",,0,0
+"5/16/97",,0,0
 "5/2 [sic] see card #35 1919",,0,0
 "5/6",,0,0
 "5/6 days",,0,0
@@ -3229,6 +3590,7 @@ begun",,0,0
 "5064 advanced-feathered",,0,0
 "5383 moderate; 5484 advanced",,0,0
 "5460 slight",,0,0
+"5-5-6-6",,0,0
 "5-6 day old chick",,0,0
 "5-6 days",,0,0
 "5-6 days (slight)",,0,0
@@ -3242,6 +3604,9 @@ begun",,0,0
 "5-7 days although one egg was in",,0,0
 "5-7 days although one egg was in the nest 16 Apr 1",,0,0
 "5-8 days",,0,0
+"583, 585 moderate; 584 addled",,0,0
+"5-a little down started, 1-unkno",,0,0
+"5-e= small embryos",,0,0
 "5to 6 days",,0,0
 "6",,0,0
 "6 - 9 days",,0,0
@@ -3253,6 +3618,7 @@ begun",,0,0
 "6 days (1 infertile)",,0,0
 "6 days advanced",,0,0
 "6 days after laying",,0,0
+"6 days inclubated",,0,0
 "6 days.",,0,0
 "6 days: 1 infertile",,0,0
 "6 eggs fresh, 1 showing blood",,0,0
@@ -3270,6 +3636,7 @@ begun",,0,0
 "6 or 7 days advanced",,0,0
 "6 or 7 days, soft bones.",,0,0
 "6 or 8 days",,0,0
+"6 or 8 days advanced",,0,0
 "6 to 10 days",,0,0
 "6 to 15 days advanced",,0,0
 "6 to 7 days",,0,0
@@ -3300,7 +3667,9 @@ begun",,0,0
 "69",,0,0
 "6-days",,0,0
 "6j",,0,0
+"7",,0,0
 "7 50-60%; 1 fresh, 1 rotten",,0,0
+"7 7",,0,0
 "7 adult",,0,0
 "7 broken, 3 of which showed deve",,0,0
 "7 broken, 3 of which showed development",,0,0
@@ -3329,8 +3698,10 @@ begun",,0,0
 "7 yrs  8 mos",,0,0
 "7.15 g Infertile",,0,0
 "7/10",,0,0
+"7/10 days",,0,0
 "7/4 slight 8/4 fresh",,0,0
 "7/8",,0,0
+"7/8 completed",,0,0
 "7/8 hatching",,0,0
 "7-10 Days",,0,0
 "75%",,0,0
@@ -3361,6 +3732,7 @@ begun",,0,0
 "8 jours",,0,0
 "8 larva",,0,0
 "8 or 10 days",,0,0
+"8 or 10 days advanced",,0,0
 "8 or 10 days.",,0,0
 "8 or 9 days",,0,0
 "8 tadpoles",,0,0
@@ -3396,6 +3768,8 @@ begun",,0,0
 "9 to 10 days",,0,0
 "9 years",,0,0
 "9.3","9.3",0,1
+"9/10",,0,0
+"9/10 hatched",,0,0
 "90",,0,0
 "90 % ossified",,0,0
 "90 Day Old Chick",,0,0
@@ -3415,6 +3789,7 @@ begun",,0,0
 "91-49-51-all Hatched, See Remark",,0,0
 "91-49-51-all Hatched, See Remarks",,0,0
 "91-95 Died At Pip, See Remarks",,0,0
+"936 addled, no development; 937 ",,0,0
 "95 % ossified",,0,0
 "95EGG002, glued for educational ",,0,0
 "95EGG002, glued for educational purposes on 1 Sep ",,0,0
@@ -3509,20 +3884,25 @@ begun",,0,0
 "a few days along",,0,0
 "A few days before hatching.",,0,0
 "a few days incubated",,0,0
+"A few days sat on",,0,0
 "a fifth",,0,0
 "a fortnight sat on",,0,0
+"A fourth",,0,0
 "A fresh, B blood, C blood",,0,0
 "A fresh, B fresh, C blood, D blo",,0,0
 "A fresh, B fresh, C blood, D blood",,0,0
 "A Large Dead Embryo",,0,0
 "a- large embryo. B- small embryo",,0,0
 "A little",,0,0
+"a little advanced",,0,0
 "A little advanced.",,0,0
+"a little advancement",,0,0
 "A little blood",,0,0
 "A little blood in 2 eggs, other ",,0,0
 "A little blood in 2 eggs, other eggs none.",,0,0
 "A little blood.",,0,0
 "a little down started",,0,0
+"a little gone",,0,0
 "A little hatched",,0,0
 "A little incubated",,0,0
 "A little over slight",,0,0
@@ -3534,6 +3914,7 @@ b- showing blood",,0,0
 "a- no development, b- showing bl",,0,0
 "a pecice commencee (commenced)",,0,0
 "a read thread",,0,0
+"a runt; fresh + yolkless",,0,0
 "a- shell only, crushed
 b- about",,0,0
 "a- shell only, crushed
@@ -3554,6 +3935,7 @@ b- about 1/2 large embryo",,0,0
 "a trace in 1 or 2 eggs",,0,0
 "A trace in 2 eggs, rest apparent",,0,0
 "A trace in 2 eggs, rest apparently fresh.",,0,0
+"A trace in all eggs",,0,0
 "a trace of red",,0,0
 "a trace of red (2 days)",,0,0
 "a trace of red. Two infertile",,0,0
@@ -3564,6 +3946,7 @@ b- about 1/2 large embryo",,0,0
 "a week",,0,0
 "a week advanced",,0,0
 "A week sat on",,0,0
+"A week.",,0,0
 "a week. Infertile",,0,0
 "A X Addled 1x Hatching",,0,0
 "a/n",,0,0
@@ -3579,6 +3962,7 @@ b= ",,0,0
 "Abandoned- egg was totally undev",,0,0
 "Abandoned- egg was totally undeveloped",,0,0
 "Abandoned eggs",,0,0
+"abandoned nest - eggs rotten",,0,0
 "abandoned w/o incubation",,0,0
 "Abandoned. One egg punctured wit",,0,0
 "Abandoned. One egg punctured with mold- lost",,0,0
@@ -3590,11 +3974,14 @@ b= ",,0,0
 "about  1/2",,0,0
 "About  1/4 advanced",,0,0
 "about @ 1/2",,0,0
+"About 1  week",,0,0
+"About 1 1/2 weeks",,0,0
 "about 1 day",,0,0
 "about 1 day incubated",,0,0
 "about 1 or 2 days",,0,0
 "About 1 Week",,0,0
 "about 1 week advanced",,0,0
+"about 1 week in all",,0,0
 "About 1 week, egg2- addled",,0,0
 "About 1 week.",,0,0
 "about 1.4 complete",,0,0
@@ -3612,9 +3999,11 @@ b= ",,0,0
 "About 1/2 incubated, set complet",,0,0
 "About 1/2 incubated, set complete",,0,0
 "About 1/2 incubation",,0,0
+"About 1/2 or more",,0,0
 "about 1/2 or ten ten days",,0,0
 "About 1/2 over",,0,0
 "About 1/2 to 2/3",,0,0
+"about 1/2, 2 infertile",,0,0
 "about 1/2, heavy",,0,0
 "about 1/2, Nov. 15 - 2 fresh egg",,0,0
 "about 1/2, Nov. 15 - 2 fresh eggs",,0,0
@@ -3623,6 +4012,7 @@ b= ",,0,0
 "about 1/2; soft embryos",,0,0
 "About 1/3",,0,0
 "about 1/3 (1) infertile (3)",,0,0
+"about 1/3 (cowbird incubated sev",,0,0
 "about 1/3 advanced",,0,0
 "About 1/3 advanced.",,0,0
 "About 1/3 complete",,0,0
@@ -3645,6 +4035,7 @@ b= ",,0,0
 "About 1/4 complete",,0,0
 "about 1/4 completed",,0,0
 "about 1/4 done",,0,0
+"About 1/4 hatched",,0,0
 "about 1/4 incubated",,0,0
 "about 1/4 to 1/3",,0,0
 "About 1/4.",,0,0
@@ -3652,6 +4043,7 @@ b= ",,0,0
 "about 1/4th- one infertile",,0,0
 "About 1/5",,0,0
 "about 1/5 advanced",,0,0
+"about 1/5th",,0,0
 "About 1/6 completed",,0,0
 "About 1/8",,0,0
 "About 1/8 except runt",,0,0
@@ -3667,8 +4059,11 @@ b= ",,0,0
 "about 14 days",,0,0
 "about 15 days",,0,0
 "about 15%",,0,0
+"about 16 days",,0,0
 "about 2 days",,0,0
+"about 2 days in all",,0,0
 "about 2 days incubation",,0,0
+"About 2 days old",,0,0
 "about 2 days started",,0,0
 "about 2 days; yolks were bloody",,0,0
 "about 2 or 3 days",,0,0
@@ -3680,11 +4075,15 @@ b= ",,0,0
 "About 2/3",,0,0
 "About 2/3 advanced",,0,0
 "About 2/3 advanced.",,0,0
+"about 2/3 complete",,0,0
+"about 2/3 hatched",,0,0
 "about 2/3 incubated",,0,0
+"About 2/3 rds",,0,0
 "about 2/3 to 3/4 incubated",,0,0
 "about 2/3eds",,0,0
 "about 2/3rds",,0,0
 "about 2/5",,0,0
+"about 2/5 incubated",,0,0
 "about 20 days",,0,0
 "About 20%",,0,0
 "about 21 days",,0,0
@@ -3697,6 +4096,7 @@ b= ",,0,0
 "about 3 days Adv",,0,0
 "About 3 days advanced",,0,0
 "About 3 days in all",,0,0
+"About 3 days in all sets taken.",,0,0
 "About 3 days incubated",,0,0
 "about 3 days started",,0,0
 "About 3 days.",,0,0
@@ -3715,6 +4115,7 @@ b= ",,0,0
 "About 3/4 incubated with two eggs infertile.",,0,0
 "about 3/4 incubated, 1 egg addle",,0,0
 "about 3/5",,0,0
+"about 3/5 gone",,0,0
 "about 30%",,0,0
 "about 33%",,0,0
 "About 3-5 days",,0,0
@@ -3727,6 +4128,7 @@ b= ",,0,0
 "About 4 days.",,0,0
 "about 4 half, 3 fresh",,0,0
 "About 4 or 5 days",,0,0
+"about 4 or 5 days advanced",,0,0
 "about 4 to 7 day",,0,0
 "about 4 to 7 days",,0,0
 "about 4 weeks",,0,0
@@ -3739,6 +4141,7 @@ b= ",,0,0
 "about 5 day",,0,0
 "About 5 Days",,0,0
 "about 5 days advanced",,0,0
+"About 5 days being in all",,0,0
 "About 5 days incubated",,0,0
 "about 5 days, all uniform",,0,0
 "About 5 days.",,0,0
@@ -3756,10 +4159,12 @@ b= ",,0,0
 "about 6 days.",,0,0
 "about 6 to 10 days",,0,0
 "About 6 to 8 days",,0,0
+"About 60%",,0,0
 "About 7 Days",,0,0
 "About 7 Days Advanced",,0,0
 "about 7 or 8 days",,0,0
 "About 7 to 10 days",,0,0
+"About 7/8",,0,0
 "about 7-10 days",,0,0
 "about 75%",,0,0
 "About 8 Days",,0,0
@@ -3775,7 +4180,9 @@ b= ",,0,0
 "About a week incubation",,0,0
 "about a week's incubation",,0,0
 "about complete",,0,0
+"About complete.",,0,0
 "about completed",,0,0
+"About fifteen",,0,0
 "about five days",,0,0
 "About five or six days",,0,0
 "About four days",,0,0
@@ -3783,10 +4190,12 @@ b= ",,0,0
 "About Four Or Five Days Advanced",,0,0
 "about fresh",,0,0
 "About half",,0,0
+"about half - various",,0,0
 "about half (6-7 days)",,0,0
 "about half advanced",,0,0
 "about half completed",,0,0
 "about half hatched",,0,0
+"About half in 3 eggs; 1 egg infe",,0,0
 "About half incubated",,0,0
 "about half set",,0,0
 "about half week",,0,0
@@ -3796,10 +4205,12 @@ b= ",,0,0
 "about middle",,0,0
 "about nine days",,0,0
 "About nine days.",,0,0
+"About one",,0,0
 "about one day",,0,0
 "about one fifth",,0,0
 "about one forth",,0,0
 "About One Fourth",,0,0
+"about one fourth incubated",,0,0
 "About One Half",,0,0
 "about one half completed",,0,0
 "About one half way",,0,0
@@ -3819,26 +4230,35 @@ b= ",,0,0
 "About one-third",,0,0
 "About one-third advanced",,0,0
 "About one-third.",,0,0
+"About only half",,0,0
 "about six days",,0,0
 "about ten days",,0,0
 "About Ten Days Advanced",,0,0
 "About three days",,0,0
+"About three quarters complete",,0,0
 "about three weeks",,0,0
 "About three-quarters",,0,0
+"About to 1/4",,0,0
 "About to hatch",,0,0
 "About to lay",,0,0
 "about two days",,0,0
 "About two days only",,0,0
 "About two days.",,0,0
 "About two thirds",,0,0
+"About two thirds advanced",,0,0
 "about two weeks",,0,0
 "about two-thirds",,0,0
 "About two-thirds advanced",,0,0
 "about week",,0,0
+"Abput a week",,0,0
+"Absolute fresh",,0,0
 "Absolutely Fresh",,0,0
 "Abt 6 Days",,0,0
 "abt hatched",,0,0
 "ac/u",,0,0
+"ACC 2014-440:  cracked - late st",,0,0
+"ACC: 2014 426 Infertile
+ACC: 20",,0,0
 "ad","adult",0,1
 "ad -",,0,0
 "Ad  skull 90% ossified",,0,0
@@ -3888,6 +4308,7 @@ b= ",,0,0
 "ad; Older bird 10+ years",,0,0
 "ad?",,0,0
 "Adavanced",,0,0
+"Adcanced.",,0,0
 "add.",,0,0
 "Additional data on card",,0,0
 "Additional data on card.",,0,0
@@ -3901,6 +4322,7 @@ b= ",,0,0
 "addled & bloody",,0,0
 "addled & deserted",,0,0
 "Addled (abandoned)",,0,0
+"Addled (and 1 young bird)",,0,0
 "Addled (but Still Sitting)",,0,0
 "Addled (one Egg Collected)",,0,0
 "Addled (partially Incub.)",,0,0
@@ -3911,10 +4333,12 @@ b= ",,0,0
 "Addled + Fragments",,0,0
 "Addled + Frags",,0,0
 "Addled and advanced to 1/3",,0,0
+"Addled and bloody",,0,0
 "addled and deserted",,0,0
 "addled and hatched",,0,0
 "addled but incubated",,0,0
 "Addled- deserted",,0,0
+"Addled egg",,0,0
 "Addled egg collected with fragme",,0,0
 "Addled egg collected with fragments from 2011 nest",,0,0
 "Addled egg from clutch of 1",,0,0
@@ -3930,6 +4354,7 @@ b= ",,0,0
 "addled eggs",,0,0
 "Addled eggs from colony",,0,0
 "addled fresh",,0,0
+"Addled from 2014 season, broken",,0,0
 "Addled from clutch of 2",,0,0
 "Addled from clutch of 5",,0,0
 "Addled in nest.",,0,0
@@ -3939,17 +4364,20 @@ b= ",,0,0
 "Addled- nest deserted",,0,0
 "addled or becoming so",,0,0
 "Addled Or Fresh?",,0,0
+"addled to advanced-viable",,0,0
 "ADDLED,  BIRD FLUSHED",,0,0
 "addled, (partially)",,0,0
 "addled, 1/3",,0,0
 "Addled, 2 downy young",,0,0
 "addled, advanced",,0,0
+"addled, but bird was on nest",,0,0
 "addled, feathered",,0,0
 "addled, fresh",,0,0
 "addled, fully formed",,0,0
 "addled, half",,0,0
 "Addled, Hatched Or Died",,0,0
 "Addled, in nest with young",,0,0
+"addled, infertile or deserted (s",,0,0
 "Addled, No Apparent Development",,0,0
 "addled, ready to hatch",,0,0
 "addled, small embryo",,0,0
@@ -3959,6 +4387,9 @@ b= ",,0,0
 "Addled. No development.Nest with",,0,0
 "Addled. No development.Nest with 1-week old birds.",,0,0
 "Addled/ infertile",,0,0
+"addled/advanced",,0,0
+"addled/broken",,0,0
+"addled/deserted",,0,0
 "addled; evidently nest abandoned",,0,0
 "addled; in nest with 5 young",,0,0
 "Addled; inc. 1/4",,0,0
@@ -3966,15 +4397,28 @@ b= ",,0,0
 "Addled; Nest also contained young approx. 2.5 week",,0,0
 "Addled; nest evidently abandoned",,0,0
 "Addled; no development",,0,0
+"addled; no development to slight",,0,0
+"addled; slight to moderate-dead",,0,0
 "Addled?",,0,0
 "Addled-1 egg",,0,0
 "addled-advanced",,0,0
+"addled--advanced",,0,0
+"addled--advanced-feathered",,0,0
 "Addled-broken by us",,0,0
+"addled--fresh",,0,0
+"Addled--infertile",,0,0
+"addled-moderate-dead",,0,0
+"addled--no development",,0,0
+"addled-no development-infertile",,0,0
 "addvanced",,0,0
 "Adfult","adult",0,1
+"adjult",,0,0
 "Adled",,0,0
+"Adorable (see card)",,0,0
+"aduilt",,0,0
 "adukt",,0,0
 "Adul; skull oss.",,0,0
+"adul;t",,0,0
 "Adullt",,0,0
 "adulr","adult",0,1
 "adult","adult",1,1
@@ -3987,6 +4431,7 @@ b= ",,0,0
 "adult (49 days)",,0,0
 "ADULT (BREEDING)","adult",0,1
 "ADULT (BY PLUMAGE); BURSA NOT FO",,0,0
+"Adult (hatch year)",,0,0
 "Adult (im)",,0,0
 "Adult (skull 85% oss)",,0,0
 "adult (SY)","adult",0,1
@@ -4053,6 +4498,7 @@ b= ",,0,0
 "Adult by penis, testes",,0,0
 "Adult by plumage",,0,0
 "Adult by skull",,0,0
+"adult eclipse",,0,0
 "ADULT EXCEPT WHITE VENTRAL PLUMA",,0,0
 "Adult laying.",,0,0
 "Adult M and 2 nestlings collecte",,0,0
@@ -4097,6 +4543,7 @@ b= ",,0,0
 "Adult,  skull oss.",,0,0
 "ADULT, ALTERNATE PLUMAGE; NO BUR",,0,0
 "Adult, breeding",,0,0
+"adult, eclipse plumage",,0,0
 "adult, ossified skull",,0,0
 "adult, post breeding",,0,0
 "Adult, post-breeding",,0,0
@@ -4138,21 +4585,26 @@ b= ",,0,0
 "Adult; skull well oss.",,0,0
 "Adult; skull well-oss.",,0,0
 "adult?","adult",0,1
+"Adult`",,0,0
 "adult11.1 g",,0,0
+"Adultl",,0,0
 "Adults + Egg",,0,0
 "Adults + Eggs",,0,0
 "Adults + Embryos",,0,0
 "Adults + Juvenile",,0,0
 "Adults + Juveniles",,0,0
 "Adults + Young",,0,0
+"Adults abandoned nest",,0,0
 "ADULTS AND 2  LARVAE",,0,0
 "ADULTS AND LARVAE",,0,0
 "adults, eggs","adult, egg",0,1
 "adult-skull fully ossified",,0,0
+"Adultt",,0,0
 "Aduly","adult",0,1
 "Aduot",,0,0
 "Adut","adult",0,1
 "Adutl","adult",0,1
+"aduylt",,0,0
 "Adv",,0,0
 "Adv 1/2",,0,0
 "adv 1/3",,0,0
@@ -4174,18 +4626,29 @@ b= ",,0,0
 "advancded",,0,0
 "advance",,0,0
 "Advanced",,0,0
+"Advanced - 1/3",,0,0
+"Advanced  1/6 and 1/5",,0,0
+"Advanced  consid.-",,0,0
 "advanced - egg addled",,0,0
 "Advanced - feathers",,0,0
+"advanced - one rotten",,0,0
 "advanced- ""addled""",,0,0
 "advanced & fresh",,0,0
 "advanced & rotten",,0,0
+"advanced (10 days)",,0,0
 "Advanced (12-15 days)",,0,0
 "Advanced (2 broken)",,0,0
 "Advanced (2 infertile)",,0,0
 "advanced (2/3)",,0,0
+"Advanced (3 to 5 days)",,0,0
 "Advanced (3-5 days)",,0,0
+"Advanced (5 to 7 days)",,0,0
+"advanced (5 to 8 days)",,0,0
+"advanced (7 or 8 days)",,0,0
 "Advanced (7 to 9 days)",,0,0
+"Advanced (8 to 9 days)",,0,0
 "advanced (about 3/4)",,0,0
+"advanced (bad)",,0,0
 "Advanced (Bones)",,0,0
 "Advanced (deserted)",,0,0
 "Advanced (eyes)",,0,0
@@ -4193,6 +4656,8 @@ b= ",,0,0
 "advanced (feathers)",,0,0
 "advanced (I egg broken)",,0,0
 "advanced (much caustic)",,0,0
+"Advanced (one egg infertile)",,0,0
+"advanced (pipping)",,0,0
 "Advanced (small egg fertile)",,0,0
 "advanced (small legs formed)",,0,0
 "Advanced (well feathered)",,0,0
@@ -4222,12 +4687,17 @@ b= ",,0,0
 "advanced 5 days",,0,0
 "advanced 5 or 6 days",,0,0
 "Advanced 5-9 days.",,0,0
+"advanced 6 or 7 days",,0,0
+"advanced 7 to 9 days",,0,0
 "advanced 75%",,0,0
+"Advanced 97 to 10 days)",,0,0
 "Advanced a day or two",,0,0
 "advanced about 1/2",,0,0
 "advanced about 1/3",,0,0
 "advanced about 10 days",,0,0
 "advanced about 2/3",,0,0
+"Advanced about 3 days",,0,0
+"advanced about 3/4.  Eggs held l",,0,0
 "Advanced about 4 days",,0,0
 "Advanced about 4 or 5 days",,0,0
 "Advanced about 5 days",,0,0
@@ -4259,6 +4729,7 @@ b= ",,0,0
 "Advanced In All About 3/4",,0,0
 "advanced in all eggs",,0,0
 "advanced in both species",,0,0
+"advanced in both species, 1 Yell",,0,0
 "Advanced in most.",,0,0
 "advanced in one
 3 rotten eggs",,0,0
@@ -4273,13 +4744,19 @@ b= ",,0,0
 "Advanced perhaps one half",,0,0
 "advanced rotten",,0,0
 "advanced slightly",,0,0
+"advanced to advanced-feathered",,0,0
+"advanced to advanced-feathered; ",,0,0
 "advanced to feathers",,0,0
 "advanced to fresh",,0,0
 "Advanced to hatching",,0,0
+"advanced to pipping",,0,0
+"advanced to small embryos",,0,0
 "advanced two eggs. one egg addle",,0,0
 "advanced two eggs. one egg addled.",,0,0
 "Advanced unevenly",,0,0
 "Advanced very heavy",,0,0
+"Advanced very slight",,0,0
+"advanced- white feathers on head",,0,0
 "advanced with feathers",,0,0
 "Advanced
 perhaps one half",,0,0
@@ -4287,6 +4764,7 @@ perhaps one half",,0,0
 "advanced, 1 egg adled",,0,0
 "advanced, 1 far advanced",,0,0
 "advanced, 1 infertile",,0,0
+"Advanced, 1 less so.",,0,0
 "advanced, 2 eggs infertile",,0,0
 "Advanced, 5 or 6 days.",,0,0
 "Advanced, 7-8 days.",,0,0
@@ -4294,11 +4772,14 @@ perhaps one half",,0,0
 "advanced, addled",,0,0
 "advanced, advanced-spoiled",,0,0
 "Advanced, Commenced",,0,0
+"advanced, different stages",,0,0
 "Advanced, hard embryos",,0,0
+"Advanced, large embryos.",,0,0
 "Advanced, Over 1/2",,0,0
 "Advanced, soft embryo's formed",,0,0
 "Advanced, some more than others",,0,0
 "Advanced, very",,0,0
+"advanced, young completely forme",,0,0
 "advanced, young well formed",,0,0
 "Advanced.",,0,0
 "Advanced. 1 egg lost",,0,0
@@ -4309,35 +4790,56 @@ perhaps one half",,0,0
 "Advanced. Fresh.",,0,0
 "Advanced. One egg gone/missing",,0,0
 "advanced/ 1 fresh",,0,0
+"advanced/addled",,0,0
+"advanced/broken",,0,0
+"advanced/infertile",,0,0
+"Advanced/viable to advanced",,0,0
 "Advanced: 1 addled",,0,0
+"advanced: I egg bloody",,0,0
 "Advanced; 03826 pipping",,0,0
 "advanced; 1 addled",,0,0
+"Advanced; 1 egg addled",,0,0
 "Advanced; 1 egg clear",,0,0
 "advanced; 1 infert.",,0,0
+"Advanced; 9 to 11 days",,0,0
+"Advanced; about one-third",,0,0
 "advanced; addled",,0,0
 "advanced; chick forming",,0,0
 "advanced; could only save 1",,0,0
 "Advanced; depredated",,0,0
+"Advanced; didn't save",,0,0
+"Advanced; soft embryos",,0,0
 "Advanced; Two Infertile",,0,0
 "Advanced-10 days",,0,0
 "Advanced-14 to 16 days",,0,0
 "Advanced-dead",,0,0
+"advanced-dead; 1047 addled",,0,0
+"advanced-embryos all white feath",,0,0
 "Advanced-far",,0,0
 "Advanced-feathered",,0,0
+"advanced--feathered",,0,0
 "Advanced-feathered embryos",,0,0
+"advanced--feathered; 2324 broken",,0,0
+"advanced-feathered-dark feet.  V",,0,0
+"advanced--feathering started",,0,0
 "advanced-hard",,0,0
 "advanced-hatching",,0,0
 "Advanced-large embryos",,0,0
 "advanced-much-",,0,0
 "Advanced-pipping",,0,0
 "Advanced-unfeathered",,0,0
+"advanced--unfeathered",,0,0
 "Advanced-variable",,0,0
+"advanced-viable",,0,0
+"advanced-viable to hatching",,0,0
 "advancing",,0,0
+"advancing (begun)",,0,0
 "advanded",,0,0
 "Advaned",,0,0
 "Advcanced",,0,0
 "Advenced",,0,0
 "Advnaced 3/4",,0,0
+"advnaced-dark feathers",,0,0
 "advnced",,0,0
 "Advt",,0,0
 "advvanced",,0,0
@@ -4404,8 +4906,11 @@ perhaps one half",,0,0
 "alive",,0,0
 "All",,0,0
 "all < 1/4",,0,0
+"all 1 day incubated",,0,0
+"All 1/2",,0,0
 "All 1/2 incubated",,0,0
 "all 1/3",,0,0
+"all 1/3 incubated",,0,0
 "All 1/4 incubated",,0,0
 "All 2-3 Days Incubated",,0,0
 "All 3 Days incubated",,0,0
@@ -4414,6 +4919,7 @@ perhaps one half",,0,0
 "All 3 eggs taken fresh",,0,0
 "All 3 Eggs:Fresh",,0,0
 "All 3 fresh",,0,0
+"All 3 incubated",,0,0
 "All 3 large embryos",,0,0
 "All 3 medium embryos",,0,0
 "All 3 meduim embryos",,0,0
@@ -4456,9 +4962,11 @@ perhaps one half",,0,0
 "All Advanced About One Half",,0,0
 "All advanced considerably",,0,0
 "All badly",,0,0
+"All begun",,0,0
 "All Begun In Incubation",,0,0
 "all but one infertile, 1 heavily",,0,0
 "all but one infertile, 1 heavily incubated (broken",,0,0
+"all chipped",,0,0
 "all commenced",,0,0
 "All contained soft embryos",,0,0
 "all contents dry",,0,0
@@ -4518,6 +5026,7 @@ perhaps one half",,0,0
 "All four eggs were addled",,0,0
 "all four eggs were fresh",,0,0
 "All four hatched in wild.",,0,0
+"all frehs",,0,0
 "All fresh",,0,0
 "All fresh (turbid) except 1 Lapw",,0,0
 "All fresh (turbid) except 1 Lapwing, Redstreak",,0,0
@@ -4528,15 +5037,18 @@ perhaps one half",,0,0
 "All fresh except on had large embryo",,0,0
 "all fresh or showing slight trac",,0,0
 "all fresh or showing slight trace of blood",,0,0
+"all fresh to slightly addled",,0,0
 "all fresh, 1 of 
 warbler's dent",,0,0
 "all fresh; 3 eggs somewhat addle",,0,0
 "all fresh; 3 eggs somewhat addled",,0,0
+"all fresh?",,0,0
 "all from 2nd clutch; 98-SC01-ES-",,0,0
 "all from 2nd clutch; 98-SC01-ES-2, 2 different egg",,0,0
 "All Half Incubated",,0,0
 "All Hatched",,0,0
 "All Highly Incubated",,0,0
+"All incuabted",,0,0
 "All infertile",,0,0
 "All infertile- hard yolks",,0,0
 "all just well started",,0,0
@@ -4555,6 +5067,7 @@ warbler's dent",,0,0
 "All one-third incubated",,0,0
 "All Perfectly Fresh",,0,0
 "all prefectly fresh",,0,0
+"all pronounced trace of blood",,0,0
 "All quite fresh",,0,0
 "All Rotten",,0,0
 "All rotten & infertile.  From a ",,0,0
@@ -4568,8 +5081,12 @@ warbler's dent",,0,0
 "All Stages",,0,0
 "All stages (?)",,0,0
 "All stages- 1 missing",,0,0
+"all stages of incubation",,0,0
 "all stages slightly",,0,0
+"All stages.",,0,0
 "All Started",,0,0
+"all strictly fresh",,0,0
+"all the way from nearly fresh to",,0,0
 "All Three Addled",,0,0
 "All three eggs addled; broken",,0,0
 "All three eggs dead when collect",,0,0
@@ -4588,15 +5105,20 @@ warbler's dent",,0,0
 "All two-thirds incubated",,0,0
 "All very large embryos",,0,0
 "all very slight",,0,0
+"All very soft and already broken",,0,0
+"all were well started",,0,0
 "All With Large Embryos",,0,0
 "all with very slight trace",,0,0
+"all young fledged, no eggs or fr",,0,0
 "All-large embryos",,0,0
+"Almist hatched",,0,0
 "almost",,0,0
 "almost  complete",,0,0
 "almost  hatching",,0,0
 "almost 1/2",,0,0
 "Almost 1/3",,0,0
 "Almost 25%",,0,0
+"Almost 5 days",,0,0
 "almost advanced",,0,0
 "almost complete",,0,0
 "Almost complete.",,0,0
@@ -4606,15 +5128,19 @@ warbler's dent",,0,0
 "Almost Fresh",,0,0
 "Almost Fresh To Heavy",,0,0
 "almost fresh; 1 fresh",,0,0
+"Almost fresh; probably two days ",,0,0
 "Almost fresh-just started",,0,0
 "Almost full",,0,0
 "Almost Fully Developed",,0,0
+"Almost fully incubated, abandone",,0,0
 "almost half",,0,0
 "almost hard",,0,0
 "Almost Hatched",,0,0
 "Almost hatched and decaying",,0,0
+"Almost hatched, but rotton",,0,0
 "almost hatching",,0,0
 "Almost hatching.",,0,0
+"Almost incubated",,0,0
 "almost pipped",,0,0
 "almost ready to hatch",,0,0
 "Almost ready to hatch. Nest cont",,0,0
@@ -4625,6 +5151,7 @@ warbler's dent",,0,0
 "Almost two days",,0,0
 "Almt. 8 days",,0,0
 "along",,0,0
+"already begun",,0,0
 "ALTERNATE PLUMAGE; NO BURSA FOUN",,0,0
 "Ammocoete",,0,0
 "AN","adult",0,1
@@ -4641,12 +5168,14 @@ warbler's dent",,0,0
 "Apparently addled",,0,0
 "APPARENTLY ADULT","adult",0,1
 "apparently begun",,0,0
+"apparently deserted",,0,0
 "Apparently Fresh",,0,0
 "Apparently old nest",,0,0
 "apparently variable f.trace and ",,0,0
 "apparently variable f.trace and slight",,0,0
 "apparently variable; trace red &",,0,0
 "Appeared incubated",,0,0
+"appears to be advanced",,0,0
 "apperent in 3 eggs",,0,0
 "appreciable",,0,0
 "Appreciable to heavy",,0,0
@@ -4659,7 +5188,9 @@ warbler's dent",,0,0
 "approx. 2 yrs",,0,0
 "Approx: 10 days",,0,0
 "Approximately 1/2-3/4",,0,0
+"approximately 7 days",,0,0
 "Approximately less than 1/2",,0,0
+"Approximately three days old",,0,0
 "Apr 21-28 exploded in incubator ",,0,0
 "Apr 21-28 exploded in incubator at PWRC.",,0,0
 "around 8 days",,0,0
@@ -4689,10 +5220,12 @@ warbler's dent",,0,0
 "at least 3/4; hard embryos",,0,0
 "at least 31 years old",,0,0
 "At least 4 days",,0,0
+"At least 50 days",,0,0
 "at least a half",,0,0
 "At least one eyas fledged.",,0,0
 "At least one large nestling died",,0,0
 "At least one large nestling died in eyrie.",,0,0
+"at least two days",,0,0
 "At point of hatching",,0,0
 "ATY",,0,0
 "ATY by plumage",,0,0
@@ -4702,6 +5235,7 @@ warbler's dent",,0,0
 "Autumn",,0,0
 "Av.",,0,0
 "Avanced",,0,0
+"Avout 1/3 advanced",,0,0
 "b",,0,0
 "B (?)",,0,0
 "b b b",,0,0
@@ -4714,18 +5248,22 @@ c= small embryo",,0,0
 "baby",,0,0
 "bad",,0,0
 "bad -1 egg too bad to save",,0,0
+"Bad 1/2",,0,0
 "Bad incubation",,0,0
 "Bad, 3/4",,0,0
 "bad. Eggs broken",,0,0
 "bad.1egg hatched in transport",,0,0
 "badly",,0,0
+"Badly addled",,0,0
 "badly advanced",,0,0
 "badly inc, 2 inf",,0,0
 "badly inc.",,0,0
 "Badly incu.",,0,0
 "badly incubated",,0,0
+"Badly incubated, 10 days or more",,0,0
 "badly incubated, saved 2 addled ",,0,0
 "Badly; 1addled",,0,0
+"Bagun-4 days-",,0,0
 "Baked",,0,0
 "Banded 3 young",,0,0
 "BANDED AS AHY MALE ON 14 JULY 20",,0,0
@@ -4738,22 +5276,28 @@ c= small embryo",,0,0
 "Barely noticeable",,0,0
 "barely perceptible",,0,0
 "Barely started",,0,0
+"barely started (backbone formed)",,0,0
 "barely started to small embryos",,0,0
 "Barest suggestion",,0,0
 "Barley begun",,0,0
+"Barley commenced",,0,0
 "barley started",,0,0
 "Basic 2","Basic 2",0,1
 "Basic 4","Basic 4",0,1
 "BATCHED CA. JANUARY 2001",,0,0
 "b-B-B",,0,0
+"b-b-b-0",,0,0
 "b-b-B-B",,0,0
 "b-b-b-b-b",,0,0
+"b-b-b-b-b-b-b-b-b",,0,0
 "B-B-e-e",,0,0
 "B-begun - M-medium",,0,0
 "bdg.",,0,0
 "becoming addled (from fresh)",,0,0
+"becoming sterile",,0,0
 "B-e-e-e",,0,0
 "Beg",,0,0
+"beg.",,0,0
 "began",,0,0
 "began - about 5 days",,0,0
 "began - fully formed embryos",,0,0
@@ -4765,6 +5309,7 @@ c= small embryo",,0,0
 "began 3 or 4 days",,0,0
 "Began 3-5",,0,0
 "began a few days",,0,0
+"began set",,0,0
 "began to advanced",,0,0
 "began, 1/3 advanced",,0,0
 "Began, 3 Days",,0,0
@@ -4774,8 +5319,11 @@ c= small embryo",,0,0
 "Began. These eggs were in all stages of incubactio",,0,0
 "Begaun",,0,0
 "begin",,0,0
+"Begin in 3; 1 infertile",,0,0
+"begin in fertile eggs, runt was ",,0,0
 "Beginnin",,0,0
 "Beginning",,0,0
+"Beginning all",,0,0
 "beginning to advanced",,0,0
 "beginning, one showed trace of b",,0,0
 "beginning, one showed trace of blood",,0,0
@@ -4787,6 +5335,7 @@ c= small embryo",,0,0
 "begun - about 8 days",,0,0
 "begun - nest held same number 2 ",,0,0
 "Begun - one rotten",,0,0
+"Begun - slight",,0,0
 "begun - small embryos",,0,0
 "begun & 2 addled",,0,0
 "begun & deserted",,0,0
@@ -4798,25 +5347,40 @@ c= small embryo",,0,0
 "begun (1 egg clear, 4 very incub",,0,0
 "begun (1 egg clear, 4 very incubated)",,0,0
 "begun (1 week)",,0,0
+"Begun (2 days)",,0,0
+"Begun (4 days)",,0,0
+"Begun (about 1/3)",,0,0
+"begun (about 4 or 5 days)",,0,0
 "begun (addled.)",,0,0
 "Begun (hardly a week)",,0,0
+"begun (incubation advanced)",,0,0
+"Begun (odd egg fresh)",,0,0
+"begun (see card)",,0,0
 "begun (seven fresh and 8 incubat",,0,0
 "begun (seven fresh and 8 incubated)",,0,0
+"begun + fresh",,0,0
 "begun + in fact advanced",,0,0
 "Begun 1 week +/-",,0,0
 "Begun 1/3",,0,0
 "begun 1-2",,0,0
 "begun 2 days",,0,0
+"begun 2 or 3 days",,0,0
 "begun 3 or 4 days",,0,0
+"Begun 4 days",,0,0
 "begun a little",,0,0
 "Begun- about 1/2.",,0,0
 "begun about 1/3",,0,0
+"begun about 3 days",,0,0
 "begun about 4 days in all; about",,0,0
 "begun and advanced",,0,0
 "Begun And No More",,0,0
+"begun and rotten",,0,0
 "begun and somewhat advanced",,0,0
 "Begun- bloody",,0,0
+"begun but addled in both",,0,0
 "Begun but slight",,0,0
+"Begun ever so slightly.",,0,0
+"Begun in 1 - 1 infertile",,0,0
 "Begun in 2 eggs",,0,0
 "begun in 2 eggs only",,0,0
 "begun in 2, 1 fresh",,0,0
@@ -4824,18 +5388,23 @@ c= small embryo",,0,0
 "begun in 2, egg marked x infertile or fresh",,0,0
 "Begun in 3 eggs",,0,0
 "begun in 3 eggs, 1 egg infertile",,0,0
+"begun in 3, heavy in 3",,0,0
 "Begun in 3. One egg infertile.",,0,0
 "begun in 4 eggs; 1 rotten",,0,0
 "Begun in 4 normal eggs. Small eg",,0,0
 "Begun in 4 normal eggs. Small egg infertile.",,0,0
 "Begun in 4; 1 fresh",,0,0
 "Begun in 5; one infertile",,0,0
+"Begun in a part of the eggs",,0,0
 "begun in all",,0,0
 "Begun in all (bloody)",,0,0
 "begun in all eggs",,0,0
+"begun in all eggs of set",,0,0
+"Begun in both",,0,0
 "begun in both eggs",,0,0
 "begun in first egg",,0,0
 "begun in four eggs",,0,0
+"Begun in four, one fresh; flushe",,0,0
 "Begun in half of set.",,0,0
 "begun in one egg",,0,0
 "Begun in some eggs, others fresh",,0,0
@@ -4847,8 +5416,11 @@ c= small embryo",,0,0
 "begun in two eggs",,0,0
 "Begun in two of the eggs.  Two f",,0,0
 "Begun in two of the eggs.  Two fresh.",,0,0
+"Begun in two, one egg rotten",,0,0
+"Begun on part of the set, other ",,0,0
 "begun one egg addled",,0,0
 "Begun only",,0,0
+"begun slight",,0,0
 "Begun slightly",,0,0
 "begun soft embryos",,0,0
 "Begun to 1/2",,0,0
@@ -4860,6 +5432,7 @@ c= small embryo",,0,0
 "begun well",,0,0
 "begun x 7 or 8 days",,0,0
 "begun yesterday",,0,0
+"begun, 1 egg addled",,0,0
 "begun, 1 infertile",,0,0
 "Begun, 1/4",,0,0
 "Begun, 2 coots fresh.",,0,0
@@ -4873,6 +5446,7 @@ c= small embryo",,0,0
 "begun, but suspect that eggs wer",,0,0
 "Begun, commences with first egg ",,0,0
 "Begun, commences with first egg laid",,0,0
+"Begun, deserted.",,0,0
 "Begun, eggs missing",,0,0
 "Begun, embryo forming",,0,0
 "Begun, embryos formed",,0,0
@@ -4890,12 +5464,15 @@ c= small embryo",,0,0
 "begun, one rotted.",,0,0
 "begun, or about 5 days",,0,0
 "begun, should say 4 days",,0,0
+"Begun, slight",,0,0
 "begun, small embryos",,0,0
 "begun, soft embryos",,0,0
+"begun, unequal",,0,0
 "Begun, varied",,0,0
 "Begun, varying",,0,0
 "begun,rolled",,0,0
 "Begun.",,0,0
+"begun.  Fresh to well",,0,0
 "begun. (sec. setting)",,0,0
 "Begun. May be two birds as 2 egg",,0,0
 "Begun. May be two birds as 2 eggs were fresh",,0,0
@@ -4905,47 +5482,61 @@ c= small embryo",,0,0
 "Begun. Trace.",,0,0
 "Begun.
 Trace.",,0,0
+"begun/advanced",,0,0
 "begun/slight",,0,0
 "begun: rotted embryos in 5 of th",,0,0
 "begun: rotted embryos in 5 of the eggs",,0,0
 "begun: slight",,0,0
 "begun; 5 days",,0,0
+"Begun; about 2 days",,0,0
 "Begun; embryos forming",,0,0
 "begun; nest held same number yes",,0,0
 "begun; nest held same number yesterday",,0,0
+"Begun; one runt egg addled",,0,0
 "begun; see card",,0,0
 "begun; set in nest on May 6th",,0,0
 "Begun; showing blood",,0,0
+"Begun; some more advanced than o",,0,0
 "Begun; yolks bloody",,0,0
+"Begun-almost yolk",,0,0
 "begun-also decomposition",,0,0
 "Begun--cold",,0,0
 "begun-deserted",,0,0
+"Begun-One fresh",,0,0
 "begun-slight",,0,0
 "Begun-variable",,0,0
 "Believe nest attempt failed",,0,0
+"below",,0,0
 "between 0-3 days",,0,0
 "between 1/3+ 1/2",,0,0
 "between slight and heavy",,0,0
 "between slight and medium",,0,0
 "bgeun",,0,0
 "big embryos",,0,0
+"Biggining",,0,0
 "Bird abandoned nest",,0,0
 "Bird formed",,0,0
+"Bird formed but one egg slightly",,0,0
 "Bird incubating",,0,0
 "bird on nest",,0,0
 "bird on nest and eggs , yearly",,0,0
 "Bird on nest.",,0,0
 "Bird setting",,0,0
+"bird started on the back",,0,0
+"Bird well formed",,0,0
+"Birds",,0,0
 "Birds finishing inside of nest- ",,0,0
 "Birds finishing inside of nest- no eggs yet.",,0,0
 "Birds showing",,0,0
 "Black contents",,0,0
+"blackbird 1/3, cowbird 1/4",,0,0
 "blood",,0,0
 "blood & matter",,0,0
 "blood & tiny bones",,0,0
 "blood and flesh",,0,0
 "Blood embryo",,0,0
 "Blood in 1 egg",,0,0
+"blood in both eggs",,0,0
 "Blood in two eggs",,0,0
 "Blood just visible",,0,0
 "blood lines",,0,0
@@ -4973,6 +5564,7 @@ Trace.",,0,0
 "blood-stained",,0,0
 "Bloody",,0,0
 "bloody - formed embryos",,0,0
+"bloody- 5 or 6 days",,0,0
 "bloody embryo",,0,0
 "bloody embryos",,0,0
 "Bloody Membrane",,0,0
@@ -4997,6 +5589,9 @@ Trace.",,0,0
 "bones & feathers",,0,0
 "bones formed (advanced)",,0,0
 "bones forming",,0,0
+"bordering ""moderate""",,0,0
+"bordering Considerable",,0,0
+"Bordering moderate",,0,0
 "BORN 16 JUN 2003 MIAMI METROZOO",,0,0
 "Born 1965.  Euthanized 3 Novembe",,0,0
 "Born 1966.  Euthanized 3 Novembe",,0,0
@@ -5004,6 +5599,7 @@ Trace.",,0,0
 "BORN CA. 1999",,0,0
 "BORN IN AVIARY SUMMER 1996",,0,0
 "Both  eggs addled",,0,0
+"both 1/3 incubated",,0,0
 "Both about 5 days incubated",,0,0
 "Both addled",,0,0
 "Both adults present but not incu",,0,0
@@ -5082,6 +5678,7 @@ Trace.",,0,0
 "Broken",,0,0
 "Broken and abandoned; retrieved ",,0,0
 "Broken and abandoned; retrieved from same rock cre",,0,0
+"broken and dried.  Full.  One-ha",,0,0
 "Broken and infertile.",,0,0
 "Broken and rotten",,0,0
 "broken during incubation",,0,0
@@ -5092,9 +5689,13 @@ Trace.",,0,0
 "broken in late incubation",,0,0
 "Broken In Nest",,0,0
 "Broken in nest.",,0,0
+"Broken in nest: yolk intact",,0,0
 "Broken in nest; yolk intact; app",,0,0
 "Broken in nest; yolk intact; appeared to be pecked",,0,0
+"broken in nest--pipping",,0,0
+"broken in nest--slight",,0,0
 "broken when washing",,0,0
+"Broken, infertile",,0,0
 "Broken, large embryos",,0,0
 "Broken.",,0,0
 "Broken/dry",,0,0
@@ -5102,6 +5703,7 @@ Trace.",,0,0
 "Broken; Egg #2 looks different f",,0,0
 "Broken; Egg #2 looks different from others",,0,0
 "Broken; large rotten embryo",,0,0
+"broken-addled",,0,0
 "Broken--appears hatched",,0,0
 "brooded",,0,0
 "broodpatch",,0,0
@@ -5724,6 +6326,7 @@ Trace.",,0,0
 "BURSANOT FOUND",,0,0
 "BURSANOT FOUND; SKULL 100% OSS.",,0,0
 "c. 4 days",,0,0
+"c/1 - fresh; c/2 - showing blood",,0,0
 "c/2",,0,0
 "c/3x",,0,0
 "ca 0.2 mm embryo",,0,0
@@ -5774,8 +6377,11 @@ Trace.",,0,0
 "CAPTIVE HATCHED 6 MARCH 2002",,0,0
 "CAPTIVE HATCHED APPROXIMATELY 19",,0,0
 "CAPTIVE HATCHED IN EUROPE",,0,0
+"Card torn - possibly fresh",,0,0
+"Cartilagenous embryos",,0,0
 "cartilaginous embryos",,0,0
 "Casting With Fragments",,0,0
+"CB",,0,0
 "Cc- 1 fresh, 1 slight; Er- 3 hat",,0,0
 "Cc- 1 fresh, 1 slight; Er- 3 hatching",,0,0
 "Cc definite red, Carduelis fresh",,0,0
@@ -5793,12 +6399,15 @@ Trace.",,0,0
 "Cc-very slight, Pmo-2 trace, 2 ?",,0,0
 "Cc-very slight, Pmo-2 trace, 2 ? Infertile",,0,0
 "certain",,0,0
+"certainly fresh",,0,0
 "chart 25%",,0,0
 "Chcik",,0,0
 "Check",,0,0
 "'check'",,0,0
 "Check mark",,0,0
 "checked",,0,0
+"checkmark",,0,0
+"checkmark (see card)",,0,0
 "Checkmark; begun? Present?",,0,0
 "chick","chick",1,1
 "chick & eggshell","chick",0,1
@@ -5833,10 +6442,12 @@ Trace.",,0,0
 "CHICK; BURSA NOT FOUND",,0,0
 "CHICK; SKULL 0% OSS.",,0,0
 "Chick; skull not oss.",,0,0
+"chicked",,0,0
 "chicks",,0,0
 "chicks beginning to form",,0,0
 "Chicks fledged",,0,0
 "Chicks fledged successfully",,0,0
+"chicks had hatched, only 1 addle",,0,0
 "chicks hatch",,0,0
 "chicks piping",,0,0
 "chicks pipping",,0,0
@@ -5848,6 +6459,8 @@ Trace.",,0,0
 "ciru",,0,0
 "Clean",,0,0
 "clear",,0,0
+"Clear (see card)",,0,0
+"Clear infertile egg",,0,0
 "Clear>small Embryos",,0,0
 "Clutch failed",,0,0
 "Clutch shared- only 3 eggs",,0,0
@@ -5876,6 +6489,8 @@ Trace.",,0,0
 "cold",,0,0
 "Cold and caked with matter.",,0,0
 "Cold and evidently deserted",,0,0
+"cold in nest--addled/no developm",,0,0
+"Cold, deserted.",,0,0
 "Collapsed egg",,0,0
 "Collared Antshrike eggs: partly ",,0,0
 "Collected in nest.",,0,0
@@ -5903,42 +6518,64 @@ Trace.",,0,0
 "commence",,0,0
 "Commenced",,0,0
 "commenced - 1 Day.",,0,0
+"Commenced - 1/4",,0,0
+"Commenced - 4 days.",,0,0
+"commenced - a little blood",,0,0
+"Commenced - about 1/8",,0,0
+"Commenced - very small embryo",,0,0
 "commenced & addled",,0,0
 "Commenced (1/3)",,0,0
 "commenced (eggs found on the 3rd",,0,0
+"Commenced (fresh)",,0,0
+"commenced (in some eggs advanced",,0,0
+"commenced (slight)",,0,0
 "Commenced (small eyes)",,0,0
 "Commenced 1 day",,0,0
+"Commenced 1 or 2 days",,0,0
 "Commenced 1/2",,0,0
 "commenced 1/3",,0,0
+"commenced about 1/3",,0,0
 "Commenced about one week",,0,0
+"commenced and advanced",,0,0
+"Commenced and fresh",,0,0
 "Commenced and slight",,0,0
 "commenced and spoiled",,0,0
+"Commenced evenly in all 5 eggs.",,0,0
 "commenced first stage",,0,0
+"commenced in 1 egg",,0,0
 "Commenced in 2 eggs",,0,0
 "commenced in 3",,0,0
 "commenced in 4 eggs, 1 egg fresh",,0,0
 "Commenced in all",,0,0
+"Commenced in all -",,0,0
 "commenced in one egg",,0,0
+"commenced in one, fresh in one",,0,0
 "Commenced in some of the eggs.",,0,0
 "commenced incubation",,0,0
 "commenced middle stages",,0,0
 "Commenced only",,0,0
+"Commenced small embryos",,0,0
 "commenced to 1/2 incubated",,0,0
 "commenced to 1/4",,0,0
+"Commenced to heavy",,0,0
 "commenced with embryo",,0,0
 "Commenced, 1 addled",,0,0
+"commenced, 1 egg more on",,0,0
 "Commenced, 2 addled",,0,0
 "Commenced, 2; None, 4",,0,0
+"commenced, 3 days",,0,0
 "Commenced, Blood in 3 eggs",,0,0
 "commenced, just",,0,0
 "Commenced, nearly small embryos",,0,0
 "Commenced, perhaps 4 days",,0,0
 "commenced, slightly",,0,0
 "commenced.",,0,0
+"commenced.  Small embryos",,0,0
 "commenced. slight.",,0,0
 "commenced/blood",,0,0
 "commenced; 1 fresh",,0,0
 "Commenced; eggs dried some",,0,0
+"Commenced; embryo just forming",,0,0
 "Commenced; one ""deminuitive""",,0,0
 "commenced; quite slight",,0,0
 "Commenced-1 day",,0,0
@@ -5947,20 +6584,27 @@ Trace.",,0,0
 "Commencing",,0,0
 "Commended",,0,0
 "Commensed",,0,0
+"Commneced",,0,0
 "comparatively fresh",,0,0
+"Comparetively fresh; but dried u",,0,0
 "complete",,0,0
 "complete - eggs pipped",,0,0
+"Complete embryo",,0,0
 "complete.",,0,0
+"Complete/May 30 (see card)",,0,0
 "Con embrion grande",,0,0
 "con sangre",,0,0
 "con.",,0,0
+"congealed - nest deserted",,0,0
 "Considerable",,0,0
 "Considerable (1/4)",,0,0
 "Considerable(variable)",,0,0
 "Considerable-Male killed, in col",,0,0
 "Considerable-Male killed, in collection of P.J. Os",,0,0
 "considerably advanced",,0,0
+"Considerably advanced (very much",,0,0
 "Considerably incubated",,0,0
+"Considerate feathers on young",,0,0
 "considerately incubated",,0,0
 "contained 3 chicks",,0,0
 "contained soft embyros",,0,0
@@ -5973,19 +6617,46 @@ Trace.",,0,0
 "contents very thick",,0,0
 "Contents very thick, stringy and",,0,0
 "Continued",,0,0
+"Corresponding to 96-hour chick.",,0,0
 "corrid. (?)",,0,0
 "could be noticed in 3 eggs of ho",,0,0
+"cowbird - advanced, 1 pewee - be",,0,0
+"cowbird addled, host highly",,0,0
+"cowbird addled, host infertile",,0,0
+"cowbird advanced, host highly in",,0,0
+"cowbird begun",,0,0
+"cowbird commenced (see card)",,0,0
+"cowbird congealed",,0,0
 "cowbird egg was about ready to h",,0,0
+"cowbird evenly fresh, host perfe",,0,0
+"cowbird far advanced",,0,0
 "Cowbird Fresh",,0,0
+"cowbird fresh (see card)",,0,0
 "Cowbird fresh gnatcatcher 3-5 da",,0,0
 "Cowbird fresh gnatcatcher 3-5 days",,0,0
 "Cowbird fresh, 1 vireo egg well ",,0,0
 "Cowbird fresh, 1 vireo egg well advanced",,0,0
+"cowbird fresh, 1 young bird of f",,0,0
 "cowbird fresh, host broken",,0,0
+"cowbird fresh, host broken (see ",,0,0
+"cowbird fresh, host cracked",,0,0
+"cowbird fresh, host fresh",,0,0
+"cowbird fresh, host not recorded",,0,0
+"cowbird fresh, host slight",,0,0
 "cowbird fresh, others larger sof",,0,0
+"cowbird fresh, sparrow rotten",,0,0
 "cowbird hatched, 1 addled host e",,0,0
+"cowbird infertile, 2 naked cardi",,0,0
+"cowbird slight, 2 host piped, 1 ",,0,0
+"cowbird slightly incubated",,0,0
+"cowbird slightly incubated, 1 ho",,0,0
+"cowbird soft embryo",,0,0
+"cowbird soft embryos, host highl",,0,0
+"cowbird stale, host not recorded",,0,0
 "Cowbird Started",,0,0
 "cowbird: one incubated, 3 fresh",,0,0
+"cowbirds fresh, 2 host fresh (Se",,0,0
+"cowbirds slight, cardinals raise",,0,0
 "Cpmmenced",,0,0
 "Cracked",,0,0
 "Cracked and rotten",,0,0
@@ -5993,20 +6664,36 @@ Trace.",,0,0
 "Cracked but whole abandoned egg retrieved from a r",,0,0
 "Cracked during packing",,0,0
 "Cracked Egg - Empty",,0,0
+"cracked in nest",,0,0
 "Cracked, infertile",,0,0
 "Cracked, rotten egg",,0,0
 "Cracked, unhatched fertile egg; ",,0,0
 "Cracked, unhatched fertile egg; feathers, beak, an",,0,0
+"cracked-dead-slight-yolk&albumen",,0,0
 "cracked--no development",,0,0
 "craneo duro",,0,0
 "Crushed",,0,0
+"Crushed in nest",,0,0
 "Crushed; failed egg",,0,0
 "cub",,0,0
 "cub; newborn",,0,0
+"cuckoo 1 fresh, 1 slight; host 3",,0,0
 "Cuckoo- advanced, RW- slightly c",,0,0
 "Cuckoo- advanced, RW- slightly congealed, unfertil",,0,0
+"cuckoo definite red, host fresh",,0,0
+"cuckoo definite trace, host fres",,0,0
+"cuckoo definitely some red, host",,0,0
 "Cuckoo- fresh, a shade stale/ 1 ",,0,0
 "Cuckoo- fresh, a shade stale/ 1 Reed stale, 1 Reed",,0,0
+"cuckoo fresh, host 2 days",,0,0
+"cuckoo fresh, host about 8 days",,0,0
+"cuckoo fresh, host slight",,0,0
+"cuckoo fresh, widowbird large em",,0,0
+"cuckoo fresh; host 1 slight (2 d",,0,0
+"cuckoo showing blood, host small",,0,0
+"cuckoo trace; small host = embry",,0,0
+"cuckoo very advanced, host about",,0,0
+"cuckoo very slight, host 2 trace",,0,0
 "Cuckoos- some few days but Reed ",,0,0
 "Cuckoos- some few days but Reed Warblers- infertil",,0,0
 "Cuculus- red shows; Warblers- fr",,0,0
@@ -6017,6 +6704,7 @@ Trace.",,0,0
 "dark color",,0,0
 "Dark Cuckoo, slight; Light C. fr",,0,0
 "Dark Cuckoo, slight; Light C. fresh",,0,0
+"Dark Cuckoo, slight; Light Cucko",,0,0
 "Data Missing",,0,0
 "Data not recorded",,0,0
 "Data not recorder",,0,0
@@ -6024,6 +6712,8 @@ Trace.",,0,0
 "day or so",,0,0
 "Day or two",,0,0
 "dd",,0,0
+"dd (see card)",,0,0
+"dead",,0,0
 "dead baby",,0,0
 "Dead embryos",,0,0
 "Dead fresh",,0,0
@@ -6059,11 +6749,15 @@ Trace.",,0,0
 "Deserted",,0,0
 "Deserted egg",,0,0
 "deserted for 2 weeks or more",,0,0
+"Deserted the nest",,0,0
 "Deserted, addled",,0,0
 "deserted, fresh",,0,0
 "deserted, had been fresh",,0,0
+"deserted, none.",,0,0
 "deserted, partly dried",,0,0
 "deserted, sl. Hardened",,0,0
+"deserted?",,0,0
+"Desperately far advanced.",,0,0
 "Destroyed",,0,0
 "deux oeufs incubes",,0,0
 "developed",,0,0
@@ -6076,6 +6770,7 @@ Trace.",,0,0
 "Died Large Embryo",,0,0
 "diff stages",,0,0
 "Diff. stages.",,0,0
+"different",,0,0
 "different stages",,0,0
 "different stages 4 to 7 days",,0,0
 "different stages from 3-8 days. ",,0,0
@@ -6088,8 +6783,10 @@ Trace.",,0,0
 "Distinctly moderate",,0,0
 "Distinctly moderate (6 days?)",,0,0
 "DM",,0,0
+"don't know yet",,0,0
 "dourny Juv. [illeg.]",,0,0
 "Down forming on embryos",,0,0
+"Down Started",,0,0
 "downey Juv.",,0,0
 "downey yng.",,0,0
 "downy","chick",0,1
@@ -6113,9 +6810,14 @@ Trace.",,0,0
 "DOWNY YOUNG; BURSA NOT FOUND",,0,0
 "downy-Juv.",,0,0
 "Dried",,0,0
+"Dried egg",,0,0
 "Dried Yolk",,0,0
 "Dry egg",,0,0
+"dry embryos in 5, heavy in 4",,0,0
 "Dry inside",,0,0
+"Dry--all large embryos",,0,0
+"Dry--all very large embryos",,0,0
+"Dry--no visible development",,0,0
 "Duckling",,0,0
 "Dumped",,0,0
 "Dumped egg",,0,0
@@ -6123,6 +6825,8 @@ Trace.",,0,0
 "dy yg",,0,0
 "E","egg",0,1
 "E E E E",,0,0
+"E E E E E",,0,0
+"e e e e e e e",,0,0
 "E-a-a-A-A-A",,0,0
 "Each half incubated",,0,0
 "Early",,0,0
@@ -6248,6 +6952,7 @@ Trace.",,0,0
 "Egg 1- addled, egg 2- about 1/4.",,0,0
 "Egg 1 addled; 2,3 fresh; 4,5,6 a",,0,0
 "Egg 1 addled; 2,3 fresh; 4,5,6 about 1/3 advanced.",,0,0
+"Egg 1 Fresh, 2 Commenced, 3 Embr",,0,0
 "Egg 1 fresh, 2-4 small embryos",,0,0
 "Egg 1 hatched in wild; eggs 2,3 ",,0,0
 "Egg 1 hatched in wild; eggs 2,3 addled.",,0,0
@@ -6338,6 +7043,7 @@ Trace.",,0,0
 "Egg 95 hatched in lab. Fragments 95A probably repr",,0,0
 "Egg 96 addled; egg 97 died with ",,0,0
 "Egg 96 addled; egg 97 died with large embryo",,0,0
+"Egg abandoned",,0,0
 "Egg Addled",,0,0
 "Egg addled- embryo fully develop",,0,0
 "Egg addled- embryo fully developed.",,0,0
@@ -6369,14 +7075,17 @@ Trace.",,0,0
 "Egg fragments only",,0,0
 "egg fresh",,0,0
 "Egg fresh & blue",,0,0
+"Egg Fresh to 1/4",,0,0
 "Egg had chick ready to hatch",,0,0
 "Egg had hole; no development",,0,0
+"Egg hatched",,0,0
 "Egg hatched in captivity at SCPB",,0,0
 "Egg hatched in captivity at SCPBRG.",,0,0
 "Egg hatched in captivity, young ",,0,0
 "Egg hatched in captivity, young lived.",,0,0
 "Egg hatched manually--young weak",,0,0
 "Egg hatched manually--young weak, but survived.",,0,0
+"Egg hatching",,0,0
 "Egg infertile",,0,0
 "Egg infertile, egg with 2 eryes,",,0,0
 "Egg infertile, egg with 2 eryes, one banded, other",,0,0
@@ -6569,23 +7278,29 @@ Trace.",,0,0
 "eggs hatched; young fledged",,0,0
 "Eggs heavily incubated",,0,0
 "eggs heavy",,0,0
+"eggs in very different stages of",,0,0
 "Eggs Incubated",,0,0
 "Eggs incubated considerable",,0,0
 "Eggs incubated less than one wee",,0,0
 "Eggs incubated less than one week before breaking ",,0,0
 "Eggs infertile and deserted",,0,0
+"eggs infertile, 1 dry",,0,0
 "Eggs not sat",,0,0
 "eggs not set on more than 2 days",,0,0
 "Eggs partial rotton, as old bird",,0,0
 "Eggs partial rotton, as old bird had left nest.",,0,0
 "eggs pecked - c. hatched",,0,0
+"Eggs perfectly fresh",,0,0
+"eggs pipped",,0,0
 "Eggs pipped when collected",,0,0
+"Eggs quite fresh",,0,0
 "eggs sat on",,0,0
 "Eggs sat on ca. 28 days",,0,0
 "eggs showing blood",,0,0
 "eggs slightly addled.",,0,0
 "Eggs slightly incubated",,0,0
 "eggs slightly sitting",,0,0
+"eggs some 7 days in incubation, ",,0,0
 "eggs some seven days incubated",,0,0
 "eggs started",,0,0
 "Eggs started 2 days",,0,0
@@ -6600,6 +7315,7 @@ Trace.",,0,0
 "eggs were warm",,0,0
 "Eggs with large embryos",,0,0
 "Eggs with very small embryos",,0,0
+"Eggs without embryos",,0,0
 "Eggs yolk sac larvae","egg yolk sac larva",0,1
 "eggs, embryos","egg, embryo",0,1
 "EGGS, TADPOLE, TRANS.",,0,0
@@ -6632,6 +7348,7 @@ Trace.",,0,0
 "EM","embryo",0,1
 "EMB 1 emb. 18mm","adult",0,1
 "Emb.","embryo",0,1
+"emb. Formed",,0,0
 "embryo","embryo",1,1
 "Embryo + egg",,0,0
 "embryo + eggs","embryo, egg",0,1
@@ -6647,6 +7364,9 @@ Trace.",,0,0
 "Embryo formed.",,0,0
 "embryo forming",,0,0
 "Embryo found",,0,0
+"embryo in one host, but not in o",,0,0
+"embryo just forming",,0,0
+"embryo large and soft",,0,0
 "Embryo partially developed",,0,0
 "embryo partially formed to addle",,0,0
 "Embryo present",,0,0
@@ -6654,6 +7374,7 @@ Trace.",,0,0
 "embryo taking shape",,0,0
 "Embryo visible",,0,0
 "Embryo well developed",,0,0
+"embryo well formed",,0,0
 "embryo, eggs","embryo, egg",0,1
 "Embryo-1 Infertile-1",,0,0
 "embryon deja formie",,0,0
@@ -6674,6 +7395,7 @@ Trace.",,0,0
 "embryos beginning for shapen",,0,0
 "embryos beginning to form",,0,0
 "embryos beginning to shapen",,0,0
+"embryos beginning to take shape",,0,0
 "Embryos bloody",,0,0
 "Embryos dead in shell",,0,0
 "Embryos developed",,0,0
@@ -6685,16 +7407,22 @@ Trace.",,0,0
 "embryos formed (infertile)",,0,0
 "embryos formed (some caustic)",,0,0
 "Embryos formed lightly",,0,0
+"Embryos formed.",,0,0
 "Embryos formes (caustic)",,0,0
 "Embryos Forming",,0,0
+"Embryos forming.",,0,0
 "Embryos fully feathered",,0,0
 "embryos in 2, 2 stab",,0,0
 "Embryos in both eggs died early.",,0,0
+"Embryos just beginning to shapen",,0,0
+"Embryos just formed",,0,0
 "Embryos just forming",,0,0
 "embryos just show",,0,0
 "embryos just showing",,0,0
 "Embryos just started",,0,0
 "Embryos just taking shape.",,0,0
+"embryos large and soft",,0,0
+"embryos large and tough",,0,0
 "Embryos moderate (caustic)",,0,0
 "Embryos nearly feathered",,0,0
 "embryos not small",,0,0
@@ -6710,6 +7438,7 @@ Trace.",,0,0
 "embryos showing, 1 infertile",,0,0
 "Embryos slightly hardened",,0,0
 "Embryos started",,0,0
+"embryos visible",,0,0
 "embryos well begun",,0,0
 "embryos well-formed but soft",,0,0
 "embryos were 1/3 developed",,0,0
@@ -6743,6 +7472,7 @@ Trace.",,0,0
 "ewe",,0,0
 "Ex. Sm. Embryo",,0,0
 "extreme",,0,0
+"extremely far advanced",,0,0
 "Extremely fresh",,0,0
 "Extremely rotten and fragile she",,0,0
 "Extremely rotten and fragile shell fragments",,0,0
@@ -6755,6 +7485,7 @@ Trace.",,0,0
 "Eyrie contained 5 large young on collection date.",,0,0
 "Eyrie fledged young",,0,0
 "F","unknown",0,1
+"F (fresh?)",,0,0
 "F AD","adult",0,1
 "f advanced",,0,0
 "F IMM","immature",0,1
@@ -6800,11 +7531,15 @@ Trace.",,0,0
 "Failed: 1- 2 day old dead young + 4 eggs (2 with e",,0,0
 "Failed; addled egg collected",,0,0
 "Failed-fragments Only",,0,0
+"Faily commenced",,0,0
 "faint",,0,0
 "faint in two eggs",,0,0
 "faint trace of blood",,0,0
+"Faint trace of blood just visabl",,0,0
 "Faintest sighn of incub.",,0,0
+"Faintest sign of incub.",,0,0
 "Faintly started",,0,0
+"fair",,0,0
 "fair embryos",,0,0
 "Fair Sized Embryos",,0,0
 "Fair sized embryos (caustic)",,0,0
@@ -6816,12 +7551,16 @@ Trace.",,0,0
 "fairly developed",,0,0
 "fairly fresh",,0,0
 "fairly fresh ± 4/5 days",,0,0
+"fairly hard set",,0,0
 "Fairly heavy",,0,0
 "fairly incubated",,0,0
 "fairly incubated; embryos alread",,0,0
 "fairly incubated; embryos already formed",,0,0
+"Fairly large embryos",,0,0
+"Fairly started",,0,0
 "fairly well advanced",,0,0
 "Fairly well along",,0,0
+"Fairly well incubated",,0,0
 "Fairly well set",,0,0
 "Fair-sized Embryos",,0,0
 "far",,0,0
@@ -6832,6 +7571,7 @@ Trace.",,0,0
 "Far adv!",,0,0
 "Far adv.",,0,0
 "far advaced",,0,0
+"Far advacned - 3/4",,0,0
 "far advance, feathers",,0,0
 "Far advanced",,0,0
 "far advanced (approx. 85%)",,0,0
@@ -6859,6 +7599,7 @@ Trace.",,0,0
 "far advanced. Bones.",,0,0
 "far advanced: TOUGH embryos",,0,0
 "Far advanced; 1 infertile",,0,0
+"Far advanced; 2 eggs addled",,0,0
 "Far advanced; 2 not so far as ot",,0,0
 "Far advanced; 2 not so far as others",,0,0
 "Far advanced-varying",,0,0
@@ -6867,6 +7608,7 @@ Trace.",,0,0
 "far enough to warrant complete s",,0,0
 "Far gone",,0,0
 "far incubated, embryos hard",,0,0
+"Far incubated; feathers",,0,0
 "far-advanced",,0,0
 "fast set",,0,0
 "fawn",,0,0
@@ -6874,11 +7616,14 @@ Trace.",,0,0
 "feathered",,0,0
 "feathered chicks",,0,0
 "Feathered emb.",,0,0
+"Feathered embroys",,0,0
 "feathered embryo",,0,0
+"Feathered embryo (caustic)",,0,0
 "Feathered embryo.",,0,0
 "Feathered embryo. 2 chicks in ne",,0,0
 "Feathered embryo. 2 chicks in nest.",,0,0
 "feathered embryos",,0,0
+"feathered embryos.  All eggs wer",,0,0
 "feathered embyos",,0,0
 "Feathered nestling",,0,0
 "feathered young",,0,0
@@ -6886,6 +7631,7 @@ Trace.",,0,0
 "feathers",,0,0
 "feathers on embryos (caustic)",,0,0
 "Feathers, Ready to hatch",,0,0
+"Feathery embryos",,0,0
 "Fecound mous nu ocht",,0,0
 "Fell from palm tree in back yard",,0,0
 "female",,0,1
@@ -6898,6 +7644,7 @@ Trace.",,0,0
 "Female seen incubating at time o",,0,1
 "Female seen incubating at time of collection.",,0,1
 "Female taken",,0,1
+"fersh",,0,0
 "Fertile",,0,0
 "Fertile - Early Dead Embryo",,0,0
 "fertile egg feathered embryo in.",,0,0
@@ -6905,6 +7652,8 @@ Trace.",,0,0
 "Fertile, Early Stage Embryo",,0,0
 "Fertile, Early Stage Embryo; Inf",,0,0
 "Fertile, Early Stage Embryo; Infert",,0,0
+"Fertile, intact embryo",,0,0
+"Fertile, late stage embryo",,0,0
 "Fertile, not incubated",,0,0
 "Fertile, unincubated",,0,0
 "Fertile: Not incubated",,0,0
@@ -6917,10 +7666,12 @@ Trace.",,0,0
 "Few days",,0,0
 "few days - 1/3",,0,0
 "Few days advanced",,0,0
+"Few days only",,0,0
 "Few days to one half",,0,0
 "Few days.",,0,0
 "Few incubated; nesting ranged fr",,0,0
 "Few incubated; nesting ranged from fresh eggs to f",,0,0
+"Few incubation started, most fre",,0,0
 "few-days",,0,0
 "Fh",,0,0
 "FH (fresh?)",,0,0
@@ -6940,6 +7691,7 @@ Trace.",,0,0
 "first eggs - partial",,0,0
 "first sign of eyes",,0,0
 "First stage",,0,0
+"First Stage, no embryos",,0,0
 "First Stages",,0,0
 "First stages- incubation seemed ",,0,0
 "First stages- incubation seemed to have commenced ",,0,0
@@ -6953,6 +7705,7 @@ Trace.",,0,0
 "Five days advanced",,0,0
 "Five days Approximatly",,0,0
 "Five days incubated",,0,0
+"Five days old",,0,0
 "Five eggs hatched in wild.",,0,0
 "Five eggs rotton; eight eggs alm",,0,0
 "Five eggs rotton; eight eggs almost complete, feat",,0,0
@@ -7028,6 +7781,8 @@ Trace.",,0,0
 "Fledglings left nest 3 days prior",,0,0
 "FLEDLGING; BURSA 8 X 9 MM",,0,0
 "FLEDLING;",,0,0
+"Flesh",,0,0
+"flycatcher just begun, titmouse ",,0,0
 "Foetal",,0,0
 "foetus",,0,0
 "for adv.",,0,0
@@ -7057,7 +7812,9 @@ Trace.",,0,0
 "FOUND INJURED; DIED SAME DAY AT ",,0,0
 "FOUND WITH BROKEN WING; EUTAHNIZ",,0,0
 "Found With One Side Crushed",,0,0
+"Four 1/3; one not fertile",,0,0
 "Four 20 Day Old Chicks",,0,0
+"Four about one-half; one rotten;",,0,0
 "four advanced",,0,0
 "Four days",,0,0
 "four days advanced",,0,0
@@ -7095,6 +7852,7 @@ Trace.",,0,0
 "Fourthfifths",,0,0
 "FR","larva",0,1
 "fr.",,0,0
+"Fr. (Des.)",,0,0
 "Fr.-Addl.",,0,0
 "Fr4esh",,0,0
 "Fragements; hatched 17 May 1988",,0,0
@@ -7154,7 +7912,9 @@ Trace.",,0,0
 "Frag-recycle (lower)",,0,0
 "Frais",,0,0
 "Freash",,0,0
+"fredh",,0,0
 "free",,0,0
+"free from incubation but addled",,0,0
 "freh",,0,0
 "frehs to 1/2",,0,0
 "fres",,0,0
@@ -7182,7 +7942,9 @@ Trace.",,0,0
 "fresh - about 1/4",,0,0
 "fresh - addled",,0,0
 "fresh - advanced",,0,0
+"fresh - all eggs",,0,0
 "fresh - begun",,0,0
+"Fresh - Bird left",,0,0
 "fresh - bird sitting",,0,0
 "fresh - bloody",,0,0
 "fresh - broken during incubation",,0,0
@@ -7201,8 +7963,11 @@ Trace.",,0,0
 "fresh - moderate",,0,0
 "fresh - nest apparently abandone",,0,0
 "fresh - nest apparently abandoned",,0,0
+"Fresh - nest deserted",,0,0
 "Fresh - Not sat on",,0,0
 "Fresh - one day",,0,0
+"Fresh - one runt egg",,0,0
+"fresh - one slight",,0,0
 "fresh - orange tinged yolks",,0,0
 "Fresh - probably incomplete",,0,0
 "Fresh - probably second set",,0,0
@@ -7259,9 +8024,11 @@ practically immaculate",,0,0
 "Fresh ( left 3 days)",,0,0
 "fresh ( one egg + blood vein in ",,0,0
 "fresh ( one egg + blood vein in yolk)",,0,0
+"fresh (?)",,0,0
 "Fresh (1 Broken)",,0,0
 "fresh (1 day incubation)",,0,0
 "Fresh (1 day)",,0,0
+"Fresh (1 egg 5 days ago)",,0,0
 "Fresh (1 egg missing)",,0,0
 "Fresh (1 egg on 7/5)",,0,0
 "Fresh (1 missing)",,0,0
@@ -7274,6 +8041,7 @@ practically immaculate",,0,0
 "Fresh (1) to well begun",,0,0
 "Fresh (1); started (2); advanced",,0,0
 "Fresh (1); started (2); advanced (1)",,0,0
+"fresh (1/4)",,0,0
 "Fresh (17 eggs), Blood (2 eggs)",,0,0
 "fresh (2 days incubated)",,0,0
 "Fresh (2 days)",,0,0
@@ -7281,6 +8049,7 @@ practically immaculate",,0,0
 "Fresh (2 eggs + pieces of a third)",,0,0
 "Fresh (2 Lost)",,0,0
 "Fresh (2) started",,0,0
+"fresh (2) to over 10 days incuba",,0,0
 "Fresh (2), showing blood (1)",,0,0
 "Fresh (2), started (1), and drie",,0,0
 "Fresh (2), well started (5), & i",,0,0
@@ -7290,9 +8059,11 @@ practically immaculate",,0,0
 "Fresh (24 hours)",,0,0
 "fresh (24 hr)",,0,0
 "Fresh (3 days)",,0,0
+"fresh (3) to 4 or 5 days started",,0,0
 "Fresh (3) To Well Begun",,0,0
 "Fresh (4)",,0,0
 "Fresh (4) To Soft Embryos",,0,0
+"Fresh (6 days)",,0,0
 "Fresh (A trace of red)",,0,0
 "Fresh (addled)",,0,0
 "Fresh (apparently deserted)",,0,0
@@ -7310,12 +8081,15 @@ practically immaculate",,0,0
 "Fresh (complete lay)",,0,0
 "Fresh (complete)",,0,0
 "Fresh (congealed)",,0,0
+"Fresh (curdled) + Rotten",,0,0
 "Fresh (curdles) + Rotten",,0,0
 "Fresh (deserted)",,0,0
 "fresh (double yolk)",,0,0
 "fresh (early for this locality)",,0,0
 "Fresh (early season)",,0,0
+"fresh (egg contained 2 yolks)",,0,0
 "Fresh (eggs warm)",,0,0
+"Fresh (Fh.)",,0,0
 "fresh (host slight)",,0,0
 "Fresh (I am sure the quail laid ",,0,0
 "Fresh (I am sure the quail laid her eggs first)",,0,0
@@ -7332,13 +8106,16 @@ practically immaculate",,0,0
 "fresh (nearly)",,0,0
 "fresh (no doubt incomplete clutc",,0,0
 "fresh (no doubt incomplete clutch)",,0,0
+"fresh (not commenced)",,0,0
 "fresh (one day)",,0,0
 "Fresh (one dented by bird in lea",,0,0
 "Fresh (one dented by bird in leaving nest)",,0,0
 "fresh (one dwarf had a yolk)",,0,0
 "Fresh (one egg on 4, May)",,0,0
+"Fresh (one egg) the other incuba",,0,0
 "Fresh (only 3 Eggs Collected)",,0,0
 "fresh (orange colored yolks)",,0,0
+"fresh (orange-colored yolks)",,0,0
 "fresh (oviduct egg)",,0,0
 "Fresh (perfectly)",,0,0
 "fresh (probably comenced)",,0,0
@@ -7351,13 +8128,16 @@ practically immaculate",,0,0
 "Fresh (rotten)",,0,0
 "fresh (see card)",,0,0
 "Fresh (see 'notes')",,0,0
+"Fresh (see remarks) - bird not y",,0,0
 "fresh (sitting)",,0,0
 "Fresh (slight Trace In One Egg)",,0,0
+"fresh (slightly addled)",,0,0
 "Fresh (stale)",,0,0
 "fresh (tacky)",,0,0
 "Fresh (then deserted)",,0,0
 "fresh (trace in two)",,0,0
 "fresh (trace)",,0,0
+"Fresh (Two addled)",,0,0
 "Fresh (warm)",,0,0
 "fresh (worn)",,0,0
 "Fresh (would have laid 2 more)",,0,0
@@ -7373,8 +8153,14 @@ practically immaculate",,0,0
 "fresh + begun",,0,0
 "fresh + blood traces",,0,0
 "Fresh + complete",,0,0
+"fresh + incu.",,0,0
+"Fresh + incubated - various stag",,0,0
+"fresh + medium",,0,0
 "fresh + slight, dark egg addled",,0,0
 "fresh + slightly",,0,0
+"fresh + turning",,0,0
+"fresh + v.s.",,0,0
+"fresh + warm",,0,0
 "fresh 1 day",,0,0
 "Fresh 1 days",,0,0
 "Fresh- 1 egg on 24 May",,0,0
@@ -7406,10 +8192,13 @@ practically immaculate",,0,0
 "fresh and 2 started",,0,0
 "Fresh and 3 started",,0,0
 "fresh and 4 started",,0,0
+"Fresh and a trace",,0,0
 "Fresh and addled",,0,0
 "fresh and advanced",,0,0
 "fresh and all eggs cold",,0,0
+"fresh and all stages of incubati",,0,0
 "Fresh and begun",,0,0
+"Fresh and bloody",,0,0
 "Fresh and comm.",,0,0
 "Fresh and commenced",,0,0
 "Fresh and complete",,0,0
@@ -7454,9 +8243,12 @@ practically immaculate",,0,0
 "fresh but apparently 4 days",,0,0
 "fresh but appearance of 2 eggs s",,0,0
 "fresh but appearance of 2 eggs shows set to be com",,0,0
+"Fresh but cold; the broken egg w",,0,0
 "Fresh but commenced",,0,0
+"Fresh but congealed",,0,0
 "fresh but deserted",,0,0
 "Fresh but full set",,0,0
+"Fresh but rather dried up",,0,0
 "Fresh but rotten (1 congealed)",,0,0
 "Fresh but started",,0,0
 "Fresh but trace in 2",,0,0
@@ -7474,6 +8266,7 @@ practically immaculate",,0,0
 "Fresh eggs: 6; Trace of blood: 4",,0,0
 "Fresh eggs: 6; Trace of blood: 4,5,7; Small embryo",,0,0
 "Fresh except for the first laid.",,0,0
+"fresh except in dark egg which s",,0,0
 "Fresh- Female caught and another",,0,0
 "Fresh- Female caught and another egg found in ovid",,0,0
 "Fresh- female on nest",,0,0
@@ -7495,11 +8288,13 @@ practically immaculate",,0,0
 "fresh in all eggs except #1 and ",,0,0
 "fresh in all eggs except #1 and #2 (showing blood)",,0,0
 "fresh in each",,0,0
+"Fresh in each set",,0,0
 "fresh in host, slight in cowbird",,0,0
 "fresh in one, slight in other",,0,0
 "fresh in one, slightly advanced ",,0,0
 "fresh in one, slightly advanced in others",,0,0
 "fresh in one, trace in two",,0,0
+"fresh in part, very slight incub",,0,0
 "fresh in two, just started in on",,0,0
 "fresh in two, just started in one",,0,0
 "fresh incomplete",,0,0
@@ -7524,6 +8319,7 @@ practically immaculate",,0,0
 "fresh- no development",,0,0
 "Fresh- No eggs on Mar 24th",,0,0
 "Fresh- not complete",,0,0
+"fresh not started",,0,0
 "fresh on 23rd, well for 2 embryo",,0,0
 "Fresh one double yolk",,0,0
 "Fresh- one egg a runt",,0,0
@@ -7531,11 +8327,17 @@ practically immaculate",,0,0
 "Fresh- one missing",,0,0
 "Fresh- one of 18 nests",,0,0
 "fresh or almost so",,0,0
+"Fresh or barely started",,0,0
+"Fresh or barley started",,0,0
 "fresh or begun",,0,0
+"fresh or begun (see remarks)",,0,0
 "Fresh or incubated 1 day",,0,0
+"fresh or infertile to advanced",,0,0
+"fresh or infertile-no developmen",,0,0
 "fresh or just stated",,0,0
 "fresh or near",,0,0
 "fresh or near embryo",,0,0
+"Fresh or nearly",,0,0
 "Fresh or nearly so",,0,0
 "Fresh or nearly so.",,0,0
 "fresh or slight",,0,0
@@ -7552,8 +8354,11 @@ practically immaculate",,0,0
 "Fresh- set complete",,0,0
 "Fresh- set incomplete",,0,0
 "Fresh- set probably incomplete",,0,0
+"fresh slight",,0,0
+"fresh slight + begun",,0,0
 "Fresh- slight traces of blood in",,0,0
 "Fresh- slight traces of blood in several.",,0,0
+"fresh to 1 day",,0,0
 "Fresh to 1 week",,0,0
 "Fresh to 1/2",,0,0
 "Fresh to 1/2 advanced",,0,0
@@ -7590,14 +8395,19 @@ practically immaculate",,0,0
 "Fresh to advance",,0,0
 "Fresh To Advanced",,0,0
 "Fresh to advanced, 2 infertile",,0,0
+"fresh to advanced/feathered (pos",,0,0
 "fresh to all stages",,0,0
 "fresh to almost complete",,0,0
 "Fresh to appreciable",,0,0
+"Fresh to badly",,0,0
+"Fresh to barely started",,0,0
+"Fresh to began",,0,0
 "fresh to beginning",,0,0
 "Fresh To Begun",,0,0
 "Fresh to begun. Embryo forming",,0,0
 "fresh to bloody",,0,0
 "Fresh to commenced",,0,0
+"Fresh to Commenced.",,0,0
 "fresh to complete",,0,0
 "fresh to considerable blood",,0,0
 "Fresh To Eight Days",,0,0
@@ -7617,11 +8427,13 @@ practically immaculate",,0,0
 "Fresh to just begun.",,0,0
 "fresh to just showing blood stre",,0,0
 "fresh to just showing blood streak",,0,0
+"fresh to just started",,0,0
 "fresh to just turned",,0,0
 "Fresh To Large Embryos",,0,0
 "Fresh to medium",,0,0
 "fresh to moderate",,0,0
 "Fresh to moderate incubated eggs",,0,0
+"fresh to moderate-dead",,0,0
 "Fresh to one fourth",,0,0
 "fresh to one fourth.",,0,0
 "Fresh To One Third",,0,0
@@ -7637,6 +8449,7 @@ practically immaculate",,0,0
 "fresh to slight trace",,0,0
 "fresh to slight, uneven",,0,0
 "Fresh to slight.",,0,0
+"fresh to slight-dead",,0,0
 "Fresh to slightly incubated",,0,0
 "Fresh to small chicks",,0,0
 "fresh to small embryo",,0,0
@@ -7644,12 +8457,14 @@ practically immaculate",,0,0
 "Fresh to small eyes",,0,0
 "Fresh to soft bones",,0,0
 "Fresh To Started",,0,0
+"Fresh to started.",,0,0
 "Fresh to starting",,0,0
 "Fresh to tiny emb",,0,0
 "fresh to trace",,0,0
 "fresh to trace blood",,0,0
 "fresh to trace of blood",,0,0
 "Fresh To Two Thirds",,0,0
+"Fresh to variable",,0,0
 "Fresh to very heavy",,0,0
 "fresh to very slight",,0,0
 "fresh to very slight trace",,0,0
@@ -7679,12 +8494,14 @@ small embryos",,0,0
 "fresh-(very slight) (contents no",,0,0
 "fresh-(very slight) (contents normal)",,0,0
 "fresh,",,0,0
+"fresh, 1 addled",,0,0
 "fresh, 1 begun",,0,0
 "Fresh, 1 day",,0,0
 "Fresh, 1 day apparently",,0,0
 "fresh, 1 egg addled",,0,0
 "fresh, 1 started",,0,0
 "fresh, 10 days",,0,0
+"fresh, 2 begun",,0,0
 "fresh, 2 days",,0,0
 "fresh, 2 days started",,0,0
 "Fresh, 2 eggs showing indication",,0,0
@@ -7696,6 +8513,7 @@ small embryos",,0,0
 "Fresh, 2 were incubated.  Also there were 4 pin fe",,0,0
 "fresh, 2-3 days",,0,0
 "fresh, 24 hours",,0,0
+"fresh, 2nd laying?",,0,0
 "fresh, 3 days",,0,0
 "fresh, 3 when first found",,0,0
 "fresh, about 10 days",,0,0
@@ -7703,17 +8521,23 @@ small embryos",,0,0
 "fresh, addled",,0,0
 "fresh, addled - 2/3 gone",,0,0
 "Fresh, addled and 1/2",,0,0
+"fresh, although Towhee on test 2",,0,0
+"fresh, and nest deserted",,0,0
 "Fresh, apparently commenced",,0,0
 "fresh, began, embryo",,0,0
 "fresh, begun",,0,0
 "fresh, bird apparently sitting",,0,0
 "fresh, bird sitting",,0,0
 "fresh, birds sitting",,0,0
+"fresh, blood",,0,0
+"fresh, blood lines becoming in 2",,0,0
 "fresh, bloody",,0,0
 "fresh, but becoming addled",,0,0
+"fresh, but becoming sterile",,0,0
 "Fresh, but comp.",,0,0
 "Fresh, but contents somewhat dri",,0,0
 "Fresh, but contents somewhat dried and hard to blo",,0,0
+"Fresh, but set certainly complet",,0,0
 "fresh, but showing signs of stal",,0,0
 "Fresh, commenced",,0,0
 "fresh, commenced deserted from 2",,0,0
@@ -7732,18 +8556,21 @@ small embryos",,0,0
 "fresh, infertile, addled",,0,0
 "fresh, just begun",,0,0
 "fresh, just showing blood",,0,0
+"Fresh, large colony",,0,0
 "fresh, large embryo",,0,0
 "fresh,- lemon colored yolks",,0,0
 "fresh, nearly",,0,0
 "Fresh, nest flooded, eggs sunbak",,0,0
 "Fresh, nest flooded, eggs sunbaked",,0,0
 "fresh, nest held 1 egg 4 days ag",,0,0
+"fresh, nest held 1 egg June 1",,0,0
 "fresh, one ovum enlarging",,0,0
 "fresh, one stale",,0,0
 "Fresh, One Started",,0,0
 "fresh,- orange colored yolks",,0,0
 "Fresh, over one day",,0,0
 "Fresh, over two days",,0,0
+"fresh, partly dried up (see card",,0,0
 "fresh, Phoebe started",,0,0
 "Fresh, presumably commenced",,0,0
 "fresh, prob. Commenced",,0,0
@@ -7754,9 +8581,11 @@ small embryos",,0,0
 "Fresh, probably commenced.",,0,0
 "fresh, red streaked",,0,0
 "fresh, runt contained no yolks",,0,0
+"fresh, set complete",,0,0
 "fresh, set incomplete",,0,0
 "fresh, several days",,0,0
 "fresh, showing",,0,0
+"fresh, showing bllod, small embr",,0,0
 "Fresh, Showing Blood",,0,0
 "fresh, showing blood
 small embr",,0,0
@@ -7764,12 +8593,14 @@ small embr",,0,0
 "fresh, showing blood, small embr",,0,0
 "fresh, showing blood, small embryos",,0,0
 "fresh, slight",,0,0
+"Fresh, slight 3 days",,0,0
 "Fresh, Slight Trace & Trace Bloo",,0,0
 "Fresh, Slight Trace & Trace Blood",,0,0
 "Fresh, Slight Trace Of Blood",,0,0
 "fresh, slight, 2 oozing shell",,0,0
 "fresh, slight, red streak",,0,0
 "fresh, slightly advanced",,0,0
+"fresh, slightly incubated",,0,0
 "Fresh, slightly to heavily inc.",,0,0
 "Fresh, Small Embryo",,0,0
 "fresh, small embryos",,0,0
@@ -7788,6 +8619,7 @@ small embr",,0,0
 "fresh, well began",,0,0
 "fresh, white",,0,0
 "fresh, yellowless",,0,0
+"fresh,bloody,small embryo",,0,0
 "fresh,showing blood",,0,0
 "fresh.",,0,0
 "fresh.  One Molothrus egg also f",,0,0
@@ -7798,20 +8630,30 @@ small embr",,0,0
 "fresh. 1/2 inc. B.T.",,0,0
 "fresh. 2 badly broken",,0,0
 "Fresh. 2 broken",,0,0
+"Fresh. 2 eggs got broken.",,0,0
 "fresh. 4th day no egg was laid s",,0,0
 "fresh. 4th day no egg was laid so conclude set ful",,0,0
 "Fresh. Abandoned",,0,0
+"fresh. Additional information on",,0,0
 "fresh. bird sitting",,0,0
 "Fresh. Building 2 weeks ago",,0,0
 "fresh. Comm. Probably deserted",,0,0
 "fresh. Deserted",,0,0
 "Fresh. Found 2 weeks earlier w/ ",,0,0
 "Fresh. Found 2 weeks earlier w/ no eggs.",,0,0
+"Fresh. Had yolk. Very undersized",,0,0
+"Fresh. Marked 2/4",,0,0
+"fresh. Nearly.",,0,0
 "Fresh. Nest Almost Done 5/8/02",,0,0
+"Fresh. No yolk. Runt",,0,0
 "fresh. Prob. Commenced",,0,0
 "Fresh. Probanly just laid.",,0,0
 "fresh/begun",,0,0
+"fresh/infertile (no dev) to mode",,0,0
+"fresh/infertile to advanced",,0,0
+"fresh/infertile to moderate",,0,0
 "fresh/infertile, trace",,0,0
+"fresh/moderate-dead/infertile",,0,0
 "fresh/showing blood",,0,0
 "Fresh/slight",,0,0
 "fresh: 1
@@ -7859,6 +8701,10 @@ showing blood: 1",,0,0
 "Fresh; contained 3 eggs on 28 Ma",,0,0
 "Fresh; contained 3 eggs on 28 May",,0,0
 "Fresh; depredated",,0,0
+"Fresh; eggs red phase",,0,0
+"fresh; empty March 26",,0,0
+"fresh; female on nest",,0,0
+"Fresh; four badly incubated",,0,0
 "fresh; held one egg 18 Jun",,0,0
 "fresh; incubation started",,0,0
 "Fresh; nest deserted",,0,0
@@ -7877,6 +8723,7 @@ showing blood: 1",,0,0
 "fresh; trace blood",,0,0
 "fresh; trace in 1",,0,0
 "Fresh; trace in two",,0,0
+"Fresh; trace inc.",,0,0
 "fresh; trace of blood in 2",,0,0
 "fresh; very small embryos",,0,0
 "fresh;4",,0,0
@@ -7886,15 +8733,18 @@ showing blood: 1",,0,0
 "fresh;small embryos;large embryos;infertile",,0,0
 "Fresh?",,0,0
 "fresh?  Commenced?",,0,0
+"fresh?  Infertile?",,0,0
 "Fresh? Badly addled, very putrid",,0,0
 "Fresh? Badly addled, very putrid.",,0,0
 "fresh? Commenced?",,0,0
+"fresh? Lumpy yolk",,0,0
 "fresh?- no yolk",,0,0
 "Fresh? None",,0,0
 "fresh?-(0) none?=a-ripe, fluid. ",,0,0
 "fresh?-(0) none?=a-ripe, fluid. C-fragment,cracked",,0,0
 "Fresh]",,0,0
 "fresh_? commenced?",,0,0
+"fresh} infertile",,0,0
 "fresh=a,b / c=small development",,0,0
 "Fresh>trace Of Blood",,0,0
 "Fresh>very Small Embryo",,0,0
@@ -7903,26 +8753,34 @@ showing blood: 1",,0,0
 Sowing blood-1",,0,0
 "fresh-3days",,0,0
 "fresh58",,0,0
+"fresh-addled",,0,0
+"fresh--addled",,0,0
 "fresh-appreciable",,0,0
+"Fresh-begun",,0,0
 "Fresh-commenced",,0,0
 "Fresh-cracked.",,0,0
+"fresh--dehydrated",,0,0
 "fresh-deserted",,0,0
 "Fresh-deserted May 24",,0,0
 "fresh-female finished laying",,0,0
 "Fresh-inc. just starting",,0,0
 "fresh-incomplete",,0,0
+"fresh-infertile? To advanced",,0,0
 "Freshly addled",,0,0
 "Freshly laid",,0,0
+"fresh-medium yellow yolks",,0,0
 "fresh-no yolk",,0,0
 "fresh--one started",,0,0
 "fresh--orange colored yolks",,0,0
 "Fresh-probably commenced",,0,0
+"Fresh-runt no yolk",,0,0
 "Fresh-set probably incomplete",,0,0
 "Fresh-single egg found 5-26, sec",,0,0
 "Fresh-single egg found 5-26, second laid 5-29",,0,0
 "Fresh-Slight",,0,0
 "fresh-started",,0,0
 "fresh-trace",,0,0
+"fresh-very slight",,0,0
 "fresh--yolkless",,0,0
 "Fresj",,0,0
 "friska",,0,0
@@ -7931,6 +8789,8 @@ Sowing blood-1",,0,0
 "From 1994 breeding. 2 samples.",,0,0
 "From 2 To 6 Days",,0,0
 "from 3 or 4 to about 7 days",,0,0
+"from 3 or 4 to about 7 days (nea",,0,0
+"From 6 to 8 days",,0,0
 "From 79 eyrie which fledged youn",,0,0
 "From 79 eyrie which fledged young",,0,0
 "from about 3 to 5 days",,0,0
@@ -7940,6 +8800,7 @@ Sowing blood-1",,0,0
 "From almost fresh to 1/2 incubat",,0,0
 "From beginning to small embryos",,0,0
 "From birds",,0,0
+"From duckling that perished duri",,0,0
 "From eyrie fledging at least 3 y",,0,0
 "From eyrie fledging at least 3 young",,0,0
 "From eyrie fledging young",,0,0
@@ -7948,13 +8809,17 @@ Sowing blood-1",,0,0
 "From fresh to 1/2",,0,0
 "From fresh to 1/4 incubated",,0,0
 "From fresh to 2/3 advanced",,0,0
+"From fresh to 5 days",,0,0
 "From fresh to 5 days incubated",,0,0
 "from fresh to about one half",,0,0
 "from fresh to feathers in one",,0,0
 "From fresh to half hatched",,0,0
+"from fresh to incubated",,0,0
 "From fresh to partly incubated",,0,0
 "From fresh to two thirds",,0,0
 "From fresh to very near hatching",,0,0
+"From fresh to well advanced",,0,0
+"From fresh to well began",,0,0
 "From Fresh To Well Begun",,0,0
 "from one-third to one-half",,0,0
 "From Oviduct",,0,0
@@ -7992,6 +8857,7 @@ Sowing blood-1",,0,0
 "fully 1/3",,0,0
 "fully 1/3 complete",,0,0
 "Fully 1/3 completed",,0,0
+"fully 1/4",,0,0
 "fully developed",,0,0
 "Fully developed embryo",,0,0
 "fully developed embryo &  cracke",,0,0
@@ -8003,8 +8869,10 @@ Sowing blood-1",,0,0
 "Fully half",,0,0
 "fully inc.",,0,0
 "Fully Incubated, Embryo Dead",,0,0
+"Fully one half",,0,0
 "Fully one-half",,0,0
 "Fully ossified skull",,0,0
+"Fully Two-thirds",,0,0
 "fully, 1 infertile",,0,0
 "FY",,0,0
 "g",,0,0
@@ -8021,7 +8889,9 @@ Sowing blood-1",,0,0
 "Grow rings on bones indicate 5 y",,0,0
 "growing",,0,0
 "H","unknown",0,1
+"H (eggs hatching)",,0,0
 "H-10",,0,0
+"hacked, 97-SC15-ES-1",,0,0
 "HACTHED 10 AUGUST 2005 AT MMZ",,0,0
 "HACTHED CA. 1984; WILD BORN (AFR",,0,0
 "HACTHED SAN DEIGO ZOO ON 17 NOV ",,0,0
@@ -8034,6 +8904,7 @@ Sowing blood-1",,0,0
 "had just started",,0,0
 "had prgressed 4 to 6 days",,0,0
 "had started",,0,0
+"Had started but were addled",,0,0
 "Had Three Young",,0,0
 "hairy",,0,0
 "Hairy embroys",,0,0
@@ -8044,6 +8915,7 @@ Sowing blood-1",,0,0
 "Half advanced",,0,0
 "half begun",,0,0
 "half completed",,0,0
+"Half done",,0,0
 "half formed",,0,0
 "half gone",,0,0
 "Half hatched",,0,0
@@ -8056,8 +8928,10 @@ Sowing blood-1",,0,0
 "half or more",,0,0
 "half over",,0,0
 "Half set",,0,0
+"Half set (1 bird 2 days old)",,0,0
 "Half set.- collector broke one",,0,0
 "half started",,0,0
+"Half to advanced",,0,0
 "Half to heavy",,0,0
 "half way",,0,0
 "half; 1 rotten",,0,0
@@ -8081,6 +8955,7 @@ Sowing blood-1",,0,0
 "hard embryos, half",,0,0
 "hard embryos, infertile",,0,0
 "Hard embryos-3/4",,0,0
+"Hard embryos-over 1/2 incubated",,0,0
 "hard feathered embryos",,0,0
 "Hard set",,0,0
 "Hard set - one addled",,0,0
@@ -8096,8 +8971,11 @@ Sowing blood-1",,0,0
 "hardly",,0,0
 "Hardly a trace",,0,0
 "hardly any",,0,0
+"Hardly Begun",,0,0
 "hardly fresh",,0,0
+"Hardly incubated",,0,0
 "hardly noticable",,0,0
+"Hardly perceptible",,0,0
 "Hardset",,0,0
 "HATCH DATE MARCH 2002",,0,0
 "hatch year","juvenile",0,1
@@ -8255,6 +9133,7 @@ Sowing blood-1",,0,0
 "Hatching- first nesting record for Phila",,0,0
 "Hatching Point",,0,0
 "Hatching Year",,0,0
+"Hatching, 1 egg",,0,0
 "Hatching, One Egg Already Chippe",,0,0
 "Hatching, One Egg Already Chipped &",,0,0
 "hatching, pipped",,0,0
@@ -8265,6 +9144,7 @@ Sowing blood-1",,0,0
 "heavily",,0,0
 "heavily advanced",,0,0
 "heavily blotched",,0,0
+"heavily feathered young",,0,0
 "heavily incubated",,0,0
 "heavily incubated(cracked and re",,0,0
 "heavily incubated(cracked and repaired)",,0,0
@@ -8272,27 +9152,36 @@ Sowing blood-1",,0,0
 "heavy - 10 to 12 days",,0,0
 "Heavy (1/2)",,0,0
 "heavy (about 10 days)",,0,0
+"Heavy (badly)",,0,0
+"Heavy embryo",,0,0
 "heavy embryos",,0,0
 "Heavy Incubated",,0,0
 "Heavy set",,0,0
 "Heavy, 3/4 incubation",,0,0
 "Heavy, bird formed",,0,0
+"Heavy, cleaned by ants.",,0,0
+"Heavy, large embryos",,0,0
 "Heavy, near hatching",,0,0
+"Heavy.",,0,0
 "heavy. One of smaller eggs infer",,0,0
 "Heavy; eggs very well incubated;",,0,0
 "Heavy; eggs very well incubated; one infertile.",,0,0
 "heavy-almost 8 days",,0,0
 "Heavyt",,0,0
+"Held 2 June 9",,0,0
 "held 3 - May 13",,0,0
+"held 3 eggs 11 Jun",,0,0
 "held 3 eggs June 19",,0,0
 "Held 3 eggs May 20.",,0,0
 "held 3 eggs May 22",,0,0
 "Held 3 July 17",,0,0
 "held 3 June 3",,0,0
 "held 3 may 10- fresh",,0,0
+"held 3 May 1st",,0,0
 "held 3 May 26.",,0,0
 "held 3 on April 29",,0,0
 "held 3 on June 11",,0,0
+"Held 3 on June 4 (see card)",,0,0
 "held 3 on May 16",,0,0
 "Held 4 May 29",,0,0
 "held 4 yesterday",,0,0
@@ -8304,6 +9193,7 @@ Sowing blood-1",,0,0
 "held same number 2 days ago",,0,0
 "held same number June 23",,0,0
 "held three for two days",,0,0
+"Helf four May 28",,0,0
 "hembra","unknown",0,1
 "hembra 2 pares ma","adult",0,1
 "hembra A","adult",0,1
@@ -8335,16 +9225,28 @@ Sowing blood-1",,0,0
 "hor",,0,0
 "hornot",,0,0
 "host + 1 c.b. slightly incubated",,0,0
+"host 2 days, cowbird fresh",,0,0
+"host 25%",,0,0
 "host about 1/2 incubated; cowbir",,0,0
 "host begun, cowbird farther adva",,0,0
+"host broken (split) egg, cowbird",,0,0
+"host commenced, cowbird advanced",,0,0
+"host cracked, fresh; cowbird sli",,0,0
+"host fresh",,0,0
 "host fresh, cowbird 1/3",,0,0
 "host fresh, cowbird addled",,0,0
+"host fresh, cowbird fresh",,0,0
 "host fresh, cowbird slight",,0,0
 "host incubated, cowbird started",,0,0
+"host medium embryo, cowbird larg",,0,0
+"host slight, cowbird addled",,0,0
+"host slight, cowbird fresh",,0,0
+"host small embyros (see card)",,0,0
 "host started, cowbird 1/3",,0,0
 "host started, cowbird fresh",,0,0
 "host well started, cowbird fresh",,0,0
 "host: small embryo",,0,0
+"host=2 young about 1/3 grown, co",,0,0
 "hourre?",,0,0
 "Huge embryo",,0,0
 "Huge embryo; egg already had lar",,0,0
@@ -8664,6 +9566,7 @@ Sowing blood-1",,0,0
 "I infertile the other rather adv",,0,0
 "I Large embryo, II very large em",,0,0
 "I medium embryo, II large embryo",,0,0
+"I/2",,0,0
 "I/3",,0,0
 "ID# 03 CHUH 1,1",,0,0
 "ID# 03 HAKU 1,1",,0,0
@@ -8675,6 +9578,7 @@ Sowing blood-1",,0,0
 "ii",,0,0
 "I-I-B-B",,0,0
 "Illegible",,0,1
+"illegible (likely says ""advanced",,0,0
 "Illegible (see card)",,0,1
 "illegible or not recorded",,0,0
 "Im","immature",0,1
@@ -8719,6 +9623,7 @@ Sowing blood-1",,0,0
 "immarture",,0,0
 "Immat.",,0,0
 "immature","immature",1,1
+"immature - hatch year unknown (s",,0,0
 "IMMATURE (""FEMALE"") PLUMAGE; BUR",,0,0
 "immature (?)","immature",0,1
 "immature (1st winter)",,0,0
@@ -8872,6 +9777,10 @@ Sowing blood-1",,0,0
 "In all had incubation started bu",,0,0
 "In all had incubation started but only in one was ",,0,0
 "in all stages",,0,0
+"in all stages - 2 eggs fresh, 2 ",,0,0
+"In different stages",,0,0
+"in different stages from turned ",,0,0
+"In different stages.",,0,0
 "in first stages",,0,0
 "In nest with young",,0,0
 "In nest; cracked-dead-slight; yo",,0,0
@@ -8881,6 +9790,7 @@ Sowing blood-1",,0,0
 "In the oviduct",,0,0
 "in utero",,0,0
 "In various stages/ Begun",,0,0
+"inc",,0,0
 "Inc 1/3",,0,0
 "inc bad",,0,0
 "Inc bad, 1 egg dented",,0,0
@@ -8918,6 +9828,7 @@ Sowing blood-1",,0,0
 "Incubated 16 days; large embryos",,0,0
 "Incubated 17 days; 1 large embry",,0,0
 "Incubated 17 days; 1 large embryo, 2 no developmen",,0,0
+"Incubated 2/3",,0,0
 "Incubated 21 days; Large embryos",,0,0
 "Incubated 21 days; Large embryos; rotten shells ve",,0,0
 "Incubated 26 days; medium embryo",,0,0
@@ -8932,6 +9843,8 @@ Sowing blood-1",,0,0
 "incubated 5-6 days",,0,0
 "Incubated 7 days; no development",,0,0
 "Incubated And Abandoned",,0,0
+"Incubated but not so seriously a",,0,0
+"Incubated by parents until 5 Mar",,0,0
 "incubated eggs",,0,0
 "Incubated for 75 days; no develo",,0,0
 "Incubated for 75 days; no development, slightly ro",,0,0
@@ -8941,8 +9854,12 @@ Sowing blood-1",,0,0
 "Incubated full term, then abandoned. Four eggs fra",,0,0
 "Incubated full-term but failed t",,0,0
 "Incubated full-term but failed to hatch, prob. Fer",,0,0
+"Incubated past full term",,0,0
+"Incubated past term",,0,0
+"Incubated seriously",,0,0
 "Incubated six days",,0,0
 "Incubated Slightly",,0,0
+"Incubated somewhat",,0,0
 "incubated to wing and bg stage",,0,0
 "Incubated, But Abandoned After..",,0,0
 "Incubated, But Abandoned After.....",,0,0
@@ -8956,17 +9873,21 @@ Sowing blood-1",,0,0
 "incubation 1/3",,0,0
 "Incubation 4 days in each",,0,0
 "Incubation 5 days",,0,0
+"Incubation about 5 days",,0,0
 "Incubation begun",,0,0
+"incubation bloody",,0,0
 "Incubation commenced",,0,0
 "incubation had not progressed",,0,0
 "incubation had slightly advanced",,0,0
 "Incubation in last stage",,0,0
 "Incubation just begun",,0,0
+"incubation marked on eggs",,0,0
 "Incubation observed but site fai",,0,0
 "Incubation observed but site failed before hatchin",,0,0
 "Incubation started",,0,0
 "Incubation started yolks bloody",,0,0
 "Incubation started\",,0,0
+"Incubation very slight trace in ",,0,0
 "Incubation well begun",,0,0
 "Incubation, 2/3 gone.",,0,0
 "Incubayed- chick preserved",,0,0
@@ -8978,21 +9899,27 @@ Sowing blood-1",,0,0
 "Infertie",,0,0
 "Infertile",,0,0
 "infertile - abandoned egg",,0,0
+"infertile - both runts",,0,0
+"Infertile - carmelized",,0,0
 "Infertile & ?",,0,0
 "infertile & adv.",,0,0
 "Infertile & Embryos Spine,legs,w",,0,0
 "Infertile & Embryos Spine,legs,wing",,0,0
 "infertile (1 addled egg)",,0,0
 "infertile (begun today)",,0,0
+"infertile (California Partridge ",,0,0
 "Infertile (captive incubation at",,0,0
 "Infertile (captive incubation at Sea World of San ",,0,0
 "infertile ?",,0,0
 "Infertile and large embryo",,0,0
+"infertile and rotten",,0,0
 "INFERTILE BUT FRESH",,0,0
 "infertile but not addled",,0,0
 "infertile congealed, stale",,0,0
 "Infertile- contained also 1 brok",,0,0
 "Infertile- contained also 1 broken egg.",,0,0
+"Infertile Egg",,0,0
+"Infertile eggs",,0,0
 "Infertile- eggs from wild female",,0,0
 "Infertile- eggs from wild female trapped in Ecuado",,0,0
 "Infertile- nest also contained 6",,0,0
@@ -9004,11 +9931,13 @@ Sowing blood-1",,0,0
 "infertile or had never been set ",,0,0
 "Infertile runt",,0,0
 "infertile to advanced",,0,0
+"infertile to moderate",,0,0
 "infertile, 1 week",,0,0
 "Infertile, 20 Days, Completely D",,0,0
 "Infertile, 20 Days, Completely Dev",,0,0
 "infertile, about 1 week old",,0,0
 "infertile, advanced",,0,0
+"Infertile, cracked",,0,0
 "infertile, dried up",,0,0
 "Infertile, dry",,0,0
 "Infertile, egg broken when found",,0,0
@@ -9044,6 +9973,7 @@ Sowing blood-1",,0,0
 "Infertile; yolk solidified and rotten",,0,0
 "Infertile?",,0,0
 "Infertile>hatched",,0,0
+"infertile--dehydrated",,0,0
 "Infertile-rotten",,0,0
 "Infertile-yolkless",,0,0
 "Infertle",,0,0
@@ -9073,6 +10003,7 @@ Sowing blood-1",,0,0
 "Intact, unhatched, fertile egg; feathers, beak, we",,0,0
 "interior consumed by ants",,0,0
 "Intermediate",,0,0
+"Inubated but took because dark c",,0,0
 "Irregula (small to medium embryo",,0,0
 "Irregula (small to medium embryo)",,0,0
 "irregular",,0,0
@@ -9103,8 +10034,11 @@ Sowing blood-1",,0,0
 "irregular, from slight to medium embryos",,0,0
 "irregular, large embryo too fres",,0,0
 "irregular, large embryo too fresh",,0,0
+"Irregularly advancing; 2 eggs ab",,0,0
 "Irregulars-slgith in one to smal",,0,0
+"Irregulars-slight in one to smal",,0,0
 "J","juvenile",0,1
+"J - fledgling",,0,0
 "j.",,0,0
 "J/A","juvenile, adult",0,1
 "J/HY",,0,0
@@ -9149,6 +10083,7 @@ Sowing blood-1",,0,0
 "JU","juvenile",0,1
 "Ju.",,0,0
 "JU; BURSA 4 X 2 MM",,0,0
+"Juivenile",,0,0
 "Jun",,0,0
 "June 1877",,0,0
 "Junenile","juvenile",0,1
@@ -9157,16 +10092,22 @@ Sowing blood-1",,0,0
 "Jus t begun",,0,0
 "Just  begun",,0,0
 "just  completed",,0,0
+"just 4 days",,0,0
+"Just a few days",,0,0
 "Just a trace",,0,0
+"just a trace in 2, one fresh, th",,0,0
+"Just a trace or two.",,0,0
 "Just a trace.",,0,0
 "just about complete",,0,0
 "Just about to hatch",,0,0
+"just advanced - 2/3",,0,0
 "just began",,0,0
 "Just began.",,0,0
 "Just Beginning",,0,0
 "Just begun",,0,0
 "Just Begun (about Three Days)",,0,0
 "Just begun (more apparent in the",,0,0
+"Just begun in all",,0,0
 "Just begun in all eggs",,0,0
 "Just begun in two eggs.",,0,0
 "just begun 'soft embryos'",,0,0
@@ -9176,10 +10117,16 @@ Sowing blood-1",,0,0
 "Just Begun, About 2 Days",,0,0
 "Just begun, bloody embryo",,0,0
 "Just begun, bloody embryos",,0,0
+"Just begun.",,0,0
 "Just begun; one egg addled",,0,0
 "just begun?",,0,0
+"Just begun-about one third",,0,0
+"Just begun-one egg fresh",,0,0
 "Just comm.",,0,0
 "Just commenced",,0,0
+"just commenced (begun)",,0,0
+"just commenced sitting",,0,0
+"Just commenced.",,0,0
 "just commencing",,0,0
 "just complete",,0,0
 "just hatched",,0,0
@@ -9187,12 +10134,17 @@ Sowing blood-1",,0,0
 "just hatched, down wet",,0,0
 "just hatching",,0,0
 "Just laid",,0,0
+"just laid, very fresh old bird r",,0,0
 "just noticable",,0,0
 "just noticeable",,0,0
+"Just ready to hatch",,0,0
 "just showing",,0,0
 "just showing blood",,0,0
 "Just Started",,0,0
 "Just started (-1/4)",,0,0
+"just started (-1/8)",,0,0
+"just started (see card)",,0,0
+"Just started showing trace",,0,0
 "Just started to tiny embryos",,0,0
 "just started, bloody, embryo",,0,0
 "just started, one runt infertile",,0,0
@@ -9330,7 +10282,9 @@ Sowing blood-1",,0,0
 "Juvenil","juvenile",0,1
 "Juvenil;e","juvenile",0,1
 "juvenile","juvenile",1,1
+"juvenile  (?)",,0,0
 "juvenile - Basic 2","juvenile",0,1
+"juvenile - fledgling",,0,0
 "juvenile (?)","juvenile",0,1
 "juvenile (15 days)",,0,0
 "juvenile (16 days)",,0,0
@@ -9355,6 +10309,7 @@ Sowing blood-1",,0,0
 "juvenile (by plumage)","juvenile",0,1
 "juvenile (fledgeling)",,0,0
 "juvenile (fledgling)","juvenile",0,1
+"juvenile (flegling)",,0,0
 "Juvenile (from teeth)",,0,0
 "Juvenile (plumage)?","juvenile",0,1
 "JUVENILE ; BURSA 1.5 X 1.5 MM;",,0,0
@@ -9446,6 +10401,7 @@ Sowing blood-1",,0,0
 "Juvenile 2nd winter","juvenile",0,1
 "juvenile and larva",,0,0
 "juvenile frog",,0,0
+"juvenile hatchling",,0,0
 "juvenile specimen",,0,0
 "juvenile, 1/3 ossification","juvenile",0,1
 "Juvenile, 60% oss.","juvenile",0,1
@@ -9463,6 +10419,7 @@ Sowing blood-1",,0,0
 "juvenile; 3 months",,0,0
 "JUVENILE; BURSA 3 X 3 MM; SKULL ",,0,0
 "JUVENILE; BURSA 30 X 16 MM",,0,0
+"Juvenile; fledgling",,0,0
 "Juvenile; skull 35% to 40% ossif",,0,0
 "Juvenile; skull not fully oss.","juvenile",0,1
 "Juvenile; skull not oss.","juvenile",0,1
@@ -9511,19 +10468,26 @@ Sowing blood-1",,0,0
 "Large Cc-fresh, Small Cc-trace, 1 Pm-trace, 1 Pm-f",,0,0
 "Large chick",,0,0
 "large chicks",,0,0
+"large cuckoo formed embryos, Sma",,0,0
+"Large cuckoo fresh, Small cuckoo",,0,0
 "Large Egg Infertile; Heavy In Sm",,0,0
 "Large Egg Infertile; Heavy In Small",,0,0
+"large egg small embryo, other fr",,0,0
+"Large eggs inside",,0,0
+"large emb.",,0,0
 "Large embreo",,0,0
 "Large embryo",,0,0
 "Large embryo - 1 chick was hatch",,0,0
 "Large embryo - 1 chick was hatching, egg rebuilt (",,0,0
 "large embryo (dead)",,0,0
+"Large embryo ; abandoned",,0,0
 "Large embryo and infertile",,0,0
 "Large embryo and yolk sac.",,0,0
 "Large embryo- contained also you",,0,0
 "Large embryo- contained also young and eggs of bot",,0,0
 "Large embryo saved WFVZ#6634",,0,0
 "large embryo, addled",,0,0
+"large embryo, both eggs evenly i",,0,0
 "Large embryo, egg soft",,0,0
 "large embryo, feathers present",,0,0
 "large embryo, feathers. Not pipp",,0,0
@@ -9533,6 +10497,7 @@ Sowing blood-1",,0,0
 "large embryo, not pipping",,0,0
 "large embryo, ready to hatch",,0,0
 "large embryo, small yolk sack",,0,0
+"large embryo, smashed",,0,0
 "Large embryo, yolk material pres",,0,0
 "Large embryo, yolk material present, not yet pippi",,0,0
 "large embryo, yolk sack",,0,0
@@ -9546,6 +10511,7 @@ Sowing blood-1",,0,0
 "Large embryo: ready to hatch.  B",,0,0
 "Large embryo: ready to hatch.  Broke during shipme",,0,0
 "Large embryo; 1 broken while cle",,0,0
+"Large embryo; abandoned",,0,0
 "large embryo; in one egg the chi",,0,0
 "large embryo; in one egg the chick was pipping; th",,0,0
 "large embryo; infertile",,0,0
@@ -9564,6 +10530,7 @@ Sowing blood-1",,0,0
 "large embryos (feathers)",,0,0
 "large embryos (impossible to pre",,0,0
 "large embryos (impossible to prepare)",,0,0
+"large embryos in all",,0,0
 "large embryos in all eggs",,0,0
 "Large embryos- nest was abandone",,0,0
 "Large embryos- nest was abandoned",,0,0
@@ -9580,9 +10547,12 @@ Infertile: 1",,0,0
 "large embryos: 1
 Infertile:1",,0,0
 "Large embryos: 2",,0,0
+"large embryos:infertile",,0,0
 "Large Embryos; 1 Addled",,0,0
 "large embryos; 1 embryo",,0,0
 "Large embryos; 1 infertile",,0,0
+"Large embryos; far advanced",,0,0
+"large embryos; feathers in three",,0,0
 "large embryos; too heavily incub",,0,0
 "large embryos; too heavily incubated to save; almo",,0,0
 "large embryos; well advanced",,0,0
@@ -9595,10 +10565,13 @@ Infertile-1",,0,0
 "Large Feathered Embryos",,0,0
 "Large fledgling",,0,0
 "large foeti in all",,0,0
+"Large hairy embryo",,0,0
 "large juv in down",,0,0
 "Large skull windows",,0,0
 "Large skull windows.",,0,0
 "Large soft embryos",,0,0
+"large tough embryos",,0,0
+"Large young",,0,0
 "Large, hard embryos",,0,0
 "large, soft embryos",,0,0
 "Large, soft embs.",,0,0
@@ -9608,6 +10581,8 @@ Infertile-1",,0,0
 "Large-medium embryos",,0,0
 "Larger embryos: 4",,0,0
 "Largew embryos",,0,0
+"Larhe embryos",,0,0
+"Larhe embryos. Nearly hatched.",,0,0
 "larva","larva",0,1
 "larva (27)",,0,0
 "larva (3) and salamanders (17)",,0,0
@@ -9624,6 +10599,7 @@ Infertile-1",,0,0
 "Larval form",,0,0
 "Larval tray","larva",0,1
 "larve","larva",0,1
+"Last",,0,0
 "Last 4 chicks left nest on 16th.",,0,0
 "Late July-late August",,0,0
 "Late Stage Embryo",,0,0
@@ -9635,6 +10611,7 @@ Infertile-1",,0,0
 "left over 3 days",,0,0
 "Left two days",,0,0
 "Leg.",,0,0
+"Leg. (see card)",,0,0
 "leg. Couves",,0,0
 "legade ?",,0,0
 "legere",,0,0
@@ -9644,10 +10621,14 @@ Infertile-1",,0,0
 "less than 1 yr",,0,0
 "less than 1/4",,0,0
 "less than a week",,0,0
+"Less than a week.",,0,0
 "Less than half",,0,0
 "Less than one-quarter",,0,0
+"Less then a week",,0,0
 "Ligere",,0,0
 "Light",,0,0
+"Light colored egg fresh; dark co",,0,0
+"Light egg slight, dark egg fresh",,0,0
 "Light Egg Small Emb, Others Fres",,0,0
 "Light Egg Small Emb, Others Fresh",,0,0
 "LIGHT FAT",,0,0
@@ -9655,12 +10636,15 @@ Infertile-1",,0,0
 "light tint when taken",,0,0
 "Light Trace Of Blood",,0,0
 "lightly inc",,0,0
+"Lightly inclubated, one infertil",,0,0
+"lightly incubated",,0,0
 "little",,0,0
 "little advanced, 1 very advanced",,0,0
 "little advanced, 1 very advanced - broken",,0,0
 "little blood",,0,0
 "Little hatching",,0,0
 "little incubated",,0,0
+"Little.",,0,0
 "live embryos",,0,0
 "live young",,0,0
 "LIVED 3+ YEARS AT MMZ",,0,0
@@ -9727,6 +10711,8 @@ Infertile-1",,0,0
 "male?",,0,0
 "Many eggs, fresh, showing blood,",,0,0
 "Many eggs, fresh, showing blood, small to large em",,0,0
+"marked 1/4",,0,0
+"marked 3/4",,0,0
 "marked on eggs",,0,0
 "MATURE",,0,0
 "May",,0,0
@@ -9747,8 +10733,10 @@ Infertile-1",,0,0
 "Medium and ready to hatch embryos",,0,0
 "Medium embryo",,0,0
 "Medium embryo and infertile",,0,0
+"medium embryo in cardinal, small",,0,0
 "Medium embryo. Nest contained 2 ",,0,0
 "Medium embryo. Nest contained 2 young",,0,0
+"medium embryo; cowbird fresh",,0,0
 "medium embryo; M. ater fresh",,0,0
 "Medium embryos",,0,0
 "Medium Embryo's",,0,0
@@ -9759,6 +10747,7 @@ Infertile-1",,0,0
 "medium large embryos",,0,0
 "medium set",,0,0
 "medium size embryos",,0,0
+"Medium sized embroys",,0,0
 "medium sized embryo",,0,0
 "Medium sized embryo, feathers pr",,0,0
 "Medium sized embryo, feathers present",,0,0
@@ -9795,6 +10784,8 @@ Infertile-1",,0,0
 "middle stage",,0,0
 "middle stages, embryos",,0,0
 "Milky",,0,0
+"Minimal or no incubation",,0,0
+"minimum",,0,0
 "mishapen & infertile eggs",,0,0
 "Mixed",,0,0
 "Mixed- 3 fresh",,0,0
@@ -9805,8 +10796,10 @@ Infertile-1",,0,0
 "Mod. To embryos",,0,0
 "Moderate",,0,0
 "moderate ( 2 days )",,0,0
+"Moderate (but 1 fresh!)",,0,0
 "Moderate (embryos showing)",,0,0
 "Moderate (one infertile)",,0,0
+"moderate and addled",,0,0
 "Moderate but apperently variable",,0,0
 "Moderate but apperently variable.",,0,0
 "Moderate dried embryos",,0,0
@@ -9817,17 +10810,32 @@ Infertile-1",,0,0
 "moderate incubation",,0,0
 "Moderate sized embryos",,0,0
 "moderate to advanced",,0,0
+"moderate to advanced; 1042 addle",,0,0
+"moderate to advanced--feathered",,0,0
+"Moderate to advanced-unfeathered",,0,0
+"moderate to advanced--variably f",,0,0
+"moderate to advanced-viable",,0,0
+"moderate to slight",,0,0
 "MODERATE; SOME DOWNS DEVELOPED",,0,0
+"moderate-advanced",,0,0
+"Moderated",,0,0
+"moderate-dead",,0,0
+"moderate-dead/advanced-depredate",,0,0
 "Moderate-dead; from nest with 2 ",,0,0
 "Moderate-dead; from nest with 2 young",,0,0
 "Moderately",,0,0
 "moderately advanced",,0,0
 "moderately incubated",,0,0
 "moderate-sized embryos",,0,0
+"moderate-viable",,0,0
 "moderei",,0,0
 "more than  half",,0,0
 "more than half",,0,0
 "More than slight",,0,0
+"More than slight.",,0,0
+"mostly advanced",,0,0
+"Mostly begun",,0,0
+"Mostly Fresh",,0,0
 "Moulting",,0,0
 "Moulting ?",,0,0
 "much",,0,0
@@ -9839,9 +10847,12 @@ Infertile-1",,0,0
 "Much incubated",,0,0
 "Much incubated.",,0,0
 "MUCH JUV FUZZ ON BODY; BURSA 6 M",,0,0
+"Mucus, blood",,0,0
 "n",,0,0
 "N. Br.",,0,0
 "N.B.",,0,0
+"N.H.",,0,0
+"N.H. (see card)",,0,0
 "N.L",,0,0
 "N.P.",,0,0
 "N.R.",,0,0
@@ -9869,15 +10880,21 @@ Infertile-1",,0,0
 "Near fresh to well-formed embryo",,0,0
 "Near fresh to well-formed embryos",,0,0
 "Near half",,0,0
+"near hatched",,0,0
 "near hatching",,0,0
 "Near hatching. Embryos well feat",,0,0
 "Near hatching. Embryos well feathered.",,0,0
 "nearly @1/2",,0,0
 "Nearly 1/2",,0,0
+"nearly 1/2 (about 1/2)",,0,0
+"nearly 1/2 hatched",,0,0
 "nearly 1/2, cowbird egg further ",,0,0
 "nearly 1/4",,0,0
 "Nearly 2/3",,0,0
+"Nearly 2/3 advanced",,0,0
 "nearly 3/4 incubated",,0,0
+"nearly a week",,0,0
+"nearly a week advanced",,0,0
 "Nearly adult",,0,0
 "'nearly adult'",,0,0
 "nearly complete",,0,0
@@ -9887,9 +10904,12 @@ Infertile-1",,0,0
 "nearly completed",,0,0
 "nearly completed. Removed with e",,0,0
 "nearly completed. Removed with embryo hook",,0,0
+"nearly finished",,0,0
 "Nearly fresh",,0,0
 "Nearly fresh - (2 days by knowle",,0,0
 "Nearly fresh - (2 days by knowledge)",,0,0
+"Nearly fresh (nest had one egg a",,0,0
+"Nearly fresh (slight)",,0,0
 "Nearly fresh to adv",,0,0
 "nearly fresh to slight",,0,0
 "Nearly fresh to soft bones",,0,0
@@ -9904,6 +10924,8 @@ Infertile-1",,0,0
 "Nearly half incubated",,0,0
 "Nearly half.",,0,0
 "Nearly hatched",,0,0
+"Nearly hatched (3) young birds h",,0,0
+"Nearly hatched; one egg piped, a",,0,0
 "nearly hatching",,0,0
 "Nearly incubated; 1 infertile",,0,0
 "nearly one half",,0,0
@@ -9930,6 +10952,7 @@ Infertile-1",,0,0
 "Nest 88-1",,0,0
 "Nest abandoned",,0,0
 "Nest Abandoned About 20 May 1991",,0,0
+"Nest abandoned before incubation",,0,0
 "Nest abandoned. 1 egg missing, n",,0,0
 "Nest abandoned. 1 egg missing, none hatched.",,0,0
 "Nest attached to side of mossy r",,0,0
@@ -9953,6 +10976,8 @@ Infertile-1",,0,0
 "Nest empty April 9-Three eggs April 14",,0,0
 "Nest empty on 25th",,0,0
 "Nest Failed",,0,0
+"Nest fledged 2 young",,0,0
+"Nest fledged 3 young",,0,0
 "Nest fledged one female and two ",,0,0
 "Nest fledged one female and two bird of unknown se",,0,0
 "Nest fledged one young, collecte",,0,0
@@ -10022,6 +11047,7 @@ Infertile-1",,0,0
 "-NIL-",,0,1
 "nill",,0,0
 "nille",,0,0
+"Nine-tenths",,0,0
 "NL","larva",0,1
 "no",,0,0
 "NO  BURSA.;",,0,0
@@ -10162,20 +11188,34 @@ Infertile-1",,0,0
 "no data. 5 eggs taken June 10, 4 taken on June 17",,0,0
 "no details",,0,0
 "No details kept",,0,0
+"no developmen to advanced",,0,0
 "no development",,0,0
+"No development and medium embryo",,0,0
 "no development apparent",,0,0
 "No development- egg unusually la",,0,0
 "No development- egg unusually large",,0,0
 "no development evident",,0,0
+"no development to advanced",,0,0
+"no development to moderate",,0,0
+"no development to slight",,0,0
 "No Development Was Observed",,0,0
 "no development, fluid",,0,0
 "No development.",,0,0
 "no development. ?",,0,0
+"no development/addled to advance",,0,0
+"no development/advanced",,0,0
 "No development: contents mostly ",,0,0
 "No development: contents mostly solid",,0,0
 "No development; contents solidif",,0,0
 "No development; contents solidified",,0,0
+"no development; lumpy",,0,0
 "No development; rotten and black",,0,0
+"No development-abandoned",,0,0
+"No development--abandoned",,0,0
+"no development--broken",,0,0
+"No development-soft-broke upon d",,0,0
+"No development-yolk in smaller e",,0,0
+"No development-yolk partially so",,0,0
 "no doubt slight",,0,0
 "No eggs",,0,0
 "No eggs as yet",,0,0
@@ -10186,6 +11226,7 @@ Infertile-1",,0,0
 "no embryo",,0,0
 "No embryo formed",,0,0
 "No embryo, yolk broken",,0,0
+"No embryos or sign of fertilizat",,0,0
 "no evidence of embryo",,0,0
 "no evidence of incubation",,0,0
 "NO FAT",,0,0
@@ -10211,11 +11252,15 @@ Infertile-1",,0,0
 "No incubation. Nest contained 1 young.",,0,0
 "No incubation. Nest contained 2 ",,0,0
 "No incubation. Nest contained 2 young.",,0,0
+"No inubation",,0,0
 "No notes",,0,0
 "no record",,0,0
+"No record but from memory ""fresh",,0,0
 "no record kept",,0,0
 "no recorded",,0,0
+"No recorded.",,0,0
 "no sign",,0,0
+"No sign of being fertile",,0,0
 "No sign of development",,0,0
 "No Sign Of Embryo Developing",,0,0
 "No sign of incubation, fairly fr",,0,0
@@ -10226,6 +11271,7 @@ Infertile-1",,0,0
 "No sing of development",,0,0
 "No trace",,0,0
 "No trace in any",,0,0
+"no trace of incubation",,0,0
 "No trecorded",,0,0
 "NO URSA; SKULL 100% OSS.",,0,0
 "no yolk",,0,0
@@ -10233,6 +11279,8 @@ Infertile-1",,0,0
 "No yolk- runt",,0,0
 "No yolk--egg was already dented.",,0,0
 "no.",,0,0
+"Nof recorded",,0,0
+"Noi fertile",,0,0
 "non feconde",,0,0
 "non incubated",,0,0
 "non vides",,0,0
@@ -10243,17 +11291,26 @@ Infertile-1",,0,0
 "none - deserted - drying up",,0,0
 "none & slight",,0,0
 "none (8 days)",,0,0
+"None (Eggs addled)",,0,0
+"none (fresh)",,0,0
 "None apparent ie F",,0,0
 "none apperent-2 days",,0,0
+"None egg fresh",,0,0
 "none eggs fresh",,0,0
 "none evident",,0,0
 "none of little",,0,0
 "None of the eggs hatched.  Later",,0,0
 "None of the eggs hatched.  Later taken",,0,0
 "none or slight",,0,0
+"None over 3 or 4 days",,0,0
 "none recorded",,0,0
+"none, 5/21/05 fresh",,0,0
 "None, both eggs runts",,0,0
+"none, but set complete",,0,0
+"None, eggs fresh",,0,0
+"none, fresh",,0,0
 "none, Ser, incom",,0,0
+"none, set incomplete",,0,0
 "None.",,0,0
 "none. eggs fresh",,0,0
 "None. Nest contained 2 young.",,0,0
@@ -10261,16 +11318,20 @@ Infertile-1",,0,0
 "None. Nest contained 4 young",,0,0
 "none. One egg partly decayed and",,0,0
 "none./set complete./",,0,0
+"none/fresh",,0,0
 "None: deserted",,0,0
 "none; eggs all infertile",,0,0
 "none; except in 5/28 begun",,0,0
 "none; set incomplete",,0,0
 "none-fresh",,0,0
+"Nopt recorded",,0,0
 "Nor recorded",,0,0
 "Nort recorded",,0,0
 "not",,0,0
 "not  indicated",,0,0
+"Not  recorded",,0,0
 "Not advanced",,0,0
+"Not advanced.",,0,0
 "Not an active nest",,0,0
 "not any",,0,0
 "Not applicable",,0,0
@@ -10278,14 +11339,20 @@ Infertile-1",,0,0
 "Not began",,0,0
 "not begun",,0,0
 "not certain",,0,0
+"Not collected",,0,0
 "Not Commenced",,0,0
+"not complete",,0,0
 "Not entered",,0,0
+"Not even, but not advanced",,0,0
+"Not far advanced",,0,0
 "Not fertile",,0,0
+"not fertile - rotten",,0,0
 "not fresh",,0,0
 "Not fully adult",,0,0
 "Not given",,0,0
 "Not Given (3 Minus One Destroyed",,0,0
 "Not Given (3 Minus One Destroyed)",,0,0
+"Not hatched (NH)",,0,0
 "not heavy",,0,0
 "not heavy from appearance of egg",,0,0
 "not heavy from appearance of eggs",,0,0
@@ -10315,8 +11382,12 @@ Infertile-1",,0,0
 "Not recerded",,0,0
 "not recoded",,0,0
 "not record",,0,0
+"Not recorde",,0,0
 "Not recorded",,0,0
 "Not recorded (2 chicks banded",,0,0
+"not recorded (broken)",,0,0
+"not recorded (incomplete?)",,0,0
+"Not recorded (see card)",,0,0
 "Not recorded- 2 eggs missing, 1 ",,0,0
 "Not recorded- 2 eggs missing, 1 egg broken",,0,0
 "Not recorded- 2 eggs traded away",,0,0
@@ -10325,7 +11396,9 @@ Infertile-1",,0,0
 "not recorded
 1 badly damaged",,0,0
 "not recorded, 1 badly damaged",,0,0
+"not recorded, 1 cowbird hatched",,0,0
 "not recorded, 1 egg broken.",,0,0
+"Not recorded, see remarks",,0,0
 "Not recorded.",,0,0
 "Not recorded.  2 eggs disappeare",,0,0
 "Not recorded.  2 eggs disappeared.",,0,0
@@ -10339,7 +11412,9 @@ Infertile-1",,0,0
 "Not recorded. Nest predated",,0,0
 "not recordeda",,0,0
 "Not recordedNot recorded",,0,0
+"Not recordedv",,0,0
 "not recording",,0,0
+"Not recored",,0,0
 "Not recoreded",,0,0
 "Not recroded",,0,0
 "Not Reocrded",,0,0
@@ -10376,8 +11451,12 @@ Infertile-1",,0,0
 "Nymph",,0,0
 "O",,0,0
 "O - O - b - b - B",,0,0
+"O (see card)",,0,0
+"o + b",,0,0
 "O b B B",,0,0
+"O O O O O O O",,0,0
 "O. K.",,0,0
+"O.k.",,0,0
 "O.S.E.",,0,0
 "O~","unknown",0,1
 "o-b-B=on eggs",,0,0
@@ -10399,15 +11478,20 @@ Infertile-1",,0,0
 "Old nest. See data card.",,0,0
 "Old set of eggshell fragments",,0,0
 "older juvenile","juvenile",0,1
+"on (?) of hatching",,0,0
+"On pipping left in nest",,0,0
 "on point of hatching",,0,0
 "on pt of hatching",,0,0
+"On the eve of hatching",,0,0
 "one",,0,0
 "one - soft embryo",,0,0
+"One 2/3 and one almost",,0,0
 "One 2/3 incubated, one addled",,0,0
 "One 24 Day Old Chick And One Dea",,0,0
 "One 24 Day Old Chick And One Dead",,0,0
 "One 29 Day Old Chick",,0,0
 "One 30 Day Old Chick",,0,0
+"one 7/8 and one rotten",,0,0
 "one 9 and one about 7 days incub",,0,0
 "one 9 and one about 7 days incubated",,0,0
 "One about 1/3. Two about 1/4.",,0,0
@@ -10421,6 +11505,7 @@ Infertile-1",,0,0
 "one addled, one begun",,0,0
 "One Addled, One Young,+fragments",,0,0
 "One addled; rest advanced",,0,0
+"One addled; two one third",,0,0
 "one adult and 6 hatchlings",,0,0
 "One advanced, 1 ready to hatch",,0,0
 "one advanced, one infertile",,0,0
@@ -10433,11 +11518,13 @@ Infertile-1",,0,0
 "one broke. About 1/2 incubated",,0,0
 "One Day",,0,0
 "one day at most",,0,0
+"One day incubated",,0,0
 "One day old",,0,0
 "One day old.",,0,0
 "One day on last egg",,0,0
 "One day only",,0,0
 "One day.",,0,0
+"One day-deserted",,0,0
 "One egg - red showing. 24 hours",,0,0
 "One egg + 1 small baby; egg was ",,0,0
 "One egg + 1 small baby; egg was rotten",,0,0
@@ -10446,12 +11533,14 @@ Infertile-1",,0,0
 "one egg addled- see data card",,0,0
 "one egg addled, other nearly com",,0,0
 "one egg addled, other nearly complete",,0,0
+"One egg addled, two one half",,0,0
 "One egg addled; all other eggs b",,0,0
 "One egg addled; all other eggs broke in nest. Frag",,0,0
 "One egg addled; one slight; 2 fo",,0,0
 "One egg addled; one slight; 2 formed embryos",,0,0
 "one egg advanced about half - tw",,0,0
 "one egg advanced about half - two not fertile",,0,0
+"one egg advanced and broken in b",,0,0
 "One egg apparently infertile",,0,0
 "One egg broke; two eggs hatched ",,0,0
 "One egg broke; two eggs hatched & fledged",,0,0
@@ -10485,17 +11574,20 @@ Infertile-1",,0,0
 "One egg in nest on the 9th",,0,0
 "one egg in nest when found April",,0,0
 "one egg in nest when found April 22nd",,0,0
+"one egg incubated, one addled",,0,0
 "One egg infertile and incubation",,0,0
 "one egg infertile, two nearly co",,0,0
 "one egg infertile, Two nearly complete.",,0,0
 "One egg large downy embryos, 3 e",,0,0
 "One egg large downy embryos, 3 eggs rotten",,0,0
+"One egg much fresher than other ",,0,0
 "One egg not incubated, other egg",,0,0
 "One egg not incubated, other egg well incubated",,0,0
 "one egg slightly addled and two ",,0,0
 "one egg slightly addled and two about 1/2",,0,0
 "one egg slightly incubated",,0,0
 "one egg started two addled",,0,0
+"one egg started, others fresh",,0,0
 "one egg with large embryos; othe",,0,0
 "one egg with large embryos; others fresher by stag",,0,0
 "one egg, the largest, imperfect,",,0,0
@@ -10515,11 +11607,15 @@ Infertile-1",,0,0
 "One fresh and two slight.",,0,0
 "One fresh or infertile, one abou",,0,0
 "One fresh or infertile, one about 4 days.",,0,0
+"One fresh, on begun.",,0,0
+"One Fresh, One 1/4",,0,0
+"One fresh, one a trace",,0,0
 "One fresh, one about half, one a",,0,0
 "One fresh, one about half, one advanced",,0,0
 "one fresh, one advanced",,0,0
 "One fresh, one slight, 2 w/ well",,0,0
 "One fresh, one slight, 2 w/ well-formed embr.",,0,0
+"One fresh, one slightly incubate",,0,0
 "One fresh, one with fully formed",,0,0
 "One fresh, one with fully formed embryo",,0,0
 "one fresh, other barely incubate",,0,0
@@ -10535,9 +11631,11 @@ Infertile-1",,0,0
 "One fresh; 1 soft embryo- also held 2 blind nestli",,0,0
 "one fresh; 4 started",,0,0
 "One fresh; three started",,0,0
+"One fresh; two incubated",,0,0
 "One fresh; two slight",,0,0
 "one full-term embryo",,0,0
 "One Half",,0,0
+"one -half",,0,0
 "one half advanced",,0,0
 "One half and 2/3",,0,0
 "one half in all",,0,0
@@ -10547,14 +11645,19 @@ Infertile-1",,0,0
 "one half or over",,0,0
 "One half to full",,0,0
 "one half.",,0,0
+"One half. One egg broken in carr",,0,0
+"One half. One egg jamed in nest ",,0,0
 "one half; 1 addled",,0,0
 "one half; 1 infert.",,0,0
 "one half; 1 infertile",,0,0
 "one half; 2 infertile",,0,0
 "one half; one rotten",,0,0
+"one half-hardening embryo",,0,0
 "one half-incubated",,0,0
 "One Hatched",,0,0
+"one hatched in carton",,0,0
 "one helf",,0,0
+"One incubation slight other two ",,0,0
 "one infert. about week",,0,0
 "One infert. Two far advanced",,0,0
 "One infertile, one broken and ro",,0,0
@@ -10564,12 +11667,15 @@ Infertile-1",,0,0
 "one infertile; one at 1 week.",,0,0
 "One infertile; one broken, with ",,0,0
 "One infertile; one broken, with large embryo",,0,0
+"One is heap of blood",,0,0
 "One male & one female eyas produ",,0,0
 "One male & one female eyas produced from unknown n",,0,0
 "one nearly fresh, one nearly hal",,0,0
 "one nearly fresh, one nearly half incubated",,0,0
 "One nearly ready to hatch; other",,0,0
 "One nearly ready to hatch; other two fresh.",,0,0
+"One neck",,0,0
+"One none; 3 1/5 advanced",,0,0
 "One Not Incubated, One X 1/4",,0,0
 "one of each species slight, othe",,0,0
 "One one-half; one fresh",,0,0
@@ -10578,6 +11684,7 @@ Infertile-1",,0,0
 "One rotten broken egg",,0,0
 "One rotten egg of a clutch of 3",,0,0
 "one rotten, four far advanced",,0,0
+"one runt",,0,0
 "One showing blood, 2 with large ",,0,0
 "One showing blood, 2 with large embryos.",,0,0
 "One Showing Blood; One Fresh",,0,0
@@ -10587,9 +11694,12 @@ Infertile-1",,0,0
 "One slight and others fresh",,0,0
 "one slight, 2 fresh",,0,0
 "One slight, four begun",,0,0
+"One slight, one well begun.",,0,0
 "One slight, two soft embryos",,0,0
 "One Slightly Inc., Others Fresh",,0,0
 "one slightly incubated",,0,0
+"One slightly; two rather serious",,0,0
+"One small two medium large embry",,0,0
 "one started",,0,0
 "one third",,0,0
 "One third , varying",,0,0
@@ -10607,8 +11717,10 @@ Infertile-1",,0,0
 "One Third,",,0,0
 "One Third, 1 Addled (a)",,0,0
 "One third.",,0,0
+"One third. One addled.",,0,0
 "one third; 1 infert.",,0,0
 "one third; 1 infertile",,0,0
+"One third; 2 infertile",,0,0
 "One Thirds",,0,0
 "One thirds; 1 addled",,0,0
 "One thired",,0,0
@@ -10620,14 +11732,18 @@ Infertile-1",,0,0
 "one week at least",,0,0
 "One week at least.",,0,0
 "One week incubated",,0,0
+"One week or more.",,0,0
 "one week set upon",,0,0
 "One week- soft embryos",,0,0
+"One week.",,0,0
 "One well begun",,0,0
 "One whole addled egg and hatched",,0,0
 "One whole addled egg and hatched egg shell collect",,0,0
 "One whole addled egg and hatched eggshell & membra",,0,0
 "One Whole egg; Pair failed at fu",,0,0
 "One Whole egg; Pair failed at full term incubation",,0,0
+"One with very large embryo",,0,0
+"One young ""pipped""",,0,0
 "One young hatched in wild",,0,0
 "One young hatched in wild (recyc",,0,0
 "One young hatched in wild (recycle)",,0,0
@@ -10644,9 +11760,12 @@ Infertile-1",,0,0
 "one-half",,0,0
 "One-half advanced",,0,0
 "One-half complete",,0,0
+"one-half hatched",,0,0
 "One-half incubated",,0,0
+"one-half incubated and wet",,0,0
 "one-half to far advanced",,0,0
 "one-half to fresh",,0,0
+"one-half, 1 infertile, cowbird h",,0,0
 "one-half; 1 fresh",,0,0
 "one-half; 1 infert.",,0,0
 "One-quarter",,0,0
@@ -10686,6 +11805,9 @@ Infertile-1",,0,0
 "Ossification complete.",,0,0
 "Ossification incomplete",,0,0
 "Ossified",,0,0
+"ossified skull",,0,0
+"Ossified skull.",,0,0
+"others hatched",,0,0
 "ovarian eggs","ovarian egg",0,1
 "Over",,0,0
 "over 1 day",,0,0
@@ -10724,16 +11846,21 @@ Infertile-1",,0,0
 "over several days",,0,0
 "over two days",,0,0
 "Over two-thirds",,0,0
+"Oviduct",,0,0
 "OVIDUCT 2 MM WIDE, CONVOLUTED",,0,0
 "OVIDUCT 3 MM WIDE, CONVOLUTED",,0,0
 "OVIDUCT 8 MM WIDE, COVNOLUTED",,0,0
 "oviduct egg",,0,0
+"oviduct egg - fresh",,0,0
 "P25', Abandoned egg",,0,0
 "P29'; Abandoned",,0,0
 "pais",,0,0
 "Palest egg was most incubated; s",,0,0
 "Palest egg was most incubated; slight to embryos f",,0,0
+"Parsley",,0,0
 "part",,0,0
+"part 1/3",,0,0
+"Part hatching",,0,0
 "Part incubated",,0,0
 "Part incubated & thin shelled- o",,0,0
 "Part incubated & thin shelled- one broke",,0,0
@@ -10750,11 +11877,15 @@ Infertile-1",,0,0
 "partially hatched",,0,0
 "Partially hatched, about 1/3",,0,0
 "partially incubated",,0,0
+"Partley Incubated",,0,0
 "Partly",,0,0
 "Partly addled",,0,0
+"partly formed",,0,0
 "Partly fresh",,0,0
 "Partly fresh to advanced",,0,0
 "partly hatched",,0,0
+"partly hatching",,0,0
+"partly inc",,0,0
 "Partly inc.",,0,0
 "Partly Incu[bated]",,0,0
 "Partly Incubated",,0,0
@@ -10766,15 +11897,19 @@ Infertile-1",,0,0
 "Pegere",,0,0
 "perceptible",,0,0
 "Perfect",,0,0
+"Perfect (1 egg lost)",,0,0
 "Perfectly fresh",,0,0
 "perfectly fresh - set complete",,0,0
+"Perfectly fresh; showed no signs",,0,0
 "perhaps 1/4-1/3",,0,0
 "perhaps 5 days",,0,0
 "phoebes fresh, 1 addled; cowbird",,0,0
+"picked and sucked by some specie",,0,0
 "Pip.-Pred.",,0,0
 "piped",,0,0
 "piped and ready to hatch",,0,0
 "pipped",,0,0
+"Pipped 1 hour late",,0,0
 "Pipped But Did Not Hatch",,0,0
 "Pipped But Did Not Hatch Success",,0,0
 "Pipped But Did Not Hatch Successful",,0,0
@@ -10782,12 +11917,15 @@ Infertile-1",,0,0
 "Pipped- Hatching",,0,0
 "Pipped- some broken",,0,0
 "pipped, 1/3",,0,0
+"Pipped; ready to hatch",,0,0
 "pipping",,0,0
 "pipping!!",,0,0
 "plumb fresh",,0,0
 "Plus Fragments",,0,0
 "porte",,0,0
+"Position",,0,0
 "positive",,0,0
+"positive - advanced",,0,0
 "positive - begun",,0,0
 "positive
 fresh",,0,0
@@ -10802,13 +11940,17 @@ fresh",,0,0
 "POSSIBLY JUVENILE","juvenile",0,1
 "Post larvaeJuveniles","juvenile",0,1
 "Post nupt.",,0,0
+"Postively fresh",,0,0
+"Practiacally complete",,0,0
 "Practically complete",,0,0
 "Practically fresh",,0,0
+"practically fresh; held 2 eggs M",,0,0
 "Prairies are incubating",,0,0
 "Preceptible",,0,0
 "predated 3 days after last egg l",,0,0
 "predated within 4 days of egg be",,0,0
 "PRE-DEFINITIVE PLUMAGE; NO BURSA",,0,0
+"prefectly fresh",,0,0
 "present",,0,0
 "presumably only 2 days but rathe",,0,0
 "presumably only 2 days but rather more than slight",,0,0
@@ -10838,7 +11980,10 @@ fresh",,0,0
 "Probably from 2006",,0,0
 "probably from hatched egg",,0,0
 "Probably hatched",,0,0
+"Probably heavy",,0,0
 "Probably immature","immature",0,1
+"probably incomplete",,0,0
+"probably just begun",,0,0
 "PROBABLY JUVENILE","juvenile",0,1
 "PROBABLY SECOND YEAR","second year",0,1
 "Probably slight",,0,0
@@ -10852,13 +11997,19 @@ fresh",,0,0
 "Produced 2 chicks 31-33 days",,0,0
 "Progressed",,0,0
 "progressed 4 to 6 days",,0,0
+"progressed 6-8 days",,0,0
 "progressed about 1/3",,0,0
+"Progressed about 1/4",,0,0
 "progressed from 1/3 to 1/2",,0,0
 "progressed several days",,0,0
 "progressive",,0,0
 "Progressive- Fresh to 1/4",,0,0
 "Pronounced",,0,0
+"pronounced trace of blood",,0,0
+"pronounced trace of blood; cowbi",,0,0
+"pronounced, embryo visible, a la",,0,0
 "pt. inc.",,0,0
+"Pt. Inc.  (see card)",,0,0
 "pul",,0,0
 "Pul.",,0,0
 "pull.",,0,0
@@ -10894,16 +12045,20 @@ fresh",,0,0
 "Quite bad",,0,0
 "quite bad.",,0,0
 "quite bloody",,0,0
+"Quite bloody.",,0,0
 "quite fresh",,0,0
 "quite fresh - orange colored yol",,0,0
 "quite fresh - orange colored yolks",,0,0
 "Quite fresh.",,0,0
 "quite fresh; lemon-colored yolks",,0,0
+"Quite fresh; yolks a very deep o",,0,0
 "quite incubated",,0,0
 "quite large",,0,0
 "Quite large embryos",,0,0
+"quite rotten",,0,0
 "quite strong",,0,0
 "Ramphocelus-fresh; Molothrus-tra",,0,0
+"Ranging 1/3 to 1/2",,0,0
 "ranging from fresh to rather inc",,0,0
 "Rather advanced",,0,0
 "rather fresh",,0,0
@@ -10917,6 +12072,7 @@ fresh",,0,0
 "ready to harched",,0,0
 "Ready To Hatch",,0,0
 "ready to hatch - piped w fret",,0,0
+"Ready to hatch - pipped",,0,0
 "ready to hatch & 1 inferfile",,0,0
 "ready to hatch, infertile",,0,0
 "Ready to hatch, one egg pipped",,0,0
@@ -10930,8 +12086,10 @@ fresh",,0,0
 "Recently laid",,0,0
 "recorded as not recorded",,0,0
 "Red & yellow sacks",,0,0
+"red eggs",,0,0
 "Red showing",,0,0
 "red skinned",,0,0
+"Red spotted variety",,0,0
 "Red Streak",,0,0
 "Red streak showing",,0,0
 "Red streak showing (48 hours)",,0,0
@@ -10948,6 +12106,7 @@ fresh",,0,0
 "Rotten about two weeks.",,0,0
 "rotten and deserted",,0,0
 "rotten egg, deserted nest",,0,0
+"Rotten egg. A young bird was alo",,0,0
 "Rotten- eggs had been deserted f",,0,0
 "Rotten- eggs had been deserted for about 2 months",,0,0
 "Rotten large embryos",,0,0
@@ -10965,7 +12124,9 @@ fresh",,0,0
 "Rotten; no development",,0,0
 "Rotton",,0,0
 "rotton (deserted set)",,0,0
+"Ruget 3 Dage. (incubator 3 days)",,0,0
 "runt",,0,0
+"Runt addled; 2 other eggs slight",,0,0
 "Runt egg",,0,0
 "runt egg contained yolk\was fres",,0,0
 "Runt.  Possibly incubated for so",,0,0
@@ -10974,6 +12135,7 @@ fresh",,0,0
 "Runt. Fresh-barely trace of yolk.",,0,0
 "S",,0,0
 "S oss",,0,0
+"S.",,0,0
 "S. oss.",,0,0
 "S. oss. ??",,0,0
 "S.A.",,0,0
@@ -10995,9 +12157,11 @@ fresh",,0,0
 "Second winter",,0,0
 "SECOND WINTER; BURSA 14 X 9 MM",,0,0
 "Second year","Second year",1,1
+"secondary incubation",,0,0
 "See card",,0,0
 "See card for dates laid/failed.",,0,0
 "See card- nest predated",,0,0
+"See card Sr. Legade?",,0,0
 "See card.",,0,0
 "See data card",,0,0
 "See data card.",,0,0
@@ -11009,6 +12173,7 @@ fresh",,0,0
 "See note on card",,0,0
 "See notes",,0,0
 "seemingly infertile",,0,0
+"Seen",,0,0
 "Self-hatch",,0,0
 "Self-hatched",,0,0
 "sell started",,0,0
@@ -11041,6 +12206,7 @@ fresh",,0,0
 "set completed June 15",,0,0
 "set completed June 18",,0,0
 "set completed June 23",,0,0
+"set completed June 3",,0,0
 "set completed June 5",,0,0
 "set completed May 30",,0,0
 "Set deserted. Fresh",,0,0
@@ -11056,6 +12222,7 @@ fresh",,0,0
 "Seven Days",,0,0
 "seven days - about",,0,0
 "Seven days incubated",,0,0
+"several day",,0,0
 "Several Days",,0,0
 "Several Days Advanced",,0,0
 "Several days but one fresh egg",,0,0
@@ -11078,9 +12245,12 @@ fresh",,0,0
 "shaping embryos",,0,0
 "Shell fragments",,0,0
 "Shell Frags-successful Hatch",,0,0
+"shell of hatched egg",,0,0
 "showed red",,0,0
 "Showing",,0,0
 "Showing  blood, Small embryos",,0,0
+"Showing blod; small embryos",,0,0
+"Showing blodd",,0,0
 "showing blood",,0,0
 "showing blood - streaks",,0,0
 "showing blood 
@@ -11092,6 +12262,7 @@ small embryos",,0,0
 "showing blood (2) small embyro (",,0,0
 "showing blood (2) small embyro (1)",,0,0
 "showing blood (3)",,0,0
+"Showing blood (slightly incubate",,0,0
 "showing blood , small embryos",,0,0
 "showing blood and small embryos",,0,0
 "Showing blood and small embryos.",,0,0
@@ -11118,14 +12289,19 @@ small embryos",,0,0
 "Showing blood; incubation begun",,0,0
 "showing blood; infertile",,0,0
 "showing blood; just started",,0,0
+"Showing blood; Large embryos",,0,0
 "showing blood; small embryos",,0,0
+"Showing blood; smalle embryos",,0,0
 "showing blood; well started",,0,0
 "showing blood?",,0,0
+"Showing blood-1 Small embryo-1",,0,0
 "Showing blood-small embryos",,0,0
 "showing embryos",,0,0
+"showing in 1",,0,0
 "showing in 1 egg",,0,0
 "Showing in 1 egg.",,0,0
 "showing in 2",,0,0
+"showing in 2 eggs",,0,0
 "Showing in 2 eggs, 2 fresh",,0,0
 "showing in 2, other fresh",,0,0
 "Showing in 3",,0,0
@@ -11161,6 +12337,7 @@ small embryos",,0,0
 "Sire/Dam 95/103  C6E2",,0,0
 "Sire/Dam C4E1",,0,0
 "Sitting",,0,0
+"sitting slightly",,0,0
 "Six",,0,0
 "six begun two advanced",,0,0
 "Six Days",,0,0
@@ -11190,6 +12367,7 @@ small embryos",,0,0
 "SKULL  CA. 0% PNEUM",,0,0
 "Skull ?",,0,0
 "SKULL _20% PNEUM",,0,0
+"skull < 1/2 ossified",,0,0
 "Skull < 10% ossified",,0,0
 "skull <1/4 ossified",,0,0
 "skull <10% ossified, immature",,0,0
@@ -11216,6 +12394,7 @@ small embryos",,0,0
 "SKULL 0% OSS; NO BURSA",,0,0
 "Skull 1/2 oss",,0,0
 "skull 1/2 ossified",,0,0
+"Skull 1/3 ossified",,0,0
 "skull 1/4 ossified",,0,0
 "SKULL 10 % OSS",,0,0
 "SKULL 10 % OSS; BURSA CA 2 X 2 M",,0,0
@@ -11364,6 +12543,7 @@ small embryos",,0,0
 "SKULL 40% OSS; BURSA 8 X 10 MM, ",,0,0
 "SKULL 40% OSS; HUGE BURSA,",,0,0
 "SKULL 40% OSS; NO BURSA",,0,0
+"Skull 40% ossified",,0,0
 "skull 45 % ossified",,0,0
 "SKULL 5 % OSS; BURSA 2 X 4 MM;",,0,0
 "SKULL 5 % OSS; BURSA 3 X 3 MM;",,0,0
@@ -11436,6 +12616,7 @@ small embryos",,0,0
 "skull 60% ossified",,0,0
 "SKULL 65% OSS.",,0,0
 "Skull 65% ossified",,0,0
+"Skull 70 % ossified",,0,0
 "Skull 70% oss",,0,0
 "skull 70% ossified",,0,0
 "Skull 70% ossified.",,0,0
@@ -11445,6 +12626,7 @@ small embryos",,0,0
 "SKULL 75 % OSS; BURSA 4 X 3 MML",,0,0
 "SKULL 75 % OSS; BURSA NOT FOUND;",,0,0
 "SKULL 75 % OSS; NO BURSA",,0,0
+"skull 75 % ossified",,0,0
 "SKULL 75% OSS",,0,0
 "SKULL 75% OSS.",,0,0
 "SKULL 75% OSS. BURSA 10 X 5 MM",,0,0
@@ -11549,6 +12731,7 @@ small embryos",,0,0
 "Skull completely pneum.",,0,0
 "Skull completely pneumatixed",,0,0
 "skull completely pneumatized",,0,0
+"skull completely unossified",,0,0
 "SKULL COMPLETELY UNPNEUM",,0,0
 "SKULL DESTROYED",,0,0
 "Skull double",,0,0
@@ -11562,11 +12745,15 @@ small embryos",,0,0
 "Skull fully oss",,0,0
 "Skull fully oss.",,0,0
 "skull fully ossifed",,0,0
+"Skull fully ossifed, breeding",,0,0
+"Skull fully ossifed.",,0,0
 "Skull fully ossified",,0,0
 "Skull fully ossified Juv",,0,0
 "skull fully ossified, adult",,0,0
 "Skull fully ossified.",,0,0
 "skull fully ossified; adult",,0,0
+"Skull fully ossified; breeding",,0,0
+"Skull fully ossified; near breed",,0,0
 "SKULL FULLY PNEUM",,0,0
 "SKULL FULLY PNEUM; BURSA CA. 4 M",,0,0
 "SKULL FULLY PNEUM; BURSA NOT APP",,0,0
@@ -11606,10 +12793,12 @@ small embryos",,0,0
 "SKULL NOT FULLY OSS",,0,0
 "skull not fully ossified",,0,0
 "Skull not fully ossified.",,0,0
+"Skull not fully ossified; first ",,0,0
 "Skull not oss",,0,0
 "Skull not oss.",,0,0
 "Skull not oss. Large 184 mm",,0,0
 "SKULL NOT OSS; BURSA NOT FOUND;",,0,0
+"Skull not ossifed",,0,0
 "Skull not ossifed.",,0,0
 "skull not ossified",,0,0
 "Skull not ossified  50 %",,0,0
@@ -11619,6 +12808,7 @@ small embryos",,0,0
 "SKULL NOT PNEUM",,0,0
 "skull not pneumatized",,0,0
 "skull not quite fully ossified",,0,0
+"Skull not quite fully ossified.",,0,0
 "skull open",,0,0
 "Skull oss",,0,0
 "skull oss < 25%",,0,0
@@ -11631,6 +12821,7 @@ small embryos",,0,0
 "Skull ossi",,0,0
 "Skull ossidied",,0,0
 "skull ossifed",,0,0
+"Skull ossifed.",,0,0
 "Skull ossification 100%",,0,0
 "Skull ossified",,0,0
 "skull ossified (I think)",,0,0
@@ -11641,6 +12832,7 @@ small embryos",,0,0
 "Skull ossified 80%",,0,0
 "Skull ossified.",,0,0
 "Skull ossified. Ad",,0,0
+"Skull ossified;",,0,0
 "Skull part ossified",,0,0
 "SKULL PART. OSS",,0,0
 "SKULL PART. PNEUM",,0,0
@@ -11696,10 +12888,12 @@ small embryos",,0,0
 "Sli. in one, far adv. in one & t",,0,0
 "Sli. in one, far adv. in one & three infert.",,0,0
 "Sli. To far adv.",,0,0
+"Sligfht",,0,0
 "sligh",,0,0
 "slighlty advanced",,0,0
 "Slighlty Inc",,0,0
 "slighlty incubated",,0,0
+"slighr",,0,0
 "Slight",,0,0
 "slight - (bloody)",,0,0
 "Slight  4 Days",,0,0
@@ -11713,8 +12907,10 @@ small embryos",,0,0
 "slight - held 5 eggs June 23",,0,0
 "Slight - just started",,0,0
 "slight - moderate",,0,0
+"Slight - not over 2 days.",,0,0
 "slight - small embryos",,0,0
 "Slight - two addled",,0,0
+"slight - varying",,0,0
 "slight & abandoned",,0,0
 "slight & advanced",,0,0
 "slight & bad",,0,0
@@ -11727,8 +12923,11 @@ small embryos",,0,0
 "Slight & to the same degree in each egg.",,0,0
 "Slight & various",,0,0
 "Slight (+)",,0,0
+"slight (0.3)",,0,0
+"slight (0.5)",,0,0
 "slight (1 addled)",,0,0
 "slight (1 infertile)",,0,0
+"slight (2 days(",,0,0
 "slight (2 days)",,0,0
 "slight (2 infertile)",,0,0
 "Slight (2 unfertile)",,0,0
@@ -11739,6 +12938,7 @@ small embryos",,0,0
 "slight (about 3 days)",,0,0
 "Slight (about 4 days)",,0,0
 "slight (about 6 days)",,0,0
+"Slight (begun)",,0,0
 "slight (bird sitting)",,0,0
 "slight (blood)",,0,0
 "Slight (bloodshot in all)",,0,0
@@ -11750,12 +12950,15 @@ small embryos",,0,0
 "Slight (irregular)",,0,0
 "slight (one infertile)",,0,0
 "slight (runt egg addled)",,0,0
+"slight (some infertile)",,0,0
 "Slight (three days)",,0,0
 "slight (traces of blood)",,0,0
+"slight + deserted + partly dried",,0,0
 "slight + variable",,0,0
 "Slight 1/3",,0,0
 "slight 1/6",,0,0
 "Slight 10%",,0,0
+"Slight 2 eggs",,0,0
 "Slight- 2 eggs broken while coll",,0,0
 "Slight- 2 eggs broken while collecting",,0,0
 "Slight 3 days",,0,0
@@ -11764,12 +12967,16 @@ small embryos",,0,0
 "slight 9 days",,0,0
 "Slight addled",,0,0
 "Slight and 1 old",,0,0
+"Slight and abandoned",,0,0
 "Slight and addled",,0,0
+"Slight and addled and 3 3/4 fled",,0,0
+"slight and almost even",,0,0
 "slight and commenced",,0,0
 "slight and even",,0,0
 "Slight and fresh",,0,0
 "slight and in two eggs more so",,0,0
 "Slight and irregular",,0,0
+"Slight and then some",,0,0
 "slight and trace of embryo",,0,0
 "slight and uneven",,0,0
 "slight and variable",,0,0
@@ -11777,6 +12984,7 @@ small embryos",,0,0
 "Slight and various",,0,0
 "Slight and varying",,0,0
 "Slight blood",,0,0
+"Slight blood embryo",,0,0
 "Slight blood traces",,0,0
 "Slight blood traces.",,0,0
 "Slight but begun",,0,0
@@ -11785,10 +12993,13 @@ small embryos",,0,0
 "slight but two inclined to spoil",,0,0
 "Slight- egg left since May 26th ",,0,0
 "Slight- egg left since May 26th to insure completi",,0,0
+"slight eggs nearly fresh",,0,0
 "Slight Embryos",,0,0
 "slight embryos, 1 infertile",,0,0
 "Slight embryos, 2 unfertile",,0,0
 "slight in 2",,0,0
+"slight in 2 eggs, other egg fres",,0,0
+"Slight in 2 host; & 1/3 inc in 2",,0,0
 "Slight in 2; & 1/3 inc in 2 and ",,0,0
 "Slight in 2; & 1/3 inc in 2 and cowbird",,0,0
 "Slight in 3 and advanced in othe",,0,0
@@ -11803,11 +13014,14 @@ small embryos",,0,0
 "Slight in one & far advanced",,0,0
 "slight in one egg",,0,0
 "slight in one egg, fresh others",,0,0
+"Slight in one egg; others fresh",,0,0
 "slight in some",,0,0
 "slight in some, some fresh",,0,0
 "Slight in two. The other infert.",,0,0
 "slight inc",,0,0
 "slight inc.",,0,0
+"Slight incub.",,0,0
+"Slight incubated",,0,0
 "Slight Incubation",,0,0
 "slight incubation, v. small embr",,0,0
 "slight incubation, v. small embryos",,0,0
@@ -11830,6 +13044,7 @@ small embryos",,0,0
 "Slight to 1/4 advanced",,0,0
 "slight to 3 or 4 days",,0,0
 "Slight To 3/4 Incubated",,0,0
+"slight to 8 days",,0,0
 "slight to advanced",,0,0
 "slight to bad",,0,0
 "Slight To Bloody",,0,0
@@ -11842,9 +13057,13 @@ small embryos",,0,0
 "slight to fresh",,0,0
 "slight to heavy",,0,0
 "Slight to medium",,0,0
+"slight to moderate",,0,0
 "Slight to moderate embryos",,0,0
+"slight to moderate-dead",,0,0
+"slight to no development/smelly",,0,0
 "slight to none",,0,0
 "Slight to one third",,0,0
+"Slight to pronounced; trace of b",,0,0
 "slight to quite heavy",,0,0
 "slight to several days",,0,0
 "Slight to six days",,0,0
@@ -11857,9 +13076,11 @@ small embryos",,0,0
 "slight to trace",,0,0
 "slight to trace embryo",,0,0
 "slight to trace of embryo",,0,0
+"slight to very slight",,0,0
 "Slight to well advanced",,0,0
 "Slight to well along.",,0,0
 "Slight to well begun",,0,0
+"slight to well begun, varying in",,0,0
 "slight to well commenced",,0,0
 "Slight to well formed embryos",,0,0
 "slight to well started",,0,0
@@ -11876,6 +13097,7 @@ small embryos",,0,0
 "slight traces of blood.",,0,0
 "Slight- varied slightly",,0,0
 "slight with small embryos",,0,0
+"Slight with variations",,0,0
 "slight
 (first egg laid on the 1",,0,0
 "slight
@@ -11884,6 +13106,7 @@ small embryos",,0,0
 "Slight, 1 Addled",,0,0
 "slight, 1 egg dented",,0,0
 "Slight, 1 fresh",,0,0
+"Slight, 1 host infertile",,0,0
 "Slight, 1 Infertile",,0,0
 "Slight, 1 RW infertile",,0,0
 "slight, 2 infertile",,0,0
@@ -11904,9 +13127,13 @@ small embryos",,0,0
 "Slight, egg2- addled",,0,0
 "Slight, fresh",,0,0
 "slight, incubated",,0,0
+"Slight, medium",,0,0
+"slight, no development--smelly a",,0,0
 "Slight, one egg addled",,0,0
 "Slight, one egg infertile",,0,0
+"Slight, probably 2 or 3 days",,0,0
 "slight, small embryo",,0,0
+"Slight, somes fresh",,0,0
 "slight, varying",,0,0
 "slight, very",,0,0
 "Slight.",,0,0
@@ -11915,14 +13142,22 @@ small embryos",,0,0
 "Slight. 1 egg on 3/13",,0,0
 "Slight. 2 eggs. Apr. 13.",,0,0
 "Slight. 2 on Feb.13",,0,0
+"Slight. All yolks alike",,0,0
 "slight. Lightest and longest egg",,0,0
+"slight. Ok.",,0,0
 "Slight. One egg on February 27th",,0,0
 "slight. One egg on March 22.",,0,0
+"slight/addled to moderate",,0,0
 "slight/blood",,0,0
+"slight/dead to addled/no dev",,0,0
+"slight/dead to advanced",,0,0
+"slight/dead to advanced-viable",,0,0
+"slight/dead to moderate",,0,0
 "Slight/moderate",,0,0
 "slight/rotten",,0,0
 "Slight/small embryos",,0,0
 "slight: set complete",,0,0
+"slight: variable",,0,0
 "Slight; 04621 moderate",,0,0
 "slight; 1 fresh",,0,0
 "slight; 1 infert.",,0,0
@@ -11943,6 +13178,12 @@ small embryos",,0,0
 "slight_ 3 infertile",,0,0
 "Slighta",,0,0
 "Slight-about 3 days",,0,0
+"slight-dead",,0,0
+"slight-dead to advanced",,0,0
+"slight-dead to moderate",,0,0
+"slight-dead to moderate-viable",,0,0
+"slight-dead?",,0,0
+"slight-dehydrated",,0,0
 "Slight-heavy",,0,0
 "Slightlt incubated",,0,0
 "Slightly",,0,0
@@ -11955,6 +13196,7 @@ small embryos",,0,0
 "slightly advanced -",,0,0
 "slightly advanced in all; one in",,0,0
 "slightly advanced in all; one infertile",,0,0
+"Slightly advanced.",,0,0
 "slightly began",,0,0
 "Slightly Begun",,0,0
 "slightly bloody",,0,0
@@ -11986,11 +13228,20 @@ small embryos",,0,0
 "Slightly moderate",,0,0
 "Slightly set",,0,0
 "Slightly started",,0,0
+"slightly started to form",,0,0
 "Slightly variable, Very small em",,0,0
 "Slightly variable, Very small embryos",,0,0
+"slight-moderate",,0,0
+"Slight-odd egg fresh",,0,0
+"slight-rotten",,0,0
 "Slightt",,0,0
+"slight-viable to moderate",,0,0
+"slight-viable/addled",,0,0
 "Slight-well-formed embryos",,0,0
+"slighty",,0,0
+"Slighty advanced",,0,0
 "Sligt",,0,0
+"Sligth",,0,0
 "sligth; 2 infertile",,0,0
 "sligthly",,0,0
 "Sligtly",,0,0
@@ -11999,6 +13250,7 @@ small embryos",,0,0
 "small",,0,0
 "small & large embryo",,0,0
 "small & large embryos",,0,0
+"small & large embryos (or 2 larg",,0,0
 "Small & medium embryos",,0,0
 "Small & Very Small Embryos",,0,0
 "Small (dead) embryo #2
@@ -12007,6 +13259,7 @@ infertil",,0,0
 "small advanced - medium, about 1",,0,0
 "Small and large embryos",,0,0
 "small and medium embryos",,0,0
+"Small bird formed",,0,0
 "small bloody embryos",,0,0
 "small bones",,0,0
 "Small Cc-red thread, Rest fresh",,0,0
@@ -12016,6 +13269,7 @@ infertil",,0,0
 "Small dead embryo, nest was dese",,0,0
 "small decomposing embryos",,0,0
 "Small Emb",,0,0
+"small emb.",,0,0
 "small embreo",,0,0
 "Small Embros",,0,0
 "small embroys",,0,0
@@ -12027,14 +13281,17 @@ infertil",,0,0
 "Small Embryo & Addled (fresh?)",,0,0
 "small embryo & showing blood",,0,0
 "Small Embryo & Two Young",,0,0
+"Small embryo (1), Infertile (1)",,0,0
 "Small embryo (5 days)",,0,0
 "small embryo (about 5 days).",,0,0
 "small embryo 2 infertile",,0,0
 "small embryo, embryo",,0,0
 "small embryo, hatched",,0,0
+"small embryo, or about 6 days",,0,0
 "Small embryo. Nest contained 1 y",,0,0
 "Small embryo. Nest contained 1 young",,0,0
 "Small embryo. Pellets collected",,0,0
+"Small embryo;  heavily spotted e",,0,0
 "Small embryo; cracked and rotten",,0,0
 "Small embryos",,0,0
 "Small embryos - 1 addled",,0,0
@@ -12048,6 +13305,7 @@ infertil",,0,0
 "Small embryos (caustic)",,0,0
 "small embryos (eggs incubated 4 ",,0,0
 "Small embryos (eyes)",,0,0
+"small embryos (showing blood)",,0,0
 "small embryos (the small egg ""ad",,0,0
 "small embryos (the small egg ""addle"")",,0,0
 "small embryos (three eggs on Jun",,0,0
@@ -12056,15 +13314,19 @@ infertil",,0,0
 "small embryos -> large embryos",,0,0
 "small embryos formed",,0,0
 "small embryos in 3 and c.b.; 1 a",,0,0
+"small embryos in 3 host and cowb",,0,0
 "Small embryos in all eggs",,0,0
 "small embryos in both eggs",,0,0
 "Small Embryos In Most Advanced",,0,0
+"small embryos in some",,0,0
 "Small embryos to advanced",,0,0
 "small embryos to slight",,0,0
 "Small embryos, 2 eggs more incub",,0,0
 "Small embryos, 2 eggs more incubated",,0,0
 "small embryos, 2 infertile",,0,0
 "small embryos, about five days",,0,0
+"small embryos, large embryos",,0,0
+"small embryos, soft bones",,0,0
 "Small Embryos, Variable",,0,0
 "Small embryos.",,0,0
 "Small Embryos. #3 Very Small Emb",,0,0
@@ -12098,21 +13360,26 @@ large embryos:",,0,0
 "Small rotten embryo",,0,0
 "Small skull window",,0,0
 "Small skull windows",,0,0
+"Small soft embryo",,0,0
 "small soft embryos",,0,0
 "Small soft embryos.",,0,0
 "Small soft embs.",,0,0
 "Small to large embryos",,0,0
+"Small trace",,0,0
 "Small Trace Of Blood",,0,0
 "Small Trace Of Blood, Fresh",,0,0
 "Small Trace Of Blood>trace Of Bl",,0,0
 "Small Trace Of Blood>trace Of Blood",,0,0
 "Small Trace Of Blood>very Small ",,0,0
 "Small Trace Of Blood>very Small Emb",,0,0
+"Small, soft embroys",,0,0
 "small, soft embryos",,0,0
 "smallembryos",,0,0
+"Smaller cuckoo red thread, Rest ",,0,0
 "smaller egg fresh, larger fairly",,0,0
 "smaller egg fresh, larger fairly well set",,0,0
 "small-med embryos",,0,0
+"smashed, small embryo",,0,0
 "Smull windows",,0,0
 "SNFO",,0,0
 "SNFO 1 st winter",,0,0
@@ -12150,12 +13417,15 @@ large embryos:",,0,0
 "soft embryos 1/3",,0,0
 "Soft embryos- 5 days",,0,0
 "Soft Embryos In All",,0,0
+"soft embryos in all but 1 infert",,0,0
+"Soft embryos in both",,0,0
 "Soft embryos- probably one week",,0,0
 "Soft Embryos six days",,0,0
 "Soft embryos- well formed",,0,0
 "soft embryos, 1 infertile",,0,0
 "soft embryos; 1 addled",,0,0
 "Soft embryos; infertile",,0,0
+"soft embryos; sets about equally",,0,0
 "soft formed embryos",,0,0
 "Soft small embryos",,0,0
 "Soft tiny embryos",,0,0
@@ -12172,11 +13442,13 @@ large embryos:",,0,0
 "some 10 days incubated",,0,0
 "Some 2 weeks incubation",,0,0
 "some 2/3 some just started",,0,0
+"Some 5 days advanced.",,0,0
 "some 5 days incubated",,0,0
 "some advanced",,0,0
 "some days",,0,0
 "Some eggs hatched in wild; two y",,0,0
 "Some eggs hatched in wild; two young fledged.",,0,0
+"Some fresh and other begun",,0,0
 "Some fresh and some slightly inc",,0,0
 "Some fresh and some slightly incubated.",,0,0
 "Some fresh others started",,0,0
@@ -12185,9 +13457,12 @@ large embryos:",,0,0
 "Some Fresh, Commenced",,0,0
 "some fresh, others begun",,0,0
 "Some fresh, others strong",,0,0
+"Some fresh, some slight",,0,0
 "Some fresh, some slight.",,0,0
+"Some Fresh, Somes partly.",,0,0
 "some hours",,0,0
 "some incubation",,0,0
+"some incubation--addled",,0,0
 "Some of the eggs seem quite fres",,0,0
 "Some of the eggs seem quite fresh while others wer",,0,0
 "Some small embryos.",,0,0
@@ -12196,10 +13471,13 @@ large embryos:",,0,0
 "Some well incubated, some fresh",,0,0
 "Some well started, some fresh.",,0,0
 "some what",,0,0
+"some--addled/infertile",,0,0
+"Something",,0,0
 "Somewhat",,0,0
 "somewhat advanced",,0,0
 "somewhat advanced (6 days)",,0,0
 "Somewhat advanced (7 days)",,0,0
+"Somewhat advanced but variable",,0,0
 "somewhat incubated",,0,0
 "Somewhat progressed",,0,0
 "somewhat started",,0,0
@@ -12220,8 +13498,11 @@ large embryos:",,0,0
 "spike horn",,0,0
 "spoiled",,0,0
 "spotted egg",,0,0
+"Squabed just formed",,0,0
 "Sr. legade",,0,0
 "stage 1",,0,0
+"Stage of Incubation - 1st",,0,0
+"Stage of Incubation - Beginning",,0,0
 "stagnate deserted",,0,0
 "stained",,0,0
 "stale",,0,0
@@ -12245,6 +13526,7 @@ large embryos:",,0,0
 "started (3-5 days)",,0,0
 "Started (4)",,0,0
 "started (about 1/2)",,0,0
+"started (about 1/5)",,0,0
 "Started (blood)",,0,0
 "started (ea. 1/8)",,0,0
 "Started 1/2 inc.",,0,0
@@ -12253,6 +13535,7 @@ large embryos:",,0,0
 "Started 2 infertile",,0,0
 "Started 26 May 1987",,0,0
 "started 3 days",,0,0
+"Started 4-6 days",,0,0
 "Started about  (1/3)",,0,0
 "started about 1/5",,0,0
 "started and 3 days",,0,0
@@ -12263,6 +13546,7 @@ large embryos:",,0,0
 "started and hatched",,0,0
 "started and trace",,0,0
 "Started And Two Days",,0,0
+"Started blood traces",,0,0
 "started bloody",,0,0
 "Started- bloody yellow",,0,0
 "started in 4",,0,0
@@ -12285,6 +13569,7 @@ large embryos:",,0,0
 "Started- obviously the work of t",,0,0
 "Started- obviously the work of two birds",,0,0
 "started one fourth",,0,0
+"Started or well started",,0,0
 "started slight",,0,0
 "Started slightly",,0,0
 "Started to 1/2",,0,0
@@ -12301,6 +13586,7 @@ large embryos:",,0,0
 Started",,0,0
 "started, 1 infertile",,0,0
 "started, 2 infertile",,0,0
+"Started, 3-5 days",,0,0
 "STARTED, BIRD FLUSHED",,0,0
 "Started, But Slight",,0,0
 "Started, eyes formed.",,0,0
@@ -12311,12 +13597,14 @@ Started",,0,0
 "started. 2 more than others",,0,0
 "Started. About fresh to several ",,0,0
 "Started. About fresh to several days",,0,0
+"Started. About half.",,0,0
 "Started; 1 Fresh",,0,0
 "Started; 1 fresh.",,0,0
 "started; 2 fresh",,0,0
 "started; 3/4 incubated",,0,0
 "started; about 1/4 along",,0,0
 "Started; bloody",,0,0
+"Started; one egg only was fertil",,0,0
 "Started\",,0,0
 "started-bloody",,0,0
 "Started-nest empty on the 29th &",,0,0
@@ -12325,18 +13613,24 @@ Started",,0,0
 "Starterd",,0,0
 "Starting",,0,0
 "starting to dicompose",,0,0
+"Stated",,0,0
 "sterile",,0,0
 "sterile - probably sat upon 5 da",,0,0
+"sterile to 1/3",,0,0
 "stillborn calf",,0,0
 "stillborn with egg sac",,0,0
 "stillborn with yolk sac",,0,0
+"stopped often begun",,0,0
+"Striclty fresh eggs!",,0,0
 "stricly fresh",,0,0
 "Strictly fresh",,0,0
+"Strictly fresh, All fresh",,0,0
 "strong",,0,0
 "sub",,0,0
 "sub ad.",,0,0
 "sub adult",,0,0
 "Sub Adult?","subadult",0,1
+"sub(?)adult",,0,0
 "sub.",,0,0
 "Sub. Ad.",,0,0
 "Sub.Ad.",,0,0
@@ -12396,6 +13690,7 @@ Started",,0,0
 "Sub-adult; skull not completely ",,0,0
 "Sub-adult; skull not completely oss.",,0,0
 "Subadult?",,0,0
+"sub-adult?",,0,0
 "sub-adults","subadult",0,1
 "SUB-DEFINITIVE PLUMAGE; BURSA 10",,0,0
 "SUB-DEFINITIVE PLUMAGE; BURSA 2 ",,0,0
@@ -12474,24 +13769,30 @@ Started",,0,0
 "TADPOLES AND EGGS",,0,0
 "TADPOLES AND TRANSFORMING",,0,0
 "TADPOLES OR TRANSFORMING",,0,0
+"Taken",,0,0
 "Taken at midnight!",,0,0
 "taken from oviduct",,0,0
 "Taken out of bird.",,0,0
 "taken place",,0,0
 "Taken when bird began to sit",,0,0
 "taking place",,0,0
+"ten - twelve days",,0,0
 "Ten Days",,0,0
 "Tens days",,0,0
 "Tern 1/4; Grebe 1/3",,0,0
 "Tern 1/4; Grebe 1/4",,0,0
 "Tested fresh",,0,0
+"Tested fresh, but they lied.",,0,0
 "Th",,0,0
 "The egg was dented when picked u",,0,0
 "The egg was dented when picked up and appently con",,0,0
 "The eggs were fresh. Incubation ",,0,0
 "The eggs were fresh. Incubation had just begun.",,0,0
+"the eyes and soft bones of the e",,0,0
+"The eyes of the chick were forme",,0,0
 "The last egg was laid around Feb",,0,0
 "The last egg was laid around Feb. 15th.",,0,0
+"the yolks almost filled with blo",,0,0
 "Thick (nest deserted)",,0,0
 "Thick, bloody yolks",,0,0
 "third",,0,0
@@ -12553,8 +13854,10 @@ Started",,0,0
 "Three of the eggs were in nest A",,0,0
 "Three of the eggs were in nest April 10",,0,0
 "three or four days",,0,0
+"Three or four days from hatchlin",,0,0
 "Three quarters",,0,0
 "three weeks",,0,0
+"Three weeks or more",,0,0
 "three well advanced the others a",,0,0
 "three well advanced the others addled",,0,0
 "Three young hatched in wild",,0,0
@@ -12578,12 +13881,16 @@ Started",,0,0
 "to blood.",,0,0
 "toadlets",,0,0
 "Tom-",,0,0
+"Too badly incubated",,0,0
 "too incubated to be saved",,0,0
 "tough + bloody",,0,0
+"Tough embroyos",,0,0
 "Tough Embryos",,0,0
 "Tough embryos, one infertile",,0,0
+"Towhee very advanced; Cowbird sl",,0,0
 "tr.-av.",,0,0
 "Trace",,0,0
+"trace - addled",,0,0
 "trace - advanced",,0,0
 "trace - slight",,0,0
 "trace & 1/4",,0,0
@@ -12607,6 +13914,7 @@ Started",,0,0
 "trace in all 4 eggs",,0,0
 "Trace in all eggs",,0,0
 "trace in all eggs.",,0,0
+"trace in both eggs",,0,0
 "Trace in both eggs.",,0,0
 "trace in one & fresh",,0,0
 "trace in one and fresh",,0,0
@@ -12614,6 +13922,7 @@ Started",,0,0
 "trace in one egg. (One egg taken",,0,0
 "trace in one egg. (One egg taken from female)",,0,0
 "trace in one or two eggs; incuba",,0,0
+"trace in Parus major",,0,0
 "trace in some, mainly fresh",,0,0
 "trace in some--1 day",,0,0
 "Trace in three eggs",,0,0
@@ -12694,6 +14003,7 @@ Started",,0,0
 "tres advancee",,0,0
 "tres incubes",,0,0
 "Trifling",,0,0
+"True",,0,0
 "Turning",,0,0
 "Turning 1/2",,0,0
 "twelve days",,0,0
@@ -12708,11 +14018,13 @@ Started",,0,0
 "Two 28 Day Old Chicks",,0,0
 "Two about 1/3. One about 1/4",,0,0
 "Two about 1/4. One about 1/3",,0,0
+"Two addled and one 3/4",,0,0
 "Two addled eggs + fragments",,0,0
 "Two addled eggs collected; two o",,0,0
 "Two addled eggs collected; two other eggs hatched",,0,0
 "two addled, one advanced three-f",,0,0
 "two addled, one advanced three-fourths",,0,0
+"Two begun; 3 infertile",,0,0
 "two chicks",,0,0
 "Two Chicks 25 Days Old",,0,0
 "Two Day",,0,0
@@ -12722,6 +14034,7 @@ Started",,0,0
 "Two Days Incubated",,0,0
 "Two days on last egg",,0,0
 "Two eggs advanced and two fresh",,0,0
+"Two eggs advanced; four fresh",,0,0
 "Two eggs already broken when col",,0,0
 "Two eggs already broken when collected by bridge i",,0,0
 "Two eggs apparently fresh and tw",,0,0
@@ -12740,6 +14053,9 @@ Started",,0,0
 "Two eggs infertile, two eggs unk",,0,0
 "Two eggs infertile, two eggs unknown.",,0,0
 "Two eggs just started. One egg 3",,0,0
+"two eggs last Sunday",,0,0
+"Two eggs nearly fresh, two consi",,0,0
+"two eggs perfectly fresh (2 of t",,0,0
 "Two eggs were laid in this nest ",,0,0
 "Two eggs were laid in this nest but then deserted",,0,0
 "Two eyases of unkown sex produce",,0,0
@@ -12754,6 +14070,7 @@ Started",,0,0
 "Two fresh. Four about 1/4 advanced",,0,0
 "Two Fresh: Two Commenced",,0,0
 "Two Fresh; 3 Begun",,0,0
+"Two fresh; one nearly",,0,0
 "Two fresh; one with visible embr",,0,0
 "Two fresh; one with visible embryo",,0,0
 "Two Fresh; Three Started",,0,0
@@ -12770,6 +14087,7 @@ Started",,0,0
 "Two nestlings hatched 6 May; killed by female Coop",,0,0
 "two newly hatched",,0,0
 "Two of four eggs hatched.",,0,0
+"Two of the eggs incubation advan",,0,0
 "two or three days",,0,0
 "Two Ready To Fledge",,0,0
 "Two rotted, One piped",,0,0
@@ -12781,14 +14099,17 @@ Started",,0,0
 "Two Slight And Two Addled",,0,0
 "Two slight; 2 infertile",,0,0
 "Two slight; two advanced",,0,0
+"Two slightly; 1 badly incubated",,0,0
 "two third",,0,0
 "two thirds",,0,0
 "Two Thirds Advanced",,0,0
 "Two thirds incubated",,0,0
 "Two thirds or more.",,0,0
 "two thirds, two infertile",,0,0
+"Two thirds. One addled",,0,0
 "two thirds; 1 infertile",,0,0
 "two thirds; one infertile",,0,0
+"two thirds; two infertile",,0,0
 "two very bad",,0,0
 "two weeks",,0,0
 "Two weeks advanced",,0,0
@@ -12808,6 +14129,7 @@ Started",,0,0
 "Twoo eyases fledged from eyrie, ",,0,0
 "Twoo eyases fledged from eyrie, possible a third f",,0,0
 "Two-Third",,0,0
+"Two-third incubated",,0,0
 "two-thirds",,0,0
 "Two-thirds Advanced",,0,0
 "two-thirds advanced- one inferti",,0,0
@@ -12819,6 +14141,7 @@ Started",,0,0
 "Two-thirds incubated; 1 infertile",,0,0
 "Two-thirds incubated; 2 infertil",,0,0
 "Two-thirds incubated; 2 infertile",,0,0
+"Two-thirds; 1 infertile",,0,0
 "TY","third year",0,1
 "TY or ATY by plumage",,0,0
 "U",,0,0
@@ -12830,21 +14153,26 @@ Started",,0,0
 "Under way",,0,0
 "underlined ad",,0,0
 "underlined juv",,0,0
+"underway",,0,0
 "unequal",,0,0
+"uneven",,0,0
 "uneven, 1/4 to 1/2",,0,0
 "Uneven, fresh to 1/2",,0,0
 "Uneven, slight to 1/2",,0,0
 "Uneven, slight to 1/3",,0,0
 "uneven, up to 3/4",,0,0
+"uneven; advanced about from five",,0,0
 "Unevenly advanced",,0,0
 "unfertile",,0,0
 "unfertile (stale)",,0,0
 "unfresh",,0,0
 "Unhatched (depredated?) shell",,0,0
 "Unhatched chick",,0,0
+"unhatched from former year",,0,0
 "uniformly one-third advanced",,0,0
 "Unincubated",,0,0
 "Unincubated And Slightly Addled",,0,0
+"unincubated?",,0,0
 "Unk","unknown",0,0
 "unk.",,0,0
 "unknown","unknown",1,1
@@ -12853,9 +14181,11 @@ Started",,0,0
 "Unknown: egg cracked open and dr",,0,0
 "Unknown: egg cracked open and dried.",,0,0
 "Unknown; from prior year",,0,0
+"Unknown; specimens dried",,0,0
 "Unkown",,0,0
 "Unpaired female",,0,0
 "unsorted",,0,0
+"Unsuccessful",,0,0
 "unusually even small embryos",,0,0
 "up to 25%",,0,0
 "UR","unknown",0,1
@@ -12869,6 +14199,8 @@ Started",,0,0
 "v. slight, 1 infertile",,0,0
 "v. small embryos",,0,0
 "v. small embryos (decomposed)",,0,0
+"V.F.A. (see card)",,0,0
+"v.h. wic (see card)",,0,0
 "V.S. (very slight?)",,0,0
 "V: Fres to Moderate",,0,0
 "V: Fresh to Moderate",,0,0
@@ -12916,6 +14248,7 @@ Started",,0,0
 "Variable from very slight to sma",,0,0
 "Variable from very slight to small embryos",,0,0
 "variable moderate",,0,0
+"variable- moderate & fresh",,0,0
 "Variable slight to small embryos",,0,0
 "Variable- slight to trace embryo",,0,0
 "Variable- slight to trace embryos",,0,0
@@ -12949,6 +14282,8 @@ Started",,0,0
 "Variable-see data card",,0,0
 "variable-somewhat advanced",,0,0
 "varied",,0,0
+"varied (2 one-half and 1 badly)",,0,0
+"varied 1/3 to fresh",,0,0
 "varied from 3 to 8 days",,0,0
 "varied from considerable to adva",,0,0
 "varied from considerable to advanced",,0,0
@@ -12966,24 +14301,34 @@ Started",,0,0
 "Various- all started",,0,0
 "various stages",,0,0
 "various stages - 2 eggs were in ",,0,0
+"various stages - to far advanced",,0,0
 "various stages (fresh-lain egg, ",,0,0
 "various stages (fresh-lain egg, large tough embryo",,0,0
 "Various stages of incubation fro",,0,0
 "Various stages of incubation from fresh to advance",,0,0
 "various: 1st egg laid 4/12, and ",,0,0
 "various: 1st egg laid 4/12, and last 4/29",,0,0
+"various: from nearly fresh to we",,0,0
 "Various; one fresh",,0,0
 "Various-about 1 week",,0,0
 "varius up to half",,0,0
 "Varous stages-heavy",,0,0
 "varying",,0,0
+"varying - slight to well begun",,0,0
+"varying - well begun to 1/4",,0,0
+"varying 1/3 to 1/2",,0,0
 "Varying- fresh to advanced",,0,0
+"varying from 1/4 to 1/3",,0,0
+"Varying from advanced to one egg",,0,0
+"varying from fresh to a little a",,0,0
 "Varying from slight to advanced",,0,0
 "Varying from slight to well form",,0,0
 "Varying from slight to well formed embryos",,0,0
 "varying, fresh to 1/2",,0,0
 "varying, infertile",,0,0
+"Varying: one fresh, one slight, ",,0,0
 "Varying; 3 slight, 1 addled",,0,0
+"Varying; fresh to slight",,0,0
 "Vbl from F(infertile?) to v smal",,0,0
 "Vbl from F(infertile?) to v small embryos",,0,0
 "Vbl from fresh to considerable",,0,0
@@ -12996,20 +14341,28 @@ Started",,0,0
 "veined",,0,0
 "veins formed",,0,0
 "vern.",,0,0
+"Vert slight",,0,0
 "very",,0,0
 "very  fresh",,0,0
 "very addled; ca. 1mm embryo",,0,0
 "very adv.",,0,0
 "very advanced",,0,0
+"very advanced - dry in shell",,0,0
 "very advanced (15-25 days)",,0,0
 "very advanced incubation",,0,0
+"very advanced, cuckoo fresh",,0,0
 "Very advanced. 4 or 5 days to ha",,0,0
+"Very advanced; one to two or thr",,0,0
 "very bad",,0,0
 "Very bad; feathered",,0,0
+"Very badl incubated",,0,0
+"very badly incubated",,0,0
 "very chicked",,0,0
 "very considerable",,0,0
+"Very considerable indeed",,0,0
 "very considerable, addled",,0,0
 "Very considerably",,0,0
+"Very far - feathers",,0,0
 "Very far adv.",,0,0
 "very far advanced",,0,0
 "very far advanced (boned embryos",,0,0
@@ -13017,10 +14370,15 @@ Started",,0,0
 "Very far along",,0,0
 "very fresh",,0,0
 "very fresh - laid 10-12 Jan",,0,0
+"very fresh and fresh",,0,0
+"very fresh, 1 egg laid that day",,0,0
+"Very greatly advanced",,0,0
 "very hard",,0,0
 "very hard set",,0,0
 "very heavily incubated",,0,0
 "very heavy",,0,0
+"Very heavy (very advanced)",,0,0
+"Very heavy.",,0,0
 "Very heavy. 1 broken",,0,0
 "very heavy: 1 not saved",,0,0
 "very heavy?",,0,0
@@ -13050,7 +14408,9 @@ Started",,0,0
 "Very slight (4) None noticeable ",,0,0
 "Very slight (lemon colored yolks",,0,0
 "Very slight (lemon colored yolks)",,0,0
+"very slight (no yolk in runt)",,0,0
 "very slight (unfertile)",,0,0
+"Very slight and fresh",,0,0
 "Very slight and slight",,0,0
 "very slight and slight trace",,0,0
 "very slight blood traces",,0,0
@@ -13058,12 +14418,14 @@ Started",,0,0
 "Very slight- bloody but no embryo formed",,0,0
 "very slight embryos",,0,0
 "very slight in all eggs",,0,0
+"Very slight incubation.",,0,0
 "very slight or none",,0,0
 "very slight red",,0,0
 "very slight to embryos formed",,0,0
 "very slight to embryos just show",,0,0
 "very slight to embryos just showing",,0,0
 "very slight to fresh",,0,0
+"very slight to slight",,0,0
 "Very slight to small embryos",,0,0
 "very slight to three days",,0,0
 "very slight trace",,0,0
@@ -13077,6 +14439,7 @@ Started",,0,0
 "very slight, almost fresh, but uniform",,0,0
 "Very slight, one infertile",,0,0
 "very slight, slight",,0,0
+"very slight, slight, no developm",,0,0
 "very slight, slightly bloody",,0,0
 "Very slight, two days",,0,0
 "Very slight; Addled",,0,0
@@ -13132,8 +14495,10 @@ Started",,0,0
 "Was very slight",,0,0
 "water checked",,0,0
 "weak",,0,0
+"Weak or more",,0,0
 "week",,0,0
 "week ---",,0,0
+"Week or more",,0,0
 "Week.",,0,0
 "well",,0,0
 "well  began",,0,0
@@ -13141,6 +14506,8 @@ Started",,0,0
 "well adv.",,0,0
 "Well Advance",,0,0
 "Well Advanced",,0,0
+"well advanced - 1 egg pipped",,0,0
+"well advanced - probably 1/2",,0,0
 "Well advanced ( 1 infertile)",,0,0
 "Well advanced- about 1/2",,0,0
 "well advanced and variable",,0,0
@@ -13148,13 +14515,18 @@ Started",,0,0
 "well advanced in 2 - others addled",,0,0
 "well advanced, 1 egg more so tha",,0,0
 "well advanced, 1 egg more so than 2 others and 4th",,0,0
+"well advanced, bones hard",,0,0
 "Well advanced, small egg inferti",,0,0
 "Well advanced, small egg infertile",,0,0
 "Well advanced.",,0,0
+"Well advanced; embryos formed",,0,0
 "Well along",,0,0
+"Well along - double yolk",,0,0
+"Well along (1/4)",,0,0
 "Well along (5-6 days)",,0,0
 "Well along 1/4",,0,0
 "well along 90%",,0,0
+"well along about 1/3",,0,0
 "Well along in incubation; feathe",,0,0
 "Well along in incubation; feathers showing on chic",,0,0
 "Well along- one addled",,0,0
@@ -13172,9 +14544,12 @@ Started",,0,0
 "Well Begun (about A Week)",,0,0
 "Well begun (red membrane)",,0,0
 "well begun 1/5",,0,0
+"Well begun- 4-5 days",,0,0
 "well begun embryos",,0,0
 "Well begun in 1. 2 unfirtle",,0,0
+"well begun in 4, runt egg infert",,0,0
 "Well begun in all",,0,0
+"Well begun in all 4 eggs",,0,0
 "Well begun in all eggs",,0,0
 "Well begun- soft embryos",,0,0
 "Well begun to advanced",,0,0
@@ -13183,22 +14558,28 @@ Started",,0,0
 "Well begun, different stages.",,0,0
 "well begun, embryos",,0,0
 "well begun, infertile",,0,0
+"Well begun, more so in one.",,0,0
 "well begun, nest deserted",,0,0
 "well begun, one egg particularly",,0,0
 "well begun, runt infertile",,0,0
 "Well begun.",,0,0
+"Well begun. 1 almost fresh.",,0,0
 "well begun: 2 , fresh: 3",,0,0
+"Well begun; 1/3",,0,0
 "well begun; about 1/4",,0,0
 "well begun-feathers",,0,0
 "Well begun-one fresh",,0,0
 "well bloodshot",,0,0
 "well commenced",,0,0
+"Well commenced ;1/2 addeled",,0,0
+"Well commenced in both",,0,0
 "well commenced.  Contents very t",,0,0
 "Well developed",,0,0
 "Well developed but soft embryos",,0,0
 "well developed embroys",,0,0
 "Well Developed Embryo",,0,0
 "well developed embryos",,0,0
+"Well developed embryos, each one",,0,0
 "well developed young",,0,0
 "well developed/hard embryos",,0,0
 "Well f d embryos",,0,0
@@ -13231,6 +14612,7 @@ Started",,0,0
 "Well set; embryos soft",,0,0
 "Well starte",,0,0
 "Well Started",,0,0
+"well started (2/5)",,0,0
 "well started = 1/2",,0,0
 "well started in 4, 1 fresh",,0,0
 "Well started in all",,0,0
@@ -13238,9 +14620,11 @@ Started",,0,0
 "well started to 1/2",,0,0
 "Well started to over 1/2",,0,0
 "well started, about 1/2",,0,0
+"well started, embryo formed",,0,0
 "Well started.",,0,0
 "Well started. Eggs missing.",,0,0
 "well under way",,0,0
+"well under way (heavy)",,0,0
 "Well under way.",,0,0
 "well underway",,0,0
 "well-advanced",,0,0
@@ -13263,6 +14647,7 @@ Started",,0,0
 "Whole egg and fragments. Three young hatched in wi",,0,0
 "Whole egg collected that had rol",,0,0
 "Whole egg collected that had rolled out of a nest ",,0,0
+"Whole egg had small embryo--smal",,0,0
 "Whole egg weight: 1 5.936g small",,0,0
 "Whole egg weight: 1 5.936g small embryo 2 5.934g s",,0,0
 "Whole egg weights: 1) 4.179 fres",,0,0
@@ -13295,18 +14680,24 @@ Started",,0,0
 "With blood",,0,0
 "with eggs",,0,0
 "with nest eggs",,0,0
+"Within 2 days of hatching",,0,0
+"Within 24 Hours of hatching.",,0,0
+"Within 24-48 hours of hatching",,0,0
 "Within 4 days",,0,0
 "within 4 days of hatching/ addle",,0,0
 "within 4 days of hatching/ addled",,0,0
+"within a few days of hatching",,0,0
 "Without embryo",,0,0
 "wren piped - 495 fresh",,0,0
 "x",,0,0
+"X  7/6",,0,0
 "X130 Fresh, others broken",,0,0
 "XXX",,0,1
 "y.g. juven.",,0,0
 "yd",,0,0
 "yearling","yearling",1,1
 "yearling to ad.","yearling, adult",0,1
+"Yellow-billed Cuckoo highly incu",,0,0
 "yes",,0,1
 "yes (checkmark)",,0,1
 "Yes, Advanced",,0,1
@@ -13321,7 +14712,9 @@ Started",,0,0
 "Yolk adhering to shell",,0,0
 "yolk sac","yolk sac",0,1
 "Yolk solidified",,0,0
+"Yolks bloodshot",,0,0
 "Yolks bloody",,0,0
+"Yolks dry, no development",,0,0
 "yolk-sac","yolk sac",0,1
 "young","juvenile",0,1
 "Young + Adult",,0,0
@@ -13330,8 +14723,10 @@ Started",,0,0
 "young adult",,0,0
 "young adults","young adult",0,1
 "young bird",,0,0
+"Young Birds; C",,0,0
 "Young Fledged",,0,0
 "Young fledged 7/27 & 7/29 1987",,0,0
+"young flown",,0,0
 "young formed",,0,0
 "young hatched",,0,0
 "Young hatched from nest in wild.",,0,0
@@ -13340,6 +14735,7 @@ Started",,0,0
 "Young in nest were approx 15 days old.",,0,0
 "Young killed by fire ants",,0,0
 "young killed by predator",,0,0
+"young much formed",,0,0
 "Young Observed",,0,0
 "young of year",,0,0
 "young?",,0,0

@@ -571,6 +571,7 @@
 "Abyssinia?",,0,1
 "Abyssinia? [Ethiopia]","ET",0,1
 "Adaman Is.","IN",0,1
+"Aden (now Yemen)","YE",0,1
 "Admiralty","PG",0,1
 "Admiralty Group","PG",0,1
 "Admiralty I.","PG",0,1
@@ -591,7 +592,7 @@
 "Africa?",,0,1
 "AFRICAN COUNTRIES",,0,1
 "Ain",,0,1
-"Akaba",,0,0
+"Akaba","JO",0,1
 "Alaska","US",0,1
 "Alaska; [Bearing Sea]","US",0,1
 "Albania","AL",1,1
@@ -5508,6 +5509,7 @@
 "Thailand (Siam)","TH",0,1
 "THAILAND?",,0,1
 "The Bahamas","BS",0,1
+"The Gambia","GM",0,1
 "THE NETHERLANDS","NL",0,1
 "The Philippines","PH",0,1
 "Thibet","CN",0,1
@@ -6186,7 +6188,9 @@
 "Yamdena Is.","ID",0,1
 "Yangasa Cluster I.","FJ",0,1
 "Yemen","YE",1,1
+"Yemen  (then Aden)","YE",0,1
 "Yemen (Southern Yemen)","YE",0,1
+"Yemen (then Aden)","YE",0,1
 "Yemen Arab Republic","YE",0,1
 "Yemen Arabia","YE",0,1
 "Yemen, South","YE",0,1

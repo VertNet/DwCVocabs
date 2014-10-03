@@ -1,4 +1,5 @@
 "georeferenceVerificationStatus","standardgeoreferenceVerificationStatus","standard","checked"
+"	Lindsey Mercer","verified by curator",0,1
 "[ORNIS]GeoreferenceVerificationS","unverified",0,1
 "c hecked, kc","verified by KC",0,1
 "check KC","verified by KC",0,1
@@ -18,6 +19,7 @@
 "checked, RS","verified by RS",0,1
 "checVerified by locality matchup","verified by curator",0,1
 "collector verified","verified by collector",0,1
+"collector's input required","unverified",0,1
 "curator verified","verified by curator",0,1
 "from BioGeomancer","unverified",0,1
 "no","unverified",0,1
@@ -25,7 +27,9 @@
 "not verified","unverified",0,1
 "ORNIS georef data exists but has","unverified",0,1
 "rchecked RS","verified by RS",0,1
+"Rebecca Gridley","verified by curator",0,1
 "requchecked DEK","verified by DEK",0,1
+"Requires input","unverified",0,1
 "requires verification","requires verification",1,1
 "unverified","requires verification",0,1
 "Vchecked, kc","verified by KC",0,1
