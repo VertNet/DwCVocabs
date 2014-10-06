@@ -5870,7 +5870,21 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "C&S Skeleton - 7",,0,0
 "C&S Skeleton - 8",,0,0
 "C&S Skeleton - 9",,0,0
+"C&S, Dry","cleared and stained, dry",0,1
 "C&S, dry skull","cleared and stain, dry skull",0,1
+"C&S, Dry, Fluid","cleared and stained, dry, fluid",0,1
+"C&S, Fluid","cleared and stained, fluid",0,1
+"C&S, Fluid, Dry","cleared and stained, dry, fluid",0,1
+"C&S, Fluid, Dry, Hemipenis","cleared and stained, dry, fluid, hemipenis",0,1
+"C&S, Fluid, Hemipenis","cleared and stained, fluid, hemipenis",0,1
+"C&S, Hemipenis, Fluid","cleared and stained, fluid, hemipenis",0,1
+"C&S, Hemipenis, Fluid, Dry","cleared and stained, dry, fluid, hemipenis",0,1
+"C&S, Microtechnique","cleared and stained, microtechnique",0,1
+"C&S, Microtechnique, Fluid","cleared and stained, fluid, microtechnique",0,1
+"C&S, Recording","cleared and stained, recording",0,1
+"C&S, Tissue","cleared and stained, tissue",0,1
+"C&S, Tissue, Dry, Hemipenis","cleared and stained, dry, hemipenis, tissue",0,1
+"C&S, Tissue, Fluid","cleared and stained, fluid, tissue",0,1
 "C,/2 M",,0,0
 "C,/L M FRAG,/R M,/R M3,P",,0,0
 "C,/M",,0,0
@@ -10981,7 +10995,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "dried whole",,0,0
 "dried with skeleton",,0,0
 "dRP4",,0,0
-"Dry","dry",0,1
+"Dry","dry",1,1
 "Dry eggshells","dry eggshells",0,1
 "Dry shell","dry eggshell",0,1
 "DRY SHELL, HEAD, TAIL AND LEG SKINS IN ALCOHOL, GONADS IN FORMALIN","dried shell, dried head, alcoholic tail and legs skins, gonads in formalin",0,1
@@ -11044,6 +11058,28 @@ R PERIPHERALS 2 - 3.",,0,0
 "DRY SKULL AND CLEARED AND STAINED BODY","cleared and stained, dried skull",0,1
 "Dry skull, C&S ","cleared and stained, dry skull",0,1
 "Dry specimen","dry specimen",1,1
+"Dry, C&S","cleared and stained, dry",0,1
+"Dry, C&S, Fluid","cleared and stained, dry, fluid",0,1
+"Dry, C&S, Hemipenis, Fluid","cleared and stained, dry, fluid, hemipenis",0,1
+"Dry, Dry","dry",0,1
+"Dry, Fluid","dry, fluid",1,1
+"Dry, Fluid, C&S","cleared and stained, dry, fluid",0,1
+"Dry, Fluid, C&S, Hemipenis","cleared and stained, dry, fluid, hemipenis",0,1
+"Dry, Fluid, Dry","dry, fluid",0,1
+"Dry, Fluid, Fluid","dry, fluid",0,1
+"Dry, Fluid, Hemipenis","dry, fluid, hemipenis",1,1
+"Dry, Fluid, Hemipenis, C&S","cleared and stained, dry, fluid, hemipenis",0,1
+"Dry, Fluid, Tissue","dry, fluid, tissue",1,1
+"Dry, Hemipenis","dry, hemipenis",1,1
+"Dry, Hemipenis, C&S, Fluid","cleared and stained, dry, fluid, hemipenis",0,1
+"Dry, Hemipenis, Dry","dry, hemipenis",0,1
+"Dry, Hemipenis, Dry, Fluid","dry, fluid, hemipenis",0,1
+"Dry, Hemipenis, Fluid","dry, fluid, hemipenis",0,1
+"Dry, Hemipenis, Microtechnique","dry, hemipenis, microtechnique",1,1
+"Dry, Microtechnique","dry, microtechnique",1,1
+"Dry, Recording","dry, recording",1,1
+"Dry, Tissue","dry, tissue",1,1
+"Dry, Tissue, Fluid","dry, fluid, tissue",0,1
 "DUNG","dung",0,1
 "Dung (dried)",,0,0
 "Dung pellets.",,0,0
@@ -13414,6 +13450,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid, blood sample taken",,0,0
 "Fluid, blood, bursa, H, L, M [saved]; tissue T-645; Tissue, blood, bursa, H, L, M [saved]; tissue T-645",,0,0
 "Fluid, Breast muscle",,0,0
+"Fluid, C&S","cleared and stained, fluid",0,1
+"Fluid, C&S, Dry","dry, cleared and stained, fluid",0,1
+"Fluid, C&S, Dry, Fluid","dry, cleared and stained, fluid",0,1
+"Fluid, C&S, Dry, Hemipenis","cleared and stained, dry, fluid, hemipenis",0,1
+"Fluid, C&S, Hemipenis","cleared and stained, fluid, hemipenis",0,1
 "fluid, carapace",,0,0
 "Fluid, cleaned in Stodsol 20 Apr, preserved 21 Apr; Syrinx, cleaned in Stodsol 20 Apr, preserved 21 Apr",,0,0
 "fluid, cleared and stained",,0,0
@@ -13423,8 +13464,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "fluid, digital image, electric organ discharge recording",,0,0
 "fluid, digital image, tissue, electric organ discharge recording",,0,0
 "Fluid, dissected; Tissue; Syrinx",,0,0
+"Fluid, Dry","dry, fluid",0,1
 "fluid, dry skeleton",,0,0
 "fluid, dry skeleton, cleared and stained",,0,0
+"Fluid, Dry, C&S","dry, cleared and stained, fluid",0,1
+"Fluid, Dry, C&S, Hemipenis","cleared and stained, dry, fluid, hemipenis",0,1
+"Fluid, Dry, Fluid","dry, fluid",0,1
+"Fluid, Dry, Hemipenis","dry. fluid, hemipenis",0,1
+"Fluid, Dry, Hemipenis, Dry","dry. fluid, hemipenis",0,1
+"Fluid, Dry, Tissue","dry, fluid, tissue",0,1
 "fluid, egg",,0,0
 "fluid, electric organ discharge recording",,0,0
 "fluid, electric organ discharge recording, photograph",,0,0
@@ -13436,14 +13484,25 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid, fixed in buffered formalin and salt; mallophaga preserved",,0,0
 "Fluid, fixed in buffered formalin and salt; Syrinx, fixed in buffered formalin and salt",,0,0
 "Fluid, fixed in formalin and salt",,0,0
-"fluid, fluid",,0,0
+"fluid, fluid","fluid",0,1
+"Fluid, Fluid, Dry","dry, fluid",0,1
+"Fluid, Fluid, Dry, Tissue","dry, fluid, tissue",0,1
+"Fluid, Fluid, Hemipenis","fluid, hemipenis",0,1
 "fluid, fluid, photograph",,0,0
+"Fluid, Fluid, Tissue","fluid, tissue",0,1
 "Fluid, Glans","fluid, glans",1,1
 "Fluid, Glans, Karyotype","fluid, glans, karyotype",1,1
 "Fluid, Glans, Karyotype, Skin","fluid, glans, karyotype, skin",1,1
 "Fluid, Glans, Skin, Skull","fluid, glans, skin, skull",1,1
 "Fluid, Glans, Skull","fluid, glans, skull",1,1
 "Fluid, Head only, Head only, Head only",,0,0
+"Fluid, Hemipenis","fluid, hemipenis",1,1
+"Fluid, Hemipenis, C&S","cleared and stained, fluid, hemipenis",0,1
+"Fluid, Hemipenis, C&S, Dry","cleared and stained, dry, fluid, hemipenis",0,1
+"Fluid, Hemipenis, Dry","dry, fluid, hemipenis",0,1
+"Fluid, Hemipenis, Dry, C&S","cleared and stained, dry, fluid, hemipenis",0,1
+"Fluid, Hemipenis, Hemipenis","fluid, hemipenis",0,1
+"Fluid, Hemipenis, Microtechnique","fluid, hemipenis, microtechnique",1,1
 "fluid, karyo/col, skull","fluid, karyotype, skull",0,1
 "fluid, karyo/NC","fluid, karyotype",0,1
 "Fluid, karyo/NC, skin Skin, skull Skull","fluid, karyotype, skin, skull",0,1
@@ -13461,6 +13520,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid, karytype, skin, skull","fluid, karytype, skin, skull",1,1
 "fluid, karytype, skull","fluid, karytype, skull",1,1
 "Fluid, lesueurii","fluid",0,1
+"Fluid, Microtechnique","fluid, microtechnique",1,1
+"Fluid, Microtechnique, Hemipenis, Tissue","fluid, hemipenis, microtechnique, tissue",0,1
+"Fluid, Microtechnique, Microtechnique","fluid, microtechnique",0,1
+"Fluid, Microtechnique, Microtechnique, Microtechnique, Tissue","fluid, microtechnique, tissue",0,1
+"Fluid, Microtechnique, Microtechnique, Tissue","fluid, microtechnique, tissue",0,1
+"Fluid, Microtechnique, Microtechnique, Tissue, Microtechnique","fluid, microtechnique, tissue",0,1
+"Fluid, Microtechnique, Recording","fluid, microtechnique, recording",1,1
+"Fluid, Microtechnique, Tissue","fluid, microtechnique, tissue",1,1
+"Fluid, Misc","fluid, miscellaneous",1,1
 "fluid, miscellaneous",,0,0
 "fluid, miscellaneous, tissue, miscellaneous",,0,0
 "Fluid, PART, Skin","fluid, partial skeleton, skin",0,1
@@ -13471,6 +13539,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "fluid, photograph, tissue",,0,0
 "fluid, photograph, tissue, electric organ discharge recording, tissue",,0,0
 "Fluid, preserved in formalin and salt",,0,0
+"Fluid, Recording","fluid, recording",1,1
+"Fluid, Recording, Microtechnique","fluid, microtechnique, recording",0,1
+"Fluid, Recording, Tissue","fluid, recording, tissue",1,1
 "Fluid, Skeleton","fluid, skeleton",1,1
 "Fluid, Skeleton, Skin","fluid, skeleton, skin",1,1
 "Fluid, Skeleton, Skin, Skull","fluid, skeleton, skin, skull",1,1
@@ -13515,12 +13586,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "fluid, tissue, cleared and stained",,0,0
 "fluid, tissue, cleared and stained, tissue",,0,0
 "fluid, tissue, cleared and stained, tissue, tissue",,0,0
+"Fluid, Tissue, Dry","dry, fluid, tissue",0,1
 "fluid, tissue, dry skeleton",,0,0
 "fluid, tissue, electric organ discharge recording",,0,0
 "fluid, tissue, electric organ discharge recording, photograph, tissue",,0,0
-"fluid, tissue, fluid",,0,0
+"fluid, tissue, fluid","fluid, tissue",0,1
+"Fluid, Tissue, Microtechnique","fluid, microtechnique, tissue",0,1
+"Fluid, Tissue, Microtechnique, Hemipenis","fluid, hemipenis, microtechnique, tissue",0,1
 "fluid, tissue, photograph",,0,0
 "fluid, tissue, photograph, tissue",,0,0
+"Fluid, Tissue, Recording","fluid, recording, tissue",0,1
 "fluid, tissue, slide",,0,0
 "Fluid, Tissue, Tissue",,0,0
 "fluid, tissue, tissue, electric organ discharge recording",,0,0
@@ -14734,7 +14809,23 @@ R PERIPHERALS 2 - 3.",,0,0
 "hemal arch",,0,0
 "HEMIPENE (GLYCERIN)","hemipene (glycerin)",0,1
 "HEMIPENES (GLYCERIN)","hemipenes (glycerin)",0,1
+"Hemipenis","hemipenis",1,1
 "HEMIPENIS (GLYCERIN)","hemipenes (glycerin)",0,1
+"Hemipenis, C&S, Dry, Fluid","cleared and stained, dry, fluid, hemipenis",0,1
+"Hemipenis, C&S, Fluid","cleared and stained, fluid, hemipenis",0,1
+"Hemipenis, Dry","dry, hemipenis",0,1
+"Hemipenis, Dry, C&S, Fluid","cleared and stained, dry, fluid, hemipenis",0,1
+"Hemipenis, Dry, C&S, Fluid, Fluid","cleared and stained, dry, fluid, hemipenis",0,1
+"Hemipenis, Dry, Dry","dry, hemipenis",0,1
+"Hemipenis, Dry, Fluid","dry, fluid, hemipenis",0,1
+"Hemipenis, Fluid","fluid, hemipenis",0,1
+"Hemipenis, Fluid, C&S","cleared and stained, fluid, hemipenis",0,1
+"Hemipenis, Fluid, Dry","dry, fluid, hemipenis",0,1
+"Hemipenis, Fluid, Dry, C&S","cleared and stained, dry, fluid, hemipenis",0,1
+"Hemipenis, Fluid, Fluid","fluid, hemipenis",0,1
+"Hemipenis, Fluid, Fluid, Dry","dry, fluid, hemipenis",0,1
+"Hemipenis, Microtechnique, Fluid","fluid, hemipenis, microtechnique",0,1
+"Hemipenis, Tissue, Dry","dry, hemipenis, tissue",0,1
 "hide",,0,0
 "Hide (17 inches x 16 inches)",,0,0
 "Hide (8 inches x 14 inches)",,0,0
@@ -23074,7 +23165,28 @@ R PERIPHERALS 2 - 3.",,0,0
 "METATARSUS 3",,0,0
 "METATASAL",,0,0
 "metcarpal 4",,0,0
+"Microtechnique, Dry","dry, microtechnique",0,1
+"Microtechnique, Fluid","fluid, microtechnique",0,1
+"Microtechnique, Fluid, Hemipenis","fluid, hemipenis, microtechnique",0,1
+"Microtechnique, Fluid, Microtechnique","fluid, microtechnique",0,1
+"Microtechnique, Fluid, Microtechnique, Microtechnique","fluid, microtechnique",0,1
+"Microtechnique, Fluid, Microtechnique, Microtechnique, Tissue","fluid, microtechnique, tissue",0,1
+"Microtechnique, Fluid, Microtechnique, Tissue, Microtechnique","fluid, microtechnique, tissue",0,1
+"Microtechnique, Fluid, Recording","fluid, microtechnique, recording",0,1
+"Microtechnique, Fluid, Tissue","fluid, microtechnique, tissue",0,1
+"Microtechnique, Hemipenis, Fluid","fluid, hemipenis, microtechnique",0,1
+"Microtechnique, Microtechnique, Fluid","fluid, microtechnique",0,1
+"Microtechnique, Microtechnique, Fluid, Tissue","fluid, microtechnique, tissue",0,1
+"Microtechnique, Microtechnique, Microtechnique, Fluid","fluid, microtechnique",0,1
+"Microtechnique, Microtechnique, Microtechnique, Microtechnique, Fluid","fluid, microtechnique",0,1
+"Microtechnique, Microtechnique, Microtechnique, Tissue, Fluid","fluid, microtechnique, tissue",0,1
+"Microtechnique, Microtechnique, Tissue, Fluid","fluid, microtechnique, tissue",0,1
+"Microtechnique, Microtechnique, Tissue, Fluid, Microtechnique","fluid, microtechnique, tissue",0,1
+"Microtechnique, Microtechnique, Tissue, Microtechnique, Fluid","fluid, microtechnique, tissue",0,1
+"Microtechnique, Recording, Fluid","fluid, microtechnique, recording",0,1
 "Microtechnique, Skeleton",,0,0
+"Microtechnique, Tissue, Fluid","fluid, microtechnique, tissue",0,1
+"Microtechnique, Tissue, Microtechnique, Microtechnique, Fluid","fluid, microtechnique, tissue",0,1
 "MID CAUDAL VERTEBRA",,0,0
 "mid coracoid",,0,0
 "MID DORSAL SKULL FRAG",,0,0
@@ -23132,7 +23244,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "midshaft tibia",,0,0
 "MID-TRUNK VERTEBRA",,0,0
 "MILK TEETH",,0,0
-"misc",,0,0
+"misc","miscellaneous",0,1
 "Misc - 1","miscellaneous",0,1
 "Misc - 4",,0,0
 "misc appendicular elements",,0,0
@@ -33076,6 +33188,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "RdP3or4/",,0,0
 "RdP4/",,0,0
 "RdPx/",,0,0
+"Recording, Dry","dry, recording",0,1
+"Recording, Fluid","fluid, recording",0,1
+"Recording, Fluid, Microtechnique","fluid, microtechnique, recording",0,1
+"Recording, Microtechnique, Fluid","fluid, microtechnique, recording",0,1
+"Recording, Tissue, Fluid","fluid, recording, tissue",0,1
 "rectrices","rectrices",1,1
 "rectrix","rectrix",1,1
 "rectrix 5 ","rectrix 5",0,1
@@ -60219,6 +60336,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue, Breast muscle, Breast muscle, Fluid, Breast muscle, Fluid",,0,0
 "Tissue, Breast, liver, muscle, Breast, liver, muscle, Skeleton",,0,0
 "Tissue, Breast, liver, muscle, Skeleton, Breast, liver, muscle",,0,0
+"Tissue, C&S","cleared and stained, tissue",0,1
+"Tissue, C&S, Fluid","cleared and stained, fluid, tissue",0,1
 "tissue, cleared and stained",,0,0
 "tissue, cleared and stained, fluid",,0,0
 "tissue, cleared and stained, fluid, tissue",,0,0
@@ -60235,8 +60354,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, complete skeleton, tissue, tissue, tissue, tissue, tissue, tissue, flat skin, tissue",,0,0
 "tissue, complete skeleton, wing",,0,0
 "tissue, digital image, electric organ discharge recording",,0,0
+"Tissue, Dry","dry, tissue",0,1
 "tissue, dry skeleton",,0,0
 "tissue, dry skeleton, tissue",,0,0
+"Tissue, Dry, Fluid","dry, fluid, tissue",0,1
 "tissue, electric organ discharge recording",,0,0
 "tissue, electric organ discharge recording, fluid",,0,0
 "tissue, electric organ discharge recording, photograph, fluid",,0,0
@@ -60261,15 +60382,19 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, flat skin, tissue",,0,0
 "tissue, flat skin, tissue, tissue, complete skeleton",,0,0
 "tissue, flat skin, tissue, tissue, tissue, complete skeleton",,0,0
-"Tissue, Fluid",,0,0
+"Tissue, Fluid","fluid, tissue",0,1
 "tissue, fluid, cleared and stained",,0,0
 "tissue, fluid, cleared and stained, tissue",,0,0
 "Tissue, Fluid, Cloaca and feathers, Skeleton",,0,0
 "tissue, fluid, digital image",,0,0
 "tissue, fluid, electric organ discharge recording",,0,0
-"Tissue, Fluid, Fluid",,0,0
+"Tissue, Fluid, Fluid","fluid, tissue",0,1
+"Tissue, Fluid, Microtechnique","fluid, microtechnique, tissue",0,1
+"Tissue, Fluid, Microtechnique, Microtechnique","fluid, microtechnique, tissue",0,1
+"Tissue, Fluid, Microtechnique, Microtechnique, Microtechnique","fluid, microtechnique, tissue",0,1
 "tissue, fluid, miscellaneous, electric organ discharge recording",,0,0
 "tissue, fluid, photograph",,0,0
+"Tissue, Fluid, Recording","fluid, recording, tissue",0,1
 "Tissue, Fluid, Skeleton",,0,0
 "tissue, fluid, slide",,0,0
 "tissue, fluid, slide, slide, tissue",,0,0
@@ -60372,6 +60497,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue, Liver, Skeleton, Skin (Schmoo), Liver, Liver, Skeleton, Skin (Schmoo)",,0,0
 "Tissue, Liver, Skin (Schmoo), Skeleton, Skin (Schmoo), Liver, Liver, Skeleton",,0,0
 "Tissue, Liver, Skin, Liver",,0,0
+"Tissue, Microtechnique, Fluid","fluid, microtechnique, tissue",0,1
+"Tissue, Microtechnique, Fluid, Microtechnique, Microtechnique","fluid, microtechnique, tissue",0,1
+"Tissue, Microtechnique, Microtechnique, Fluid, Microtechnique","fluid, microtechnique, tissue",0,1
 "tissue, miscellaneous, miscellaneous, fluid",,0,0
 "Tissue, Muscle (100% ethanol), Muscle (100% ethanol), Skeleton",,0,0
 "Tissue, Muscle (100% ethanol), Muscle (100% ethanol), Skin (Wing)",,0,0
@@ -60403,6 +60531,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, photograph, electric organ discharge recording, fluid, tissue",,0,0
 "tissue, photograph, fluid",,0,0
 "tissue, photograph, fluid, electric organ discharge recording",,0,0
+"Tissue, Recording, Fluid","fluid, recording, tissue",0,1
 "tissue, round skin",,0,0
 "tissue, round skin, alcoholic",,0,0
 "tissue, round skin, eggset",,0,0
