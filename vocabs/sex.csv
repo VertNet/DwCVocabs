@@ -116,6 +116,7 @@ M[F]","unknown",0,1
 "(sex?)","unknown",0,1
 "*","unknown",0,1
 "--*","unknown",0,1
+".",,0,1
 "/","unknown",0,1
 "?","unknown",0,1
 "--?","unknown",0,1
@@ -326,12 +327,15 @@ M[F]","unknown",0,1
 "brown nuptial pads, yellow throa",,0,1
 "D","unknown",0,1
 "dark phase",,0,1
+"determine","unknown",0,1
 "dewlap bicolor-darl orange basal",,0,1
 "dewlap tricolored dark orange ba",,0,1
+"Dissect","unknown",0,1
 "dorsum olive with scattered brow",,0,1
 "downy","unknown",0,1
 "EMB 1 emb. 18mm","female",0,1
 "F","female",0,1
+"F-","female",0,1
 "F  [=M]","unknown",0,1
 "F !","female",0,1
 "F (? M)","in question",0,1
@@ -434,6 +438,7 @@ M[F]","unknown",0,1
 "F/FLEDGLING","female",0,1
 "F/IMM","female",0,1
 "F/immature","female",0,1
+"F/J","female",0,1
 "F/JUV","female",0,1
 "F/juvenile","female",0,1
 "F/M","unknown",0,1
@@ -445,6 +450,7 @@ M[F]","unknown",0,1
 "F?(M)","in question",0,1
 "F?)","in question",0,1
 "F?*","in question",0,1
+"F?, juv","female",0,1
 "F?/AD","in question",0,1
 "F?/FLEDGLING","in question",0,1
 "F?/IMM","in question",0,1
@@ -472,6 +478,7 @@ M[F]","unknown",0,1
 "F`","female",0,1
 "F~","female",0,1
 "F~ JUV","female",0,1
+"F+","female",0,1
 "F4","unknown",0,1
 "Fall Male","male",0,1
 "F'CHICK'","female",0,1
@@ -502,6 +509,13 @@ M[F]","unknown",0,1
 "G","unknown",0,1
 "G ?","unknown",0,1
 "GF","unknown",0,1
+"gF(3)","female",0,1
+"gF(4)","female",0,1
+"gF(5)","female",0,1
+"gF(6)","female",0,1
+"gF(7)","female",0,1
+"gF(8)","female",0,1
+"gF(9)","female",0,1
 "gonads not found","unknown",0,1
 "Gravid",,0,1
 "Green",,0,1
@@ -545,6 +559,7 @@ M[F]","unknown",0,1
 "immature","immature",1,1
 "Indeterminate","unknown",0,1
 "J","unknown",0,1
+"J?","unknown",0,1
 "JU?. MALE?","in question",0,1
 "juv","unknown",0,1
 "JUV ?","unknown",0,1
@@ -669,6 +684,7 @@ M[F]","unknown",0,1
 "M?(F)","in question",0,1
 "M?(Fjuv.)","in question",0,1
 "m?, adult","in question",0,1
+"M?, juv","male",0,1
 "M??","in question",0,1
 "M?[=illeg]","in question",0,1
 "M?F","in question",0,1
@@ -777,6 +793,7 @@ M[F]","unknown",0,1
 "PROBABLY MALE","male",0,1
 "prop. F.","female",0,1
 "see spec. label!","unknown",0,1
+"sex","unknown",0,1
 "Sex ?","unknown",0,1
 "Sex Unknown","unknown",0,1
 "Sex?","unknown",0,1
@@ -792,6 +809,7 @@ M[F]","unknown",0,1
 "throat black; white line from ti",,0,1
 "throat white",,0,1
 "throat white; narrow mid-dorsal ",,0,1
+"to","unknown",0,1
 "u","unknown",0,1
 "u, adult","unknown",0,1
 "u, immature","unknown",0,1
@@ -820,5 +838,6 @@ M[F]","unknown",0,1
 "ventral scales yellowish-cream w",,0,1
 "Ventrals white & powder blue on ",,0,1
 "with light turquoise dorsal spec",,0,1
+"xxx","unknown",0,1
 "Yankee Pond","unknown",0,1
 "Young adult","young adult",1,1

@@ -312,6 +312,7 @@
 "*","unknown",0,1
 "*[1st nupt. ?]",,0,0
 "*[Juv.]",,0,0
+".","unknown",0,1
 "..",,0,1
 ".0",,0,0
 ".1",,0,0
@@ -6759,6 +6760,7 @@ Trace.",,0,0
 "deserted?",,0,0
 "Desperately far advanced.",,0,0
 "Destroyed",,0,0
+"determine","unknown",0,1
 "deux oeufs incubes",,0,0
 "developed",,0,0
 "Developing embryo",,0,0
@@ -6779,6 +6781,7 @@ Trace.",,0,0
 "Different stages of incubation",,0,0
 "Discarded from nest",,0,0
 "diserted (?)",,0,0
+"Dissect","unknown",0,1
 "dissimilar",,0,0
 "Distinctly moderate",,0,0
 "Distinctly moderate (6 days?)",,0,0
@@ -7485,6 +7488,7 @@ Trace.",,0,0
 "Eyrie contained 5 large young on collection date.",,0,0
 "Eyrie fledged young",,0,0
 "F","unknown",0,1
+"F-","unknown",0,1
 "F (fresh?)",,0,0
 "F AD","adult",0,1
 "f advanced",,0,0
@@ -7497,14 +7501,17 @@ Trace.",,0,0
 "F/FLEDGLING","fledgling",0,1
 "F/IMM","immature",0,1
 "F/immature","immature",0,1
+"F/J","juvenile",0,1
 "F/JUV","juvenile",0,1
 "F/juvenile","juvenile",0,1
 "F/NESTLING","nestling",0,1
+"F?, juv","juvenile",0,1
 "F?/AD","adult",0,1
 "F?/FLEDGLING","fledling",0,1
 "F?/IMM","immature",0,1
 "F~","unknown",0,1
 "F~ JUV","juvenile",0,1
+"F+","unknown",0,1
 "Failed",,0,0
 "Failed (?)",,0,0
 "Failed (1 of 2- 2nd broke)",,0,0
@@ -8877,6 +8884,13 @@ Sowing blood-1",,0,0
 "FY",,0,0
 "g",,0,0
 "G. advanced",,0,0
+"gF(3)","adult",0,1
+"gF(4)","adult",0,1
+"gF(5)","adult",0,1
+"gF(6)","adult",0,1
+"gF(7)","adult",0,1
+"gF(8)","adult",0,1
+"gF(9)","adult",0,1
 "good",,0,0
 "good embryos",,0,0
 "good sized embryos",,0,0
@@ -10042,6 +10056,7 @@ Sowing blood-1",,0,0
 "j.",,0,0
 "J/A","juvenile, adult",0,1
 "J/HY",,0,0
+"J?","juvenile",0,1
 "j[illeg]",,0,0
 "J-467, J-468",,0,1
 "Jar # 5 addled, embryo, fragment",,0,0
@@ -10677,6 +10692,7 @@ Infertile-1",,0,0
 "M/JUV","juvenile",0,1
 "M/juvenile","juvenile",0,1
 "M/NESTLING","nestling",0,1
+"M?, juv","juvenile",0,1
 "M~","unknown",0,1
 "MA",,0,0
 "macho","unknown",0,1
@@ -12232,6 +12248,7 @@ fresh",,0,0
 "Several days, set complete",,0,0
 "several days, well begun",,0,0
 "Several days.",,0,0
+"sex","unknown",0,1
 "SFO",,0,0
 "SFO ad",,0,0
 "SFO ad  o.sl.e",,0,0
@@ -13873,6 +13890,7 @@ Started",,0,0
 "three-fouths",,0,0
 "tiny embryo",,0,0
 "tiny embryos",,0,0
+"to","unknown",0,1
 "To blood",,0,0
 "To blood in all",,0,0
 "to blood in each.",,0,0
@@ -14692,7 +14710,7 @@ Started",,0,0
 "x",,0,0
 "X  7/6",,0,0
 "X130 Fresh, others broken",,0,0
-"XXX",,0,1
+"XXX","unknown",0,1
 "y.g. juven.",,0,0
 "yd",,0,0
 "yearling","yearling",1,1

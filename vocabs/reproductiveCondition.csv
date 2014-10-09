@@ -12,6 +12,7 @@
 "(t = 5 mm) desc.",,0,0
 "*",,0,1
 "*Post lactating male",,0,0
+".","unknown",0,1
 "?","unknown",0,1
 "??","unknown",0,1
 "~3L, 3R placental scars",,0,0
@@ -1013,6 +1014,8 @@
 "corn.",,0,0
 "cr = 11",,0,0
 "cub",,0,0
+"determine","unknown",0,1
+"Dissect","unknown",0,1
 "E = 4",,0,0
 "E 2 X 2, CR = 5",,0,0
 "e embs/cr = X 36 mm",,0,0
@@ -1077,6 +1080,10 @@
 "enlarged uterus, 2 embryos?",,0,0
 "Estrous, no embs.",,0,0
 "F",,0,1
+"F-","unknown",0,1
+"F/J","juvenile",0,1
+"F?, juv","juvenile",0,1
+"F+","unknown",0,1
 "FA = 37 mm",,0,0
 "FA = 61",,0,0
 "five embryos",,0,0
@@ -1094,6 +1101,13 @@
 "full term unborn fetus",,0,0
 "Full-term emb: 44mm",,0,0
 "gave birth to 7 young",,0,0
+"gF(3)","adult",0,1
+"gF(4)","adult",0,1
+"gF(5)","adult",0,1
+"gF(6)","adult",0,1
+"gF(7)","adult",0,1
+"gF(8)","adult",0,1
+"gF(9)","adult",0,1
 "GONADS NOT FOUND",,0,0
 "GONADS SPOILED",,0,0
 "GONADS: 1 VASCULAR OVARY 3.5 X 6.5, WITH ENLARGING",,0,0
@@ -12560,6 +12574,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "ing. x3",,0,0
 "INMAD",,0,1
 "J",,0,1
+"J?","juvenile",0,1
 "JUV",,0,1
 "Juv.",,0,0
 "juv.; testes 3 x 2",,0,0
@@ -12695,6 +12710,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "lot lact.",,0,0
 "M",,0,1
 "M < 1 mm",,0,0
+"M?, juv","juvenile",0,1
 "macho",,0,1
 "macho A",,0,1
 "macho ad",,0,1
@@ -13080,6 +13096,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "scrotal, x7",,0,0
 "See remarks",,0,0
 "semiscrotal",,0,0
+"sex","unknown",0,1
 "SEX: GYNANDROMORPH, BY GONADS. GONADS: TESTES: RIG",,0,0
 "SEX: GYNANDROMORPH, BY GONADS. GONADS: TESTES: RIGHT: 1 MM; LEFT: APPEARS OVARY",,0,0
 "SEX: GYNANDROMORPH, BY UNMARKED MEANS. GONADS: OVA",,0,0
@@ -14245,6 +14262,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testis undescended",,0,0
 "thickened uterus",,0,0
 "TNE",,0,0
+"to","unknown",0,1
 "too old to breed",,0,0
 "TS X 9",,0,0
 "TS=11x8",,0,0
@@ -14306,6 +14324,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "with 5 pouch young",,0,0
 "with two young in pouch",,0,0
 "worn nipples",,0,0
+"xxx","unknown",0,1
 "Ycrot.",,0,0
 "yearling",,0,0
 "yng. of year",,0,0
