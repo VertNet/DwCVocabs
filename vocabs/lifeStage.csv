@@ -1,9 +1,9 @@
 "verbatimAgeClass","StandardAgeClass","standard","checked"
 " ","unknown",0,1
 "-","unknown",0,1
-"--",,0,1
-"---",,0,1
-"-----",,0,1
+"--","unknown",0,1
+"---","unknown",0,1
+"-----","unknown",0,1
 "  Juv.","juvenile",0,1
 " ?  Juv.","juvenile",0,1
 " 1/4",,0,0
@@ -19,7 +19,7 @@
 " Immature","immature",0,1
 " NO BURSA; SKULL 100% OSS.",,0,0
 " no data given","unknown",0,1
-" not indicated",,0,0
+" not indicated","unknown",0,1
 " Not recorded","unknown",0,1
 " one fourth",,0,0
 " or Juv.","juvenile",0,1
@@ -30,7 +30,7 @@
 " stale& slight",,0,0
 "! F chick banded. 1/2 had a smal",,0,0
 "! F chick banded. 1/2 had a small embryo, 2/2 had ",,0,0
-"""",,0,0
+"""","unknown",0,1
 """5/6 j"" (5-6 days)",,0,0
 """a few incubated"" (? few days)",,0,0
 """about 5 Days In All""",,0,0
@@ -39,7 +39,7 @@
 """ADULT"" PLUMAGE; BURSA 2 X 2 MM;",,0,0
 """ADULT?""","adult",0,1
 """Bird mature""","adult",0,1
-"""check""",,0,1
+"""check""","unknown",0,1
 """couves""",,0,0
 """FEMALE: PLUMAGED; BURSA 4 X 4 M",,0,0
 """Few incubated"" (? Few days)",,0,0
@@ -7490,6 +7490,7 @@ Trace.",,0,0
 "F","unknown",0,1
 "F-","unknown",0,1
 "F (fresh?)",,0,0
+"F ?","unknown",0,1
 "F AD","adult",0,1
 "f advanced",,0,0
 "F IMM","immature",0,1
@@ -7505,6 +7506,7 @@ Trace.",,0,0
 "F/JUV","juvenile",0,1
 "F/juvenile","juvenile",0,1
 "F/NESTLING","nestling",0,1
+"F?","unknown",0,1
 "F?, juv","juvenile",0,1
 "F?/AD","adult",0,1
 "F?/FLEDGLING","fledling",0,1
@@ -8882,8 +8884,9 @@ Sowing blood-1",,0,0
 "Fully Two-thirds",,0,0
 "fully, 1 infertile",,0,0
 "FY",,0,0
-"g",,0,0
-"G. advanced",,0,0
+"g","adult",0,1
+"G. advanced","adult",0,1
+"gF","adult",0,1
 "gF(3)","adult",0,1
 "gF(4)","adult",0,1
 "gF(5)","adult",0,1
@@ -10686,12 +10689,14 @@ Infertile-1",,0,0
 "m.",,0,0
 "M. embryo",,0,0
 "M/AD","adult",0,1
+"M/F","unknown",0,1
 "M/FLEDGLING","fledgling",0,1
 "M/IMM","immature",0,1
 "M/immature","immature",0,1
 "M/JUV","juvenile",0,1
 "M/juvenile","juvenile",0,1
 "M/NESTLING","nestling",0,1
+"M?","unknown",0,1
 "M?, juv","juvenile",0,1
 "M~","unknown",0,1
 "MA",,0,0
@@ -10806,6 +10811,7 @@ Infertile-1",,0,0
 "Mixed",,0,0
 "Mixed- 3 fresh",,0,0
 "Mixed clutches",,0,0
+"MM","unknown",0,1
 "MO BURSA",,0,0
 "mo. old juv.",,0,0
 "mod. embryos",,0,0
@@ -10864,7 +10870,7 @@ Infertile-1",,0,0
 "Much incubated.",,0,0
 "MUCH JUV FUZZ ON BODY; BURSA 6 M",,0,0
 "Mucus, blood",,0,0
-"n",,0,0
+"n","unknown",0,1
 "N. Br.",,0,0
 "N.B.",,0,0
 "N.H.",,0,0

@@ -1,16 +1,17 @@
 "verbatimReproductiveCondition","standardReproductiveCondition","standard","checked"
-" ",,0,1
-"--------------------------------------------------",,0,1
-"-----------------------------------------------------------------------------------------------------------------",,0,1
+" ","unknown",0,1
+"---","unknown",0,0
+"--------------------------------------------------","unknown",0,1
+"-----------------------------------------------------------------------------------------------------------------","unknown",0,1
 " Testes abdominal",,0,0
 " Testes abdominal, subadult",,0,0
 " Testes scrotal, large",,0,0
-"",,0,0
+"","unknown",0,0
 "(emb = 25), 2 r, 2 l",,0,0
 "(s) 5.0 mm",,0,0
 "(t = 3 mm) abdom.",,0,0
 "(t = 5 mm) desc.",,0,0
-"*",,0,1
+"*","unknown",0,1
 "*Post lactating male",,0,0
 ".","unknown",0,1
 "?","unknown",0,1
@@ -61,8 +62,8 @@
 "1 emb.",,0,0
 "1 emb. (20 mm) 1 aborted?",,0,0
 "1 emb. CR = 13 mm",,0,0
-"1 emb. izq. 13 mm","pregnant",0,1
-"1 emb. izq. 30.55 mm","pregnant",0,1
+"1 emb. izq. 13 mm",,0,0
+"1 emb. izq. 30.55 mm",,0,0
 "1 emb. small",,0,0
 "1 emb. X 2",,0,0
 "1 emb. X 4",,0,0
@@ -1079,10 +1080,12 @@
 "enlarged uterus and teats, lots of fat deposits; prob. just gave birth.",,0,0
 "enlarged uterus, 2 embryos?",,0,0
 "Estrous, no embs.",,0,0
-"F",,0,1
+"F","unknown",0,1
 "F-","unknown",0,1
-"F/J","juvenile",0,1
-"F?, juv","juvenile",0,1
+"F ?","unknown",0,1
+"F/J",,0,1
+"F?","unknown",0,1
+"F?, juv",,0,1
 "F+","unknown",0,1
 "FA = 37 mm",,0,0
 "FA = 61",,0,0
@@ -1100,14 +1103,16 @@
 "FPG-21 days",,0,0
 "full term unborn fetus",,0,0
 "Full-term emb: 44mm",,0,0
+"G","gravid",0,1
 "gave birth to 7 young",,0,0
-"gF(3)","adult",0,1
-"gF(4)","adult",0,1
-"gF(5)","adult",0,1
-"gF(6)","adult",0,1
-"gF(7)","adult",0,1
-"gF(8)","adult",0,1
-"gF(9)","adult",0,1
+"gF","gravid",0,1
+"gF(3)","gravid",0,1
+"gF(4)","gravid",0,1
+"gF(5)","gravid",0,1
+"gF(6)","gravid",0,1
+"gF(7)","gravid",0,1
+"gF(8)","gravid",0,1
+"gF(9)","gravid",0,1
 "GONADS NOT FOUND",,0,0
 "GONADS SPOILED",,0,0
 "GONADS: 1 VASCULAR OVARY 3.5 X 6.5, WITH ENLARGING",,0,0
@@ -12572,37 +12577,37 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "ing. X 9",,0,0
 "ing. x2",,0,0
 "ing. x3",,0,0
-"INMAD",,0,1
-"J",,0,1
+"INMAD","immature",0,1
+"J","juvenile",0,1
 "J?","juvenile",0,1
-"JUV",,0,1
-"Juv.",,0,0
-"juv.; testes 3 x 2",,0,0
-"Juv; no embs",,0,0
-"Juvenil",,0,1
-"juvenile",,0,0
-"Juvenile, no embryo",,0,0
-"juvenile, no embryos",,0,0
-"Juvenile, TA=2x1",,0,0
-"Juvenile, TA=3x2",,0,0
-"Juvenile, TA=4x3",,0,0
-"juvenile, testes 1 x 2",,0,0
-"juvenile, testes abdominal",,0,0
-"juvenile, testes abdominal = 3x1",,0,0
-"juvenile, testes abdominal 2x1.5",,0,0
-"juvenile, Testes abdominal; T = 4 x 1.5",,0,0
-"juvenile, young of UCM6175, not yet capable of flight",,0,0
-"juvenile; non reproductive",,0,0
-"juvenile; not breeding",,0,0
+"JUV","juvenile",0,1
+"Juv.","juvenile",0,1
+"juv.; testes 3 x 2","juvenile",0,1
+"Juv; no embs","juvenile",0,1
+"Juvenil","juvenile",0,1
+"juvenile","juvenile",1,1
+"Juvenile, no embryo","juvenile",0,1
+"juvenile, no embryos","juvenile",0,1
+"Juvenile, TA=2x1","juvenile",0,1
+"Juvenile, TA=3x2","juvenile",0,1
+"Juvenile, TA=4x3","juvenile",0,1
+"juvenile, testes 1 x 2","juvenile",0,1
+"juvenile, testes abdominal","juvenile",0,1
+"juvenile, testes abdominal = 3x1","juvenile",0,1
+"juvenile, testes abdominal 2x1.5","juvenile",0,1
+"juvenile, Testes abdominal; T = 4 x 1.5","juvenile",0,1
+"juvenile, young of UCM6175, not yet capable of flight","juvenile",0,1
+"juvenile; non reproductive","juvenile",0,1
+"juvenile; not breeding","juvenile",0,1
 "L-1; R-1; C-30",,0,0
 "lac","lactating",0,1
 "lac, preñ","lactating, pregnant",0,1
 "lac. 6 embryo x2",,0,0
-"lac./",,0,0
+"lac./","lactating",0,1
 "lac?","lactating",0,1
-"lacatating",,0,0
-"Lact",,0,0
-"lact heavy",,0,0
+"lacatating","lactating",0,1
+"Lact","lactating",0,1
+"lact heavy","lactating",0,1
 "Lact, 10 scars",,0,0
 "Lact, 2 emb:1lf&1rt, 20mm",,0,0
 "Lact, 2 scars",,0,0
@@ -12697,7 +12702,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "lactating, one young clinging to belly",,0,0
 "Lactating, parous",,0,0
 "lactating, pregnant",,0,0
-"Lactating, scars",,0,0
+"Lactating, scars","lactating, scars",1,1
 "lactating,m FPG-21 days",,0,0
 "Lactating; scars present",,0,0
 "lamb",,0,0
@@ -12708,9 +12713,11 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "late lac.",,0,0
 "lct; 1 emb; cr = 7",,0,0
 "lot lact.",,0,0
-"M",,0,1
+"M","unknown",0,1
 "M < 1 mm",,0,0
-"M?, juv","juvenile",0,1
+"M/F","unknown",0,1
+"M?","unknown",0,1
+"M?, juv",,0,1
 "macho",,0,1
 "macho A",,0,1
 "macho ad",,0,1
@@ -12743,7 +12750,9 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "many placental scars",,0,0
 "mature",,0,0
 "MI",,0,1
+"MM","unknown",0,1
 "Mo Embryo",,0,0
+"N","unknown",0,1
 "Neonato",,0,1
 "nipples and mammaries indicate nursing",,0,0
 "nipples and uterus enlarged, 2R, 2L scars",,0,0
@@ -14270,6 +14279,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "TS=7x5",,0,0
 "turgid uterus",,0,0
 "turgid uterus, no placental scars",,0,0
+"U","unknown",0,1
 "uterine scarring; enlarged teats",,0,0
 "uterine scars, no embryos",,0,0
 "uterus containing four embryos, preserved with skin",,0,0
