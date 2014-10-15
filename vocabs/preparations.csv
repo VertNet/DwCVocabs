@@ -2665,6 +2665,7 @@
 "acromium, scapula-coracoid",,0,0
 "adult jaw",,0,0
 "Air bladder + alimentary canal (in spirit)",,0,0
+"akin (round); skull (complete)",,0,0
 "al","alcoholic",0,1
 "AL'","alcoholic",0,1
 "AL (1 ADUL","alcoholic",0,1
@@ -5405,6 +5406,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "baculum ; skin (round); skull (complete)",,0,0
 "baculum, complete skeleton","baculum, complete skeleton",1,1
 "Baculum, Fluid","baculum, fluid",1,1
+"baculum, none",,0,0
 "baculum, other","baculum, other",1,1
 "Baculum, PART","baculum, partial skeleton",0,1
 "baculum, partial skeleton","baculum, partial skeleton",1,1
@@ -5423,12 +5425,17 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "baculum; postcranial skeleton (complete); skin (round); skull (broken)",,0,0
 "baculum; postcranial skeleton (complete); skin (round); skull (complete)",,0,0
 "baculum; postcranial skeleton (complete); skull (broken)",,0,0
+"baculum; postcranial skeleton (complete); skull (broken), none",,0,0
 "baculum; postcranial skeleton (complete); skull (complete)",,0,0
+"baculum; postcranial skeleton (complete); skull (complete), none",,0,0
 "baculum; postcranial skeleton (leg bones); skin (round); skull (complete)",,0,0
 "baculum; postcranial skeleton (partial); skin (round); skull (broken)",,0,0
+"baculum; postcranial skeleton (partial); skin (round); skull (broken), none",,0,0
 "baculum; postcranial skeleton (partial); skin (round); skull (complete)",,0,0
+"baculum; postcranial skeleton (partial); skin (round); skull (complete), none",,0,0
 "baculum; postcranial skeleton (partial); skin (round); skull (two mandibles)",,0,0
 "baculum; postcranial skeleton (partial); skull (complete)",,0,0
+"baculum; postcranial skeleton (partial); skull (complete), none",,0,0
 "baculum; skin (pelt); skull (complete)",,0,0
 "baculum; skin (round)",,0,0
 "baculum; skin (round), none",,0,0
@@ -5437,8 +5444,10 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "baculum; skin (round); skull (broken)",,0,0
 "baculum; skin (round); skull (broken), none",,0,0
 "baculum; skin (round); skull (complete)",,0,0
+"baculum; skin (round); skull (complete), muscle, liver, heart",,0,0
 "baculum; skin (round); skull (complete), none",,0,0
 "baculum; skull (broken)",,0,0
+"baculum; skull (broken), none",,0,0
 "baculum; skull (complete)",,0,0
 "baculum; skull (complete), none",,0,0
 "baleen","baleen",1,1
@@ -21533,6 +21542,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "mand with M/1",,0,0
 "mand. Frag with teeth",,0,0
 "mandible","mandible",1,1
+"mandible (complete), none",,0,0
 "MANDIBLE (DRY)","mandible",0,1
 "Mandible (fragment)",,0,0
 "Mandible (in spirit)",,0,0
@@ -28217,6 +28227,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "postcranial skeleton (complete); skin (feathers); skull (complete)",,0,0
 "postcranial skeleton (complete); skin (feathers); skull (complete), wings",,0,0
 "postcranial skeleton (complete); skin (flat); skull (complete)",,0,0
+"postcranial skeleton (complete); skin (flat); skull (complete), none",,0,0
 "postcranial skeleton (complete); skin (foot); skull (complete), wing",,0,0
 "postcranial skeleton (complete); skin (foot); skull (complete), wings",,0,0
 "postcranial skeleton (complete); skin (foot); skull (partial), wing",,0,0
@@ -28235,12 +28246,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "postcranial skeleton (complete); skull  (complete)",,0,0
 "postcranial skeleton (complete); skull  (complete), none",,0,0
 "postcranial skeleton (complete); skull (broken)",,0,0
+"postcranial skeleton (complete); skull (broken), muscle, liver, heart, kidney",,0,0
 "postcranial skeleton (complete); skull (broken), muscle, liver, wing",,0,0
 "postcranial skeleton (complete); skull (broken), none",,0,0
 "postcranial skeleton (complete); skull (broken), tissue, wings",,0,0
 "postcranial skeleton (complete); skull (complete)",,0,0
 "postcranial skeleton (complete); skull (complete), muscle",,0,0
 "postcranial skeleton (complete); skull (complete), muscle, liver",,0,0
+"postcranial skeleton (complete); skull (complete), muscle, liver, heart, kidney",,0,0
 "postcranial skeleton (complete); skull (complete), none",,0,0
 "postcranial skeleton (complete); skull (complete), tissue",,0,0
 "postcranial skeleton (complete); skull (complete), wing",,0,0
@@ -28274,9 +28287,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "postcranial skeleton (partial); skin (round); cranium (complete)",,0,0
 "postcranial skeleton (partial); skin (round); cranium (complete), none",,0,0
 "postcranial skeleton (partial); skin (round); skull (broken)",,0,0
+"postcranial skeleton (partial); skin (round); skull (broken), muscle, liver, heart, kidney",,0,0
+"postcranial skeleton (partial); skin (round); skull (broken), muscle, liver, heart, kidney, testes",,0,0
 "postcranial skeleton (partial); skin (round); skull (broken), none",,0,0
 "postcranial skeleton (partial); skin (round); skull (complete)",,0,0
+"postcranial skeleton (partial); skin (round); skull (complete), muscle, liver, heart, kidney",,0,0
 "postcranial skeleton (partial); skin (round); skull (complete), none",,0,0
+"postcranial skeleton (partial); skin (round); skull (mandible only), none",,0,0
 "postcranial skeleton (partial); skin (round); skull (partial)",,0,0
 "postcranial skeleton (partial); skin (round); skull (partial), muscle, liver, heart",,0,0
 "postcranial skeleton (partial); skin (round); skull (partial), muscle, liver, heart, kidney",,0,0
@@ -38948,6 +38965,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin (round), muscle, liver, brain, kidney, wing",,0,0
 "skin (round), muscle, liver, heart",,0,0
 "skin (round), muscle, liver, heart, kidney",,0,0
+"skin (round), muscle, liver, heart, kidney, fat, gonads",,0,0
 "skin (round), muscle, liver, heart, kidney, ovary",,0,0
 "skin (round), muscle, liver, heart, kidney, testes",,0,0
 "skin (round), muscle, liver, heart, kidney, wing",,0,0
@@ -38973,11 +38991,27 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin (round); mandible (two mandibles)",,0,0
 "skin (round); mandible (two mandibles), none",,0,0
 "skin (round); skull (broken)",,0,0
+"skin (round); skull (broken), liver, heart",,0,0
+"skin (round); skull (broken), liver, heart, kidney",,0,0
+"skin (round); skull (broken), liver, heart, testes",,0,0
+"skin (round); skull (broken), muscle",,0,0
+"skin (round); skull (broken), muscle, liver, heart",,0,0
+"skin (round); skull (broken), muscle, liver, heart, kidney",,0,0
 "skin (round); skull (broken), none",,0,0
 "skin (round); skull (complete)",,0,0
+"skin (round); skull (complete), foreleg, liver, heart",,0,0
+"skin (round); skull (complete), hind leg with bone, liver, heart",,0,0
+"skin (round); skull (complete), liver, heart",,0,0
+"skin (round); skull (complete), liver, heart, kidney",,0,0
+"skin (round); skull (complete), lung and chest contents",,0,0
+"skin (round); skull (complete), muscle",,0,0
+"skin (round); skull (complete), muscle, heart",,0,0
+"skin (round); skull (complete), muscle, liver, heart",,0,0
+"skin (round); skull (complete), muscle, liver, heart, kidney",,0,0
 "skin (round); skull (complete), none",,0,0
 "skin (round); skull (cranium)",,0,0
 "skin (round); skull (cranium), none",,0,0
+"skin (round); skull (mandibles)",,0,0
 "skin (round); skull (one mandible missing)",,0,0
 "skin (round); skull (partial)",,0,0
 "skin (round); skull (partial), none",,0,0
@@ -56506,11 +56540,19 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull (brain cast)",,0,0
 "skull (broken)",,0,0
 "Skull (broken) + skeleton (incomplete)",,0,0
+"skull (broken), muscle",,0,0
+"skull (broken), muscle, liver, heart, kidney",,0,0
 "skull (broken), none",,0,0
 "Skull (cap + pedicle)",,0,0
 "skull (complete)",,0,0
 "Skull (complete) +  fragments",,0,0
 "Skull (complete) + teeth + skeleton",,0,0
+"skull (complete), foreleg with bone, chest cavity contents",,0,0
+"skull (complete), hing leg with bone, liver, heart",,0,0
+"skull (complete), muscle",,0,0
+"skull (complete), muscle, heart",,0,0
+"skull (complete), muscle, liver, heart",,0,0
+"skull (complete), muscle, liver, heart, kidney",,0,0
 "skull (complete), none",,0,0
 "Skull (complete, in pieces)",,0,0
 "Skull (complete, unprepared)",,0,0
@@ -56707,9 +56749,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull (left half) with jaw",,0,0
 "Skull (left side + teeth (premolars + molars)",,0,0
 "Skull (left side) with jaws + teeth (milk)",,0,0
+"skull (mandible), none",,0,0
 "skull (Mandibles missing)",,0,0
 "skull (Mandibles missing), none",,0,0
 "skull (mandibles)",,0,0
+"skull (mandibles), none",,0,0
 "Skull (maxilla fragment, left) + tooth (molar)",,0,0
 "Skull (maxilla fragment, right) + teeth (molars)",,0,0
 "Skull (maxilla fragment, right) + tooth (molar)",,0,0
