@@ -13,6 +13,7 @@
 "76.137987",,0,1
 "Adindan","Adindan",1,1
 "Afgooye","Afgooye",1,1
+"AGD 66","AGD66",0,1
 "AGD66","AGD66",1,1
 "AGD84","AGD84",1,1
 "Ain el Abd 1970","Ain el Abd 1970",1,1
@@ -82,6 +83,7 @@
 "Fort Thomas 1955","Fort Thomas 1955",1,1
 "Fundamental de Ocotepeque","Ocotepeque 1935",0,1
 "Gan 1970","Gan 1970",1,1
+"GDA 94","Geodetic Datum of Australia 1994",0,1
 "GDA94","Geodetic Datum of Australia 1994",0,1
 "Geodetic Datum 1949","Geodetic Datum 1949",1,1
 "GNIS","not recorded",0,1
@@ -171,10 +173,12 @@
 "North American Datum 1927","North American Datum 1927",0,1
 "North American Datum 1983","North American Datum 1983",0,1
 "North Sahara 1959","North Sahara 1959",1,1
+"not applicable (no coordinates)",,0,1
 "not provided","not recorded (forced WGS84)",0,1
 "not rec.","not recorded (forced WGS84)",0,1
 "not recorded","not recorded (forced WGS84)",0,1
 "not recorded (forced WGS84)","not recorded (forced WGS84)",1,1
+"not recorded\; assume WGS84 for Australia","not recorded",0,1
 "Observatorio Meteorologico 1939","Observatorio Meteorologico 1939",1,1
 "Ocotepeque","Ocotepeque 1935",0,1
 "Ocotepeque 1935","Ocotepeque 1935",1,1
