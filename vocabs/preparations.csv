@@ -1,6 +1,7 @@
 "verbatimPrep","StandardPrep","standard","checked"
 "",,0,1
 " 70% EtOH","70% alcohol",0,1
+" 70% ETOH + C&S",,0,0
 " Ca. half tibiofibula.",,0,0
 " L",,0,0
 " N",,0,0
@@ -996,6 +997,7 @@
 "? upper P3",,0,0
 "? upper P3 M3",,0,0
 "? vert",,0,0
+"?, tissue",,0,0
 "?/I root",,0,0
 "?/M or P frag",,0,0
 "??","unknown",0,1
@@ -1183,6 +1185,9 @@
 "+SKO","skull",0,1
 "+SKO +T","skull, tissue",0,1
 "+SKO+T","skull, tissue",0,1
+"1 - 70% ETHANOL; 1 - DRY",,0,0
+"1 - 70% ETHANOL; 1 - GLYCERIN",,0,0
+"1- 70% ETHANOL; 1- GLYCERIN",,0,0
 "1 and 1/2 deciduous incisor.",,0,0
 "1 eggshell fragment",,0,0
 "1 hair",,0,0
@@ -1203,6 +1208,8 @@
 "1 Vial w/bone & tooth frags",,0,0
 "1 Vial w/incisors",,0,0
 "1.5 associated metapodials",,0,0
+"1/2 IN 95% ETOH, 1/2 IN 70% ETOH/ 2 SMALL JARS, tissue",,0,0
+"10 - 70% ETHANOL; 2 - DRY",,0,0
 "10 distal metapodials",,0,0
 "10 FRAGMENTS OF SHELL.","shell fragments",0,1
 "10 incisors",,0,0
@@ -1211,6 +1218,14 @@
 "10 unguals",,0,0
 "10 VERTEBRAE.","vertebrae",0,1
 "10% formalin","10% formalin",1,1
+"100% ETHANOL/ C&S",,0,0
+"100% GLYCERIN",,0,0
+"100% GLYCERIN/ C&S",,0,0
+"100% GLYCERIN/ SMALL JAR",,0,0
+"100% GLYCERIN/ SMALL JAR/ C+S",,0,0
+"100% GLYCEROL/ C&S",,0,0
+"100% GLYCEROL/ SMALL JAR",,0,0
+"100% GLYCEROL/ SMALL JAR (C&S)",,0,0
 "11 radia frags",,0,0
 "11 teeth",,0,0
 "11 VERTEBRAE (DRY)","11 vertebrae",0,1
@@ -1231,10 +1246,12 @@
 "14 Max Frg.",,0,0
 "14 RM3/",,0,0
 "14 VERTEBRAE (DRY)","14 vertebrae",0,1
+"15 FIXED/PRESERVED 95% ETOH, tissue",,0,0
 "15 medial phalanges",,0,0
 "15 UNDET. AND MISCELLANEOUS.","undetermined",0,1
 "15 VERTEBRAE",,0,0
 "15 VERTEBRAE (DRY)","15 vertebrae",0,1
+"16",,0,0
 "16 m",,0,0
 "16 right + 11 left mandibles, 3 maxillae",,0,0
 "17 parietal (8.5 fused parietal), 17 frontal (8.5 fused frontal), 3 squamosal, 10 dentary, 6 maxilla, 2 crania.",,0,0
@@ -1256,6 +1273,8 @@
 "1st. phalanx front",,0,0
 "1st. phalanx rear",,0,0
 "1st. sacral vertebra",,0,0
+"2 - 70% ETHANOL; 1 - DRY",,0,0
+"2 - 70% ETHANOL; 1 - GLYCERIN",,0,0
 "2 /DP",,0,0
 "2 /M FRAG,M FRAG/",,0,0
 "2 ?assoc. premolars",,0,0
@@ -1355,6 +1374,8 @@
 "2 skulls","2 skulls",1,1
 "2 SKULLS, 2 DENTARIES, PARTIAL","partial skulls, 2 dentaries",0,1
 "2 small boxes of small bone frags",,0,0
+"2 SMALL JARS, 95% ETHANOL AND 70% ETHANOL, tissue",,0,0
+"2 SMALL JARS/ 1 70% ETHANOL/ 1 95% ETHANOL, tissue",,0,0
 "2 spine frags",,0,0
 "2 tails only","2 tails",0,1
 "2 TARSOMETATARSUS,2 HUMERI",,0,0
@@ -1402,14 +1423,17 @@
 "2/3 R CORACOID.","right coracoid",0,1
 "2:00 PM",,0,0
 "20 teeth, 3 fragments dentary, 1 fragment maxilla.",,0,0
+"21 - 70% ETHANOL; 4 - DRY",,0,0
 "21 carapace frags",,0,0
 "21 isolated teeth",,0,0
 "21 mandibular frags.",,0,0
 "22 incisors, & mandibular frags.",,0,0
+"23 IN 70% ETHANOL, 5 CLEARED AND STAINED",,0,0
 "23 m",,0,0
 "24 incisors",,0,0
 "25 medial phalanges",,0,0
 "26 phalanges",,0,0
+"2-70% ETHANOL; 1-GLYCEROL",,0,0
 "29 incisors",,0,0
 "29 podials",,0,0
 "2L DENTARIES,R MAXILLA",,0,0
@@ -1423,6 +1447,7 @@
 "2nd. phalanx",,0,0
 "2R DENTARY FRAGS, FRAG L DENTARY",,0,0
 "2R P/,3L M/,2R M/,2/R M,/R M3",,0,0
+"3 - 70% ETHANOL; 1 - DRY",,0,0
 "3 arms (in spirit)",,0,0
 "3 astragali",,0,0
 "3 bone frags",,0,0
@@ -1485,9 +1510,12 @@
 "3 upper L cheektooth.","upper left cheekteeth",0,1
 "3 vertebrae",,0,0
 "3 VERTEBRAE (DRY)","3 vertebrae",0,1
+"3% FORMALIN",,0,0
+"3%FORMALIN",,0,0
 "30 medial phalanges",,0,0
 "30 podials",,0,0
 "31 proximal phalanges",,0,0
+"32",,0,0
 "33",,0,1
 "33 /M",,0,0
 "33 incisors",,0,0
@@ -1500,6 +1528,8 @@
 "3M3/ (duplicate spec#)",,0,0
 "3rd Phalanx",,0,0
 "4",,0,1
+"4 - 70% ETHANOL; 1 - DRY",,0,0
+"4 - 70% ETHANOL; 3 - DRY",,0,0
 "4 articulated vertebrae",,0,0
 "4 astragali",,0,0
 "4 calcanea",,0,0
@@ -1549,9 +1579,11 @@
 "5 vertebrae",,0,0
 "5 VERTEBRAE (DRY)","5 vertebrae",0,1
 "5 VERTEBRAE.","vertebrae",0,1
+"5% FORM",,0,0
 "5% formalin","5% formalin",1,1
 "50 phalanges",,0,0
 "50% Isopropanol",,0,0
+"50% ISOPROPYL",,0,0
 "5EGGS","eggs",0,1
 "6 astragali",,0,0
 "6 CANINES",,0,0
@@ -1566,8 +1598,10 @@
 "6 vertebrae",,0,0
 "6 VERTEBRAE (DRY)","6 vertebrae",0,1
 "63 m",,0,0
+"64",,0,0
 "6699",,0,1
 "6th cervical vertebra",,0,0
+"7 - 70% ETHANOL; 2 - DRY",,0,0
 "7 ASTRAGALI",,0,0
 "7 general trunk vertebrae",,0,0
 "7 long bone frags, >6cm, <13 cm",,0,0
@@ -1577,17 +1611,445 @@
 "7 vials of misc. molars",,0,0
 "7 vials of molars",,0,0
 "7 vials of various osteological elements",,0,0
+"70 % ETHANOL",,0,0
+"70 % ETHANOL/ 1/2 GALLON JAR",,0,0
+"70 % ETHANOL/ 2 1/2 GALLON JAR",,0,0
+"70 % ETHANOL/ ALIZARIN STAINED",,0,0
+"70 % ETHANOL/ BUCKET",,0,0
+"70 % ETHANOL/ GALLON JAR",,0,0
+"70 % ETHANOL/ HALF GALLON JAR",,0,0
+"70 % ETHANOL/ LARGE JAR",,0,0
+"70 % ETHANOL/ SMALL JAR",,0,0
+"70 % ETHANOL/ TANK 31",,0,0
+"70 % ETHANOL/ TANK 32",,0,0
+"70 % ETHANOL/ TANK 33",,0,0
+"70 % ETHANOL/ TANK 34",,0,0
+"70 % ETHANOL/ TANK 34, tissue",,0,0
+"70 % ETHANOL/ TANK 35",,0,0
+"70 % ETHANOL/ TANK 62",,0,0
 "70 % EtOH","70% alcohol",0,1
+"70 % ETOH AND CLEARED AND STAINED",,0,0
+"70% AND 95% ETHANOL/ 2 SMALL JARS, tissue",,0,0
+"70% AND 95% ETHANOL/ SMALL JAR, tissue",,0,0
+"70% AND 95% ETHANOL/ TWO SMALL JARS, tissue",,0,0
+"70% EHANOL/ HALF GALLON JAR, tissue",,0,0
 "70% Ethanol",,0,0
+"70% ETHANOL , tissue",,0,0
+"70% ETHANOL / HALF GALLON JAR",,0,0
+"70% ETHANOL AND 95% ETHANOL/ 2 JARS, tissue",,0,0
+"70% ETHANOL AND 95% ETHANOL/ 2 SMALL JARS, tissue",,0,0
 "70% Ethanol straight",,0,0
+"70% ETHANOL TANK # 67, tissue",,0,0
 "70% Ethanol, Cast",,0,0
 "70% Ethanol, Cleared and Stained",,0,0
 "70% Ethanol, Mandible",,0,0
+"70% ETHANOL, N=1 C&S",,0,0
+"70% ETHANOL, N=2 STAINED",,0,0
 "70% Ethanol, Skeleton",,0,0
 "70% Ethanol, Skin",,0,0
 "70% Ethanol, Skin, Skull, Skeleton",,0,0
 "70% Ethanol, Skull",,0,0
 "70% Ethanol, Skull, Skeleton",,0,0
+"70% ETHANOL, tissue",,0,0
+"70% ETHANOL/",,0,0
+"70% ETHANOL/  (2) SMALL JAR (1) GALLON JAR",,0,0
+"70% ETHANOL/  HALF GALLON JAR",,0,0
+"70% ETHANOL/  HALF GALLON JAR, tissue",,0,0
+"70% ETHANOL/  SMALL JAR",,0,0
+"70% ETHANOL/  TANK 68",,0,0
+"70% ETHANOL/  THREE IN GALLON JAR, THREE IN TANK 57, tissue",,0,0
+"70% ETHANOL/ (2) 1 GALLON JARS",,0,0
+"70% ETHANOL/ 1- 2 1/2 GALLON JAR",,0,0
+"70% ETHANOL/ 1 C&S",,0,0
+"70% ETHANOL/ 1 GALLON JAR",,0,0
+"70% ETHANOL/ 1 GALLON JAR (N=2)",,0,0
+"70% ETHANOL/ 1 GALLON JAR, tissue",,0,0
+"70% ETHANOL/ 1 GALLOON",,0,0
+"70% ETHANOL/ 1 IN SMALL JAR, 3 IN TANK 15",,0,0
+"70% ETHANOL/ 1 IN SMALL JAR; 1 IN TANK 53",,0,0
+"70% ETHANOL/ 1 IN TANK #49, 11 IN 1/2 GALLON JAR",,0,0
+"70% ETHANOL/ 1 OF 2 TANK 65, 2 OF 2 GALLON JAR, tissue",,0,0
+"70% ETHANOL/ 1/2 GAL. JAR",,0,0
+"70% ETHANOL/ 1/2 GALLON",,0,0
+"70% ETHANOL/ 1/2 GALLON JAR",,0,0
+"70% ETHANOL/ 1/2 GALLON JAR (N=100 IN 95% ETHANOL), tissue",,0,0
+"70% ETHANOL/ 1/2 GALLON JAR (N=57 IN 95% ETHANOL), tissue",,0,0
+"70% ETHANOL/ 1/2 GALLON JAR AND TANK #67, tissue",,0,0
+"70% ETHANOL/ 1/2 GALLON JAR, N=5 IN 95% ETOH, tissue",,0,0
+"70% ETHANOL/ 1/2 GALLON JAR, tissue",,0,0
+"70% ETHANOL/ 1/2 GALLON SQUAT JAR",,0,0
+"70% ETHANOL/ 1/2 GALLON, tissue",,0,0
+"70% ETHANOL/ 1/2 SQUAT GALLON JAR",,0,0
+"70% ETHANOL/ 16 OZ. JAR",,0,0
+"70% ETHANOL/ 2 1 GALLON JARS",,0,0
+"70% ETHANOL/ 2- 1 GALLON JARS",,0,0
+"70% ETHANOL/ 2- 1 GALLON JARS; 1- TANK #53",,0,0
+"70% ETHANOL/ 2 1/2 GALLON JAR",,0,0
+"70% ETHANOL/ 2 1/2 GALLON JARS, tissue",,0,0
+"70% ETHANOL/ 2 1-GALLON JARS",,0,0
+"70% ETHANOL/ 2 1-GALLON JARS, tissue",,0,0
+"70% ETHANOL/ 2- 2 1/2 GALLON JARS",,0,0
+"70% ETHANOL/ 2 CT. 1 GALLON JARS",,0,0
+"70% ETHANOL/ 2 GALLON AND 3 GALLON JARS",,0,0
+"70% ETHANOL/ 2 GALLON JAR",,0,0
+"70% ETHANOL/ 2 GALLON JARS",,0,0
+"70% ETHANOL/ 2- GALLON JARS",,0,0
+"70% ETHANOL/ 2 GALLON JARS AND N=1 IN TANK 8",,0,0
+"70% ETHANOL/ 2 GALLON JARS, tissue",,0,0
+"70% ETHANOL/ 2 LARGE JARS",,0,0
+"70% ETHANOL/ 2 OF 3 IN SMALL JAR, 1 OF 3 IN TANK 49 (HSP 025), tissue",,0,0
+"70% ETHANOL/ 2 OVERSIZED JARS",,0,0
+"70% ETHANOL/ 2 OVERSIZED JARS ON BOTTOM SHELF",,0,0
+"70% ETHANOL/ 2 OVERSIZED JARS, tissue",,0,0
+"70% ETHANOL/ 2 SMALL JARS",,0,0
+"70% ETHANOL/ 2 SMALL JARS, tissue",,0,0
+"70% ETHANOL/ 2 SMALL JARS/ 4 SPECIMENS IN 95% EtOH",,0,0
+"70% ETHANOL/ 2.5 GAL JAR",,0,0
+"70% ETHANOL/ 2.5 GALLON JAR",,0,0
+"70% ETHANOL/ 2/5 IN SMALL JAR, 3/5 IN TANK 49 (HSP 059-061), tissue",,0,0
+"70% ETHANOL/ 3 GAL JAR",,0,0
+"70% ETHANOL/ 3 GALLON JAR",,0,0
+"70% ETHANOL/ 3 GALLON JARS",,0,0
+"70% ETHANOL/ 3 VIAL IN SMALL JAR, tissue",,0,0
+"70% ETHANOL/ 3-GAL JAR",,0,0
+"70% ETHANOL/ 4 OZ. JAR",,0,0
+"70% ETHANOL/ 5- 1 GALLON JARS",,0,0
+"70% ETHANOL/ 5 GAL AND 3 GAL JARS",,0,0
+"70% ETHANOL/ 5 GAL JAR",,0,0
+"70% ETHANOL/ 5 GALLON JAR",,0,0
+"70% ETHANOL/ 5 GALLON JAR; TANK 53",,0,0
+"70% ETHANOL/ 6 IN SMALL JAR, 2 IN TANK 15",,0,0
+"70% ETHANOL/ 8 OZ. JAR",,0,0
+"70% ETHANOL/ AGRI BIN #4, tissue",,0,0
+"70% ETHANOL/ AGRIBIN 4",,0,0
+"70% ETHANOL/ AGRI-BIN 4",,0,0
+"70% ETHANOL/ AGRI-TANK 1",,0,0
+"70% ETHANOL/ BARREL 1",,0,0
+"70% ETHANOL/ BARREL 2",,0,0
+"70% ETHANOL/ BLUE BARREL 3",,0,0
+"70% ETHANOL/ BLUE BARREL 3, tissue",,0,0
+"70% ETHANOL/ BLUE BARREL 5",,0,0
+"70% ETHANOL/ BLUE BARREL 5, tissue",,0,0
+"70% ETHANOL/ BUCKET",,0,0
+"70% ETHANOL/ GALLON JAR",,0,0
+"70% ETHANOL/ GALLON JAR (N=25 IN 95% ETHANOL), tissue",,0,0
+"70% ETHANOL/ GALLON JAR , tissue",,0,0
+"70% ETHANOL/ GALLON JAR + 32 OUNCE JAR",,0,0
+"70% ETHANOL/ GALLON JAR AND SMALL JAR",,0,0
+"70% ETHANOL/ GALLON JAR AND TANK #10",,0,0
+"70% ETHANOL/ GALLON JAR AND TANK #9",,0,0
+"70% ETHANOL/ GALLON JAR AND TANK 65 ",,0,0
+"70% ETHANOL/ GALLON JAR, SHARK TANK",,0,0
+"70% ETHANOL/ GALLON JAR, TANK 59",,0,0
+"70% ETHANOL/ GALLON JAR, tissue",,0,0
+"70% ETHANOL/ GALLON JAR/ TANK 49",,0,0
+"70% ETHANOL/ GALLONJAR",,0,0
+"70% ETHANOL/ GLYCERIN/ SMALL JAR",,0,0
+"70% ETHANOL/ HALF GALLON",,0,0
+"70% ETHANOL/ HALF GALLON JAR",,0,0
+"70% ETHANOL/ HALF GALLON JAR, tissue",,0,0
+"70% ETHANOL/ HALF GALLON, tissue",,0,0
+"70% ETHANOL/ HALF-GAL JAR",,0,0
+"70% ETHANOL/ HALF-GAL JAR, tissue",,0,0
+"70% ETHANOL/ HALF-GALLON JAR",,0,0
+"70% ETHANOL/ HALF-GALLON JAR AND SMALL JAR, tissue",,0,0
+"70% ETHANOL/ HALF-GALLON JAR, SMALL JAR",,0,0
+"70% ETHANOL/ HALF-GALLON JAR, tissue",,0,0
+"70% ETHANOL/ HEAD AND EGG MASS ONLY",,0,0
+"70% ETHANOL/ IN 2 JARS",,0,0
+"70% ETHANOL/ IN BARREL, tissue",,0,0
+"70% ETHANOL/ IN BUCKET",,0,0
+"70% ETHANOL/ IN BUCKET WITH JAY",,0,0
+"70% ETHANOL/ IN BUCKET WITH JAY, tissue",,0,0
+"70% ETHANOL/ IN BUCKET, tissue",,0,0
+"70% ETHANOL/ INVOICE #2002-045",,0,0
+"70% ETHANOL/ LARGE GLASS BUCKET, tissue",,0,0
+"70% ETHANOL/ LARGE JAR",,0,0
+"70% ETHANOL/ LARGE JAR, tissue",,0,0
+"70% ETHANOL/ LARGE JAR/ N=1 IN TANK #67",,0,0
+"70% ETHANOL/ N=1 GLYCEROL",,0,0
+"70% ETHANOL/ N=1 TANK 53, N=2 1/2 GAL JAR",,0,0
+"70% ETHANOL/ N=10 IN SHARK TANK, N=1 IN GALLON JAR",,0,0
+"70% ETHANOL/ N=3 C&S",,0,0
+"70% ETHANOL/ N=3 IN LARGE JAR; N=1 IN TANK 55, tissue",,0,0
+"70% ETHANOL/ 'N=6 IN TANK #19",,0,0
+"70% ETHANOL/ N=7 C&S",,0,0
+"70% ETHANOL/ ONE GALLON JAR, tissue",,0,0
+"70% ETHANOL/ OVERSIZE JAR",,0,0
+"70% ETHANOL/ OVERSIZE JAR, tissue",,0,0
+"70% ETHANOL/ OVERSIZED JAR",,0,0
+"70% ETHANOL/ OVERSIZED JAR ON BOTTOM SHELF",,0,0
+"70% ETHANOL/ OVERSIZED JAR, tissue",,0,0
+"70% ETHANOL/ SHARK TANK",,0,0
+"70% ETHANOL/ SHARK TANK AND 2 IN 1 GALLON JAR",,0,0
+"70% ETHANOL/ SHARK TANK, tissue",,0,0
+"70% ETHANOL/ SHORT 1/2 GALLON JAR",,0,0
+"70% ETHANOL/ SHORT 1/2 GALLON JAR, tissue",,0,0
+"70% ETHANOL/ SHORT HALF-GALLON JAR, tissue",,0,0
+"70% ETHANOL/ SKATE TANK",,0,0
+"70% ETHANOL/ SKATE TANK, tissue",,0,0
+"70% ETHANOL/ SMALL JAR",,0,0
+"70% ETHANOL/ SMALL JAR (10 C&S)",,0,0
+"70% ETHANOL/ SMALL JAR (2 C&S)",,0,0
+"70% ETHANOL/ SMALL JAR (2 JARS)",,0,0
+"70% ETHANOL/ SMALL JAR (2 OF 3 IN SHARK TANK)",,0,0
+"70% ETHANOL/ SMALL JAR (2), tissue",,0,0
+"70% ETHANOL/ SMALL JAR (3 C&S)",,0,0
+"70% ETHANOL/ SMALL JAR (5 C&S)",,0,0
+"70% ETHANOL/ SMALL JAR (6 C&S), tissue",,0,0
+"70% ETHANOL/ SMALL JAR (6 C&S, 11 IN 95% ETHANOL), tissue",,0,0
+"70% ETHANOL/ SMALL JAR (8 C&S)",,0,0
+"70% ETHANOL/ SMALL JAR (9 C&S)",,0,0
+"70% ETHANOL/ SMALL JAR (N=1 C&S)",,0,0
+"70% ETHANOL/ SMALL JAR (N=1 IN 95% ETHANOL), tissue",,0,0
+"70% ETHANOL/ SMALL JAR (N=10 IN 95% ETHANOL), tissue",,0,0
+"70% ETHANOL/ SMALL JAR (N=2 C&S)",,0,0
+"70% ETHANOL/ SMALL JAR (N=27 IN 95% ETHANOL), tissue",,0,0
+"70% ETHANOL/ SMALL JAR (N=3 IN 95% ETHANOL), tissue",,0,0
+"70% ETHANOL/ SMALL JAR (N=4 IN TANK 53)",,0,0
+"70% ETHANOL/ SMALL JAR (N=5 IN 95% ETHANOL), tissue",,0,0
+"70% ETHANOL/ SMALL JAR (N=60 IN 95% ETHANOL), tissue",,0,0
+"70% ETHANOL/ SMALL JAR (N=9 IN 95% ETHANOL), tissue",,0,0
+"70% ETHANOL/ SMALL JAR (N=90 IN 95% ETHANOL), tissue",,0,0
+"70% ETHANOL/ SMALL JAR , tissue",,0,0
+"70% ETHANOL/ SMALL JAR AND GALLON JAR, tissue",,0,0
+"70% ETHANOL/ SMALL JAR, N=1 C&S",,0,0
+"70% ETHANOL/ SMALL JAR, N=1 C&S, tissue",,0,0
+"70% ETHANOL/ SMALL JAR, N=1 IN 95% EtOH, tissue",,0,0
+"70% ETHANOL/ SMALL JAR, N=10 IN 95% ETOH, tissue",,0,0
+"70% ETHANOL/ SMALL JAR, N=15 IN 95% ETOH/ N=3 C&S, tissue",,0,0
+"70% ETHANOL/ SMALL JAR, N=16 IN 95% ETOH, tissue",,0,0
+"70% ETHANOL/ SMALL JAR, N=2 IN 95% ETOH, tissue",,0,0
+"70% ETHANOL/ SMALL JAR, N=4 IN 95% ETOH, tissue",,0,0
+"70% ETHANOL/ SMALL JAR, SHARK TANK",,0,0
+"70% ETHANOL/ SMALL JAR, tissue",,0,0
+"70% ETHANOL/ SMALL JAR/ GLYCERIN",,0,0
+"70% ETHANOL/ SMALL JAR/ N=1 C&S",,0,0
+"70% ETHANOL/ SMALL JAR/ N=1 C&S (130 mm)",,0,0
+"70% ETHANOL/ SMALL JAR/ N=2 IN GLYCERIN - C&S",,0,0
+"70% ETHANOL/ SMALL JAR/ N=3 C&S",,0,0
+"70% ETHANOL/ SQUAT 1/2 GALLON",,0,0
+"70% ETHANOL/ SQUAT 1/2 GALLON JAR",,0,0
+"70% ETHANOL/ SQUAT HALF GALLON JAR, tissue",,0,0
+"70% ETHANOL/ SS TANK 42?",,0,0
+"70% ETHANOL/ SS-TANK # 45",,0,0
+"70% ETHANOL/ SS-TANK # 45, tissue",,0,0
+"70% ETHANOL/ SS-TANK # 46",,0,0
+"70% ETHANOL/ SS-TANK # 46, tissue",,0,0
+"70% ETHANOL/ SS-TANK # 47",,0,0
+"70% ETHANOL/ SS-TANK # 48",,0,0
+"70% ETHANOL/ SS-TANK # 49",,0,0
+"70% ETHANOL/ SS-TANK 24",,0,0
+"70% ETHANOL/ SS-TANK 37",,0,0
+"70% ETHANOL/ SS-TANK 37, tissue",,0,0
+"70% ETHANOL/ SS-TANK 40",,0,0
+"70% ETHANOL/ STAINLESS STEEL TANK # 28",,0,0
+"70% ETHANOL/ TANK # 45",,0,0
+"70% ETHANOL/ TANK # 49",,0,0
+"70% ETHANOL/ TANK # 67",,0,0
+"70% ETHANOL/ TANK # 67, tissue",,0,0
+"70% ETHANOL/ TANK # 68, tissue",,0,0
+"70% ETHANOL/ TANK #23",,0,0
+"70% ETHANOL/ TANK #44",,0,0
+"70% ETHANOL/ TANK #47",,0,0
+"70% ETHANOL/ TANK #48",,0,0
+"70% ETHANOL/ TANK #48, tissue",,0,0
+"70% ETHANOL/ TANK #49",,0,0
+"70% ETHANOL/ TANK #53",,0,0
+"70% ETHANOL/ TANK #65",,0,0
+"70% ETHANOL/ TANK #65, tissue",,0,0
+"70% ETHANOL/ TANK #67, tissue",,0,0
+"70% ETHANOL/ TANK #9",,0,0
+"70% ETHANOL/ TANK 1",,0,0
+"70% ETHANOL/ TANK 10",,0,0
+"70% ETHANOL/ TANK 10, tissue",,0,0
+"70% ETHANOL/ TANK 11",,0,0
+"70% ETHANOL/ TANK 12",,0,0
+"70% ETHANOL/ TANK 13",,0,0
+"70% ETHANOL/ TANK 14",,0,0
+"70% ETHANOL/ TANK 14, tissue",,0,0
+"70% ETHANOL/ TANK 15",,0,0
+"70% ETHANOL/ TANK 15, tissue",,0,0
+"70% ETHANOL/ TANK 17",,0,0
+"70% ETHANOL/ TANK 18",,0,0
+"70% ETHANOL/ TANK 19",,0,0
+"70% ETHANOL/ TANK 2",,0,0
+"70% ETHANOL/ TANK 20",,0,0
+"70% ETHANOL/ TANK 20, tissue",,0,0
+"70% ETHANOL/ TANK 21",,0,0
+"70% ETHANOL/ TANK 23",,0,0
+"70% ETHANOL/ TANK 24",,0,0
+"70% ETHANOL/ TANK 25",,0,0
+"70% ETHANOL/ TANK 25, tissue",,0,0
+"70% ETHANOL/ TANK 26",,0,0
+"70% ETHANOL/ TANK 26, tissue",,0,0
+"70% ETHANOL/ TANK 262A",,0,0
+"70% ETHANOL/ TANK 27",,0,0
+"70% ETHANOL/ TANK 27, tissue",,0,0
+"70% ETHANOL/ TANK 28",,0,0
+"70% ETHANOL/ TANK 29",,0,0
+"70% ETHANOL/ TANK 29, tissue",,0,0
+"70% ETHANOL/ TANK 3",,0,0
+"70% ETHANOL/ TANK 30",,0,0
+"70% ETHANOL/ TANK 30, tissue",,0,0
+"70% ETHANOL/ TANK 31",,0,0
+"70% ETHANOL/ TANK 32",,0,0
+"70% ETHANOL/ TANK 33",,0,0
+"70% ETHANOL/ TANK 33, tissue",,0,0
+"70% ETHANOL/ TANK 34",,0,0
+"70% ETHANOL/ TANK 34, tissue",,0,0
+"70% ETHANOL/ TANK 35",,0,0
+"70% ETHANOL/ TANK 36",,0,0
+"70% ETHANOL/ TANK 36/ OVERSIZED JAR",,0,0
+"70% ETHANOL/ TANK 37",,0,0
+"70% ETHANOL/ TANK 37, GALLON JAR",,0,0
+"70% ETHANOL/ TANK 37, LARGE JAR",,0,0
+"70% ETHANOL/ TANK 38",,0,0
+"70% ETHANOL/ TANK 39",,0,0
+"70% ETHANOL/ TANK 4",,0,0
+"70% ETHANOL/ TANK 40",,0,0
+"70% ETHANOL/ TANK 40, tissue",,0,0
+"70% ETHANOL/ TANK 41",,0,0
+"70% ETHANOL/ TANK 42",,0,0
+"70% ETHANOL/ TANK 43",,0,0
+"70% ETHANOL/ TANK 44",,0,0
+"70% ETHANOL/ TANK 44, tissue",,0,0
+"70% ETHANOL/ TANK 45",,0,0
+"70% ETHANOL/ TANK 46",,0,0
+"70% ETHANOL/ TANK 46, tissue",,0,0
+"70% ETHANOL/ TANK 47",,0,0
+"70% ETHANOL/ TANK 48",,0,0
+"70% ETHANOL/ TANK 48, tissue",,0,0
+"70% ETHANOL/ TANK 49",,0,0
+"70% ETHANOL/ TANK 49, tissue",,0,0
+"70% ETHANOL/ TANK 5",,0,0
+"70% ETHANOL/ TANK 50",,0,0
+"70% ETHANOL/ TANK 50, tissue",,0,0
+"70% ETHANOL/ TANK 50?",,0,0
+"70% ETHANOL/ TANK 51",,0,0
+"70% ETHANOL/ TANK 51, tissue",,0,0
+"70% ETHANOL/ TANK 52",,0,0
+"70% ETHANOL/ TANK 52 (N=2) & 1 GALLON JAR (N=4)",,0,0
+"70% ETHANOL/ TANK 52, tissue",,0,0
+"70% ETHANOL/ TANK 53",,0,0
+"70% ETHANOL/ TANK 53, tissue",,0,0
+"70% ETHANOL/ TANK 54",,0,0
+"70% ETHANOL/ TANK 54, tissue",,0,0
+"70% ETHANOL/ TANK 55",,0,0
+"70% ETHANOL/ TANK 55, tissue",,0,0
+"70% ETHANOL/ TANK 56",,0,0
+"70% ETHANOL/ TANK 56, tissue",,0,0
+"70% ETHANOL/ TANK 57",,0,0
+"70% ETHANOL/ TANK 57, tissue",,0,0
+"70% ETHANOL/ TANK 58",,0,0
+"70% ETHANOL/ TANK 58, tissue",,0,0
+"70% ETHANOL/ TANK 59",,0,0
+"70% ETHANOL/ TANK 59, tissue",,0,0
+"70% ETHANOL/ TANK 6",,0,0
+"70% ETHANOL/ TANK 61",,0,0
+"70% ETHANOL/ TANK 61, tissue",,0,0
+"70% ETHANOL/ TANK 62",,0,0
+"70% ETHANOL/ TANK 62, tissue",,0,0
+"70% ETHANOL/ TANK 63",,0,0
+"70% ETHANOL/ TANK 63, tissue",,0,0
+"70% ETHANOL/ TANK 64",,0,0
+"70% ETHANOL/ TANK 65",,0,0
+"70% ETHANOL/ TANK 65, tissue",,0,0
+"70% ETHANOL/ TANK 66",,0,0
+"70% ETHANOL/ TANK 66, tissue",,0,0
+"70% ETHANOL/ TANK 67",,0,0
+"70% ETHANOL/ TANK 67, tissue",,0,0
+"70% ETHANOL/ TANK 68",,0,0
+"70% ETHANOL/ TANK 68, tissue",,0,0
+"70% ETHANOL/ TANK 69, tissue",,0,0
+"70% ETHANOL/ TANK 7",,0,0
+"70% ETHANOL/ TANK 70",,0,0
+"70% ETHANOL/ TANK 70 , tissue",,0,0
+"70% ETHANOL/ TANK 70, tissue",,0,0
+"70% ETHANOL/ TANK 8",,0,0
+"70% ETHANOL/ TANK 9",,0,0
+"70% ETHANOL/ TANK L1-2A",,0,0
+"70% ETHANOL/ TANK L1-2B",,0,0
+"70% ETHANOL/ TANK L1-3",,0,0
+"70% ETHANOL/ TANK L2-1",,0,0
+"70% ETHANOL/ TANK L2-A",,0,0
+"70% ETHANOL/ TO BE C&S",,0,0
+"70% ETHANOL/ TWO IN GALLON JAR, FOUR IN TANK 57",,0,0
+"70% ETHANOL/ TWO IN SMALL JAR, ONE IN TANK 57",,0,0
+"70% ETHANOL/, tissue",,0,0
+"70% ETHANOL/GALLON JAR",,0,0
+"70% ETHANOL/N=2 C&S",,0,0
+"70% ETHANOL/N=2 IN 95% ETHANOL, tissue",,0,0
+"70% ETHANOL/SMALL JAR",,0,0
+"70% ETHANOL/SMALL JAR, tissue",,0,0
+"70% ETHANOL/TANK 48",,0,0
+"70% ETHANOL/TANK 56",,0,0
+"70% ETHANOL/TANK 9",,0,0
+"70% ETHANOL; 1 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; 1 GLYCEROL",,0,0
+"70% ETHANOL; 1 GLYCEROL**",,0,0
+"70% ETHANOL; 10 95% ETHANOL",,0,0
+"70% ETHANOL; 100% GLYCERIN",,0,0
+"70% ETHANOL; 13 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; 16 OZ JAR",,0,0
+"70% ETHANOL; 164 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; 2 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; 2 GLYCEROL",,0,0
+"70% ETHANOL; 20 GLYCEROL",,0,0
+"70% ETHANOL; 20 GLYCEROL*",,0,0
+"70% ETHANOL; 3 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; 3 GLYCEROL",,0,0
+"70% ETHANOL; 32 OZ JAR",,0,0
+"70% ETHANOL; 32 OZ. JAR",,0,0
+"70% ETHANOL; 4 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; 4 GLYCEROL",,0,0
+"70% ETHANOL; 4 OZ. JAR",,0,0
+"70% ETHANOL; 42 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; 5 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; 51 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; 69 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; 7 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; 8 0Z. JAR",,0,0
+"70% ETHANOL; 8 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; 8 OZ JAR",,0,0
+"70% ETHANOL; 8 OZ. JAR",,0,0
+"70% ETHANOL; 9 95% ETHANOL, tissue",,0,0
+"70% ETHANOL; GALLON JAR",,0,0
+"70% ETHANOL; IN 2 JARS",,0,0
+"70% ETHANOL; IN 4 JARS",,0,0
+"70% ETHANOL; IN LARGE JAR",,0,0
+"70% ETHANOL; IN TANK 7",,0,0
+"70% ETHANOL; LARGE JAR",,0,0
+"70% ETHANOL; LARGE JAR*",,0,0
+"70% ETHANOL; N=1 GLYCEROL",,0,0
+"70% ETHANOL; N=1 IN TANK 16",,0,0
+"70% ETHANOL; N=2 TANKED IN #10",,0,0
+"70% ETHANOL; N=3 GLYCEROL",,0,0
+"70% ETHANOL; N=3 IN TANK 19",,0,0
+"70% ETHANOL; N=3 TANK 22",,0,0
+"70% ETHANOL; N=3 TANKED IN ""BUCKET B""",,0,0
+"70% ETHANOL; N=4 TANKED IN ""BUCKET B""; 2 JARS",,0,0
+"70% ETHANOL; N=5 GLYCEROL",,0,0
+"70% ETHANOL; N=6 IN TANK 22",,0,0
+"70% ETHANOL; N=6 TANK 22",,0,0
+"70% ETHANOL; N=7 IN TANK 22",,0,0
+"70% ETHANOL; SMALL JAR",,0,0
+"70% ETHANOL; SMALL JAR, N=1 IN GLYCERIN",,0,0
+"70% ETHANOL; SMALL JAR; N=1 C&S",,0,0
+"70% ETHANOL; SMALL JAR; N=2 IN GLYCERIN",,0,0
+"70% ETHANOL; TANK 05",,0,0
+"70% ETHANOL; TANK 18",,0,0
+"70% ETHANOL; TANK 19",,0,0
+"70% ETHANOL; TANK 23",,0,0
+"70% ETHANOL; TANK 23; WAS TANKED IN ""BUCKET A""",,0,0
+"70% ETHANOL; TANKED",,0,0
+"70% ETHANOL; TANKED IN ""BUCKET A""",,0,0
+"70% ETHANOL; TANKED IN ""BUCKET B""",,0,0
+"70% ETHANOL; TANKED IN ""BUCKET D""",,0,0
+"70% ETHANOL; TS-95% ETHANOL",,0,0
+"70% ETHANOL; TS-95% ETHANOL; EGG-3% FORMALIN, tissue",,0,0
+"70% ETHANOL; XRAYED",,0,0
+"70% ETHNAOL/ SMALL JAR, tissue",,0,0
 "70% EtOH","70% alcohol",0,1
 "70% EtOH - 0",,0,0
 "70% EtOH - 1",,0,0
@@ -2410,15 +2872,37 @@
 "70% EtOH - 99",,0,0
 "70% EtOH - 996",,0,0
 "70% EtOH - 998",,0,0
+"70% ETOH & GLYCERIN",,0,0
+"70% ETOH +",,0,0
+"70% ETOH + C&S",,0,0
+"70% ETOH, tissue",,0,0
+"70% ETOH/ 100% GLYCERIN",,0,0
+"70% ETOH+",,0,0
+"70% ETOH+ 5 CLEARED AND STAINED",,0,0
+"70% ETOH-P",,0,0
+"70% ETOH-P, tissue",,0,0
+"70% ETOH-T",,0,0
+"70% ETOH-X",,0,0
+"70%/ 95% ETHANOL/ 2 SMALL JARS, tissue",,0,0
+"70%ETHANOL/ HALF GALLON JAR",,0,0
 "70%EtOH","70% alcohol",0,1
 "70& EtOH","70% alcohol",0,1
 "74 carpals and tarsals",,0,0
 "74 UNDET.","undetermined",0,1
 "75 Frags",,0,0
+"75% ETOH",,0,0
+"75% ETOH+",,0,0
 "75% L astragalus.",,0,0
 "76 m",,0,0
+"79 FIXED/PRESERVED IN 95% ETHANOL, tissue",,0,0
+"7O% ETHANOL",,0,0
+"7O% ETHANOL/ AGRI-BIN 4",,0,0
+"7O% ETHANOL/ TANK 61",,0,0
+"7O% ETOH",,0,0
+"7O% ETOH-T",,0,0
 "7th R costal.",,0,0
 "7th valve only (in spirit)",,0,0
+"8",,0,0
 "8 calcanea",,0,0
 "8 distal metapodials",,0,0
 "8 distal tibiae",,0,0
@@ -2428,6 +2912,7 @@
 "8 teeth",,0,0
 "8 TEETH/",,0,0
 "8 VERTEBRAE,RIB,SCAPHOLUNAR,METATARSAL 3,5,/R P4, P",,0,0
+"9 - 70% ETHANOL; 5 - DRY",,0,0
 "9 bone Frags",,0,0
 "9 calcanea",,0,0
 "9 m",,0,0
@@ -2439,6 +2924,33 @@
 "9 skull frags",,0,0
 "9 vertebrae",,0,0
 "9/10 L dentary p3 p4 m1 m2 m3; 2/3 R dentary i1 p3 p4 m1 m2",,0,0
+"95 % ETHANOL, tissue",,0,0
+"95 % ETHANOL/ SMALL JAR, tissue",,0,0
+"95 % ETHANOL/ WHOLE SPECIMEN, tissue",,0,0
+"95% ETHANOL, tissue",,0,0
+"95% ETHANOL/ 1 GALLON JAR, tissue",,0,0
+"95% ETHANOL/ 2 SMALL VIALS, tissue",,0,0
+"95% ETHANOL/ 2 VIALS, tissue",,0,0
+"95% ETHANOL/ GALLON JAR",,0,0
+"95% ETHANOL/ GALLON JAR, tissue",,0,0
+"95% ETHANOL/ HALF GALLON JAR, tissue",,0,0
+"95% ETHANOL/ HALF-GAL JAR",,0,0
+"95% ETHANOL/ SMALL JAR",,0,0
+"95% ETHANOL/ SMALL JAR AND 70% ETHANOL/ GALLON JAR, tissue",,0,0
+"95% ETHANOL/ SMALL JAR AND 70% ETHANOL/ SMALL JAR, tissue",,0,0
+"95% ETHANOL/ SMALL JAR, tissue",,0,0
+"95% ETHANOL/ SMALL VIAL, tissue",,0,0
+"95% ETHANOL/ TISSUE COLLECTION, tissue",,0,0
+"95% ETHANOL/ TISSUE VIAL, tissue",,0,0
+"95% ETHANOL/ TISSUES ONLY, tissue",,0,0
+"95% ETHANOL/ VIAL",,0,0
+"95% ETHANOL/ VIAL , tissue",,0,0
+"95% ETHANOL/ VIAL AND 5% FORMALIN SMALL JAR, tissue",,0,0
+"95% ETHANOL/ VIAL, tissue",,0,0
+"95% ETHANOL/ VIAL/ HALF GALLON JAR AND CARTILAGE, tissue",,0,0
+"95% ETHANOL/ VIAL/ HALF GALLON JAR, tissue",,0,0
+"95% ETHANOL/ VIALS, tissue",,0,0
+"95% ETHANOL/SMALL VIAL, tissue",,0,0
 "95% ETOH","95% alcohol",0,1
 "95% EtOH (spec) - 1",,0,0
 "95% EtOH (spec) - 1; 70% EtOH - 1",,0,0
@@ -2628,6 +3140,8 @@
 "95% EtOH (tiss) - 6; 70% EtOH - 6",,0,0
 "95% EtOH (tiss) - 7",,0,0
 "95% EtOH (tiss) - 9",,0,0
+"95% ETOH, tissue",,0,0
+"99% ETHANOL/ SMALL JAR, tissue",,0,0
 "A - partial r maxilla w C-M3; B- l P/4",,0,0
 "A - r p4; B-r dentary w p4-m1",,0,0
 "a lower jaw",,0,0
@@ -5463,6 +5977,8 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Baleen impression + ?maxilla",,0,0
 "Baleen plate","baleen plate",1,1
 "Balsam",,0,0
+"BARREL",,0,0
+"BARREL, tissue",,0,0
 "BASAL PART OF SKULL",,0,0
 "Basal portion L p3.",,0,0
 "Basal portion scapula.",,0,0
@@ -5565,6 +6081,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "blood, tissue","blood, tissue",0,1
 "blood/feather","blood, feather",0,1
 "blood/feather, tissue","blood, feather, tissue",0,1
+"blood/feather/wing, tissue",,0,0
 "blood/feathers","blood, feathers",0,1
 "blood/feathers, tissue","blood, feathers, tissue",0,1
 "BM","body mount (taxidermy mount)",0,1
@@ -5778,6 +6295,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "burrows, associated with VP 3162",,0,0
 "BUTTRESS FRAG",,0,0
 "C",,0,0
+"C & S",,0,0
 "C ?",,0,0
 "C and S - 1","cleared and stained",0,1
 "C CROWN",,0,0
@@ -5894,6 +6412,8 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "C&S, Tissue","cleared and stained, tissue",0,1
 "C&S, Tissue, Dry, Hemipenis","cleared and stained, dry, hemipenis, tissue",0,1
 "C&S, Tissue, Fluid","cleared and stained, fluid, tissue",0,1
+"C&S/ GLYCERIN/ SMALL JAR",,0,0
+"C&S/ SMALL JAR",,0,0
 "C,/2 M",,0,0
 "C,/L M FRAG,/R M,/R M3,P",,0,0
 "C,/M",,0,0
@@ -8039,6 +8559,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "D TUSK/",,0,0
 "d, p4",,0,0
 "D?C1/",,0,0
+"DAMAGED; 70% ETHANOL",,0,0
 "DC",,0,0
 "DC/",,0,0
 "DC/1",,0,0
@@ -8062,6 +8583,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "deciduous tooth, miscellaneous fragments",,0,0
 "deciduous upper canine",,0,0
 "Deformed buds (mounted, in spirit)",,0,0
+"DEFORMED/70% ETHANOL",,0,0
 "Dehydrated",,0,0
 "demal plate",,0,0
 "DENARY ALL TEETH L",,0,0
@@ -9823,6 +10345,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "DERMOPTEROTIC,SCALES,SKULL FRAGS",,0,0
 "DERMOSPHENOTIC",,0,0
 "Dertrum",,0,0
+"DESICCATED/DRY JAR",,0,0
 "DHEEK TOOTH FRAG",,0,0
 "DI",,0,0
 "DI ?",,0,0
@@ -9888,6 +10411,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Disarticulated specimen (mounted)",,0,0
 "Disarticulated specimens (mounted)",,0,0
 "Disc (outer surface)",,0,0
+"DISCARDED 1 DEC 2003",,0,0
+"DISCARDED- ROTTEN, tissue",,0,0
 "DISEASED SKULL",,0,0
 "DISMOUNTED SKULL","dismounted skull",0,1
 "Display skin",,0,0
@@ -11003,9 +11528,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "DRIED SPECIMENS","dried specimens",0,1
 "dried whole",,0,0
 "dried with skeleton",,0,0
+"DRIED/ GALLON JAR, tissue",,0,0
+"DRIED/ HALF GALLON JAR, tissue",,0,0
+"DRIED/ SMALL JAR, tissue",,0,0
 "dRP4",,0,0
 "Dry","dry",1,1
 "Dry eggshells","dry eggshells",0,1
+"DRY JAR",,0,0
 "Dry shell","dry eggshell",0,1
 "DRY SHELL, HEAD, TAIL AND LEG SKINS IN ALCOHOL, GONADS IN FORMALIN","dried shell, dried head, alcoholic tail and legs skins, gonads in formalin",0,1
 "Dry Skel.","dry skeleton",0,1
@@ -11063,10 +11592,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "dry skeleton, tissue, photograph",,0,0
 "Dry skeleton; embryo","dry skeleton, embryo",0,1
 "Dry skeleton; skin","dry skeleton, skin",0,1
+"DRY SKELETONS",,0,0
 "Dry skull","dry skull",1,1
 "DRY SKULL AND CLEARED AND STAINED BODY","cleared and stained, dried skull",0,1
 "Dry skull, C&S ","cleared and stained, dry skull",0,1
 "Dry specimen","dry specimen",1,1
+"DRY STORAGE",,0,0
 "Dry, C&S","cleared and stained, dry",0,1
 "Dry, C&S, Fluid","cleared and stained, dry, fluid",0,1
 "Dry, C&S, Hemipenis, Fluid","cleared and stained, dry, fluid, hemipenis",0,1
@@ -11089,6 +11620,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Dry, Recording","dry, recording",1,1
 "Dry, Tissue","dry, tissue",1,1
 "Dry, Tissue, Fluid","dry, fluid, tissue",0,1
+"DRY/ BONES",,0,0
+"DRY/ JAWS ONLY",,0,0
+"DRY/ SMALL JAR",,0,0
 "DUNG","dung",0,1
 "Dung (dried)",,0,0
 "Dung pellets.",,0,0
@@ -11241,6 +11775,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "egg set/28","eggs",0,1
 "egg set/nest","egg set, nest",0,1
 "egg set/nest, tissue","egg set, nest, tissue",0,1
+"egg set/nest/wing, tissue",,0,0
+"egg set/wing, tissue",,0,0
 "EGG SHELL","egg shell",0,1
 "EGG SHELL (DRY)","egg shell",0,1
 "Egg shell (fragment)",,0,0
@@ -11451,6 +11987,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Endoparasites; Ectoparasites; Chromosomes; Tissue; Unknown - 0",,0,0
 "Endoparasites; Ectoparasites; Chromosomes; Tissue; Unknown - 1",,0,0
 "enest","nest",0,1
+"enest, tissue",,0,0
 "Entepicondylar area R humerus.",,0,0
 "entocuneiform",,0,0
 "ENTOCUNEIFORM ?",,0,0
@@ -11524,6 +12061,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Esqueleto y cráneo","skeleton, skull",0,1
 "Esqueleto, pendiente de limpiar","skeleton",0,1
 "ET","alcoholic",0,1
+"ETHANOL",,0,0
+"ETHANOL/ SMALL JAR, tissue",,0,0
 "ETHMOID",,0,0
 "EtOH","alcoholic",0,1
 "EtOH - 1","alcoholic",0,1
@@ -11569,6 +12108,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "Face + quadrate region (right side)",,0,0
 "Face, showing eye muscles (in spirit)",,0,0
 "Faeces (dried)",,0,0
+"FAIR*/70% ETHANOL",,0,0
+"FAIR*; 70% ETHANOL",,0,0
+"FAIR, DAMAGED*; 70% ETHANOL",,0,0
+"FAIR, DISSECTED*; 70% ETHANOL",,0,0
+"FAIR/70% ETHANOL; 1 MISSING*",,0,0
+"FAIR/70% ETHANOL; LARGE JAR",,0,0
+"FAIR; 70% ETHANOL",,0,0
+"FAIR; DAMAGED*/70% ETHANOL",,0,0
+"FAIR; DISSECTED*/70% ETHANOL",,0,0
 "FANG","fang",0,1
 "FANG AND JAW","fang, jaw",0,1
 "FANG AND PREMAXILLA",,0,0
@@ -11703,6 +12251,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FEATHERS, tissue","feathers, tissue",0,1
 "feathers, wing",,0,0
 "FEATHERS/SKELETON","feathers, skin",0,1
+"feathers/wing, tissue",,0,0
 "Fecal pellets","fecal pellets",0,1
 "feet",,0,0
 "Feet (2 sabots)",,0,0
@@ -12101,6 +12650,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "flat/skel","skeleton, flat skin",0,1
 "flat/skel, tissue","skeleton, flat skin, tissue",0,1
 "flat/skel/egg set","egg set, skeleton, flat skin",0,1
+"flat/skel/egg set, tissue",,0,0
+"flat/skel/wing, tissue",,0,0
 "flat/skel/wng","skeleton, flat skin, wing",0,1
 "flat/wing","flat skin, wing",0,1
 "flat/wing, tissue","flat skin, tissue, wing",0,1
@@ -13709,6 +14260,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "forelimb elements, assoc",,0,0
 "Fore-limbs (wax impregnated)",,0,0
 "Forelimbs + part vertebral column + pelvis (mounted)",,0,0
+"FORMALDEHYDE",,0,0
 "formalin","formalin",1,1
 "Formalin - 1","formalin",0,1
 "Formalin - 10",,0,0
@@ -13775,6 +14327,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Formalin - 9",,0,0
 "Formalin - 92",,0,0
 "Formalin - 94",,0,0
+"formalin, tissue",,0,0
 "FOSSETTE",,0,0
 "Fossette area of upper cheek tooth.",,0,0
 "fossil",,0,0
@@ -14421,10 +14974,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "frozen to 95% EtOH - 9; 70% EtOH - 12",,0,0
 "frozen to 95% EtOH - 9; 70% EtOH - 16",,0,0
 "frozen to 95% EtOH - 9; 70% EtOH - 4",,0,0
+"FROZEN, tissue",,0,0
 "frozen: liver; heart; muscle",,0,0
 "frozen: muscle",,0,0
+"FROZEN; SS-Tank 37",,0,0
 "FS","flat skin (only)",0,1
 "FT",,0,0
+"FTR BLDG.",,0,0
+"FTR RM 113",,0,0
 "full mount",,0,0
 "FULL SKELETON","full skeleton",0,1
 "FULL SKELETON AND TAIL","full skeleton, tail",0,1
@@ -14472,6 +15029,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FUSED SACRAL VERTEBRAE",,0,0
 "fused symphyseal region of l+r dentaries",,0,0
 "FY (6)","FY (6)",0,1
+"GAL",,0,0
 "Galls",,0,0
 "GASTRALIA",,0,0
 "gastrolith",,0,0
@@ -14620,6 +15178,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Generative organs + kidneys (in spirit)",,0,0
 "Generative organs, etc. (in spirit)",,0,0
 "Genitalia (in spirit)",,0,0
+"GIFT TO ERIC HILTON",,0,0
+"GIFT TO ERIC HILTON, tissue",,0,0
+"GIFT TO NMFS/AFSC OBSERVER TEACHING COLLECTION",,0,0
+"GIFT TO NMFS/AFSC OBSERVER TEACHING COLLECTION, tissue",,0,0
+"GIFT TO STANFORD UNIVERSITY",,0,0
 "Gill (in spirit)",,0,0
 "GILL ARCHES",,0,0
 "gill raker",,0,0
@@ -14651,8 +15214,154 @@ R PERIPHERALS 2 - 3.",,0,0
 "GLENOID & SQUAMOSAL ROOT ZYGO L",,0,0
 "GLENOID FOSSA,SCAPULA",,0,0
 "GLY BODY AND DRY SKULL (GLY AND DRY)","body (glycerin), skull",0,1
+"GLYCERIN",,0,0
+"GLYCERIN - C&S",,0,0
+"GLYCERIN/ SMALL JAR",,0,0
+"GLYCERINE",,0,0
+"GLYCEROL",,0,0
+"GLYCEROL/ C&S",,0,0
+"GLYCEROL/ SMALL JAR",,0,0
 "gnawed bone",,0,0
+"GOOD**/70% ETHANOL",,0,0
+"GOOD*/70% ETHANOL",,0,0
+"GOOD*/70% ETHANOL; LARGE JAR",,0,0
+"GOOD, 1 DISSECTED*; 70% ETOH",,0,0
+"GOOD, 1 DISSECTED; 70% ETHANOL",,0,0
+"GOOD, 1 VENTRAL DISSECTION: 70% ETHANOL",,0,0
+"GOOD, 2 DISSECTED*; 70% ETHANOL",,0,0
+"GOOD, 3 DISSECTED*: 70% ETHANOL",,0,0
+"GOOD, 3 VENTRAL DISSECTION: 70% ETHANOL",,0,0
+"GOOD, 5 DISSECTED* ; 70% ETHANOL",,0,0
+"GOOD, 5 DISSECTED*; 70% ETHANOL",,0,0
+"GOOD, ABNORMAL*: 70% ETHANOL",,0,0
+"GOOD, ANTERIOR VENTRAL SLIT: 70% ETHANOL",,0,0
+"GOOD, DAMAGED*; 70% ETHANOL",,0,0
+"GOOD, DAMAGED; 70% ETHANOL",,0,0
+"GOOD, DISSECTED*: 70% ETHANOL",,0,0
+"GOOD, DISSECTED*; 70% ETHANOL",,0,0
+"GOOD, DISSECTED*; 70% ETOH",,0,0
+"GOOD, DISSECTED; 70% ETOH",,0,0
+"GOOD, DORSAL HEAD DISSECTION: 70% ETHANOL",,0,0
+"GOOD, OVARY ONLY*; 70% ETOH",,0,0
+"GOOD, VENTRAL SLIT: 70% ETHANOL",,0,0
+"GOOD,1 DISSECTED: 70% ETHANOL",,0,0
+"GOOD/28 70% ETHANOL; 3 GLYCEROL",,0,0
+"GOOD/70% ETHANOL",,0,0
+"GOOD/70% ETHANOL; (1) DISSECTED",,0,0
+"GOOD/70% ETHANOL; (6) DISSECTED",,0,0
+"GOOD/70% ETHANOL; 1 DISCARDED*",,0,0
+"GOOD/70% ETHANOL; 1 GLYCEROL",,0,0
+"GOOD/70% ETHANOL; 1 IN LARGE JAR",,0,0
+"GOOD/70% ETHANOL; 1 IN LARGE JAR; 44 MISSING*",,0,0
+"GOOD/70% ETHANOL; 1 MISSING",,0,0
+"GOOD/70% ETHANOL; 1 MISSING AS OF MAY/1995",,0,0
+"GOOD/70% ETHANOL; 1 MISSING*",,0,0
+"GOOD/70% ETHANOL; 1 MISSING; LARGE JAR",,0,0
+"GOOD/70% ETHANOL; 19 GLYCEROL*",,0,0
+"GOOD/70% ETHANOL; 2 MISSING",,0,0
+"GOOD/70% ETHANOL; 2 MISSING AS OF MAY/1995",,0,0
+"GOOD/70% ETHANOL; 2 MISSING*",,0,0
+"GOOD/70% ETHANOL; 2 MISSING*; 2 GLYCEROL",,0,0
+"GOOD/70% ETHANOL; 3 MISSING",,0,0
+"GOOD/70% ETHANOL; 3% FORMALIN; 95% ETOH-TS, tissue",,0,0
+"GOOD/70% ETHANOL; 4 GLYCEROL",,0,0
+"GOOD/70% ETHANOL; 5-GLYCEROL*",,0,0
+"GOOD/70% ETHANOL; 9 MISSING",,0,0
+"GOOD/70% ETHANOL; 95% ETOH-TS*",,0,0
+"GOOD/70% ETHANOL; ADULT COLLECTION",,0,0
+"GOOD/70% ETHANOL; DISCARDED*",,0,0
+"GOOD/70% ETHANOL; LARGE JAR",,0,0
+"GOOD/70% ETHANOL; LARGE JAR; 1 MISSING",,0,0
+"GOOD/70% ETHANOL; LARGE JAR; 1 MISSING*",,0,0
+"GOOD/70% ETHANOL; LARGE LAR",,0,0
+"GOOD/70% ETHANOL; MISSING",,0,0
+"GOOD/70% ETHANOL; MISSING*",,0,0
+"GOOD/70% ETHANOL; MIXED LOT*",,0,0
+"GOOD/70% ETHANOL; TANK 18",,0,0
+"GOOD/70% ETHANOL; TANK 262-A",,0,0
+"GOOD/70% ETHANOL; TANK 262-C",,0,0
+"GOOD/70% ETHANOL; TANKED-",,0,0
+"GOOD/70% ETHANOL; TANKED B1-3",,0,0
+"GOOD/70% ETHANOL-UPDATE",,0,0
+"GOOD/70% ETOH (1); 95% ETOH:UNFIXED (1), tissue",,0,0
+"GOOD/70% ETOH (10); 95% ETOH:UNFIXED (2), tissue",,0,0
+"GOOD/70% ETOH (101); 95% ETOH:UNFIXED (8), tissue",,0,0
+"GOOD/70% ETOH (105); 95% ETOH:UNFIXED (3), tissue",,0,0
+"GOOD/70% ETOH (11); 95% ETOH:UNFIXED (3), tissue",,0,0
+"GOOD/70% ETOH (12); 95% ETOH:UNFIXED (1), tissue",,0,0
+"GOOD/70% ETOH (13); 95% ETOH:UNFIXED (1), tissue",,0,0
+"GOOD/70% ETOH (1337); 95% ETOH:UNFIXED (74), tissue",,0,0
+"GOOD/70% ETOH (14); 95% ETOH:UNFIXED (2), tissue",,0,0
+"GOOD/70% ETOH (14); 95% ETOH:UNFIXED (5), tissue",,0,0
+"GOOD/70% ETOH (140); 95% ETOH:UNFIXED (12), tissue",,0,0
+"GOOD/70% ETOH (154); 95% ETOH:UNFIXED (7), tissue",,0,0
+"GOOD/70% ETOH (164); 95% ETOH:UNFIXED (23), tissue",,0,0
+"GOOD/70% ETOH (178); 95% ETOH:UNFIXED (6), tissue",,0,0
+"GOOD/70% ETOH (18); 95% ETOH:UNFIXED (2), tissue",,0,0
+"GOOD/70% ETOH (185); 95% ETOH:UNFIXED (2), tissue",,0,0
+"GOOD/70% ETOH (19); 95% ETOH:UNFIXED (1), tissue",,0,0
+"GOOD/70% ETOH (193); 95% ETOH:UNFIXED (2), tissue",,0,0
+"GOOD/70% ETOH (198); 95% ETOH:UNFIXED (4), tissue",,0,0
+"GOOD/70% ETOH (21); 95% ETOH:UNFIXED (6), tissue",,0,0
+"GOOD/70% ETOH (213); 95% ETOH:UNFIXED (12), tissue",,0,0
+"GOOD/70% ETOH (215); 95% ETOH:UNFIXED (6)",,0,0
+"GOOD/70% ETOH (22); 95% ETOH:UNFIXED (1), tissue",,0,0
+"GOOD/70% ETOH (2551); 95% ETOH:UNFIXED (112), tissue",,0,0
+"GOOD/70% ETOH (26); 95% ETOH:UNFIXED (6), tissue",,0,0
+"GOOD/70% ETOH (266); 95% ETOH:UNFIXED (92), tissue",,0,0
+"GOOD/70% ETOH (28); 95% ETOH:UNFIXED (2), tissue",,0,0
+"GOOD/70% ETOH (29); 95% ETOH:UNFIXED (2), tissue",,0,0
+"GOOD/70% ETOH (3); 95% ETOH:UNFIXED (3), tissue",,0,0
+"GOOD/70% ETOH (35); 95% ETOH:UNFIXED (2), tissue",,0,0
+"GOOD/70% ETOH (38); 95% ETOH:UNFIXED (10), tissue",,0,0
+"GOOD/70% ETOH (38); 95% ETOH:UNFIXED (15), tissue",,0,0
+"GOOD/70% ETOH (390); 95% ETOH:UNFIXED (58), tissue",,0,0
+"GOOD/70% ETOH (4); 95% ETOH:UNFIXED (1), tissue",,0,0
+"GOOD/70% ETOH (44); 95% ETOH:UNFIXED (45), tissue",,0,0
+"GOOD/70% ETOH (44); 95% ETOH:UNFIXED (67), tissue",,0,0
+"GOOD/70% ETOH (46); 95% ETOH:UNFIXED (4), tissue",,0,0
+"GOOD/70% ETOH (46); 95% ETOH:UNFIXED (6), tissue",,0,0
+"GOOD/70% ETOH (49); 95% ETOH:UNFIXED (2)",,0,0
+"GOOD/70% ETOH (52); 95% ETOH:UNFIXED (14), tissue",,0,0
+"GOOD/70% ETOH (53); 95% ETOH:UNFIXED (24), tissue",,0,0
+"GOOD/70% ETOH (562); 95% ETOH:UNFIXED (18)",,0,0
+"GOOD/70% ETOH (601); 95% ETOH:UNFIXED (95)",,0,0
+"GOOD/70% ETOH (61); 95% ETOH:UNFIXED (17), tissue",,0,0
+"GOOD/70% ETOH (65); 95% ETOH:UNFIXED (14), tissue",,0,0
+"GOOD/70% ETOH (692); 95% ETOH:UNFIXED (17), tissue",,0,0
+"GOOD/70% ETOH (88); 95% ETOH:UNFIXED (8), tissue",,0,0
+"GOOD/70% ETOH (92); 95% ETOH:UNFIXED (1), tissue",,0,0
+"GOOD/70% ETOH (99); 95% ETOH:UNFIXED (10), tissue",,0,0
+"GOOD/70% ETOH (99); 95% ETOH:UNFIXED (2), tissue",,0,0
+"GOOD/70% ETOH; 8-95% ETOH-NFF; 5-GLYCEROL*, tissue",,0,0
+"GOOD/95% ETHANOL; UNFIXED, tissue",,0,0
+"GOOD/SKELETON",,0,0
+"GOOD: 70% ETHANOL",,0,0
+"GOOD: 70% ETHANOL, LARGE JAR",,0,0
+"GOOD: 70% ETHANOL/ N=1 C&S",,0,0
+"GOOD: 70% ETHANOL/UNFIXED",,0,0
+"GOOD; 1 DAMAGED*/70% ETHANOL; 1 MISSING**",,0,0
+"GOOD; 1 DISSECTED/70% ETHANOL",,0,0
+"GOOD; 3 DISSECTED/70% ETHANOL",,0,0
+"GOOD; 5 DISSECTED: 70% ETHANOL",,0,0
+"GOOD; 70% ETHANOL, 1 IN TANK 05",,0,0
+"GOOD; 70% ETHANOL, 2 IN TANK 05",,0,0
+"GOOD; 70% ETHANOL, GLASS BUCKET",,0,0
+"GOOD; 70% ETHANOL, IN TANK 10",,0,0
+"GOOD; DAMAGED*/70% ETHANOL",,0,0
+"GOOD; DAMAGED*/70% ETHANOL; 2 MISSING",,0,0
+"GOOD; DAMAGED*/70% ETOH; LARGE JAR; 2 MISSING",,0,0
+"GOOD; DAMAGED*/70% ETOH; TANKED-",,0,0
+"GOOD; DEFORMED*/70% ETHANOL",,0,0
+"GOOD; DISSECTED*/70% ETHANOL",,0,0
+"GOOD; DISSECTED*/70% ETHANOL; LARGE JAR",,0,0
+"GOOD; DISSECTED/70% ETHANOL",,0,0
+"GOOD; DISSECTED/70% ETHANOL; 8 MISSING*",,0,0
+"GOOD; DISSECTED;DAMAGED*/70% ETOH; LARGE JAR",,0,0
+"GOOD; GLYCERINE",,0,0
+"GOOD; HEAD ONLY/70% ETHANOL",,0,0
 "Gravid uterus (in spirit)",,0,0
+"GRENADIER BARREL, tissue",,0,0
 "Gullet (in spirit)",,0,0
 "Gullet, dissected (in spirit)",,0,0
 "H",,0,0
@@ -16061,6 +16770,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Inominate fragments",,0,0
 "Insect ""cocoons) + invertebrate (fragments)",,0,0
 "inside skin",,0,0
+"INTENTIONALLY COMBINED WITH UW 014982",,0,0
+"INTENTIONALLY COMBINED WITH UW 015127",,0,0
 "Intercentra",,0,0
 "Intercentra + pleuracentrum + neural arch",,0,0
 "INTERCENTRA,PHALANGES",,0,0
@@ -16175,6 +16886,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "isolated tooth",,0,0
 "isolated upper molar",,0,0
 "isolated upper P4 or M1",,0,0
+"ISOPROPANOL",,0,0
 "Ix",,0,0
 "Ix/",,0,0
 "Ix/ frag",,0,0
@@ -19811,6 +20523,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "large calc frag",,0,0
 "large incisor frag",,0,0
 "Large intestine (in spirit)",,0,0
+"LARGE JAR",,0,0
 "large left pelvic complex",,0,0
 "Large Leg Bones",,0,0
 "LARGE LOT",,0,0
@@ -23417,7 +24130,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "miscellaneus cranial+vertebral frags",,0,0
 "miscellanous dentary+tooth fragments",,0,0
 "miscteeth",,0,0
+"MISSING AS OF APR/1995*",,0,0
+"MISSING AS OF MAY/1995*",,0,0
 "Missing head (in spirit)",,0,0
+"MISSING, 1995",,0,0
+"MISSING/TISSUE ONLY, tissue",,0,0
 "mixed lower tooth frags",,0,0
 "ML 3",,0,0
 "mnd ?symphasis w/ roots",,0,0
@@ -23556,6 +24273,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "mount, Tissue number 11628",,0,0
 "mount, Tissue number 3960 at ANSP",,0,0
 "mount/nest","mount, nest",0,1
+"mount/nest, tissue",,0,0
 "mount/part skel","mount, partial skeleleton",0,1
 "mount/part skel, tissue","mount, partial skeleton, tissue",0,1
 "Mount/Skeleton","mount, skeleton",0,1
@@ -23574,6 +24292,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Mounted model of restored skeleton",,0,0
 "Mounted restoration",,0,0
 "mounted skel","mounted skeleton",0,1
+"mounted skel, tissue",,0,0
 "mounted skeleton","skeleton (mounted)",0,1
 "mounted skeleton on exhibit",,0,0
 "mounted skull; antlers","antlers, mounted skull",0,1
@@ -23700,6 +24419,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Mx/ worn",,0,0
 "Mx/, heavily worn",,0,0
 "N","nest",0,1
+"N=1 70% ETHANOL/ SMALL JAR; N=1 CLEARED AND STAINED",,0,0
+"N=1 IN 95% ETHANOL/ SMALL JAR, N=1 IN 70% ETHANOL/ SMALL JAR, tissue",,0,0
+"N=2 IN 70% ETHANOL/ SMALL JAR; N=1 CLEARED AND STAINED",,0,0
+"N=2 IN 70% ETOH/ N=30 IN 95% ETOH, tissue",,0,0
+"N=222 70% ETHANOL, N=20 95% ETHANOL, tissue",,0,0
+"N=4 70% ETHANOL; N=2 GLYCEROL",,0,0
+"N=5 NON-FORMALIN FIXED--STORED IN 70% ETHANOL",,0,0
+"N=8 70% ETHANOL; N=6 C&S",,0,0
 "n1",,0,0
 "Nail-galls (mounted, in spirit)",,0,0
 "NASAL",,0,0
@@ -23911,6 +24638,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "NEURALS,COSTALS",,0,0
 "neurocranial endocast",,0,0
 "neurocranium",,0,0
+"NEUROCRANIUM FROZEN; TISSUES 95% ETOH",,0,0
 "nine isolated cheek teeth, maxillary frag w M",,0,0
 "nineteen isolated cheek teeth",,0,0
 "Nine-tenths L ulna.",,0,0
@@ -23953,6 +24681,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "none listed in card catalog",,0,0
 "none specified",,0,0
 "none, wing",,0,0
+"NON-FORMALIN FIXED--STORED IN 70% ETHANOL",,0,0
+"NON-FORMALIN FIXED--STORED IN 70% ETHANOL, tissue",,0,0
 "NOT GIVEN",,0,0
 "Not Mounted",,0,0
 "NOT RECORDED",,0,0
@@ -24798,6 +25528,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Ovaries, oviducts, lungs etc. (in spirit)",,0,0
 "Ovaries, with Graafian follicles (in spirit)",,0,0
 "Ovary, cut open (in spirit)",,0,0
+"OVERSIZED JAR ON BOTTOM SHELF",,0,0
 "Oviduct with egg capsule (in spirit)",,0,0
 "P","P",0,1
 "P ?",,0,0
@@ -25593,8 +26324,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "part skeleton with dentary and maxillary frags",,0,0
 "part skeleton, nodule with bone",,0,0
 "part skin","partial skin",0,1
+"part skin, tissue",,0,0
 "part skin/part skel","parital skeleton, partial skin",0,1
+"part skin/part skel, tissue",,0,0
 "part skin/skel","skeleton, partial skin",0,1
+"part skin/skel, tissue",,0,0
 "PART SKULL",,0,0
 "PART SKULL & SEVERAL CERV","partial body skeleton, cervicals",0,1
 "part skull w l P4/-M3/, rM1-3/, basicranium",,0,0
@@ -27538,6 +28272,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Photo - 11",,0,0
 "Photo - 2",,0,0
 "Photo - 3",,0,0
+"PHOTO AND TISSUE ONLY, tissue",,0,0
 "photo specimen",,0,0
 "Photo voucher","photo voucher",0,1
 "photo, tissue",,0,0
@@ -27840,6 +28575,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "podials+tooth frags",,0,0
 "Polished section",,0,0
 "Poor condition (in spirit)",,0,0
+"POOR*/70% ETHANOL",,0,0
+"POOR*; DISSECTED**/70% ETHANOL",,0,0
+"POOR/70% ETHANOL; DISCARDED*",,0,0
+"POOR/70% ETHANOL; LARGE JAR",,0,0
+"POOR/70% ETHANOL; LARGE JAR; 4 MISSING",,0,0
+"POOR/DISCARDED, MAY/1995",,0,0
+"POOR; 70% ETHANOL",,0,0
+"POOR; HEADS ONLY/70% ETHANOL; 1 MISSING",,0,0
 "PORT. DENTARIES O.","partial dentaries",0,1
 "PORT. DENTARY O.","partial dentary",0,1
 "PORT. SKULL & SKIN","partial skull, skin",0,1
@@ -28772,6 +29515,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "preserved head, two limbs",,0,0
 "Preserved in EtOH",,0,0
 "preserved R post limb",,0,0
+"preserved, tissue",,0,0
 "PRESUMED FIN ELEMENT (2 ARTICULATED UNITS).",,0,0
 "PREVOMER TOOTH",,0,0
 "PREZYGAPOPHYSIS",,0,0
@@ -33944,13 +34688,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "round wing, tissue","round wing, tissue",0,1
 "round, tissue","round skin, tissue",0,1
 "round/egg set","egg set, round skin",0,1
+"round/egg set, tissue",,0,0
 "round/nest","nest, round skin",0,1
+"round/nest, tissue",,0,0
 "round/part skel","partial skeleton, round skin",0,1
 "round/part skel, tissue","partial skeleton, round skin, tissue",0,1
 "round/skel","round skin, skeleton",0,1
 "round/skel, tissue","skeleton, round skin, tissue",0,1
 "round/skel/wing","round skin, skeleton, wing",0,1
+"round/skel/wing, tissue",,0,0
 "round/tissue","round skin, tissue",0,1
+"round/tissue, tissue",,0,0
+"round/tissue/skel, tissue",,0,0
 "round/wing","round skin, wing",0,1
 "round/wing (check)","round skin, wing",0,1
 "round/wing (teaching)","round skin, wing",0,1
@@ -33962,6 +34711,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "round/wing/part skel, tissue","partial skeleton, round skin, tissue, wing",0,1
 "round/wing/skel","skeleton, round skin, wing",0,1
 "round/wing/skel, tissue","skeleton, round skin, tissue, wing",0,1
+"round/wing/tissue, tissue",,0,0
 "Rp/1",,0,0
 "Rp/2",,0,0
 "Rp/2-3",,0,0
@@ -34830,6 +35580,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel, parasites collected",,0,0
 "Skel, parasites saved",,0,0
 "skel, partial","partial skeleton",0,1
+"skel, partial, tissue",,0,0
 "Skel, parts of skeletons PM 2880, 2881 and 2882 were mixed in transit and later sorted by hand (RWS 10 Jun 1978)",,0,0
 "Skel, pelt kept",,0,0
 "Skel, prep by S W [= Sea World?]",,0,0
@@ -34889,6 +35640,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skel/wing","skeleton, wing",0,1
 "skel/wing, tissue","skeleton, tissue, wing",0,1
 "skel/wing/egg set","egg set, skeleton, wing",0,1
+"skel/wing/egg set, tissue",,0,0
 "skel/wing/foot","foot, skeleton, wing",0,1
 "skel/wing/syrinx","skeleton, syrinx, wing",0,1
 "skel/wing/syrinx, tissue","skeleton, syrinx, tissue, wing",0,1
@@ -38635,6 +39387,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELETON,SCALES",,0,0
 "SKELETON,SKULL",,0,0
 "SKELETON,SKULL,INCOMPL DENTARY",,0,0
+"SKELETON/ GILLS IN TANK 68, tissue",,0,0
 "Skeleton/C&S","skeleton, cleared and stained",0,1
 "Skeleton/crown skin",,0,0
 "SKELETON/FEATHERS","skeleton, feathers",0,1
@@ -58889,6 +59642,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "ST","ST",0,1
 "STAHLBEIN",,0,0
 "Stahlbein.",,0,0
+"STAINLESS STEEL TANK #??",,0,0
+"STAINLESS STEEL TANK #10",,0,0
+"STAINLESS STEEL TANK #23, tissue",,0,0
 "Stapes",,0,0
 "Stapes (left)",,0,0
 "Stapes (proximal end)",,0,0
@@ -58985,6 +59741,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "stick wing","stick wing",0,1
 "stinger",,0,0
 "STOCK,C.",,0,0
+"STOCKARDS",,0,0
 "Stomach (dried)",,0,0
 "Stomach (in spirit)",,0,0
 "Stomach + liver + gall bladder (in spirit)",,0,0
@@ -58999,6 +59756,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Stomach, liver, etc. (in spirit)",,0,0
 "Stomach, pyloric appendages & part of oesophagus (in spirit)",,0,0
 "Stomach, trachea & bronchi, heart, kidney, bladder, penis (in spirit)",,0,0
+"STORED ONLY IN 95% ETOH, tissue",,0,0
+"STORED ONLY IN 95% ETOH/ SMALL JAR, tissue",,0,0
 "streamworn vertebra",,0,0
 "STUDY","study skin",0,1
 "study skin","study skin",0,1
@@ -59317,6 +60076,31 @@ R PERIPHERALS 2 - 3.",,0,0
 "talonid frag",,0,0
 "Talonid L P4/.",,0,0
 "talonids",,0,0
+"TANK 05",,0,0
+"TANK 10",,0,0
+"TANK 12",,0,0
+"TANK 13",,0,0
+"TANK 143-A",,0,0
+"TANK 15",,0,0
+"TANK 16-A",,0,0
+"TANK 188-A",,0,0
+"TANK 196-A (TANK 12), tissue",,0,0
+"TANK 21",,0,0
+"TANK 22-A",,0,0
+"TANK 23",,0,0
+"TANK 24",,0,0
+"TANK 262-A",,0,0
+"TANK 262-B",,0,0
+"TANK 262-C",,0,0
+"TANK 262-D",,0,0
+"TANK 262-E",,0,0
+"TANK 262-F",,0,0
+"TANK 276-A",,0,0
+"TANK 276-B",,0,0
+"TANK 279-A",,0,0
+"TANK 362-A",,0,0
+"TANK 4-A",,0,0
+"TANK 59",,0,0
 "tanned hide","tanned skin",0,1
 "TANNED SKIN","tanned skin",0,1
 "Tanned Skin and Skeleton",,0,0
@@ -60361,6 +61145,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue number none taken",,0,0
 "Tissue number not taken",,0,0
 "Tissue number Y",,0,0
+"TISSUE SAMPLE IN BRINE, tissue",,0,0
 "tissue, alcoholic",,0,0
 "tissue, alcoholic, complete skeleton",,0,0
 "tissue, alcoholic, round skin",,0,0
@@ -60797,6 +61582,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, wing, tissue, other",,0,0
 "tissue, wing, tissue, round skin",,0,0
 "tissue, wings","tissue, wings",1,1
+"tissue/wing, tissue",,0,0
 "Tissue; Eggset",,0,0
 "Tissue; Eggset; Fluid",,0,0
 "Tissue; Eggset; Skin",,0,0
@@ -61402,6 +62188,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "TRUNK ARMOUR PLATE FRAG ?",,0,0
 "TRUNK SCALES,PELVIC FIN",,0,0
 "trunk skel","trunk skeleton",0,1
+"trunk skel, tissue",,0,0
 "TRUNK SKELETON","trunk skeleton",0,1
 "TRUNK SKELETON, ONE EYE RING","trunk skeleton, eye ring",0,1
 "TRUNK SKELETON, ONE EYE RING AND HYOID APPARATUS","trunk skeleton, eye ring, hyoid apparatus",0,1
@@ -61957,6 +62744,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "urostyles",,0,0
 "Uterus + foetus (in spirit)",,0,0
 "Uterus, gravid (in spirit)",,0,0
+"UW-S.O.F.",,0,0
 "valves",,0,0
 "Valves (mounted)",,0,0
 "Various",,0,0
@@ -62609,7 +63397,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "VETEBRAE",,0,0
 "vetebrae, maxilla, dentary",,0,0
 "VETEBRAE,SKELETAL FRAGS",,0,0
+"VETEBRAL DISSECTIONS/70% ETHANOL",,0,0
 "Vetebral fragments",,0,0
+"VIAL BROKEN",,0,0
 "Viscera - 1; C&S Skeleton - 1; Fluid - 17",,0,0
 "Viscera - 1; Fluid - 1",,0,0
 "Viscera - 10; Fluid - 14",,0,0
@@ -62778,6 +63568,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Wing bone",,0,0
 "Wing- bone",,0,0
 "wing feathers","wing feathers",0,1
+"wing feathers, tissue",,0,0
 "WING L",,0,0
 "wing phalanx",,0,0
 "WING PHALANX I, DIGIT III, AD.",,0,0
@@ -62831,6 +63622,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing/tail/part skel","partial skeleton, tail, wing",0,1
 "wing/tail/skel","skeleton, tail, wing",0,1
 "wing/tail/skel/foot","foot, skeleton, tail, wing",0,1
+"wing/tissue, tissue",,0,0
 "wing; foot",,0,0
 "wing; frozen: liver; heart; muscle",,0,0
 "wing; No data","wing",0,1

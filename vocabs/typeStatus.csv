@@ -1,4 +1,5 @@
 "typeStatus","standardTypeStatus","standard","checked"
+"",,0,0
 """Type""","holotype",0,1
 "(= Type of P. plumbeiceps Lawr.)","holotype",0,1
 "(A type of cearensis Bd)","holotype",0,1
@@ -4489,6 +4490,7 @@ Paratype",,0,0
 "TYPE platensis","holotype",0,1
 "TYPE Puffinus pacificus royanus","holotype",0,1
 "TYPE salvini","holotype",0,1
+"TYPE SERIES",,0,0
 "type series (MS)","type series",0,1
 "Type specimen","holotype",0,1
 "TYPE specimen Apalis bameridae strausae Ann. Carnegie Mus. XXI pg 53","holotype",0,1

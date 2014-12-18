@@ -64,6 +64,7 @@
 """Piped"" ""Hatching""",,0,0
 """slightly inc""",,0,0
 """started""",,0,0
+"""TYPE""",,0,0
 """very wave""",,0,0
 """y. of y.""",,0,0
 """yg""","young",0,1
@@ -640,6 +641,13 @@
 "1 addled; 4 about 1 week",,0,0
 "1 addled; 7 ready to hatch",,0,0
 "1 adult & 1 metamorphosing larva",,0,0
+"1 ADULT FEMALE; 2 LAR",,0,0
+"1 ADULT MALE; 1 LARVA",,0,0
+"1 ADULT; 18 JUVENILE",,0,0
+"1 ADULT; 23 JUVENILE",,0,0
+"1 ADULT; 29 JUVENILE",,0,0
+"1 ADULT; 3 JUVENILE",,0,0
+"1 ADULT; 8 JUVENILE",,0,0
 "1 adv., 3 infertile?",,0,0
 "1 advancec; 1 addled",,0,0
 "1 advanced 2 addled",,0,0
@@ -805,6 +813,7 @@
 "1 feathered young
 2 just starte",,0,0
 "1 Female And 2 Male Eyases",,0,0
+"1 FEMALE, 3 MALES",,0,0
 "1 five days, 1 three days, 1 one",,0,0
 "1 five days, 1 three days, 1 one day",,0,0
 "1 Five Days, Other Fresh",,0,0
@@ -1080,6 +1089,10 @@ begun",,0,0
 "1 infertile; others hatched and ",,0,0
 "1 just commenced, 2 ....more tha",,0,0
 "1 just commenced, rest fresh",,0,0
+"1 JUVENILE, 1 EGG CAS",,0,0
+"1 JUVENILE; 1 ADULT",,0,0
+"1 JUVENILE; 2 ADULT",,0,0
+"1 JUVENILE; 4 ADULT",,0,0
 "1 Large Embryo",,0,0
 "1 large embryo (decomposed); 1 i",,0,0
 "1 large embryo (decomposed); 1 infertile",,0,0
@@ -1097,12 +1110,15 @@ begun",,0,0
 "1 large embryo; 1 infertile",,0,0
 "1 large embryos, 2 small embryos",,0,0
 "1 larva",,0,0
+"1 LARVA, 3 JUVENILE",,0,0
 "1 Lrg Embryo, 1 Infertile, 1 Add",,0,0
 "1 Lrg Embryo, 1 Infertile, 1 Addled",,0,0
+"1 MALE",,0,0
 "1 Male And I Female Eyas Produce",,0,0
 "1 Male And I Female Eyas Produced",,0,0
 "1 male chick, ca. 18 days old",,0,0
 "1 male fledged",,0,0
+"1 MALE, 1 FEMALE",,0,0
 "1 med, 2 advanced",,0,0
 "1 Med, 2 Small embryos",,0,0
 "1 medium host embryo, 4 large co",,0,0
@@ -1122,6 +1138,7 @@ begun",,0,0
 "1 not fertile; the other ready t",,0,0
 "1 not recorded; 3 young",,0,0
 "1 of 2 Fresh",,0,0
+"1 OF 2 JARS",,0,0
 "1 of 3 failed eggs",,0,0
 "1 of 4 eggs-clutch failed",,0,0
 "1 one-half; 1 one-eighth",,0,0
@@ -1544,6 +1561,7 @@ begun",,0,0
 "10 - 15% incubated except one rotten",,0,0
 "10 % (see card)",,0,0
 "10 % incubated",,0,0
+"10 ADULT; 30 JUVENILE",,0,0
 "10 Days",,0,0
 "10 days (12)",,0,0
 "10 days (soft bones)",,0,0
@@ -1588,7 +1606,13 @@ begun",,0,0
 "1014 moderate dead; 1015 moderat",,0,0
 "10-15 days",,0,0
 "1021 moderate",,0,0
+"105 ADULT; 309 JUVENI",,0,0
 "1054-1055 addled; 1056 advanced",,0,0
+"11 ADULT; 14 JUVENILE",,0,0
+"11 ADULT; 4 JUVENILE",,0,0
+"11 ADULT; 47 JUVENILE",,0,0
+"11 ADULT; 6 JUVENILE",,0,0
+"11 ADULT; 9 JUVENILE",,0,0
 "11 days",,0,0
 "11 days post-laying",,0,0
 "11 large embryos, 1 medium embry",,0,0
@@ -1615,6 +1639,8 @@ begun",,0,0
 "1186 slight-dead-addled; 1187-11",,0,0
 "1186 slight-dead-addled; 1187-1188 slight.",,0,0
 "1189, 1191 fresh; 1190 slight",,0,0
+"12 ADULT; 34 JUVENILE",,0,0
+"12 ADULT; 40 JUVENILE",,0,0
 "1-2 day",,0,0
 "12 Days",,0,0
 "1-2 Days",,0,0
@@ -1648,6 +1674,7 @@ begun",,0,0
 "1260 moderate-viable; 1261-1262 ",,0,0
 "1291 slight-moderate; 1292 moder",,0,0
 "1291 slight-moderate; 1292 moderate",,0,0
+"13 ADULT; 4 JUVENILE",,0,0
 "1-3 advanced",,0,0
 "13 days",,0,0
 "1-3 days",,0,0
@@ -1707,11 +1734,13 @@ begun",,0,0
 "1451-52 fresh; 1453 slight",,0,0
 "1454-55 fresh; 1456 slight",,0,0
 "1457-58 fresh; 1459 slight",,0,0
+"15 ADULT; 7 JUVENILE",,0,0
 "15 Days",,0,0
 "15 days post-laying",,0,0
 "15 days, 1 egg fresh",,0,0
 "15 days, 1 rotten",,0,0
 "15 jours",,0,0
+"15 JUVENILE, 24 ADULT",,0,0
 "15 larvae in tube",,0,0
 "15 mo.",,0,0
 "15 to 20 days",,0,0
@@ -1749,6 +1778,7 @@ begun",,0,0
 "16-20 days",,0,0
 "16-fresh 17-advanced",,0,0
 "16g",,0,0
+"17 ADULT; 50 JUVENILE",,0,0
 "17 days",,0,0
 "17 days post-laying",,0,0
 "17 eggs, 10 left the nest",,0,0
@@ -1777,6 +1807,7 @@ begun",,0,0
 "1891",,0,0
 "1892 advanced",,0,0
 "1897-98 fresh",,0,0
+"19 ADULT; 24 JUVENILE",,0,0
 "19 broken, 11 hatched, 3 develop",,0,0
 "19 broken, 11 hatched, 3 developed and broken",,0,0
 "19 days post-laying",,0,0
@@ -1886,6 +1917,13 @@ begun",,0,0
 "2 addled, 2 fresh",,0,0
 "2 addled, 2 young hatched",,0,0
 "2 addled, 2 young just hatched",,0,0
+"2 ADULT; 11 JUVENILE",,0,0
+"2 ADULT; 16 JUVENILE",,0,0
+"2 ADULT; 27 JUVENILE",,0,0
+"2 ADULT; 28 JUVENILE",,0,0
+"2 ADULT; 3 JUVENILE",,0,0
+"2 ADULT; 38 JUVENILE",,0,0
+"2 ADULT; 63 LARVA",,0,0
 "2 adv. 2 infertile",,0,0
 "2 adv. 4 addled",,0,0
 "2 advanced - 1 addled",,0,0
@@ -2203,6 +2241,14 @@ begun",,0,0
 "2 jars",,0,0
 "2 just begun, 1 none",,0,0
 "2 just started; 1 - 1/4",,0,0
+"2 JUVENILE*; 1 ADULT",,0,0
+"2 JUVENILE, 10 ADULT",,0,0
+"2 JUVENILE; 1 ADULT",,0,0
+"2 JUVENILE; 1 ADULT M",,0,0
+"2 JUVENILE; 2 ADULT",,0,0
+"2 JUVENILE; 2 ADULT*",,0,0
+"2 JUVENILE; 3 ADULT",,0,0
+"2 JUVENILE; 4 ADULT",,0,0
 "2 large embryo, 1 fresh",,0,0
 "2 Large Embryos",,0,0
 "2 large embryos ; abandoned",,0,0
@@ -2220,6 +2266,7 @@ begun",,0,0
 "2 large, 1 medium embryo",,0,0
 "2 larva",,0,0
 "2 larvae",,0,0
+"2 MALES, 2 FEMALES",,0,0
 "2 Med, 2 Small embryos",,0,0
 "2 med. Embryos",,0,0
 "2 med. Embryos, 1 addled",,0,0
@@ -2472,6 +2519,8 @@ begun",,0,0
 "2+ Weeks",,0,0
 "20 & 25 days",,0,0
 "2-0 2-begun",,0,0
+"20 ADULT; 11 JUVENILE",,0,0
+"20 ADULT; 2 JUVENILE",,0,0
 "20 day juv.",,0,0
 "20 Days",,0,0
 "20 days covered",,0,0
@@ -2486,6 +2535,7 @@ begun",,0,0
 "2046 moderate",,0,0
 "2½ yr. ? Ad.",,0,0
 "21",,0,0
+"21 ADULT; 3 JUVENILE",,0,0
 "21 days","21 days",0,1
 "2-1/2 2-infertile",,0,0
 "2-1/3, 1-1/2",,0,0
@@ -2511,6 +2561,8 @@ begun",,0,0
 "2192-93 slight",,0,0
 "2196-97 moderate",,0,0
 "22 +/- days",,0,0
+"22 ADULT; 15 JUVENILE",,0,0
+"22 ADULT; 19 JUVENILE",,0,0
 "22 days",,0,0
 "22 days old",,0,0
 "2200-01 moderate",,0,0
@@ -2589,6 +2641,7 @@ begun",,0,0
 "2591 fresh",,0,0
 "2594 moderate",,0,0
 "2597 moderate",,0,0
+"26 ADULT; 9 JUVENILE",,0,0
 "26 days",,0,0
 "2-6 days",,0,0
 "26 YEARS OLD AT DEATH",,0,0
@@ -2625,7 +2678,10 @@ begun",,0,0
 "2690 advanced-feathered; 2691 moderate-advanced",,0,0
 "2694 moderate",,0,0
 "2697 fresh",,0,0
+"27 ADULT; 19 JUVENILE",,0,0
 "27 days",,0,0
+"27 EMBRYO, 2 EGG CASE",,0,0
+"27 JUVENILES, 1 ADULT",,0,0
 "27 larvae",,0,0
 "27 yr  3 mo",,0,0
 "2700 moderate",,0,0
@@ -2641,6 +2697,7 @@ begun",,0,0
 "2870 fresh; 2871 slight",,0,0
 "29 & 30 infertile 31 large embry",,0,0
 "29 & 30 infertile 31 large embryo",,0,0
+"29 ADULT; 51 JUVENILE",,0,0
 "29 days",,0,0
 "2922 fresh",,0,0
 "2-advanced, 1-infertile",,0,0
@@ -2696,6 +2753,16 @@ begun",,0,0
 "3 addled, 2 begun",,0,0
 "3 addled, 2 one week",,0,0
 "3 addled, 2 well-begun",,0,0
+"3 ADULT",,0,0
+"3 ADULT; 1 JUVENILE",,0,0
+"3 ADULT; 1 LARVAE",,0,0
+"3 ADULT; 11 JUVENILE",,0,0
+"3 ADULT; 117 JUVENILE",,0,0
+"3 ADULT; 15 JUVENILE",,0,0
+"3 ADULT; 16 JUVENILE",,0,0
+"3 ADULT; 2 JUVENILE",,0,0
+"3 ADULT; 24 JUVENILE",,0,0
+"3 ADULT; 7 JUVENILE",,0,0
 "3 adults",,0,0
 "3 ADULTS, 8 LARVAE",,0,0
 "3 advanced, 1 addled",,0,0
@@ -2888,6 +2955,11 @@ begun",,0,0
 "3 infertile, 2: 5 days",,0,0
 "3 infertile, 7 soft embryos",,0,0
 "3 just begun, 2 fresh",,0,0
+"3 JUVENILE, 1 ADULT",,0,0
+"3 JUVENILE; 1 ADULT",,0,0
+"3 JUVENILE; 2 ADULT",,0,0
+"3 JUVENILE; 3 ADULT",,0,0
+"3 JUVENILE; 5 ADULT",,0,0
 "3 large embryo, 1 fresh",,0,0
 "3 large embryos",,0,0
 "3 large embryos (eggs saved), 1 ",,0,0
@@ -3078,6 +3150,7 @@ begun",,0,0
 "3081 slight",,0,0
 "3086 slight",,0,0
 "3089 advanced-feathered",,0,0
+"31 ADULT; 2 JUVENILE",,0,0
 "31 days",,0,0
 "31 days old.",,0,0
 "31.2","31.2",0,1
@@ -3093,6 +3166,7 @@ begun",,0,0
 "3237 advanced",,0,0
 "3240 moderate",,0,0
 "3243 advanced-feathered",,0,0
+"33 ADULT; 15 JUVENILE",,0,0
 "33%",,0,0
 "3316 fresh. Others unknown.",,0,0
 "3329 no development; 3330 very s",,0,0
@@ -3129,6 +3203,7 @@ begun",,0,0
 "3570 advanced; 3571 adv.-feathered. Broken in cart",,0,0
 "3581-83 advanced",,0,0
 "3-6 (yrs?)",,0,0
+"36 ADULT; 122 JUVENIL",,0,0
 "36 days",,0,0
 "3-6 days",,0,0
 "3-6 days (see card",,0,0
@@ -3140,6 +3215,8 @@ begun",,0,0
 "3-7 days advanced",,0,0
 "3792 slight",,0,0
 "3795 slight",,0,0
+"38 ADULT; 10 JUVENILE",,0,0
+"38 ADULT; 16 JUVENILE",,0,0
 "3873 depredated",,0,0
 "3875, 3877 fresh",,0,0
 "3891 moderate; 3893 slight",,0,0
@@ -3175,6 +3252,9 @@ begun",,0,0
 "4 about 1/3. 4 about 1/4",,0,0
 "4 About Hatched, 2 Addled",,0,0
 "4 addled, 2 slight",,0,0
+"4 ADULT; 12 JUVENILE",,0,0
+"4 ADULT; 5 JUVENILE",,0,0
+"4 ADULT; 8 JUVENILE",,0,0
 "4 ADULTS AND 3 LARVAE",,0,0
 "4 advanced, runt infertile",,0,0
 "4 birds fledged on 20 June-nest ",,0,0
@@ -3287,6 +3367,8 @@ begun",,0,0
 "4 infertile; 9 at 2-3 days; 1 at 4 days.",,0,0
 "4 just begun, 1 infertile",,0,0
 "4 just started. 4 about 1/4",,0,0
+"4 JUVENILE; 1 ADULT",,0,0
+"4 JUVENILE; 2 ADULT",,0,0
 "4 large embryos & 1 infertile",,0,0
 "4 large embryos, 2 small embryos",,0,0
 "4 large embryos; see card",,0,0
@@ -3477,6 +3559,7 @@ begun",,0,0
 "4970 very slight",,0,0
 "4973 fresh",,0,0
 "4976 fresh",,0,0
+"497B",,0,0
 "4985 very slight",,0,0
 "4991 fresh",,0,0
 "4-b",,0,0
@@ -3488,6 +3571,13 @@ begun",,0,0
 "5 about 1/3. 2 about 1/2",,0,0
 "5 about 1/4, one addled (no yolk",,0,0
 "5 about 1/4. 2 about 1/3",,0,0
+"5 ADULT & 44 JUVENILE",,0,0
+"5 ADULT; 2 JUVENILE",,0,0
+"5 ADULT; 30 JUVENILE",,0,0
+"5 ADULT; 33 JUVENILE",,0,0
+"5 ADULT; 6 JUVENILE",,0,0
+"5 ADULT; 7 JUVENILE",,0,0
+"5 ADULT; 8 JUVENILE",,0,0
 "5 and 6 days",,0,0
 "5 And 7 Days",,0,0
 "5 chicks 2.5 weeks + 1 egg",,0,0
@@ -3534,6 +3624,7 @@ begun",,0,0
 "5 hatched in wild",,0,0
 "5 infertile, 1 heavy",,0,0
 "5 j.",,0,0
+"5 JUVENILE, 2 ADULT",,0,0
 "5 months",,0,0
 "5 newly hatched young and 1 egg",,0,0
 "5 one-half; 1 infertile",,0,0
@@ -3577,6 +3668,7 @@ begun",,0,0
 "5/6d",,0,0
 "5/8",,0,0
 "5-0",,0,0
+"50 JUVENILE, 1 ADULT",,0,0
 "50 percent",,0,0
 "50%",,0,0
 "50% incubated",,0,0
@@ -3589,6 +3681,7 @@ begun",,0,0
 "5031-33 fresh",,0,0
 "5037 moderate",,0,0
 "5064 advanced-feathered",,0,0
+"53 ADULT; 12 JUVENILE",,0,0
 "5383 moderate; 5484 advanced",,0,0
 "5460 slight",,0,0
 "5-5-6-6",,0,0
@@ -3612,6 +3705,10 @@ begun",,0,0
 "6",,0,0
 "6 - 9 days",,0,0
 "6 + 1 broken. Mixed clutches",,0,0
+"6 ADULT, 8 JUVENILE",,0,0
+"6 ADULT; 1 JUVENILE",,0,0
+"6 ADULT; 16 JUVENILE",,0,0
+"6 ADULT; 20 JUVENILE",,0,0
 "6 ADULTS AND 2 LARVAE",,0,0
 "6 chicks collected wfvz#'s- 6024",,0,0
 "6 chicks collected wfvz#'s- 6024-29",,0,0
@@ -3656,6 +3753,7 @@ begun",,0,0
 "60%",,0,0
 "60% pneumatized",,0,0
 "6-10 days",,0,0
+"66 ADULT; 33 JUVENILE",,0,0
 "6-6-6",,0,0
 "6-7 Days",,0,0
 "6-7 days incub.",,0,0
@@ -3672,6 +3770,7 @@ begun",,0,0
 "7 50-60%; 1 fresh, 1 rotten",,0,0
 "7 7",,0,0
 "7 adult",,0,0
+"7 ADULT; 12 JUVENILE",,0,0
 "7 broken, 3 of which showed deve",,0,0
 "7 broken, 3 of which showed development",,0,0
 "7 Days",,0,0
@@ -3686,6 +3785,7 @@ begun",,0,0
 "7 fresh, 1 slight",,0,0
 "7 jours",,0,0
 "7 jours embryos bien forme",,0,0
+"7 JUVENILE, 2 ADULT",,0,0
 "7 larva",,0,0
 "7 larvae",,0,0
 "7 mo",,0,0
@@ -3711,6 +3811,11 @@ begun",,0,0
 "7-9 days",,0,0
 "7-9 weeks. See card",,0,0
 "8 - 10 days",,0,0
+"8 ADULT; 11 JUVENILE",,0,0
+"8 ADULT; 15 JUVENILE",,0,0
+"8 ADULT; 278 JUVENILE",,0,0
+"8 ADULT; 5 JUVENILE",,0,0
+"8 ADULT; 6 JUVENILE",,0,0
 "8 days",,0,0
 "8 days (?)",,0,0
 "8 Days Advanced",,0,0
@@ -3756,6 +3861,8 @@ begun",,0,0
 "89 Hatched,90 Hatched,91 Died",,0,0
 "8-O, 2-B",,0,0
 "9",,0,0
+"9 ADULT; 41 JUVENILE",,0,0
+"9 ADULT; 8 JUVENILE",,0,0
 "9 Days",,0,0
 "9 days incubated",,0,0
 "9 Days Incubated; 1 Infertile",,0,0
@@ -3765,6 +3872,7 @@ begun",,0,0
 "9 eggs in nest on Mar 30th, all present on Arp 2nd",,0,0
 "9 had loose air cells, 2 pipped",,0,0
 "9 Infertile 10 large embryo",,0,0
+"9 JUVENILE, 14 ADULT",,0,0
 "9 or 10 days",,0,0
 "9 to 10 days",,0,0
 "9 years",,0,0
@@ -4427,7 +4535,9 @@ ACC: 20",,0,0
 "adult  ""appearing"" (sic)",,0,0
 "Adult - ossified skull",,0,0
 "Adult  skull 100% oss",,0,0
+"ADULT & JUVENILE",,0,0
 "adult (?)","adult",0,1
+"ADULT (1); JUVENILE (",,0,0
 "adult (15+ yrs. old)","adult",0,1
 "adult (49 days)",,0,0
 "ADULT (BREEDING)","adult",0,1
@@ -4501,6 +4611,9 @@ ACC: 20",,0,0
 "Adult by skull",,0,0
 "adult eclipse",,0,0
 "ADULT EXCEPT WHITE VENTRAL PLUMA",,0,0
+"ADULT FEMALE",,0,0
+"ADULT FEMALES",,0,0
+"ADULT GRAVID FEMALE",,0,0
 "Adult laying.",,0,0
 "Adult M and 2 nestlings collecte",,0,0
 "Adult M and 2 nestlings collected (wfvz#'s 54957,5",,0,0
@@ -4525,6 +4638,7 @@ ACC: 20",,0,0
 "adult post-breeding, skull ossif",,0,0
 "adult post-breeding, skull ossified",,0,0
 "Adult present",,0,0
+"ADULT RIPE FEMALE",,0,0
 "Adult SFO",,0,0
 "Adult SFO breeding",,0,0
 "Adult skull 100% oss",,0,0
@@ -4541,10 +4655,14 @@ ACC: 20",,0,0
 "adult with 4 young in-uteri",,0,0
 "adult(?)","adult",0,1
 "Adult*",,0,0
+"ADULT**",,0,0
 "Adult,  skull oss.",,0,0
 "ADULT, ALTERNATE PLUMAGE; NO BUR",,0,0
 "Adult, breeding",,0,0
 "adult, eclipse plumage",,0,0
+"ADULT, GRAVID FEMALE;",,0,0
+"ADULT, JUVENILE",,0,0
+"ADULT, N=2 FEMALE",,0,0
 "adult, ossified skull",,0,0
 "adult, post breeding",,0,0
 "Adult, post-breeding",,0,0
@@ -4564,12 +4682,33 @@ ACC: 20",,0,0
 "adult, winter",,0,0
 "adult,skull fully ossified",,0,0
 "Adult.",,0,0
+"ADULT/EGG CASE",,0,0
 "ADULT/IMM",,0,0
 "ADULT/JUV",,0,0
+"ADULT/JUVENILE",,0,0
+"ADULT: 2 MALE, 2 FEMA",,0,0
+"ADULT: 5 MALE, 5 FEMA",,0,0
+"ADULT: 5 MALE, 8 FEMA",,0,0
+"ADULT; 1 MALE",,0,0
+"ADULT; 1 MALE, 10 FEM",,0,0
+"ADULT; 11 MALE, 9 FEM",,0,0
+"ADULT; 12 FEMALE*, 18",,0,0
+"ADULT; 19 FEMALE*, 29",,0,0
+"ADULT; 2 FEMALE; 2 MA",,0,0
+"ADULT; 2 MALE",,0,0
+"ADULT; 2 MALE, 1 FEMA",,0,0
+"ADULT; 3  MALE; 5 FEM",,0,0
+"ADULT; 3  MALE; 9 FEM",,0,0
+"ADULT; 3 MALE, 9 FEMA",,0,0
 "Adult; 5-6 Weeks old.",,0,0
 "ADULT; ALTERNATE PPLUMAGE; NO BU",,0,0
 "Adult; Egg",,0,0
+"ADULT; FEMALE",,0,0
+"ADULT; GRAVID FEMALE",,0,0
 "adult; immature",,0,0
+"ADULT; JUVENILE",,0,0
+"ADULT; MALE",,0,0
+"ADULT; MANY GRAVID",,0,0
 "ADULT; NO BURSA",,0,0
 "ADULT; NO BURSA FOUND; SKULL 25%",,0,0
 "ADULT; NO BURSA; SKULL 100% OSS.",,0,0
@@ -4589,6 +4728,8 @@ ACC: 20",,0,0
 "Adult`",,0,0
 "adult11.1 g",,0,0
 "Adultl",,0,0
+"ADULTS",,0,0
+"ADULTS & AMMOCETES",,0,0
 "Adults + Egg",,0,0
 "Adults + Eggs",,0,0
 "Adults + Embryos",,0,0
@@ -4597,8 +4738,13 @@ ACC: 20",,0,0
 "Adults + Young",,0,0
 "Adults abandoned nest",,0,0
 "ADULTS AND 2  LARVAE",,0,0
+"ADULTS AND JUVENILES",,0,0
+"ADULTS AND JUVINILES",,0,0
 "ADULTS AND LARVAE",,0,0
+"ADULTS, 2 RIPE FEMALE",,0,0
 "adults, eggs","adult, egg",0,1
+"ADULTS, JUVENILES",,0,0
+"ADULTS; 1 MALE, 1 FEM",,0,0
 "adult-skull fully ossified",,0,0
 "Adultt",,0,0
 "Aduly","adult",0,1
@@ -4875,6 +5021,8 @@ perhaps one half",,0,0
 "age class 5-6",,0,0
 "age class 9",,0,0
 "age?",,0,0
+"AGRI-CONT. #2",,0,0
+"AGRI-CONT.#2",,0,0
 "AHT; NO BURSA; SKULL 100% OSS.",,0,0
 "AHY","adult",0,1
 "AHY ( After hatching year)",,0,0
@@ -5154,7 +5302,13 @@ warbler's dent",,0,0
 "along",,0,0
 "already begun",,0,0
 "ALTERNATE PLUMAGE; NO BURSA FOUN",,0,0
+"AMMOCETE",,0,0
+"AMMOCETES",,0,0
 "Ammocoete",,0,0
+"AMMOCOETE LARVA",,0,0
+"AMMOCOETES",,0,0
+"AMMOECETE",,0,0
+"AMNOCETES",,0,0
 "AN","adult",0,1
 "an egg in nest on the 17th",,0,0
 "Anout one week",,0,0
@@ -6834,6 +6988,7 @@ Trace.",,0,0
 "Each half incubated",,0,0
 "Early",,0,0
 "Early dead embryo",,0,0
+"EARLY FLEXION LARVA",,0,0
 "Early Fresh",,0,0
 "Early stage",,0,0
 "EDE",,0,0
@@ -7061,8 +7216,11 @@ Trace.",,0,0
 "egg brake during incubation",,0,0
 "Egg broken",,0,0
 "egg case","egg case",0,1
+"EGG CASE*",,0,0
 "egg cases","egg case",0,1
 "egg- cases","egg case",0,1
+"EGG CASES AND EMBRYO",,0,0
+"EGG CASES, EMBRYOS",,0,0
 "Egg crushed; fragments",,0,0
 "Egg died early",,0,0
 "Egg failed with large embryo.",,0,0
@@ -7182,6 +7340,7 @@ Trace.",,0,0
 "Eggs #87,89, 90 died with large ",,0,0
 "Eggs #87,89, 90 died with large embryos; egg #88 h",,0,0
 "eggs & adult",,0,0
+"EGGS & LARVAE",,0,0
 "Eggs + Larvae",,0,0
 "Eggs + Young",,0,0
 "Eggs 1 and 2 very small embryo, ",,0,0
@@ -7332,6 +7491,7 @@ Trace.",,0,0
 "Eggs: Small Embryos",,0,0
 "Eggs:#3:Fresh, #6: Trace Of Bloo",,0,0
 "Eggs:#3:Fresh, #6: Trace Of Blood; #1, 2,4,5: Smal",,0,0
+"EGGS+",,0,0
 "Eggs17,19 hatched; egg 18 died; ",,0,0
 "Eggs17,19 hatched; egg 18 died; egg 20 addled.",,0,0
 "Eggshel on nest",,0,0
@@ -7378,6 +7538,8 @@ Trace.",,0,0
 "Embryo visible",,0,0
 "Embryo well developed",,0,0
 "embryo well formed",,0,0
+"EMBRYO WITH EGG CASE",,0,0
+"EMBRYO*",,0,0
 "embryo, eggs","embryo, egg",0,1
 "Embryo-1 Infertile-1",,0,0
 "embryon deja formie",,0,0
@@ -7447,6 +7609,7 @@ Trace.",,0,0
 "embryos were 1/3 developed",,0,0
 "embryos with bones",,0,0
 "embryos with down",,0,0
+"EMBRYOS*",,0,0
 "embryos, 1 infertile",,0,0
 "Embryos, 1-2 days, maybe 3-4",,0,0
 "embryos, just showing",,0,0
@@ -7653,6 +7816,7 @@ Trace.",,0,0
 "Female seen incubating at time o",,0,1
 "Female seen incubating at time of collection.",,0,1
 "Female taken",,0,1
+"FEMALES",,0,0
 "fersh",,0,0
 "Fertile",,0,0
 "Fertile - Early Dead Embryo",,0,0
@@ -7729,6 +7893,7 @@ Trace.",,0,0
 "five slight and one fresh, all irregular",,0,0
 "five to seven days",,0,0
 "Five to six days",,0,0
+"FIXED/PRESERVED IN 95",,0,0
 "FL","larva",0,1
 "'FL'","larva",0,1
 "fldg.",,0,0
@@ -8894,6 +9059,7 @@ Sowing blood-1",,0,0
 "gF(7)","adult",0,1
 "gF(8)","adult",0,1
 "gF(9)","adult",0,1
+"GONADS",,0,0
 "good",,0,0
 "good embryos",,0,0
 "good sized embryos",,0,0
@@ -9239,6 +9405,7 @@ Sowing blood-1",,0,0
 "highly advanced; 1 infert.",,0,0
 "highly incubated",,0,0
 "Highly Incubated; 1 Infertile",,0,0
+"HOLOTYPE",,0,0
 "hor",,0,0
 "hornot",,0,0
 "host + 1 c.b. slightly incubated",,0,0
@@ -10303,6 +10470,7 @@ Sowing blood-1",,0,0
 "juvenile  (?)",,0,0
 "juvenile - Basic 2","juvenile",0,1
 "juvenile - fledgling",,0,0
+"JUVENILE & ADULT",,0,0
 "juvenile (?)","juvenile",0,1
 "juvenile (15 days)",,0,0
 "juvenile (16 days)",,0,0
@@ -10418,23 +10586,33 @@ Sowing blood-1",,0,0
 "Juvenile ?","juvenile",0,1
 "Juvenile 2nd winter","juvenile",0,1
 "juvenile and larva",,0,0
+"JUVENILE FEMALE",,0,0
+"JUVENILE FEMALES",,0,0
 "juvenile frog",,0,0
 "juvenile hatchling",,0,0
+"JUVENILE MALE",,0,0
 "juvenile specimen",,0,0
+"JUVENILE W/EGG CASE",,0,0
+"JUVENILE,  ADULT",,0,0
 "juvenile, 1/3 ossification","juvenile",0,1
 "Juvenile, 60% oss.","juvenile",0,1
 "Juvenile, about 1/4 full size","juvenile",0,1
+"JUVENILE, ADULT",,0,0
 "juvenile, skull ~1/2 ossified","juvenile",0,1
 "juvenile, skull 5% ossified","juvenile",0,1
 "juvenile, skull not fully ossifi","juvenile",0,1
 "juvenile, skull not fully ossified","juvenile",0,1
 "juvenile, skull not ossified","juvenile",0,1
 "JUVENILE.",,0,0
+"JUVENILE. ADULT",,0,0
 "juvenile/!st winter","juvenile",0,1
 "juvenile/1st winter",,0,0
 "juvenile/immature","juvenile",0,1
 "juvenile; (Fledgling?)",,0,0
+"JUVENILE; 1 MALE, 1 F",,0,0
 "juvenile; 3 months",,0,0
+"JUVENILE; 4 ADULT",,0,0
+"JUVENILE; ADULT",,0,0
 "JUVENILE; BURSA 3 X 3 MM; SKULL ",,0,0
 "JUVENILE; BURSA 30 X 16 MM",,0,0
 "Juvenile; fledgling",,0,0
@@ -10444,6 +10622,7 @@ Sowing blood-1",,0,0
 "juvenile?","juvenile",0,1
 "Juvenile? skull 80% oss.","juvenile",0,1
 "juveniles","juvenile",0,1
+"JUVENILES & ADULTS",,0,0
 "juveniles hatched",,0,0
 "JUVENILLE","juvenile",0,1
 "Juveniloe","juvenile",0,1
@@ -10604,7 +10783,13 @@ Infertile-1",,0,0
 "larva","larva",0,1
 "larva (27)",,0,0
 "larva (3) and salamanders (17)",,0,0
+"LARVA (AMMOCOETE)",,0,0
 "larva (with rear legs)",,0,0
+"LARVA AND JUVENILE",,0,0
+"LARVA, JUVENILE",,0,0
+"LARVA, JUVENILE, ADUL",,0,0
+"LARVA-AMMOCETE",,0,0
+"LARVA-AMMOCOETE",,0,0
 "larvae","larva",0,1
 "Larvae + Embryos + Eggs",,0,0
 "larvae cell","larva cell",0,1
@@ -10619,6 +10804,7 @@ Infertile-1",,0,0
 "larve","larva",0,1
 "Last",,0,0
 "Last 4 chicks left nest on 16th.",,0,0
+"LATE FLEXION LARVA",,0,0
 "Late July-late August",,0,0
 "Late Stage Embryo",,0,0
 "Layer A; surface",,0,0
@@ -10636,6 +10822,7 @@ Infertile-1",,0,0
 "legere (slight)",,0,0
 "legerement incube",,0,0
 "lepto.","larva",0,1
+"LEPTOCEPHALUS",,0,0
 "less than 1 yr",,0,0
 "less than 1/4",,0,0
 "less than a week",,0,0
@@ -10727,6 +10914,7 @@ Infertile-1",,0,0
 "macho test 8x4","unknown",0,1
 "macho test esc","adult",0,1
 "male",,0,1
+"MALE ADULT",,0,0
 "Male incubating about 10 AM",,0,1
 "Male incubating. Eggs missing.",,0,1
 "male?",,0,0
@@ -10736,6 +10924,9 @@ Infertile-1",,0,0
 "marked 3/4",,0,0
 "marked on eggs",,0,0
 "MATURE",,0,0
+"MATURE FEMALE",,0,0
+"MATURE FEMALES",,0,0
+"MATURE MALE",,0,0
 "May",,0,0
 "May be immature or changing male",,0,0
 "May have collected before clutch",,0,0
@@ -10797,6 +10988,7 @@ Infertile-1",,0,0
 "Merely started",,0,0
 "merest trace",,0,0
 "Mesusoid + Hydroid",,0,0
+"METAMORPHIC LARVA",,0,0
 "metamorphosed in August",,0,0
 "metamorphosing larva",,0,0
 "meta-young",,0,0
@@ -10810,7 +11002,10 @@ Infertile-1",,0,0
 "mishapen & infertile eggs",,0,0
 "Mixed",,0,0
 "Mixed- 3 fresh",,0,0
+"MIXED CAT.NOS.",,0,0
 "Mixed clutches",,0,0
+"MIXED JUVENILE AND AD",,0,0
+"MIXED LOTS",,0,0
 "MM","unknown",0,1
 "MO BURSA",,0,0
 "mo. old juv.",,0,0
@@ -11692,6 +11887,7 @@ Infertile-1",,0,0
 "One is heap of blood",,0,0
 "One male & one female eyas produ",,0,0
 "One male & one female eyas produced from unknown n",,0,0
+"ONE MALE AND ONE FEMA",,0,0
 "one nearly fresh, one nearly hal",,0,0
 "one nearly fresh, one nearly half incubated",,0,0
 "One nearly ready to hatch; other",,0,0
@@ -11879,6 +12075,10 @@ Infertile-1",,0,0
 "pais",,0,0
 "Palest egg was most incubated; s",,0,0
 "Palest egg was most incubated; slight to embryos f",,0,0
+"PARATYPE",,0,0
+"PARATYPE+",,0,0
+"PARATYPES",,0,0
+"PARR",,0,0
 "Parsley",,0,0
 "part",,0,0
 "part 1/3",,0,0
@@ -11916,6 +12116,7 @@ Infertile-1",,0,0
 "Past ?",,0,0
 "past inc.",,0,0
 "past started",,0,0
+"PCR",,0,0
 "Pegere",,0,0
 "perceptible",,0,0
 "Perfect",,0,0
@@ -11962,6 +12163,7 @@ fresh",,0,0
 "POSSIBLY JUVENILE","juvenile",0,1
 "Post larvaeJuveniles","juvenile",0,1
 "Post nupt.",,0,0
+"POSTFLEXION LARVA",,0,0
 "Postively fresh",,0,0
 "Practiacally complete",,0,0
 "Practically complete",,0,0
@@ -11973,6 +12175,7 @@ fresh",,0,0
 "predated within 4 days of egg be",,0,0
 "PRE-DEFINITIVE PLUMAGE; NO BURSA",,0,0
 "prefectly fresh",,0,0
+"PREFLEXION LARVA",,0,0
 "present",,0,0
 "presumably only 2 days but rathe",,0,0
 "presumably only 2 days but rather more than slight",,0,0
@@ -12120,6 +12323,7 @@ fresh",,0,0
 "Removed from incubator 28 Apr 1976",,0,0
 "Reoccurance of blood",,0,0
 "resh",,0,0
+"RIPE FEMALE",,0,0
 "ritteb",,0,0
 "Robin considerable, Cuckoo fresh",,0,0
 "robin fresh, 3 crested just star",,0,0
@@ -12911,6 +13115,7 @@ small embryos",,0,0
 "Sli. in one, far adv. in one & t",,0,0
 "Sli. in one, far adv. in one & three infert.",,0,0
 "Sli. To far adv.",,0,0
+"SLIDES",,0,0
 "Sligfht",,0,0
 "sligh",,0,0
 "slighlty advanced",,0,0
@@ -13643,6 +13848,7 @@ Started",,0,0
 "stillborn calf",,0,0
 "stillborn with egg sac",,0,0
 "stillborn with yolk sac",,0,0
+"STOMACH ONLY",,0,0
 "stopped often begun",,0,0
 "Striclty fresh eggs!",,0,0
 "stricly fresh",,0,0
@@ -13896,6 +14102,8 @@ Started",,0,0
 "three-fouths",,0,0
 "tiny embryo",,0,0
 "tiny embryos",,0,0
+"TISSUE AND PHOTO ONLY",,0,0
+"TISSUE SAMPLES IN 95%",,0,0
 "to","unknown",0,1
 "To blood",,0,0
 "To blood in all",,0,0
@@ -14022,6 +14230,7 @@ Started",,0,0
 "traces of incubation were very s",,0,0
 "Trans juvenile - adult.",,0,0
 "TRANSFORMING",,0,0
+"TRANSFORMING AMMOECET",,0,0
 "transitional Juv-basic 2","transitional Juv-basic 2",0,1
 "TRASFORMING",,0,0
 "tres advancee",,0,0
@@ -14513,6 +14722,7 @@ Started",,0,0
 "Virtually nil",,0,0
 "W B",,0,0
 "w/o (?)",,0,0
+"WALL MOUNT",,0,0
 "warbler small embryos, cowbird a",,0,0
 "warm",,0,0
 "Was 7 eggs",,0,0
@@ -14740,6 +14950,8 @@ Started",,0,0
 "Yolks bloody",,0,0
 "Yolks dry, no development",,0,0
 "yolk-sac","yolk sac",0,1
+"YOLKSAC AND PREFLEXIO",,0,0
+"YOLKSAC LARVA",,0,0
 "young","juvenile",0,1
 "Young + Adult",,0,0
 "Young + Egg",,0,0

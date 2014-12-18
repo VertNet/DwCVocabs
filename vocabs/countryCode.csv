@@ -1933,6 +1933,7 @@
 "DEMOCRATIC YEMEN","YE",0,1
 "Denmark","DK",1,1
 "Denmark ?","DK",0,1
+"DENMARK/CANADA",,0,1
 "D'Entrecasteaux","PG",0,1
 "desert Algeria","DZ",0,1
 "Dist. N. Central Guinea","PG",0,1
@@ -2928,6 +2929,7 @@
 "Interior of Surinam, D. Guiana","SR",0,1
 "Interior, D. Guiana, Surinam","SR",0,1
 "InteriorBrit. Guiana","GY",0,1
+"INTERNATIONAL WATERS",,0,1
 "Iowa","US",0,1
 "Ipande","TZ",0,1
 "Irag","IQ",0,1
@@ -4088,6 +4090,7 @@
 "New Britian I.","PG",0,1
 "New Caladonia","NC",0,1
 "New Caledonia","NC",1,1
+"NEW CALEDONIA (FR)","NC",0,1
 "New Caledonia Islands","NC",0,1
 "New Calidornia","NC",0,1
 "New Georgia","SB",0,1
@@ -4564,6 +4567,7 @@
 "Paraguayan","PY",0,1
 "Parana","BR",0,1
 "Paraquay","PY",0,1
+"PARECE VELA (JAPAN)","JP",0,1
 "Patagonia",,0,1
 "Patagonia & Uruguay",,0,1
 "PATAGONIA (South America)",,0,1
@@ -4639,6 +4643,7 @@
 "Phoenix Group","KI",0,1
 "Phoenix I.","KI",0,1
 "Phoenix Island","KI",0,1
+"PHOENIX ISLANDS","US",0,1
 "PI",,0,1
 "PINELLAS CO.","US",0,1
 "Pini I.","ID",0,1
@@ -5619,6 +5624,7 @@
 "Solomon Iss.","SB",0,1
 "Solomons","SB",0,1
 "Solomon's","SB",0,1
+"SOLOMONS & NEW CALEDONIA",,0,1
 "Solomon's I.","SB",0,1
 "Somali Republic","SO",0,1
 "SOMALI, WEST AFRICA","SO",0,1
@@ -6317,6 +6323,7 @@
 "United States Virgin Islands","VI",0,1
 "United States-Mexico",,0,1
 "UNKNOWN",,0,1
+"UNPLACED",,0,1
 "UNR",,0,1
 "Unyoro","UG",0,1
 "Up. Assam","VE",0,1
@@ -6354,6 +6361,7 @@
 "USA (BY INFERENENCE)","US",0,1
 "USA (PROB.)","US",0,1
 "USA (PROBABLY)","US",0,1
+"USA / CANADA",,0,1
 "USA or Canada",,0,1
 "USA				","US",0,1
 "USA
@@ -6362,7 +6370,9 @@
 "USA(?)","US",0,1
 "USA/AL","US",0,1
 "USA/CA","US",0,1
+"USA/CANADA",,0,1
 "USA/IN","US",0,1
+"USA/MEXICO",,0,1
 "USA/MI","US",0,1
 "USA/MO","US",0,1
 "USA?","US",0,1
@@ -6379,6 +6389,7 @@
 "VA","US",0,1
 "Vanua Levu I.","FJ",0,1
 "Vanuatu","VU",1,1
+"VANUATU (NEW HEBRIDES)","VU",0,1
 "Vanuatu(NewHebrides)","VU",0,1
 "Ven","VE",0,1
 "Ven.","VE",0,1
@@ -6412,10 +6423,12 @@
 "Veraqua-Panama","PA",0,1
 "VI","VI",0,1
 "VIC","AU",0,1
+"VICTORIA",,0,1
 "Victoria Land","AQ",0,1
 "VIE","VN",0,1
 "Viet","VN",0,1
 "Viet Nam","VN",0,1
+"Vietman",,0,1
 "Vietnam","VN",1,1
 "Vietnam (South)","VN",0,1
 "Virgin Gorda","VG",0,1
