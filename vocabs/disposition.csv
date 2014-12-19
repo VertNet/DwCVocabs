@@ -1,6 +1,6 @@
 "verbatimDisposition","StandardDisposition","standard","checked"
-" No",,0,0
-" Yes",,0,0
+" No","missing",0,1
+" Yes","in collection",0,1
 """Given to National Museum & exchanged Jan. '90 for",,0,0
 """Presented to Mr. Ridgway, Curator of National Mus",,0,0
 """Sent to Mr. Ridgway, Curator of National Museum, ",,0,0
@@ -2052,8 +2052,8 @@
 "Exchanged with Wm. Dutcher, 12 [illeg] 1994",,0,0
 "Exchanged with Zoological Refeicne Collection, Sin",,0,0
 "ExchangedParatype",,0,0
-"Exchanged, 6 Apr 1907",,0,0
-"Exchanged, Oct 17, 1888",,0,0
+"Exchanged, 6 Apr 1907","voucher elsewhere",0,0
+"Exchanged, Oct 17, 1888","voucher elsewhere",0,0
 "Exchanged: Mueseum of Comparative Zoology; Dec 28,",,0,0
 "Exchanged; 16 Dec 1939 with Princeton Musuem of Zo",,0,0
 "Exchanged; Museum of Comparative Zoology, Oct 20, ",,0,0
@@ -2082,9 +2082,9 @@
 "Fla. St. Univ., Exchanged U. Fla. 7/11/63",,0,0
 "Fla. St. University",,0,0
 "Fla. State University",,0,0
-"Fluid room","in fluid collection",0,1
-"Found",,0,0
-"Found - discovered by AMCC inventory",,0,0
+"Fluid room","in collection",0,1
+"Found","in collection",0,1
+"Found - discovered by AMCC inventory","in collection",0,1
 "Found - during inventory for incorporation into AM",,0,0
 "Found - 'Exch. Field Mus. Chicago, Nov 1922' in Sk",,0,0
 "Found - uncataloged in collection",,0,0
@@ -2241,7 +2241,7 @@
 "Gift-SWRS, Portal, Arizona",,0,0
 "Gift-SWRS. Portal, Ariz.",,0,0
 "Given as gift to Penn. Mus., Harrisburg-1969; Gift",,0,0
-"GIVEN AWAY",,0,0
+"GIVEN AWAY","voucher elsewhere",0,1
 "Given away in place of a bird sent in to be skined",,0,0
 "Given by Mr. Altwater in exchange [for Campsothgps",,0,0
 "Given Exchange to Cornell University, May, 1972",,0,0
@@ -2573,55 +2573,55 @@
 "Lent to N.Y. Zool. Park (Herb Knoblock), 20 Jul 19",,0,0
 "Loaned to Mr. Southwick",,0,0
 "Loaned to New Jersey Audubon Society",,0,0
-"Lost",,0,0
-"Lost - Cornell Univesity, 8 May 1969, A.[illeg].",,0,0
-"LOST 6/01",,0,0
-"LOST Oct2006",,0,0
+"Lost","missing",0,1
+"Lost - Cornell Univesity, 8 May 1969, A.[illeg].","missing",0,1
+"LOST 6/01","missing",0,1
+"LOST Oct2006","missing",0,1
 "Measurements of 3 specimens of T.b leucogaster ""pr",,0,0
 "missing","missing",1,1
-"Missing - because Collector# incorrectly recorded ",,0,0
-"Missing - during AMCC inventory",,0,0
-"Missing - may be on exhibit",,0,0
-"Missing - not found in any Ara tray in skin collec",,0,0
-"Missing - not found in any Polioptila tray in skin",,0,0
-"Missing - not found in skin or skeleton collection",,0,0
-"Missing - when requested by Carla Dove, USNM, for ",,0,0
-"Missing - when requested by Paula Veverica for int",,0,0
-"MISSING 1/28/94 GM",,0,0
-"MISSING 12/1976",,0,0
-"MISSING 1995",,0,0
-"MISSING 2/1994",,0,0
-"MISSING 2/2",,0,0
-"MISSING 2/2002 PAH",,0,0
-"MISSING 2/2013 PAH",,0,0
-"Missing 2004",,0,0
-"missing 24 Jul 2012",,0,0
-"Missing 25 Feb 1992 (J.T. Marshall)",,0,0
-"MISSING 3/2013 PAH",,0,0
-"MISSING 4/0",,0,0
-"MISSING 5/0",,0,0
-"MISSING 5/09",,0,0
-"MISSING 5/1976",,0,0
-"MISSING 6/0",,0,0
-"MISSING 6/17/1969",,0,0
-"MISSING 7/0",,0,0
-"MISSING 7/14/08",,0,0
-"MISSING 7/2008",,0,0
-"MISSING 8/2008",,0,0
-"MISSING 8/2011",,0,0
-"MISSING 8/88 MTG",,0,0
-"MISSING 9/2008",,0,0
-"MISSING 9/9",,0,0
-"MISSING '98",,0,0
+"Missing - because Collector# incorrectly recorded ","missing",0,1
+"Missing - during AMCC inventory","missing",0,1
+"Missing - may be on exhibit","missing",0,1
+"Missing - not found in any Ara tray in skin collec","missing",0,1
+"Missing - not found in any Polioptila tray in skin","missing",0,1
+"Missing - not found in skin or skeleton collection","missing",0,1
+"Missing - when requested by Carla Dove, USNM, for ","missing",0,1
+"Missing - when requested by Paula Veverica for int","missing",0,1
+"MISSING 1/28/94 GM","missing",0,1
+"MISSING 12/1976","missing",0,1
+"MISSING 1995","missing",0,1
+"MISSING 2/1994","missing",0,1
+"MISSING 2/2","missing",0,1
+"MISSING 2/2002 PAH","missing",0,1
+"MISSING 2/2013 PAH","missing",0,1
+"Missing 2004","missing",0,1
+"missing 24 Jul 2012","missing",0,1
+"Missing 25 Feb 1992 (J.T. Marshall)","missing",0,1
+"MISSING 3/2013 PAH","missing",0,1
+"MISSING 4/0","missing",0,1
+"MISSING 5/0","missing",0,1
+"MISSING 5/09","missing",0,1
+"MISSING 5/1976","missing",0,1
+"MISSING 6/0","missing",0,1
+"MISSING 6/17/1969","missing",0,1
+"MISSING 7/0","missing",0,1
+"MISSING 7/14/08","missing",0,1
+"MISSING 7/2008","missing",0,1
+"MISSING 8/2008","missing",0,1
+"MISSING 8/2011","missing",0,1
+"MISSING 8/88 MTG","missing",0,1
+"MISSING 9/2008","missing",0,1
+"MISSING 9/9","missing",0,1
+"MISSING '98","missing",0,1
 "Missing July 9, 1953","missing",0,1
 "Missing July 9, 1953/Discarded Aug. 27, 1959","missing",0,1
 "Missing July, 9 1953","missing",0,1
-"MISSING Jun2010",,0,0
-"missing May 2012",,0,0
-"MissingParatype",,0,0
-"Missing, 18 Feb 1976, R.F. P[illeg]squier",,0,0
-"MISSING?",,0,0
-"MISSING9/04",,0,0
+"MISSING Jun2010","missing",0,1
+"missing May 2012","missing",0,1
+"MissingParatype","missing",0,1
+"Missing, 18 Feb 1976, R.F. P[illeg]squier","missing",0,1
+"MISSING?","missing",0,1
+"MISSING9/04","missing",0,1
 "MOUNT IN STORAGE",,0,0
 "Mount placed in Biodiversity Hall, June 1998",,0,0
 "Mounted - Gull Island - Exhibit, 12/7/70",,0,0
@@ -2695,9 +2695,9 @@
 "No. 421051 sent in exchange with Leiden Museum, No",,0,0
 "No. 462 Exchange Coll. of E.A. Mearns",,0,0
 "No. 783 Exchange Coll. of E.A. Mearne",,0,0
-"No`",,0,0
-"No+",,0,0
-"NO=o",,0,0
+"No`","voucher elsewhere",0,1
+"No+","voucher elsewhere",0,1
+"NO=o","voucher elsewhere",0,1
 "Nonpoisoned, flat; Skin discarded",,0,0
 "Note: 18 Jul 1910 this bird returned to the dealer",,0,0
 "Nov 1966;Exchange H.B. Hough, Ontario, Canada",,0,0
@@ -3258,6 +3258,7 @@
 "Sent to UMMZ, Michigan, in exchange ; Sept 1984",,0,0
 "Sent to UMMZ, Michigan, on exchange; Sep 1984",,0,0
 "Skeleton",,0,0
+"skeleton missing",,0,0
 "SkeletonExchanged",,0,0
 "SkeletonOn Loan",,0,0
 "SkeletonParatype",,0,0
@@ -3344,11 +3345,12 @@
 "Traded with Mr. Sherwood for Florida bird",,0,0
 "Traded, Thayer, 22 Jul 1907",,0,0
 "Transf. Dartmouth Museum, 14 Feb 1944",,0,0
-"transferred",,0,0
+"transferred","voucher elsewhere",0,1
 "Transferred to Cornell Univ, 28 Oct 1943",,0,0
 "Transferred to L.C. Sanford Collection",,0,0
 "Tucumen, Argentina, Dr. C.C. Olrog Exch. to Miguel",,0,0
 "Turned over to Dept. of Anatomy",,0,0
+"type",,0,0
 "U. Nat.Mus. in exchange 1886",,0,0
 "U. Nat.Mus. in exchange 1886; Exch. with Imp.Col.A",,0,0
 "U. Nat.Mus. in exchange 1886; Exchange to Alex Wal",,0,0
@@ -3371,11 +3373,12 @@
 "UNI",,0,0
 "unknown",,0,0
 "USNM",,0,0
+"verified","in collection",0,1
 "voucher elsewhere","voucher elsewhere",1,1
 "Was given by F.B. Webster to Harry Austen of Dartm",,0,0
-"XFER",,0,0
-"XFERRED",,0,0
+"XFER","voucher elsewhere",0,1
+"XFERRED","voucher elsewhere",0,1
 "Y","in collection",0,1
 "Yes","in collection",0,1
-"Yes 42013",,0,0
+"Yes 42013","in collection",0,1
 "Yes.","in collection",0,1

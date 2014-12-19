@@ -6086,6 +6086,8 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "blood/feathers, tissue","blood, feathers, tissue",0,1
 "BM","body mount (taxidermy mount)",0,1
 "BODY",,0,0
+"body (ethanol) | skull",,0,0
+"body (ethanol) | skull | muscle (95% ethanol)",,0,0
 "Body (fragment) + spine",,0,0
 "Body (in spirit)",,0,0
 "Body (part, wax impregnated ) + slides",,0,0
@@ -11657,6 +11659,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Ear ossicles + jaw",,0,0
 "EARBONE",,0,0
 "EARBONE ?",,0,0
+"ears",,0,0
 "ectocuneiform",,0,0
 "ECTO-CUNEIFORM",,0,0
 "ECTOCUNEIFORM ?",,0,0
@@ -14251,6 +14254,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Forefoot + casts",,0,0
 "forefoot, juvenile, associated/articulated",,0,0
 "FORELIMB",,0,0
+"forelimb (dry) | muscle (95% ethanol)",,0,0
 "Fore-limb (left, articulated)",,0,0
 "Fore-limb (left, uncleaned)",,0,0
 "forelimb (less ungual III",,0,0
@@ -15397,6 +15401,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "HEAD & NECK (GLYCERIN)","head (glycerin), neck (glycerin)",0,1
 "Head (dried)",,0,0
 "Head (dried, incomplete)",,0,0
+"head (ethanol)",,0,0
+"head (ethanol) | muscle (95% ethanol)",,0,0
 "HEAD (GLYCERIN)","head (glycerin)",0,1
 "Head (in spirit)",,0,0
 "Head (mounted in spirit)",,0,0
@@ -21408,6 +21414,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "LIVE","LIVE",0,1
 "Live Mount",,0,0
 "live mount, partial skeleton, tissue",,0,0
+"liver (95% ethanol)",,0,0
 "Liver (in spirit)",,0,0
 "LIx/",,0,0
 "lL DENTARY W P3-M2",,0,0
@@ -22268,6 +22275,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "mandible (two mandibles)",,0,0
 "mandible (two mandibles), none",,0,0
 "MANDIBLE ?",,0,0
+"mandible | muscle (95% ethanol)",,0,0
 "mandible + maxilla",,0,0
 "MANDIBLE 3",,0,0
 "MANDIBLE AND QUADRATES",,0,0
@@ -24130,6 +24138,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "miscellaneus cranial+vertebral frags",,0,0
 "miscellanous dentary+tooth fragments",,0,0
 "miscteeth",,0,0
+"missing",,0,0
 "MISSING AS OF APR/1995*",,0,0
 "MISSING AS OF MAY/1995*",,0,0
 "Missing head (in spirit)",,0,0
@@ -24295,6 +24304,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "mounted skel, tissue",,0,0
 "mounted skeleton","skeleton (mounted)",0,1
 "mounted skeleton on exhibit",,0,0
+"mounted skin",,0,0
 "mounted skull; antlers","antlers, mounted skull",0,1
 "MOUNTED SPECIMEN","mount",0,1
 "MP",,0,0
@@ -24387,6 +24397,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "MUMMY COMPLETE",,0,0
 "MUMMY, tissue","mummy, tissue",0,1
 "muscle",,0,0
+"muscle (95% ethanol)",,0,0
 "muscle, brain, heart, wing",,0,0
 "muscle, liver, heart",,0,0
 "muscle, liver, heart, kidney",,0,0
@@ -35780,6 +35791,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skeletal","skeleton",0,1
 "SKELETAL AND SKULL FRAGS",,0,0
 "SKELETAL ELEMENT",,0,0
+"skeletal element(s)",,0,0
 "SKELETAL ELEMENTS",,0,0
 "SKELETAL FRAG",,0,0
 "skeletal fragments",,0,0
@@ -39886,6 +39898,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin (tail)",,0,0
 "skin (tail), wing",,0,0
 "skin (tail), wings",,0,0
+"skin (tanned)",,0,0
+"skin (tanned) | skull",,0,0
+"skin (tanned) | skull | skeleton",,0,0
 "skin (two feet and tail), wings",,0,0
 "Skin (unmounted)",,0,0
 "Skin (un-mounted)",,0,0
@@ -39928,6 +39943,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin ,tissue","skin, tissue",0,1
 "Skin ,wing ,Skel","skeleton, skin, wing",0,1
 "skin ?",,0,0
+"skin | skin | skull",,0,0
+"skin | skull",,0,0
+"skin | skull | carcass (ethanol) | muscle (95% ethanol)",,0,0
+"skin | skull | liver (95% ethanol)",,0,0
+"skin | skull | muscle (95% ethanol)",,0,0
+"skin | skull | skeleton",,0,0
+"skin | skull | skeleton | liver (95% ethanol)",,0,0
+"skin | skull | skeleton | muscle (95% ethanol)",,0,0
 "Skin + ? skull with jaw (in skin)",,0,0
 "Skin + carpus (removed from skin, mounted)",,0,0
 "skin + DNA","skin, DNA",0,1
@@ -57775,6 +57798,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull (x2) with jaw + skeleton (articulated)",,0,0
 "SKULL / VERTEBRAE / LEG (DRY), tissue","leg, skull, vertebrae, tissue",0,1
 "skull ?",,0,0
+"skull | body (ethanol)",,0,0
+"skull | heart (95% ethanol)",,0,0
+"skull | liver (95% ethanol)",,0,0
+"skull | muscle (95% ethanol)",,0,0
+"skull | skeletom",,0,0
+"skull | skeleton",,0,0
+"skull | skeleton | kidney (95% ethanol)",,0,0
+"skull | skeleton | liver (95% ethanol)",,0,0
+"skull | skeleton | liver (95% ethanol) | liver (95% ethanol)",,0,0
+"skull | skeleton | muscle (95% ethanol)",,0,0
+"skull | skull",,0,0
+"skull | tail (dry) | liver (95% ethanol) | heart (95% ethanol)",,0,0
 "Skull +  fragments",,0,0
 "Skull + atlas",,0,0
 "Skull + base of horn cores",,0,0
@@ -60048,6 +60083,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tail & other pieces (in spirit)",,0,0
 "Tail (distal)",,0,0
 "Tail (dried, with skeleton exposed) + vertebrae (posterior)",,0,0
+"tail (ethanol) | muscle (95% ethanol)",,0,0
 "Tail (in spirit)",,0,0
 "Tail (mounted in spirit)",,0,0
 "Tail (mounted)",,0,0
@@ -63451,6 +63487,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Whole foetus + part of the uterus (mounted, in spirit)",,0,0
 "Whole foetus in utero (mounted, in spirit)",,0,0
 "WHOLE MOUNT LABIAL TEETH (MICROSLIDE)","mount, labial teeth (microslide)",0,1
+"whole organism (dry)",,0,0
+"whole organism (ethanol)",,0,0
+"whole organism (ethanol) | liver (95% ethanol)",,0,0
+"whole organism (ethanol) | muscle (95% ethanol)",,0,0
+"whole organism (ethanol) | skin clip (95% ethanol)",,0,0
 "whole skeleton",,0,0
 "Whole specimen",,0,0
 "Whole specimen  (in spirit)",,0,0
