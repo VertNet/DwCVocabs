@@ -1,5 +1,7 @@
 "verbatimReproductiveCondition","standardReproductiveCondition","standard","checked"
 " ","unknown",0,1
+"-",,0,0
+"--",,0,0
 "---","unknown",0,0
 "--------------------------------------------------","unknown",0,1
 "-----------------------------------------------------------------------------------------------------------------","unknown",0,1
@@ -7,24 +9,119 @@
 " Testes abdominal, subadult",,0,0
 " Testes scrotal, large",,0,0
 "","unknown",0,0
+"""n.b.""",,0,0
+"""t.e.""",,0,0
+"""t.n.e.""",,0,0
+"(1 hemipene everted)",,0,0
+"(96 x 98 mm*see comments), testes = L 9 x 4mm, R 8 x 4mm.",,0,0
+"(by blood test)",,0,0
+"(by dissection)",,0,0
+"(by plumage & meas)",,0,0
+"(by plumage)",,0,0
+"(by plumage) testes? =11mm",,0,0
+"(by pouch)",,0,0
+"(calling)",,0,0
+"(croaking)",,0,0
 "(emb = 25), 2 r, 2 l",,0,0
+"(external)",,0,0
+"(externally male)",,0,0
+"(hemipenes everted)",,0,0
+"(hemipenes extended)",,0,0
+"(hemipenes extruded)",,0,0
+"(hemipenes present)",,0,0
+"(hemipenes)",,0,0
+"(incub. 3 eggs)",,0,0
+"(lactating)",,0,0
+"(mammae: 0 : 2 = 4)",,0,0
+"(mammae: 0 +2 = 4)",,0,0
+"(mammae: 0:2 = 4)",,0,0
+"(mammae: 1 pr + 2 pr = 6)",,0,0
+"(mammae: 1 pr, 2 pr = 6)",,0,0
+"(mammae: 1:2 = 6)",,0,0
+"(no eggs)",,0,0
+"(No Emb)",,0,0
+"(no emb) 1:2 = 6 mammae",,0,0
+"(no emb, mam: 3pec, 3ing)",,0,0
+"(no embs)",,0,0
+"(no gonad data)",,0,0
+"(no gonad meas)",,0,0
+"(no gonad meas.)",,0,0
+"(no gonads found)",,0,0
+"(no pouch young)",,0,0
+"(no repro data)",,0,0
+"(per necropsy report)",,0,0
+"(per necropsy rpt)",,0,0
 "(s) 5.0 mm",,0,0
+"(see Comment)",,0,0
+"(spur present on tarsus)",,0,0
 "(t = 3 mm) abdom.",,0,0
 "(t = 5 mm) desc.",,0,0
+"(testes noted, not meas)",,0,0
+"(testes= 34x28mm)",,0,0
+"(vagina imperforate)",,0,0
+"(vagina perforate)",,0,0
+"(vocal slits present)",,0,0
 "*","unknown",0,1
 "*Post lactating male",,0,0
 ".","unknown",0,1
 "?","unknown",0,1
 "??","unknown",0,1
+"[ no gonad data]",,0,0
+"[ no gonad meas]",,0,0
+"[by plumage and metrics]",,0,0
+"[by plumage]",,0,0
+"[ext male]",,0,0
+"[ext]",,0,0
+"[external]",,0,0
+"[externally female]",,0,0
+"[externally M]",,0,0
+"[externally male]",,0,0
+"[gonad mentioned]",,0,0
+"[gonad mentioned}",,0,0
+"[gonads mentioned]",,0,0
+"[gonads not found]",,0,0
+"[M by plumage?]",,0,0
+"[no gonad  data]",,0,0
+"[no gonad daa]",,0,0
+"[no gonad dara]",,0,0
+"[no gonad data",,0,0
+"[no gonad data]",,0,0
+"[no gonad data}",,0,0
+"[no gonad datra]",,0,0
+"[no gonad meas.]",,0,0
+"[no gonad meas]",,0,0
+"[no gonad mentioned]",,0,0
+"[no gonad or mammary data]",,0,0
+"[no gonads mentioned]",,0,0
+"[no gonas data]",,0,0
+"[no gond data]",,0,0
+"[no gpnad data]",,0,0
+"[no meas]",,0,0
+"[no repro data]",,0,0
+"[not checked]",,0,0
+"[ova not obvious, CHECK on return from loan]",,0,0
+"[ovary noted, ova not meas.]",,0,0
+"[see Comment]",,0,0
+"[sexed by plumage]",,0,0
+"[testes noted, not meas.]",,0,0
+"{no gonad data]",,0,0
 "~3L, 3R placental scars",,0,0
 "+ 2 foetuses",,0,0
 "+ baculum",,0,0
 "+ embryos",,0,0
+"0 : 2 = 4 mammae",,0,0
 "0 X 2, CR = 28",,0,0
 "0,0",,0,0
+"0:2 = 4 mammae",,0,0
+"0:2= 4 mammae",,0,0
 "0R, 4L placental scars",,0,0
+"0R,0L plac scar",,0,0
+"0R,1L emb",,0,0
+"0R,1L plac scar",,0,0
+"0R,2L plac scar",,0,0
 "1 E",,0,0
 "1 emb",,0,0
+"1 emb (CR=18mm)",,0,0
 "1 emb [R], CR=6 mm",,0,0
 "1 emb = 12mm",,0,0
 "1 emb = 18 mm",,0,0
@@ -57,7 +154,11 @@
 "1 emb, cr = X 14 mm",,0,0
 "1 emb, cr = X 18 mm",,0,0
 "1 emb, cr = X 8 mm",,0,0
+"1 emb, CR=16mm, female",,0,0
+"1 emb, CR=17mm, female",,0,0
+"1 emb, CR=19mm, female",,0,0
 "1 emb, cr=20 well dev",,0,0
+"1 emb, CR=21mm, female",,0,0
 "1 emb, L, 3 mm",,0,0
 "1 emb.",,0,0
 "1 emb. (20 mm) 1 aborted?",,0,0
@@ -153,36 +254,83 @@
 "1 embryo, NL, CR (crown-rump length) =13.5",,0,0
 "1 embryo; NL",,0,0
 "1 embryo?",,0,0
+"1 F emb: cr= 76.3mm *",,0,0
 "1 fetus; CR (crown-rump length) = 41 mm",,0,0
+"1 L emb",,0,0
+"1 L emb, CR=2.9mm",,0,0
+"1 lt. plac. scar, 1 rt emb: CR: 16 mm",,0,0
+"1 M emb: cr= 212.7 mm *",,0,0
+"1 M emb: cr=108.3mm *",,0,0
+"1 male suckling",,0,0
+"1 oviductal egg in left ovary ca. 5 mm",,0,0
+"1 oviductal egg, yolking follicles lt & rt ovaries",,0,0
+"1 ovum 3.0cm + ~ 3d other",,0,0
+"1 plac scar, L",,0,0
+"1 pouch yg (78-27-14-07)",,0,0
+"1 pouch yg (89-32-16-08)",,0,0
+"1 pouch yg.",,0,0
+"1 pouch young",,0,0
+"1 R emb",,0,0
+"1 R emb, CR=6.8mm",,0,0
+"1 R emb, FA=4.2 CR=10.3mm",,0,0
+"1 R placental scar",,0,0
+"1 Rt emb",,0,0
 "1 scar (R); 1 emb (L)",,0,0
 "1 scar: rt",,0,0
+"1 shelled egg in oviduct",,0,0
 "1 sm emb",,0,0
+"1 tubal egg",,0,0
 "1 X 1, CR = 9mm",,0,0
+"1 young",,0,0
 "1.5 mm tubes",,0,0
+"1:2 = 6 mammae",,0,0
+"1:2= 6 mamae",,0,0
+"10 ova; largest 10X10 mm",,0,0
+"10 ova; largest 7X7 mm",,0,0
 "10 well developed embs",,0,0
+"11 eggs in oviducts",,0,0
 "11 embryos",,0,0
 "11 embs",,0,0
 "11 embs/6R/5L/cr=2mm",,0,0
 "11 embs: 3mm",,0,0
 "11 pac scars: 7(R)&4(L)",,0,0
 "12",,0,0
+"12 undev emb in oviducts",,0,0
 "13",,0,0
+"13 ova; largest 4X4 mm",,0,0
+"14 X 19 (right testis), epid-",,0,0
+"15 20mm eggs",,0,0
 "15 February 1952",,0,0
 "15 kg",,0,0
 "15.5 kg",,0,0
+"16mm yolk",,0,0
+"17mm egg in oviduct",,0,0
 "18 kg",,0,0
 "19.5 kg",,0,0
 "193-58-26-5=[>100]",,0,0
 "1emb 28x18","pregnant",0,1
 "1emb 28x21","pregnant",0,1
 "1emb 4.5x2.5 mm","pregnant",0,1
+"1L emb",,0,0
 "1L, 3R, embryos",,0,0
+"1R plac scar, 1L emb",,0,0
+"1R, 0L placental scars",,0,0
+"1R, 1L emb.   1: 2 = 6 mammae.",,0,0
 "1R, 2L embryos",,0,0
+"1R, 2L placental scars",,0,0
 "1R, 2L, CR (crown-rump length) =7",,0,0
 "1R, 3L Embryos",,0,0
 "1R, 3L, CR (crown-rump length) =5",,0,0
+"1R,0L emb",,0,0
+"1R,0L plac scar",,0,0
+"1R,1L emb",,0,0
+"1R,1L plac scar",,0,0
+"2 eggs",,0,0
+"2 eggs (12.0mm)",,0,0
+"2 emb",,0,0
 "2 emb 1der 1 izq 6mm","pregnant",0,1
 "2 emb,  1 X 1; small",,0,0
+"2 emb, cr ~ 18 mm",,0,0
 "2 emb. (10 mm) 1 L, 1 R",,0,0
 "2 emb. (20 mm.)",,0,0
 "2 emb. (8 mm.)",,0,0
@@ -293,29 +441,38 @@
 "2 immature, 1 adult",,0,0
 "2 juveniles and 1 adult",,0,0
 "2 juveniles and 1 adult (received in flesh)",,0,0
+"2 lg. eggs",,0,0
 "2 pac scars: 1(L)&1(R)",,0,0
 "2 pac scars:1(L),1(R)",,0,0
 "2 placental scars, right",,0,0
+"2 pouch young",,0,0
+"2 Rt , 0 Lt plac scars",,0,0
 "2 rt 1 lf, fresh scars",,0,0
 "2 scars",,0,0
 "2 scars, 2 R; lact.",,0,0
 "2 scars, 2R",,0,0
 "2 scars: 1 rt, lf",,0,0
 "2 scars: 1(R), 1(L)",,0,0
+"2 shelled eggs in oviduct",,0,0
 "2 sm. embryo",,0,0
 "2 sm. embs; not lact.",,0,0
 "2 small embs.",,0,0
 "2 X 11",,0,0
 "2 yrs old",,0,0
+"20 x 6 mm",,0,0
 "20-25 kg",,0,0
 "21",,0,0
 "222-64-32-0",,0,0
+"24 developing young",,0,0
 "246 mm",,0,0
 "28 kg",,0,0
 "29.5 kg",,0,0
 "2embs/1R+1L/R=15mm/L=14mm",,0,0
+"2L emb, 1R,1L plac scar",,0,0
 "2L, 0R, CR (crown-rump length) =21",,0,0
+"2L, 1R embs",,0,0
 "2L, 3R embryos",,0,0
+"2L,0R emb",,0,0
 "2R, 1L, CR (crown-rump length) = 11",,0,0
 "2R, 1L, CR (crown-rump length) =?",,0,0
 "2R, 2L",,0,0
@@ -325,7 +482,15 @@
 "2R, 3L embryos; CR (crown-rump length) = 3",,0,0
 "2R, 3L embryos? or scars, lactating",,0,0
 "2R, 4L; CR (crown-rump length) = 8",,0,0
+"2R, 7L placental scars",,0,0
+"2R,0L emb",,0,0
+"2R,0L plac scar",,0,0
+"2R,2L emb",,0,0
+"2R,5L plac scar",,0,0
+"2rt, 2lt embs",,0,0
+"2x1 R",,0,0
 "3 E",,0,0
+"3 Emb",,0,0
 "3 emb. (10 mm.) 2 L, 1 R",,0,0
 "3 emb. (12 mm.)",,0,0
 "3 emb. (15 mm)",,0,0
@@ -440,10 +605,12 @@
 "3 embs; CR=3mm",,0,0
 "3 embs; CR=43mm",,0,0
 "3 lg. embryo; not lact.",,0,0
+"3 ova, lgst ovum= 1.4mm",,0,0
 "3 pac scars",,0,0
 "3 pac scars: (2rt & 1lf)",,0,0
 "3 pac scars: 1(L)&2(R)",,0,0
 "3 pac. scars:1(R)&2(L)",,0,0
+"3 pec, 3 ing mammae",,0,0
 "3 scars",,0,0
 "3 scars (lact)",,0,0
 "3 scars, lg mamm",,0,0
@@ -451,11 +618,14 @@
 "3 scars: 3lf",,0,0
 "3 scars: left",,0,0
 "3 scars:2(L)&1(R)",,0,0
+"3 unshelled eggs 5x9mm",,0,0
 "3 X 0; cr = 1 mm",,0,0
 "3 X 16mm",,0,0
 "3 X 2, CR = 10mm",,0,0
 "3 X 22 mm",,0,0
 "3 X 3",,0,0
+"3.3 mm ; no sc. Emb < 1mm",,0,0
+"32 ova; largest 23X18",,0,0
 "347-114-45-11",,0,0
 "3R, 1L, CR (crown-rump length) =6",,0,0
 "3R, 2L embryos",,0,0
@@ -472,6 +642,7 @@
 "3R, 3L, CR (crown-rump length) =9",,0,0
 "3R, 3L; CR (crown-rump length) = 12",,0,0
 "3R, 4L embryo",,0,0
+"3R, 4L plac scar",,0,0
 "3R, 4L placental scars",,0,0
 "3R, 5L, CR (crown-rump length) = 4",,0,0
 "3x4; CR=2mm",,0,0
@@ -604,9 +775,11 @@
 "4 embs;1(R),3(L): 23mm",,0,0
 "4 emryos",,0,0
 "4 mammae",,0,0
+"4 oviducal eggs",,0,0
 "4 pac scars",,0,0
 "4 pac scars, lact",,0,0
 "4 placental scars",,0,0
+"4 pouch young",,0,0
 "4 scars",,0,0
 "4 scars (lact)",,0,0
 "4 scars, 1R 3L",,0,0
@@ -618,11 +791,15 @@
 "4 scars:2(R),2(L)",,0,0
 "4 sm. embryo; not lact.",,0,0
 "4 small embryos",,0,0
+"4 teats post lac.",,0,0
 "4 undev embs: 3(R)&1(L)",,0,0
+"4 yolk-filled follicles",,0,0
 "4 young in pouch",,0,0
+"4.8x9.5mm [=lgst ovum?]",,0,0
 "4-E",,0,0
 "4embs 15x11","pregnant",0,1
 "4L, 1R placental scars",,0,0
+"4R, 2L emb.",,0,0
 "4R, 2L Embryos",,0,0
 "4R, 2L placental scars",,0,0
 "4R, 2L, CR (crown-rump length) =14",,0,0
@@ -630,7 +807,10 @@
 "4R, 2L, CR (crown-rump length) =23",,0,0
 "4R, 3L placental scars",,0,0
 "4R, 4L uterine scars",,0,0
+"4R, 5 L emb",,0,0
 "4R, 5L, placental scars",,0,0
+"4rt, 2lt embs",,0,0
+"4x2, L; 3x3, R",,0,0
 "5 = X 9 mm",,0,0
 "5 Embryo",,0,0
 "5 embryos",,0,0
@@ -725,6 +905,8 @@
 "5-E",,0,0
 "5embs 10x8","pregnant",0,1
 "5embs 30x15","pregnant",0,1
+"6 eggs in oviducts",,0,0
+"6 eggs laid; 20 shelled eggs (largest ovum = 21 mm) and multiple unshelled eggs found within the abdominal cavity",,0,0
 "6 emb., cr = 4 mm",,0,0
 "6 emb/6R/cr=12mm",,0,0
 "6 embryo x 14,2L,4R",,0,0
@@ -783,6 +965,7 @@
 "6 scars: 3 R, 3 L",,0,0
 "6 scars: 3lf, 3rt; lact.",,0,0
 "6 scars: 3lf,3rt",,0,0
+"6 undev embs in oviducts",,0,0
 "6 well dev. embs",,0,0
 "6 yg in pouch",,0,0
 "6-7 months old",,0,0
@@ -802,6 +985,7 @@
 "7 embs; CR=7mm",,0,0
 "7 pac. scars: (4 & 3)",,0,0
 "7 placental scars",,0,0
+"7 unpigmented eggs",,0,0
 "8 embryos",,0,0
 "8 embryos, 20-30 mm",,0,0
 "8 embs: 1lf & 7rt x 4mm",,0,0
@@ -815,9 +999,11 @@
 "8 embs:5L,3R=4mm",,0,0
 "8 embs; 10 mm",,0,0
 "8 embs; 9 mm",,0,0
+"8 ova, lgst ovum=1.5mm",,0,0
 "8 pac. scars: (5 & 3)",,0,0
 "8 pac. scars: 5 & 3",,0,0
 "8 placental scars",,0,0
+"8 X 4 mm = left testis",,0,0
 "8, no emb.",,0,0
 "8embs 11x7","pregnant",0,1
 "9  placental scars",,0,0
@@ -825,6 +1011,7 @@
 "9 embryos, 3mm, 5 left, 4 right",,0,0
 "9 embs/6 R/3 L/cr < 3 mm",,0,0
 "9 pac. scars: (5 & 4)",,0,0
+"9no gonad data]",,0,0
 "A","unknown",0,1
 "A lac","lactating",0,1
 "A preñ.","pregnant",0,1
@@ -841,6 +1028,7 @@
 "A TES","scrotal testicles",0,1
 "abd.",,0,0
 "abd. 2605",,0,0
+"abdomen looks like breeding ovaries slightly enlarged",,0,0
 "abdominal",,0,0
 "Active, turg.",,0,0
 "AD","unknown",0,1
@@ -888,8 +1076,12 @@
 "blood in uterus; adult",,0,0
 "born 23 May 1948",,0,0
 "breeding","breeding",1,1
+"brown spotted fan shelled egg (19x27mm) in left oviduct",,0,0
+"by DNA analysis",,0,0
+"by plumage",,0,0
 "c",,0,0
 "c, no emb.",,0,0
+"ca.25 ova",,0,0
 "carrying young joey (fem)",,0,0
 "COMMENT: 2 OVARIES? - K.C.PARKES.",,0,0
 "COMMENT: 4 RUPTURED FOLLICLES, EGG IN DUCT, NO OTH",,0,0
@@ -1015,13 +1207,24 @@
 "corn.",,0,0
 "cr = 11",,0,0
 "cub",,0,0
+"descended [no meas]",,0,0
+"descended scrotum",,0,0
 "determine","unknown",0,1
+"developing ova",,0,0
 "Dissect","unknown",0,1
 "E = 4",,0,0
 "E 2 X 2, CR = 5",,0,0
 "e embs/cr = X 36 mm",,0,0
 "E2 X 2",,0,0
+"earliest vitellog follicles",,0,0
 "early pregnancy",,0,0
+"egg in cloaca",,0,0
+"egg in oviduct",,0,0
+"egg in oviduct, largest ovum 9mm, 1 collapsed follicle",,0,0
+"egg ready for shell",,0,0
+"egg ready to be laid",,0,0
+"egg to be laid",,0,0
+"eggs soon to be laid",,0,0
 "EMB  ","pregnant",0,1
 "emb (cr = 4 mm)",,0,0
 "emb (small)",,0,0
@@ -1029,6 +1232,7 @@
 "EMB 1 emb. 18mm","pregnant",0,1
 "emb 1 X 10",,0,0
 "EMB 18 mm","pregnant",0,1
+"emb 1L, 0R",,0,0
 "emb 22x15","pregnant",0,1
 "EMB 2x1","pregnant",0,1
 "EMB 3 emb. 1 der, 2 1zq.","pregnant",0,1
@@ -1054,6 +1258,10 @@
 "Embryo =15.4",,0,0
 "embryo 15 X 14",,0,0
 "embryo small",,0,0
+"embryo= 13",,0,0
+"embryo= 30",,0,0
+"embryo= 30mm",,0,0
+"embryo= 42",,0,0
 "embryos",,0,0
 "embryos 1L, 2L",,0,0
 "Embryos 2R1L, 12mm",,0,0
@@ -1079,7 +1287,9 @@
 "enlarged uterus and nipples",,0,0
 "enlarged uterus and teats, lots of fat deposits; prob. just gave birth.",,0,0
 "enlarged uterus, 2 embryos?",,0,0
+"entire ovary 1x2mm",,0,0
 "Estrous, no embs.",,0,0
+"ext.*",,0,0
 "F","unknown",0,1
 "F-","unknown",0,1
 "F ?","unknown",0,1
@@ -1090,7 +1300,10 @@
 "FA = 37 mm",,0,0
 "FA = 61",,0,0
 "five embryos",,0,0
+"flacid",,0,0
 "foetus (male), full term",,0,0
+"follicles granular",,0,0
+"follicles minute",,0,0
 "formative","formative",1,1
 "four placental scars",,0,0
 "four sm. embryo",,0,0
@@ -1103,6 +1316,9 @@
 "FPG-21 days",,0,0
 "full term unborn fetus",,0,0
 "Full-term emb: 44mm",,0,0
+"fully developed",,0,0
+"fully formed eggs in duct",,0,0
+"fused eggs",,0,0
 "G","gravid",0,1
 "gave birth to 7 young",,0,0
 "gF","gravid",0,1
@@ -1113,7 +1329,15 @@
 "gF(7)","gravid",0,1
 "gF(8)","gravid",0,1
 "gF(9)","gravid",0,1
+"gonad 11x5mm",,0,0
+"gonad 12x6mm",,0,0
+"gonads = 12x6mm",,0,0
+"gonads = 14x7mm",,0,0
+"gonads = 15x9mm",,0,0
+"gonads = 5x3mm",,0,0
+"gonads mentioned",,0,0
 "GONADS NOT FOUND",,0,0
+"gonads obscure",,0,0
 "GONADS SPOILED",,0,0
 "GONADS: 1 VASCULAR OVARY 3.5 X 6.5, WITH ENLARGING",,0,0
 "GONADS: 1 VASCULAR OVARY 3.5 X 6.5, WITH ENLARGING OVA (0.5).",,0,0
@@ -1183,8 +1407,28 @@
 "GONADS: TESTES: LEFT BILOBED,12 X 6 & 6 X 5, RIGHT 17 X 6.5 MM, DRAWN.",,0,0
 "GONADS: TESTES: LEFt: BLACK, RIGHT: YELLOWISH.",,0,0
 "GONADS: TESTES: PROBABLY INACCURATE.",,0,0
+"gravdi",,0,0
 "gravid",,0,0
+"gravid (100+ mature eggs)",,0,0
+"gravid (2 eggs visible)",,0,0
+"gravid [?]",,0,0
+"gravid [see comments]",,0,0
+"gravid)",,0,0
+"gravid, [early stage eggs to be counted on return from loan]",,0,0
+"gravid, 10 + 13 eggs in oviducts",,0,0
+"gravid, 14 + 15 eggs in oviducts",,0,0
+"gravid, 14 + 16 eggs in oviducts",,0,0
+"gravid, 17 + 14 eggs in oviducts",,0,0
+"gravid, 17 + 18 eggs in oviducts",,0,0
+"gravid, 22 + 19 eggs in oviducts",,0,0
+"gravid, 24 + 22 eggs in oviducts",,0,0
+"gravid, 5 embs",,0,0
+"gravid.  See Comments.",,0,0
+"gravid; 1 egg",,0,0
+"gravid?",,0,0
+"gravide",,0,0
 "H",,0,1
+"hatched eggcase in cloaca",,0,0
 "hembra",,0,1
 "hembra 2 pares ma",,0,1
 "hembra A",,0,1
@@ -1205,6 +1449,8 @@
 "hembra no lac","non-lactating",0,1
 "hembra preg 2-2 emb 15mm",,0,1
 "hembra SA",,0,1
+"hemipenes",,0,0
+"hemipenes everted",,0,0
 "HOW SEXED GONADS: TESTES NOT ENLARGED.",,0,0
 "HOW SEXED: 2 SIMILAR SIZED DUCTS. GONADS DECOMPOSE",,0,0
 "HOW SEXED: 2 SIMILAR SIZED DUCTS. GONADS DECOMPOSED.",,0,0
@@ -12553,11 +12799,14 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "HOW SEXED:TESTES 1.5 X 1 MM.",,0,0
 "HOW SEXED:TESTES 3X2 MM",,0,0
 "I",,0,1
+"illustrated on collector's label",,0,0
 "imm",,0,0
+"imm gonads 5x15mm",,0,0
 "Imm, vag closed",,0,0
 "Imm.",,0,0
 "immature","immature",1,1
 "immature no embryo",,0,0
+"immature ovaries",,0,0
 "immature, abd. x6",,0,0
 "immature, no embryos",,0,0
 "immature, t. inguinal",,0,0
@@ -12565,6 +12814,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "immature, testis 3mm",,0,0
 "immature?",,0,0
 "imperforate",,0,0
+"in breeding condition",,0,0
 "Inact",,0,0
 "inact.",,0,0
 "inact./ no embryo",,0,0
@@ -12599,6 +12849,24 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "juvenile, young of UCM6175, not yet capable of flight","juvenile",0,1
 "juvenile; non reproductive","juvenile",0,1
 "juvenile; not breeding","juvenile",0,1
+"L  testis = 8 x 4 mm",,0,0
+"L testes = 12 x 5 mm",,0,0
+"L testis = 2 x 1 mm",,0,0
+"L testis = 4 X 1 (L X W)",,0,0
+"L testis = 5 x 7 mm",,0,0
+"L testis = 6 x 4 mm",,0,0
+"L testis = 6 x 5 mm",,0,0
+"L testis = 7 x 9 mm",,0,0
+"L testis = 8 x 4 mm",,0,0
+"L testis= 18x10 mm, epid+",,0,0
+"L testis= 2x4.5 mm",,0,0
+"L testis= 3x6mm, dark",,0,0
+"L testis= 6x15 mm; R testis= 6x8 mm",,0,0
+"L testis= 7x19 mm; R testis= 8x14 mm",,0,0
+"L testis= damaged; R testis= 4x10 mm (black)",,0,0
+"l. testes= 3x8mm",,0,0
+"L.T. 4.0mm",,0,0
+"L=0.4 / R=0.5 kg",,0,0
 "L-1; R-1; C-30",,0,0
 "lac","lactating",0,1
 "lac, preñ","lactating, pregnant",0,1
@@ -12696,6 +12964,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "lactating, 6 embryos, 4mm",,0,0
 "lactating, 8 tits",,0,0
 "lactating, EPG-18 days",,0,0
+"Lactating, no emb",,0,0
 "lactating, no embryos",,0,0
 "lactating, no embs",,0,0
 "Lactating, no embs; scars",,0,0
@@ -12705,13 +12974,164 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Lactating, scars","lactating, scars",1,1
 "lactating,m FPG-21 days",,0,0
 "Lactating; scars present",,0,0
+"lagst ovum = 1 mm",,0,0
+"laid 2 eggs",,0,0
+"laid eggs",,0,0
 "lamb",,0,0
+"large",,0,0
+"large gonads",,0,0
 "Large mam.",,0,0
 "Large nip.",,0,0
 "Large nip.; no embs",,0,0
+"large ova",,0,0
+"large ovum",,0,0
 "large testes",,0,0
+"largest ova 1mm",,0,0
+"largest ova 2 mm, oviduct evident",,0,0
+"largest ova 2mm",,0,0
+"largest ovum <1 mm",,0,0
+"largest ovum <1mm",,0,0
+"largest ovum = 11mm",,0,0
+"largest ovum = 2.0 mm",,0,0
+"largest ovum = 2mm",,0,0
+"largest ovum = 3mm",,0,0
+"largest ovum = 5mm",,0,0
+"largest ovum 1.25mm",,0,0
+"Largest ovum 4 mm.  See Comments.",,0,0
+"largest ovum= <1mm",,0,0
+"largest ovum= 1.15mm",,0,0
+"largest ovum= 1mm",,0,0
+"largest ovum= 5 x 7mm",,0,0
 "late lac.",,0,0
+"late vitellog follicles",,0,0
 "lct; 1 emb; cr = 7",,0,0
+"left ovary = 4x12mm, many small follicles",,0,0
+"left teste = 4mm x 1mm",,0,0
+"left testes 7 x 2 mm",,0,0
+"left testis = 14mm",,0,0
+"lft ovary 2mm, rt ovary 1.5 mm",,0,0
+"lft testis= 13x4 mm",,0,0
+"lgest ovum= 1.5mm",,0,0
+"lgst  ovum = 4.1x5.6mm",,0,0
+"lgst follicle = 2mm",,0,0
+"lgst follicle = 3 mm",,0,0
+"lgst follicle= 1.0mm",,0,0
+"lgst follicle= 1x1mm",,0,0
+"lgst follicle= 2.1mm",,0,0
+"lgst follicle= 5x5mm",,0,0
+"lgst ova <1mm",,0,0
+"lgst ova = 2mm",,0,0
+"lgst ova = 6mm",,0,0
+"lgst ova 1mm",,0,0
+"lgst ovum < 1 mm",,0,0
+"lgst ovum < 1mm",,0,0
+"lgst ovum < 8 mm",,0,0
+"lgst ovum <1mm",,0,0
+"lgst ovum = 1 mm",,0,0
+"lgst ovum = 1.1 mm",,0,0
+"lgst ovum = 1.1mm",,0,0
+"lgst ovum = 1.2mm",,0,0
+"lgst ovum = 1.5 mm",,0,0
+"lgst ovum = 1.5mm",,0,0
+"lgst ovum = 1.6mm",,0,0
+"lgst ovum = 12mm ; ovary = 7.5 x 2.5 cm",,0,0
+"lgst ovum = 15 x 12 mm; R ovary 58mm, L ovary 32 mm length",,0,0
+"lgst ovum = 1mm",,0,0
+"lgst ovum = 1x2mm",,0,0
+"lgst ovum = 2 mm",,0,0
+"lgst ovum = 2.0mm",,0,0
+"lgst ovum = 2.3mm",,0,0
+"lgst ovum = 2.5mm",,0,0
+"lgst ovum = 2.6mm",,0,0
+"lgst ovum = 2cm",,0,0
+"lgst ovum = 2mm",,0,0
+"lgst ovum = 3 mm",,0,0
+"lgst ovum = 3.0mm",,0,0
+"lgst ovum = 3.2mm",,0,0
+"lgst ovum = 3mm",,0,0
+"lgst ovum = 4 mm",,0,0
+"lgst ovum = 4.9mm",,0,0
+"lgst ovum = 40mm",,0,0
+"lgst ovum = 4mm",,0,0
+"lgst ovum = 5.5x8.2mm",,0,0
+"lgst ovum = 5x6mm",,0,0
+"lgst ovum = 6 mm",,0,0
+"lgst ovum 32mm",,0,0
+"lgst ovum 3mm",,0,0
+"lgst ovum 6mm",,0,0
+"lgst ovum= <1mm",,0,0
+"lgst ovum= 1 mm",,0,0
+"lgst ovum= 1.1mm",,0,0
+"lgst ovum= 1.3 mm",,0,0
+"lgst ovum= 1.3mm",,0,0
+"lgst ovum= 1.4 mm",,0,0
+"lgst ovum= 1.5 mm",,0,0
+"lgst ovum= 1.5mm",,0,0
+"lgst ovum= 1.5x1.5mm",,0,0
+"lgst ovum= 1.6mm",,0,0
+"lgst ovum= 1.7 mm",,0,0
+"lgst ovum= 1.8 mm",,0,0
+"lgst ovum= 1.9 mm",,0,0
+"lgst ovum= 10 mm",,0,0
+"lgst ovum= 11.1mm",,0,0
+"lgst ovum= 11.2 mm",,0,0
+"lgst ovum= 16.0 mm",,0,0
+"lgst ovum= 18mm",,0,0
+"lgst ovum= 1mm",,0,0
+"lgst ovum= 2 mm",,0,0
+"lgst ovum= 2.0",,0,0
+"lgst ovum= 2.0 mm",,0,0
+"lgst ovum= 2.0mm",,0,0
+"lgst ovum= 2.1mm",,0,0
+"lgst ovum= 2.3mm",,0,0
+"lgst ovum= 2.4 mm",,0,0
+"lgst ovum= 2.5 mm",,0,0
+"lgst ovum= 2.5mm",,0,0
+"lgst ovum= 2.6 mm",,0,0
+"lgst ovum= 2.9 mm",,0,0
+"lgst ovum= 2.9mm",,0,0
+"lgst ovum= 20mm",,0,0
+"lgst ovum= 2mm",,0,0
+"lgst ovum= 2x1.5mm",,0,0
+"lgst ovum= 3 mm",,0,0
+"lgst ovum= 3.2 mm",,0,0
+"lgst ovum= 3.5mm",,0,0
+"lgst ovum= 3.6mm",,0,0
+"lgst ovum= 3mm",,0,0
+"lgst ovum= 4 mm",,0,0
+"lgst ovum= 4.0",,0,0
+"lgst ovum= 4.3 mm",,0,0
+"lgst ovum= 4.5 mm",,0,0
+"lgst ovum= 4.6 mm",,0,0
+"lgst ovum= 4mm",,0,0
+"lgst ovum= 5.0mm",,0,0
+"lgst ovum= 5mm",,0,0
+"lgst ovum= 6.5 mm",,0,0
+"lgst ovum= 6mm",,0,0
+"lgst ovum= 7mm",,0,0
+"lgst ovum= 7x9 mm",,0,0
+"lgst ovum= 8.1 mm round",,0,0
+"lgst ovum= 8mm",,0,0
+"lgst ovum= aprox 2mm",,0,0
+"lgst ovum=3mm",,0,0
+"lgst ovun= 1mm",,0,0
+"lgst testis= 13 x 21 mm",,0,0
+"lgst testis= 18x34mm",,0,0
+"lgst testis= 3.5x6.5 mm",,0,0
+"lgst testis= 4 x 11 mm",,0,0
+"lgst testis= 7 x 10 mm",,0,0
+"lgst. follicle 2mm, ovary enlarged",,0,0
+"lgst. follicle 4mm, yellow, ovary enlarged",,0,0
+"lgst. follicle= 1mm",,0,0
+"lgst. Ovum = 2mm",,0,0
+"lgst. ovum 1.5mm",,0,0
+"lgst. ovum 1.9mm",,0,0
+"lgst. ovum= 1 mm",,0,0
+"lgst. ovum= 2mm",,0,0
+"lgst. ovum= 3mm",,0,0
+"lgst. ovum= 4mm",,0,0
+"lgst. ovum= 5mm",,0,0
+"lgst. ovum= 6 mm",,0,0
 "lot lact.",,0,0
 "M","unknown",0,1
 "M < 1 mm",,0,0
@@ -12745,15 +13165,37 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "macho test 8x4",,0,1
 "macho test esc",,0,1
 "mamas pte.","mammaries present",0,1
+"mammae  0 : 2 = 4",,0,0
+"mammae 0:1 = 2 ? [no gonad data]",,0,0
+"mammae 0:2 = 4",,0,0
+"mammae 0:2 = 4 [no gonad data]",,0,0
+"mammae 0:2 = 4, embryo = 36",,0,0
+"mammae 1:2 = 6",,0,0
+"mammae 2+2",,0,0
 "mammae 2p +4",,0,0
+"mammae: 1 + 2 = 6",,0,0
 "mammory glands enlarged",,0,0
 "many placental scars",,0,0
 "mature",,0,0
+"mature breeding condition",,0,0
 "MI",,0,1
+"mid vetellog follicles",,0,0
+"mid-late vitellog follicles",,0,0
+"mid-vitellog follicles",,0,0
+"mildly enlarged follicles",,0,0
+"mildly enlgd. follicles",,0,0
+"minute",,0,0
+"minute follicles",,0,0
 "MM","unknown",0,1
 "Mo Embryo",,0,0
+"mod. large testes",,0,0
+"mod-large testes",,0,0
+"multiple early stage ova",,0,0
 "N","unknown",0,1
 "Neonato",,0,1
+"nesting",,0,0
+"nesting ?",,0,0
+"new eggs",,0,0
 "nipples and mammaries indicate nursing",,0,0
 "nipples and uterus enlarged, 2R, 2L scars",,0,0
 "nipples and uterus enlarged, no embryos, no scars",,0,0
@@ -12764,8 +13206,14 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "NL, 1 embryo",,0,0
 "NL, NP",,0,0
 "NL, NR",,0,0
+"no developing ova",,0,0
 "no emb","not pregnant",0,1
+"no emb or plac scars",,0,0
+"no emb, mammae = 2pec, 2ing",,0,0
+"no emb, mammae 2 pr ing = 4",,0,0
+"no emb, mammae=3pec+3ing",,0,0
 "no emb, no lact",,0,0
+"no emb, virgin",,0,0
 "no emb.",,0,0
 "no emb., 2 scars",,0,0
 "no emb., 3 scars",,0,0
@@ -12845,14 +13293,23 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "No embs; uterus turg.",,0,0
 "No embs; virgin",,0,0
 "no embyo",,0,0
+"no enlarged ovum",,0,0
+"no gonad data",,0,0
+"no gonad meas",,0,0
+"no gonads",,0,0
+"no gonads observed",,0,0
 "no lac","non-lactating",0,1
 "no lac, no emb","non-lactating, not pregnant",0,1
 "no lac, no preñ","non-lactating, not pregnant",0,1
 "No lact",,0,0
 "No lact, no embs",,0,0
 "No Lact; 1 emb",,0,0
+"no ova",,0,0
+"no ovarian follicles",,0,0
 "no placental scars",,0,0
+"no pouch young",,0,0
 "no preñ, no lac","non-lactating, not pregnant",0,1
+"no repro data",,0,0
 "No scars",,0,0
 "no scars or embryos",,0,0
 "No scars; nips. large",,0,0
@@ -12883,6 +13340,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "non-breeding, no scras",,0,0
 "nonbreeding, subadult",,0,0
 "non-breeding, subadult",,0,0
+"none observed",,0,0
 "non-lactating",,0,0
 "Nonparous",,0,0
 "Nonparous, no embs",,0,0
@@ -12891,6 +13349,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "non-scrotal",,0,0
 "nop visible embryos",,0,0
 "not breeding",,0,0
+"not found",,0,0
+"not gravid",,0,0
 "not lact",,0,0
 "not lact, 1 lg. emb.",,0,0
 "not lact, 2 embs",,0,0
@@ -12915,6 +13375,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "not lact.; one sm. embryo",,0,0
 "not lactating",,0,0
 "not lactating, no embryos",,0,0
+"not observed",,0,0
 "not pert, t = 13 X 8 & 15",,0,0
 "not pert.",,0,0
 "not pert., no emb",,0,0
@@ -12930,11 +13391,314 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "nursing","nursing",1,1
 "nursing female, ovaries shrunken",,0,0
 "nursing, no embryos",,0,0
+"O.E.",,0,0
+"O.N.E.",,0,0
+"O.N.E. = 5mm",,0,0
+"O.S.E.",,0,0
 "old female? (antlers?)",,0,0
 "Old Male",,0,0
 "one lg. embryo",,0,0
+"only one testicle enlarged",,0,0
+"organ small",,0,0
+"ot enlarged",,0,0
+"ova + 2mm",,0,0
+"ova <  mm",,0,0
+"ova < 1  mm",,0,0
+"ova < 1 mm",,0,0
+"ova < 1 mm (see sketch)",,0,0
+"ova < 1 mm ; ovary 5 x 4 mm",,0,0
+"ova < 1 mm, ovary 15 x 5 mm",,0,0
+"ova < 1mm",,0,0
+"ova < 2 mm ; ovary = 7.5 mm",,0,0
+"ova <1 mm",,0,0
+"ova <1.0 mm",,0,0
+"ova <1mm",,0,0
+"ova <1mm, ovary = 3x3mm",,0,0
+"ova <1mm, ovary = 3x4 1/2mm",,0,0
+"ova <1mm, ovary = 6x3mm",,0,0
+"ova <1mm, ovary = 9mm",,0,0
+"ova <1mm?",,0,0
+"ova <2mm",,0,0
+"ova = <1 mm",,0,0
+"ova = 1 1/2mm",,0,0
+"ova = 1 mm",,0,0
+"ova = 1.0 mm",,0,0
+"ova = 1.5 mm",,0,0
+"ova = 10mm",,0,0
+"ova = 11 mm",,0,0
+"ova = 1-1/2mm",,0,0
+"ova = 11mm",,0,0
+"ova = 12mm",,0,0
+"ova = 18mm",,0,0
+"ova = 1mm",,0,0
+"ova = 1x1/2mm",,0,0
+"ova = 2 mm; ovary = 7 x 4 mm",,0,0
+"ova = 2mm",,0,0
+"ova = 2x1mm",,0,0
+"ova = 3mm",,0,0
+"ova = 4mm",,0,0
+"ova = 5 mm",,0,0
+"ova = 5mm",,0,0
+"ova = 6.1mm",,0,0
+"ova = 6mm",,0,0
+"ova = 7mm",,0,0
+"ova = 9mm",,0,0
+"ova > 1mm *",,0,0
+"ova >1mm",,0,0
+"ova 1 mm",,0,0
+"ova 1mm",,0,0
+"ova 2 mm",,0,0
+"ova 2 mm.",,0,0
+"ova 3 mm",,0,0
+"ova 3mm, ovary = 5x10mm",,0,0
+"ova ca 1mm",,0,0
+"ova ca. 11 mm.",,0,0
+"ova ca. 1mm",,0,0
+"ova enlarged *",,0,0
+"ova granular",,0,0
+"ova L 1mm",,0,0
+"ova large",,0,0
+"ova mentioned",,0,0
+"ova minute",,0,0
+"ova small",,0,0
+"ova? < 1 mm",,0,0
+"ova? < 1mm",,0,0
+"ova? <1mm",,0,0
+"ova? <imm",,0,0
+"ova? granular",,0,0
+"ova?= <l mm",,0,0
+"ova< 1 mm",,0,0
+"ova< 1mm",,0,0
+"ova= <1 mm",,0,0
+"ova= <1mm",,0,0
+"ova= 1 1/2mm",,0,0
+"ova= 1 mm",,0,0
+"ova= 1.5mm",,0,0
+"ova= 1-2mm",,0,0
+"ova= 1mm",,0,0
+"ova= 1mm, see label",,0,0
+"ova= 2 mm",,0,0
+"ova= 2.5mm",,0,0
+"ova= 2mm",,0,0
+"ova= 3 mm",,0,0
+"ova= 3.7x4.5mm",,0,0
+"ova= 6mm",,0,0
+"ova= lmm",,0,0
+"ovaries = 18x7mm",,0,0
+"ovaries = 5x2mm, ova <1mm",,0,0
+"ovaries = 7x4mm, ova <1mm",,0,0
+"ovaries 12 X 5 mm",,0,0
+"ovaries 2x4mm *",,0,0
+"ovaries 3mm long",,0,0
+"ovaries enlarged",,0,0
+"ovaries granular",,0,0
+"ovaries granular <1mm",,0,0
+"ovaries healthy, not enlarged",,0,0
+"ovaries much enlarged",,0,0
+"ovaries not enlarged",,0,0
+"ovaries not granular",,0,0
+"ovaries scarcely visible",,0,0
+"ovaries slightly enlarged",,0,0
+"ovaries slightly granular",,0,0
+"ovaries small",,0,0
+"ovaries small not granular",,0,0
+"ovaries small, granular",,0,0
+"ovaries small, not granlr",,0,0
+"ovaries somewhat enlarged",,0,0
+"ovaries undeveloped",,0,0
+"ovaries very granular",,0,0
+"ovaries very slightly developed",,0,0
+"ovaries very small",,0,0
+"ovaries= 4x13mm",,0,0
+"ovaries= 7.1x9.1mm",,0,0
+"ovary (left) = 2x5mm",,0,0
+"ovary (left) 5x14mm, two collapsed fociles",,0,0
+"ovary ----?---- enlarged",,0,0
+"ovary -?- enlarged *",,0,0
+"ovary = 0.5x1mm",,0,0
+"ovary = 1 1/2mm",,0,0
+"ovary = 10x4mm, ova = 2mm",,0,0
+"ovary = 10x9mm, ova = 3mm",,0,0
+"ovary = 11 x 6, ova = 2 mm",,0,0
+"ovary = 11x5mm, ova = 3mm",,0,0
+"ovary = 12x4mm, ova = 1mm",,0,0
+"ovary = 14x4mm",,0,0
+"ovary = 15x8mm",,0,0
+"ovary = 17x9mm, ova = 6mm",,0,0
+"ovary = 19x7mm, ova = 7mm",,0,0
+"ovary = 2x3mm, ova <1mm",,0,0
+"ovary = 3mm, ova <1mm",,0,0
+"ovary = 3x1mm, granular",,0,0
+"ovary = 3x1mm, ova <1mm",,0,0
+"ovary = 3x2mm, ova <1mm",,0,0
+"ovary = 3x2mm, ova tiny",,0,0
+"ovary = 3x3mm, ova <1mm",,0,0
+"ovary = 3x5x1mm",,0,0
+"ovary = 4 1/2x3mm, ova <1mm",,0,0
+"ovary = 4mm diam, coarse",,0,0
+"ovary = 4mm, ova <1mm",,0,0
+"ovary = 4mm, ova = 1mm",,0,0
+"ovary = 4x12mm",,0,0
+"ovary = 4x3mm, ova <1mm",,0,0
+"ovary = 4x4mm, ova <1mm",,0,0
+"ovary = 4x6mm, ova small",,0,0
+"ovary = 4x9mm",,0,0
+"ovary = 5x2 1/2mm, ova = 1mm",,0,0
+"ovary = 5x3 1/2mm, ova <1mm",,0,0
+"ovary = 5x3mm, lgst ova <1 mm",,0,0
+"ovary = 5x3mm, ova <1mm",,0,0
+"ovary = 5x4mm, ova <1mm",,0,0
+"ovary = 6x2mm, ova <1mm",,0,0
+"ovary = 6x3mm, ova <1mm",,0,0
+"ovary = 6x4mm, ova <1mm",,0,0
+"ovary = 6x4mm, ova = 2mm",,0,0
+"ovary = 6x5mm, ova = 1.5mm",,0,0
+"ovary = 6x5mm, ova = 2mm",,0,0
+"ovary = 7 1/2x4mm, ova = 1mm",,0,0
+"ovary = 7x3mm",,0,0
+"ovary = 7x3mm, ova <1mm",,0,0
+"ovary = 7x3mm, ova <imm",,0,0
+"ovary = 7x4mm, ova <1mm",,0,0
+"ovary = 7x4mm, ova <imm",,0,0
+"ovary = 7x4mm, ova = 1mm",,0,0
+"ovary = 7x5mm, ova = 1mm",,0,0
+"ovary = 8x5mm, ova = 2mm",,0,0
+"ovary = 9x6mm, ova = 2mm",,0,0
+"ovary =8x2mm, ova <1mm",,0,0
+"ovary 10 x 7 mm (lgst ovum broke?)",,0,0
+"ovary 10 x 8 mm; ova < 2 mm",,0,0
+"ovary 10x4mm, ova 2mm",,0,0
+"ovary 10x5 mm, largest ovum <1mm",,0,0
+"ovary 11x4 mm, ova 4 mm",,0,0
+"ovary 11x6 mm, largest ova 6 mm",,0,0
+"ovary 11x6 mm, ova <1 mm",,0,0
+"ovary 11x6 mm, ova 2 mm",,0,0
+"ovary 11x7 mm, ova 1 mm",,0,0
+"ovary 11x8 mm",,0,0
+"ovary 12x4 mm, ova 2 mm",,0,0
+"ovary 12x6 mm, ova 4 mm",,0,0
+"ovary 13x6 mm, ova 2 mm",,0,0
+"ovary 13x7mm, ova 2mm, enlarged oviduct",,0,0
+"ovary 13x9mm, largest ova 3mm",,0,0
+"ovary 14x4 mm, ova 22 mm",,0,0
+"ovary 14x6 mm, ova 4 mm",,0,0
+"ovary 15 mm, ova 7 mm",,0,0
+"Ovary 15x5mm, all ovules less than 1mm",,0,0
+"ovary 17.5 X 8 mm",,0,0
+"ovary 18x3mm, ova <1mm",,0,0
+"ovary 1x3mm, folicle <1mm",,0,0
+"ovary 20x12 mm, w/ egg",,0,0
+"ovary 23x17 mm, 1 egg near laying",,0,0
+"ovary 3x2, ova <1mm",,0,0
+"ovary 4 mm, ova < 1 mm",,0,0
+"ovary 4 x 3 mm, ova < 1 mm",,0,0
+"ovary 4x3 mm, ova 1.5 mm",,0,0
+"ovary 4x3mm, ova <1mm",,0,0
+"ovary 4x4.5mm, no follic.",,0,0
+"ovary 5.1mm",,0,0
+"ovary 5x3 mm, ova 2 mm",,0,0
+"ovary 5x3mm, ova<1mm",,0,0
+"ovary 5x4mm, ova<1mm",,0,0
+"ovary 5x5 mm, ova 2 mm",,0,0
+"ovary 5x5mm, ovum=1mm",,0,0
+"ovary 6x2 mm, ova not visible",,0,0
+"ovary 6x3mm, ova =1mm",,0,0
+"ovary 6x4 mm, ova <1 mm",,0,0
+"ovary 6x4mm, ova<1mm",,0,0
+"ovary 6x5 mm, ova 1mm",,0,0
+"ovary 6x5 mm, ova<1mm",,0,0
+"ovary 6x6 mm, ova 1 mm",,0,0
+"ovary 6x6 mm, ova< 1mm",,0,0
+"ovary 7 mm, ova < 1 mm",,0,0
+"ovary 7 x 4 mm, ova < 1 mm",,0,0
+"ovary 7mm, ova<1mm",,0,0
+"ovary 7x4mm, ova=1mm",,0,0
+"ovary 7x5mm; ova<1mm",,0,0
+"ovary 7x7 mm, ova 2 mm",,0,0
+"ovary 8 x 4 mm, ova < 1 mm",,0,0
+"ovary 8x3mm, ova=2mm",,0,0
+"ovary 8x4 mm, ova <1 mm",,0,0
+"ovary 8x4mm, ova<1mm",,0,0
+"ovary 8x5 mm, ova 1 mm",,0,0
+"ovary 8x5 mm, ova 2.5 mm",,0,0
+"ovary 8x6 mm, ova 2 mm, oviduct enlarged",,0,0
+"ovary 8x8 mm, ova 4 mm, oviduct enlarged",,0,0
+"ovary 9 x 5 mm, ova < 1 mm",,0,0
+"ovary 9x5 mm, ova 2 mm, oviduct enlarged",,0,0
+"ovary 9x5mm, largest ovum 2x2mm",,0,0
+"ovary 9x8mm, ova=5mm",,0,0
+"ovary a v.",,0,0
+"ovary and ovaduct much enlarged; ovum 14 mm",,0,0
+"ovary enlarged",,0,0
+"ovary enlarged, 2 follicles yellow, lgst ovum 2.5mm",,0,0
+"ovary enlarged, lgst. follicle= 2mm",,0,0
+"ovary flacid",,0,0
+"ovary granular",,0,0
+"ovary granular, not enlarged",,0,0
+"ovary granular, oviduct regresing",,0,0
+"ovary granular; largest follicle 10 mm",,0,0
+"ovary mentioned.",,0,0
+"ovary minute",,0,0
+"ovary moderately enlarged",,0,0
+"ovary much enlarged",,0,0
+"ovary not enlarged",,0,0
+"ovary not granular",,0,0
+"ovary noted (no meas)",,0,0
+"ovary observed",,0,0
+"ovary opaque= 4.0x8.5mm",,0,0
+"ovary present",,0,0
+"ovary present*",,0,0
+"ovary regressed",,0,0
+"ovary regressed - no ova?",,0,0
+"ovary slightly developed",,0,0
+"ovary slightly enlarged",,0,0
+"ovary slightly enlarged, oviduct convoluted and enlarged",,0,0
+"ovary slightly granular",,0,0
+"ovary sm, slight granular",,0,0
+"ovary small",,0,0
+"ovary smooth, firm, yellow",,0,0
+"ovary somewhat enlarged",,0,0
+"ovary very granular",,0,0
+"ovary very granular *",,0,0
+"ovary with follicles",,0,0
+"ovary, largest ovum <1mm",,0,0
+"ovary: 20 x 9 mm, largest ovum: 3 mm",,0,0
+"ovary; largest follicle 8 mm",,0,0
+"ovary? 3x2mm, ova? 1mm",,0,0
+"ovary? granular",,0,0
+"ovary= 1.1mm",,0,0
+"ovary= 10x5mm",,0,0
+"ovary= 10x7mm, coarse",,0,0
+"ovary= 11x3mm, ova <1mm",,0,0
+"ovary= 12x6mm,very coarse",,0,0
+"ovary= 12x7 mm, ova= 7mm",,0,0
+"ovary= 4x8mm",,0,0
+"ovary= 5x3mm",,0,0
+"ovary= 5x4mm *",,0,0
+"ovary= 6x2 1/2mm, ova <1mm",,0,0
+"ovary= 6x2 mm, ova= <1 mm",,0,0
+"ovary= 7x4 1/2mm, ova< 1mm",,0,0
+"ovary= 7x5mm",,0,0
+"ovary= 7x7mm, ova <1mm",,0,0
+"ovary= 8x4mm, ova <1mm",,0,0
 "Ovary=1mm ?",,0,0
 "Ovary=2mm ?",,0,0
+"ove <1mm",,0,0
+"oviduct Moderate, ovary granular",,0,0
+"oviduct present",,0,0
+"oviduct regressing, collapsed follicles",,0,0
+"oviductal eggs fused",,0,0
+"ovigenous",,0,0
+"ovigerous",,0,0
+"ovum < 1mm",,0,0
+"ovum <1mm",,0,0
+"ovum = 1.3mm",,0,0
+"ovum = 2.0mm",,0,0
+"ovum = 6 mm",,0,0
+"ovum = 6.0mm with yolk",,0,0
+"ovum 16mm",,0,0
+"ovum 17mm",,0,0
+"ovum small",,0,0
 "Pac scars",,0,0
 "Pac scars: 3(R)&2(L)",,0,0
 "Pac scars:3(R);2(L)",,0,0
@@ -12968,11 +13732,13 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "pert., 2 emb., cr = 18 mm",,0,0
 "pert., no emb",,0,0
 "pert., no emb.",,0,0
+"plac scars",,0,0
 "Plac scars: 2(R)&2(L)",,0,0
 "placental scars",,0,0
 "placental scars, 4 recent",,0,0
 "Placental scars: 4rt,3lf",,0,0
 "Placental scars: 4rt,5lf",,0,0
+"possible testes= 2x11mm",,0,0
 "post 5 emb., lactating X 5",,0,0
 "post lac. no embryos",,0,0
 "post lact.",,0,0
@@ -12983,6 +13749,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "post-lactating",,0,0
 "post-lactating, 3 scars R",,0,0
 "post-partum scars 2R 3L",,0,0
+"preg",,0,0
 "Preg ?",,0,0
 "preg, cr=15mm",,0,0
 "preg.",,0,0
@@ -13030,6 +13797,9 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "preñ: 1 emb. 25mm izq","pregnant",0,1
 "preñada","pregnant",0,1
 "Preñada, embrion 23mm","pregnant",0,1
+"R testis = 6 x 7 mm",,0,0
+"R testis= 17x11mm, epid -",,0,0
+"R testis= 20x13mm, epid +",,0,0
 "Recently gave birth?, no scars, enlarged nipples, no  embryos",,0,0
 "rest, 11 mm",,0,0
 "rest, 12 mm",,0,0
@@ -13039,11 +13809,21 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "rest, 7 mm",,0,0
 "rest. 15 mm",,0,0
 "Right testis 24 mm",,0,0
+"ripe egg",,0,0
+"rt testis = 1.5mm",,0,0
+"Rt testis = 12x16, epid +",,0,0
+"Rt testis = 13x25, epid +",,0,0
+"Rt testis = 5.8mm",,0,0
+"rt testis= 12x20, epid +",,0,0
+"rt testis= 12x4 mm",,0,0
+"Rt testis= 2x1mm",,0,0
+"Rt testis= 5mm diam",,0,0
 "RXM 101",,0,0
 "SA",,0,1
 "scar: 1(L); 0(R)",,0,0
 "Scar:1(R),0(L)",,0,0
 "scaring, lactating",,0,0
+"scars 1R, 2L",,0,0
 "scars present",,0,0
 "scars, 2R + 3L",,0,0
 "scars, parous, vag. open",,0,0
@@ -13103,15 +13883,49 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "scrotal, x15",,0,0
 "scrotal, x6",,0,0
 "scrotal, x7",,0,0
+"see comments",,0,0
+"see drawing on label",,0,0
+"see drawing on lable",,0,0
+"see label for drawing",,0,0
+"see label for ovary drawg",,0,0
 "See remarks",,0,0
 "semiscrotal",,0,0
+"several collapsed follicles",,0,0
 "sex","unknown",0,1
+"Sex organs small",,0,0
+"sex organs small, nesting",,0,0
 "SEX: GYNANDROMORPH, BY GONADS. GONADS: TESTES: RIG",,0,0
 "SEX: GYNANDROMORPH, BY GONADS. GONADS: TESTES: RIGHT: 1 MM; LEFT: APPEARS OVARY",,0,0
 "SEX: GYNANDROMORPH, BY UNMARKED MEANS. GONADS: OVA",,0,0
 "SEX: GYNANDROMORPH, BY UNMARKED MEANS. GONADS: OVARY & TESTES PRESENT.",,0,0
+"sexual organs - nesting",,0,0
+"sexual organs ""nesting""",,0,0
+"sexual organs breeding",,0,0
+"sexual organs large",,0,0
+"sexual organs large *",,0,0
+"sexual organs laying",,0,0
+"sexual organs medium",,0,0
+"sexual organs small",,0,0
+"sexual organs small *",,0,0
+"sexual organs smallish",,0,0
+"sexual organs small-young",,0,0
+"sexual organs swelling",,0,0
+"sexual organs swollen",,0,0
+"sexual organs young",,0,0
 "Sexually active",,0,0
+"shelled egg",,0,0
+"shelled egg in oviduct",,0,0
+"single embryo",,0,0
+"single lg. egg",,0,0
+"small",,0,0
+"small eggs",,0,0
+"small ova",,0,0
+"small ovaries & oviduct",,0,0
+"small ovary",,0,0
+"small oviduct",,0,0
 "Small testes",,0,0
+"small white left gonad",,0,0
+"small, nesting ?",,0,0
 "suabadult",,0,0
 "Sub A",,0,1
 "Sub A TE 4X2","unknown",0,1
@@ -13143,6 +13957,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Subadulta (nulípara)",,0,1
 "Subadulto",,0,1
 "suckling",,0,0
+"swelling",,0,0
 "T < 1 mm",,0,0
 "T < 1mm",,0,0
 "T < 1mm, abdom.",,0,0
@@ -13204,9 +14019,11 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "t. scrotal, 11x3",,0,0
 "t. scrotal, 12x8",,0,0
 "T.E.",,0,0
+"T.M.E.",,0,0
 "T.N.E",,0,0
 "T.N.E.",,0,0
 "t.s. 12 x 16",,0,0
+"T.S.E.",,0,0
 "T<1mm",,0,0
 "T= 12X7","unknown",0,1
 "T= 22 X 20 mm",,0,0
@@ -13925,63 +14742,493 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "TE 9*6","scrotal testicles",0,1
 "TE 9x5","scrotal testicles",0,1
 "TE 9x6","scrotal testicles",0,1
+"teses= 1x1.5mm",,0,0
 "tesetes abdominal",,0,0
+"tesres = 6.5x4.5mm",,0,0
+"tesres = L 5x8mm, R diseased",,0,0
+"tesres fully developed",,0,0
+"tesrtes = 6x4mm",,0,0
 "TEST","unknown",0,1
+"test = 8mm",,0,0
+"test 21, scrotal",,0,0
+"teste= 4.8 x 2.5mm",,0,0
+"testes & ova *",,0,0
+"Testes ( L 16x8mm, R 11x7mm)",,0,0
+"Testes (L 12x5mm, R 11x5mm)",,0,0
+"Testes (L 1x1mm, R 1x1mm)",,0,0
+"Testes (L 7x3mm, R 7x3mm)",,0,0
+"Testes (L 9x3mm, R 7x2mm)",,0,0
+"Testes (R2x1mm, L2x1mm)",,0,0
+"testes [with diagram on label]",,0,0
+"testes ~ 3x4mm *",,0,0
+"testes + 3mm",,0,0
+"testes + 4x8mm",,0,0
+"testes + 9mm",,0,0
+"testes < 1 mm",,0,0
+"testes < 1mm",,0,0
+"testes <1 mm",,0,0
+"testes <1mm",,0,0
+"testes = (L 3x1mm)",,0,0
+"testes = (L 5x5mm, R 5x4mm)",,0,0
+"testes = [?] *",,0,0
+"testes = < 1 mm",,0,0
+"testes = <1mm",,0,0
+"testes = 0.7x2.9mm",,0,0
+"testes = 0.9x1.5mm",,0,0
+"testes = 0.9x3mm",,0,0
+"testes = 1 1/2x 3mm",,0,0
+"testes = 1 1/2x1mm",,0,0
+"testes = 1 1/2x2 1/2mm",,0,0
+"testes = 1 1/2x2mm",,0,0
+"testes = 1 1/2x3 1/2mm",,0,0
+"testes = 1 1/2x3mm",,0,0
+"testes = 1 1/2x4mm",,0,0
+"testes = 1 1/2x8mm",,0,0
+"testes = 1 mm",,0,0
+"testes = 1 x 2 mm",,0,0
+"testes = 1 x 2mm",,0,0
+"testes = 1 x 3 mm",,0,0
+"testes = 1 x 4 mm",,0,0
+"testes = 1 x 5 mm, black",,0,0
+"testes = 1.05x1.75mm",,0,0
+"testes = 1.0x0.5",,0,0
+"testes = 1.0x1.0mm",,0,0
+"testes = 1.0x1.5",,0,0
+"testes = 1.0x1.9mm",,0,0
+"testes = 1.0x2.0mm",,0,0
+"testes = 1.0x2.1mm",,0,0
+"testes = 1.0x2.5mm",,0,0
+"testes = 1.0x3.0mm",,0,0
+"testes = 1.1x1.1mm",,0,0
+"testes = 1.1x2.0mm",,0,0
+"testes = 1.1x2.1mm",,0,0
+"testes = 1.1x3.5mm",,0,0
+"testes = 1.2mm",,0,0
+"testes = 1.35x1.8mm",,0,0
+"testes = 1.4x1.5mm",,0,0
+"testes = 1.4x2.5mm",,0,0
+"testes = 1.4x2.7mm",,0,0
+"testes = 1.4x3.0mm",,0,0
+"testes = 1.5mm",,0,0
+"testes = 1.5x1.5mm",,0,0
+"testes = 1.5x1mm",,0,0
+"testes = 1.5x2 mm",,0,0
+"testes = 1.5x2.2mm",,0,0
+"testes = 1.5x2.5mm",,0,0
+"testes = 1.5x2.9mm",,0,0
+"testes = 1.5x2mm",,0,0
+"testes = 1.5x3.3mm",,0,0
+"testes = 1.5x3mm",,0,0
+"testes = 1.6x2.5mm",,0,0
+"testes = 1.6x3.0mm",,0,0
+"testes = 1.6x3.4mm",,0,0
+"testes = 1.7mm",,0,0
+"testes = 1.7x3.1mm",,0,0
+"testes = 1.85x2.4mm",,0,0
+"testes = 1.8x4.0mm",,0,0
+"testes = 1.9mm",,0,0
+"testes = 1.9x4.2mm",,0,0
+"testes = 1/2x1/2mm",,0,0
+"testes = 1/2x1mm",,0,0
+"testes = 1/2x2mm",,0,0
 "testes = 10",,0,0
+"testes = 10 x 17mm, descended, epid +",,0,0
+"testes = 10 x 25 mm, epid ?",,0,0
+"testes = 10 x 6 mm",,0,0
+"testes = 10 x 6 mm, epid -",,0,0
 "testes = 10, flacid",,0,0
+"testes = 10.2x5.8mm",,0,0
+"testes = 10mm",,0,0
+"testes = 10x13.9mm",,0,0
+"testes = 10x18mm",,0,0
+"testes = 10x22mm",,0,0
+"testes = 10x4mm",,0,0
+"testes = 10x5mm",,0,0
+"testes = 10x6mm",,0,0
+"testes = 10x7mm",,0,0
 "testes = 11",,0,0
+"testes = 11 1/2x6mm",,0,0
+"testes = 11 x 5 mm",,0,0
+"testes = 11 x 6 mm",,0,0
+"testes = 11 x 7mm",,0,0
+"testes = 11mm",,0,0
+"testes = 11x15 mm",,0,0
+"testes = 11x5mm",,0,0
+"testes = 11x6 mm",,0,0
+"testes = 11x6mm",,0,0
+"testes = 11x7mm",,0,0
 "testes = 11x8",,0,0
+"testes = 11x8mm",,0,0
+"testes = 12 x 6, epid +",,0,0
+"testes = 12 x 7, epid +",,0,0
+"testes = 12.8x16.1mm",,0,0
+"testes = 12mm",,0,0
+"testes = 12x22mm",,0,0
+"testes = 12x5mm",,0,0
+"testes = 12x6mm",,0,0
+"testes = 12x7mm",,0,0
+"testes = 12x8mm",,0,0
+"testes = 13.8x7.5mm",,0,0
+"testes = 13x 8 mm",,0,0
+"testes = 13x10 mm",,0,0
+"testes = 13X22mm (left); 14X21 mm (right)",,0,0
+"testes = 13x7mm",,0,0
+"testes = 14.6mm",,0,0
+"testes = 14mm",,0,0
+"testes = 14x8mm",,0,0
+"testes = 15 mm",,0,0
+"testes = 15.4x9.0mm",,0,0
+"testes = 15.6x6.4mm",,0,0
+"testes = 15mm",,0,0
+"testes = 16mm",,0,0
+"testes = 16x11mm",,0,0
+"testes = 16x7mm",,0,0
+"testes = 17 x 30 mm",,0,0
+"testes = 17 x 9, epid +",,0,0
+"testes = 17.5x24.5mm (left); 15 X 24 (right)",,0,0
+"testes = 18 x 11, epid +",,0,0
+"testes = 1mm",,0,0
+"testes = 1x<1mm",,0,0
+"testes = 1x1 1/2mm",,0,0
+"testes = 1x1.5 mm",,0,0
+"testes = 1x1.5mm",,0,0
+"testes = 1x1/2[?]",,0,0
+"testes = 1x1/2mm",,0,0
+"testes = 1x1mm",,0,0
+"testes = 1x1mm, Epid-",,0,0
+"testes = 1x2 1/2mm",,0,0
+"testes = 1x2 mm",,0,0
+"testes = 1x2mm",,0,0
+"testes = 1x2mm, blackish",,0,0
+"testes = 1x3mm",,0,0
+"testes = 1x3mm, firm",,0,0
+"testes = 1x4 mm",,0,0
+"testes = 1x4mm",,0,0
+"testes = 1x5mm",,0,0
+"testes = 1x6 mm",,0,0
+"testes = 1x6mm",,0,0
+"testes = 1x7mm",,0,0
+"testes = 2 1/2x4mm",,0,0
+"testes = 2 1/2x5mm",,0,0
+"testes = 2 mm",,0,0
+"testes = 2 x 1 mm",,0,0
+"testes = 2 x 10 mm, epid +",,0,0
+"testes = 2 x 3 mm, black",,0,0
+"testes = 2 x 3.8",,0,0
+"testes = 2 x 3mm",,0,0
+"testes = 2 x 4 mm",,0,0
+"testes = 2 x 4 mm, epid. -",,0,0
+"testes = 2 x 5 mm",,0,0
+"testes = 2.0x2.5mm",,0,0
+"testes = 2.0x3.0mm",,0,0
+"testes = 2.2x4mm",,0,0
 "testes = 2.5",,0,0
+"testes = 2.5 mm",,0,0
+"testes = 2.5mm",,0,0
+"testes = 2.5x3 mm",,0,0
+"testes = 2.5x4.5mm",,0,0
+"testes = 2.6x1.4 mm",,0,0
+"testes = 2.6x8.4mm",,0,0
+"testes = 2.7x5.5mm",,0,0
+"testes = 2.80x3.4mm",,0,0
+"testes = 2.9 x 4.1 mm; epid -",,0,0
 "testes = 20",,0,0
+"testes = 20mm",,0,0
+"testes = 22 x 10 mm, epid +",,0,0
+"testes = 22.2x36mm",,0,0
+"testes = 25 x 15 mm",,0,0
+"testes = 27.5 x 55 mm",,0,0
+"testes = 2mm",,0,0
+"testes = 2mm *",,0,0
+"testes = 2mm dia.",,0,0
+"testes = 2x1/2mm",,0,0
+"testes = 2x11mm",,0,0
+"testes = 2x1mm",,0,0
+"testes = 2x1mm, Epid -",,0,0
+"testes = 2x2 1/2mm",,0,0
+"testes = 2x2mm",,0,0
+"testes = 2x2mm, Epid-",,0,0
+"testes = 2x2mm, Epid -",,0,0
 "Testes = 2x3",,0,0
+"testes = 2x3mm",,0,0
+"testes = 2x3mm, black",,0,0
+"testes = 2x4 mm",,0,0
+"testes = 2x4.6mm",,0,0
+"testes = 2x4mm",,0,0
+"testes = 2x5mm",,0,0
+"testes = 2x6mm",,0,0
+"testes = 2x9mm",,0,0
 "testes = 3",,0,0
+"testes = 3 1/2x5mm",,0,0
+"testes = 3 x 1 mm",,0,0
+"testes = 3 x 1.5 mm",,0,0
+"testes = 3 x 2, epid -",,0,0
+"testes = 3 x 5 mm",,0,0
+"testes = 3 x 6.5 m",,0,0
+"testes = 3 x 7 mm, epid -",,0,0
+"testes = 3 x 8 mm",,0,0
+"testes = 3 x 9 mm",,0,0
 "Testes = 3, juvenile",,0,0
+"testes = 3.09x6.5mm",,0,0
+"testes = 3.0x3.2mm",,0,0
+"testes = 3.0x4.3mm",,0,0
+"testes = 3.0x5.4mm",,0,0
+"testes = 3.1x5.2mm",,0,0
+"testes = 3.1x5.6mm",,0,0
+"testes = 3.1x5.9mm",,0,0
+"testes = 3.2x5.0mm",,0,0
+"testes = 3.2x5.9mm",,0,0
+"testes = 3.2x6.2mm",,0,0
+"testes = 3.4x4.6mm",,0,0
 "testes = 3.5",,0,0
+"testes = 3.5 mm",,0,0
+"testes = 3.5mm",,0,0
+"testes = 3.5x3.6mm",,0,0
+"testes = 3.5x4.65mm",,0,0
+"testes = 3.5x6.0mm",,0,0
+"testes = 3.6x5.2mm",,0,0
+"testes = 3.6x5.3 mm",,0,0
+"testes = 3.7x4.2mm",,0,0
+"testes = 3.7x6.3mm",,0,0
 "testes = 3.8 x 2.0",,0,0
+"testes = 3.8x8.4mm",,0,0
+"testes = 3.9x7.2mm",,0,0
+"testes = 30 X 25",,0,0
+"testes = 30x10mm",,0,0
+"testes = 3mm",,0,0
+"testes = 3x1 mm",,0,0
+"testes = 3x1.5mm",,0,0
+"testes = 3x12mm",,0,0
+"testes = 3x1mm",,0,0
+"testes = 3x2mm",,0,0
+"testes = 3x3mm",,0,0
 "Testes = 3x4",,0,0
+"testes = 3x4mm",,0,0
 "Testes = 3x5; subadult",,0,0
+"testes = 3x5mm",,0,0
+"testes = 3x6 mm",,0,0
+"testes = 3x6mm",,0,0
+"testes = 3x7 mm",,0,0
 "testes = 4",,0,0
+"testes = 4 x 10mm",,0,0
+"testes = 4 x 13 mm (dark)",,0,0
+"testes = 4 x 6, dark gray",,0,0
+"testes = 4 x 9 mm, not descended",,0,0
 "Testes = 4, juvenile",,0,0
 "testes = 4, red",,0,0
+"testes = 4.0 x 2.0 mm, epid -",,0,0
+"testes = 4.1x7.4mm",,0,0
+"testes = 4.2x6.5mm",,0,0
 "testes = 4.5",,0,0
 "testes = 4.5 x 3",,0,0
+"testes = 4.50x6.7mm",,0,0
+"testes = 4.5x13.4mm",,0,0
+"testes = 4.5x7.3mm",,0,0
+"testes = 4.6x6.5mm",,0,0
+"testes = 4.7mm",,0,0
+"testes = 4.7x7.9mm",,0,0
+"testes = 4.7x7mm",,0,0
+"testes = 4.8x7.2mm",,0,0
+"testes = 4mm",,0,0
+"testes = 4mm dia.",,0,0
+"testes = 4x 2, epid -",,0,0
+"testes = 4x11mm",,0,0
+"testes = 4x12mm",,0,0
+"testes = 4x2?mm",,0,0
+"testes = 4x2mm",,0,0
 "testes = 4x3",,0,0
+"testes = 4x3mm",,0,0
+"testes = 4x4mm",,0,0
+"testes = 4x5mm",,0,0
+"testes = 4x6mm",,0,0
+"testes = 4x7mm",,0,0
+"testes = 4x8mm",,0,0
+"testes = 5 mm",,0,0
+"testes = 5 x 3, epid +",,0,0
+"testes = 5 x 6mm",,0,0
+"testes = 5 x 7 mm, white",,0,0
+"testes = 5.0x7.6mm",,0,0
+"testes = 5.0x9.3mm",,0,0
+"testes = 5.1x7.8mm",,0,0
+"testes = 5.26x9.16 mm",,0,0
+"testes = 5.3x10.5mm",,0,0
+"testes = 5.4x2.1mm",,0,0
 "testes = 5.5",,0,0
+"testes = 5.50x8mm",,0,0
+"testes = 5.5x8.0mm",,0,0
+"testes = 5.8 x 3.5 mm, epid -",,0,0
+"testes = 5.9 x 3.4 mm, epid -",,0,0
+"testes = 5.9x10.5mm",,0,0
+"testes = 5/16in",,0,0
+"testes = 5mm",,0,0
+"testes = 5x10mm",,0,0
+"testes = 5x10mmm",,0,0
+"testes = 5x12mm",,0,0
+"testes = 5x13mm",,0,0
+"testes = 5x2mm",,0,0
+"testes = 5x3mm",,0,0
+"testes = 5x4 mm",,0,0
+"testes = 5x4mm",,0,0
+"testes = 5x5mm",,0,0
+"testes = 5x6mm",,0,0
+"testes = 5x7mm",,0,0
+"testes = 5x8mm",,0,0
+"testes = 5x9mm",,0,0
 "testes = 6",,0,0
+"testes = 6 1/2x4mm",,0,0
+"testes = 6 x 3 mm",,0,0
+"testes = 6 x 3 mm, epid -",,0,0
+"testes = 6 x 4.8 mm",,0,0
+"testes = 6.1x11.5mm",,0,0
+"testes = 6.3x2.7mm",,0,0
+"testes = 6.4 x 4.0 mm, epid -",,0,0
+"testes = 6.4x10.5mm",,0,0
+"testes = 6.4x10.6mm",,0,0
+"testes = 6.4x9.6mm",,0,0
+"testes = 6.5x7.0mm",,0,0
+"testes = 6.8 x 3.6 mm, epid -",,0,0
+"testes = 6.89x11.39mm",,0,0
+"testes = 6.8x7.3mm",,0,0
+"testes = 6mm",,0,0
+"testes = 6x10 mm",,0,0
+"testes = 6x10mm",,0,0
+"testes = 6x11mm",,0,0
+"testes = 6x12mm",,0,0
+"testes = 6x13mm",,0,0
+"testes = 6x3mm",,0,0
+"testes = 6x4 mm",,0,0
+"testes = 6x4 mm, epid -",,0,0
+"testes = 6x4mm",,0,0
+"testes = 6x5mm",,0,0
+"testes = 6x7 mm, cream colored, round",,0,0
+"testes = 6x7mm",,0,0
+"testes = 6x8.5mm",,0,0
+"testes = 6x9mm",,0,0
 "testes = 7",,0,0
+"testes = 7 x 2 mm",,0,0
+"testes = 7 x 4 mm",,0,0
 "testes = 7.0 x 4.1",,0,0
+"testes = 7.2 x 13.3, epid +",,0,0
 "testes = 7.5",,0,0
+"testes = 7.5x5.5 mm",,0,0
+"testes = 7.7x4.3 mm",,0,0
+"testes = 7.8x4.8 mm",,0,0
+"testes = 7mm",,0,0
+"testes = 7mm, round",,0,0
+"testes = 7x10mm",,0,0
+"testes = 7x11mm",,0,0
+"testes = 7x12mm",,0,0
+"testes = 7x13mm",,0,0
+"testes = 7x14mm",,0,0
+"testes = 7x3mm",,0,0
+"testes = 7x4 1/2mm",,0,0
+"testes = 7x4mm",,0,0
+"testes = 7x5mm",,0,0
+"testes = 7x6mm",,0,0
 "Testes = 8",,0,0
+"testes = 8 x 15 mm",,0,0
+"testes = 8 x 4, epid +",,0,0
+"testes = 8 x 5 mm, epid -",,0,0
 "Testes = 8.1x 3.3",,0,0
 "testes = 8.5",,0,0
+"testes = 8.7x5.1 mm",,0,0
+"testes = 8mm",,0,0
+"testes = 8x10 mm",,0,0
+"testes = 8x12mm",,0,0
+"testes = 8x13mm",,0,0
+"testes = 8x14mm",,0,0
+"testes = 8x2mm",,0,0
+"testes = 8x3mm",,0,0
+"testes = 8x4mm",,0,0
+"testes = 8x5mm",,0,0
+"testes = 8x6mm",,0,0
 "testes = 9",,0,0
 "testes = 9 mm",,0,0
+"testes = 9 x 21 mm",,0,0
+"testes = 9 x 5mm",,0,0
+"testes = 9.6x10.8mm",,0,0
+"Testes = 9mm",,0,0
+"testes = 9x15mm",,0,0
+"testes = 9x18mm",,0,0
+"testes = 9x4mm",,0,0
+"testes = 9x5mm",,0,0
+"testes = 9x6.5 & 10.5x5mm",,0,0
+"testes = 9x6mm",,0,0
+"testes = 9x7mm",,0,0
+"testes = L .7mm R .75mm",,0,0
+"testes = L 11 R 13mm",,0,0
+"testes = L 18x7 ; R 18x6 cm",,0,0
+"testes = L 2, R 3mm",,0,0
+"testes = L 2, R 5mm",,0,0
+"Testes = L 3mm, R 4mm",,0,0
+"testes = L 4, R 5mm",,0,0
+"testes = L 5, R 4mm",,0,0
+"testes = L 5, R 8mm",,0,0
+"testes = L 5mm, R 2.5mm",,0,0
+"testes = L 6, R 9mm",,0,0
+"testes = L 7 R 9mm",,0,0
+"testes = L 7, R 9mm",,0,0
+"testes = L 8, R 12mm",,0,0
+"testes = L3, R 4mm",,0,0
+"testes = L6, R8mm",,0,0
+"testes = L6mm R8mm",,0,0
+"testes = L8, R 13mm",,0,0
+"testes = R 4.9x4.6 L 4.8x4.3mm",,0,0
 "testes =10",,0,0
+"testes =10x6mm",,0,0
 "Testes =11",,0,0
+"testes =2.5x5.0 mm",,0,0
+"testes =2x1mm",,0,0
 "testes =3",,0,0
 "testes =3.5",,0,0
+"testes =4mm",,0,0
 "testes =7.0 x 3.2",,0,0
+"testes =7x5mm",,0,0
 "Testes =8",,0,0
 "Testes =9.5",,0,0
+"testes > 1mm dia.",,0,0
 "TESTES 0.15 X 0.08 CM, CREAM.",,0,0
+"testes 1 cm diam.",,0,0
+"testes 1 mm",,0,0
 "testes 1 x 1",,0,0
 "testes 1 x 2",,0,0
 "testes 1 x 3",,0,0
 "testes 10 mm",,0,0
 "testes 10 x 6",,0,0
+"testes 10 x 6 mm",,0,0
 "testes 10 x 7",,0,0
 "testes 10:10 mm",,0,0
+"testes 10mm",,0,0
 "testes 10X15",,0,0
+"testes 10x4 mm",,0,0
+"testes 10x5 mm",,0,0
+"testes 10x5mm",,0,0
+"testes 10x6 mm",,0,0
 "testes 11 x 8",,0,0
+"testes 12 x 25, epid +",,0,0
 "testes 12 X 6",,0,0
 "testes 12 x 8",,0,0
+"testes 12mm",,0,0
+"testes 12x5 mm",,0,0
+"testes 12x6 mm",,0,0
+"testes 13 x 8 mm",,0,0
 "testes 13 X 9",,0,0
+"testes 13.6x25.5mm",,0,0
+"testes 13x5 mm",,0,0
+"testes 13x7 mm",,0,0
 "testes 14.5",,0,0
 "testes 14mm, scrotum 23mm",,0,0
+"testes 14x8 mm",,0,0
 "testes 16 x 25",,0,0
+"testes 16x7 mm",,0,0
+"testes 17x10 mm",,0,0
+"testes 18 x 34, epid +",,0,0
 "testes 18mm",,0,0
 "testes 19mm",,0,0
+"testes 1mm",,0,0
 "testes 1X1",,0,0
+"testes 1x1.5 mm",,0,0
+"testes 2 mm",,0,0
 "testes 2 X 1",,0,0
 "testes 2 x 2",,0,0
 "testes 2 x 3",,0,0
@@ -13990,7 +15237,13 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes 22 mm",,0,0
 "testes 25 x 13",,0,0
 "testes 25 x 15",,0,0
+"testes 25x11 mm",,0,0
+"testes 25x14mm, epid +",,0,0
+"testes 28 x 19, epid +",,0,0
 "testes 2mm",,0,0
+"testes 2x1 mm",,0,0
+"testes 3 mm",,0,0
+"testes 3 mm, epid +",,0,0
 "testes 3 x 1",,0,0
 "testes 3 X 1.5",,0,0
 "testes 3 x 2",,0,0
@@ -14000,11 +15253,19 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes 3.0 x 2.0",,0,0
 "Testes 3.1 x 1.1",,0,0
 "testes 3.2 x 1.9",,0,0
+"testes 3.2 x 2, epid +",,0,0
+"testes 3.3x8.0mm",,0,0
 "testes 3.4 x 1.8",,0,0
 "testes 3.5 x 2.0",,0,0
 "testes 3.7 x 2.2",,0,0
 "testes 3.9 x 2.1",,0,0
 "testes 30mm",,0,0
+"testes 30x14 mm",,0,0
+"testes 30x20 mm",,0,0
+"testes 3mm",,0,0
+"testes 3x1 mm",,0,0
+"testes 3x2 mm",,0,0
+"testes 3x2mm",,0,0
 "testes 3X3mm",,0,0
 "testes 3X5",,0,0
 "testes 3X6",,0,0
@@ -14021,6 +15282,9 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes 4.5 X 3",,0,0
 "testes 4.6 x 1.5",,0,0
 "testes 4.9 x 3",,0,0
+"testes 4mm",,0,0
+"testes 4x2 mm",,0,0
+"testes 4x3 mm",,0,0
 "testes 5 x 2",,0,0
 "testes 5 X 3",,0,0
 "testes 5 x 4",,0,0
@@ -14031,13 +15295,19 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes 5.1 x 2.5",,0,0
 "testes 5.1 x 3.2",,0,0
 "testes 5.9 x 4.2",,0,0
+"testes 5mm",,0,0
 "testes 5X2 mm",,0,0
+"testes 5x3 mm",,0,0
 "testes 5X3mm",,0,0
+"testes 5x4 mm",,0,0
+"testes 5x6.5 mm, undescended",,0,0
 "testes 5X7",,0,0
 "testes 5X9",,0,0
+"testes 6 mm",,0,0
 "testes 6 x 10",,0,0
 "testes 6 X 11",,0,0
 "testes 6 X 3",,0,0
+"testes 6 x 4 mm",,0,0
 "testes 6 x 8",,0,0
 "testes 6.1 x 3.5, 6.0 x 3.5",,0,0
 "testes 6.1x 2.6 L, 4.2 x 2.9 R",,0,0
@@ -14045,7 +15315,12 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes 6.4 x 3.8",,0,0
 "testes 6.4 x 3.9",,0,0
 "testes 6.7 x 3.6",,0,0
+"testes 60 X 50 mm",,0,0
+"testes 6mm",,0,0
 "testes 6X10",,0,0
+"testes 6x12mm",,0,0
+"testes 6x4 mm",,0,0
+"testes 6x6 mm",,0,0
 "testes 6X9",,0,0
 "testes 7 x 2",,0,0
 "testes 7 x 3",,0,0
@@ -14053,22 +15328,38 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes 7 X 5",,0,0
 "testes 7.2 x 4; 7.2 x 3.4",,0,0
 "testes 7X10",,0,0
+"testes 7x13mm",,0,0
 "testes 7X14",,0,0
 "testes 7X19",,0,0
+"testes 7x2 mm",,0,0
+"testes 7X3 mm",,0,0
+"testes 7x4 mm",,0,0
+"testes 7x6 mm",,0,0
 "testes 8 X 10",,0,0
 "testes 8 X 14",,0,0
 "TESTES 8 X 2 MM.",,0,0
 "testes 8 X 4",,0,0
+"testes 8 x 4, epid -",,0,0
 "testes 8 x 5",,0,0
 "testes 8 x 6",,0,0
+"testes 8 x 6 mm",,0,0
 "testes 8.0 x 4.2",,0,0
 "testes 8.3 x 4.3",,0,0
+"testes 8mm",,0,0
 "testes 8X10",,0,0
 "testes 8X11",,0,0
+"testes 8x4 mm",,0,0
+"testes 8x4mm",,0,0
+"testes 8x5 mm",,0,0
 "testes 9 x 5",,0,0
 "testes 9 X 5 mm",,0,0
 "testes 9 x 6",,0,0
 "testes 9 x 7",,0,0
+"testes 9mm",,0,0
+"testes 9x4 mm",,0,0
+"testes 9x5 mm",,0,0
+"testes 9x6 mm",,0,0
+"testes 9x6mm",,0,0
 "Testes abd.",,0,0
 "testes abd. 1 x 3",,0,0
 "testes abd. 2 x 4",,0,0
@@ -14140,26 +15431,70 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testes abdominal; T = 5 x 4",,0,0
 "testes abdominal; T = 6 x 2",,0,0
 "testes abdominal; T 10 mm",,0,0
+"testes about 150mm",,0,0
 "Testes desc., 14x31",,0,0
 "Testes desc., 15x28",,0,0
 "testes desc., 5 x 8",,0,0
 "Testes descended",,0,0
+"testes descended = email from collector *;* Testes (R 15x9mm, L 16x10mm) = measurements taken during prep.",,0,0
+"testes descended = email from collector *;* Testes (R 7x4mm, L 7x4mm) = measurements taken during prep.",,0,0
 "testes descended and large",,0,0
 "Testes descendes",,0,0
 "Testes descending",,0,0
 "testes enlarged",,0,0
+"testes enlarged [?]",,0,0
+"testes enlarged a little",,0,0
 "testes enlarged, 33mm",,0,0
 "Testes enlarged, not desc",,0,0
 "testes enlarged; 10X5mm",,0,0
 "testes enlgd.",,0,0
+"testes firm, smooth, tan",,0,0
 "testes greatly enlarged",,0,0
+"testes grey = 4.5x6.5mm",,0,0
+"testes in inactive state",,0,0
+"testes in""inactive state""",,0,0
 "testes inguinal",,0,0
 "Testes inguinal, =9",,0,0
 "testes inguinal, x5",,0,0
+"testes ingunal 6x5 mm",,0,0
+"testes L = 4mm R = 5mm",,0,0
+"testes L = 4mm R = 8mm",,0,0
+"testes L = 4x7mm, R = 1x2mm",,0,0
+"testes L = 8mm R = 10mm",,0,0
+"Testes L 8x4mm; R 4x2mm",,0,0
+"testes L= 1x1 mm",,0,0
+"testes L= 5mm, R=6mm",,0,0
+"testes L=10x4mm, R=9x4mm",,0,0
+"testes L=31mm, R=30mm",,0,0
+"testes L=7mm, R=10mm",,0,0
+"testes L=9mm, R=11mm",,0,0
+"Testes L1x1mm, R1x1mm",,0,0
+"testes large",,0,0
+"Testes measured during prep 14 x 24 mm",,0,0
 "Testes minute",,0,0
+"testes moderatly enlarged",,0,0
 "Testes not descended",,0,0
+"testes not descended, 5x9 mm, epid +",,0,0
 "testes not enlarged",,0,0
+"testes not found *",,0,0
+"testes noted",,0,0
+"testes noted (no meas)",,0,0
+"testes noted but not measured",,0,0
 "testes partially descended",,0,0
+"testes pigmented",,0,0
+"testes present",,0,0
+"testes present *",,0,0
+"testes present*",,0,0
+"testes present, no meas",,0,0
+"testes present, no meas.",,0,0
+"testes quite large: app. breeding or about to breed",,0,0
+"testes R (2x1.5mm)",,0,0
+"testes R 4x3mm, L 3x2mm",,0,0
+"testes R 8x5mm, L 9x6mm",,0,0
+"testes R=6x4, L=7x5 mm",,0,0
+"Testes R2x1mm, L2x1mm",,0,0
+"testes rather large",,0,0
+"testes scarcely enlarged",,0,0
 "testes scr., 7X13",,0,0
 "Testes scrotal",,0,0
 "testes scrotal = 10 x 5",,0,0
@@ -14199,22 +15534,716 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes scrotal; T = 9mm in length",,0,0
 "testes sctotal",,0,0
 "testes slightly enlarged",,0,0
+"testes slightly enlarged, white",,0,0
 "Testes small",,0,0
+"testes small black*",,0,0
+"testes smooth, firm, tan",,0,0
+"testes somewhat enlarged",,0,0
 "testes subabdominal",,0,0
 "testes subabdominal, subadult",,0,0
+"testes swollen",,0,0
+"testes tan",,0,0
+"testes undescended",,0,0
 "testes undescended 18 x 9",,0,0
 "testes undescended 8 x 6",,0,0
 "testes undescended, 6 x 7",,0,0
 "testes undeveloped",,0,0
+"testes very large",,0,0
+"testes, left 5.5 x 3 mm",,0,0
 "testes: 10 x 6",,0,0
+"testes: 11x8 rt, 15 x 12 lt",,0,0
 "testes: 2 x 1",,0,0
 "testes: 4 x 7",,0,0
 "testes: 8 x 10",,0,0
+"testes: 9 x 4",,0,0
 "TESTES: ENLARGED ABOUT HALF.",,0,0
+"testes: L 4x2mm, R 3x2mm",,0,0
+"testes: L(13x8mm), R(13x7mm)",,0,0
+"testes: L=2x5,R=1.5x4mm",,0,0
+"testes: L=4x7, R=3x4.5mm",,0,0
+"Testes: R 10x3mm, L 10x4mm",,0,0
+"Testes: R 10x5mm, L 10x6mm",,0,0
+"Testes: R 14x7mm, L 9x5mm",,0,0
+"testes: R=5x4,L=9x5mm",,0,0
+"testes: R=8x3, L=7x3.5 mm",,0,0
+"testes? = 1 mm diam, black",,0,0
+"testes? = 1 x 4 mm, black",,0,0
+"testes? = 1.5x5.2mm",,0,0
+"testes? = 1mm",,0,0
+"testes? 2mm, round",,0,0
+"testes? present",,0,0
+"testes? R= 1x2, L= 1x3mm",,0,0
+"testes?= <1 mm",,0,0
+"testes?= 1 mm",,0,0
+"testes?= 1 x 2 mm",,0,0
+"testes?= 3 x 5 mm",,0,0
+"testes?= 4mm",,0,0
+"testes=  22x15",,0,0
+"testes=  2x4 mm, epid -",,0,0
+"testes= < 1 mm",,0,0
+"testes= <1 mm",,0,0
+"testes= <1mm",,0,0
+"testes= <imm",,0,0
+"testes= 0.5 x 1.5 mm",,0,0
+"testes= 0.5 x 3 mm",,0,0
+"testes= 0.5, round",,0,0
+"testes= 0.5mm, ovoid",,0,0
+"testes= 0.5x1 cm",,0,0
+"testes= 0.7x1.4 mm",,0,0
+"testes= 1 1/2x2mm",,0,0
+"testes= 1 mm",,0,0
+"testes= 1 mm/1 mm, oval",,0,0
+"testes= 1 x 0.5 mm",,0,0
+"testes= 1 x 1, round",,0,0
+"testes= 1 x 1.5mm",,0,0
+"testes= 1 x 1mm",,0,0
+"testes= 1 x 2 mm",,0,0
+"testes= 1.0x1.0 mm",,0,0
+"testes= 1.0x2.0mm",,0,0
+"testes= 1.0x2.5mm",,0,0
+"testes= 1.0x2.6mm",,0,0
+"testes= 1.2x2.4mm",,0,0
+"testes= 1.3mm",,0,0
+"testes= 1.3x4.2mm",,0,0
+"testes= 1.4x10.8mm",,0,0
+"testes= 1.4x2.2mm",,0,0
+"testes= 1.4x2.6mm",,0,0
+"testes= 1.4x2.8mm",,0,0
+"testes= 1.5 x 3 mm",,0,0
+"testes= 1.5mm",,0,0
+"testes= 1.5mm, round",,0,0
+"testes= 1.5x1.0 mm",,0,0
+"testes= 1.5x1.0x1.0",,0,0
+"testes= 1.5x1.5mm",,0,0
+"testes= 1.5x1mm",,0,0
+"testes= 1.5x2.0mm",,0,0
+"testes= 1.5x2.1mm",,0,0
+"testes= 1.5x2.5mm",,0,0
+"testes= 1.5x2mm",,0,0
+"testes= 1.5x3.5mm",,0,0
+"testes= 1.5x3mm",,0,0
+"testes= 1.5x4 mm",,0,0
+"testes= 1.5x4mm",,0,0
+"testes= 1.5x7mm",,0,0
+"testes= 1.5x9 mm",,0,0
+"testes= 1.6 x 3.0 mm",,0,0
+"testes= 1.63x1.63mm,epid-",,0,0
+"testes= 1.6x2.1mm",,0,0
+"testes= 1.6x2.2mm",,0,0
+"testes= 1.6x2.4mm",,0,0
+"testes= 1.7x2.9mm",,0,0
+"testes= 1.7x3mm",,0,0
+"testes= 1.8x1.8 mm",,0,0
+"testes= 1.8x2.5mm",,0,0
+"testes= 1.8x3.0mm",,0,0
+"testes= 1.8x4.0mm",,0,0
+"testes= 1.9x4.9mm",,0,0
+"testes= 1/2x1 1/2mm",,0,0
+"testes= 1/2x1mm",,0,0
+"testes= 1/2x2mm",,0,0
+"testes= 10",,0,0
+"testes= 10 x 5mm",,0,0
+"testes= 10 x 6.0mm",,0,0
+"testes= 10.0 x 6.5mm",,0,0
+"testes= 10.2x4.7 mm",,0,0
+"testes= 10.3x5.8 mm",,0,0
+"testes= 10.4x5.8 mm",,0,0
+"testes= 10.6x7.1 mm",,0,0
+"testes= 10.7x10.7mm,epid-",,0,0
+"testes= 10.9x5.7 mm",,0,0
+"testes= 10mm",,0,0
+"testes= 10mm long",,0,0
+"testes= 10x10 mm",,0,0
+"testes= 10x16.1, epid +",,0,0
+"testes= 10x19.8mm, epid +",,0,0
+"testes= 10x20 mm",,0,0
+"testes= 10x20,non-scrotal",,0,0
+"testes= 10x20mm",,0,0
+"testes= 10x30 mm",,0,0
+"testes= 10x5 *",,0,0
+"testes= 10x5 mm",,0,0
+"testes= 10x5mm",,0,0
+"testes= 10x6 mm",,0,0
+"testes= 10x6mm",,0,0
+"testes= 11 x 19mm, epid +",,0,0
+"testes= 11.1x33 mm",,0,0
+"testes= 11.1x4.5 mm",,0,0
+"testes= 11.2x6.6 mm",,0,0
+"testes= 11.35x16.8mm",,0,0
+"testes= 11.5x11.5mm,epid-",,0,0
+"testes= 11.8x19mm",,0,0
+"testes= 11mm",,0,0
+"testes= 11x11mm",,0,0
+"testes= 11x18mm",,0,0
+"testes= 11x30mm",,0,0
+"testes= 11x5mm",,0,0
+"testes= 12",,0,0
+"testes= 12 x 18 mm",,0,0
+"testes= 12 x 9 *",,0,0
+"testes= 12.1x16.45mm",,0,0
+"testes= 12.3x5.8 mm",,0,0
+"testes= 12.5mm",,0,0
+"testes= 12.5x23mm, epid +",,0,0
+"testes= 12.7x6.5mm, epid-",,0,0
+"testes= 12.7x8.5mm",,0,0
+"testes= 12.8x6.1 mm",,0,0
+"testes= 12mm",,0,0
+"testes= 12x25mm",,0,0
+"testes= 12x30mm",,0,0
+"testes= 12x5mm",,0,0
+"testes= 12x6 mm",,0,0
+"testes= 12x7 mm",,0,0
+"testes= 12x7.4 mm",,0,0
+"testes= 12x7mm",,0,0
+"testes= 12x8mm",,0,0
+"testes= 13.5 x 5mm",,0,0
+"testes= 13.5x8.7mm, epid+",,0,0
+"testes= 13.8x4.7 mm",,0,0
+"testes= 13mm",,0,0
+"testes= 13mm, gray",,0,0
+"testes= 13x5.3 mm",,0,0
+"testes= 14 x 19mm *",,0,0
+"testes= 14.1x8.7mm, epid+",,0,0
+"testes= 14.5 x 9.7mm",,0,0
+"testes= 14.9x9.7mm, epid+",,0,0
+"testes= 14x21.5mm, epid +",,0,0
+"testes= 14x23 mm, epid +",,0,0
+"testes= 14x5mm",,0,0
+"testes= 15.2x16.6mm,epid+",,0,0
+"testes= 15x10mm",,0,0
+"testes= 15x25mm",,0,0
+"testes= 16 x 8.5mm",,0,0
+"testes= 16.7x23.5mm,epid+",,0,0
+"testes= 16x10mm, epid +",,0,0
+"testes= 16x8mm, epid +",,0,0
+"testes= 17.2x12mm, epid +",,0,0
+"testes= 17.4x11.7mm,epid+",,0,0
+"testes= 17.6x8.7, epid +",,0,0
+"testes= 17.7x9.4mm, epid+",,0,0
+"testes= 17.8x9.4mm, epid+",,0,0
+"testes= 17mm",,0,0
+"testes= 17mm, epid -",,0,0
+"testes= 17x23mm, epid +",,0,0
+"testes= 17x30mm",,0,0
+"testes= 17x9mm, epid +",,0,0
+"testes= 18.1x10.0mm,epid+",,0,0
+"testes= 18.1x10.3mm,epid+",,0,0
+"testes= 18.1x9.0mm, epid+",,0,0
+"testes= 18.2x8.5mm, epid+",,0,0
+"testes= 18.4x10mm, epid +",,0,0
+"testes= 18.5x10.8mm,epid+",,0,0
+"testes= 18.5x13mm, epid +",,0,0
+"testes= 18.6x10.6mm,epid+",,0,0
+"testes= 18x11 mm, epid +",,0,0
+"testes= 18x13 mm, epid +",,0,0
+"testes= 18x23 mm, epid +",,0,0
+"testes= 18x24 mm",,0,0
+"testes= 18x8.0mm, epid +",,0,0
+"testes= 19.5x7 mm",,0,0
+"testes= 19.9x11.0mm,epid+",,0,0
+"testes= 19x10 mm, epid +",,0,0
+"testes= 1mm",,0,0
+"testes= 1mm dia.",,0,0
+"testes= 1x.05mm",,0,0
+"testes= 1x0.5 cm",,0,0
+"testes= 1x0.5cm",,0,0
+"testes= 1x1 1/2mm",,0,0
+"testes= 1x1.5 mm",,0,0
+"testes= 1x1.5mm",,0,0
+"testes= 1x1.5mm, ovoid",,0,0
+"testes= 1x1/2mm, Epid",,0,0
+"testes= 1x1mm",,0,0
+"testes= 1x2 1/2mm",,0,0
+"testes= 1x2 mm",,0,0
+"testes= 1x2 mm, flacid",,0,0
+"testes= 1x2.3mm",,0,0
+"testes= 1x2.5 mm",,0,0
+"testes= 1x2mm",,0,0
+"testes= 1x3 mm",,0,0
+"testes= 1x3mm",,0,0
+"testes= 1x4 mm",,0,0
+"testes= 1x4mm",,0,0
+"testes= 1x5mm",,0,0
+"testes= 1x6 mm, flacid",,0,0
+"testes= 1x6mm",,0,0
+"testes= 1x7mm",,0,0
+"testes= 2",,0,0
+"testes= 2 1/2x4mm",,0,0
+"testes= 2 1/2x5mm",,0,0
+"testes= 2 x 1.5mm",,0,0
+"testes= 2 x 1mm",,0,0
+"testes= 2 x 2.5 mm",,0,0
+"testes= 2 x 2.5mm",,0,0
+"testes= 2 x 3 1/2 mm",,0,0
+"testes= 2 x 4 mm",,0,0
+"testes= 2.0x0.75cm",,0,0
+"testes= 2.0x1.0 mm",,0,0
+"testes= 2.1x1.7 mm",,0,0
+"testes= 2.1x3.0mm",,0,0
+"testes= 2.2 x 3.9",,0,0
+"testes= 2.2x3.0 mm",,0,0
+"testes= 2.2x3.5mm",,0,0
+"testes= 2.2x4.9mm",,0,0
+"testes= 2.3mm",,0,0
+"testes= 2.3x3.5mm",,0,0
+"testes= 2.4x1.5 mm",,0,0
+"testes= 2.4x3.9mm",,0,0
+"testes= 2.5 x 3.5",,0,0
+"testes= 2.5 x 4 mm",,0,0
+"testes= 2.5 x 7 mm",,0,0
+"testes= 2.5x2mm",,0,0
+"testes= 2.5x3mm",,0,0
+"testes= 2.5x4mm",,0,0
+"testes= 2.5x5mm",,0,0
+"testes= 2.5x6mm",,0,0
+"testes= 2.5x7mm",,0,0
+"testes= 2.7x11.2mm",,0,0
+"testes= 2.7x3.2mm",,0,0
+"testes= 2.7x3.9mm",,0,0
+"testes= 2.7x4mm",,0,0
+"testes= 2.8x4.4mm",,0,0
+"testes= 20.4x10.5mm,epid+",,0,0
+"testes= 20x11.5mm, epid +",,0,0
+"testes= 20x12 *",,0,0
+"testes= 20x9mm, epid +",,0,0
+"testes= 21.3 x 12.8 mm",,0,0
+"testes= 21.3x11.6mm,epid+",,0,0
+"testes= 21.8x19mm",,0,0
+"testes= 21x15 & 23x14mm",,0,0
+"testes= 21x9.4mm, epid +",,0,0
+"testes= 22x13mm, epid +",,0,0
+"testes= 22x18mm, epid +",,0,0
+"testes= 23.5x14.5mm,epid+",,0,0
+"testes= 24 x 10 mm",,0,0
+"testes= 25x40mm",,0,0
+"testes= 26.0x17.0 mm",,0,0
+"testes= 29x14mm, epid +",,0,0
+"testes= 2mm",,0,0
+"testes= 2x1 mm",,0,0
+"testes= 2x10mm",,0,0
+"testes= 2x1mm",,0,0
+"testes= 2x1mm, horn color",,0,0
+"testes= 2x3 mm",,0,0
+"testes= 2x3mm",,0,0
+"testes= 2x4 mm",,0,0
+"testes= 2x4mm",,0,0
+"testes= 2x5mm",,0,0
+"testes= 2x6mm",,0,0
+"testes= 2x7mm",,0,0
+"testes= 2x8 mm",,0,0
+"testes= 2x9mm",,0,0
+"testes= 3",,0,0
+"testes= 3 x 2 mm",,0,0
+"testes= 3 x 2mm",,0,0
+"testes= 3.0 x 1.5mm",,0,0
+"testes= 3.0x3.0mm, epid -",,0,0
+"testes= 3.0x4.6mm",,0,0
+"testes= 3.0x5.9 mm",,0,0
+"testes= 3.1x1.1 mm",,0,0
+"testes= 3.1x3.1 mm",,0,0
+"testes= 3.1x4.3 mm",,0,0
+"testes= 3.1x4.8mm",,0,0
+"testes= 3.2x1.5 mm",,0,0
+"testes= 3.2x1.6 mm",,0,0
+"testes= 3.2x7.1mm",,0,0
+"testes= 3.3mm",,0,0
+"testes= 3.3x1.6 mm",,0,0
+"testes= 3.3x3.3mm, epid -",,0,0
+"testes= 3.4x4.5 mm",,0,0
+"testes= 3.4x5.1mm",,0,0
+"testes= 3.5mm",,0,0
+"testes= 3.5x1.6 mm",,0,0
+"testes= 3.5x2.1 mm",,0,0
+"testes= 3.5x2mm",,0,0
+"testes= 3.5x3.5mm, epid -",,0,0
+"testes= 3.5x4.3 mm",,0,0
+"testes= 3.5x5.0 mm",,0,0
+"testes= 3.5x5.8 mm",,0,0
+"testes= 3.6mm",,0,0
+"testes= 3.6x3.6 mm",,0,0
+"testes= 3.6x4.7mm",,0,0
+"testes= 3.6x5.6mm",,0,0
+"testes= 3.7x5.7 mm",,0,0
+"testes= 3.7x7.0mm",,0,0
+"testes= 3.8x1.8 mm",,0,0
+"testes= 3.8x3.8mm, epid -",,0,0
+"testes= 3.8x6.1mm",,0,0
+"testes= 3.9x2.6 mm",,0,0
+"testes= 30.2x15.5mm,epid+",,0,0
+"testes= 33x13mm",,0,0
+"testes= 35 x 40mm *",,0,0
+"testes= 3mm",,0,0
+"testes= 3x1",,0,0
+"testes= 3x1 mm",,0,0
+"testes= 3x11mm",,0,0
+"testes= 3x2",,0,0
+"testes= 3x2 mm",,0,0
+"testes= 3x2 mm, epid -",,0,0
+"testes= 3x2mm",,0,0
+"testes= 3x2mm Epid-",,0,0
+"testes= 3x3 mm",,0,0
+"testes= 3x3.5mm",,0,0
+"testes= 3x3mm",,0,0
+"testes= 3x4 mm",,0,0
+"testes= 3x4.5mm, epid -",,0,0
+"testes= 3x4.9 mm",,0,0
+"testes= 3x4mm",,0,0
+"testes= 3x5 mm",,0,0
+"testes= 3x5 mm, epid -",,0,0
+"testes= 3x5 mm, epid +",,0,0
+"testes= 3x5mm",,0,0
+"testes= 3x6 mm",,0,0
+"testes= 3x6mm",,0,0
+"testes= 3x7 mm",,0,0
+"testes= 3x7mm",,0,0
+"testes= 3x8 mm",,0,0
+"testes= 3x8 mm, black",,0,0
+"testes= 3x8mm",,0,0
+"testes= 3x9mm",,0,0
+"testes= 4",,0,0
+"testes= 4 & 5mm length",,0,0
+"testes= 4 mm",,0,0
+"testes= 4 x 10 mm",,0,0
+"testes= 4 x 2.5mm",,0,0
+"testes= 4 x 2mm",,0,0
+"testes= 4 x 6mm",,0,0
+"testes= 4.0 x 7.0 mm",,0,0
+"testes= 4.0x1.0mm",,0,0
+"testes= 4.0x2.0mm",,0,0
+"testes= 4.0x2.2 mm",,0,0
+"testes= 4.0x2.8 mm",,0,0
+"testes= 4.0x9.1 mm",,0,0
+"testes= 4.14 round, epid-",,0,0
+"testes= 4.1x4.1mm, epid -",,0,0
+"testes= 4.2mm",,0,0
+"testes= 4.3x3.1mm",,0,0
+"testes= 4.3x4.3 mm",,0,0
+"testes= 4.4mm",,0,0
+"testes= 4.4x2.2 mm",,0,0
+"testes= 4.4x4.4mm, epid -",,0,0
+"testes= 4.5 x 2.0mm",,0,0
+"testes= 4.5 x 2.5mm",,0,0
+"testes= 4.5 x 3.0mm",,0,0
+"testes= 4.5 x 3.5mm",,0,0
+"testes= 4.5 x 3mm",,0,0
+"testes= 4.5mm",,0,0
+"testes= 4.5x1.6 mm",,0,0
+"testes= 4.5x2.9 mm",,0,0
+"testes= 4.5x4.5mm, epid -",,0,0
+"testes= 4.5x6.2 mm",,0,0
+"testes= 4.5x8mm",,0,0
+"testes= 4.5x9.5 mm",,0,0
+"testes= 4.6x9.2mm",,0,0
+"testes= 4.6x9.4mm",,0,0
+"testes= 4.7x4.7mm, epid -",,0,0
+"testes= 4.7x6.6mm",,0,0
+"testes= 4.7x7.0 mm",,0,0
+"testes= 4.8 x 5.9mm",,0,0
+"testes= 4.81x7.65, epid -",,0,0
+"testes= 4.8x4.8mm, epid +",,0,0
+"testes= 4.8x6.0mm",,0,0
+"testes= 4.9x2.8 mm",,0,0
+"testes= 40 x 25mm",,0,0
+"testes= 4mm",,0,0
+"testes= 4mm, round",,0,0
+"testes= 4x12 mm",,0,0
+"testes= 4x12 mm, flacid",,0,0
+"testes= 4x18mm",,0,0
+"testes= 4x2 mm",,0,0
+"testes= 4x2, epid -",,0,0
+"testes= 4x2.5 mm",,0,0
+"testes= 4x2mm",,0,0
+"testes= 4x2mm, epid -",,0,0
+"testes= 4x3 mm",,0,0
+"testes= 4x3mm",,0,0
+"testes= 4x3mm, epid -",,0,0
+"testes= 4x4 mm *",,0,0
+"testes= 4x4mm",,0,0
+"testes= 4x5.5mm",,0,0
+"testes= 4x5mm",,0,0
+"testes= 4x6 mm",,0,0
+"testes= 4x6mm",,0,0
+"testes= 4x6mm, epid -",,0,0
+"testes= 4x7 mm",,0,0
+"testes= 4x7mm",,0,0
+"testes= 4x8 mm",,0,0
+"testes= 4x8mm",,0,0
+"testes= 4x9mm",,0,0
+"testes= 5",,0,0
+"testes= 5 x 2.5mm",,0,0
+"testes= 5 x 3mm",,0,0
+"testes= 5 x 7 mm",,0,0
+"testes= 5 x 8",,0,0
+"testes= 5.0 x 2.5mm",,0,0
+"testes= 5.0 x 3.5mm",,0,0
+"testes= 5.0mm",,0,0
+"testes= 5.0x6.5mm",,0,0
+"testes= 5.0x8.7mm",,0,0
+"testes= 5.1x2.6 mm",,0,0
+"testes= 5.1x3.3 mm",,0,0
+"testes= 5.1x6.5mm",,0,0
+"testes= 5.2x2.9 mm",,0,0
+"testes= 5.2x3.3 mm",,0,0
+"testes= 5.3x3.4 mm",,0,0
+"testes= 5.3x6.5 mm",,0,0
+"testes= 5.4x14.1 mm",,0,0
+"testes= 5.4x3.7 mm",,0,0
+"testes= 5.4x7.9mm",,0,0
+"testes= 5.4x8.3 mm",,0,0
+"testes= 5.4x9.6 mm",,0,0
+"testes= 5.5 x 3.5mm",,0,0
+"testes= 5.5 x 4mm",,0,0
+"testes= 5.56x4.14mm,epid+",,0,0
+"testes= 5.5mm",,0,0
+"testes= 5.5x3.4 mm",,0,0
+"testes= 5.5x5.5mm, epid +",,0,0
+"testes= 5.5x5.9mm, epid +",,0,0
+"testes= 5.5x6.5mm",,0,0
+"testes= 5.5x7.5mm",,0,0
+"testes= 5.5x7.6mm",,0,0
+"testes= 5.6x4.5 mm",,0,0
+"testes= 5.7x3.3mm, epid -",,0,0
+"testes= 5.7x4.0mm, epid -",,0,0
+"testes= 5.7x5.5mm, epid+",,0,0
+"testes= 5.7x5.7mm, epid +",,0,0
+"testes= 5.8x2.6 mm",,0,0
+"testes= 5.8x3 mm",,0,0
+"testes= 5.8x4.0 mm",,0,0
+"testes= 5.8x4.3 mm",,0,0
+"testes= 5.8x5.8mm, epid +",,0,0
+"testes= 5.96x5.96mm,epid+",,0,0
+"testes= 5.9x4.1 mm",,0,0
+"testes= 50mm",,0,0
+"testes= 5mm",,0,0
+"testes= 5mm diam ea.",,0,0
+"testes= 5x10 mm",,0,0
+"testes= 5x10.4 mm",,0,0
+"testes= 5x11 mm, epid -",,0,0
+"testes= 5x12mm",,0,0
+"testes= 5x13mm",,0,0
+"testes= 5x3",,0,0
+"testes= 5x3 mm",,0,0
+"testes= 5x3mm",,0,0
+"testes= 5x4 mm",,0,0
+"testes= 5x4 mm *",,0,0
 "testes= 5X4; scrotal, large",,0,0
+"testes= 5x4mm",,0,0
+"testes= 5x5x8 mm",,0,0
+"testes= 5x7 mm",,0,0
+"testes= 5x7mm",,0,0
+"testes= 5x8 mm",,0,0
+"testes= 5x8mm",,0,0
+"testes= 5x9 mm",,0,0
+"testes= 6 mm",,0,0
+"testes= 6 x 2.5mm",,0,0
+"testes= 6 X 3mm",,0,0
+"testes= 6 x 4.5mm",,0,0
+"testes= 6 x 4mm",,0,0
+"testes= 6.0x2.5 mm",,0,0
+"testes= 6.0x6.0mm, epid +",,0,0
+"testes= 6.2mm",,0,0
+"testes= 6.2x3.8 mm",,0,0
+"testes= 6.2x4.2 mm",,0,0
+"testes= 6.2x4.9 mm",,0,0
+"testes= 6.2x6.2mm, epid+",,0,0
+"testes= 6.2x7 mm",,0,0
+"testes= 6.2x8.6mm",,0,0
+"testes= 6.3x13.1 mm",,0,0
+"testes= 6.3x3.4 mm",,0,0
+"testes= 6.3x6.3mm, epid +",,0,0
+"testes= 6.3x7.8mm, epid +",,0,0
+"testes= 6.3x9.6 mm",,0,0
+"testes= 6.3x9.7 mm",,0,0
+"testes= 6.4x3.0 mm",,0,0
+"testes= 6.5 x 3mm",,0,0
+"testes= 6.5 x 4mm",,0,0
+"testes= 6.5x13.5mm",,0,0
+"testes= 6.5x3.3mm, epid -",,0,0
+"testes= 6.5x6.5mm, epid +",,0,0
+"testes= 6.6x3.5mm, epid -",,0,0
+"testes= 6.75x10.0 mm",,0,0
+"testes= 6.7x10.2 mm",,0,0
+"testes= 6.7x5 mm",,0,0
+"testes= 6.7x8.8mm",,0,0
+"testes= 6.8x16.4 mm",,0,0
+"testes= 6.8x4.1 mm",,0,0
+"testes= 6.9x3.8 mm",,0,0
+"testes= 6mm",,0,0
+"testes= 6mm L, 10mm R",,0,0
+"testes= 6mm, spher.",,0,0
+"testes= 6x10mm",,0,0
+"testes= 6x11mm",,0,0
+"testes= 6x11mm, epid +",,0,0
+"testes= 6x12mm",,0,0
+"testes= 6x16mm",,0,0
+"testes= 6x17mm",,0,0
+"testes= 6x3 mm",,0,0
+"testes= 6x3mm",,0,0
+"testes= 6x4mm",,0,0
+"testes= 6x4mm *",,0,0
+"testes= 6x5 mm",,0,0
+"testes= 6x5mm",,0,0
+"testes= 6x6mm",,0,0
+"testes= 6x6mm, epid -",,0,0
+"testes= 6x6mm, epid +",,0,0
+"testes= 6x7mm",,0,0
+"testes= 7",,0,0
+"testes= 7 & 8mm diameter",,0,0
+"testes= 7 x 3mm",,0,0
+"testes= 7 x 4mm",,0,0
+"testes= 7 x 5.5mm",,0,0
+"testes= 7 x 5mm",,0,0
+"testes= 7.0x4.9 mm",,0,0
+"testes= 7.3x3.7 mm",,0,0
+"testes= 7.4x4.2 mm",,0,0
+"testes= 7.5 x 3.9mm",,0,0
+"testes= 7.5 x 5.0mm",,0,0
+"testes= 7.5 x 5mm",,0,0
+"testes= 7.5mm spher.",,0,0
+"testes= 7.5mm, spher",,0,0
+"testes= 7.5x3.6 mm",,0,0
+"testes= 7.7mm",,0,0
+"testes= 7.7x3.2 mm",,0,0
+"testes= 7.7x4.2 mm",,0,0
+"testes= 7.7x7.7mm, epid +",,0,0
+"testes= 7.8x6.4 mm",,0,0
+"testes= 7.9x12.9 mm",,0,0
+"testes= 7mm",,0,0
+"testes= 7mm R, 5mm L",,0,0
+"testes= 7x10 mm",,0,0
+"testes= 7x10 mm, round",,0,0
+"testes= 7x12mm",,0,0
+"testes= 7x13 mm, epid -",,0,0
+"testes= 7x18mm",,0,0
+"testes= 7x20mm",,0,0
+"testes= 7x3 mm",,0,0
+"testes= 7x4 mm",,0,0
+"testes= 7x4 mm *",,0,0
+"testes= 7x4mm",,0,0
+"testes= 7x6mm, inguinal",,0,0
+"testes= 7x8mm",,0,0
+"testes= 7x9 mm, epid -",,0,0
+"testes= 8",,0,0
+"testes= 8 x 4.5mm",,0,0
+"testes= 8 x 4mm",,0,0
+"testes= 8.0x10.8mm",,0,0
+"testes= 8.34x16.89, epid-",,0,0
+"testes= 8.3x5.3 mm",,0,0
+"testes= 8.3x6.2 mm",,0,0
+"testes= 8.4x6.2 mm",,0,0
+"testes= 8.5mm",,0,0
+"testes= 8.5x13.4mm",,0,0
+"testes= 8.6x10.4mm, epid+",,0,0
+"testes= 8.6x4.9 mm",,0,0
+"testes= 8.6x6.0 mm",,0,0
+"testes= 8.6x6.1 mm",,0,0
+"testes= 8.7x14.9, epid +",,0,0
+"testes= 8mm",,0,0
+"testes= 8x10.2, epid +",,0,0
+"testes= 8x12mm",,0,0
+"testes= 8x14mm",,0,0
+"testes= 8x18mm",,0,0
+"testes= 8x20mm",,0,0
+"testes= 8x4 mm",,0,0
+"testes= 8x5mm",,0,0
+"testes= 8x6 mm",,0,0
+"testes= 8x8mm",,0,0
+"testes= 9 x 3mm",,0,0
+"testes= 9.0x15.3, epid +",,0,0
+"testes= 9.2x8.2 mm",,0,0
+"testes= 9.5 x 6.5mm",,0,0
+"testes= 9.5mm R, 7.0mm L",,0,0
+"testes= 9.5x5.5 mm",,0,0
+"testes= 9.5x5.5mm, epid -",,0,0
+"testes= 9.5x7.6 mm",,0,0
+"testes= 9.5x7.8 mm",,0,0
+"testes= 9.6x14.8, epid +",,0,0
+"testes= 9.6x6.0mm, epid +",,0,0
+"testes= 9.7x18.7mm, epid+",,0,0
+"testes= 9.7x5.3 mm",,0,0
+"testes= 9.82x13.09 mm",,0,0
+"testes= 9x13mm",,0,0
+"testes= 9x14mm",,0,0
+"testes= 9x15mm, epid +",,0,0
+"testes= 9x4 mm",,0,0
+"testes= 9x5mm",,0,0
+"testes= 9x6 mm, epid -",,0,0
+"testes= 9x6mm",,0,0
+"testes= ca 3x4mm",,0,0
+"testes= ca. 2x2 1/2mm",,0,0
+"testes= L 0.890, R 0.711mm *",,0,0
+"testes= L 14x35mm, epid +",,0,0
+"testes= L 3, R 5mm",,0,0
+"testes= L 3mm, R 4mm",,0,0
+"testes= L 5 R 7mm",,0,0
+"testes= L 9, R 11 mm",,0,0
+"testes= L2x3mm, R5x5mm",,0,0
+"testes= L5, R7",,0,0
+"testes= L6x4, R4.5x3mm",,0,0
+"testes= left 3mm, right 4mm",,0,0
+"testes= R5x11, L4x9mm",,0,0
+"testes= R6x10, L7x12 mm",,0,0
+"testes=1.1x2.1mm ova <1mm",,0,0
+"testes=1.5x2, epid -",,0,0
+"testes=1.7x4.0mm, epid -",,0,0
+"testes=10x7 mm",,0,0
+"testes=10x8 & 8x7 mm",,0,0
+"testes=12.2x25.7, epid +",,0,0
+"testes=140x240, 140x230mm",,0,0
+"testes=14x21mm, epid +",,0,0
+"testes=2.5x1.5 mm",,0,0
+"testes=2.5x4mm, epid -",,0,0
+"testes=2.6x4.1mm",,0,0
+"testes=20.2x10.4, epid +",,0,0
+"testes=3 x 5 mm; epid. ?",,0,0
+"testes=3 x 5 mm; epid. +",,0,0
+"testes=3x2mm, epid -",,0,0
+"testes=3x4mm, epid -?",,0,0
+"testes=4.0x6.0 mm,epid.-",,0,0
+"testes=5 x 7 mm; epid. +",,0,0
+"testes=6x3.5mm",,0,0
+"testes=8x10mm, epid -",,0,0
+"testes=8x12mm, epid -",,0,0
+"testes=8x5mm",,0,0
+"testes=9x13mm, epid -",,0,0
 "testes=9x5",,0,0
+"testes=L 23x10;R 21x10mm",,0,0
+"testes=L 24x10;R 21x10mm",,0,0
+"testes=L83x42, R89x52",,0,0
+"testexs= 4x2mm",,0,0
 "Testicle bag bulging somewhat externally.",,0,0
 "Testículos escrotados","scrotal testicles",0,1
+"testis (1 only!) 4x2 mm",,0,0
+"testis (1) 6x4 mm",,0,0
+"testis = 0.7x1.3mm",,0,0
+"testis = 1.5x1mm",,0,0
+"testis = 10x5mm",,0,0
+"testis = 10x7mm",,0,0
+"testis = 12x7mm",,0,0
+"testis = 13x10mm",,0,0
+"testis = 15 x 6 mm (only one testis)",,0,0
+"testis = 1x2mm",,0,0
+"testis = 2.5x1.8mm",,0,0
+"testis = 2mm",,0,0
+"testis = 2x1mm",,0,0
+"testis = 3.3mm [single gonad]",,0,0
+"testis = 3x1mm",,0,0
+"testis = 3x2mm",,0,0
+"testis = 3x3mm",,0,0
+"testis = 4x4mm",,0,0
+"testis = 5x3mm",,0,0
+"testis = 6 mm",,0,0
+"testis = 6.5 mm",,0,0
+"testis = 6x3mm",,0,0
+"testis = 6x4mm",,0,0
+"testis = 6x5mm",,0,0
+"testis = 7 mm",,0,0
+"testis = 7x3mm",,0,0
+"testis = 7x4mm",,0,0
+"testis = 7x5mm",,0,0
+"testis = 7x6mm",,0,0
+"testis = 8x5mm",,0,0
+"testis = 8x5mm, lgst ova = 2mm",,0,0
 "testis 10 mm",,0,0
 "testis 10mm",,0,0
 "testis 11 mm",,0,0
@@ -14262,13 +16291,21 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testis 8 X 8mm",,0,0
 "testis 8mm",,0,0
 "testis 8mm,",,0,0
+"testis 8mm, dark gray",,0,0
 "testis 9mm",,0,0
 "testis abdominal",,0,0
+"testis enlarged",,0,0
+"testis medium",,0,0
 "Testis scrotal 12x9mm",,0,0
 "Testis scrotal 14x10mm",,0,0
 "Testis scrotal 18x7mm",,0,0
 "testis small",,0,0
 "testis undescended",,0,0
+"testis? = 1mm",,0,0
+"testis= 4x2mm",,0,0
+"testres = 0.91x1.5mm",,0,0
+"testres = 2x3mm",,0,0
+"testris small",,0,0
 "thickened uterus",,0,0
 "TNE",,0,0
 "to","unknown",0,1
@@ -14277,17 +16314,29 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "TS=11x8",,0,0
 "TS=7x4",,0,0
 "TS=7x5",,0,0
+"tstes = 2x1mm",,0,0
+"tstes = 4x2mm",,0,0
 "turgid uterus",,0,0
 "turgid uterus, no placental scars",,0,0
+"two small testes",,0,0
 "U","unknown",0,1
+"unshelled egg in oviduct",,0,0
 "uterine scarring; enlarged teats",,0,0
 "uterine scars, no embryos",,0,0
+"uterus = 1 mm,  2R, 3L plac scars",,0,0
+"uterus = 1.0 mm",,0,0
+"uterus = 1.5 mm, no scars, no emb",,0,0
+"uterus = 2.0 mm, 1L, 1R plac scars",,0,0
+"uterus = 2.4 mm, 1R plac scar, no emb",,0,0
+"uterus = 3.1 mm, no scars, no emb",,0,0
 "uterus containing four embryos, preserved with skin",,0,0
 "Uterus dist., lact.",,0,0
 "uterus enlarged",,0,0
 "Uterus enlarged, placental scars",,0,0
+"uterus observed",,0,0
 "Uterus swollen",,0,0
 "uterus thickened, no embryos",,0,0
+"uterus threadlike",,0,0
 "Vag closed",,0,0
 "Vag closed, parous",,0,0
 "Vag closed, parous-no emb",,0,0
@@ -14327,19 +16376,32 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Vag. clsd; parous; scars",,0,0
 "Vag. clsed; parous-scars",,0,0
 "Vagina perforate",,0,0
+"very small eggs",,0,0
 "virginal",,0,0
 "vulva corn. mammae swollen",,0,0
+"w/laid egg",,0,0
 "well-developed embryo",,0,0
 "with 3 pouch young in AL",,0,0
 "with 5 pouch young",,0,0
+"with egg",,0,0
+"with eggs",,0,0
+"with ova",,0,0
 "with two young in pouch",,0,0
 "worn nipples",,0,0
 "xxx","unknown",0,1
 "Ycrot.",,0,0
 "yearling",,0,0
+"yestes = 1.7x2.5mm",,0,0
 "yng. of year",,0,0
+"yolk/shell in oviduct",,0,0
+"yolked eggs",,0,0
+"yolked eggs:  36R, 36L; 25mm diam.",,0,0
+"yolked follicle",,0,0
+"yolked follicles",,0,0
+"yolked follicles 2.5 mm diam.",,0,0
 "young",,0,0
 "young adult",,0,0
+"young eggs w/yolk",,0,0
 "young of the year",,0,0
 "young of the year, testes 8:8 mm",,0,0
 "young, testis 5:4 mm",,0,0

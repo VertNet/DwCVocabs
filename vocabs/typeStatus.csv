@@ -1,5 +1,8 @@
 "typeStatus","standardTypeStatus","standard","checked"
 "",,0,0
+"-",,0,0
+"--",,0,0
+"""",,0,0
 """Type""","holotype",0,1
 "(= Type of P. plumbeiceps Lawr.)","holotype",0,1
 "(A type of cearensis Bd)","holotype",0,1
@@ -112,6 +115,8 @@
 "from Type Locality",,0,0
 "G",,0,0
 "H","holotype",0,1
+"HOLO",,0,0
+"HOLO*",,0,0
 "Holotye of Dryobates villosus scrippsae",,0,0
 "holotype","holotype",1,1
 "Holotype (at USNM)",,0,0
@@ -2297,6 +2302,7 @@ Paratype",,0,0
 "NEAR TOPOTYPE OF OTOCORYS NIGRIFRONS PRZEWALSKI",,0,0
 "NEAR-TOPOTYPE OF SAXICOLA MACULARIA QUOY & GAIMARD",,0,0
 "NEAR-TOPOTYPE; COLLECTED 12 MI SW OF TYPE LOCALITY MOUNT CARMEL",,0,0
+"NEO",,0,0
 "Neotype","neotype",1,1
 "Neotype of Arctonyx collaris",,0,0
 "NEOTYPE OF ARIZONA LINEATICOLLIS",,0,0
@@ -2321,6 +2327,8 @@ Neotype",,0,0
 "One of the TYPE","holotype",0,1
 "Original material",,0,1
 "P","paratype",0,1
+"PARA",,0,0
+"PARA*",,0,0
 "PARALECTOTYPE","paralectotype",1,1
 "PARALECTOTYPE OF [AMMODRAMUS] [SANDWICHENSIS] [BRUNNESCENS], BUTLER, A. W. 1888. ON A NEW SUBSPECIES OF AMMODRAMUS SANDWICHENSIS FROM MEXICO ***NAMED COTYPE BUT NOT CONSUBSPECIFIC**. AUK, 264-266. PAGE 265, PUBLISHED JULY 1888.",,0,0
 "PARALECTOTYPE OF AESTRELATA VOCIFERANS, SHUFELDT, R.W. 1916. THE BIRD-CAVES OF THE BERMUDAS AND THEIR FORMER INHABITANTS. IBIS, 623-637. PAGE 633, PUBLISHED 2 OCTOBER 1916.",,0,0
@@ -2343,6 +2351,8 @@ Neotype",,0,0
 "Paralectotype of Tamiasciurus hudsonicus mogollonensis ((Mearns))",,0,0
 "Paralectotypes",,0,0
 "PARALECTOTYPES OF ANOLIS GRISEUS",,0,0
+"PARANEOTYPE",,0,0
+"PARATOPO",,0,0
 "PARATOPOTYES OF HYLA BOGERTI",,0,0
 "Paratopotype","paratopotype",1,1
 "PARATOPOTYPE OF  ZONOSAURUS ANELANELANY",,0,0
@@ -2808,6 +2818,7 @@ Neotype",,0,0
 "PARATOPOTYPES OF TROPIDOPHORUS LAOTUS",,0,0
 "PARATOPOTYPES OF UTA ANTIQUUS",,0,0
 "PARATOPOTYPES PLETHODON WELLERI",,0,0
+"PARATOPTO",,0,0
 "PARATOPTYPES OF BUFO PISINNUS",,0,0
 "Paratype","paratype",1,1
 "'Paratype'",,0,0
@@ -3940,6 +3951,7 @@ Paratype",,0,0
 "possible syntype",,0,0
 "possible type",,0,0
 "previous LACM type(s)",,0,1
+"print card",,0,0
 "probable holotype",,0,0
 "probable isolectotype",,0,0
 "probable isosyntype",,0,0
@@ -3954,6 +3966,7 @@ Paratype",,0,0
 "S",,0,0
 "Secondary Type",,0,0
 "skin",,0,0
+"SYN",,0,0
 "Syn TYPE","syntype",0,1
 "Syn Type of P. superciliaris","syntype",0,1
 "Syn Type S.g. chapmani B[illeg][illeg][illeg][illeg]oz, 1941","syntype",0,1
@@ -4059,6 +4072,8 @@ Paratype",,0,0
 "T","topotype",0,1
 "taxon ined.",,0,1
 "THIS SPECIMEN WAS ONE OF THE TYPE SERIES BUT NOT DESIGNATED A PARATYPE.",,0,0
+"to be HOLO",,0,0
+"to be PARA",,0,0
 "TopeTYPE","topotype",0,1
 "Topotype","topotype",1,1
 "TOPOTYPE OF [PARUS] AUREOLA LINNAEUS",,0,0

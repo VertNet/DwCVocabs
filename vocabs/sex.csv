@@ -124,6 +124,7 @@ M[F]","unknown",0,1
 "? (F)","in question",0,1
 "? (M)","in question",0,1
 "? (sign blurred)","unknown",0,1
+"? *","unknown",0,1
 "? [=F]","in question",0,1
 "? [=M?]","in question",0,1
 "? [=M]","in question",0,1
@@ -139,6 +140,7 @@ M[F]","unknown",0,1
 "? JUV","unknown",0,1
 "? M","in question",0,1
 "? M.","in question",0,1
+"?*","unknown",0,1
 "?, adult","unknown",0,1
 "?, immature","unknown",0,1
 "?, juvenile","unknown",0,1
@@ -342,11 +344,13 @@ M[F]","unknown",0,1
 "F (?)","in question",0,1
 "F (=?)","in question",0,1
 "F (=M)","unknown",0,1
+"F (by dissection)","female",0,1
 "F (M ?)","in question",0,1
 "F (M juv.)","unknown",0,1
 "F (M)","unknown",0,1
 "F (with curved line resting on t","female",0,1
 "F )?)","in question",0,1
+"F *","female",0,1
 "F ?","in question",0,1
 "F ? (M ?)","in question",0,1
 "F ? (M J)","in question",0,1
@@ -399,6 +403,9 @@ M[F]","unknown",0,1
 "F AHY","female",0,1
 "F br","female",0,1
 "F br.","female",0,1
+"F by diseection","female",0,1
+"F by dissection","female",0,1
+"F F","female",0,1
 "F IMM","female",0,1
 "F JUV","female",0,1
 "F JUV.","female",0,1
@@ -429,9 +436,11 @@ M[F]","unknown",0,1
 "F(M?)","in question",0,1
 "F*","female",0,1
 "f, adult","female",0,1
+"F, by dissection","female",0,1
 "f, immature","female",0,1
 "f, juvenile","female",0,1
 "F, NESTLING","female",0,1
+"F, prob.","female",0,1
 "F.","female",0,1
 "f. adult","female",0,1
 "F/AD","female",0,1
@@ -443,6 +452,7 @@ M[F]","unknown",0,1
 "F/juvenile","female",0,1
 "F/M","unknown",0,1
 "F/NESTLING","female",0,1
+"F; confirmed by dissection","female",0,1
 "F?","in question",0,1
 "F-?","in question",0,1
 "F? M juv","in question",0,1
@@ -481,6 +491,7 @@ M[F]","unknown",0,1
 "F+","female",0,1
 "F4","unknown",0,1
 "Fall Male","male",0,1
+"Fby dissection","female",0,1
 "F'CHICK'","female",0,1
 "FD","female",0,1
 "female","female",1,1
@@ -587,11 +598,13 @@ M[F]","unknown",0,1
 "M (=F ?)","in question",0,1
 "M (=F)","unknown",0,1
 "M (BASED ON PLUMAGE)","male",0,1
+"M (by dissection)","male",0,1
 "m (by plumage)","male",0,1
 "M (F ?)","in question",0,1
 "M (F!)","unknown",0,1
 "M (F(","unknown",0,1
 "M (F)","unknown",0,1
+"M (info from tissue tube)","male",0,1
 "M ?","in question",0,1
 "M ? (F)","in question",0,1
 "M ? [=F]","in question",0,1
@@ -615,6 +628,8 @@ M[F]","unknown",0,1
 "M [=F]","unknown",0,1
 "M [almost surely F]","female",0,1
 "M [apparantly F]","unknown",0,1
+"M [by plumage","male",0,1
+"M [by plumage]","male",0,1
 "M [F ?]","in question",0,1
 "M [F!]","unknown",0,1
 "M [F?]","in question",0,1
@@ -637,7 +652,12 @@ M[F]","unknown",0,1
 "M AD","male",0,1
 "M br","male",0,1
 "M br.","male",0,1
+"M by call [?]","male",0,1
+"M by dissection","male",0,1
+"M by plumage *","male",0,1
+"M by plummage","male",0,1
 "M 'CHICK'","male",0,1
+"M ext.","male",0,1
 "M F","unknown",0,1
 "m g","male",0,1
 "M JUV","male",0,1
@@ -664,6 +684,7 @@ M[F]","unknown",0,1
 "M* with [?] written in pencil af","in question",0,1
 "m, 2nd-year","male",0,1
 "m, adult","male",0,1
+"M, by dissection","male",0,1
 "m, immature","male",0,1
 "M, JUV","male",0,1
 "m, juvenile","male",0,1
@@ -678,11 +699,14 @@ M[F]","unknown",0,1
 "M/JUV","male",0,1
 "M/juvenile","male",0,1
 "M/NESTLING","male",0,1
+"M; confirmed by dissection","male",0,1
 "M?","in question",0,1
 "M-?","in question",0,1
+"M? *","male",0,1
 "M? or M","in question",0,1
 "M?(F)","in question",0,1
 "M?(Fjuv.)","in question",0,1
+"M?*","male",0,1
 "m?, adult","in question",0,1
 "M?, juv","male",0,1
 "M??","in question",0,1

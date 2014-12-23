@@ -1,5 +1,6 @@
 "geodeticDatum","standardGeodeticDatum","standard","checked"
 "'",,0,1
+"""International spheroid""","International 1924 ellipsoid",0,1
 "(NAD83)","NAD83",0,1
 "(WGS 84)","WGS84",0,1
 "(WGS66) World Geodetic System 1966","(WGS66) World Geodetic System 1966",0,1
@@ -9,8 +10,11 @@
 "115.106995",,0,1
 "1787.192","not recorded (forced WGS84)",0,1
 "17938",,0,1
+"1962 American Samoa","1962 American Samoa",0,1
+"22.211654",,0,1
 "42.356157",,0,1
 "76.137987",,0,1
+"ADG 66","AGD66",0,1
 "Adindan","Adindan",1,1
 "Afgooye","Afgooye",1,1
 "AGD 66","AGD66",0,1
@@ -31,6 +35,7 @@
 "Astro Tern Island (FRIG) 1961","Astro Tern Island (FRIG) 1961",1,1
 "Astronomic Station No. 1 1951","Astronomic Station No. 1 1951",1,1
 "Astronomic Station No. 2 1951 (Truk Island)","Astronomic Station No. 2 1951 (Truk Island)",1,1
+"Astronomic Station Ponape (1951)","Astronomic Station Ponape (1951)",0,1
 "Astronomic Station Ponape 1951","Astronomic Station Ponape 1951",1,1
 "Astronomical Station 1952","Astronomical Station 1952",1,1
 "AUA","AGD66",0,1
@@ -103,6 +108,7 @@
 "Hong Kong 1963","Hong Kong 1963",1,1
 "Hough 1960 ellipsoid","Hough 1960 ellipsoid",1,1
 "Hu-Tzu-Shan","Hu-Tzu-Shan",1,1
+"ID 1974","Indonesian 1974",0,1
 "Index Mundi","not recorded",0,1
 "Indian","Indian",1,1
 "Indian 1954","Indian 1954",1,1
@@ -234,9 +240,11 @@
 "WGIS84","WGS84",0,1
 "WGS","WGS84",0,1
 "WGS 1984","WGS84",0,1
+"WGS 72","WGS72",0,1
 "WGS 83","WGS84",0,1
 "WGS 84","WGS84",0,1
 "WGS 84 / NAD 83","WGS84",0,1
+"WGS 894","WGS84",0,1
 "WGS*4","WGS84",0,1
 "WGS48","WGS84",0,1
 "WGS66","WGS66",1,1
