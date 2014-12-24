@@ -1,5 +1,6 @@
 "verbatimPrep","StandardPrep","standard","checked"
 "",,0,1
+"--",,0,0
 "-- | tissue",,0,0
 " 70% EtOH","70% alcohol",0,1
 " 70% ETOH + C&S",,0,0
@@ -54,6 +55,7 @@
 "(mounted, in glycerol)",,0,0
 "(mounted, in spirit)",,0,0
 "(part mounted)",,0,0
+"*paleo: humerus fragment (see Comments)",,0,0
 "*paleo: humerus fragment (see Comments) | tissue",,0,0
 ", tissue","tissue",0,1
 ",C,R dentary w M1-M3,MAXILLA FRAGS,L DENTARY FRAG W M1-R P4M3,R P4-M3/,L M1-M3/",,0,0
@@ -1152,6 +1154,7 @@
 "[Cranial + postcranial + cast]",,0,0
 "[Jaw + teeth + unidentified bone]",,0,0
 "[Metapodial]",,0,0
+"[not kept]",,0,0
 "[not kept] | tissue",,0,0
 "[Not yet available]",,0,0
 "[Phalanx, proximal]",,0,0
@@ -1177,6 +1180,7 @@
 "[Tooth]",,0,0
 "`EGGS","eggs",0,1
 "+ alc gut",,0,0
+"+ skel @",,0,0
 "+ skel @ | tissue",,0,0
 "+SK","skeleton, skin",0,1
 "+SK + ECTO","ectoparasite, skeleton, skin",0,1
@@ -1207,28 +1211,44 @@
 "1 - 70% ETHANOL; 1 - DRY",,0,0
 "1 - 70% ETHANOL; 1 - GLYCERIN",,0,0
 "1- 70% ETHANOL; 1- GLYCERIN",,0,0
+"1 alc egg",,0,0
 "1 alc egg | tissue",,0,0
+"1 alc egg + contents",,0,0
 "1 alc egg + contents | tissue",,0,0
+"1 alc egg + emb",,0,0
 "1 alc egg + emb | tissue",,0,0
+"1 alc emb",,0,0
 "1 alc emb | tissue",,0,0
+"1 alc emb + egg shell",,0,0
 "1 alc emb + egg shell | tissue",,0,0
 "1 alcoholic emb",,0,0
 "1 alcoholic pouch young",,0,0
 "1 alcoholic tadpole",,0,0
 "1 and 1/2 deciduous incisor.",,0,0
+"1 clutch of 5 eggs only",,0,0
 "1 clutch of 5 eggs only | tissue",,0,0
+"1 egg",,0,0
 "1 egg | tissue",,0,0
+"1 egg + 1 alc. Emb",,0,0
 "1 egg + 1 alc. Emb | tissue",,0,0
+"1 egg + 1 small plastic bag with egg fragments that are the returned loan BP 16961",,0,0
 "1 egg + 1 small plastic bag with egg fragments that are the returned loan BP 16961 | tissue",,0,0
+"1 egg + 2 egg fragments",,0,0
 "1 egg + 2 egg fragments | tissue",,0,0
+"1 egg + alc emb",,0,0
 "1 egg + alc emb | tissue",,0,0
+"1 egg + alc yolk",,0,0
 "1 egg + alc yolk | tissue",,0,0
+"1 egg cast",,0,0
 "1 egg cast | tissue",,0,0
 "1 egg in skeleton cabinet",,0,0
 "1 egg mass only",,0,0
+"1 egg only",,0,0
 "1 egg only | tissue",,0,0
 "1 eggshell fragment",,0,0
+"1 feather",,0,0
 "1 feather | tissue",,0,0
+"1 femur? frag only",,0,0
 "1 femur? frag only | tissue",,0,0
 "1 hair",,0,0
 "1 hair ball only",,0,0
@@ -1297,6 +1317,7 @@
 "1 lot of 25 tadpoles",,0,0
 "1 lot of 250+/- eggs",,0,0
 "1 lot of 26 tadpoles",,0,0
+"1 lot of 3 crustacean claw frags",,0,0
 "1 lot of 3 crustacean claw frags | tissue",,0,0
 "1 lot of 3 eggs",,0,0
 "1 lot of 3 eggs only",,0,0
@@ -1319,6 +1340,7 @@
 "1 lot of 4 alc emb + dry eggshells + complete skel",,0,0
 "1 lot of 4 eggs  + 2 shells IN FORMALIN*",,0,0
 "1 lot of 4 eggs & 13 tadpoles",,0,0
+"1 lot of 4 eggs only",,0,0
 "1 lot of 4 eggs only | tissue",,0,0
 "1 lot of 4 larvae in formalin",,0,0
 "1 lot of 4 met'ing juvs",,0,0
@@ -1359,6 +1381,7 @@
 "1 lot of 9 tadpoles",,0,0
 "1 Lot of 9 tads & 1 met'ing juv only",,0,0
 "1 lot of eggs",,0,0
+"1 lot of guano only",,0,0
 "1 lot of guano only | tissue",,0,0
 "1 m",,0,0
 "1 maxilla w cheek teeth, 3 mandibles w cheek teeth, 1 edent mand",,0,0
@@ -1366,19 +1389,29 @@
 "1 metapodial, 1 sacrum, 4 femur, 5 tibia, 2 ulna, 2 radius, 4 humerus.",,0,0
 "1 met'ing juv",,0,0
 "1 molar and 4 incisors (+1 root)",,0,0
+"1 nest",,0,0
 "1 nest | tissue",,0,0
+"1 nest + 1 egg",,0,0
 "1 nest + 1 egg | tissue",,0,0
+"1 nest + 15 eggs",,0,0
 "1 nest + 15 eggs | tissue",,0,0
+"1 nest + 2 eggs",,0,0
 "1 nest + 2 eggs | tissue",,0,0
+"1 nest + 3 eggs",,0,0
 "1 nest + 3 eggs | tissue",,0,0
+"1 nest + 4 eggs",,0,0
 "1 nest + 4 eggs | tissue",,0,0
+"1 nest + 5 eggs",,0,0
 "1 nest + 5 eggs | tissue",,0,0
+"1 nest + eggshell fragments",,0,0
 "1 nest + eggshell fragments | tissue",,0,0
 "1 nest only",,0,0
 "1 nest only | tissue",,0,0
 "1 pair of horns only",,0,0
+"1 pedal phalanx only",,0,0
 "1 pedal phalanx only | tissue",,0,0
 "1 R+L petrosal",,0,0
+"1 radius frag only",,0,0
 "1 radius frag only | tissue",,0,0
 "1 rt lower canine only",,0,0
 "1 sectioned (mounted, in spirit)",,0,0
@@ -1390,6 +1423,7 @@
 "1 tadpole only",,0,0
 "1 tadpoles",,0,0
 "1 thoracic vert. In 2 pieces",,0,0
+"1 tibiotarsus fragment",,0,0
 "1 tibiotarsus fragment | tissue",,0,0
 "1 tissue, 1 bone, 2 hair",,0,0
 "1 tissue, 2 hair, 1 bone, skull and partial skeleton",,0,0
@@ -1405,8 +1439,10 @@
 "1/2 IN 95% ETOH, 1/2 IN 70% ETOH/ 2 SMALL JARS, tissue",,0,0
 "10 - 70% ETHANOL; 2 - DRY",,0,0
 "10 alcoholic eggs",,0,0
+"10 bone fragments",,0,0
 "10 bone fragments | tissue",,0,0
 "10 distal metapodials",,0,0
+"10 eggs",,0,0
 "10 eggs | tissue",,0,0
 "10 FRAGMENTS OF SHELL.","shell fragments",0,1
 "10 incisors",,0,0
@@ -1424,6 +1460,7 @@
 "100% GLYCEROL/ SMALL JAR",,0,0
 "100% GLYCEROL/ SMALL JAR (C&S)",,0,0
 "106 tadpoles",,0,0
+"11 eggs",,0,0
 "11 eggs | tissue",,0,0
 "11 radia frags",,0,0
 "11 tadpoles only",,0,0
@@ -1435,22 +1472,28 @@
 "12 calcanea",,0,0
 "12 Mx/",,0,0
 "12 partial or whole dentary, 5 maxilla, 2 isolated molar.",,0,0
+"12 rib fragments",,0,0
 "12 rib fragments | tissue",,0,0
 "12 tadpoles",,0,0
 "12 tadpoles & 4 met'ing juvs",,0,0
 "12 VERTEBRAE (DRY)","12 vertebrae",0,1
 "129 alcoholic tadpoles",,0,0
+"13 bone fragments",,0,0
 "13 bone fragments | tissue",,0,0
 "13 CHEEK TEETH",,0,0
+"13 eggs",,0,0
 "13 eggs | tissue",,0,0
 "13 isolated cheek teeth",,0,0
 "13 left acrocoracoid tips",,0,0
 "13 m",,0,0
 "13 M1/",,0,0
 "13 MEDIUM-SIZED VERTEBRAE.","vertebrae",0,1
+"13 pellets",,0,0
 "13 pellets | tissue",,0,0
 "13 tadpoles",,0,0
+"13+/- bone fragments",,0,0
 "13+/- bone fragments | tissue",,0,0
+"14 eggshell fragments",,0,0
 "14 eggshell fragments | tissue",,0,0
 "14 Frags with Articular Surfaces",,0,0
 "14 m",,0,0
@@ -1467,7 +1510,9 @@
 "16",,0,0
 "16 m",,0,0
 "16 right + 11 left mandibles, 3 maxillae",,0,0
+"16+/- bone fragments",,0,0
 "16+/- bone fragments | tissue",,0,0
+"17 eggs only",,0,0
 "17 eggs only | tissue",,0,0
 "17 parietal (8.5 fused parietal), 17 frontal (8.5 fused frontal), 3 squamosal, 10 dentary, 6 maxilla, 2 crania.",,0,0
 "17 ungual phalanges",,0,0
@@ -1504,6 +1549,7 @@
 "2 articulated vertebrae",,0,0
 "2 articulated vertebrae in phosphate nodule",,0,0
 "2 astragali and a phalanx",,0,0
+"2 bone fragments",,0,0
 "2 bone fragments | tissue",,0,0
 "2 bones",,0,0
 "2 CALCANEUM,SCAPHOLUNAR,PISIFORM,METACARPAL 4",,0,0
@@ -1530,13 +1576,16 @@
 "2 distal metapodials",,0,0
 "2 distal proximal phalanges",,0,0
 "2 EGGS","eggs",0,1
+"2 eggs *",,0,0
 "2 eggs * | tissue",,0,0
 "2 eggs | tissue",,0,0
 "2 eggs in skeleton cabinet",,0,0
 "2 eggshell fragments",,0,0
+"2 eggshells",,0,0
 "2 eggshells | tissue",,0,0
 "2 entoplastra+1 epiplastron",,0,0
 "2 frags",,0,0
+"2 furcula fragments",,0,0
 "2 furcula fragments | tissue",,0,0
 "2 FUSED SACRAL VERTEBRAE",,0,0
 "2 fused vertebrae",,0,0
@@ -1575,6 +1624,7 @@
 "2 neurals+costal frag, prob assoc., pathologic",,0,0
 "2 osteoderms",,0,0
 "2 PATELLA",,0,0
+"2 pedal phalanges",,0,0
 "2 pedal phalanges | tissue",,0,0
 "2 PELVIS FRAGS,LIMB BONES",,0,0
 "2 PERIPHERAL 1,PERIPHERAL 8",,0,0
@@ -1608,6 +1658,7 @@
 "2 SMALL JARS, 95% ETHANOL AND 70% ETHANOL, tissue",,0,0
 "2 SMALL JARS/ 1 70% ETHANOL/ 1 95% ETHANOL, tissue",,0,0
 "2 spine frags",,0,0
+"2 spread wings and 2 dried feet only",,0,0
 "2 spread wings and 2 dried feet only | tissue",,0,0
 "2 tadpoles",,0,0
 "2 tadpoles & 4 met'ing juvs",,0,0
@@ -1687,6 +1738,7 @@
 "2R DENTARY FRAGS, FRAG L DENTARY",,0,0
 "2R P/,3L M/,2R M/,2/R M,/R M3",,0,0
 "3 - 70% ETHANOL; 1 - DRY",,0,0
+"3 alc emb",,0,0
 "3 alc emb | tissue",,0,0
 "3 alcoholic juvs",,0,0
 "3 alcoholic young",,0,0
@@ -1696,16 +1748,19 @@
 "3 bone frags",,0,0
 "3 calcanea",,0,0
 "3 CHEEK TEETH",,0,0
+"3 cranium fragments",,0,0
 "3 cranium fragments | tissue",,0,0
 "3 degraded tissue, 2 hair, wing, skull and partial skeleton",,0,0
 "3 dentaries (one with m/1); 4 molars.",,0,0
 "3 dentulous dentaries",,0,0
 "3 distal humeri, ulna, prox femur, prox scapula",,0,0
 "3 DISTAL TIBIAE",,0,0
+"3 eggs",,0,0
 "3 eggs | tissue",,0,0
 "3 eggs in  skeleton cabinet",,0,0
 "3 eggs in skeleton cabinet",,0,0
 "3 eggshell fragments",,0,0
+"3 eggshell pieces",,0,0
 "3 eggshell pieces | tissue",,0,0
 "3 FEMORA,2 ULNAE",,0,0
 "3 fused metapodials",,0,0
@@ -1720,9 +1775,12 @@
 "3 max frgs LP4/-M2, 2 frags r. M;",,0,0
 "3 medial III phalanges",,0,0
 "3 met'ing juvs",,0,0
+"3 mixed part skel",,0,0
 "3 mixed part skel | tissue",,0,0
+"3 mixed part skel + misc: feathers",,0,0
 "3 mixed part skel + misc: feathers | tissue",,0,0
 "3 palatal frags",,0,0
+"3 pedal phalanges",,0,0
 "3 pedal phalanges | tissue",,0,0
 "3 PERIPHERAL FRAGS,PLASTRON FRAG",,0,0
 "3 PERIPHERALS",,0,0
@@ -1734,6 +1792,7 @@
 "3 proximal phalanges",,0,0
 "3 R dentary, 1 L dentary.","right dentaries, left dentary",0,1
 "3 R PROXIMAL TARSOMETATARSUS.","right proximal tarsometatarsi",0,1
+"3 radius fragments",,0,0
 "3 radius fragments | tissue",,0,0
 "3 tadpoles",,0,0
 "3 tadpoles only",,0,0
@@ -1763,6 +1822,7 @@
 "3 tissue, 4 hair, 1 bone and skeleton",,0,0
 "3 tissue, 4 hair, 1 bone, skull and skeleton",,0,0
 "3 upper L cheektooth.","upper left cheekteeth",0,1
+"3 vertebra",,0,0
 "3 vertebra | tissue",,0,0
 "3 vertebrae",,0,0
 "3 VERTEBRAE (DRY)","3 vertebrae",0,1
@@ -1771,9 +1831,11 @@
 "3%FORMALIN",,0,0
 "30 medial phalanges",,0,0
 "30 podials",,0,0
+"30+/- tracheal rings",,0,0
 "30+/- tracheal rings | tissue",,0,0
 "31 proximal phalanges",,0,0
 "32",,0,0
+"32 eggs only",,0,0
 "32 eggs only | tissue",,0,0
 "32 tadpoles",,0,0
 "33",,0,1
@@ -1794,12 +1856,14 @@
 "4 alcoholic eggs",,0,0
 "4 articulated vertebrae",,0,0
 "4 astragali",,0,0
+"4 bone fragments",,0,0
 "4 bone fragments | tissue",,0,0
 "4 calcanea",,0,0
 "4 cheekteeth and fragments, fragments dentary.",,0,0
 "4 cheekteeth, humerus, fragment ulna.",,0,0
 "4 DISTAL META.",,0,0
 "4 distal metapodials",,0,0
+"4 eggs",,0,0
 "4 EGGS & NEST","eggs, nest",0,1
 "4 eggs | tissue",,0,0
 "4 eggshell fragments",,0,0
@@ -1813,11 +1877,14 @@
 "4 long bone frags >13 cm",,0,0
 "4 lower cheekteeth; 1 upper cheektooth.",,0,0
 "4 mixed skel",,0,0
+"4 pedal phalanges",,0,0
 "4 pedal phalanges | tissue",,0,0
 "4 PERIPHERAL FRAGS,1 PLASTRON FRAG",,0,0
 "4 proximal phalanges",,0,0
+"4 proximal phalanx major digit",,0,0
 "4 proximal phalanx major digit | tissue",,0,0
 "4 R and 2 L frontal; 2 R premaxilla I1/; R and L squamosal; fragment dentary; fragment interorbital region.",,0,0
+"4 scapula fragments",,0,0
 "4 scapula fragments | tissue",,0,0
 "4 Skull/ Vertebral Frags",,0,0
 "4 tadpoles",,0,0
@@ -1827,6 +1894,7 @@
 "4 vertebra.","vertebrae",0,1
 "4 VERTEBRAE (DRY)","4 vertebrae",0,1
 "4 VERTEBRAE.  IMM.","vertebrae",0,1
+"42 eggs",,0,0
 "42 eggs | tissue",,0,0
 "46 Frags",,0,0
 "48 metapodials",,0,0
@@ -1839,11 +1907,14 @@
 "5 alcoholic juvs",,0,0
 "5 alcoholic young",,0,0
 "5 astragali",,0,0
+"5 bone fragments",,0,0
 "5 bone fragments | tissue",,0,0
 "5 DENTARY FRAGS. W TEETH",,0,0
 "5 distal humerus frags",,0,0
 "5 Eden. Mnd.",,0,0
+"5 eggs",,0,0
 "5 eggs | tissue",,0,0
+"5 eggshell fragments",,0,0
 "5 eggshell fragments | tissue",,0,0
 "5 FEMUR, 4 TIBIA, 2 HUMERI, 2 part innom.","5 femurs, 4 tibia, 2 humeri, 2 partial innominata",0,1
 "5 FOOTBONES",,0,0
@@ -1851,7 +1922,9 @@
 "5 fragments cheekteeth.","cheekteeth fragments",0,1
 "5 incompl skulls,8L+7R dentaries,2 femora,3 humeri,4 radii, 2 ulnae,tibia, innominate",,0,0
 "5 m",,0,0
+"5 nests only",,0,0
 "5 nests only | tissue",,0,0
+"5 pedal phalanges",,0,0
 "5 pedal phalanges | tissue",,0,0
 "5 phalanges",,0,0
 "5 tadpoles",,0,0
@@ -1867,19 +1940,23 @@
 "50% ISOPROPYL",,0,0
 "5EGGS","eggs",0,1
 "6 astragali",,0,0
+"6 bone fragments",,0,0
 "6 bone fragments | tissue",,0,0
 "6 CANINES",,0,0
 "6 carapace frags,  3 limb frags, 1 pelvic frag",,0,0
 "6 DISTAL HUMERI",,0,0
+"6 eggs",,0,0
 "6 eggs | tissue",,0,0
 "6 LM3/",,0,0
 "6 m",,0,0
+"6 pedal phalanges",,0,0
 "6 pedal phalanges | tissue",,0,0
 "6 PHALANGES",,0,0
 "6 Podial Frags",,0,0
 "6 tadpoles",,0,0
 "6 TEETH,DENTARY",,0,0
 "6 upper cheekteeth, 1 L P2/.",,0,0
+"6 vertebra",,0,0
 "6 vertebra | tissue",,0,0
 "6 vertebrae",,0,0
 "6 VERTEBRAE (DRY)","6 vertebrae",0,1
@@ -1890,10 +1967,12 @@
 "7 - 70% ETHANOL; 2 - DRY",,0,0
 "7 alc eggs*",,0,0
 "7 ASTRAGALI",,0,0
+"7 eggs",,0,0
 "7 eggs | tissue",,0,0
 "7 general trunk vertebrae",,0,0
 "7 long bone frags, >6cm, <13 cm",,0,0
 "7 phalanges",,0,0
+"7 sternum fragments",,0,0
 "7 sternum fragments | tissue",,0,0
 "7 tadpoles",,0,0
 "7 tadpoles & met'ing juvs",,0,0
@@ -3195,10 +3274,12 @@
 "7th R costal.",,0,0
 "7th valve only (in spirit)",,0,0
 "8",,0,0
+"8 bone fragments",,0,0
 "8 bone fragments | tissue",,0,0
 "8 calcanea",,0,0
 "8 distal metapodials",,0,0
 "8 distal tibiae",,0,0
+"8 eggs",,0,0
 "8 eggs | tissue",,0,0
 "8 m",,0,0
 "8 podials",,0,0
@@ -3210,6 +3291,7 @@
 "9 - 70% ETHANOL; 5 - DRY",,0,0
 "9 bone Frags",,0,0
 "9 calcanea",,0,0
+"9 eggs",,0,0
 "9 eggs | tissue",,0,0
 "9 embryonic frogs",,0,0
 "9 m",,0,0
@@ -3491,12 +3573,15 @@
 "AL+T+ECTO+CH","alcoholic, chromosomes, ectoparasite, tissue",0,1
 "Alar digit three.",,0,0
 "alc","alcoholic",0,1
+"alc emb + egg shell",,0,0
 "alc emb + egg shell | tissue",,0,0
 "alc gut only*",,0,0
 "alc skin +  complete skel",,0,0
 "alc skin + complete skeleton",,0,0
 "alc skin + skel",,0,0
+"alc stomach contents",,0,0
 "alc stomach contents | tissue",,0,0
+"alc stomach only",,0,0
 "alc stomach only | tissue",,0,0
 "alc tadpoles and met'ing juvs",,0,0
 "alcFluid, skull, tissue","alcoholic, fluid, skull, tissue",0,1
@@ -3511,7 +3596,9 @@
 "ALC/CARC","alcoholic, carcass",0,1
 "ALC+SCHMOO","alcoholic, schmoo",0,1
 "alch","alcoholic",0,1
+"alcholic + alc stomach",,0,0
 "alcholic + alc stomach | tissue",,0,0
+"alcholic head",,0,0
 "alcholic head | tissue",,0,0
 "alcohlic",,0,0
 "alcohol","alcoholic",0,1
@@ -3664,7 +3751,9 @@
 "alcoholic + alc gut + misc: 2 glass slides",,0,0
 "alcoholic + alc gut + tissue",,0,0
 "alcoholic + alc gut contents",,0,0
+"alcoholic + alc stomach",,0,0
 "alcoholic + alc stomach | tissue",,0,0
+"alcoholic + alc stomach + misc: 110 slides",,0,0
 "alcoholic + alc stomach + misc: 110 slides | tissue",,0,0
 "alcoholic + alc stomach + slides of stom contents",,0,0
 "alcoholic + alc stomach contents",,0,0
@@ -3699,6 +3788,7 @@
 "alcoholic + dry egg shell in skeleton cabinet",,0,0
 "alcoholic + dry eggshell in skeleton cabinet",,0,0
 "alcoholic + dry stomach contents",,0,0
+"alcoholic + ectoparasite",,0,0
 "alcoholic + ectoparasite | tissue",,0,0
 "alcoholic + ectoparasite* + alc gut",,0,0
 "alcoholic + ectoparasites",,0,0
@@ -3722,9 +3812,11 @@
 "alcoholic + misc: stomach contents",,0,0
 "alcoholic + mouth contents (attached to specimen)",,0,0
 "alcoholic + nematode",,0,0
+"alcoholic + nest",,0,0
 "alcoholic + nest | tissue",,0,0
 "alcoholic + parasite",,0,0
 "alcoholic + stom contents",,0,0
+"alcoholic + stomach",,0,0
 "alcoholic + stomach | tissue",,0,0
 "alcoholic + stomach contents",,0,0
 "alcoholic + stomach contents (juv. Lipinia noctua) + alc gut",,0,0
@@ -3736,11 +3828,13 @@
 "ALCOHOLIC AND DRY INDIVIDUAL PRIMARIES AND SECONDARIES","alcoholic, dry primaries, dry secondaries",0,1
 "ALCOHOLIC AND DRY INDIVIDUAL PRIMARIES AND SECONDARIES, tissue","alcoholic, dry primaries, dry secondaries, tissue",0,1
 "alcoholic anterior half of body",,0,0
+"alcoholic body",,0,0
 "alcoholic body (no head)",,0,0
 "alcoholic body | tissue",,0,0
 "alcoholic egg",,0,0
 "alcoholic egg | tissue",,0,0
 "alcoholic eggs",,0,0
+"alcoholic embryo",,0,0
 "alcoholic embryo | tissue",,0,0
 "alcoholic gut",,0,0
 "alcoholic hatchling in eggshell",,0,0
@@ -7386,6 +7480,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "CARPOMETACARPUS FRAG L",,0,0
 "carpometacarpus frag.",,0,0
 "carpometacarpus frag?",,0,0
+"carpometacarpus fragment",,0,0
 "carpometacarpus fragment | tissue",,0,0
 "Carpometacarpus fragments",,0,0
 "CARPOMETACARPUS FRAGS",,0,0
@@ -8289,20 +8384,27 @@ R PERIPHERALS 2 - 3.",,0,0
 "Coastal plate.",,0,0
 "Coecum, dissected (in spirit)",,0,0
 "COM (DRY)","whole animal",0,1
+"comp skel",,0,0
 "comp skel | tissue",,0,0
+"comp skel + part flat skin",,0,0
 "comp skel + part flat skin | tissue",,0,0
 "comp skel only",,0,0
 "comp skel only | tissue",,0,0
+"comp skeleton",,0,0
 "comp skeleton | tissue",,0,0
 "COMP. R + L HORN CORE W FRONTAL, PARIETALS, TEMPORALS + ETHMOIDS",,0,0
 "comp. skel.",,0,0
 "comp. skel. only",,0,0
+"comp. skel. only + dried gizzard (?)",,0,0
 "comp. skel. only + dried gizzard (?) | tissue",,0,0
 "COMPL & INCOMPL LWR CHEEK TEETH",,0,0
 "compl R lwr mand+ L dentary",,0,0
 "compl skeleton",,0,0
+"complete  skel",,0,0
 "complete  skel | tissue",,0,0
+"complete  skeleton",,0,0
 "complete  skeleton | tissue",,0,0
+"complete (?) skeleton",,0,0
 "complete (?) skeleton | tissue",,0,0
 "COMPLETE (C&S)","whole animal (cleared and stained)",0,1
 "COMPLETE (DRY + GLYCERIN)","whole animal (dry and glycerin)",0,1
@@ -8311,6 +8413,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "COMPLETE (GLYCERIN)","whole animal (glycerin)",0,1
 "COMPLETE (GLYCERIN), tissue","whole animal (glycerin), tissue",0,1
 "COMPLETE (WHOLE)","whole animal",0,1
+"complete ? skel",,0,0
 "complete ? skel | tissue",,0,0
 "COMPLETE COSTAL 7.",,0,0
 "COMPLETE DENTARY",,0,0
@@ -8321,6 +8424,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "COMPLETE PES",,0,0
 "complete skel",,0,0
 "complete skel *",,0,0
+"complete skel *;* Peter Pyle wants PIX",,0,0
 "complete skel *;* Peter Pyle wants PIX | tissue",,0,0
 "complete skel @",,0,0
 "complete skel @ | tissue",,0,0
@@ -8328,6 +8432,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete skel + 1 alc emb",,0,0
 "complete skel + 1 alc pouch young",,0,0
 "complete skel + 1 dry limb skin",,0,0
+"complete skel + 1 egg",,0,0
 "complete skel + 1 egg | tissue",,0,0
 "complete skel + 2 alc emb",,0,0
 "complete skel + 2 alc pouch young",,0,0
@@ -8338,18 +8443,27 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete skel + alc pouch young",,0,0
 "complete skel + alc stomach contents",,0,0
 "complete skel + dried skin",,0,0
+"complete skel + feathers",,0,0
 "complete skel + feathers | tissue",,0,0
+"complete skel + flat wing",,0,0
 "complete skel + flat wing | tissue",,0,0
+"complete skel + flat wings & tail",,0,0
 "complete skel + flat wings & tail | tissue",,0,0
+"complete skel + misc feathers",,0,0
 "complete skel + misc feathers | tissue",,0,0
+"complete skel + misc: 1 wing",,0,0
 "complete skel + misc: 1 wing | tissue",,0,0
+"complete skel + misc: feathers",,0,0
 "complete skel + misc: feathers | tissue",,0,0
+"complete skel + misc: wing & tail",,0,0
 "complete skel + misc: wing & tail | tissue",,0,0
+"complete skel + nest",,0,0
 "complete skel + nest | tissue",,0,0
 "complete skel + paper mache body",,0,0
 "complete skel + xray of flipper",,0,0
 "complete skel + xray of left flipper",,0,0
 "complete skel only",,0,0
+"complete skel only + misc: wing",,0,0
 "complete skel only + misc: wing | tissue",,0,0
 "complete skel.",,0,0
 "complete skeleton",,0,0
@@ -9011,6 +9125,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "CRANIUM FRAG","partial skull",0,1
 "CRANIUM FRAG,HORN CORE",,0,0
 "CRANIUM FRAG,SCAPHOLUNAR,MID PHALANX",,0,0
+"cranium fragment",,0,0
 "cranium fragment | tissue",,0,0
 "CRANIUM ONLY","cranium",0,1
 "cranium only?",,0,0
@@ -12106,6 +12221,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Dried - 9",,0,0
 "dried carcass",,0,0
 "dried carcass, skull",,0,0
+"dried embryo",,0,0
 "dried embryo | tissue",,0,0
 "DRIED HEAD","dried head",0,1
 "DRIED INFLATED LUNGS","dried inflated lungs",0,1
@@ -12467,6 +12583,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "EGGSHELL ?",,0,0
 "eggshell + bone frags",,0,0
 "eggshell frag",,0,0
+"eggshell fragment",,0,0
 "eggshell fragment | tissue",,0,0
 "EGGSHELL FRAGMENTS","egg",0,1
 "EGGSHELL FRAGS",,0,0
@@ -13174,6 +13291,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "fibula frag",,0,0
 "fibula frag, juvenile",,0,0
 "fibula frag?",,0,0
+"fibula fragment",,0,0
 "fibula fragment | tissue",,0,0
 "FIBULA FRAGS",,0,0
 "FIBULA PROX",,0,0
@@ -13238,26 +13356,40 @@ R PERIPHERALS 2 - 3.",,0,0
 "Flat Round Skin and Castor Glands",,0,0
 "flat skin","flat skin",1,1
 "Flat skin - 1",,0,0
+"flat skin & part skeleton",,0,0
 "flat skin & part skeleton | tissue",,0,0
 "flat skin & skull",,0,0
 "flat skin & skull + complete skel",,0,0
 "flat skin & skull + skel",,0,0
 "flat skin (skull in skin)",,0,0
 "flat skin | tissue",,0,0
+"flat skin + alc body",,0,0
 "flat skin + alc body | tissue",,0,0
+"flat skin + alc body + alc stomach",,0,0
 "flat skin + alc body + alc stomach | tissue",,0,0
+"flat skin + alc stomach",,0,0
 "flat skin + alc stomach | tissue",,0,0
+"flat skin + alc stomach contents",,0,0
 "flat skin + alc stomach contents | tissue",,0,0
+"flat skin + complete skel",,0,0
 "flat skin + complete skel | tissue",,0,0
+"flat skin + complete skel + alc stomach",,0,0
 "flat skin + complete skel + alc stomach | tissue",,0,0
+"flat skin + complete skeleton",,0,0
 "flat skin + complete skeleton | tissue",,0,0
+"flat skin + part alc body",,0,0
 "flat skin + part alc body | tissue",,0,0
+"flat skin + part skel",,0,0
 "flat skin + part skel | tissue",,0,0
+"flat skin + skel",,0,0
 "flat skin + skel | tissue",,0,0
+"flat skin + skel + 3 feathers",,0,0
 "flat skin + skel + 3 feathers | tissue",,0,0
+"flat skin + skel + alc stomach",,0,0
 "flat skin + skel + alc stomach | tissue",,0,0
 "flat skin only",,0,0
 "flat skin only | tissue",,0,0
+"flat skin w/o head",,0,0
 "flat skin w/o head | tissue",,0,0
 "flat skin, alcoholic",,0,0
 "flat skin, cleared and stained",,0,0
@@ -13280,6 +13412,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "flat skin, wing, complete skeleton, other",,0,0
 "flat skin; skull",,0,0
 "Flat Taxidermy Skin",,0,0
+"flat wing + skel",,0,0
 "flat wing + skel | tissue",,0,0
 "flat, tissue","flat skin, tissue",0,1
 "flat/part skel","partial skeleton, flat skin",0,1
@@ -15532,6 +15665,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "frozen (tiss) - 3; 70% EtOH - 4",,0,0
 "frozen carcass","frozen carcass",1,1
 "frozen carcass, tissue","frozen carcass, tissue",1,1
+"frozen in liquid N2",,0,0
 "frozen in liquid N2 | tissue",,0,0
 "Frozen specimen","frozen specimens",0,1
 "Frozen tadpoles","frozen tadpoles",0,1
@@ -15645,6 +15779,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FURCULA,CORACOID",,0,0
 "FURCULA,ISCHIUM,DIST TARSOMETATARSUS",,0,0
 "Furcula.",,0,0
+"furcula? Fragment",,0,0
 "furcula? Fragment | tissue",,0,0
 "FURCULUM END L",,0,0
 "FURCULUM FRAGS",,0,0
@@ -16617,6 +16752,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Humerus; radio-ulna.",,0,0
 "HUMERUS; RADIUS; ULNA",,0,0
 "Humerus?",,0,0
+"humerus? fragment",,0,0
 "humerus? fragment | tissue",,0,0
 "humerus? scapula?",,0,0
 "HUMERUS+/OR TIBIOTARSUS",,0,0
@@ -17348,6 +17484,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "innominata (2)",,0,0
 "innominata(3)",,0,0
 "innominate",,0,0
+"innominate (?) fragment",,0,0
 "innominate (?) fragment | tissue",,0,0
 "Innominate (left)",,0,0
 "Innominate (R,L)",,0,0
@@ -17414,6 +17551,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "INNOMINATE,TIBIA",,0,0
 "INNOMINATE,ULNA",,0,0
 "Innominate.",,0,0
+"innominate? fragment",,0,0
 "innominate? fragment | tissue",,0,0
 "INNOMINATE+DENTARY FRAG",,0,0
 "INNOMINATE+LIMB BONES",,0,0
@@ -22188,6 +22326,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "lot 10 alcoholic froglets",,0,0
 "lot 2 alcoholic frogs + 2 alc tadpoles",,0,0
 "lot of 2 tadpoles,  2 met'ing juvs & 3 froglets",,0,0
+"lot of 25 bones",,0,0
 "lot of 25 bones | tissue",,0,0
 "lot of 3 alcoholic frogs",,0,0
 "lot of 7 alcoholic froglets",,0,0
@@ -22256,6 +22395,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Lower Mandible",,0,0
 "Lower mandible (R and L dentary) w R i1, i2, p3, p4, m1, m2 and L i1, i2, p3, p4, m1, m2, m3",,0,0
 "Lower mandible + tongue + gular pouch (in spirit)",,0,0
+"lower mandible fragment",,0,0
 "lower mandible fragment | tissue",,0,0
 "Lower mandible, pharynx, pterygoids (in spirit)",,0,0
 "Lower mandible, three pieces.",,0,0
@@ -23121,6 +23261,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Manis phalanx, digit 3.",,0,0
 "manual phalanx",,0,0
 "manual phalanx | tissue",,0,0
+"manual phalanx fragment",,0,0
 "manual phalanx fragment | tissue",,0,0
 "Manubrial area of sternum.",,0,0
 "MANUBRIUM",,0,0
@@ -24762,65 +24903,106 @@ R PERIPHERALS 2 - 3.",,0,0
 "Misc.; Skin","miscellaneous, skin",0,1
 "Misc.; Study skin","miscellaneous, study skin",0,1
 "Misc.; Whole (EtOH)","miscellaneous, whole animal (ETOH)",0,1
+"misc:  alc tongue",,0,0
 "misc:  alc tongue | tissue",,0,0
 "misc: 1 canine tooth",,0,0
+"misc: 1 dried tongue",,0,0
 "misc: 1 dried tongue | tissue",,0,0
+"misc: 1 feather only",,0,0
 "misc: 1 feather only | tissue",,0,0
+"misc: 1 head only",,0,0
 "misc: 1 head only | tissue",,0,0
+"misc: 1 lot of 20 regurg. pellets",,0,0
 "misc: 1 lot of 20 regurg. pellets | tissue",,0,0
+"misc: 1 lot of 5+ feathers",,0,0
 "misc: 1 lot of 5+ feathers | tissue",,0,0
 "misc: 1 lot of fur",,0,0
 "misc: 1 lot of skin & hair",,0,0
 "misc: 1 lower incisor tooth",,0,0
+"misc: 1 part wing only",,0,0
 "misc: 1 part wing only | tissue",,0,0
 "misc: 1 partial scute",,0,0
 "misc: 1 piece of baleen",,0,0
+"misc: 1 pr legs only",,0,0
 "misc: 1 pr legs only | tissue",,0,0
+"misc: 1 regurg. pellet",,0,0
 "misc: 1 regurg. pellet | tissue",,0,0
+"misc: 1 regurg. pellet only",,0,0
 "misc: 1 regurg. pellet only | tissue",,0,0
+"misc: 1 regurgitated pellet",,0,0
 "misc: 1 regurgitated pellet | tissue",,0,0
 "misc: 1 scute",,0,0
 "misc: 1 sectioned tooth",,0,0
 "misc: 1 stuffed penis",,0,0
 "misc: 1 tooth",,0,0
 "misc: 1 upper canine tooth",,0,0
+"misc: 1 wing",,0,0
 "misc: 1 wing | tissue",,0,0
+"misc: 1 wing + upper mandible",,0,0
 "misc: 1 wing + upper mandible | tissue",,0,0
+"misc: 1 wing only",,0,0
 "misc: 1 wing only | tissue",,0,0
+"misc: 10 regurg. pellets",,0,0
 "misc: 10 regurg. pellets | tissue",,0,0
+"misc: 11 feathers",,0,0
 "misc: 11 feathers | tissue",,0,0
+"misc: 11 regurg. pellets",,0,0
 "misc: 11 regurg. pellets | tissue",,0,0
 "misc: 12 mammal teeth",,0,0
 "misc: 12 partial scutes",,0,0
+"misc: 12 regurg. pellets",,0,0
 "misc: 12 regurg. pellets | tissue",,0,0
+"misc: 13 breast feathers",,0,0
 "misc: 13 breast feathers | tissue",,0,0
+"misc: 13 feathers",,0,0
 "misc: 13 feathers | tissue",,0,0
+"misc: 15 regurg. pellets",,0,0
 "misc: 15 regurg. pellets | tissue",,0,0
+"misc: 16 feathers only",,0,0
 "misc: 16 feathers only | tissue",,0,0
+"misc: 2 downy feathers",,0,0
 "misc: 2 downy feathers | tissue",,0,0
+"misc: 2 regurg. pellets",,0,0
 "misc: 2 regurg. pellets | tissue",,0,0
 "misc: 2 upper canine teeth",,0,0
+"misc: 2 wings",,0,0
 "misc: 2 wings | tissue",,0,0
+"misc: 2 wings + 6 humeri",,0,0
 "misc: 2 wings + 6 humeri | tissue",,0,0
+"misc: 2 wings only",,0,0
 "misc: 2 wings only | tissue",,0,0
+"misc: 27 feathers only",,0,0
 "misc: 27 feathers only | tissue",,0,0
+"misc: 3 regurg. pellets",,0,0
 "misc: 3 regurg. pellets | tissue",,0,0
 "misc: 31 vibrissae",,0,0
+"misc: 4 mounted tails only",,0,0
 "misc: 4 mounted tails only | tissue",,0,0
+"misc: 4 plumes only",,0,0
 "misc: 4 plumes only | tissue",,0,0
+"misc: 4 regurg. pellets",,0,0
 "misc: 4 regurg. pellets | tissue",,0,0
 "misc: 4 scutes",,0,0
+"misc: 5 feathers",,0,0
 "misc: 5 feathers | tissue",,0,0
+"misc: 5 regurg. pellets",,0,0
 "misc: 5 regurg. pellets | tissue",,0,0
 "misc: 5 scutes",,0,0
+"misc: 5 tail feathers",,0,0
 "misc: 5 tail feathers | tissue",,0,0
+"misc: 6 feathers only",,0,0
 "misc: 6 feathers only | tissue",,0,0
+"misc: 6 regurg. pellets",,0,0
 "misc: 6 regurg. pellets | tissue",,0,0
 "misc: 6 scutes",,0,0
+"misc: 7 regurg. pellets",,0,0
 "misc: 7 regurg. pellets | tissue",,0,0
+"misc: 8 regurg. pellets",,0,0
 "misc: 8 regurg. pellets | tissue",,0,0
+"misc: 9 regurg. pellets",,0,0
 "misc: 9 regurg. pellets | tissue",,0,0
 "misc: alc & dry stomach contents",,0,0
+"misc: bolus",,0,0
 "misc: bolus | tissue",,0,0
 "misc: bottle of ""snake wine""",,0,0
 "misc: cleared & stained",,0,0
@@ -24833,18 +25015,30 @@ R PERIPHERALS 2 - 3.",,0,0
 "misc: cleared & stained + alc gut + nematod",,0,0
 "misc: cleared & stained + alc skin",,0,0
 "misc: cleared & stained + alc viscera",,0,0
+"misc: complete row of baleen plates",,0,0
 "misc: complete row of baleen plates | tissue",,0,0
+"misc: dried stomach",,0,0
 "misc: dried stomach | tissue",,0,0
+"misc: dried stomach only",,0,0
 "misc: dried stomach only | tissue",,0,0
+"misc: dried tongue and ""gizzard""",,0,0
 "misc: dried tongue and ""gizzard"" | tissue",,0,0
+"misc: feathers",,0,0
 "misc: feathers | tissue",,0,0
+"misc: feathers and legs",,0,0
 "misc: feathers and legs | tissue",,0,0
+"misc: feathers only",,0,0
 "misc: feathers only | tissue",,0,0
+"misc: flat wing",,0,0
 "misc: flat wing | tissue",,0,0
 "misc: fused periotic and bulla",,0,0
+"misc: head + 1 wing",,0,0
 "misc: head + 1 wing | tissue",,0,0
+"misc: head only",,0,0
 "misc: head only | tissue",,0,0
+"misc: lot of 13 bones",,0,0
 "misc: lot of 13 bones | tissue",,0,0
+"misc: mounted tail only",,0,0
 "misc: mounted tail only | tissue",,0,0
 "misc: mtd. antlers",,0,0
 "misc: mtd. horns",,0,0
@@ -24854,12 +25048,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "misc: mummy",,0,0
 "misc: partial stomach contents",,0,0
 "misc: R and L scapula",,0,0
+"misc: regurg. pellet",,0,0
 "misc: regurg. pellet | tissue",,0,0
+"misc: rehydrated stomach only",,0,0
 "misc: rehydrated stomach only | tissue",,0,0
+"misc: rhamphotheca only",,0,0
 "misc: rhamphotheca only | tissue",,0,0
 "misc: rt. forefoot only",,0,0
+"misc: tail- and wingfeathers",,0,0
 "misc: tail- and wingfeathers | tissue",,0,0
+"misc: tail feathers only",,0,0
 "misc: tail feathers only | tissue",,0,0
+"misc: wings, feet, beak",,0,0
 "misc: wings, feet, beak | tissue",,0,0
 "miscelaneous small pieces (found in association with vp 3199)",,0,0
 "miscellaneous","miscellaneous",1,1
@@ -25039,6 +25239,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "mount (body); skull (complete)",,0,0
 "mount (head)",,0,0
 "mount (skin); skull (complete)",,0,0
+"mount + mummy chick + nest + 3 eggs",,0,0
 "mount + mummy chick + nest + 3 eggs | tissue",,0,0
 "mount and skull",,0,0
 "Mount as a Decoy","mount",0,1
@@ -25176,8 +25377,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "mummy","mummy",1,1
 "Mummy (skin, included skull)","mummy",0,1
 "mummy | tissue",,0,0
+"mummy + nest",,0,0
 "mummy + nest | tissue",,0,0
 "MUMMY COMPLETE",,0,0
+"mummy only",,0,0
 "mummy only | tissue",,0,0
 "MUMMY, tissue","mummy, tissue",0,1
 "muscle",,0,0
@@ -25313,16 +25516,23 @@ R PERIPHERALS 2 - 3.",,0,0
 "Nest - 1; Skin - 1; Eggset - 1","Nest - 1; Skin - 1; Eggset - 1",0,1
 "Nest - 50","Nest - 50",0,1
 "Nest - null","Nest - null",0,1
+"nest & 2 eggs",,0,0
 "nest & 2 eggs | tissue",,0,0
 "NEST & EGGS","eggs, nest",0,1
 "nest (complete)",,0,0
+"nest (separated according to plant species)",,0,0
 "nest (separated according to plant species) | tissue",,0,0
 "nest | tissue",,0,0
+"nest + 1 egg",,0,0
 "nest + 1 egg | tissue",,0,0
+"nest + 3 eggs",,0,0
 "nest + 3 eggs | tissue",,0,0
+"nest + 4 eggs",,0,0
 "nest + 4 eggs | tissue",,0,0
+"nest + eggshell fragments",,0,0
 "nest + eggshell fragments | tissue",,0,0
 "NEST GROUP","nests",0,1
+"nest only",,0,0
 "nest only | tissue",,0,0
 "NEST WITH EGGS","eggs, nest",0,1
 "NEST WITH EGGS, tissue","eggs, nest, tissue",0,1
@@ -25341,6 +25551,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Nest; Skin","nest, skin",0,1
 "Nest; Skin; Eggset","eggs, nest, skin",0,1
 "NEST``","nest",0,1
+"nestling in alcohol",,0,0
 "nestling in alcohol | tissue",,0,0
 "Nests",,0,0
 "Nests (one sectioned)",,0,0
@@ -25631,6 +25842,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "one skull",,0,0
 "One thoracic vertebrae",,0,0
 "one vertebra","vertebra",0,1
+"one wing only",,0,0
 "one wing only | tissue",,0,0
 "one+a half molars in maxilla fragment",,0,0
 "ONE-QUARTER ATLAS, IMM.",,0,0
@@ -27026,394 +27238,727 @@ R PERIPHERALS 2 - 3.",,0,0
 "Palatoquadrate",,0,0
 "palatoquadrate cartilage",,0,0
 "palatoquadrate cartilage fragment",,0,0
+"paleo",,0,0
 "paleo | tissue",,0,0
+"paleo: *1 crustacean chela frag only",,0,0
 "paleo: *1 crustacean chela frag only | tissue",,0,0
+"paleo: 1 accessory metatarsus",,0,0
 "paleo: 1 accessory metatarsus | tissue",,0,0
+"paleo: 1 Block of 31/2 Vertebrae",,0,0
 "paleo: 1 Block of 31/2 Vertebrae | tissue",,0,0
+"paleo: 1 Block of 5 Vertebrae",,0,0
 "paleo: 1 Block of 5 Vertebrae | tissue",,0,0
+"paleo: 1 bone frag.",,0,0
 "paleo: 1 bone frag. | tissue",,0,0
+"paleo: 1 bone frag. embeded in matrix",,0,0
 "paleo: 1 bone frag. embeded in matrix | tissue",,0,0
+"paleo: 1 bone fragment",,0,0
 "paleo: 1 bone fragment | tissue",,0,0
+"paleo: 1 carpometacarpus",,0,0
 "paleo: 1 carpometacarpus | tissue",,0,0
+"paleo: 1 carpometacarpus frag.",,0,0
 "paleo: 1 carpometacarpus frag. | tissue",,0,0
+"paleo: 1 carpometacarpus fragment",,0,0
 "paleo: 1 carpometacarpus fragment | tissue",,0,0
+"paleo: 1 caudal vertrebra",,0,0
 "paleo: 1 caudal vertrebra | tissue",,0,0
+"paleo: 1 complete pterygoid + misc. fragments",,0,0
 "paleo: 1 complete pterygoid + misc. fragments | tissue",,0,0
+"paleo: 1 coracoid",,0,0
 "paleo: 1 coracoid | tissue",,0,0
+"paleo: 1 coracoid frag.",,0,0
 "paleo: 1 coracoid frag. | tissue",,0,0
+"paleo: 1 costal rib frag.",,0,0
 "paleo: 1 costal rib frag. | tissue",,0,0
 "paleo: 1 cranium frag",,0,0
+"paleo: 1 cranium frag.",,0,0
 "paleo: 1 cranium frag. | tissue",,0,0
+"paleo: 1 cuneiform",,0,0
 "paleo: 1 cuneiform | tissue",,0,0
+"paleo: 1 egg-shell fragment",,0,0
 "paleo: 1 egg-shell fragment | tissue",,0,0
+"paleo: 1 feather",,0,0
 "paleo: 1 feather | tissue",,0,0
+"paleo: 1 femur",,0,0
 "paleo: 1 femur | tissue",,0,0
 "paleo: 1 femur frag",,0,0
+"paleo: 1 femur frag.",,0,0
 "paleo: 1 femur frag. | tissue",,0,0
+"paleo: 1 fibula frag.",,0,0
 "paleo: 1 fibula frag. | tissue",,0,0
+"paleo: 1 frontal frag.",,0,0
 "paleo: 1 frontal frag. | tissue",,0,0
+"paleo: 1 furcula frag.",,0,0
 "paleo: 1 furcula frag. | tissue",,0,0
 "paleo: 1 humerus",,0,0
 "paleo: 1 humerus | tissue",,0,0
 "paleo: 1 humerus frag",,0,0
+"paleo: 1 humerus frag only",,0,0
 "paleo: 1 humerus frag only | tissue",,0,0
+"paleo: 1 humerus frag.",,0,0
 "paleo: 1 humerus frag. | tissue",,0,0
 "paleo: 1 innominate frag",,0,0
+"paleo: 1 innominate frag.",,0,0
 "paleo: 1 innominate frag. | tissue",,0,0
+"paleo: 1 Lot of 1400+/- Misc. Bones",,0,0
 "paleo: 1 Lot of 1400+/- Misc. Bones | tissue",,0,0
+"paleo: 1 lot of 2 unidentified fragments",,0,0
 "paleo: 1 lot of 2 unidentified fragments | tissue",,0,0
+"paleo: 1 Lot of 20+/- Assorted Bones",,0,0
 "paleo: 1 Lot of 20+/- Assorted Bones | tissue",,0,0
+"paleo: 1 lot of 31 unidentified fragments",,0,0
 "paleo: 1 lot of 31 unidentified fragments | tissue",,0,0
+"paleo: 1 lot of 550+/- Misc. Bones",,0,0
 "paleo: 1 lot of 550+/- Misc. Bones | tissue",,0,0
+"paleo: 1 lot of 7 unidentified fragments",,0,0
 "paleo: 1 lot of 7 unidentified fragments | tissue",,0,0
+"paleo: 1 lot of unidentified fragments",,0,0
 "paleo: 1 lot of unidentified fragments | tissue",,0,0
+"paleo: 1 mandible",,0,0
 "paleo: 1 mandible | tissue",,0,0
+"paleo: 1 mandible frag.",,0,0
 "paleo: 1 mandible frag. | tissue",,0,0
+"paleo: 1 manual phalanx",,0,0
+"paleo: 1 manual phalanx ?",,0,0
 "paleo: 1 manual phalanx ? | tissue",,0,0
 "paleo: 1 manual phalanx | tissue",,0,0
+"paleo: 1 manual phalanx frag.",,0,0
 "paleo: 1 manual phalanx frag. | tissue",,0,0
+"paleo: 1 maxilla",,0,0
 "paleo: 1 maxilla | tissue",,0,0
+"paleo: 1 maxilla frag.",,0,0
+"paleo: 1 maxilla frag. ?",,0,0
 "paleo: 1 maxilla frag. ? | tissue",,0,0
 "paleo: 1 maxilla frag. | tissue",,0,0
 "paleo: 1 metacarpal frag",,0,0
 "paleo: 1 metatarsal",,0,0
+"paleo: 1 metatarsal ?",,0,0
 "paleo: 1 metatarsal ? | tissue",,0,0
 "paleo: 1 metatarsal | tissue",,0,0
+"paleo: 1 metatarsal I",,0,0
 "paleo: 1 metatarsal I | tissue",,0,0
+"paleo: 1 palatine",,0,0
 "paleo: 1 palatine | tissue",,0,0
+"paleo: 1 pedal phalanx",,0,0
 "paleo: 1 pedal phalanx | tissue",,0,0
+"paleo: 1 pedal phalanx frag.",,0,0
 "paleo: 1 pedal phalanx frag. | tissue",,0,0
+"paleo: 1 premaxillary frag.",,0,0
 "paleo: 1 premaxillary frag. | tissue",,0,0
+"paleo: 1 pterygoid",,0,0
 "paleo: 1 pterygoid | tissue",,0,0
+"paleo: 1 pterygoid frag.",,0,0
 "paleo: 1 pterygoid frag. | tissue",,0,0
+"paleo: 1 quadrate",,0,0
 "paleo: 1 quadrate | tissue",,0,0
+"paleo: 1 quadrate frag.",,0,0
 "paleo: 1 quadrate frag. | tissue",,0,0
+"paleo: 1 radius",,0,0
 "paleo: 1 radius | tissue",,0,0
+"paleo: 1 radius frag.",,0,0
 "paleo: 1 radius frag. | tissue",,0,0
+"paleo: 1 rib frag.",,0,0
 "paleo: 1 rib frag. | tissue",,0,0
+"paleo: 1 rib? frag.",,0,0
 "paleo: 1 rib? frag. | tissue",,0,0
+"paleo: 1 rostrum frag.",,0,0
 "paleo: 1 rostrum frag. | tissue",,0,0
+"paleo: 1 scapholunar",,0,0
 "paleo: 1 scapholunar | tissue",,0,0
+"paleo: 1 scapula",,0,0
 "paleo: 1 scapula | tissue",,0,0
 "paleo: 1 scapula frag",,0,0
+"paleo: 1 scapula frag.",,0,0
 "paleo: 1 scapula frag. | tissue",,0,0
+"paleo: 1 sternum frag.",,0,0
 "paleo: 1 sternum frag. | tissue",,0,0
+"paleo: 1 supraorbital process",,0,0
 "paleo: 1 supraorbital process | tissue",,0,0
+"paleo: 1 synsacrum",,0,0
 "paleo: 1 synsacrum | tissue",,0,0
+"paleo: 1 synsacrum frag.",,0,0
 "paleo: 1 synsacrum frag. | tissue",,0,0
+"paleo: 1 tarometatarsus only",,0,0
 "paleo: 1 tarometatarsus only | tissue",,0,0
+"paleo: 1 tarsometatarsus",,0,0
+"paleo: 1 tarsometatarsus (2 pieces)",,0,0
 "paleo: 1 tarsometatarsus (2 pieces) | tissue",,0,0
 "paleo: 1 tarsometatarsus | tissue",,0,0
+"paleo: 1 tarsometatarsus frag.",,0,0
 "paleo: 1 tarsometatarsus frag. | tissue",,0,0
+"paleo: 1 tarsometatarsus fragment",,0,0
 "paleo: 1 tarsometatarsus fragment | tissue",,0,0
 "paleo: 1 tibia ? Frag",,0,0
+"paleo: 1 tibiotarsus",,0,0
 "paleo: 1 tibiotarsus | tissue",,0,0
+"paleo: 1 tibiotarsus frag.",,0,0
 "paleo: 1 tibiotarsus frag. | tissue",,0,0
+"paleo: 1 tibiotarsus? frag.",,0,0
 "paleo: 1 tibiotarsus? frag. | tissue",,0,0
+"paleo: 1 trachael ring",,0,0
 "paleo: 1 trachael ring | tissue",,0,0
+"paleo: 1 tracheal ring",,0,0
 "paleo: 1 tracheal ring | tissue",,0,0
+"paleo: 1 ulna",,0,0
 "paleo: 1 ulna | tissue",,0,0
+"paleo: 1 ulna frag.",,0,0
 "paleo: 1 ulna frag. | tissue",,0,0
 "paleo: 1 ulnoradius",,0,0
 "paleo: 1 ulnoradius frag",,0,0
+"paleo: 1 ungual phalanx",,0,0
 "paleo: 1 ungual phalanx | tissue",,0,0
+"paleo: 1 vertebra",,0,0
 "paleo: 1 vertebra | tissue",,0,0
+"paleo: 1 vertebra frag.",,0,0
 "paleo: 1 vertebra frag. | tissue",,0,0
 "paleo: 1 vertebra only",,0,0
+"paleo: 1 vertebra*",,0,0
 "paleo: 1 vertebra* | tissue",,0,0
+"paleo: 10 bone fragments",,0,0
 "paleo: 10 bone fragments | tissue",,0,0
+"paleo: 10 egg fragments",,0,0
 "paleo: 10 egg fragments | tissue",,0,0
+"paleo: 10 pedal phalanges",,0,0
 "paleo: 10 pedal phalanges | tissue",,0,0
+"paleo: 106 pedal phalanges",,0,0
 "paleo: 106 pedal phalanges | tissue",,0,0
+"paleo: 11 bone fragments",,0,0
 "paleo: 11 bone fragments | tissue",,0,0
+"paleo: 11 bone frags.",,0,0
 "paleo: 11 bone frags. | tissue",,0,0
+"paleo: 115 bone fragments",,0,0
 "paleo: 115 bone fragments | tissue",,0,0
+"paleo: 115+/- ribs",,0,0
 "paleo: 115+/- ribs | tissue",,0,0
+"paleo: 12 bone frags.",,0,0
 "paleo: 12 bone frags. | tissue",,0,0
+"paleo: 12 rib fragments",,0,0
 "paleo: 12 rib fragments | tissue",,0,0
+"paleo: 121 bone fragments",,0,0
 "paleo: 121 bone fragments | tissue",,0,0
+"paleo: 13 bone fragments",,0,0
 "paleo: 13 bone fragments | tissue",,0,0
+"paleo: 13 bone frags.",,0,0
 "paleo: 13 bone frags. | tissue",,0,0
+"paleo: 13 rib fragments",,0,0
 "paleo: 13 rib fragments | tissue",,0,0
+"paleo: 13 tracheal rings",,0,0
 "paleo: 13 tracheal rings | tissue",,0,0
+"paleo: 13 vertebrae",,0,0
 "paleo: 13 vertebrae | tissue",,0,0
+"paleo: 13+/- bone fragments",,0,0
 "paleo: 13+/- bone fragments | tissue",,0,0
+"paleo: 14 bone fragments",,0,0
 "paleo: 14 bone fragments | tissue",,0,0
+"paleo: 14 vertebra",,0,0
 "paleo: 14 vertebra | tissue",,0,0
+"paleo: 14 vertebra fragments",,0,0
 "paleo: 14 vertebra fragments | tissue",,0,0
+"paleo: 15 bone fragments",,0,0
 "paleo: 15 bone fragments | tissue",,0,0
+"paleo: 15 bone frags.",,0,0
 "paleo: 15 bone frags. | tissue",,0,0
+"paleo: 157 bone fragments",,0,0
 "paleo: 157 bone fragments | tissue",,0,0
+"paleo: 16 bone fragments",,0,0
 "paleo: 16 bone fragments | tissue",,0,0
+"paleo: 16 bone frags.",,0,0
 "paleo: 16 bone frags. | tissue",,0,0
+"paleo: 16 rib fragments",,0,0
 "paleo: 16 rib fragments | tissue",,0,0
+"paleo: 164 bone fragments",,0,0
 "paleo: 164 bone fragments | tissue",,0,0
+"paleo: 174 vertebrae",,0,0
 "paleo: 174 vertebrae | tissue",,0,0
+"paleo: 18 bone frags.",,0,0
 "paleo: 18 bone frags. | tissue",,0,0
+"paleo: 19 +/- bone fragments",,0,0
 "paleo: 19 +/- bone fragments | tissue",,0,0
+"paleo: 19 bone fragments",,0,0
 "paleo: 19 bone fragments | tissue",,0,0
+"paleo: 19 bone frags.",,0,0
 "paleo: 19 bone frags. | tissue",,0,0
+"paleo: 19 pedal phalanges",,0,0
 "paleo: 19 pedal phalanges | tissue",,0,0
+"paleo: 191 bone fragments",,0,0
 "paleo: 191 bone fragments | tissue",,0,0
 "paleo: 1ulnoradius frag",,0,0
+"paleo: 2 bone fragments",,0,0
 "paleo: 2 bone fragments | tissue",,0,0
+"paleo: 2 bone frags.",,0,0
 "paleo: 2 bone frags. | tissue",,0,0
+"paleo: 2 carpometacarpus",,0,0
 "paleo: 2 carpometacarpus | tissue",,0,0
+"paleo: 2 carpometacarpus fragments",,0,0
 "paleo: 2 carpometacarpus fragments | tissue",,0,0
+"paleo: 2 coracoid fragments",,0,0
 "paleo: 2 coracoid fragments | tissue",,0,0
+"paleo: 2 feathers",,0,0
 "paleo: 2 feathers | tissue",,0,0
+"paleo: 2 humerus fragments",,0,0
 "paleo: 2 humerus fragments | tissue",,0,0
+"paleo: 2 inominate fragments",,0,0
 "paleo: 2 inominate fragments | tissue",,0,0
+"paleo: 2 mandible fragments",,0,0
 "paleo: 2 mandible fragments | tissue",,0,0
+"paleo: 2 manual phalanges",,0,0
 "paleo: 2 manual phalanges | tissue",,0,0
+"paleo: 2 pedal phalanges",,0,0
 "paleo: 2 pedal phalanges | tissue",,0,0
+"paleo: 2 quadrates",,0,0
 "paleo: 2 quadrates | tissue",,0,0
+"paleo: 2 rib fragments in matrix",,0,0
 "paleo: 2 rib fragments in matrix | tissue",,0,0
+"paleo: 2 rib frags.",,0,0
 "paleo: 2 rib frags. | tissue",,0,0
+"paleo: 2 tarsometatarsus fragments",,0,0
 "paleo: 2 tarsometatarsus fragments | tissue",,0,0
+"paleo: 2 ulna fragments",,0,0
 "paleo: 2 ulna fragments | tissue",,0,0
+"paleo: 2 ungual phalanges",,0,0
 "paleo: 2 ungual phalanges | tissue",,0,0
+"paleo: 2 vertebrae",,0,0
 "paleo: 2 vertebrae | tissue",,0,0
+"paleo: 2 vertebrae frags.",,0,0
 "paleo: 2 vertebrae frags. | tissue",,0,0
+"paleo: 20 bone fragments",,0,0
 "paleo: 20 bone fragments | tissue",,0,0
+"paleo: 20+/- tracheal rings",,0,0
 "paleo: 20+/- tracheal rings | tissue",,0,0
+"paleo: 21 bone fragments",,0,0
 "paleo: 21 bone fragments | tissue",,0,0
+"paleo: 22 feathers",,0,0
 "paleo: 22 feathers | tissue",,0,0
+"paleo: 23 +/- bone fragments",,0,0
 "paleo: 23 +/- bone fragments | tissue",,0,0
+"paleo: 24 bone fragments",,0,0
 "paleo: 24 bone fragments | tissue",,0,0
+"paleo: 25 bone fragments",,0,0
 "paleo: 25 bone fragments | tissue",,0,0
+"paleo: 25 rib fragments",,0,0
 "paleo: 25 rib fragments | tissue",,0,0
+"paleo: 26 bone fragments",,0,0
 "paleo: 26 bone fragments | tissue",,0,0
+"paleo: 29 bone fragments",,0,0
 "paleo: 29 bone fragments | tissue",,0,0
+"paleo: 3 associated bones",,0,0
 "paleo: 3 associated bones | tissue",,0,0
+"paleo: 3 bone fragments",,0,0
 "paleo: 3 bone fragments | tissue",,0,0
+"paleo: 3 carpmetacarpus, 2 whole, 1 fragment",,0,0
 "paleo: 3 carpmetacarpus, 2 whole, 1 fragment | tissue",,0,0
+"paleo: 3 coracoid, 1 whole, 2 fragments",,0,0
 "paleo: 3 coracoid, 1 whole, 2 fragments | tissue",,0,0
+"paleo: 3 coracoids",,0,0
 "paleo: 3 coracoids | tissue",,0,0
+"paleo: 3 feathers",,0,0
 "paleo: 3 feathers | tissue",,0,0
+"paleo: 3 femur fragments",,0,0
 "paleo: 3 femur fragments | tissue",,0,0
+"paleo: 3 humerus fragments",,0,0
 "paleo: 3 humerus fragments | tissue",,0,0
 "paleo: 3 or more mixed skels",,0,0
+"paleo: 3 pedal phalanges",,0,0
 "paleo: 3 pedal phalanges | tissue",,0,0
+"paleo: 3 quadrates",,0,0
 "paleo: 3 quadrates | tissue",,0,0
+"paleo: 3 rib fragments",,0,0
 "paleo: 3 rib fragments | tissue",,0,0
+"paleo: 3 tarsometatarsus fragments",,0,0
 "paleo: 3 tarsometatarsus fragments | tissue",,0,0
+"paleo: 3 tibiotarsus fragments",,0,0
 "paleo: 3 tibiotarsus fragments | tissue",,0,0
+"paleo: 3 ungual phalanges",,0,0
 "paleo: 3 ungual phalanges | tissue",,0,0
+"paleo: 3 vertebrae",,0,0
 "paleo: 3 vertebrae | tissue",,0,0
+"paleo: 3+ bone fragments in matrix",,0,0
 "paleo: 3+ bone fragments in matrix | tissue",,0,0
+"paleo: 30 +/- bone fragments",,0,0
 "paleo: 30 +/- bone fragments | tissue",,0,0
+"paleo: 30 trachael rings",,0,0
 "paleo: 30 trachael rings | tissue",,0,0
+"paleo: 31 bone fragments",,0,0
 "paleo: 31 bone fragments | tissue",,0,0
+"paleo: 31 manual phalanges",,0,0
 "paleo: 31 manual phalanges | tissue",,0,0
+"paleo: 35 bone fragments",,0,0
 "paleo: 35 bone fragments | tissue",,0,0
+"paleo: 4 bone fragments",,0,0
 "paleo: 4 bone fragments | tissue",,0,0
+"paleo: 4 bone frags.",,0,0
 "paleo: 4 bone frags. | tissue",,0,0
+"paleo: 4 carpometacarpus, 1 whole, 3 fragments",,0,0
 "paleo: 4 carpometacarpus, 1 whole, 3 fragments | tissue",,0,0
+"paleo: 4 cranial fragments",,0,0
 "paleo: 4 cranial fragments | tissue",,0,0
+"paleo: 4 feathers",,0,0
 "paleo: 4 feathers | tissue",,0,0
+"paleo: 4 femur fragments",,0,0
 "paleo: 4 femur fragments | tissue",,0,0
+"paleo: 4 humerus fragments",,0,0
 "paleo: 4 humerus fragments | tissue",,0,0
+"paleo: 4 inominate fragments",,0,0
 "paleo: 4 inominate fragments | tissue",,0,0
+"paleo: 4 pedal phalanges",,0,0
 "paleo: 4 pedal phalanges | tissue",,0,0
+"paleo: 4 rib fragments",,0,0
 "paleo: 4 rib fragments | tissue",,0,0
+"paleo: 4 tarsometatarsus fragments",,0,0
 "paleo: 4 tarsometatarsus fragments | tissue",,0,0
+"paleo: 4 vertebrae",,0,0
 "paleo: 4 vertebrae | tissue",,0,0
+"paleo: 45 miscellanous bones",,0,0
 "paleo: 45 miscellanous bones | tissue",,0,0
+"paleo: 46 bone fragments",,0,0
 "paleo: 46 bone fragments | tissue",,0,0
+"paleo: 48 bone fragments",,0,0
 "paleo: 48 bone fragments | tissue",,0,0
+"paleo: 5 bone fragments",,0,0
 "paleo: 5 bone fragments | tissue",,0,0
+"paleo: 5 egg shell fragments",,0,0
 "paleo: 5 egg shell fragments | tissue",,0,0
+"paleo: 5 furcula fragments",,0,0
 "paleo: 5 furcula fragments | tissue",,0,0
+"paleo: 5 limb bones",,0,0
 "paleo: 5 limb bones | tissue",,0,0
 "paleo: 5 or more mixed skels",,0,0
+"paleo: 5 pedal phalanges",,0,0
 "paleo: 5 pedal phalanges | tissue",,0,0
+"paleo: 5 pedal phalanges in matrix",,0,0
 "paleo: 5 pedal phalanges in matrix | tissue",,0,0
+"paleo: 5 Phalanges in same block of matrix",,0,0
 "paleo: 5 Phalanges in same block of matrix | tissue",,0,0
+"paleo: 5 ulna fragments",,0,0
 "paleo: 5 ulna fragments | tissue",,0,0
+"paleo: 5 vertebrae",,0,0
 "paleo: 5 vertebrae | tissue",,0,0
+"paleo: 50 bone fragments",,0,0
 "paleo: 50 bone fragments | tissue",,0,0
+"paleo: 56 bone fragments",,0,0
 "paleo: 56 bone fragments | tissue",,0,0
+"paleo: 59 bone fragments",,0,0
 "paleo: 59 bone fragments | tissue",,0,0
+"paleo: 6 bone fragments",,0,0
 "paleo: 6 bone fragments | tissue",,0,0
+"paleo: 6 bone frags.",,0,0
 "paleo: 6 bone frags. | tissue",,0,0
+"paleo: 6 feathers",,0,0
 "paleo: 6 feathers | tissue",,0,0
+"paleo: 6 scleric ossicles",,0,0
 "paleo: 6 scleric ossicles | tissue",,0,0
+"paleo: 6 tracheal rings",,0,0
 "paleo: 6 tracheal rings | tissue",,0,0
+"paleo: 6 vertebrae",,0,0
 "paleo: 6 vertebrae | tissue",,0,0
+"paleo: 62 bone fragments",,0,0
 "paleo: 62 bone fragments | tissue",,0,0
+"paleo: 7 bone fragments",,0,0
 "paleo: 7 bone fragments | tissue",,0,0
+"paleo: 7 pedal phalanges",,0,0
 "paleo: 7 pedal phalanges | tissue",,0,0
+"paleo: 7 rib fragments",,0,0
 "paleo: 7 rib fragments | tissue",,0,0
+"paleo: 7 tibiotarsus fragments",,0,0
 "paleo: 7 tibiotarsus fragments | tissue",,0,0
+"paleo: 8 bone fragments",,0,0
 "paleo: 8 bone fragments | tissue",,0,0
+"paleo: 8 bone frags.",,0,0
 "paleo: 8 bone frags. | tissue",,0,0
+"paleo: 8 tibiotarsus fragments",,0,0
 "paleo: 8 tibiotarsus fragments | tissue",,0,0
+"paleo: 8 tracheal rings",,0,0
 "paleo: 8 tracheal rings | tissue",,0,0
+"paleo: 8 vertebra fragments",,0,0
 "paleo: 8 vertebra fragments | tissue",,0,0
+"paleo: 83 bone fragments",,0,0
 "paleo: 83 bone fragments | tissue",,0,0
+"paleo: 9 associated bones",,0,0
 "paleo: 9 associated bones | tissue",,0,0
+"paleo: 9 bone fragments",,0,0
 "paleo: 9 bone fragments | tissue",,0,0
+"paleo: 9 pedal phalanges",,0,0
 "paleo: 9 pedal phalanges | tissue",,0,0
+"paleo: 9 rib fragments",,0,0
 "paleo: 9 rib fragments | tissue",,0,0
+"paleo: 90+/- miscellaneous bones",,0,0
 "paleo: 90+/- miscellaneous bones | tissue",,0,0
+"paleo: 96 bone fragments",,0,0
 "paleo: 96 bone fragments | tissue",,0,0
+"paleo: alular phalanx",,0,0
 "paleo: alular phalanx | tissue",,0,0
+"paleo: aragonite rubble cluster with bones",,0,0
 "paleo: aragonite rubble cluster with bones | tissue",,0,0
+"paleo: atlas-axis",,0,0
 "paleo: atlas-axis | tissue",,0,0
+"paleo: axis",,0,0
 "paleo: axis | tissue",,0,0
+"paleo: axis vertebra",,0,0
 "paleo: axis vertebra | tissue",,0,0
+"paleo: basihyale",,0,0
 "paleo: basihyale | tissue",,0,0
+"paleo: bone frag",,0,0
 "paleo: bone frag | tissue",,0,0
 "paleo: bone fragment",,0,0
 "paleo: bone fragment | tissue",,0,0
+"paleo: bone fragments",,0,0
 "paleo: bone fragments | tissue",,0,0
+"paleo: bones in matrix",,0,0
 "paleo: bones in matrix | tissue",,0,0
 "paleo: calcanium",,0,0
+"paleo: carpometacarpus",,0,0
+"paleo: carpometacarpus (?) fragment",,0,0
 "paleo: carpometacarpus (?) fragment | tissue",,0,0
 "paleo: carpometacarpus | tissue",,0,0
+"paleo: carpometacarpus fragment",,0,0
 "paleo: carpometacarpus fragment | tissue",,0,0
+"paleo: carpometacarpus, ulnar carpal, radial carpal",,0,0
 "paleo: carpometacarpus, ulnar carpal, radial carpal | tissue",,0,0
 "paleo: caudal vertebra",,0,0
+"paleo: cervical 3",,0,0
+"paleo: cervical 3  fragment",,0,0
 "paleo: cervical 3  fragment | tissue",,0,0
 "paleo: cervical 3 | tissue",,0,0
+"paleo: cervical 5 fragment",,0,0
 "paleo: cervical 5 fragment | tissue",,0,0
+"paleo: cervical 6",,0,0
 "paleo: cervical 6 | tissue",,0,0
+"paleo: complete skel",,0,0
 "paleo: complete skel | tissue",,0,0
+"paleo: coracoid",,0,0
+"paleo: coracoid (?) fragment",,0,0
 "paleo: coracoid (?) fragment | tissue",,0,0
 "paleo: coracoid | tissue",,0,0
+"paleo: coracoid fragment",,0,0
 "paleo: coracoid fragment | tissue",,0,0
+"paleo: coracoid? Fragment",,0,0
 "paleo: coracoid? Fragment | tissue",,0,0
+"paleo: corocoid",,0,0
 "paleo: corocoid | tissue",,0,0
+"paleo: corocoid fragment",,0,0
 "paleo: corocoid fragment | tissue",,0,0
 "paleo: costal cartillage",,0,0
+"paleo: cranial? Fragment",,0,0
 "paleo: cranial? Fragment | tissue",,0,0
+"paleo: cranium",,0,0
+"paleo: cranium (?) fragment",,0,0
 "paleo: cranium (?) fragment | tissue",,0,0
+"paleo: cranium ? Fragment",,0,0
 "paleo: cranium ? Fragment | tissue",,0,0
 "paleo: cranium | tissue",,0,0
 "paleo: cranium fragment",,0,0
 "paleo: cranium fragment | tissue",,0,0
+"paleo: cranium fragment + 2 loose pieces of matrix",,0,0
 "paleo: cranium fragment + 2 loose pieces of matrix | tissue",,0,0
+"paleo: cranium fragment and mandible",,0,0
 "paleo: cranium fragment and mandible | tissue",,0,0
+"paleo: cranium frags. + 2 vertebrae",,0,0
 "paleo: cranium frags. + 2 vertebrae | tissue",,0,0
+"paleo: cranium? Fragment",,0,0
 "paleo: cranium? Fragment | tissue",,0,0
+"paleo: cuneiform",,0,0
 "paleo: cuneiform | tissue",,0,0
+"paleo: cuneiform fragment",,0,0
 "paleo: cuneiform fragment | tissue",,0,0
 "paleo: dentary",,0,0
+"paleo: distal phalanx major digit",,0,0
 "paleo: distal phalanx major digit | tissue",,0,0
+"paleo: egg shell fragment",,0,0
 "paleo: egg shell fragment | tissue",,0,0
+"paleo: eggshell fragments",,0,0
 "paleo: eggshell fragments | tissue",,0,0
+"paleo: feather fragment",,0,0
 "paleo: feather fragment | tissue",,0,0
 "paleo: femur",,0,0
+"paleo: femur (?) fragment",,0,0
 "paleo: femur (?) fragment | tissue",,0,0
 "paleo: femur | tissue",,0,0
 "paleo: femur frag",,0,0
 "paleo: femur fragment",,0,0
 "paleo: femur fragment | tissue",,0,0
+"paleo: femur, tibiotarsus and fibula fragments in matrix",,0,0
 "paleo: femur, tibiotarsus and fibula fragments in matrix | tissue",,0,0
+"paleo: femur?",,0,0
 "paleo: femur? | tissue",,0,0
+"paleo: femur? fragment",,0,0
 "paleo: femur? fragment | tissue",,0,0
+"paleo: fibula",,0,0
+"paleo: fibula (?) fragment",,0,0
 "paleo: fibula (?) fragment | tissue",,0,0
+"paleo: fibula ? fragment",,0,0
 "paleo: fibula ? fragment | tissue",,0,0
 "paleo: fibula | tissue",,0,0
 "paleo: fibula fragment",,0,0
 "paleo: fibula fragment | tissue",,0,0
+"paleo: furcula",,0,0
+"paleo: furcula (?) fragment",,0,0
 "paleo: furcula (?) fragment | tissue",,0,0
 "paleo: furcula | tissue",,0,0
+"paleo: furcula fragment",,0,0
 "paleo: furcula fragment | tissue",,0,0
+"paleo: furcula? Fragment",,0,0
 "paleo: furcula? Fragment | tissue",,0,0
+"paleo: glottis",,0,0
 "paleo: glottis | tissue",,0,0
 "paleo: humerus",,0,0
+"paleo: humerus (?) fragment",,0,0
 "paleo: humerus (?) fragment | tissue",,0,0
 "paleo: humerus | tissue",,0,0
+"paleo: humerus and ulna",,0,0
 "paleo: humerus and ulna | tissue",,0,0
 "paleo: humerus frag",,0,0
 "paleo: humerus fragment",,0,0
+"paleo: humerus fragment , in 8+/- pieces",,0,0
 "paleo: humerus fragment , in 8+/- pieces | tissue",,0,0
 "paleo: humerus fragment | tissue",,0,0
+"paleo: humerus, radius and ulna fragments in matrix",,0,0
 "paleo: humerus, radius and ulna fragments in matrix | tissue",,0,0
+"paleo: humerus? fragment",,0,0
 "paleo: humerus? fragment | tissue",,0,0
+"paleo: hyoid",,0,0
+"paleo: hyoid (?) fragment",,0,0
 "paleo: hyoid (?) fragment | tissue",,0,0
 "paleo: hyoid | tissue",,0,0
 "paleo: innominate",,0,0
+"paleo: innominate (?) fragment",,0,0
 "paleo: innominate (?) fragment | tissue",,0,0
 "paleo: innominate | tissue",,0,0
 "paleo: innominate fragment",,0,0
 "paleo: innominate fragment | tissue",,0,0
+"paleo: inominate fragment",,0,0
 "paleo: inominate fragment | tissue",,0,0
+"paleo: jugal",,0,0
 "paleo: jugal | tissue",,0,0
+"paleo: jugal fragment",,0,0
 "paleo: jugal fragment | tissue",,0,0
+"paleo: lg. fragment in matrix",,0,0
 "paleo: lg. fragment in matrix | tissue",,0,0
+"paleo: lower mandible (?) fragment",,0,0
 "paleo: lower mandible (?) fragment | tissue",,0,0
+"paleo: lower mandible fragment",,0,0
 "paleo: lower mandible fragment | tissue",,0,0
 "paleo: lunate",,0,0
+"paleo: mand",,0,0
 "paleo: mand | tissue",,0,0
+"paleo: mandible",,0,0
+"paleo: mandible & tibiotarsus",,0,0
 "paleo: mandible & tibiotarsus | tissue",,0,0
+"paleo: mandible (?) fragment",,0,0
 "paleo: mandible (?) fragment | tissue",,0,0
 "paleo: mandible | tissue",,0,0
 "paleo: mandible frag",,0,0
 "paleo: mandible fragment",,0,0
 "paleo: mandible fragment | tissue",,0,0
 "paleo: mandible half",,0,0
+"paleo: manual phalanx",,0,0
+"paleo: manual phalanx (?)",,0,0
 "paleo: manual phalanx (?) | tissue",,0,0
+"paleo: manual phalanx (?) fragment",,0,0
 "paleo: manual phalanx (?) fragment | tissue",,0,0
 "paleo: manual phalanx | tissue",,0,0
+"paleo: manual phalanx 1, digit 2",,0,0
 "paleo: manual phalanx 1, digit 2 | tissue",,0,0
+"paleo: manual phalanx 1, digit 2 fragment",,0,0
 "paleo: manual phalanx 1, digit 2 fragment | tissue",,0,0
+"paleo: manual phalanx 2, digit 2",,0,0
 "paleo: manual phalanx 2, digit 2 | tissue",,0,0
+"paleo: manual phalanx fragment",,0,0
 "paleo: manual phalanx fragment | tissue",,0,0
+"paleo: manual phalanx, pollex",,0,0
 "paleo: manual phalanx, pollex | tissue",,0,0
+"paleo: manual? phalanx fragment",,0,0
 "paleo: manual? phalanx fragment | tissue",,0,0
+"paleo: maxilla",,0,0
 "paleo: maxilla | tissue",,0,0
+"paleo: maxilla frag",,0,0
 "paleo: maxilla frag | tissue",,0,0
+"paleo: maxilla fragment",,0,0
 "paleo: maxilla fragment | tissue",,0,0
 "paleo: metacarpal",,0,0
 "paleo: metacarpal frag",,0,0
 "paleo: metapodial",,0,0
+"paleo: metatarsal I",,0,0
 "paleo: metatarsal I | tissue",,0,0
+"paleo: metatarsus I",,0,0
 "paleo: metatarsus I | tissue",,0,0
 "paleo: molar",,0,0
 "paleo: naviculocuboid",,0,0
+"paleo: palatine",,0,0
 "paleo: palatine | tissue",,0,0
+"paleo: palatine fragment",,0,0
 "paleo: palatine fragment | tissue",,0,0
+"paleo: palatine?",,0,0
 "paleo: palatine? | tissue",,0,0
+"paleo: park skel (cranium only)",,0,0
 "paleo: park skel (cranium only) | tissue",,0,0
+"paleo: part cranium",,0,0
 "paleo: part cranium | tissue",,0,0
 "paleo: part skel",,0,0
 "paleo: part skel | tissue",,0,0
+"paleo: part skeleton",,0,0
+"paleo: part skeleton (5 bones)",,0,0
 "paleo: part skeleton (5 bones) | tissue",,0,0
 "paleo: part skeleton | tissue",,0,0
+"paleo: part skeletons of 2 individuals",,0,0
 "paleo: part skeletons of 2 individuals | tissue",,0,0
+"paleo: part? Skel",,0,0
 "paleo: part? Skel | tissue",,0,0
+"paleo: partial cranium and mandible",,0,0
 "paleo: partial cranium and mandible | tissue",,0,0
 "paleo: partial manus",,0,0
+"paleo: partial skeleton",,0,0
 "paleo: partial skeleton | tissue",,0,0
+"paleo: pedal (?) phalanx",,0,0
 "paleo: pedal (?) phalanx | tissue",,0,0
+"paleo: pedal phalanx",,0,0
+"paleo: pedal phalanx (?)",,0,0
 "paleo: pedal phalanx (?) | tissue",,0,0
+"paleo: pedal phalanx (?) fragment",,0,0
 "paleo: pedal phalanx (?) fragment | tissue",,0,0
 "paleo: pedal phalanx | tissue",,0,0
+"paleo: pedal phalanx fragment",,0,0
 "paleo: pedal phalanx fragment | tissue",,0,0
+"paleo: pedalphalanx",,0,0
 "paleo: pedalphalanx | tissue",,0,0
+"paleo: pelvis",,0,0
 "paleo: pelvis | tissue",,0,0
+"paleo: pelvis fragment",,0,0
 "paleo: pelvis fragment | tissue",,0,0
+"paleo: pelvis fragments",,0,0
 "paleo: pelvis fragments | tissue",,0,0
+"paleo: pelvis only",,0,0
 "paleo: pelvis only | tissue",,0,0
 "paleo: phalanx",,0,0
+"paleo: phalanx (?) fragment",,0,0
 "paleo: phalanx (?) fragment | tissue",,0,0
 "paleo: phalanx | tissue",,0,0
+"paleo: phalanx fragment",,0,0
 "paleo: phalanx fragment | tissue",,0,0
+"paleo: phalanx minor digit",,0,0
 "paleo: phalanx minor digit | tissue",,0,0
+"paleo: piece of matrix with bone fragments",,0,0
 "paleo: piece of matrix with bone fragments | tissue",,0,0
+"paleo: proximal phalanx major digit",,0,0
 "paleo: proximal phalanx major digit | tissue",,0,0
+"paleo: pterygoid",,0,0
+"paleo: pterygoid ?",,0,0
 "paleo: pterygoid ? | tissue",,0,0
+"paleo: pterygoid ? Fragment",,0,0
 "paleo: pterygoid ? Fragment | tissue",,0,0
 "paleo: pterygoid | tissue",,0,0
+"paleo: pterygoid fragment",,0,0
 "paleo: pterygoid fragment | tissue",,0,0
+"paleo: pterygoid?",,0,0
 "paleo: pterygoid? | tissue",,0,0
+"paleo: pygostyle",,0,0
+"paleo: pygostyle (?) fragment",,0,0
 "paleo: pygostyle (?) fragment | tissue",,0,0
 "paleo: pygostyle | tissue",,0,0
+"paleo: pygostyle fragment",,0,0
 "paleo: pygostyle fragment | tissue",,0,0
+"paleo: quadrate",,0,0
 "paleo: quadrate | tissue",,0,0
+"paleo: quadrate fragment",,0,0
 "paleo: quadrate fragment | tissue",,0,0
 "paleo: radius",,0,0
 "paleo: radius (?) fragment",,0,0
@@ -27421,69 +27966,122 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: radius | tissue",,0,0
 "paleo: radius fragment",,0,0
 "paleo: radius fragment | tissue",,0,0
+"paleo: radius-ulna fragment",,0,0
 "paleo: radius-ulna fragment | tissue",,0,0
 "paleo: rib",,0,0
+"paleo: rib (?)",,0,0
 "paleo: rib (?) | tissue",,0,0
+"paleo: rib (?) fragment",,0,0
 "paleo: rib (?) fragment | tissue",,0,0
 "paleo: rib | tissue",,0,0
+"paleo: rib fragment",,0,0
 "paleo: rib fragment | tissue",,0,0
+"paleo: rib? Fragment",,0,0
 "paleo: rib? Fragment | tissue",,0,0
+"paleo: rostrum fragment",,0,0
 "paleo: rostrum fragment | tissue",,0,0
+"paleo: rostum",,0,0
 "paleo: rostum | tissue",,0,0
 "paleo: sacrum",,0,0
+"paleo: scapholunar",,0,0
 "paleo: scapholunar | tissue",,0,0
+"paleo: scapula",,0,0
+"paleo: scapula (?) fragment",,0,0
 "paleo: scapula (?) fragment | tissue",,0,0
 "paleo: scapula | tissue",,0,0
 "paleo: scapula frag",,0,0
+"paleo: scapula fragment",,0,0
 "paleo: scapula fragment | tissue",,0,0
+"paleo: scapula fragments",,0,0
 "paleo: scapula fragments | tissue",,0,0
+"paleo: scapula? Fragment",,0,0
 "paleo: scapula? Fragment | tissue",,0,0
+"paleo: skull, maxilla",,0,0
 "paleo: skull, maxilla | tissue",,0,0
+"paleo: sternum",,0,0
+"paleo: sternum (?) fragment",,0,0
 "paleo: sternum (?) fragment | tissue",,0,0
 "paleo: sternum | tissue",,0,0
+"paleo: sternum fragment",,0,0
+"paleo: sternum fragment , 3 pieces",,0,0
 "paleo: sternum fragment , 3 pieces | tissue",,0,0
 "paleo: sternum fragment | tissue",,0,0
+"paleo: sternum, carpometacarpus fragments",,0,0
 "paleo: sternum, carpometacarpus fragments | tissue",,0,0
+"paleo: synsacrum",,0,0
+"paleo: synsacrum (?) fragment",,0,0
 "paleo: synsacrum (?) fragment | tissue",,0,0
 "paleo: synsacrum | tissue",,0,0
+"paleo: synsacrum fragment",,0,0
 "paleo: synsacrum fragment | tissue",,0,0
+"paleo: syrinx (?) fragment",,0,0
 "paleo: syrinx (?) fragment | tissue",,0,0
 "paleo: tail fragment",,0,0
+"paleo: tarsometatarsus",,0,0
+"paleo: tarsometatarsus (?) fragment",,0,0
 "paleo: tarsometatarsus (?) fragment | tissue",,0,0
 "paleo: tarsometatarsus | tissue",,0,0
+"paleo: tarsometatarsus fragment",,0,0
 "paleo: tarsometatarsus fragment | tissue",,0,0
+"paleo: tarsometatarsus, ulna fragment",,0,0
 "paleo: tarsometatarsus, ulna fragment | tissue",,0,0
+"paleo: tarsometatarsus? Fragment",,0,0
 "paleo: tarsometatarsus? Fragment | tissue",,0,0
+"paleo: thyroid",,0,0
 "paleo: thyroid | tissue",,0,0
+"paleo: thyroid fragment",,0,0
 "paleo: thyroid fragment | tissue",,0,0
 "paleo: tibia",,0,0
 "paleo: tibia fragment",,0,0
+"paleo: tibiotarsus",,0,0
+"paleo: tibiotarsus (?) fragment",,0,0
 "paleo: tibiotarsus (?) fragment | tissue",,0,0
 "paleo: tibiotarsus | tissue",,0,0
+"paleo: tibiotarsus and distal epiphysis",,0,0
 "paleo: tibiotarsus and distal epiphysis | tissue",,0,0
+"paleo: tibiotarsus fragment",,0,0
 "paleo: tibiotarsus fragment | tissue",,0,0
+"paleo: tibiotarsus? Fragment",,0,0
 "paleo: tibiotarsus? Fragment | tissue",,0,0
 "paleo: tooth fragment",,0,0
+"paleo: trachael ring",,0,0
 "paleo: trachael ring | tissue",,0,0
+"paleo: tracheal bulla",,0,0
 "paleo: tracheal bulla | tissue",,0,0
+"paleo: tracheal ring",,0,0
+"paleo: tracheal ring (?) fragment",,0,0
 "paleo: tracheal ring (?) fragment | tissue",,0,0
 "paleo: tracheal ring | tissue",,0,0
+"paleo: ulna",,0,0
+"paleo: ulna (?)",,0,0
 "paleo: ulna (?) | tissue",,0,0
+"paleo: ulna (?) fragment",,0,0
 "paleo: ulna (?) fragment | tissue",,0,0
+"paleo: ulna ?",,0,0
 "paleo: ulna ? | tissue",,0,0
+"paleo: ulna ? fragment",,0,0
 "paleo: ulna ? fragment | tissue",,0,0
 "paleo: ulna | tissue",,0,0
+"paleo: ulna fragment",,0,0
 "paleo: ulna fragment | tissue",,0,0
+"paleo: ulna uragment",,0,0
 "paleo: ulna uragment | tissue",,0,0
 "paleo: ulnoradius frag",,0,0
 "paleo: ungual phalanx",,0,0
 "paleo: ungual phalanx | tissue",,0,0
+"paleo: ungual phalanx fragment",,0,0
 "paleo: ungual phalanx fragment | tissue",,0,0
+"paleo: unidentifiable fragment",,0,0
 "paleo: unidentifiable fragment | tissue",,0,0
+"paleo: unidentifiable fragments",,0,0
 "paleo: unidentifiable fragments | tissue",,0,0
+"paleo: unidentifiable limb fragment",,0,0
 "paleo: unidentifiable limb fragment | tissue",,0,0
+"paleo: unidentified fragment",,0,0
 "paleo: unidentified fragment | tissue",,0,0
+"paleo: upper mandible",,0,0
 "paleo: upper mandible | tissue",,0,0
+"paleo: upper mandible fragment",,0,0
 "paleo: upper mandible fragment | tissue",,0,0
 "paleo: vertebra",,0,0
 "paleo: vertebra (?) fragment",,0,0
@@ -27491,15 +28089,24 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: vertebra | tissue",,0,0
 "paleo: vertebra fragment",,0,0
 "paleo: vertebra fragment | tissue",,0,0
+"paleo: vertebra or pedal phalanx ?",,0,0
 "paleo: vertebra or pedal phalanx ? | tissue",,0,0
+"paleo: vertebrae",,0,0
 "paleo: vertebrae | tissue",,0,0
+"paleo: vertebrae fragment",,0,0
 "paleo: vertebrae fragment | tissue",,0,0
 "paleo: vertebral epiphysis",,0,0
+"paleo: WHAT IS THIS?",,0,0
 "paleo: WHAT IS THIS? | tissue",,0,0
+"paleo:maxilla fragment",,0,0
 "paleo:maxilla fragment | tissue",,0,0
+"paleo:pedal phalanx",,0,0
 "paleo:pedal phalanx | tissue",,0,0
+"paleo:ulna",,0,0
 "paleo:ulna | tissue",,0,0
+"paleo:ulna fragment",,0,0
 "paleo:ulna fragment | tissue",,0,0
+"paleo:ungual phalanx",,0,0
 "paleo:ungual phalanx | tissue",,0,0
 "paleoniscoid fragments",,0,0
 "paletal frag",,0,0
@@ -27576,6 +28183,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PARIETO-SQUAMOSAL FRAG",,0,0
 "paroccipital",,0,0
 "PART","partial skeleton",0,1
+"part alcoholic only",,0,0
 "part alcoholic only | tissue",,0,0
 "PART BODY SKELETON","partial body skeleton",0,1
 "part cranium w complete r+l tooth rows",,0,0
@@ -27585,13 +28193,17 @@ R PERIPHERALS 2 - 3.",,0,0
 "part dry skin + part skel",,0,0
 "part femur, limb fragments",,0,0
 "part flat skin",,0,0
+"part flat skin + part skel",,0,0
 "part flat skin + part skel | tissue",,0,0
+"part flat skin + part skel + misc: feathers",,0,0
 "part flat skin + part skel + misc: feathers | tissue",,0,0
+"part flat skin only",,0,0
 "part flat skin only | tissue",,0,0
 "part jaw, etc. in matrix",,0,0
 "part large specimen",,0,0
 "part lwr mandible",,0,0
 "part M3/",,0,0
+"part mixed skels",,0,0
 "part mixed skels | tissue",,0,0
 "Part of body, fragments of vertebral column + liver (in spirit)",,0,0
 "Part of fore limb (in spirit)",,0,0
@@ -27605,25 +28217,32 @@ R PERIPHERALS 2 - 3.",,0,0
 "Part scapula-coracoid",,0,0
 "part skel","partial skeleton",0,1
 "part skel (1 fibula?)",,0,0
+"part skel (1 furcula only)",,0,0
 "part skel (1 furcula only) | tissue",,0,0
 "part skel (1 lot of limb bones)",,0,0
 "part skel (1 mandible half)",,0,0
+"part skel (1 pedal phalanx only)",,0,0
 "part skel (1 pedal phalanx only) | tissue",,0,0
 "part skel (1 phalanx)",,0,0
 "part skel (1 scapula)",,0,0
 "part skel (15 mandible halves)",,0,0
 "part skel (19 jaw elements)",,0,0
+"part skel (2 individuals)",,0,0
 "part skel (2 individuals) | tissue",,0,0
+"part skel (2 skulls only)",,0,0
 "part skel (2 skulls only) | tissue",,0,0
 "part skel (2 skulls) *",,0,0
 "part skel (3 bones)",,0,0
+"part skel (3 individuals mixed)",,0,0
 "part skel (3 individuals mixed) | tissue",,0,0
 "part skel (3 mandible halves)",,0,0
+"part skel (4 bone frags only)",,0,0
 "part skel (4 bone frags only) | tissue",,0,0
 "part skel (4 bones)",,0,0
 "part skel (4 ear bones, 4 teeth) only",,0,0
 "part skel (4 hooves with phalanges)",,0,0
 "part skel (5 mixed elements)",,0,0
+"part skel (5 partial skulls only)",,0,0
 "part skel (5 partial skulls only) | tissue",,0,0
 "part skel (approx 150 bones & teeth)",,0,0
 "part skel (approx. __ bones)",,0,0
@@ -27641,12 +28260,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "part skel (part mandible only)",,0,0
 "part skel (part skull & vertebrae)",,0,0
 "part skel (part skull only)",,0,0
+"part skel (pelvic girdle only)",,0,0
 "part skel (pelvic girdle only) | tissue",,0,0
 "part skel (shell only)",,0,0
+"part skel (skul & scleric ring only)",,0,0
 "part skel (skul & scleric ring only) | tissue",,0,0
 "part skel (skull & atlas)",,0,0
 "part skel (skull & foreleg)",,0,0
+"part skel (skull & neck vertebrae)",,0,0
 "part skel (skull & neck vertebrae) | tissue",,0,0
+"part skel (skull + 6 vertebrae)",,0,0
 "part skel (skull + 6 vertebrae) | tissue",,0,0
 "part skel (skull + neck vertebrae only)",,0,0
 "part skel (skull only)",,0,0
@@ -27654,47 +28277,73 @@ R PERIPHERALS 2 - 3.",,0,0
 "part skel (skull only) @",,0,0
 "part skel (skull only) | tissue",,0,0
 "part skel (skull only) + alc & dry stom cont",,0,0
+"part skel (skull only) + misc: feathers",,0,0
 "part skel (skull only) + misc: feathers | tissue",,0,0
 "part skel (skull only)+1 alc pouch young",,0,0
 "part skel (skull only)+2 alc pouch young",,0,0
+"part skel (sternum only)",,0,0
 "part skel (sternum only) | tissue",,0,0
+"part skel (wings + sternum only)",,0,0
 "part skel (wings + sternum only) | tissue",,0,0
+"part skel ???",,0,0
 "part skel ??? | tissue",,0,0
+"part skel @",,0,0
 "part skel @ | tissue",,0,0
 "part skel | tissue",,0,0
 "part skel + alc organs",,0,0
+"part skel + flat wing",,0,0
 "part skel + flat wing | tissue",,0,0
+"part skel + misc: 1 wing",,0,0
 "part skel + misc: 1 wing | tissue",,0,0
+"part skel + misc: 2 wings",,0,0
 "part skel + misc: 2 wings | tissue",,0,0
+"part skel + misc: feathers",,0,0
 "part skel + misc: feathers | tissue",,0,0
+"part skel + misc: flat wing",,0,0
+"part skel + misc: flat wing & tail",,0,0
 "part skel + misc: flat wing & tail | tissue",,0,0
 "part skel + misc: flat wing | tissue",,0,0
+"part skel + misc: skin & feathers",,0,0
 "part skel + misc: skin & feathers | tissue",,0,0
+"part skel + misc: wing & tail",,0,0
 "part skel + misc: wing & tail | tissue",,0,0
+"part skel + misc: wings",,0,0
 "part skel + misc: wings | tissue",,0,0
+"part skel + misc: wings and tail feathers",,0,0
 "part skel + misc: wings and tail feathers | tissue",,0,0
 "part skel + xray of flipper",,0,0
+"part skel only",,0,0
 "part skel only | tissue",,0,0
+"part skel(skull only)",,0,0
 "part skel(skull only) | tissue",,0,0
 "part skel*",,0,0
 "part skel, tissue","partial skeleton, tissue",0,1
+"part skel. only + dried gizzard (?)",,0,0
 "part skel. only + dried gizzard (?) | tissue",,0,0
+"part skel/misc feathers",,0,0
 "part skel/misc feathers | tissue",,0,0
 "part skel/wing","part skeleton, wing",0,1
 "part skel/wing, tissue","partial skeleton, tissue, wing",0,1
 "part skeleton",,0,0
+"part skeleton (skull & 3 vertebrae)",,0,0
 "part skeleton (skull & 3 vertebrae) | tissue",,0,0
 "part skeleton | tissue",,0,0
+"part skeleton + matrix",,0,0
 "part skeleton + matrix | tissue",,0,0
+"part skeleton + misc: feathers",,0,0
 "part skeleton + misc: feathers | tissue",,0,0
 "part skeleton w l+r dentary, l max, l astragalus, prox hum, prox rad4 vert, prox ulna+bones",,0,0
 "part skeleton with dentary and maxillary frags",,0,0
 "part skeleton, nodule with bone",,0,0
+"part skels (3 individuals)",,0,0
 "part skels (3 individuals) | tissue",,0,0
+"part skels (mult. individuals)",,0,0
 "part skels (mult. individuals) | tissue",,0,0
 "part skin","partial skin",0,1
+"part skin (mummy)",,0,0
 "part skin (mummy) | tissue",,0,0
 "part skin | tissue",,0,0
+"part skin + skull",,0,0
 "part skin + skull | tissue",,0,0
 "part skin, tissue",,0,0
 "part skin/part skel","parital skeleton, partial skin",0,1
@@ -28677,6 +29326,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial shell, limb frags",,0,0
 "partial shell+postcrania",,0,0
 "partial skel","partial skeleton",0,1
+"partial skel (+ 1 dried foot for the teaching collection)",,0,0
 "partial skel (+ 1 dried foot for the teaching collection) | tissue",,0,0
 "partial skel + other (surrogate puppet) + DNA (muscle)","partial skeleton, surrogate puppet, DNA (muscle)",0,1
 "partial skel + wing + DNA (heart+muscle)","partial skeleton, wing, DNA (heart, muscle)",0,1
@@ -28982,11 +29632,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "pedal fragments",,0,0
 "pedal phalanx",,0,0
 "pedal phalanx | tissue",,0,0
+"pedal phalanx fragment",,0,0
 "pedal phalanx fragment | tissue",,0,0
+"pedal sesamoid",,0,0
 "pedal sesamoid | tissue",,0,0
 "pedal+tooth frags",,0,0
 "Peel of part of Holotype",,0,0
 "Peels",,0,0
+"pellets",,0,0
 "pellets | tissue",,0,0
 "pelt","pelt",1,1
 "pelt (tanned)",,0,0
@@ -29066,6 +29719,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "pelvis frag w/ acetabulum",,0,0
 "PELVIS FRAG,R DENTARY",,0,0
 "PELVIS FRAG,RIB,VERTEBRA",,0,0
+"pelvis fragment",,0,0
 "pelvis fragment | tissue",,0,0
 "pelvis frags",,0,0
 "PELVIS FRAGS,VERTEBRA FRAGS",,0,0
@@ -29073,6 +29727,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PELVIS LEG (DRY)","leg, pelvis",0,1
 "PELVIS PARTIAL; SCUTE",,0,0
 "Pelvis, dissected (in spirit)",,0,0
+"pelvis, radius fragment",,0,0
 "pelvis, radius fragment | tissue",,0,0
 "PELVIS,HIND LIMB",,0,0
 "PELVIS,HUMERUS",,0,0
@@ -30672,6 +31327,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "precloacal vertebrae",,0,0
 "precloacal vertebral fragment",,0,0
 "Precoracoid",,0,0
+"predated remains (4 skulls + misc. vert.)",,0,0
 "predated remains (4 skulls + misc. vert.) | tissue",,0,0
 "PREDENTARY",,0,0
 "PREDENTARY FRAG",,0,0
@@ -30906,6 +31562,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "preserved, tissue",,0,0
 "PRESUMED FIN ELEMENT (2 ARTICULATED UNITS).",,0,0
 "presumed skin + skull",,0,0
+"presumed skin]",,0,0
 "presumed skin] | tissue",,0,0
 "PREVOMER TOOTH",,0,0
 "PREZYGAPOPHYSIS",,0,0
@@ -31608,6 +32265,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PROXIMAL PHALANX II.",,0,0
 "proximal phalanx III",,0,0
 "proximal phalanx III or IV",,0,0
+"proximal phalanx major digit",,0,0
 "proximal phalanx major digit | tissue",,0,0
 "proximal phalanx, digit 1",,0,0
 "Proximal portion  of radius",,0,0
@@ -31823,6 +32481,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PYGAL,SUPERPYGAL,R POST PERIPHERAL",,0,0
 "PYGAL.",,0,0
 "PYGOSTYLE",,0,0
+"pygostyle (?) fragment",,0,0
 "pygostyle (?) fragment | tissue",,0,0
 "Pyloric region (in spirit)",,0,0
 "Quadrate",,0,0
@@ -35304,7 +35963,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "RADIUS,ULNAE",,0,0
 "Radius.",,0,0
 "Radius?",,0,0
+"radius?  fragment",,0,0
 "radius?  fragment | tissue",,0,0
+"radius? fragment",,0,0
 "radius? fragment | tissue",,0,0
 "RADIUS+1LNA",,0,0
 "RADIUS+ULNA",,0,0
@@ -35486,6 +36147,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "RIB,VERTEBRAE,PTERYGOID FRAG",,0,0
 "Rib.",,0,0
 "Rib?",,0,0
+"rib? fragment",,0,0
 "rib? fragment | tissue",,0,0
 "ribfragment",,0,0
 "Ribs",,0,0
@@ -36006,6 +36668,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "rostrum frag, left maxilla and premaxilla",,0,0
 "ROSTRUM FRAG,2 DENTARY FRAGS,TOOTH FRAG",,0,0
 "ROSTRUM FRAG,R+L DENTARY",,0,0
+"rostrum fragment",,0,0
 "rostrum fragment | tissue",,0,0
 "ROSTRUM FRAGS",,0,0
 "ROSTRUM L P4/-M2/",,0,0
@@ -37192,6 +37855,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeletal fragments.",,0,0
 "SKELETAL FRAGS",,0,0
 "skeletal frags + scales",,0,0
+"skeletal remains (5+ individuals)",,0,0
 "skeletal remains (5+ individuals) | tissue",,0,0
 "Skeletal remains (inc. jaw + teeth, unprepared)",,0,0
 "Skeletal remains of 2 adults and 1 immature.",,0,0
@@ -40851,6 +41515,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin  (round), none",,0,0
 "skin  (round); skull (broken)",,0,0
 "skin  (round); skull (complete)",,0,0
+"skin  + alc stomach",,0,0
 "skin  + alc stomach | tissue",,0,0
 "Skin - 1","Skin - 1",0,1
 "Skin - 1; Eggset - 1","Skin - 1; Eggset - 1",0,1
@@ -40944,6 +41609,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin & partial skeleton","skin, partial skeleton",0,1
 "SKIN & PARTIAL SKULL","skin, partial skull",0,1
 "SKIN & PORTION OF DENTARY","skin, partial dentary",0,1
+"skin & skel",,0,0
 "skin & skel | tissue",,0,0
 "skin & skeleton","skin, skeleton",0,1
 "SKIN & SKELETON (SKEL.MISS)","skin",0,1
@@ -41137,10 +41803,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Mummy) (Mummy)",,0,0
 "Skin (Mummy) (Mummy) (Mummy)",,0,0
 "skin (mummy) | tissue",,0,0
+"skin (mummy) + egg fragments",,0,0
 "skin (mummy) + egg fragments | tissue",,0,0
 "Skin (Mummy; put in skin collection) (Mummy; put in skin collection)",,0,0
 "Skin (No head) (No head), Toe pad sample",,0,0
 "Skin (of feet) + skull with jaw + skeleton (feet not cleaned)",,0,0
+"skin (part mummy only)",,0,0
 "skin (part mummy only) | tissue",,0,0
 "skin (partial flat), wing",,0,0
 "skin (partial flat), wings",,0,0
@@ -41410,61 +42078,102 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin | skull | skeleton | liver (95% ethanol)",,0,0
 "skin | skull | skeleton | muscle (95% ethanol)",,0,0
 "skin | tissue",,0,0
+"skin +  part skel",,0,0
 "skin +  part skel | tissue",,0,0
 "Skin + ? skull with jaw (in skin)",,0,0
 "skin + 1 alc emb",,0,0
 "skin + 1 alc pouch young",,0,0
 "skin + 1 alc young",,0,0
 "skin + 1 detached paw in plastic box",,0,0
+"skin + 1 egg",,0,0
+"skin + 1 egg (?)",,0,0
 "skin + 1 egg (?) | tissue",,0,0
 "skin + 1 egg | tissue",,0,0
 "skin + 2 alc pouch young",,0,0
+"skin + 2 eggs",,0,0
 "skin + 2 eggs | tissue",,0,0
+"skin + 2 feathers",,0,0
 "skin + 2 feathers | tissue",,0,0
+"skin + 3 eggs",,0,0
 "skin + 3 eggs | tissue",,0,0
+"skin + 3 feathers",,0,0
 "skin + 3 feathers | tissue",,0,0
+"skin + 3 gizzard stones",,0,0
 "skin + 3 gizzard stones | tissue",,0,0
+"skin + alc body",,0,0
 "skin + alc body | tissue",,0,0
+"skin + alc crop & contents",,0,0
 "skin + alc crop & contents | tissue",,0,0
+"skin + alc crop contents",,0,0
 "skin + alc crop contents | tissue",,0,0
+"skin + alc stomach",,0,0
 "skin + alc stomach | tissue",,0,0
+"skin + alc stomach contents",,0,0
 "skin + alc stomach contents | tissue",,0,0
 "Skin + carpus (removed from skin, mounted)",,0,0
+"skin + cleaned humerus",,0,0
 "skin + cleaned humerus | tissue",,0,0
+"skin + cleaned skull",,0,0
 "skin + cleaned skull | tissue",,0,0
+"skin + complete skel + alc stomach",,0,0
 "skin + complete skel + alc stomach | tissue",,0,0
+"skin + detached wing + skel",,0,0
 "skin + detached wing + skel | tissue",,0,0
 "skin + DNA","skin, DNA",0,1
+"skin + dry & alc gut contents*",,0,0
 "skin + dry & alc gut contents* | tissue",,0,0
+"skin + dry tongue",,0,0
 "skin + dry tongue | tissue",,0,0
+"skin + feather in plastic bag",,0,0
 "skin + feather in plastic bag | tissue",,0,0
+"skin + flat wing",,0,0
 "skin + flat wing | tissue",,0,0
+"skin + flat wing + part skel",,0,0
 "skin + flat wing + part skel | tissue",,0,0
+"skin + flat wing + skel",,0,0
 "skin + flat wing + skel | tissue",,0,0
 "skin + head & body armor only",,0,0
 "skin + mandible",,0,0
+"skin + misc: flat wing",,0,0
 "skin + misc: flat wing | tissue",,0,0
+"skin + mounted skel",,0,0
 "skin + mounted skel | tissue",,0,0
+"skin + nest",,0,0
 "skin + nest | tissue",,0,0
+"skin + nest + eggs",,0,0
 "skin + nest + eggs | tissue",,0,0
+"skin + part skel",,0,0
 "skin + part skel | tissue",,0,0
+"skin + part skel + 1 flat wing",,0,0
 "skin + part skel + 1 flat wing | tissue",,0,0
+"skin + part skel + dry tongue",,0,0
 "skin + part skel + dry tongue | tissue",,0,0
+"skin + part skeleton",,0,0
 "skin + part skeleton | tissue",,0,0
 "skin + part skull",,0,0
 "skin + partial skel + DNA","skin, partial skeleton, DNA",0,1
+"skin + plumes + complete skel",,0,0
 "skin + plumes + complete skel | tissue",,0,0
+"skin + rehydrated stomach",,0,0
 "skin + rehydrated stomach | tissue",,0,0
 "Skin + remainder of specimen (in spirit)",,0,0
 "skin + skel",,0,0
 "skin + skel | tissue",,0,0
+"skin + skel + alc stom. cont.",,0,0
 "skin + skel + alc stom. cont. | tissue",,0,0
+"skin + skel + alc stomach",,0,0
 "skin + skel + alc stomach | tissue",,0,0
+"skin + skel + alcoholic stomach contents",,0,0
 "skin + skel + alcoholic stomach contents | tissue",,0,0
+"skin + skel + dry stomach contents",,0,0
 "skin + skel + dry stomach contents | tissue",,0,0
+"skin + skel + flat wing",,0,0
 "skin + skel + flat wing | tissue",,0,0
+"skin + skel or complete skel",,0,0
 "skin + skel or complete skel | tissue",,0,0
+"skin + skelelton",,0,0
 "skin + skelelton | tissue",,0,0
+"skin + skeleton",,0,0
 "Skin + skeleton (feet, in skin)",,0,0
 "Skin + skeleton (limbs, in skin)",,0,0
 "skin + skeleton | tissue",,0,0
@@ -41504,12 +42213,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin + skull with jaw + skeleton (partially cleaned)",,0,0
 "Skin + skull with jaw + skeleton (partially cleaned, articulated)",,0,0
 "Skin + skull with jaw + skeleton (uncleaned)",,0,0
+"skin + stomach contents",,0,0
 "skin + stomach contents | tissue",,0,0
+"skin + tissue",,0,0
 "skin + tissue | tissue",,0,0
+"skin + wing",,0,0
 "skin + wing | tissue",,0,0
 "skin + wing + partial skel + DNA","skin, wing, partial skeleton, DNA",0,1
+"skin + wing + skel",,0,0
 "skin + wing + skel | tissue",,0,0
+"skin +alc stomach",,0,0
 "skin +alc stomach | tissue",,0,0
+"skin +skel",,0,0
 "skin +skel | tissue",,0,0
 "skin and body skeleton","skin, body skeleton",0,1
 "Skin and Leg Bones",,0,0
@@ -41540,6 +42255,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin Removed",,0,0
 "skin sample, bone sample, tissue",,0,0
 "skin tanned/skel/scalp","scalp, skeleton, tanned skin",0,1
+"skin with cast skull + alc skull & part body + misc: feathers + cast of skull + misc: 104 DVDs copied from MBCC videos.",,0,0
 "skin with cast skull + alc skull & part body + misc: feathers + cast of skull + misc: 104 DVDs copied from MBCC videos. | tissue",,0,0
 "SKIN WITH LIMB BONES","skin with limb bones",0,1
 "SKIN WITH SKULL AND FOOT BONES","skin with skull and foot bones",0,1
@@ -59373,8 +60089,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULL + LWR MANDIBLE + OSTEODERMS",,0,0
 "skull + mandible in rock",,0,0
 "Skull + manus",,0,0
+"skull + misc vertebrae",,0,0
 "skull + misc vertebrae | tissue",,0,0
 "Skull + misc. postcranial bones",,0,0
+"skull + misc: feathers",,0,0
 "skull + misc: feathers | tissue",,0,0
 "Skull + mould",,0,0
 "Skull + much of skeleton",,0,0
@@ -61169,6 +61887,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SPLINT",,0,0
 "splint metapodial",,0,0
 "SPREAD WING","spread wing",0,1
+"spread wing (see Comments)",,0,0
 "spread wing (see Comments) | tissue",,0,0
 "SPREAD WING AND TAIL",,0,0
 "SPREAD WING AND TAIL, tissue","spread wing, tail, tissue",0,1
@@ -61222,6 +61941,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Stapes (left)",,0,0
 "Stapes (proximal end)",,0,0
 "Stems only",,0,0
+"stenum fragment",,0,0
 "stenum fragment | tissue",,0,0
 "Sterna (fragments)",,0,0
 "Sterna + ulna + tarso-metatarsus",,0,0
@@ -61339,6 +62059,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "study skin","study skin",0,1
 "Study skin - 1",,0,0
 "study skin | tissue",,0,0
+"study skin + skeleton",,0,0
 "study skin + skeleton | tissue",,0,0
 "STUDY SKIN AND ALCOHOLIC TRUNK","study skin, alcoholic trunk",0,1
 "STUDY SKIN AND ALCOHOLIC TRUNK, tissue","study skin, alcoholic trunk, tissue",0,1
@@ -61348,6 +62069,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "STUDY SKIN AND SPREAD WING",,0,0
 "STUDY SKIN AND SPREAD WING, tissue","study skin, spread wing, tissue",0,1
 "STUDY SKIN AND WING","study skin, wing",0,1
+"study skin only",,0,0
 "study skin only | tissue",,0,0
 "STUDY SKIN, BODY SKELETON, AND SPREAD WING","study skeleton, body skeleton, spread wing",0,1
 "STUDY SKIN, FLATTENED","flat study skin",0,1
@@ -61440,6 +62162,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "synsacrum | tissue",,0,0
 "Synsacrum and innominata.",,0,0
 "SYNSACRUM FRAG",,0,0
+"synsacrum fragment",,0,0
 "synsacrum fragment | tissue",,0,0
 "SYNSACRUM FRAGS",,0,0
 "SYNSACRUM PART",,0,0
@@ -61806,6 +62529,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "TARSOMETATARSUS,TIBIOTARSUS,SYNSACRUM",,0,0
 "TARSOMETATARSUS,ULNA FRAG,PROX FEMUR,SYNSACRUM",,0,0
 "Tarsometatarsus.",,0,0
+"tarsometatarus",,0,0
 "tarsometatarus | tissue",,0,0
 "Tarstometatarsus (5)",,0,0
 "TARSUS",,0,0
@@ -62433,6 +63157,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "TIBIOTARSI",,0,0
 "tibiotarsus",,0,0
 "TIBIO-TARSUS",,0,0
+"tibiotarsus (?) fragment",,0,0
 "tibiotarsus (?) fragment | tissue",,0,0
 "Tibiotarsus (2)",,0,0
 "Tibio-tarsus (left)",,0,0
@@ -62498,6 +63223,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "TIBIOTARSUS: 1 L AND 3 R DISTAL 1/4 TO 1/2 TIBIOTARSUS; PROX END L TIBIOTARSUS.",,0,0
 "tibiotarsus?",,0,0
 "tibiotarsus? | tissue",,0,0
+"tibiotarsus? fragment",,0,0
 "tibiotarsus? fragment | tissue",,0,0
 "TIBIOTARUS PROX L",,0,0
 "Tine (fragment)",,0,0
@@ -63916,6 +64642,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "u+l molar frags, ? assoc",,0,0
 "Ulna",,0,0
 "Ulna ( (left, part)",,0,0
+"ulna (?) fragment",,0,0
 "ulna (?) fragment | tissue",,0,0
 "Ulna (fragment)",,0,0
 "Ulna (left olecranon)",,0,0
@@ -65038,6 +65765,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Whiskers",,0,0
 "Whole","whole animal",0,1
 "Whole - 1","Whole - 1",0,1
+"whole  mount",,0,0
 "whole  mount | tissue",,0,0
 "WHOLE (DRY)","whole animal",0,1
 "Whole (EtOH)","whole animal (ETOH)",0,1
@@ -65064,11 +65792,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "whole mount @",,0,0
 "whole mount @ | tissue",,0,0
 "whole mount | tissue",,0,0
+"whole mount + 2 feathers",,0,0
 "whole mount + 2 feathers | tissue",,0,0
+"whole mount + alc body",,0,0
 "whole mount + alc body | tissue",,0,0
+"whole mount + alc skull",,0,0
 "whole mount + alc skull | tissue",,0,0
 "whole mount + complete skel",,0,0
+"whole mount + skel",,0,0
 "whole mount + skel | tissue",,0,0
+"whole mount + skull",,0,0
 "whole mount + skull | tissue",,0,0
 "whole mount in plastic",,0,0
 "WHOLE MOUNT LABIAL TEETH (MICROSLIDE)","mount, labial teeth (microslide)",0,1
@@ -65178,6 +65911,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing ,tissue ,Skel","skeleton, tissue, wing",0,1
 "wing ,tissue ,Skel ,feathers","feathers, skeleton, tissue, wing",0,1
 "wing ,wing","wing",0,1
+"wing + 2 tail feathers",,0,0
 "wing + 2 tail feathers | tissue",,0,0
 "wing + par skeleton","wing, partial skeleton",0,1
 "wing + par skeleton + DNA","wing, partial skeleton, DNA",0,1
