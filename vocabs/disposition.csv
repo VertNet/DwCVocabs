@@ -127,9 +127,9 @@
 "discarded 7/23/59",,0,0
 "Discarded 9 Oct 1954 J.F.",,0,0
 "Discarded 9-Oct-1954 JF",,0,0
-"Discarded Apr. 4, 1979","discarded",0,1
-"Discarded April 4, 1979","discarded",0,1
-"Discarded Aug. 27, 1959","discarded",0,1
+"Discarded Apr. 4, 1979",,0,1
+"Discarded April 4, 1979",,0,1
+"Discarded Aug. 27, 1959",,0,1
 "Discarded by Charles OBrien, 24 Jul 1961",,0,0
 "Discarded by D. Amadon, 23 Jun 1969",,0,0
 "Discarded by D. Amadon, 29 Mar 1951",,0,0
@@ -2699,6 +2699,7 @@
 "No+","voucher elsewhere",0,1
 "NO=o","voucher elsewhere",0,1
 "Nonpoisoned, flat; Skin discarded",,0,0
+"normal","in collection",0,1
 "Note: 18 Jul 1910 this bird returned to the dealer",,0,0
 "Nov 1966;Exchange H.B. Hough, Ontario, Canada",,0,0
 "Nov. 1903; Exchanged with J & J Mailliard",,0,0

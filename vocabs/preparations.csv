@@ -1,6 +1,7 @@
 "verbatimPrep","StandardPrep","standard","checked"
 "",,0,1
 "--",,0,0
+" | tissue",,0,0
 "-- | tissue",,0,0
 " 70% EtOH","70% alcohol",0,1
 " 70% ETOH + C&S",,0,0
@@ -1007,6 +1008,7 @@
 "?/I root",,0,0
 "?/M or P frag",,0,0
 "??","unknown",0,1
+"?? | tissue",,0,0
 "??, ??","unknown",0,1
 "?????","unknown",0,1
 "??atlas frag",,0,0
@@ -1149,7 +1151,9 @@
 "[?Rib (fragment)]",,0,0
 "[?Skull (fragment)]",,0,0
 "[alc?]",,0,0
+"[alcoholic] NOT FOUND IN COLLECTION MAY08",,0,0
 "[Bones (postcranial)]",,0,0
+"[complete skel] NOT FOUND IN COLLECTION MAY08",,0,0
 "[coracoid, forelimbs, scales]",,0,0
 "[Cranial + postcranial + cast]",,0,0
 "[Jaw + teeth + unidentified bone]",,0,0
@@ -1176,6 +1180,8 @@
 "[scapulo-coracoid]",,0,0
 "[Skull + post-cranial]",,0,0
 "[Skull fragment?]",,0,0
+"[skull only] NOT FOUND IN COLLECTION MAY 08",,0,0
+"[skull only] NOT FOUND IN COLLECTION MAY08",,0,0
 "[Tibia (shaft fragment]",,0,0
 "[Tooth]",,0,0
 "`EGGS","eggs",0,1
@@ -1427,6 +1433,7 @@
 "1 tibiotarsus fragment | tissue",,0,0
 "1 tissue, 1 bone, 2 hair",,0,0
 "1 tissue, 2 hair, 1 bone, skull and partial skeleton",,0,0
+"1 tooth, 4 dental exotoses",,0,0
 "1 upper canine only",,0,0
 "1 vert. + 16 osteoderms",,0,0
 "1 vertebra",,0,0
@@ -1723,6 +1730,7 @@
 "25 medial phalanges",,0,0
 "25 tadpoles & met'ing juvs",,0,0
 "26 phalanges",,0,0
+"26 teeth/partial mandibles/tissue | tissue",,0,0
 "2-70% ETHANOL; 1-GLYCEROL",,0,0
 "29 incisors",,0,0
 "29 podials",,0,0
@@ -1867,6 +1875,7 @@
 "4 EGGS & NEST","eggs, nest",0,1
 "4 eggs | tissue",,0,0
 "4 eggshell fragments",,0,0
+"4 fetal skulls",,0,0
 "4 fragments ulna.","ulna fragments",0,1
 "4 Frags",,0,0
 "4 I",,0,0
@@ -3831,6 +3840,7 @@
 "alcoholic body",,0,0
 "alcoholic body (no head)",,0,0
 "alcoholic body | tissue",,0,0
+"alcoholic ear punch",,0,0
 "alcoholic egg",,0,0
 "alcoholic egg | tissue",,0,0
 "alcoholic eggs",,0,0
@@ -5271,7 +5281,9 @@
 "alcoholic, wingspread, Tissue number 10989 at Acad. Nat. Sci. Philadelphi",,0,0
 "alcoholic, wingspread, Tissue number 3635",,0,0
 "alcoholic/skull","alcoholic, skull prepared, skin & body dried",0,1
+"alcoholic: embryos",,0,0
 "alcoholic; 1 lot of 3 snakes",,0,0
+"alcoholic; alc. fetus",,0,0
 "alcoholic+ alc stomach + slide of stom contents",,0,0
 "alcoholic+ alc stomach + slides of stom contents",,0,0
 "Alimentary canal (in spirit)",,0,0
@@ -5298,6 +5310,7 @@
 "AN TOOTH/",,0,0
 "AN+MID SHELL",,0,0
 "ANAL SCALES",,0,0
+"anatomical; alc. 4 fetuses: ex utero",,0,0
 "anchylosed vertebrae",,0,0
 "ANGLE OF DENTARY",,0,0
 "Angular",,0,0
@@ -6050,11 +6063,14 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Antlers (bases)",,0,0
 "Antlers (pair)",,0,0
 "Antlers/mandible","antlers, mandible",0,1
+"antlers/partial cranium",,0,0
+"antlers/skull plate",,0,0
 "antlers; skull cap","antlers, skull cap",0,1
 "antlr frg.",,0,0
 "Antorb Crt L",,0,0
 "AO","alcoholic other (partial specimen)",0,1
 "Aorta, sectioned (dried)",,0,0
+"appendicular bones",,0,0
 "Approximately 6-inch segment antler.",,0,0
 "Approximately half R calcaneum.",,0,0
 "armor",,0,0
@@ -6560,6 +6576,8 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "baculum, skull, skin, complete skeleton","baculum, complete skeleton, skin, skull",0,1
 "BACULUM,PHALANX,M3/",,0,0
 "Baculum.","baculum",0,1
+"baculum/skull fragments/tissue | tissue",,0,0
+"baculum/tissue | tissue",,0,0
 "baculum; postcranial skeleton (complete)",,0,0
 "baculum; postcranial skeleton (complete); skin (pelt); skull (complete)",,0,0
 "baculum; postcranial skeleton (complete); skin (round); skull (broken)",,0,0
@@ -6593,6 +6611,8 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "baleen","baleen",1,1
 "baleen (1 plate)",,0,0
 "baleen (1 plate), none",,0,0
+"baleen (12 plates)",,0,0
+"baleen (2 plates)",,0,0
 "Baleen (3 plates)",,0,0
 "Baleen (6 plates)",,0,0
 "Baleen (complete)",,0,0
@@ -6602,6 +6622,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Baleen + gum (in spirit)",,0,0
 "Baleen impression + ?maxilla",,0,0
 "Baleen plate","baleen plate",1,1
+"baleen/skin/ectoparasites",,0,0
 "Balsam",,0,0
 "BARREL",,0,0
 "BARREL, tissue",,0,0
@@ -6725,7 +6746,14 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "BODY MOUNT OR CAST","body mount",0,1
 "Body mummy","body mummy",0,1
 "body osteoderms",,0,0
+"body parts (ethanol)",,0,0
 "BODY PLATE FRAG",,0,0
+"body skel",,0,0
+"body skel | tissue",,0,0
+"body skel, with ear bone",,0,0
+"body skel/tissue",,0,0
+"body skel/tissue | tissue",,0,0
+"body skeleton",,0,0
 "BODY SKELETON ONLY","body skeleton",0,1
 "Body with tail (nearly complete)",,0,0
 "Body, portion (in spirit)",,0,0
@@ -7300,6 +7328,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "CANNON BONE SHAFT R",,0,0
 "Cannonbone, diaphysis tibia, diaphysis humerus.",,0,0
 "canon bone shaft fragment",,0,0
+"cape skin",,0,0
 "cape/paw/skel","cape, paw, skeleton",0,1
 "CARAPACE",,0,0
 "carapace & limb",,0,0
@@ -8423,6 +8452,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete or part. skel",,0,0
 "COMPLETE PES",,0,0
 "complete skel",,0,0
+"complete skel (lacking mandible)",,0,0
+"complete skel (mounted)",,0,0
+"complete skel (skull not present)",,0,0
 "complete skel *",,0,0
 "complete skel *;* Peter Pyle wants PIX",,0,0
 "complete skel *;* Peter Pyle wants PIX | tissue",,0,0
@@ -8465,7 +8497,27 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete skel only",,0,0
 "complete skel only + misc: wing",,0,0
 "complete skel only + misc: wing | tissue",,0,0
+"complete skel, scalp",,0,0
 "complete skel.",,0,0
+"complete skel/art. flipper",,0,0
+"complete skel/art. flipper/x-rays R&L flippers",,0,0
+"complete skel/flat skin/tissue",,0,0
+"complete skel/partial skin/tissue | tissue",,0,0
+"complete skel/tail",,0,0
+"complete skel/tail/tissue | tissue",,0,0
+"complete skel/tissue",,0,0
+"complete skel/tissue | tissue",,0,0
+"complete skel/tissue; alc.  | tissue",,0,0
+"complete skel/x-ray R flipper",,0,0
+"complete skel/x-ray R flipper/art. flipper",,0,0
+"complete skel/x-rays body and flippers",,0,0
+"complete skel/x-rays R&L flippers",,0,0
+"complete skel/x-rays R&L flippers/art. flipper",,0,0
+"complete skel; ",,0,0
+"complete skel; alc. embryo | tissue",,0,0
+"complete skel; alc. gut | tissue",,0,0
+"complete skel; alc. gut,uterus | tissue",,0,0
+"complete skel; alc. skin",,0,0
 "complete skeleton",,0,0
 "complete skeleton | tissue",,0,0
 "complete skeleton + 6 alc eggs",,0,0
@@ -8502,6 +8554,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete skeleton, wing, other",,0,0
 "complete skeleton, wing, tissue",,0,0
 "complete skeleton, wing, tissue, flat skin",,0,0
+"complete skeleton/tissue | tissue",,0,0
 "complete skull with partial dentary and petrotympanics",,0,0
 "Complete upper and lower dentition.",,0,0
 "complete/partial skull",,0,0
@@ -9108,9 +9161,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "cranium (broken), none",,0,0
 "cranium (complete)",,0,0
 "cranium (complete), none",,0,0
+"cranium (fragments)/mandible + teeth",,0,0
+"cranium (frontal bones, processus cornus)",,0,0
 "Cranium (in spirit)",,0,0
 "cranium (laterally crushed",,0,0
 "Cranium (mounted, in spirit)",,0,0
+"cranium (one horn absent)",,0,0
 "Cranium (part, left half) + vertebral column (mounted, in spirit)",,0,0
 "cranium (partial)",,0,0
 "cranium (partial), none",,0,0
@@ -9119,6 +9175,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "cranium + r dentary",,0,0
 "cranium + vertebrae",,0,0
 "Cranium + vertebral column, part (mounted, in spirit)",,0,0
+"cranium and atlas",,0,0
 "CRANIUM AND L DENTARY","cranium, left dentary",0,1
 "CRANIUM AND R DENTARY","cranium, right dentary",0,1
 "cranium cast only",,0,0
@@ -9129,6 +9186,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "cranium fragment | tissue",,0,0
 "CRANIUM ONLY","cranium",0,1
 "cranium only?",,0,0
+"cranium ony",,0,0
 "CRANIUM PORTION","partial skull",0,1
 "cranium still partly encased in matrix",,0,0
 "CRANIUM W ANTLERS ?",,0,0
@@ -9154,8 +9212,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "cranium w r C-P1, l+r P2-M3; dentary, postcrania",,0,0
 "cranium w very fragmentary l P4, M1-3",,0,0
 "cranium with endocast",,0,0
+"cranium, 1/2 mandible",,0,0
 "cranium, associated fragments",,0,0
 "cranium, dentaries, partial postcranial skeleton",,0,0
+"cranium, flipper/x-rays R&L flippers",,0,0
 "cranium, l+r dentaries",,0,0
 "cranium, lower jaw, associated fragments",,0,0
 "cranium, matrix, miscellaneous fragments, pectoral girdle",,0,0
@@ -9175,6 +9235,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "CRANIUM,VERTEBRA",,0,0
 "CRANIUM,VERTEBRAE",,0,0
 "Cranium.","skull",0,1
+"cranium/1 ramus/partial skel",,0,0
+"cranium/flat skin",,0,0
+"cranium/no horns",,0,0
+"cranium/partial skel",,0,0
+"cranium/partial skel/fetal bones",,0,0
+"cranium/partial skeleton",,0,0
+"cranium/partial skeleton/scapula",,0,0
 "cranium+ L dentary",,0,0
 "cranium+dentaries",,0,0
 "cranium+dentaries in articulation",,0,0
@@ -12640,6 +12707,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "emb + eggshell",,0,0
 "Embedded for sectioning",,0,0
 "embryo",,0,0
+"embryo (ethanol)",,0,0
+"embryo | tissue",,0,0
 "Embryo in foetal membranes (mounted in spirit)",,0,0
 "embryonic skeleton in egg",,0,0
 "Empty",,0,0
@@ -13262,6 +13331,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FEMUR,ULNAE",,0,0
 "FEMUR,VERTEBRA,SESAMOID",,0,0
 "Femur.",,0,0
+"femur/fibio-tibula",,0,0
 "FEMUR/SCAPULA",,0,0
 "FEMUR; RADIUS; VERTEBRA (2); ZYGOMATIC R; MT",,0,0
 "femur?",,0,0
@@ -13274,8 +13344,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Femural Head",,0,0
 "FEMURS",,0,0
 "Fercula (2)",,0,0
+"fetus; alc. Y",,0,0
 "Few bones from the hind feet, hair, tissue",,0,0
 "ffragmentary molar columns",,0,0
+"fibio-tibula/calcaneum",,0,0
 "FIBULA",,0,0
 "Fibula (complete, left + end)",,0,0
 "Fibula (left)",,0,0
@@ -13352,6 +13424,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FL",,0,0
 "FLAT","flat skin",0,1
 "flat body skin only",,0,0
+"flat pelt/complete skeleton/tissue | tissue",,0,0
 "Flat Round Skin",,0,0
 "Flat Round Skin and Castor Glands",,0,0
 "flat skin","flat skin",1,1
@@ -13410,6 +13483,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "flat skin, tissue, tissue, tissue, tissue, complete skeleton",,0,0
 "flat skin, wing, complete skeleton",,0,0
 "flat skin, wing, complete skeleton, other",,0,0
+"flat skin/complete skel/tissue | tissue",,0,0
+"flat skin/skeleton/tissue | tissue",,0,0
+"flat skin/skull/body skel/tissue | tissue",,0,0
+"flat skin/skull/tissue",,0,0
 "flat skin; skull",,0,0
 "Flat Taxidermy Skin",,0,0
 "flat wing + skel",,0,0
@@ -13556,6 +13633,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "flatskin, skeleton, tissue",,0,0
 "flayed and dried specimen",,0,0
 "Flipper (right, dried)",,0,0
+"flippers, tympanic bones and hyoids",,0,0
 "Fluid","fluid",1,1
 "Fluid - 0",,0,0
 "Fluid - 1","Fluid - 1",0,1
@@ -15017,6 +15095,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fore limb skeleton, right (in spirit)",,0,0
 "Fore limb, left (mounted, in spirit)",,0,0
 "Fore limbs (in spirit)",,0,0
+"fore/hind limbs",,0,0
 "FORE+HIND FOOT",,0,0
 "fore+hind limb elements, pelvis, scapula, assoc.",,0,0
 "Forefoot + casts",,0,0
@@ -15030,6 +15109,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FORELIMB BONE",,0,0
 "FORELIMB BONES",,0,0
 "forelimb elements, assoc",,0,0
+"forelimb only",,0,0
 "Fore-limbs (wax impregnated)",,0,0
 "Forelimbs + part vertebral column + pelvis (mounted)",,0,0
 "FORMALDEHYDE",,0,0
@@ -15490,6 +15570,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "frill",,0,0
 "frill frag",,0,0
 "frill frag+vertebra",,0,0
+"front of cranium",,0,0
 "FRONTA FRAGS",,0,0
 "frontal",,0,0
 "FRONTAL  PR",,0,0
@@ -15755,6 +15836,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FROZEN; SS-Tank 37",,0,0
 "FS","flat skin (only)",0,1
 "FT",,0,0
+"FTE",,0,0
 "FTR BLDG.",,0,0
 "FTR RM 113",,0,0
 "full mount",,0,0
@@ -16179,6 +16261,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Head (dried, incomplete)",,0,0
 "head (ethanol)",,0,0
 "head (ethanol) | muscle (95% ethanol)",,0,0
+"head (ethanol) | shell",,0,0
 "HEAD (GLYCERIN)","head (glycerin)",0,1
 "Head (in spirit)",,0,0
 "Head (mounted in spirit)",,0,0
@@ -16274,6 +16357,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Head, sectioned and dissected (mounted, in spirit)",,0,0
 "Head, showing whisker nerves (in spirit)",,0,0
 "head, skull, tissue",,0,0
+"head/shoulder mount",,0,0
 "HEAD/UPPER LIMBS/TRUNK (DRY)","head, trunk, upper limbs",0,1
 "HEAD/WING/FOOT/SKELETON","head, wing, foot, skeleton",0,1
 "Head/Wings",,0,0
@@ -17691,6 +17775,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "jar - 1",,0,0
 "jar - 2",,0,0
 "jaw","jaw",1,1
+"jaw & baculum",,0,0
 "JAW & FORELIMB O.","jaw, forelimb",0,1
 "Jaw (? lower, symphysis)",,0,0
 "Jaw (?dentary, fragment)",,0,0
@@ -18035,6 +18120,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "jaw m/2",,0,0
 "jaw m/4",,0,0
 "jaw m/x",,0,0
+"jaw only",,0,0
 "jaw or jaws in matrix",,0,0
 "jaw p/3,4",,0,0
 "jaw p/3-4 m/1",,0,0
@@ -21899,6 +21985,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "left partial M1/",,0,0
 "left partial P4/",,0,0
 "left partial snout",,0,0
+"left pelvic bone",,0,0
 "left pelvis",,0,0
 "left periotic",,0,0
 "left peripheral 1",,0,0
@@ -22436,6 +22523,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Lower R deciduous premolar.",,0,0
 "Lower R molar.",,0,0
 "lower r tooth",,0,0
+"lower right jaw",,0,0
 "lower right m2",,0,0
 "lower right p1",,0,0
 "lower right p4",,0,0
@@ -23082,6 +23170,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "mandible | tissue",,0,0
 "mandible + maxilla",,0,0
 "MANDIBLE 3",,0,0
+"mandible and baculum",,0,0
 "MANDIBLE AND QUADRATES",,0,0
 "Mandible and skull fragments",,0,0
 "MANDIBLE ANT",,0,0
@@ -23130,6 +23219,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "MANDIBLE LOWER POST",,0,0
 "MANDIBLE LOWER PR ALL TEETH",,0,0
 "MANDIBLE LOWER R ARTICULAR AREA",,0,0
+"mandible only",,0,0
 "MANDIBLE PORT L",,0,0
 "MANDIBLE PORT R",,0,0
 "MANDIBLE POST HALF",,0,0
@@ -23166,6 +23256,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "mandible, postcranium",,0,0
 "mandible, premolar",,0,0
 "mandible, rib, longbone, vertebra lumbar, miscellaneous fragments, tarsal, tusk, vertebra thoracic, vertebra cervical, carpal, scapula, humerus, hyoid, Axis, molar, atlas",,0,0
+"mandible, right ramus",,0,0
 "mandible, skeleton",,0,0
 "mandible, skeleton, ulna, humerus, intercentrum, radius, rib",,0,0
 "mandible, skin",,0,0
@@ -23196,6 +23287,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "MANDIBLE,VERTEBRAE,RIBS,SKULL FRAGS",,0,0
 "Mandible.",,0,0
 "mandible/maxilla fragments",,0,0
+"mandible/partial skel",,0,0
+"mandible/partial skel/fetus bones",,0,0
+"mandible/partial skel/pelvis",,0,0
+"mandible/post-cranial",,0,0
+"mandible/tissue | tissue",,0,0
 "mandible; antlers",,0,0
 "MANDIBLE+SCUTE FRAGS",,0,0
 "MANDIBLE+TEETH",,0,0
@@ -23206,12 +23302,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Mandibles (in spirit)",,0,0
 "MANDIBLES ANT TIP",,0,0
 "MANDIBLES O.","mandibles",0,1
+"mandibles only",,0,0
 "MANDIBLES W TEETH",,0,0
 "MANDIBLES,LIMB BONES",,0,0
 "MANDIBLES,TEETH",,0,0
 "MANDIBLES,TEETH,LIMB FRAGS",,0,0
 "MANDIBLES,VERTEBRAE",,0,0
 "MANDIBLES,VERTEBRAE,SKIN",,0,0
+"mandibles/teeth",,0,0
 "mandibular and bone frags.",,0,0
 "mandibular cartilage",,0,0
 "mandibular cartilage fragment",,0,0
@@ -25834,9 +25932,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "One costal, 5 limb fragments",,0,0
 "One dissected (mounted, in spirit)",,0,0
 "One half R astragalus.",,0,0
+"one horn",,0,0
 "one hundred sixty-six isolated cheek teeth",,0,0
 "One incomplete",,0,0
 "One lumbar vertebrae",,0,0
+"one ramus/partial skel/fetal bones",,0,0
 "One side distal half metapodial.",,0,0
 "One side lower mandible.",,0,0
 "one skull",,0,0
@@ -28392,6 +28492,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial atlas",,0,0
 "partial axis",,0,0
 "partial basicranium; exoccipital and partial basioccipital",,0,0
+"partial body skel",,0,0
 "PARTIAL BODY SKELETON","partial body skeleton",0,1
 "partial bridge peripheral",,0,0
 "partial bulla",,0,0
@@ -28433,6 +28534,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial costal",,0,0
 "partial cranium",,0,0
 "partial cranium (edentulous",,0,0
+"partial cranium (horns only)",,0,0
+"partial cranium (one horn)",,0,0
 "partial cranium | tissue",,0,0
 "partial cranium in matrix",,0,0
 "partial cranium in numerous fragments",,0,0
@@ -28466,11 +28569,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial cranium w P3, M1-4",,0,0
 "partial cranium w r P2-3; l+r P4, M1-3",,0,0
 "partial cranium with left I1-2, P2-4, frag M1+r P2, frag M1",,0,0
+"partial cranium*",,0,0
 "partial cranium, associated fragments",,0,0
 "partial cranium, dentaries, vertebrae",,0,0
 "partial cranium, l+r dentaries, associated fragments",,0,0
 "partial cranium, r dentary+numerous associated fragments",,0,0
 "partial cranium, r+l dentaries, scutes+skeleton",,0,0
+"partial cranium/horns",,0,0
+"partial cranium/mandible",,0,0
+"partial cranium/mandible/body skeleton",,0,0
+"partial cranium/tissue | tissue",,0,0
+"partial cranium/tusks",,0,0
+"partial cranium/tusks (2)",,0,0
 "partial cranium+dentaries",,0,0
 "partial cranium+dentaries in articulation",,0,0
 "partial cranium+dentaries in articulation, associated fragments",,0,0
@@ -29328,11 +29438,29 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skel","partial skeleton",0,1
 "partial skel (+ 1 dried foot for the teaching collection)",,0,0
 "partial skel (+ 1 dried foot for the teaching collection) | tissue",,0,0
+"partial skel (front leg & scapula)",,0,0
 "partial skel + other (surrogate puppet) + DNA (muscle)","partial skeleton, surrogate puppet, DNA (muscle)",0,1
 "partial skel + wing + DNA (heart+muscle)","partial skeleton, wing, DNA (heart, muscle)",0,1
 "Partial Skel, Wing, DNA","partial skeleton, wing, DNA",0,1
 "partial skel/baculum","baculum, partial skeleton",0,1
+"partial skel/fetal bones",,0,0
+"partial skel/humerus",,0,0
+"partial skel/long bones",,0,0
+"partial skel/mandible",,0,0
+"partial skel/mandible/pelvis",,0,0
+"partial skel/mount",,0,0
+"partial skel/one ramus/maxilla",,0,0
+"partial skel/pelvis/humerus",,0,0
+"partial skel/phalange/scapula",,0,0
+"partial skel/ribs/long bones/vertebrae",,0,0
+"partial skel/skull",,0,0
+"partial skel/teeth",,0,0
+"partial skel/tibia/metatarsal",,0,0
+"partial skel/tissue",,0,0
+"partial skel/tissue | tissue",,0,0
+"partial skel/vertebrae/ribs/ pelvis/leg bones",,0,0
 "partial skel/wing","partial skeleton, wing",0,1
+"partial skel/x-rays R&L flippers/art. flipper",,0,0
 "partial skeleton","partial skeleton",1,1
 "PARTIAL SKELETON (DRY)","partial skeleton",0,1
 "PARTIAL SKELETON (LACKS ANT. F","partial skeleton",0,1
@@ -29402,6 +29530,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Partial Skeleton, Wing, Tissue","partial skeleton, wing, tissue",0,1
 "partial skeleton, wing, tissue, round skin",,0,0
 "Partial skeleton.",,0,0
+"partial skeleton/tissue | tissue",,0,0
 "partial skeleton; head; foot; frozen: heart, muscle",,0,0
 "partial skeleton; jaws, skull frag, limb frags",,0,0
 "partial skeleton; wing",,0,0
@@ -29414,6 +29543,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skin","partial skin",1,1
 "Partial Skin, Bone Sample, Tissue Sample",,0,0
 "partial skin/skel","skeleton, partial skin",0,1
+"partial skin/skull/body skel",,0,0
 "PARTIAL SKULL","partial skull",0,1
 "partial skull - right maxilla and premaxilla",,0,0
 "PARTIAL SKULL & MANDIBLE","partial skull, mandible",0,1
@@ -29452,6 +29582,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "PARTIAL SKULL,HUMERI",,0,0
 "PARTIAL SKULL,LIMBS",,0,0
 "Partial skull.",,0,0
+"partial skull/ tissue | tissue",,0,0
+"partial skull/skeleton",,0,0
+"partial skull/tusks/baculum",,0,0
 "partial skull; baculum",,0,0
 "partial skull+associated bone",,0,0
 "partial skull+lower mandibles",,0,0
@@ -29485,6 +29618,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial tooth",,0,0
 "partial tooth plate",,0,0
 "Partial tooth.",,0,0
+"partial tusk",,0,0
 "partial tympanic",,0,0
 "partial ulna",,0,0
 "partial ulna+distal phalanx",,0,0
@@ -29562,6 +29696,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "pathological fused caudal vertebra",,0,0
 "PATHOLOGICAL ULNA FRAGS",,0,0
 "PATHOLOGICAL VERTEBRAE",,0,0
+"patial skin/skull/body skel",,0,0
 "paw only","paw",0,1
 "pb","pb",0,1
 "PECTORAL APENDAGE PLATE FRAG",,0,0
@@ -29643,8 +29778,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "pellets | tissue",,0,0
 "pelt","pelt",1,1
 "pelt (tanned)",,0,0
+"pelt/complete skel/tissue | tissue",,0,0
 "pelt/skel","pelt, skeleton",0,1
 "pelt/skeleton","pelt, skeleton",0,1
+"pelt/skeleton/tissue | tissue",,0,0
 "pelt/skull","pelt, skull",0,1
 "PELVES",,0,0
 "Pelvic",,0,0
@@ -30271,6 +30408,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "phalanx+other bone",,0,0
 "phalanx+teeth frags",,0,0
 "PHALANX2,3",,0,0
+"phallis tagument",,0,0
 "PHARHYNGEAL TEETH",,0,0
 "pharygeal",,0,0
 "pharyngeal",,0,0
@@ -30979,6 +31117,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "POSTCRANIAL BONE FRAG",,0,0
 "POSTCRANIAL BONE FRAGS",,0,0
 "POSTCRANIAL BONES",,0,0
+"post-cranial bones",,0,0
 "Postcranial bones (including vertebrae + limb bones)",,0,0
 "POSTCRANIAL BONES+/L P4-M3",,0,0
 "postcranial element",,0,0
@@ -35962,6 +36101,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "RADIUS,ULNA,VERTEBRA",,0,0
 "RADIUS,ULNAE",,0,0
 "Radius.",,0,0
+"radius/carpels",,0,0
 "Radius?",,0,0
 "radius?  fragment",,0,0
 "radius?  fragment | tissue",,0,0
@@ -36034,6 +36174,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Respiratory organ (in spirit)",,0,0
 "Restoration",,0,0
 "RESTORATION OF HEAD",,0,0
+"RF foot/partial skin",,0,0
 "RI",,0,0
 "Ri, Rp4, Rm1",,0,0
 "Ri, Rp4, Rm1-2",,0,0
@@ -36384,6 +36525,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "right mand with /m1-2",,0,0
 "right mand with two molars",,0,0
 "right mand. w/ P4-/M2",,0,0
+"right mandible",,0,0
 "right mandible fragment",,0,0
 "right mandible lacking symphysis",,0,0
 "RIGHT MANDIBLE ONLY","right mandible",0,1
@@ -36517,6 +36659,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "right radius",,0,0
 "Right radius + ulna",,0,0
 "right ramal fragment with p4-m1",,0,0
+"right rib",,0,0
 "Right scapula",,0,0
 "right scapula, fragmentary",,0,0
 "right semilunar",,0,0
@@ -36712,6 +36855,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "ROSTRUM,R+L DENTARY",,0,0
 "ROSTRUM,TEETH",,0,0
 "rostrum.",,0,0
+"rostrum/mandibles/tissue | tissue",,0,0
 "ROSTRUM+PALATE W P4-M1",,0,0
 "round","round skin",0,1
 "round skin",,0,0
@@ -36846,6 +36990,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Rt. Peripheral #1",,0,0
 "RT. PETROSAL",,0,0
 "rug with half head mount",,0,0
+"rump skin",,0,0
 "S0","skin in alcohol",0,1
 "SA","alcoholic carcass",0,1
 "Sabot (right, fore)",,0,0
@@ -36984,9 +37129,24 @@ R PERIPHERALS 2 - 3.",,0,0
 "scales+vertebrae",,0,0
 "SCALESS",,0,0
 "SCALP","scalp",0,1
+"scalp skin/complete skel",,0,0
+"scalp skin/partial skel",,0,0
+"scalp skin/skel",,0,0
+"scalp skin/skeleton",,0,0
+"scalp skin/skull",,0,0
+"scalp skin/skull/body skel",,0,0
+"scalp/complete skel",,0,0
+"scalp/complete skel/tissue | tissue",,0,0
+"scalp/rump skin/partial skel",,0,0
+"scalp/rump skin/skull/body skel",,0,0
 "scalp/skel","scalp, skeleton",0,1
+"scalp/skeleton",,0,0
+"scalp/skeleton/baculum",,0,0
 "scalp/skull","scalp, skull",0,1
 "scalp/skull/antlers","antlers, scalp, skull",0,1
+"scalp/skull/body skel",,0,0
+"scalp/skull/body skel | tissue",,0,0
+"scalp/skull/tissue | tissue",,0,0
 "scalp/wing","scalp, wing",0,1
 "scalp/wing, tissue","scalp, tissue, wing",0,1
 "SCAPHOID",,0,0
@@ -37021,6 +37181,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SCAPHOLUNAR,PHALANX,METACARPAL 3",,0,0
 "SCAPHOLUNARS",,0,0
 "scapula","scapula",1,1
+"scapula & humerus",,0,0
 "Scapula ( blade fragment)",,0,0
 "Scapula (almost, complete) + forelimb (parts)",,0,0
 "Scapula (base)",,0,0
@@ -37334,6 +37495,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "SHELL (DRY)","shell",0,1
 "SHELL (DRY), tissue","shell, tissue",0,1
 "Shell (in spirit)",,0,0
+"shell | body parts (ethanol)",,0,0
+"shell | head (ethanol)",,0,0
 "shell + postcranial frags. , assoc.",,0,0
 "shell +postcranial frags, assoc",,0,0
 "SHELL AND FLUID GONADS","shell, fluid gonads",0,1
@@ -37506,6 +37669,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Shoulder-girdle + sternum + ribs (sternal) + trachea",,0,0
 "Shoulder-girdle + sturnum + vertebrae + ribs",,0,0
 "Showing two young in pouch (in spirit)",,0,0
+"SHP",,0,0
 "sighting",,1,1
 "silicone mold of carapace",,0,0
 "Single plate",,0,0
@@ -37704,6 +37868,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skel/scalp","scalp, skeleton",0,1
 "SKEL/SKIN","skeleton, skin",0,1
 "skel/tail","skeleton, tail",0,1
+"skel/tissue/pelt patches | tissue",,0,0
 "skel/two wings","skeleton, wings",0,1
 "skel/wing","skeleton, wing",0,1
 "skel/wing, tissue","skeleton, tissue, wing",0,1
@@ -37997,6 +38162,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton (Unmounted skeleton) (Unmounted skeleton) (Unmounted skeleton)",,0,0
 "skeleton (vertebrae, caudal fin+first dorsal ray restored)",,0,0
 "SKELETON ?",,0,0
+"skeleton | egg",,0,0
+"skeleton | tissue",,0,0
 "Skeleton + carapace + plastron",,0,0
 "Skeleton + Wing","skeleton, wing",0,1
 "Skeleton and baleen",,0,0
@@ -41462,11 +41629,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton/C&S","skeleton, cleared and stained",0,1
 "Skeleton/crown skin",,0,0
 "SKELETON/FEATHERS","skeleton, feathers",0,1
+"skeleton/flat pelt/tissue | tissue",,0,0
 "Skeleton/Foot/Wing/Tail",,0,0
+"skeleton/scalp",,0,0
 "SKELETON/SKIN","skeleton, skin",0,1
 "SKELETON/SKIN/WING","skeleton, skin, wing",0,1
 "SKELETON/SKIN/WING/FEATHERS","skeleton, skin, wing, feathers",0,1
 "Skeleton/tissue",,0,0
+"skeleton/tissue | tissue",,0,0
 "SKELETON/WING","skeleton, wing",0,1
 "SKELETON/WING/FEATHERS","skeleton, wing, feathers",0,1
 "SKELETON/WING/FOOT/FEATHERS","skeleton, wing, foot, feathers",0,1
@@ -42228,6 +42398,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin +skel | tissue",,0,0
 "skin and body skeleton","skin, body skeleton",0,1
 "Skin and Leg Bones",,0,0
+"skin and mandible",,0,0
 "Skin and Partial Skeleton",,0,0
 "skin and skeleton","skin, skeleton",0,1
 "Skin and Skeleton (no skull)",,0,0
@@ -42243,16 +42414,21 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin of head and neck (in spirit)",,0,0
 "Skin of pes, right (in spirit)",,0,0
 "Skin Only","skin",0,1
+"skin only (rug)",,0,0
+"skin only (tanned)",,0,0
 "skin only *",,0,0
 "skin only ?",,0,0
 "skin only @",,0,0
 "skin only | tissue",,0,0
 "SKIN ONLY/MUMMIFIED","mummy (skin)",0,1
 "SKIN ONLY/SKELETON","skin, skeleton",0,1
+"skin only/tissue | tissue",,0,0
 "Skin only: destroyed","skin (destroyed)",0,1
+"skin only; alc. whole body | tissue",,0,0
 "skin or hide",,0,0
 "Skin patch",,0,0
 "Skin Removed",,0,0
+"skin sample",,0,0
 "skin sample, bone sample, tissue",,0,0
 "skin tanned/skel/scalp","scalp, skeleton, tanned skin",0,1
 "skin with cast skull + alc skull & part body + misc: feathers + cast of skull + misc: 104 DVDs copied from MBCC videos.",,0,0
@@ -59170,33 +59346,92 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, wingspread, Tissue number 9384",,0,0
 "skin, wingspread, Tissue number 9743 at Smithsonian",,0,0
 "SKIN,SKELETON","skin, skeleton",0,1
+"skin//skull/skeleton/tissue | tissue",,0,0
+"skin/2 skulls/partial skels",,0,0
 "skin/alcoholic","alcoholic, skin",0,1
 "Skin/baculum","baculum, skin",0,1
+"skin/body skel",,0,0
+"skin/body skel/tissue | tissue",,0,0
 "SKIN/BODY SKELETON","skin, body skeleton",0,1
 "SKIN/BODY SKELETON/SK","skin, body skeleton, skull",0,1
+"skin/body skell",,0,0
 "skin/claws","claws, skin",0,1
+"skin/cranium",,0,0
+"skin/cranium only",,0,0
+"skin/cranium/partial skeleton/pelvis/sacrum",,0,0
+"skin/cranium/right mandible",,0,0
+"skin/foot bones",,0,0
 "Skin/leg","leg, skin",0,1
+"skin/lower jaw/ scapula & long bones",,0,0
 "Skin/mandible","mandible, skin",0,1
+"skin/mandible/body skel",,0,0
+"skin/mandibles",,0,0
+"skin/mandibles/body skel | tissue",,0,0
 "SKIN/MOUNT","skin, mount",0,1
+"skin/partial",,0,0
+"skin/partial cranium/mandible",,0,0
 "skin/partial skel","partial skeleton, skin",0,1
+"skin/partial skel/tissue | tissue",,0,0
+"skin/partial skeleton",,0,0
+"skin/partial skull",,0,0
 "skin/skel","skeleton, skin",0,1
 "skin/skel fragments","skeleton fragments, skin",0,1
 "skin/skel//forelimb/scalp/","forelimbs, scalp, skeleton, skin",0,1
 "SKIN/SKELEOTN","skin, skeleton",0,1
 "SKIN/SKELETON","skin, skeleton",0,1
 "skin/skeleton :partial","partial skeleton, skin",0,1
+"skin/skeleton | tissue",,0,0
 "SKIN/SKELETON/FEATHERS","skin, skeleton, feathers",0,1
 "Skin/Skeleton/Tissue",,0,0
+"skin/skeleton/tissue | tissue",,0,0
 "skin/skell","skeleton, skin",0,1
 "skin/skul","skin, skull",0,1
 "skin/skull","skin, skull",0,1
+"skin/skull | tissue",,0,0
+"skin/skull +",,0,0
+"skin/skull absent/body skel",,0,0
+"skin/skull fragments | tissue",,0,0
+"skin/skull fragments/tissue | tissue",,0,0
 "skin/skull teaching","skin, skull",0,1
+"skin/skull(dup)",,0,0
 "skin/skull, teaching","skin, skull",0,1
 "skin/skull/antlers","antlers, skin, skull",0,1
 "skin/skull/baculum","baculum, skin, skull",0,1
+"skin/skull/baculum/tissue | tissue",,0,0
+"skin/skull/body skel",,0,0
+"skin/skull/body skel  | tissue",,0,0
+"skin/skull/body skel (fragments)",,0,0
+"skin/skull/body skel | tissue",,0,0
+"skin/skull/body skel(mummified)",,0,0
+"skin/skull/body skel/baculum/tissue | tissue",,0,0
+"skin/skull/body skel/tissue",,0,0
+"skin/skull/body skel/tissue | tissue",,0,0
+"skin/skull/body skel;  | tissue",,0,0
+"skin/skull/body skel; alc.   | tissue",,0,0
+"skin/skull/body skel; alc. embryo | tissue",,0,0
+"skin/skull/body skel; alc. embryos | tissue",,0,0
+"skin/skull/body skel; alc. gut",,0,0
+"skin/skull/body skel; alc. gut | tissue",,0,0
+"skin/skull/body skel; alc. gut parasites: a, b | tissue",,0,0
+"skin/skull/body skel; alc. gut parasites: a, b, c, | tissue",,0,0
+"skin/skull/body skel; alc. gut, repro, kidneys",,0,0
+"skin/skull/body skel; alc. gut,kidney",,0,0
+"skin/skull/body skel; alc. gut,uterus | tissue",,0,0
+"skin/skull/body skel; alc. testicle | tissue",,0,0
+"skin/skull/body skel; alc. uterus | tissue",,0,0
+"skin/skull/body skel; alc. uterus, embryos | tissue",,0,0
+"skin/skull/body skel; alc. uterus, ovaries | tissue",,0,0
+"skin/skull/leg bones",,0,0
+"skin/skull/partial body skel",,0,0
+"skin/skull/partial skel",,0,0
+"skin/skull/partial skel | tissue",,0,0
+"skin/skull/partial skel/tissue | tissue",,0,0
+"skin/skull/partial skeleton",,0,0
 "skin/skull/scalp/antlers/jaw","antlers, jaw, scalp, skin, skull",0,1
+"skin/skull/scapula",,0,0
 "skin/skull/skel","skeleton, skin, skull",0,1
 "Skin/skull/tissue",,0,0
+"skin/skull/tissue | tissue",,0,0
 "skin/skull?","skin, skull",0,1
 "Skin/toe clip - 1; Feather - 1","Feather - 1",0,1
 "Skin/toe clip - 1; Feather - 1; Skin - 1","Feather - 1; Skin - 1",0,1
@@ -59469,6 +59704,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "sktissue",,0,0
 "Skul (damaged)l with jaw",,0,0
 "Skul (sectioned)l with jaw",,0,0
+"skul/post-cranial",,0,0
 "skull","skull",1,1
 "Skull - 1",,0,0
 "Skull - 1; Flat Skin - 1",,0,0
@@ -59488,6 +59724,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULL & ASST. SKEL. ELEMENTS","skull, skeletal elements",0,1
 "SKULL & ATLAS ONLY","skull, atlas",0,1
 "SKULL & AXIAL SKELETON (DRY)","axial skeleton, skull",0,1
+"skull & baculum",,0,0
 "skull & bone frags",,0,0
 "SKULL & L DENTARY ALL TEETH",,0,0
 "SKULL & MUCH OF SKELETON","skull, partial skeleton",0,1
@@ -59580,6 +59817,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull (counterpart) + premaxilla",,0,0
 "Skull (cranial + rostral portion)",,0,0
 "Skull (cranial region, fragment)",,0,0
+"Skull (cranium & left ramus of mandible) and femur",,0,0
 "Skull (cranium with pedicles)",,0,0
 "skull (cranium)",,0,0
 "Skull (cranium) + horn cores",,0,0
@@ -59768,6 +60006,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull (left frontal fragment)",,0,0
 "Skull (left half)",,0,0
 "Skull (left half) with jaw",,0,0
+"skull (left ramus absent)",,0,0
 "Skull (left side + teeth (premolars + molars)",,0,0
 "Skull (left side) with jaws + teeth (milk)",,0,0
 "skull (mandible), none",,0,0
@@ -59837,6 +60076,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull (middle) + teeth",,0,0
 "Skull (misc. fragments)",,0,0
 "Skull (misc. parts) + skeleton (many bones)",,0,0
+"skull (missing canines and incisors)",,0,0
 "Skull (missing snout) + postcranial",,0,0
 "Skull (most teeth missing)",,0,0
 "Skull (mounted)",,0,0
@@ -60047,6 +60287,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull | heart (95% ethanol)",,0,0
 "skull | liver (95% ethanol)",,0,0
 "skull | muscle (95% ethanol)",,0,0
+"skull | shell",,0,0
 "skull | skeletom",,0,0
 "skull | skeleton",,0,0
 "skull | skeleton | kidney (95% ethanol)",,0,0
@@ -60200,6 +60441,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull and dentary frags",,0,0
 "SKULL AND DRIED POST CRANIAL DRIED SKIN","skull, dried post-cranial skin",0,1
 "SKULL AND DRIED SKIN","skull, dried skin",0,1
+"skull and flipper",,0,0
 "SKULL AND FLUID SKIN","skull, fluid skin",0,1
 "SKULL AND FLUID SPECIMEN","skull, fluid specimen",0,1
 "Skull and Humerus",,0,0
@@ -60212,6 +60454,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULL AND L AND R DENTARIES",,0,0
 "Skull and leg bone",,0,0
 "Skull and Leg Bones",,0,0
+"skull and leg-bones",,0,0
+"skull and long bones",,0,0
 "skull and lower jaw",,0,0
 "SKULL AND LOWER JAW.",,0,0
 "skull and lower jaws",,0,0
@@ -60227,10 +60471,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull and one leg bone",,0,0
 "skull and part skeleton",,0,0
 "skull and part skelton",,0,0
+"skull and partial post-cranial skel",,0,0
+"skull and partial post-cranial skeleton",,0,0
 "Skull and partial skeleton","skull, partial skeleton",0,1
 "Skull and partial skeleton, including 3 femurs.",,0,0
 "skull and partial skeleton; right side slab only",,0,0
 "Skull and Pelvic Girdle",,0,0
+"skull and pelvis",,0,0
 "skull and phalanges",,0,0
 "skull and postcrania",,0,0
 "skull and postcranial frags",,0,0
@@ -60395,6 +60642,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull fragments",,0,0
 "Skull fragments making up most of skull; anterior 5/6 L dentary w teeth; axis and four other cervicals; two ribs",,0,0
 "Skull fragments.",,0,0
+"skull fragments/partial skel",,0,0
+"skull fragments/tissue | tissue",,0,0
 "SKULL FRAGS",,0,0
 "skull frag's",,0,0
 "skull frags & some postcrania",,0,0
@@ -60465,6 +60714,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULL FRAGS.",,0,0
 "SKULL FRAGS. AND LIMB FRAGS.",,0,0
 "SKULL FRAGS., VERTEBRAE, OSTEODERMS",,0,0
+"skull frags/tissue | tissue",,0,0
 "SKULL FRAGS+DENTARY FRAGS",,0,0
 "SKULL FRAGS+TEETH",,0,0
 "SKULL I/ 3 U/ P4/ R",,0,0
@@ -60568,9 +60818,17 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULL ONLY (POSTERIOR 2/3)","partial skull",0,1
 "skull only *",,0,0
 "skull only | tissue",,0,0
+"skull only*",,0,0
 "Skull only, mandibles","skull, mandibles",0,1
 "skull only, no mandibles","skull",0,1
 "Skull only.","skull",0,1
+"skull only/ tissue | tissue",,0,0
+"skull only/baculum/tissue | tissue",,0,0
+"skull only/tissue",,0,0
+"skull only/tissue  | tissue",,0,0
+"skull only/tissue | tissue",,0,0
+"skull only/tissue. SKIN TO TC | tissue",,0,0
+"skull only; alc. gut | tissue",,0,0
 "skull only?","skull",0,1
 "SKULL OR INTERCLAVICLE FRAG",,0,0
 "Skull or Partial skeleton",,0,0
@@ -60598,6 +60856,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULL PARTIAL SKELETON SCALES (DRY)","scales, partial skeleton, skull",0,1
 "skull parts",,0,0
 "skull plate",,0,0
+"skull plate/horns",,0,0
 "SKULL PLATES",,0,0
 "SKULL PORT",,0,0
 "SKULL PORT; MT DIST; ASTRAG; TOOTH",,0,0
@@ -61192,6 +61451,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull, missing R zygomatic arch; R P2/ P3/ P4/ M1/, L P3/ P4/ M1/.",,0,0
 "Skull, missing zygomatic arches; R P4/ M1/; L I2/ I3/ P4/ M1/.",,0,0
 "skull, molar, miscellaneous fragments",,0,0
+"skull, no mandible",,0,0
 "skull, other",,0,0
 "skull, other prep","other prep, skull",0,1
 "skull, other, complete skeleton",,0,0
@@ -61201,6 +61461,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull, part skeleton",,0,0
 "Skull, PART, Fluid",,0,0
 "skull, partial","skull",0,1
+"skull, partial skel",,0,0
 "Skull, partial skeleton","skull, partial skeleton",0,1
 "skull, partial skeleton, baculum",,0,0
 "skull, partial skeleton, baculum, skin",,0,0
@@ -61213,6 +61474,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull, pelvis",,0,0
 "Skull, Pelvis and Live Mount",,0,0
 "Skull, Pelvis and Skin",,0,0
+"skull, pelvis, leg",,0,0
 "skull, photo, tissue",,0,0
 "Skull, portion R jugal missing. L P4/ M1/ M3/;  R M1/ M3/.",,0,0
 "skull, postcranial frags",,0,0
@@ -61543,13 +61805,38 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull/antlers","antlers, skull",0,1
 "skull/auditory bulla fragments",,0,0
 "skull/baculum","baculum, skull",0,1
+"skull/baculum | tissue",,0,0
+"skull/baculum/hyoid/histopath",,0,0
 "Skull/baculum/tissue",,0,0
+"skull/baculum/tissue | tissue",,0,0
+"skull/femur",,0,0
+"skull/fetal bones",,0,0
 "skull/forelimb","forelimb, skull",0,1
 "skull/forelimb/scalp","forelimb, scalp, skull",0,1
+"skull/front flippers",,0,0
+"skull/front legs/tissue | tissue",,0,0
+"skull/hind limbs",,0,0
 "skull/horns","horns, skull",0,1
+"skull/hyoid",,0,0
+"skull/hyoid | tissue",,0,0
 "skull/hyoid only?","hyoid, skull",0,1
+"skull/long bones",,0,0
+"skull/partial body skel",,0,0
+"skull/partial body skeleton",,0,0
 "skull/partial skel","partial skeleton, skull",0,1
+"skull/partial skel/atlas/fetal bones",,0,0
+"skull/partial skel/fetal bones",,0,0
+"skull/partial skel/pelvis",,0,0
+"skull/partial skel/tissue | tissue",,0,0
+"skull/partial skeleton",,0,0
+"skull/partial skeleton/fetal bones",,0,0
+"skull/partial skeleton/fetal bones (6)",,0,0
+"skull/partial skin/tissue",,0,0
 "Skull/pelvis",,0,0
+"skull/pelvis/femur",,0,0
+"skull/post-cranial",,0,0
+"skull/R wing/tissue | tissue",,0,0
+"skull/right rear foot",,0,0
 "skull/scalp","scalp, skull",0,1
 "skull/scalp/antlers","antlers, scalp, skull",0,1
 "skull/scalp/skin/forelimb","forelimb, scalp, skin, skull",0,1
@@ -61557,9 +61844,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull/skel/pelt","pelt, skeleton, skull",0,1
 "skull/skel/scalp","scalp, skeleton, skull",0,1
 "skull/skin alc","alcoholic, skin, skull",0,1
+"skull/skin/tissue | tissue",,0,0
 "skull/tail","skull, tail",0,1
 "SKULL/TAIL/FEMUR/TIBIA (DRY)","femur, skull, tail, tibia",0,1
 "Skull/tissue",,0,0
+"skull/tissue | tissue",,0,0
+"skull/tissue/baculum | tissue",,0,0
 "skull/tooth","skull, tooth",0,1
 "skull/vertebrae","skull, vertebrae",0,1
 "skull/wings/tail","skull, tail, wings",0,1
@@ -62043,6 +62333,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Stomach + liver + gall bladder (in spirit)",,0,0
 "Stomach + liver + pancreas (in spirit)",,0,0
 "Stomach + lungs (in spirit)",,0,0
+"stomach contents (ethanol)",,0,0
 "Stomach etc. (in spirit)",,0,0
 "stomach plastic","plastic stomach",0,1
 "Stomach stones",,0,0
@@ -62083,6 +62374,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "STUFFED (DRY)","stuffed",0,1
 "STUFFED DRIED SKIN","stuffed dried skin",0,1
 "stuffed dry skin (skull in skin)",,0,0
+"stuffed specimen",,0,0
 "subadult posterior peripherals (7), pygal",,0,0
 "SUBMARGINAL FRAG",,0,0
 "SUBOPERCULAR",,0,0
@@ -62410,6 +62702,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "TANK 4-A",,0,0
 "TANK 59",,0,0
 "tanned hide","tanned skin",0,1
+"tanned hide/tissue only | tissue",,0,0
 "TANNED SKIN","tanned skin",0,1
 "tanned skin & skull",,0,0
 "tanned skin & skull + complete skel",,0,0
@@ -62683,6 +62976,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "teeth and jaw frags",,0,0
 "teeth and jaws",,0,0
 "TEETH AND MANDIBLE FRAGS",,0,0
+"teeth and phalanges",,0,0
 "TEETH AND PLACOID SCALES",,0,0
 "teeth and teeth plates",,0,0
 "TEETH AND TOOTH PLATES",,0,0
@@ -62815,6 +63109,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "TEETH/,PHALANGES",,0,0
 "TEETH/,PODIALS",,0,0
 "TEETH/+/TEETH",,0,0
+"Teeth/bone/tissue",,0,0
+"teeth/partial skull",,0,0
 "TEETH+BONE FRAGS",,0,0
 "teeth+dentary fragments",,0,0
 "Teeth+fragments",,0,0
@@ -63412,6 +63708,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue ,wing","tissue, wing",0,1
 "tissue ,wing ,Skel","skeleton, tissue, wing",0,1
 "tissue ,wing ,Skel ,feathers","feathers, skeleton, tissue, wing",0,1
+"tissue | tissue",,0,0
 "Tissue number 10186",,0,0
 "Tissue number 10585",,0,0
 "Tissue number 10636",,0,0
@@ -63471,6 +63768,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue number not taken",,0,0
 "Tissue number Y",,0,0
 "tissue only",,0,0
+"tissue only (ALL TISSUE SENT TO SCHWARTZ) | tissue",,0,0
+"tissue only | tissue",,0,0
+"tissue only; SKELETON TO T.C. | tissue",,0,0
 "TISSUE SAMPLE IN BRINE, tissue",,0,0
 "tissue, alcoholic",,0,0
 "tissue, alcoholic, complete skeleton",,0,0
@@ -64434,6 +64734,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "tooth/baculum","baculum, tooth",0,1
 "tooth/bone frags",,0,0
 "TOOTH/FRAG,ECTOCUNEIFORM",,0,0
+"tooth/phalange",,0,0
+"tooth: portion of ext. tusk",,0,0
 "TOOTH; MAXILLA M2/ FRAG L",,0,0
 "TOOTH?",,0,0
 "TOOTH+ALVEOLUS",,0,0
@@ -64537,6 +64839,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tusk (fragment)",,0,0
 "Tusk (fragments)",,0,0
 "Tusk (incomplete)",,0,0
+"tusk (polished)",,0,0
 "Tusk (tip)",,0,0
 "TUSK ?",,0,0
 "tusk and frags",,0,0
@@ -64565,6 +64868,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "TUSK/,DENTARY FRAG",,0,0
 "TUSK+PREMAXILLA",,0,0
 "tusks","tusks",0,1
+"tusks (2)",,0,0
+"tusks only (2)",,0,0
 "tusks,cranial elements, pelvis, podials, femur, partial rib",,0,0
 "twenty-eight isolated cheek teeth",,0,0
 "Twenty-two skulls",,0,0
@@ -64629,6 +64934,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Two-thirds R dentary i/1 m/1 m/2.",,0,0
 "Two-thirds radius.",,0,0
 "tympanic",,0,0
+"tympanic bone",,0,0
+"tympanic bone (left)",,0,0
+"tympanic bone (right)",,0,0
+"tympanic bones",,0,0
+"tympanic bones (2)",,0,0
 "tympanic bulla",,0,0
 "TYMPANIC BULLA FRAG",,0,0
 "TYMPANIC BULLA FRAG,PERIOTIC FRAG",,0,0
@@ -64641,6 +64951,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "U+L DENTARY,TMT,RADIUS,TBT",,0,0
 "u+l molar frags, ? assoc",,0,0
 "Ulna",,0,0
+"ulna & radius",,0,0
 "Ulna ( (left, part)",,0,0
 "ulna (?) fragment",,0,0
 "ulna (?) fragment | tissue",,0,0
@@ -64709,6 +65020,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "ULNA JUV",,0,0
 "ulna midshaft",,0,0
 "ulna or pelvic frag",,0,0
+"ulna or radius",,0,0
 "ULNA PORT R",,0,0
 "ULNA PORT SHAFT R",,0,0
 "ULNA PROX ?",,0,0
@@ -65806,6 +66118,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "whole mount in plastic",,0,0
 "WHOLE MOUNT LABIAL TEETH (MICROSLIDE)","mount, labial teeth (microslide)",0,1
 "whole mount on glass",,0,0
+"whole orgainism (ethanol)",,0,0
 "whole organism (dry)",,0,0
 "whole organism (ethanol)",,0,0
 "whole organism (ethanol) | liver (95% ethanol)",,0,0
@@ -65977,6 +66290,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing/feet","feet, wing",0,1
 "wing/primaries SIA","wing",0,1
 "WING/SKELETON","wing skeleton",0,1
+"wing/skull/body skel",,0,0
 "wing/tail","tail, wing",0,1
 "wing/tail, tissue","tail, tissue, wing",0,1
 "wing/tail/feet","feet, tail, wing",0,1
