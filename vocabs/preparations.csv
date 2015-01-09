@@ -6102,14 +6102,17 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "articular/dentary",,0,0
 "ARTICULARS",,0,0
 "Articulars (2)",,0,0
+"Articulated (Semi-Mount) Skeleton",,0,0
 "articulated bones of postcrania",,0,0
 "articulated foot",,0,0
 "articulated peripherals",,0,0
 "articulated pes",,0,0
 "articulated pes in block of matrix",,0,0
 "articulated right petrosal and tympanic",,0,0
+"Articulated Skeleton",,0,0
 "articulated skeleton in large phosphate nodule",,0,0
 "Articulated skeleton; loose bones",,0,0
+"Articulated Sternum",,0,0
 "articulated vertebrae",,0,0
 "AS",,0,0
 "ASCENDING RAMUS OF DENTARY W CONDYLE",,0,0
@@ -11183,6 +11186,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Disarticulated","disarticulated",0,1
 "disarticulated carapace+skeleton",,0,0
 "DISARTICULATED JUV SKULL",,0,0
+"Disarticulated Skeleton",,0,0
 "disarticulated skull",,0,0
 "DISARTICULATED SKULL+INCOMPL DENTARY",,0,0
 "Disarticulated specimen (mounted)",,0,0
@@ -15563,6 +15567,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "frags. of L pelvis, femur",,0,0
 "free rib frag",,0,0
 "FREE VERTEBRA.",,0,0
+"Freeze dried",,0,0
 "freeze dried mount",,0,0
 "freeze dried skin",,0,0
 "freeze-dried",,0,0
@@ -16347,6 +16352,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Head, dissected to show auditory meatus, etc. (in spirit)",,0,0
 "Head, dissected to show ear apertures (in spirit)",,0,0
 "HEAD, LEGS, AND TAIL IN ALCOHOL","head, legs, and tail in alcohol",0,1
+"Head, one wing, one foot",,0,0
 "Head, partly skinned to show musculature (in spirit)",,0,0
 "Head, R humerus.",,0,0
 "Head, right half, musculature (in spirit)",,0,0
@@ -36160,9 +36166,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "rectrix 5 only","rectrix 5",0,1
 "Remains of specimen (in spirit)",,0,0
 "REMARKS","see remarks",0,1
+"Replica articulated skeleton",,0,0
 "Replica of clavicle",,0,0
 "Replica of skeleton (almost complete)",,0,0
 "Replica of skull",,0,0
+"Replica Skull & Beak",,0,0
 "Replicas of cranial + postcranial elements",,0,0
 "Replicas of skeleton (complete)",,0,0
 "Reproductive organs",,0,0
@@ -37433,6 +37441,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Semilunar (left)",,0,0
 "Semilunar (right)",,0,0
 "semilunar notch",,0,0
+"Semi-Mount",,0,0
 "Septomaxilla",,0,0
 "septosphenoid",,0,0
 "series of articulated centra",,0,0
@@ -41685,6 +41694,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin  (round), none",,0,0
 "skin  (round); skull (broken)",,0,0
 "skin  (round); skull (complete)",,0,0
+"Skin  (semi-mount?)",,0,0
 "skin  + alc stomach",,0,0
 "skin  + alc stomach | tissue",,0,0
 "Skin - 1","Skin - 1",0,1
@@ -41764,13 +41774,17 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 50; Eggset - 1; Tissue - null","Skin - 50; Eggset - 1; Tissue - null",0,1
 "Skin - 50; Tissue - 1","Skin - 50; Tissue - 1",0,1
 "Skin - 50; Tissue - 50","Skin - 50; Tissue - 50",0,1
+"Skin - frozen.  Freeze dried.",,0,0
+"Skin - no tail",,0,0
 "Skin - null","Skin - null",0,1
 "Skin - null; Tissue - 1","Skin - null; Tissue - 1",0,1
 "Skin - null; Tissue - 50","Skin - null; Tissue - 50",0,1
 "Skin - null; Tissue - null","Skin - null; Tissue - null",0,1
+"Skin - old",,0,0
 "skin  only",,0,0
 "skin  sternum  trachea  furcula","skin, sternum, trachea, furcula",0,1
 "skin  tissue sample","skin, tissue",0,1
+"Skin - Whole bird air dried",,0,0
 "skin  wing  partial skeleton","skin, wing, partial skeleton",0,1
 "skin  wing & partial skeleton","skin, wing, partial skeleton",0,1
 "SKIN & BODY SKELETON","skin, body skeleton",0,1
@@ -42128,6 +42142,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Schmoo), Tissue, Skeleton (Schmoo)",,0,0
 "Skin (Schmoo), Tissue, Skeleton (Schmoo), Skeleton (Schmoo), Tissue",,0,0
 "Skin (Schmoo), Tissue, Skeleton (Schmoo), Skeleton, Tissue (Schmoo)",,0,0
+"Skin (semi-mount?)",,0,0
 "Skin (Semi-mummy) (Semi-mummy) (Semi-mummy)",,0,0
 "Skin (shed)",,0,0
 "Skin (Skin (wing missing?)) (Skin (wing missing?))",,0,0
@@ -42407,6 +42422,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin chip",,0,0
 "skin chip and tissue",,0,0
 "skin chip, skull, tissue",,0,0
+"Skin Frozen . Freeze dried.",,0,0
 "skin impression",,0,0
 "Skin of foot",,0,0
 "Skin of head + skull with jaw (in skin)",,0,0
@@ -42431,6 +42447,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin sample",,0,0
 "skin sample, bone sample, tissue",,0,0
 "skin tanned/skel/scalp","scalp, skeleton, tanned skin",0,1
+"Skin- whole bird freeze dried",,0,0
 "skin with cast skull + alc skull & part body + misc: feathers + cast of skull + misc: 104 DVDs copied from MBCC videos.",,0,0
 "skin with cast skull + alc skull & part body + misc: feathers + cast of skull + misc: 104 DVDs copied from MBCC videos. | tissue",,0,0
 "SKIN WITH LIMB BONES","skin with limb bones",0,1
@@ -59683,12 +59700,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin+Wing","skin, wing",0,1
 "skin+wing+partial skel.+DNA (muscle only)","skin, wing, partial skeleton, DNA (muscle)",0,1
 "SKINK/SKELETON/FEATHERS","feathers, skeleton, skin",0,1
+"Skin-old",,0,0
 "Skinot found",,0,0
 "Skinot washed",,0,0
 "Skinov 1954",,0,0
 "Skinov. '51",,0,0
 "Skins",,0,0
 "SKINS AND RATTLES","skins, rattles",0,1
+"Skin-semi",,0,0
 "SkinU",,0,0
 "SkinY",,0,0
 "SKNOWN) 36.156.6","SKNOWN) 36.156.6",0,1
@@ -66090,6 +66109,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Whole animal",,0,0
 "whole animal in plexiglass block",,0,0
 "whole bird","whole animal",0,1
+"Whole bird -- freeze dried",,0,0
+"Whole bird - frozen.  Freeze-dried.",,0,0
+"Whole bird freeze dried",,0,0
+"Whole bird-frozen freeze dried",,0,0
+"Whole bird-frozen.  Freeze-dried",,0,0
 "whole body",,0,0
 "whole critter in a block of plastic",,0,0
 "Whole fish",,0,0

@@ -256,6 +256,17 @@ M[F]","unknown",0,1
 "<","unknown",0,1
 "=[F]M","unknown",0,1
 ">",,0,1
+"♀","female",0,1
+"♀ imm.","female",0,1
+"♀ immature","female",0,1
+"♀ young","female",0,1
+"♀&♂","female, male",0,1
+"♀?","female",0,1
+"♂","male",0,1
+"♂ immature","male",0,1
+"♂ young","male",0,1
+"♂?","male",0,1
+"♂? Adult","male",0,1
 "0?","unknown",0,1
 "1","unknown",0,1
 "1 hemipene, throat white, scales",,0,1
@@ -306,6 +317,7 @@ M[F]","unknown",0,1
 "AD.? MALE","in question",0,1
 "AD?","unknown",0,1
 "ADM","unknown",0,1
+"adult",,0,1
 "Adult + [Juvenile]","unknown",0,1
 "adult female","female",0,1
 "AHY MALE","male",0,1
@@ -336,6 +348,7 @@ M[F]","unknown",0,1
 "dorsum olive with scattered brow",,0,1
 "downy","unknown",0,1
 "EMB 1 emb. 18mm","female",0,1
+"Embryo",,0,1
 "F","female",0,1
 "F-","female",0,1
 "F  [=M]","unknown",0,1
@@ -565,6 +578,7 @@ M[F]","unknown",0,1
 "IMF","unknown",0,1
 "IMM","unknown",0,1
 "IMM ?","unknown",0,1
+"imm.",,0,1
 "IMM. FEMALE?","in question",0,1
 "IMM?","unknown",0,1
 "immature","immature",1,1
@@ -866,4 +880,5 @@ M[F]","unknown",0,1
 "X",,0,1
 "xxx","unknown",0,1
 "Yankee Pond","unknown",0,1
+"young",,0,1
 "Young adult","young adult",1,1

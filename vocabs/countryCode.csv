@@ -702,6 +702,7 @@
 "Altai","RU",0,1
 "Am Samoa","AS",0,1
 "Am. Samoa","AS",0,1
+"Amazonian Brazil","BR",0,1
 "Amazons of Peru","PE",0,1
 "Amboina","ID",0,1
 "Ambon I.","ID",0,1
@@ -818,6 +819,7 @@
 "ASIA (BY INFERENCE)",,0,1
 "ASIA (BY INFERERENCE",,0,1
 "ASIA (BY INFERERENCE)",,0,1
+"Asia (South)",,0,1
 "Asia Minor",,0,1
 "Asia Minor [Turkey]","TR",0,1
 "Asia Minor?",,0,1
@@ -1299,6 +1301,7 @@
 "Britain?","GB",0,1
 "British [U.K.]","GB",0,1
 "British Africa",,0,1
+"British America",,0,1
 "British America [Canada]","CA",0,1
 "British America; [Canada]","CA",0,1
 "British Baluchistan",,0,1
@@ -1379,6 +1382,7 @@
 "C Madagascar","MG",0,1
 "C Nigeria","NG",0,1
 "C.  Australia","AU",0,1
+"C. & S. America",,0,1
 "C. Angola","AO",0,1
 "C. Australia","AU",0,1
 "C. Bolivia","BO",0,1
@@ -1592,6 +1596,7 @@
 "Centr.Australia","AU",0,1
 "Centr.Br. New Guinea","PG",0,1
 "Centr.Du. New Guinea","ID",0,1
+"Central - South America",,0,1
 "Central / South America",,0,1
 "Central Afghanistan","AF",0,1
 "CENTRAL AFRICA",,0,1
@@ -1599,6 +1604,7 @@
 "CENTRAL AFRICAN REP","CF",0,1
 "Central African Republic","CF",1,1
 "CENTRAL AMERICA",,0,1
+"Central and South America",,0,1
 "Central and southern America",,0,1
 "Central Asia",,0,1
 "Central Australia","AU",0,1
@@ -2168,6 +2174,7 @@
 "East Africa [Kenya or Tanzania]",,0,1
 "East Africa [Kenya]","KE",0,1
 "East Africa?",,0,1
+"East Asia",,0,1
 "East Atlantic",,0,1
 "East Bimini","BS",0,1
 "East Bolivia","BO",0,1
@@ -2235,6 +2242,7 @@
 "eastern Ecuador","EC",0,1
 "'Eastern Ecuador'","EC",0,1
 "Eastern Egypt","EG",0,1
+"Eastern Himalayas",,0,1
 "Eastern India","IN",0,1
 "eastern Madagascar","MG",0,1
 "Eastern Panama","PA",0,1
@@ -2289,6 +2297,7 @@
 "Egyptien Sudan",,0,1
 "Egypt-Sudan",,0,1
 "Ehtiopia ?","ET",0,1
+"Eire","IE",0,1
 "Eire [Ireland]","IE",0,1
 "Eitrea","ER",0,1
 "EL ECUADOR","EC",0,1
@@ -2336,6 +2345,7 @@
 "Ethiopian-Kenya border",,0,1
 "Euador","EC",0,1
 "Euphrates",,0,1
+"Eurasia",,0,1
 "EUROPE",,0,1
 "EUROPE (BY INFE",,0,1
 "EUROPE (BY INFERENCE)",,0,1
@@ -2786,6 +2796,7 @@
 "HERFORDSHIRE","GB",0,1
 "Hervey Group","AU",0,1
 "Herzegovina","BA",0,1
+"High Mnts. of Europe, Asia",,0,1
 "HIGHLANDS CO.",,0,1
 "Himalaya",,0,1
 "'Himalayan India'","IN",0,1
@@ -2878,6 +2889,7 @@
 "India, Captive","IN",0,1
 "India, Ceylon",,0,1
 "India, E. Nepal",,0,1
+"India, East to Japan",,0,1
 "India, Lower Burma",,0,1
 "India, N.W. Ceylon",,0,1
 "India, Nepal",,0,1
@@ -2899,6 +2911,7 @@
 "Indian Seas",,0,1
 "Indian Territory","IN",0,1
 "Indies",,0,1
+"Indigenous in Western Asia",,0,1
 "Indio Pacific",,0,1
 "Indo",,0,1
 "Indo China",,0,1
@@ -2910,6 +2923,7 @@
 "Indo-China, Cambodia","KH",0,1
 "IndoChina, Laos","LA",0,1
 "Indo-China, Laos","LA",0,1
+"Indo-Malay",,0,1
 "Indonesia","ID",1,1
 "Indonesia / Malaysia",,0,1
 "Indonesia or Papua New Guinea",,0,1
@@ -3352,6 +3366,7 @@
 "Malay Penisula",,0,1
 "Malay Penn.",,0,1
 "Malay Penninsula",,0,1
+"Malay Region",,0,1
 "'Malay Region'",,0,1
 "Malay States","MY",0,1
 "Malaya","MY",0,1
@@ -3540,6 +3555,7 @@
 "Monaco","MC",0,1
 "Mongolia","MN",1,1
 "MONGOLIA?","MN",0,1
+"Mongolian People's Republic","MN",0,1
 "Montenegro","ME",1,1
 "Montserrat","MS",1,1
 "Montserrat, Br. Lesser Antilles","MS",0,1
@@ -3601,7 +3617,9 @@
 "N Siberia","RU",0,1
 "N Venezuela","VE",0,1
 "N.  Australia","AU",0,1
+"N. & E. Australia",,0,1
 "N. & N.W. Australia","AU",0,1
+"N. & S. America; Mexico to Venezuela",,0,1
 "N. Africa",,0,1
 "N. Albania","AL",0,1
 "N. Algeria","DZ",0,1
@@ -4329,6 +4347,9 @@
 "North West Spain","ES",0,1
 "North. South America",,0,1
 "Northeast coast of St. Vincent, B.W.I.","VC",0,1
+"North-East India","IN",0,1
+"North-Eastern Africa",,0,1
+"North-Eastern India","IN",0,1
 "Northeastern Peru","PE",0,1
 "Northeastern United States","US",0,1
 "Northern Africa",,0,1
@@ -4828,6 +4849,7 @@
 "Repub of The Congo","CD",0,1
 "'Repub of The Congo'","CD",0,1
 "Republic Georgia","GE",0,1
+"Republic of Burundi","BI",0,1
 "Republic of China","CN",0,1
 "REPUBLIC OF CONGO","CG",0,1
 "Republic of Guinea","GN",0,1
@@ -5156,6 +5178,7 @@
 "S. Somaliland","SO",0,1
 "S. Spain","ES",0,1
 "S. Spain?","ES",0,1
+"S. States to S. America",,0,1
 "S. Sumbawa","ID",0,1
 "S. Sweden","SE",0,1
 "S. Switzerland","CH",0,1
@@ -5720,6 +5743,7 @@
 "South Annam","VE",0,1
 "SOUTH ARABIA",,0,1
 "South Arfica","ZA",0,1
+"South Asia",,0,1
 "South Atlantic",,0,1
 "SOUTH ATLANTIC COAST",,0,1
 "South Atlantic Ocean",,0,1
@@ -5741,6 +5765,7 @@
 "South Coast of India","IN",0,1
 "South coast of St. Vincent, B.W.I.","VC",0,1
 "South East Asia",,0,1
+"South East Asia.",,0,1
 "South East Ethiopia","ET",0,1
 "South East I.",,0,1
 "South East Is.",,0,1
@@ -5838,10 +5863,13 @@
 "South Yemen","YE",0,1
 "South-east Africa",,0,1
 "Southeast Asia",,0,1
+"South-east asia",,0,1
 "Southeast Brazil","BR",0,1
 "South-east coast of Madagascar","MG",0,1
 "southeast N. Guinea",,0,1
 "Southeast New Guinea",,0,1
+"South-Eastern Australia","AU",0,1
+"South-Eastern Brazil","BR",0,1
 "southeastern Iran (Kirman)","IR",0,1
 "Southern  India","IN",0,1
 "Southern Abyssinia",,0,1
@@ -5888,6 +5916,7 @@
 "Southwest Is.",,0,1
 "South-west Madagascar","MG",0,1
 "South-western Iceland","IS",0,1
+"Soviet Central Asia",,0,1
 "SOVIET UNION",,0,1
 "Sp. Honduras","HN",0,1
 "Sp. W. Africa","EH",0,1
@@ -5947,6 +5976,7 @@
 "St. Matthias I","PG",0,1
 "St. Matthias I.","PG",0,1
 "St. Matthias Is.","PG",0,1
+"St. Pierre and Miquelon","PM",0,1
 "St. Thomas","VI",0,1
 "St. Verde Is.",,0,1
 "St. Vincent","VC",0,1
@@ -6073,6 +6103,7 @@
 "TAIPEI","TW",0,1
 "Taiwan","TW",1,1
 "'Taiwan'","TW",0,1
+"Taiwan (Formosa)","TW",0,1
 "Taiwan ?","TW",0,1
 "Taiwan?","TW",0,1
 "Tajikistan","TJ",1,1
@@ -6433,6 +6464,7 @@
 "USA (PROB.)","US",0,1
 "USA (PROBABLY)","US",0,1
 "USA / CANADA",,0,1
+"USA and Canada","Canada, United States",0,1
 "USA or Canada",,0,1
 "USA or USSR",,0,1
 "USA or Western Samoa ?",,0,1
@@ -6883,6 +6915,7 @@
 "western Colombia","CO",0,1
 "Western Columbia","CO",0,1
 "western Ecuador","EC",0,1
+"Western Europe",,0,1
 "Western Indian Ocean",,0,1
 "Western Ireland","IE",0,1
 "Western Italian Somaliland","SO",0,1
@@ -6890,6 +6923,7 @@
 "Western Kenya","KE",0,1
 "Western Madagascar","MG",0,1
 "Western Mexico","MX",0,1
+"Western North America",,0,1
 "Western Panama","PA",0,1
 "Western Sahara","EH",1,1
 "Western Samoa","WS",0,1
