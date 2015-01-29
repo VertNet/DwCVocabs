@@ -329,6 +329,10 @@
 ".7",,0,0
 ".8",,0,0
 "/adykt",,0,0
+":130; EXT:200 mm.; age by plumag",,0,0
+":134; EXT:180mm.; age by plumage",,0,0
+":4&1/8""; EXT:7&3/8""; WCH:2&5/16""",,0,0
+":6&7/8in; EXT:11&7/8in; age by p",,0,0
 "; OVIDUCT 3 MM WIDE, CONVOLUTED",,0,0
 "?","unknown",0,1
 "-?","unknown",0,1
@@ -2781,6 +2785,7 @@ begun",,0,0
 "2-strictly fresh, 1-faint trace ",,0,0
 "2-strictly fresh, 2-faint trace ",,0,0
 "2-strictly fresh, 3-faint trace ",,0,0
+"2Y",,0,0
 "3",,0,0
 "-3",,0,0
 "3 - 2/3, 2 addled",,0,0
@@ -3299,6 +3304,7 @@ begun",,0,0
 "3-strictly fresh, 1-pronounced t",,0,0
 "3-strictly fresh, 2-faint trace ",,0,0
 "3-trace",,0,0
+"3Y",,0,0
 "3Y/4Y; NO BURSA",,0,0
 "3Y; NO BURSA",,0,0
 "4",,0,0
@@ -3621,6 +3627,7 @@ begun",,0,0
 "4-b",,0,0
 "4-embryos visible, 1-faint trace",,0,0
 "4th quarter",,0,0
+"4Y",,0,0
 "5",,0,0
 "5 5 5",,0,0
 "5 5 5 5",,0,0
@@ -5134,6 +5141,7 @@ perhaps one half",,0,0
 "Age 6 days",,0,0
 "Age 7 days",,0,0
 "Age 8 days",,0,0
+"age by plumage",,0,0
 "age class 0",,0,0
 "age class 1",,0,0
 "age class 10",,0,0
@@ -5789,6 +5797,18 @@ Trace.",,0,0
 "between 1/3+ 1/2",,0,0
 "between slight and heavy",,0,0
 "between slight and medium",,0,0
+"BF:0.75in; age by plumage",,0,0
+"BF:12x5mm.; age by plumage",,0,0
+"BF:15x7mm; age by plumage",,0,0
+"BF:17mm; age by plumage",,0,0
+"BF:20mm; age by plumage",,0,0
+"BF:23mm; age by plumage",,0,0
+"BF:24mm; age by plumage",,0,0
+"BF:25mm; age by plumage",,0,0
+"BF:26mm; age by plumage",,0,0
+"BF:30mm; age by plumage",,0,0
+"BF:6x3mm.; age by plumage",,0,0
+"BF:none.; age by plumage",,0,0
 "bgeun",,0,0
 "big embryos",,0,0
 "Biggining",,0,0
@@ -5806,6 +5826,8 @@ Trace.",,0,0
 "Birds finishing inside of nest- ",,0,0
 "Birds finishing inside of nest- no eggs yet.",,0,0
 "Birds showing",,0,0
+"BL:6.85; TS:16.65; TL:47.95; WCH",,0,0
+"BL:7.05mm; TS:16.2mm; TL:41.5mm;",,0,0
 "Black contents",,0,0
 "blackbird 1/3, cowbird 1/4",,0,0
 "blood",,0,0
@@ -6977,6 +6999,7 @@ Trace.",,0,0
 "Crushed",,0,0
 "Crushed in nest",,0,0
 "Crushed; failed egg",,0,0
+"CTO:14.5.; age by plumage",,0,0
 "cub",,0,0
 "cub; newborn",,0,0
 "cuckoo 1 fresh, 1 slight; host 3",,0,0
@@ -7000,6 +7023,7 @@ Trace.",,0,0
 "Cuckoos- some few days but Reed Warblers- infertil",,0,0
 "Cuculus- red shows; Warblers- fr",,0,0
 "Cuculus- red shows; Warblers- fresh ? Infertile?",,0,0
+"CUL:62.6mm; WCH:136mm; TS:38.6mm",,0,0
 "cygnet",,0,0
 "d",,0,0
 "D2?","D2?",0,1
@@ -7088,6 +7112,7 @@ Trace.",,0,0
 "Distinctly moderate",,0,0
 "Distinctly moderate (6 days?)",,0,0
 "DM",,0,0
+"DNY",,0,0
 "don't know yet",,0,0
 "dourny Juv. [illeg.]",,0,0
 "Down forming on embryos",,0,0
@@ -7789,6 +7814,20 @@ Trace.",,0,0
 "evidently fresh",,0,0
 "ewe",,0,0
 "Ex. Sm. Embryo",,0,0
+"EXT:160mm.; age by plumage",,0,0
+"EXT:194mm.; age by plumage",,0,0
+"EXT:22in; WCH:7.5in; TL:5in; age",,0,0
+"EXT:342.; age by plumage",,0,0
+"EXT:37.5"".; age by plumage",,0,0
+"EXT:502mm.; age by plumage",,0,0
+"EXT:530mm.; age by plumage",,0,0
+"EXT:551mm.; age by plumage",,0,0
+"EXT:755mm.; age by plumage",,0,0
+"EXT:760mm.; age by plumage",,0,0
+"EXT:8.25""; WCH:3.10"".; age by pl",,0,0
+"EXT:812mm.; age by plumage",,0,0
+"EXT:815mm.; age by plumage",,0,0
+"EXT?:11.72in; WCH:3.94in; TL:2.6",,0,0
 "extreme",,0,0
 "extremely far advanced",,0,0
 "Extremely fresh",,0,0
@@ -8109,6 +8148,7 @@ Trace.",,0,0
 "FLEDLGING; BURSA 8 X 9 MM",,0,0
 "FLEDLING;",,0,0
 "Flesh",,0,0
+"FLG",,0,0
 "flycatcher just begun, titmouse ",,0,0
 "Foetal",,0,0
 "foetus",,0,0
@@ -9601,6 +9641,7 @@ Sowing blood-1",,0,0
 "HY (NO BLACK IN FACE); BURSA 3 X",,0,0
 "HY (p10 extends beyond P coverts",,0,0
 "HY (p10 extends beyond P coverts)","hatch-year",0,1
+"HY ?",,0,0
 "HY [BY PLUMAGE; RECTRICES]; BURS",,0,0
 "HY [BY PLUMAGE]; BURSA NOT FOUND",,0,0
 "HY bird","hatch-year",0,1
@@ -10834,6 +10875,606 @@ Sowing blood-1",,0,0
 "known to be started",,0,0
 "KY; BURSA 5 X 3 MM; SKULL 10% OS",,0,0
 "l","larva",0,1
+"L/W:2.10 x 1.42, 2.06 x 1.47, 2.",,0,0
+"L/W:2.18 x 1.50, 2.05 x 1.53, 2.",,0,0
+"L: 127mm  EXT: 192mm  WCH: 58mm ",,0,0
+"L: 134mm  EXT: 208mm; age by plu",,0,0
+"L: 138mm  EXT: 207mm  WCH: 63.4m",,0,0
+"L: 143mm  EXT: 212mm  WCH: 66.75",,0,0
+"L: 143mm  EXT: 225mm  WCH: 66mm ",,0,0
+"L: 145mm  WCH: 69mm  TL: 55mm  T",,0,0
+"L: 148mm  EXT: 213mm  WCH: 65.1m",,0,0
+"L: 222mm  EXT: 340mm  WCH: 107mm",,0,0
+"L:10&1/8in; EXT:17in; age by plu",,0,0
+"L:10&5/8in; EXT:23in; WCH:7.75in",,0,0
+"L:10.25in; EXT:16.75in; WCH:6in;",,0,0
+"L:10.25in; EXT:22&5/8in; WCH:7&1",,0,0
+"L:10.40in; EXT:16.90in; WCH:6.25",,0,0
+"L:10.50in; EXT:16in; WCH:5in; WC",,0,0
+"L:10.50in; EXT:17.25in; WCH:5.25",,0,0
+"L:10.50in; EXT:17.50in; WCH:6.50",,0,0
+"L:10.50in; EXT:17in; WCH:6in; TL",,0,0
+"L:10.50in; EXT:23in; WCH:8.75in;",,0,0
+"L:10.5in; EXT:17&5/8in; age by p",,0,0
+"L:10.5in; EXT:17.25in; age by pl",,0,0
+"L:10.5in; EXT:22&1/8in; WCH:7&1/",,0,0
+"L:10.75in; EXT:17in; TL:4in; age",,0,0
+"L:105; EXT:178.; age by plumage",,0,0
+"L:10in; EXT:16.25in; WCH:5.75in;",,0,0
+"L:10in; TL:3.75in; TS:1.5in; WCH",,0,0
+"L:10in; TL:4.75in; TS:1.75in; WC",,0,0
+"L:110 mm.; age by plumage",,0,0
+"L:110 mm; EXT:188 mm.; age by pl",,0,0
+"L:116; EXT:196.; age by plumage",,0,0
+"L:117; EXT:184.; age by plumage",,0,0
+"L:118mm; EXT:192mm.; age by plum",,0,0
+"L:118mm; WCH:67mm; TL:45mm; TS:1",,0,0
+"L:12""; TL:1 &1/2""; TS:1 &3/4""; W",,0,0
+"L:120 mm; EXT:195 mm.; age by pl",,0,0
+"L:120; WCH:63; TL:46; TS:16mm.; ",,0,0
+"L:120mm;WCH:65mm; TL:48mm; TS:15",,0,0
+"L:122 mm; EXT:204 mm.; age by pl",,0,0
+"L:122; EXT:186.; age by plumage",,0,0
+"L:123 mm; EXT:203 mm.; age by pl",,0,0
+"L:124; EXT:182.; age by plumage",,0,0
+"L:124; WCH:.67; TL:1.42; TS:.20;",,0,0
+"L:124mm; EXT:218mm.; age by plum",,0,0
+"L:125; EXT:184mm.; age by plumag",,0,0
+"L:125mm; EXT:158mm; age by pluma",,0,0
+"L:126; EXT:169 mm.; age by pluma",,0,0
+"L:126mm; EXT:211mm.; age by plum",,0,0
+"L:127; EX:189mm.; age by plumage",,0,0
+"L:127mm; EXT:147mm.; age by plum",,0,0
+"L:13 &1/2""; WCH:6.75""; TS:2.15"";",,0,0
+"L:13 &3/4""; EXT:22 &1/2""; WCH:6 ",,0,0
+"L:131; EXT:189 mm.; age by pluma",,0,0
+"L:131; EXT:210; WCH:68mm.; age b",,0,0
+"L:132; EXT:206.; age by plumage",,0,0
+"L:133mm; EXT:196mm.; age by plum",,0,0
+"L:134mm; EXT:220mm.; age by plum",,0,0
+"L:135; EXT:207mm.; age by plumag",,0,0
+"L:136; EXT:206; WCH:62.45; TL:52",,0,0
+"L:137; age by plumage",,0,0
+"L:137mm; EXT:204mm; WCH:61.05mm;",,0,0
+"L:137mm; EXT:206mm; WCH:62.95mm;",,0,0
+"L:138mm; EXT:202mm; WCH:60.90mm;",,0,0
+"L:138mm; EXT:205mm; TL:51.40mm; ",,0,0
+"L:139; EXT:181mm.; age by plumag",,0,0
+"L:139mm; EXT:211mm; WCH:65.70mm;",,0,0
+"L:139mm; EXT:216mm.; age by plum",,0,0
+"L:14""; WCH:7""; TS:3 &5/8"".; age ",,0,0
+"L:14.00""; EXT:23.50""; WCH:7.25"";",,0,0
+"L:14.25in; EXT:26.5in; age by pl",,0,0
+"L:14.50in; EXT:24in; WCH:6.50in;",,0,0
+"L:14.5in; WCH:8.25in; age by plu",,0,0
+"L:14.85in; EXT:24.60in; ??:12in;",,0,0
+"L:140mm; EXT:200mm; WCH:60.10mm;",,0,0
+"L:140mm; EXT:220mm.; age by plum",,0,0
+"L:140mm; EXT:225mm.; age by plum",,0,0
+"L:140mm; EXT:234mm.; age by plum",,0,0
+"L:140mm; TL:48mm; TS:14mm; WCH:1",,0,0
+"L:141; EXT:209; WCH:63; WFL:65; ",,0,0
+"L:141; EXT:211 mm.; age by pluma",,0,0
+"L:141mm; EXT:204mm; WCH:59.70mm;",,0,0
+"L:141mm; EXT:230mm.; age by plum",,0,0
+"L:142; EXT:212.; age by plumage",,0,0
+"L:142mm; EXT:202mm; WCH:61.70mm;",,0,0
+"L:142mm; EXT:211mm.; age by plum",,0,0
+"L:142mm; EXT:220mm.; age by plum",,0,0
+"L:143; EXT:210; WCH:63.15; TL:56",,0,0
+"L:143mm; EXT:218mm; WCH:65.45mm;",,0,0
+"L:143mm; EXT:256mm.; age by plum",,0,0
+"L:144mm; EXT:227mm.; age by plum",,0,0
+"L:144mm; EXT:248mm.; age by plum",,0,0
+"L:145; EXT:229mm.; age by plumag",,0,0
+"L:145; WCH:85; TL:64; TS:13; BL:",,0,0
+"L:145mm; EXT:215mm; WCH:66.60mm;",,0,0
+"L:145mm; WCH:77.5mm; EXT:256mm; ",,0,0
+"L:146; EXT:223.; age by plumage",,0,0
+"L:147.32mm; EXT:264.16mm; WCH:83",,0,0
+"L:148; EXT:227; WCH:67.5; age by",,0,0
+"L:15.00in; WCH:7.00in; CUL:1.37(",,0,0
+"L:15.25in; EXT:29.5in; age by pl",,0,0
+"L:150; EXT:221.; age by plumage",,0,0
+"L:150mm; EXT:199mm.; age by plum",,0,0
+"L:150mm; EXT:248mm.; age by plum",,0,0
+"L:150mm; EXT:255mm.; age by plum",,0,0
+"L:151; EXT:215.; age by plumage",,0,0
+"L:151; EXT:236; TS:17.2; TL:59.3",,0,0
+"L:152mm; age by plumage",,0,0
+"L:153mm.; age by plumage",,0,0
+"L:154; EXT:218.; age by plumage",,0,0
+"L:154mm; age by plumage",,0,0
+"L:154mm; EXT:251mm.; age by plum",,0,0
+"L:155.; age by plumage",,0,0
+"L:155mm; EXT:188mm.; age by plum",,0,0
+"L:155mm; EXT:227mm; WCH:70.00mm;",,0,0
+"L:155mm; EXT:270mm; WCH:87.5mm.;",,0,0
+"L:156; EXT:240 mm.; age by pluma",,0,0
+"L:157mm; EXT:255mm.; age by plum",,0,0
+"L:158; EXT:235; WCH:71.6; Formul",,0,0
+"L:158mm; age by plumage",,0,0
+"L:158mm; EXT:302mm; age by pluma",,0,0
+"L:159mm; EXT:272mm; WCH:87mm; TL",,0,0
+"L:159mm; EXT:278mm; WCH:90mm.; a",,0,0
+"L:159mm; EXT:285mm; age by pluma",,0,0
+"L:15in; TL:3&1/8in; TS:1.5in; WC",,0,0
+"L:15in; TL:3in; TS:1&5/8in; WCH:",,0,0
+"L:16.75in; EXT:29.50in; TL:2.60i",,0,0
+"L:160mm; EXT:258mm.; age by plum",,0,0
+"L:160mm; EXT:274mm; WCH:91mm; TL",,0,0
+"L:161; EXT:244.; age by plumage",,0,0
+"L:161mm; EXT:311mm; age by pluma",,0,0
+"L:162.56mm; EXT:288.29mm; WCH:81",,0,0
+"L:163; EXT:269.; age by plumage",,0,0
+"L:163mm; EXT:286mm; WCH:92.5mm.;",,0,0
+"L:164mm; age by plumage",,0,0
+"L:164mm; EXT:282mm; WCH:91mm.; a",,0,0
+"L:165.10mm; EXT:284.48mm; WCH:90",,0,0
+"L:165; EXT:260.; age by plumage",,0,0
+"L:165mm; EXT:214mm.; age by plum",,0,0
+"L:165mm; EXT:290mm.; age by plum",,0,0
+"L:165mm; WCH:119mm; age by pluma",,0,0
+"L:166mm; EXT:278mm; WCH:90mm.; a",,0,0
+"L:166mm; EXT:278mm; WCH:92mm; TL",,0,0
+"L:166mm; EXT:291mm; WCH:94mm.; a",,0,0
+"L:166mm; EXT:302mm; age by pluma",,0,0
+"L:167mm; TL:55mm; TS:24mm; WCH:1",,0,0
+"L:167mm; TL:75mm; WCH:96mm; EXT:",,0,0
+"L:168; EXT:256; age by plumage",,0,0
+"L:170mm; EXT:249mm; age by pluma",,0,0
+"L:170mm; WCH:88mm; EXT:280mm; ag",,0,0
+"L:171; EXT:291 mm.; age by pluma",,0,0
+"L:171mm; EXT:287mm; age by pluma",,0,0
+"L:171mm; EXT:298mm; age by pluma",,0,0
+"L:172mm; WCH:90mm; EXT:292mm; WC",,0,0
+"L:173mm; EXT:272mm; WCH:91mm; ag",,0,0
+"L:173mm; EXT:286mm.; age by plum",,0,0
+"L:173mm; EXT:286mm; age by pluma",,0,0
+"L:173mm; EXT:287mm.; age by plum",,0,0
+"L:174mm; EXT:250mm; age by pluma",,0,0
+"L:174mm; EXT:257mm.; age by plum",,0,0
+"L:175mm; age by plumage",,0,0
+"L:175mm; EXT:254mm; age by pluma",,0,0
+"L:175mm; WCH:95mm; TL:60mm; TS:2",,0,0
+"L:176; EXT:265.; age by plumage",,0,0
+"L:176mm; EXT:298mm; age by pluma",,0,0
+"L:176mm; EXT:317mm; age by pluma",,0,0
+"L:178mm; EXT:242-mm; age by plum",,0,0
+"L:178mm; EXT:287mm; age by pluma",,0,0
+"L:178mm; EXT:301mm; age by pluma",,0,0
+"L:178mm; EXT:302mm; age by pluma",,0,0
+"L:179; EXT:274.; age by plumage",,0,0
+"L:179mm; age by plumage",,0,0
+"L:17xmm; EXT:244mm; age by pluma",,0,0
+"L:18&5/8in; TL:3.5in; EXT:29in; ",,0,0
+"L:18.50in; EXT:29.00in; WCH:9.50",,0,0
+"L:18.5in; TL:4.5in; TS:1.5in; WC",,0,0
+"L:180mm; age by plumage",,0,0
+"L:180mm; EXT:296mm; age by pluma",,0,0
+"L:180mm; EXT:300mm; age by pluma",,0,0
+"L:180mm; EXT:304mm; age by pluma",,0,0
+"L:181; EXT:275.; age by plumage",,0,0
+"L:181; EXT:281.; age by plumage",,0,0
+"L:181mm; EXT:309mm; age by pluma",,0,0
+"L:182mm; EXT:305mm.; age by plum",,0,0
+"L:182mm; TL:48mm; TS:21mm; WCH:1",,0,0
+"L:183; EXT:277+/-; age by plumag",,0,0
+"L:183mm; EXT:210mm.; age by plum",,0,0
+"L:183mm; WCH:95mm; EXT:300mm; ag",,0,0
+"L:184+/-;EXT:274+/-; age by plum",,0,0
+"L:185; EXT:272; age by plumage",,0,0
+"L:185mm; EXT:314mm; age by pluma",,0,0
+"L:185mm; EXT:329mm; age by pluma",,0,0
+"L:185mm; TL:73mm; TS:80?mm (reme",,0,0
+"L:186; EXT:276.; age by plumage",,0,0
+"L:186mm; EXT:292mm; age by pluma",,0,0
+"L:187mm; TL:60mm; WCH:116mm; TS:",,0,0
+"L:188; WCH:96; EXT:305mm.; age b",,0,0
+"L:188mm; EXT:290mm.; age by plum",,0,0
+"L:189; EXT:331.; age by plumage",,0,0
+"L:189; WCH:104; WFL:106; CTO:20.",,0,0
+"L:19 &1/4""; TL:5 &7/8""; TS:3""; W",,0,0
+"L:19&1/8in; TL:5.5in; TS:1&7/8in",,0,0
+"L:19.75in; EXT:34.75in; TL:4.25i",,0,0
+"L:190.0mm; EXT:383.0mm.; age by ",,0,0
+"L:190mm; EXT:280mm; age by pluma",,0,0
+"L:190mm; EXT:328mm; age by pluma",,0,0
+"L:191; EXT:282.; age by plumage",,0,0
+"L:192.; age by plumage",,0,0
+"L:192mm; EXT:302mm.; age by plum",,0,0
+"L:192mm; EXT:335mm; age by pluma",,0,0
+"L:192mm; EXT:336mm; age by pluma",,0,0
+"L:194; WCH:97; TS:22.5; TL:73.2 ",,0,0
+"L:194mm; EXT:332mm; age by pluma",,0,0
+"L:194mm; WCH:101mm; CUL:11.9mm; ",,0,0
+"L:195mm; EXT:355mm; WCH:17mm; TS",,0,0
+"L:195mm; TS:20.6mm; age by pluma",,0,0
+"L:196mm; EXT:316mm.; age by plum",,0,0
+"L:196mm; WCH:96mm; TS:22.2mm; CU",,0,0
+"L:197; EXT:267.; age by plumage",,0,0
+"L:197mm; EXT:327mm; WCH:108mm; W",,0,0
+"L:197mm; EXT:334mm; age by pluma",,0,0
+"L:197mm; WCH:99mm; TS:21.2mm; CU",,0,0
+"L:198mm; EXT:288mm; age by pluma",,0,0
+"L:198mm; EXXT:346mm; WCH:110mm; ",,0,0
+"L:198mm; WCH:103mm; CUL:11.7mm; ",,0,0
+"L:198mm; WCH:104mm; CUL:12.4mm; ",,0,0
+"L:198mm; WCH:99mm; CUL:12.3mm; T",,0,0
+"L:199mm; EXT:357mm; WCH:117mm; a",,0,0
+"L:199mm; WCH:100mm; CUL:11.3mm; ",,0,0
+"L:199mm; WCH:102mm; CUL:11.5mm; ",,0,0
+"L:200mm; EXT:355mm; WCH:114mm; a",,0,0
+"L:200mm; EXT:356mm; WCH:114mm; T",,0,0
+"L:200mm; WCH:101mm; CUL:11.9[?]m",,0,0
+"L:200mm; WCH:101mm; TS:21.7mm; C",,0,0
+"L:200mm; WCH:106mm; TS:22.8mm; C",,0,0
+"L:200mm; WCH:114.5mm; EXT:352mm;",,0,0
+"L:200mm; WCH:98mm; CUL:11.6mm; T",,0,0
+"L:201mm; WCH:103mm; CUL:12.1mm; ",,0,0
+"L:201mm; WCH:104mm; TS:21.4mm; C",,0,0
+"L:201mm; WCH:112mm; EXT:455mm; a",,0,0
+"L:201mm; WCH:98mm; CUL:12.4mm; T",,0,0
+"L:202mm; WCH:115mm; EXT:358mm; a",,0,0
+"L:202mm; WCH:126mm; CUL:28mm; TS",,0,0
+"L:203mm; EXT:325mm; age by pluma",,0,0
+"L:203mm; EXT:355mm; WCH:115mm; a",,0,0
+"L:203mm; EXT:367mm; WCH:117mm; a",,0,0
+"L:203mm; WC:102mm; CUL:11.7mm; T",,0,0
+"L:203mm; WCH:101mm; CUL:11.7mm; ",,0,0
+"L:203mm; WCH:103mm; TS:20.5mm; C",,0,0
+"L:203mm; WCH:104mm; TS:22.2mm; B",,0,0
+"L:204; WCH:103; TS:24.3; TL:78.4",,0,0
+"L:204; WCH:112.5; TL:75.5 mm.; a",,0,0
+"L:204mm; EXT:291mm; age by pluma",,0,0
+"L:204mm; WCH:104mm; CUL:12.2mm; ",,0,0
+"L:205mm; EXT:322mm; WCH:110mm; B",,0,0
+"L:205mm; WCH:101mm; TS:22.7mm; a",,0,0
+"L:205mm; WCH:104mm; CUL:12.2mm; ",,0,0
+"L:205mm; WCH:106mm; CU:12.1mm; T",,0,0
+"L:205mm; WCH:109mm; TS-m:24.8mm;",,0,0
+"L:205mm; WCH:110mm; CUL:13.0mm; ",,0,0
+"L:205mm; WCH:111mm; TS-m:26.1mm;",,0,0
+"L:206mm; WCH:103mm; CUL:12.1mm; ",,0,0
+"L:206mm; WCH:105mm; TS:21.9mm; C",,0,0
+"L:206mm; WCH:106mm; CUL:11.5mm; ",,0,0
+"L:206mm; WCH:117mm; age by pluma",,0,0
+"L:206mm; WCH:125mm; CUL:26.0mm; ",,0,0
+"L:206mm; WCH:99mm; CUL:12.0mm; T",,0,0
+"L:206mm; WCH:99mm; CUL:12.2mm; T",,0,0
+"L:207mm; WCH:102mm; TS:23.1mm; C",,0,0
+"L:208mm; TS:22.2mm; WCH:104mm; C",,0,0
+"L:208mm; WCH:102mm; TS:22.4mm; C",,0,0
+"L:208mm; WCH;127mm; CUL:21mm; TS",,0,0
+"L:209mm; WCH:100mm; TS:11.9mm; C",,0,0
+"L:20in; TL:7.5in; TS:3.5in; EXT:",,0,0
+"L:21.25in; TL:5in; TS:1&7/8in; W",,0,0
+"L:210; EXT:337.; age by plumage",,0,0
+"L:210; EXT:350.; age by plumage",,0,0
+"L:210mm; EXT:325mm; age by pluma",,0,0
+"L:210mm; TL:52mm; TS:43mm; WCH:1",,0,0
+"L:210mm; WCH:101mm; TS:21.4mm; C",,0,0
+"L:210mm; WCH:108mm; CUL:13.0mm; ",,0,0
+"L:210mm; WCH:109mm; TS:22.6mm; B",,0,0
+"L:210mm; WCH:122mm; TL:64mm; age",,0,0
+"L:211mm; EXT:317mm; WCH:97mm; WF",,0,0
+"L:211mm; WCH:105mm; TS:23.7mm; C",,0,0
+"L:212mm; TL:54mm; TS:43mm; WCH:1",,0,0
+"L:212mm; WCH:102mm; TS:22.7mm; C",,0,0
+"L:212mm; WCH:105mm; CUL:13.1mm; ",,0,0
+"L:212mm; WCH:112mm; TS:24.3mm; C",,0,0
+"L:213mm; EXT:351mm; age by pluma",,0,0
+"L:214mm; EXT:324mm; age by pluma",,0,0
+"L:215mm; EXT:370mm; age by pluma",,0,0
+"L:215mm; WCH:108mm; CUL:12.7mm; ",,0,0
+"L:215mm; WCH:109mm; EXT:335mm; a",,0,0
+"L:216mm; EXT:335mm; WCH:106mm; B",,0,0
+"L:216mm; WCH:107mm; CUL:12.8mm; ",,0,0
+"L:216mm; WCH:107mm; TS:22.5mm; C",,0,0
+"L:216mm; WCH:108mm; TS:22.3mm; C",,0,0
+"L:216mm; WCH:132mm; age by pluma",,0,0
+"L:218mm; EXT:316mm.; age by plum",,0,0
+"L:218mm; EXT:335mm; WCH:107mm; B",,0,0
+"L:218mm; WCH:131mm; TS:22mm; age",,0,0
+"L:219mm; EXT:388mm; WCH:126mm; T",,0,0
+"L:219mm; EXT:427mm; age by pluma",,0,0
+"L:219mm; WCH:105mm; CUL:11.9mm; ",,0,0
+"L:219mm; WCH:110mm; CUL:12.3mm; ",,0,0
+"L:219mm; WCH:118mm; TS:29mm; TS:",,0,0
+"L:21in; EXT:31in; age by plumage",,0,0
+"L:21in; EXT:33in; age by plumage",,0,0
+"L:21in; TL:5in; WCH:10&3/8in; TS",,0,0
+"L:220mm; TS:28mm; TL:66mm; WCH:1",,0,0
+"L:221mm; EXT:335mm.; age by plum",,0,0
+"L:222mm; EXT:342mm; WCH:103mm; B",,0,0
+"L:223mm; EXT:332mm; WCH:109mm; B",,0,0
+"L:225.3mm; age by plumage",,0,0
+"L:225mm; EXT:337mm.; age by plum",,0,0
+"L:225mm; EXT:435mm; age by pluma",,0,0
+"L:225mm; EXT:446mm; age by pluma",,0,0
+"L:225mm; EXT:521mm.; age by plum",,0,0
+"L:225mm; WCH:130mm; CUL:23mm; TS",,0,0
+"L:226mm; EXT:340mm; age by pluma",,0,0
+"L:227mm; EXT:409mm; age by pluma",,0,0
+"L:227mm; EXT:439mm; age by pluma",,0,0
+"L:228mm; age by plumage",,0,0
+"L:228mm; EXT:359mm; WCH:106mm; a",,0,0
+"L:23 &3/8""; EXT:14 &1/4"".; age b",,0,0
+"L:23.0cm; EXT:35.9cm; WCH:12.5cm",,0,0
+"L:230mm; EXT:356mm; WCH:118mm.; ",,0,0
+"L:230mm; EXT:540mm.; age by plum",,0,0
+"L:230mm; EXXT:402mm; age by plum",,0,0
+"L:232mm; EXT:439mm; age by pluma",,0,0
+"L:233; EXT:375.; age by plumage",,0,0
+"L:233mm; EXT:384mm; WCH:127mm; B",,0,0
+"L:234; WG:112; TL:45; TS:43 mm.;",,0,0
+"L:235mm; EXT:394mm; WCH:127mm; T",,0,0
+"L:236mm; EXT:370mm; WCH:110mm; a",,0,0
+"L:237.5mm; WCH:116mm; EXT:388mm;",,0,0
+"L:237mm; EXT:408mm; age by pluma",,0,0
+"L:238mm; WCH:153mm; CUL:21mm; TS",,0,0
+"L:239mm; EXT:382mm; WCH:119mm; a",,0,0
+"L:239mm; EXT:393mm; WCH:126mm; T",,0,0
+"L:24 &1/8""; EXT:13 &1/4"".; age b",,0,0
+"L:24"".; age by plumage",,0,0
+"L:240mm; age by plumage",,0,0
+"L:240mm; EXT:495mm; age by pluma",,0,0
+"L:240mm; EXT:558mm; age by pluma",,0,0
+"L:241; EXT:381; WCH:119; TL:93 m",,0,0
+"L:242mm; TS:34mm; TL:96mm; age b",,0,0
+"L:243mm; TL:102mm; TS:31mm; WCH:",,0,0
+"L:243mm; TL:70mm; TS:48mm; WCH:1",,0,0
+"L:243mm; WCH:114mm; EXT:390mm; a",,0,0
+"L:245; EXT:350.; age by plumage",,0,0
+"L:245mm; EXT:370mm; age by pluma",,0,0
+"L:245mm; EXT:403mm; WCH:118mm; a",,0,0
+"L:245mm; EXT:404mm; age by pluma",,0,0
+"L:245mm; EXT:409mm; WCH:123mm; a",,0,0
+"L:245mm; EXTT:354mm.; age by plu",,0,0
+"L:247; EXT:361.; age by plumage",,0,0
+"L:247mm; WCH:117mm; EXT:390mm; a",,0,0
+"L:248mm; EXT:380mm; age by pluma",,0,0
+"L:24cm; EXT:40.4cm; age by pluma",,0,0
+"L:250.; age by plumage",,0,0
+"L:250mm.; age by plumage",,0,0
+"L:250mm; age by plumage",,0,0
+"L:250mm; EXT:380mm; age by pluma",,0,0
+"L:250mm; EXT:391mm; WCH:118mm; a",,0,0
+"L:250mm; EXT:400mm; age by pluma",,0,0
+"L:250mm; EXT:417mm; WCH:134mm; T",,0,0
+"L:251mm; EXT:400mm; WCH:119.5mm;",,0,0
+"L:252mm; EXT:398mm; WCH:118mm; a",,0,0
+"L:252mm; EXT:580mm; age by pluma",,0,0
+"L:253; EXT:350; age by plumage",,0,0
+"L:253mm; EXT:390mm; age by pluma",,0,0
+"L:253mm; TL:111mm; WCH:170mm; TS",,0,0
+"L:255mm; age by plumage",,0,0
+"L:255mm; EXT:548mm; age by pluma",,0,0
+"L:256mm; EXT:415mm; age by pluma",,0,0
+"L:256mm; EXT:415mm; WCH:133mm; a",,0,0
+"L:256mm; EXT:570mm; age by pluma",,0,0
+"L:257mm; EXT:422mm; WCH:135mm; a",,0,0
+"L:257mm; EXT:424mm; age by pluma",,0,0
+"L:257mm; EXT:425mm; age by pluma",,0,0
+"L:258mm; EXT:360mm.; age by plum",,0,0
+"L:259mm; age by plumage",,0,0
+"L:259mm; EXT:422mm; WCH:137mm; a",,0,0
+"L:260; EXT:355; age by plumage",,0,0
+"L:260mm; EXT:410mm; age by pluma",,0,0
+"L:261mm; age by plumage",,0,0
+"L:262mm; EXT:447mm; age by pluma",,0,0
+"L:264mm; EXT:427mm; WCH:135mm; T",,0,0
+"L:264mm; EXT:438mm; age by pluma",,0,0
+"L:264mm; EXT:440mm; age by pluma",,0,0
+"L:264mm; WCH:142mm; EXT:448mm; a",,0,0
+"L:266mm.; age by plumage",,0,0
+"L:266mm; EXT:456mm; WCH:143mm; T",,0,0
+"L:266mm; WCH:188mm; EXT:570mm; a",,0,0
+"L:271mm; EXT:545mm; age by pluma",,0,0
+"L:272mm; EXT:450mm; age by pluma",,0,0
+"L:274mm; EXT:458mm; WCH:143mm; T",,0,0
+"L:275mm; age by plumage",,0,0
+"L:277mm; EXT:580mm; age by pluma",,0,0
+"L:279; EXT:349 mm.; age by pluma",,0,0
+"L:285mm; EXT:356mm.; age by plum",,0,0
+"L:287mm; TS:40mm; TL:62mm; WCH:1",,0,0
+"L:292.1mm; WCH:146.05mm; BL:66.5",,0,0
+"L:3&7/8in; EXT:6.25in; WCH:2&5/1",,0,0
+"L:3&7/8in; EXT:7in; WCH:2&5/8in;",,0,0
+"L:302mm; WCH:136mm; EXT:484mm; a",,0,0
+"L:305mm; EXT:429mm; WCH:145mm; T",,0,0
+"L:310mm; WCH:163mm; EXT:522mm; a",,0,0
+"L:317mm; TL:75mm; BF:3x19mm; age",,0,0
+"L:320mm; EXT:433mm; age by pluma",,0,0
+"L:326mm; EXT:515mm.; age by plum",,0,0
+"L:328mm; EXT:500mm.; age by plum",,0,0
+"L:340mm; EXT:464mm.; age by plum",,0,0
+"L:368mm; EXT:550mm +/-.; age by ",,0,0
+"L:380mm; EXT:680mm+or-; age by p",,0,0
+"L:383mm; EXT:663mm; age by pluma",,0,0
+"L:399mm; WCH:189mm; EXT:640mm; a",,0,0
+"L:4 &3/4""; EXT:8 &1/4""; WCH:3""; ",,0,0
+"L:4 &5/8""; EXT:6 &3/4"".; age by ",,0,0
+"L:4 &7/8""; EXT:6 &3/4"".; age by ",,0,0
+"L:4&3/4"", EXT:7&1/4"", WCH:2&1/4""",,0,0
+"L:4&3/8; EXT:12&7/8; WCH:3&7/8; ",,0,0
+"L:4&3/8in; EXT:6.75in; WCH:2.75i",,0,0
+"L:4&5/8"", EXT:7&3/8"".; age by pl",,0,0
+"L:4&7/8""; EXT:7&1/2""; WCH:2&5/16",,0,0
+"L:4&7/8""; WCH:2&3/8; TL:1&7/8; E",,0,0
+"L:4&7/8; EXT:7&7/8; WCH:62.6 mm.",,0,0
+"L:4.10""; EXT:7.80"".; age by plum",,0,0
+"L:4.20in; EXT:6.50in; WCH:2in; T",,0,0
+"L:4.25in; EXT:7in; TL:1&9/16in; ",,0,0
+"L:4.75""; EXT:7.36""; WCH:2.30""; T",,0,0
+"L:4.75in; age by plumage",,0,0
+"L:4.84""; EXT:7.54"".; age by plum",,0,0
+"L:470mm; WCH:224mm; TL:113mm; ag",,0,0
+"L:475mm; WCH:230mm; TL:118mm; ag",,0,0
+"L:490mm; TL:30mm; TS:70mm; WCH:1",,0,0
+"L:4in; EXT:6&7/8in; WCH:2.25in; ",,0,0
+"L:5 &1/2""; TL:2 &1/4""; TS:7/8""; ",,0,0
+"L:5 &1/8""; EXT:7"".; age by pluma",,0,0
+"L:5 &10/16""; EXT:9 &1/2""; WCH:3 ",,0,0
+"L:5 &3/4""; EXT:10 &1/8"".; age by",,0,0
+"L:5&1/4; EXT:8&1/2; WCH:2&3/4; T",,0,0
+"L:5&1/4; WCH:2&3/16; TL:2; EXT:8",,0,0
+"L:5&1/8""; EXT:7&3/4"".; age by pl",,0,0
+"L:5&1/8""; WCH:2&1/2""; TL:2""; EXT",,0,0
+"L:5&3/16; EXT:7&3/4"".; age by pl",,0,0
+"L:5&3/16; WCH:2&1/2; TL:1&15/16""",,0,0
+"L:5&3/8""; EXT:8&1/2"".; age by pl",,0,0
+"L:5&3/8; EXT:8&1/2; WCH:2&11/16;",,0,0
+"L:5&3/8; EXT:8&3/8.; age by plum",,0,0
+"L:5&7/16; EXT:7&3/4; WCH:2&3/8; ",,0,0
+"L:5&7/8; EXT:7&7/8"".; age by plu",,0,0
+"L:5&7/8in; EXT:13.25in; WCH:5.5i",,0,0
+"L:5.00; EXT:7.12; WCH:2.12; TL:2",,0,0
+"L:5.20; WCH:2.15; TL:2.15; TS:.7",,0,0
+"L:5.25""; EXT:8.54""; WCH:2.60""; T",,0,0
+"L:5.25; EXT:6.65; TL:1.90 "".; ag",,0,0
+"L:5.25; EXT:7.25""; age by plumag",,0,0
+"L:5.25; EXT:8.30.; age by plumag",,0,0
+"L:5.3; EXT:8."".; age by plumage",,0,0
+"L:5.30; EXT:7.75; TL:2.0"".; age ",,0,0
+"L:5.30; WCH:2.18; TL:2.20"".; age",,0,0
+"L:5.35; EXT:6.90"".; age by pluma",,0,0
+"L:5.37; EXT:8.45""; age by plumag",,0,0
+"L:5.40; EXT:9.00; WCH:2.75; TL:2",,0,0
+"L:5.50""; EXT:8.75""; TL:2.25""; WC",,0,0
+"L:5.50; EXT:7.75; TL:2.10"".; age",,0,0
+"L:5.62; EXT:8.25; TL:75; WCH:3.3",,0,0
+"L:5.75""; CUL:0.63"".; age by plum",,0,0
+"L:5.8""; EXT:10.52"".; age by plum",,0,0
+"L:5; EXT:7.75; WCH:2.75; TL:2 "";",,0,0
+"L:51 &1/2""; TL:9""; EXT:7 &1/2'.;",,0,0
+"L:565mm; TS:105mm; TL:220mm; WCH",,0,0
+"L:57in; WCH:21in; age by plumage",,0,0
+"L:6 &1/2""; EXT:10 &3/4"".; age by",,0,0
+"L:6 &1/2""; EXT:11 &3/16"".; age b",,0,0
+"L:6 &1/2""; EXT:12 &1/4"".; age by",,0,0
+"L:6 &1/4""; EXT:10 &3/8""; WCH:3 &",,0,0
+"L:6 &3/4""; EXT:11 &3/4""; WCH:3 &",,0,0
+"L:6 &7/8""; EXT:10 &3/4"".; age by",,0,0
+"L:6&5/8in; EXT:11&7/8in; WCH:5&3",,0,0
+"L:6&5/8in; TL:2.25in; TS:1&1/8in",,0,0
+"L:6&7/8in; EXT:11&5/8in; age by ",,0,0
+"L:6&7/8in; EXT:11.75in; age by p",,0,0
+"L:6&7/8in; WCH:5in; TS:1&1/8in; ",,0,0
+"L:6.00""; EXT:10.00""; TL:2.45""; W",,0,0
+"L:6.25""; WCH:3.90""; TL:2.50"".; a",,0,0
+"L:6.25; EXT:10.25; age by plumag",,0,0
+"L:6.25in; TL:2.5in; TS:7/8in; WC",,0,0
+"L:6.35""; WCH:3.75""; TL:2.50"".; a",,0,0
+"L:6.35""; WCH:3.80""; TL:2.70"".; a",,0,0
+"L:6.37""; WCH:3.50"".; age by plum",,0,0
+"L:6.4; WCH:3.3; TL:2.7.; age by ",,0,0
+"L:6.50in; EXT:11in; WCH:4.25in; ",,0,0
+"L:6.5in; TL:2.75in; TS:1&3/16in;",,0,0
+"L:6.5in; TL:2in; TS:1in; WCH:4&1",,0,0
+"L:6.70""; EXT:10.95""; WCH:3.65""; ",,0,0
+"L:6.75in; EXT:11.60in; WCH:4in; ",,0,0
+"L:6.75in; EXT:12in; WCH:3.75in; ",,0,0
+"L:6.75in; TL:2&5/8in(62.60mm); W",,0,0
+"L:6.75in; TL:2.75in; TS:1&1/16in",,0,0
+"L:658mm; EXT:ca. 1245mm.; age by",,0,0
+"L:7&1/2; EXT:12&7/16; WCH:3&13/1",,0,0
+"L:7&1/8in; EXT:11.75in; WCH:3&5/",,0,0
+"L:7&1/8in; EXT:12in; age by plum",,0,0
+"L:7&1/8in; TL:3in; TS:1.25in; WC",,0,0
+"L:7&3/8in; EXT:12&1/8in; age by ",,0,0
+"L:7&7/8in; EXT:14&5/8in; WCH:4&5",,0,0
+"L:7&9/16in; EXT:12&3/8in; WCH:4i",,0,0
+"L:7.10""; EXT:12.55""; WCH:4.30""; ",,0,0
+"L:7.10in; EXT:11.80in; age by pl",,0,0
+"L:7.20in; EXT:11.25in; age by pl",,0,0
+"L:7.25; EXT:11.50; TL:3.00; WCH:",,0,0
+"L:7.25in; EXT:11.75in; WCH:4in; ",,0,0
+"L:7.25in; EXT:11.90in; WCH:4.60i",,0,0
+"L:7.25in; EXT:12&1/8in; age by p",,0,0
+"L:7.25in; EXT:12.25in; WCH:4in; ",,0,0
+"L:7.25in; EXT:12in; age by pluma",,0,0
+"L:7.25in; EXT:12in; WCH:4.75in; ",,0,0
+"L:7.26mm; EXT:11.75mm; WCH:3.18m",,0,0
+"L:7.37in; EXT:12.00in; WCH:4.10i",,0,0
+"L:7.38in; EXT:11.49in; WCH:2.96i",,0,0
+"L:7.45in; EXT:12.00in; WCH:4.45i",,0,0
+"L:7.45in; EXT:12.12in; TL:3.20in",,0,0
+"L:7.5; EXT:13.4; TL:3.10; WCH:4.",,0,0
+"L:7.50""; EXT:13.37"".; age by plu",,0,0
+"L:7.50; EXT:11.50; WCH:4.00; TL:",,0,0
+"L:7.50in; EXT:12.00in; age by pl",,0,0
+"L:7.5in; EXT:12.25in; age by plu",,0,0
+"L:7.5in; EXT:12.75[?]in; age by ",,0,0
+"L:7.5in; TL:2in; TS:15/16in; WCH",,0,0
+"L:7.5in; WCH:4&3/16in; TL:2in; T",,0,0
+"L:7.60in; EXT:11.90in; WCH:3.75i",,0,0
+"L:7.70in; EXT:13.10in; age by pl",,0,0
+"L:7.75in; EXT:12&5/8in; WCH:3&15",,0,0
+"L:7.75in; EXT:12.25in; WCH:4in; ",,0,0
+"L:7.75in; EXT:13.50in; TL:5.00in",,0,0
+"L:7.75in; EXT:14.25in; WCH:5in; ",,0,0
+"L:7.75in; TL:1.75in; TS:1.25in; ",,0,0
+"L:7.8in; EXT:11.75in; TL:3.10in;",,0,0
+"L:7.93in; WCH?:5.12in??; age by ",,0,0
+"L:7in; EXT:11.5in; WCH:3.75in; T",,0,0
+"L:7in; EXT:11in; WCH:3.75in; TL:",,0,0
+"L:7in; EXT:12in; age by plumage",,0,0
+"L:7in; WCH:3&7/8in; TL:2&5/8in; ",,0,0
+"L:8&1/8in; TS:1/75in; TL:2&3/16i",,0,0
+"L:8&3/4; EXT:14"".; age by plumag",,0,0
+"L:8&7/8in; EXT:12.75in; TL:4in; ",,0,0
+"L:8&7/8in; TL:3.75in; TS:1&3/8in",,0,0
+"L:8&7/8in; TL:4in; TS:1&3/8in; W",,0,0
+"L:8.20""; EXT:16.50""; TL:2.75""; W",,0,0
+"L:8.25""; EXT:12.75""; some measur",,0,0
+"L:8.25in; EXT:13.5in; WCH:5.25in",,0,0
+"L:8.50in; EXT:17.30in; age by pl",,0,0
+"L:8.5in; EXT:15.25in; age by plu",,0,0
+"L:8.85in; EXT:15in; TL:4in; age ",,0,0
+"L:88mm; EXT:107mm.; age by pluma",,0,0
+"L:8in; EXT:14.5in; age by plumag",,0,0
+"L:9&1/8in; EXT:15.25in; WCH:5in;",,0,0
+"L:9&1/8in; WCH:5in; age by pluma",,0,0
+"L:9&3/8in; EXT:17&1/8in; WCH:5&1",,0,0
+"L:9&3/8in; TL:3.25in; TS:1&1/16i",,0,0
+"L:9&3/8in; TL:4&3/8in; WCH:5&1/8",,0,0
+"L:9&3/8in; TS:1.5in; WCH:5in; ag",,0,0
+"L:9&3/8in; WCH:5&1/8in; age by p",,0,0
+"L:9&7/8in; TL:3.75in; TS:1.5in; ",,0,0
+"L:9&9/16in; WCH:4&11/16in; age b",,0,0
+"L:9.18in; EXT:14.81in; age by pl",,0,0
+"L:9.20in; EXT:14.90in; age by pl",,0,0
+"L:9.20in; EXT:17.27in; age by pl",,0,0
+"L:9.20in; EXT:17in; TL:2.25in; a",,0,0
+"L:9.25in; EXT:15.35in; TL:4in; a",,0,0
+"L:9.25in; EXT:15.60in; WCH:5.50i",,0,0
+"L:9.25in; EXT:16&7/8in; age by p",,0,0
+"L:9.25in; TL:3in; TS:1&1/16in; W",,0,0
+"L:9.25in; WCH:5in; TL:4in; TS:1.",,0,0
+"L:9.25in; WCH:6in; TS:1&5/16in; ",,0,0
+"L:9.50in; EXT:15.50in; WCH?:4.87",,0,0
+"L:9.50in; EXT:16in; WCH:5.75in; ",,0,0
+"L:9.50in; EXT:20in; WCH:7.25in; ",,0,0
+"L:9.5in; EXT:17&3/8in; WCH:5&5/8",,0,0
+"L:9.5in; TL:3.25in; WCH:4.75in; ",,0,0
+"L:9.5in; TL:4in; WCH:5in; TS:1&3",,0,0
+"L:9.5in; TS:1&5/8in; TL:4in; WCH",,0,0
+"L:9.5in; WCH:5.5in; age by pluma",,0,0
+"L:9.5in; WCH:5in; TL:3.75in; TS:",,0,0
+"L:9.70in; EXT:17in; WCH:5.70in; ",,0,0
+"L:9.75in; EXT:15.5in; WCH:5&1/8i",,0,0
+"L:9.75in; EXT:16.5in; age by plu",,0,0
+"L:9.75in; TL:3.5in; TS:1in; WCH:",,0,0
+"L:9.75in; WCH:5&3/16in; TL:3&5/8",,0,0
+"L:9.75mm; EXT:16.50mm; TL:3.75mm",,0,0
+"L:9; EXT:13; ""T"":2 inches.; age ",,0,0
+"L:9in; EXT:15&3/16in; WCH:5in; T",,0,0
+"L:9in; EXT:15&7/8in; age by plum",,0,0
+"L:9in; EXT:18.85in; TL:2.60in; a",,0,0
+"L:9in; TL:2.5in; age by plumage",,0,0
+"L:9in; TL:3&3/8in; WCH:4&7/8in; ",,0,0
+"L:9in; WCH:5&3/8in; TL:3in; TS:1",,0,0
 "Laid 14 May 1987",,0,0
 "Laid 15 July",,0,0
 "Laid 26 May, pulled 27 May",,0,0
@@ -11862,6 +12503,7 @@ Infertile-1",,0,0
 "nouveau",,0,0
 "Npne",,0,0
 "NR",,0,0
+"NST",,0,0
 "nst.",,0,0
 "NT","natal",0,1
 "Nto recorded",,0,0
@@ -12493,6 +13135,7 @@ fresh",,0,0
 "Quite large embryos",,0,0
 "quite rotten",,0,0
 "quite strong",,0,0
+"R&L wings:118mm; age by plumage",,0,0
 "Ramphocelus-fresh; Molothrus-tra",,0,0
 "Ranging 1/3 to 1/2",,0,0
 "ranging from fresh to rather inc",,0,0
@@ -14163,6 +14806,7 @@ Started",,0,0
 "SY (BY PLMAGE); BURSA NOT FOUND;",,0,0
 "SY (BY PLUMAGE)",,0,0
 "SY (BY PLUMAGE); NO BURSA",,0,0
+"SY ?",,0,0
 "SY by plumage",,0,0
 "SY/TY",,0,0
 "SY/TY; BURSA 5 X 3 MM",,0,0
@@ -14324,6 +14968,7 @@ Started",,0,0
 "tiny embryos",,0,0
 "TISSUE AND PHOTO ONLY",,0,0
 "TISSUE SAMPLES IN 95%",,0,0
+"TL:Br; WCH:103mm; TS:21.3mm; CUL",,0,0
 "to","unknown",0,1
 "To blood",,0,0
 "To blood in all",,0,0
@@ -14457,6 +15102,9 @@ Started",,0,0
 "tres incubes",,0,0
 "Trifling",,0,0
 "True",,0,0
+"TS:15.55; TL:56.45; TL:57.5; BL:",,0,0
+"TS:19.20mm; WCH:94.15mm; CUL:11.",,0,0
+"TS:21.2; CTO:15.0; TL:49.4; WCH:",,0,0
 "Turning",,0,0
 "Turning 1/2",,0,0
 "twelve days",,0,0
@@ -14949,6 +15597,163 @@ Started",,0,0
 "Was 7 eggs",,0,0
 "Was very slight",,0,0
 "water checked",,0,0
+"WCH(L):130mm; age by plumage",,0,0
+"WCH(R):138mm; age by plumage",,0,0
+"WCH(R):138mm; BL(cul.ant.nos.):1",,0,0
+"WCH(R):140mm; age by plumage",,0,0
+"WCH: 101 mm; age by plumage",,0,0
+"WCH: 156 mm; age by plumage",,0,0
+"WCH: 168.5mm; age by plumage",,0,0
+"WCH: 169mm; age by plumage",,0,0
+"WCH: 190mm; age by plumage",,0,0
+"WCH: 229 mm; age by plumage",,0,0
+"WCH: 308mm; age by plumage",,0,0
+"WCH: 335mm; age by plumage",,0,0
+"WCH: 365mm; age by plumage",,0,0
+"WCH: 43mm; age by plumage",,0,0
+"WCH: 51.5mm  TL: 50mm; age by pl",,0,0
+"WCH: 52.5mm  TL: 51.5mm; age by ",,0,0
+"WCH: 52mm  TL: 46.5mm but FF wor",,0,0
+"WCH: 52mm  TL: 47mm; age by plum",,0,0
+"WCH: 52mm  TL: 52mm (w); age by ",,0,0
+"WCH: 53mm  TL: 45mm; age by plum",,0,0
+"WCH: 53mm  TL: 47mm; age by plum",,0,0
+"WCH: 53mm  TL: 49mm; age by plum",,0,0
+"WCH: 53mm  TL: 50.5mm; age by pl",,0,0
+"WCH: 53mm  TL: 51.5mm; age by pl",,0,0
+"WCH: 53mm  TL: 51mm; age by plum",,0,0
+"WCH: 54mm  TL: 48mm; age by plum",,0,0
+"WCH: 54mm  TL: 49mm; age by plum",,0,0
+"WCH: 55mm  TL: 50.5mm; age by pl",,0,0
+"WCH: 56.5 mm; age by plumage",,0,0
+"WCH: 56mm  TL: 47mm; age by plum",,0,0
+"WCH: 56mm  TL: 51mm; age by plum",,0,0
+"WCH: 57mm  TL: 54mm; age by plum",,0,0
+"WCH: 57mm  TL: 56mm; age by plum",,0,0
+"WCH: 58mm  TL: 51mm; age by plum",,0,0
+"WCH: 59.25mm  TL: 50.90mm; age b",,0,0
+"WCH: 60.75mm  TL: 47.2mm; age by",,0,0
+"WCH: 61.4mm  TL: 54.2mm  L: 139m",,0,0
+"WCH: 64.4mm  TL: 52.75mm; age by",,0,0
+"WCH: 65.7mm  TL: 53.35mm  P10 > ",,0,0
+"WCH: 66.8mm  Formula B: 6.70mm; ",,0,0
+"WCH: 68.1mm  Formula B: 5.50mm  ",,0,0
+"WCH: 96mm; age by plumage",,0,0
+"WCH: 97.5mm; age by plumage",,0,0
+"WCH:100mm.; age by plumage",,0,0
+"WCH:103mm; L:215mm; EXT:328mm; B",,0,0
+"WCH:105mm; CUL:13.1(?)mm; L:200m",,0,0
+"WCH:105mm; CUL:13.6mm; TS:22.7mm",,0,0
+"WCH:106mm; L:215mm; EXT:226mm; B",,0,0
+"WCH:112 mm.; age by plumage",,0,0
+"WCH:114.5mm; WFL:115mm; BL:14.22",,0,0
+"WCH:120mm; TL:89?mm; CUL:24mm; a",,0,0
+"WCH:122mm; L:196mm; age by pluma",,0,0
+"WCH:122mm; TL:91.5mm; CUL:23mm; ",,0,0
+"WCH:127 mm.; age by plumage",,0,0
+"WCH:137mm.; age by plumage",,0,0
+"WCH:140mm.; age by plumage",,0,0
+"WCH:142.5mm.; age by plumage",,0,0
+"WCH:149.0mm.; age by plumage",,0,0
+"WCH:159mm.; age by plumage",,0,0
+"WCH:16&1/4"".; age by plumage",,0,0
+"WCH:169 mm.; age by plumage",,0,0
+"WCH:175 mm.; age by plumage",,0,0
+"WCH:176 mm.; age by plumage",,0,0
+"WCH:178 mm.; age by plumage",,0,0
+"WCH:193mm, strongly arced.; age ",,0,0
+"WCH:216 mm.; age by plumage",,0,0
+"WCH:232 mm.; age by plumage",,0,0
+"WCH:232mm.; age by plumage",,0,0
+"WCH:260 mm.; age by plumage",,0,0
+"WCH:264mm.; age by plumage",,0,0
+"WCH:274 mm.; age by plumage",,0,0
+"WCH:290 mm.; age by plumage",,0,0
+"WCH:292; TL:125.3; CTO:37.5; TS:",,0,0
+"WCH:296; TL:123.6; CTO:38.0; TS:",,0,0
+"WCH:297; TL:132.8; CTO:36.6; TS:",,0,0
+"WCH:298; TL:115.6; CTO:38.5; TS:",,0,0
+"WCH:3.77"", 95.76mm; TL:2.58"", 65",,0,0
+"WCH:300; TL:125.7; CTO:38.7; TS:",,0,0
+"WCH:302; CTO:37.8; TS:34.4; TL:1",,0,0
+"WCH:302; TL:125.1; CTO:40.9; TS:",,0,0
+"WCH:302; TL:131; CTO:42.2; TS:35",,0,0
+"WCH:302; TL:132.7; CTO:41.1; TS:",,0,0
+"WCH:303; CTO:40.2; TS:34.3; TL:1",,0,0
+"WCH:303; TL:134.8; CTO:40.1; TS:",,0,0
+"WCH:304; TL:132.3; CTO:39.8; TS:",,0,0
+"WCH:304; TL:132.9; CTO:39.5; TS:",,0,0
+"WCH:304; TL:137.4; CTO:40.3; TS:",,0,0
+"WCH:305; TL:131.1; CTO:38.4; TS:",,0,0
+"WCH:307; TL:122; CTO:39.3; TS:33",,0,0
+"WCH:307; TL:127.3; CTO:39.0; TS:",,0,0
+"WCH:307; TL:132; CTO:41.8; TS:37",,0,0
+"WCH:308; CTO:41.8; TS:34.4; age ",,0,0
+"WCH:309; TL:139.0; CTO:40.4; TS:",,0,0
+"WCH:310; TL:127.5; CTO:36.5; TS:",,0,0
+"WCH:310; TL:132; CTO:39.6; TS:35",,0,0
+"WCH:310; TL:136.2; CTO:39.8; TS:",,0,0
+"WCH:310; TL:139.1; CTO:39.3; TS:",,0,0
+"WCH:311; TL:132.9; CTO:39.7; TS:",,0,0
+"WCH:312; CTO:39.6; TS:34.0.; age",,0,0
+"WCH:312; TL:134.0; TS:33.0; CTO:",,0,0
+"WCH:312; TL:136.2; CTO:39.1; TS:",,0,0
+"WCH:313; CTO:40.7; TS:34.2.; age",,0,0
+"WCH:313; TL:130.6; CTO:38.6; TS:",,0,0
+"WCH:314; TL:132.5; CTO:41.9; TS:",,0,0
+"WCH:314; TL:139; CTO:38.1; TS:32",,0,0
+"WCH:315; CTO:ca. 39.3 - tip brok",,0,0
+"WCH:315; TL:130.2; CTO:41.8; TS:",,0,0
+"WCH:316.; age by plumage",,0,0
+"WCH:317.; age by plumage",,0,0
+"WCH:317; CTO:41.1; TS:35.4.; age",,0,0
+"WCH:318; TL:124; CTO:39.5; TS:35",,0,0
+"WCH:319; TL:132.5; CTO:38.6; TS:",,0,0
+"WCH:319; TL:137.0; CTO:41.9; TS:",,0,0
+"WCH:320 mm.; age by plumage",,0,0
+"WCH:325; CTO:40.4; TS:34.0.; age",,0,0
+"WCH:327; TL:138.0; CTO:42.1; TS:",,0,0
+"WCH:331mm; TL:129.6mm; CTO:31.6m",,0,0
+"WCH:364; TL:192; TS:62; CEX:55; ",,0,0
+"WCH:385 mm.; age by plumage",,0,0
+"WCH:401 mm.; age by plumage",,0,0
+"WCH:404 mm.; age by plumage",,0,0
+"WCH:515 mm.; age by plumage",,0,0
+"WCH:52.5; TL:50mm.; age by pluma",,0,0
+"WCH:53 mm.; age by plumage",,0,0
+"WCH:55.9; TL:47.1; BL:7.5; TS:17",,0,0
+"WCH:58.; age by plumage",,0,0
+"WCH:58.5 mm.; age by plumage",,0,0
+"WCH:58.75mm; TL:49.20mm.; age by",,0,0
+"WCH:59.30mm; TL:49.65mm; L:130mm",,0,0
+"WCH:59; TL:48.5 TS:17.1; culmen:",,0,0
+"WCH:61.05mm; TL:49.25mm.; age by",,0,0
+"WCH:61.5; TL:47.5.; age by pluma",,0,0
+"WCH:64.3; TL:51.95.; age by plum",,0,0
+"WCH:64; TL:62 mm.; age by plumag",,0,0
+"WCH:64mm.; age by plumage",,0,0
+"WCH:65.5; age by plumage",,0,0
+"WCH:65.65mm; TL:53.00mm.; age by",,0,0
+"WCH:66.8mm.; age by plumage",,0,0
+"WCH:66; age by plumage",,0,0
+"WCH:67.5; age by plumage",,0,0
+"WCH:67.6mm; FMB:5.35mm.; age by ",,0,0
+"WCH:67.8; Formula B:5.15; CTO:7.",,0,0
+"WCH:69; L:148; EXT:225.; age by ",,0,0
+"WCH:71.5+ mm.; age by plumage",,0,0
+"WCH:71; TL:150; WFL:72; TL:57.5;",,0,0
+"WCH:72.9; Formula B:5.4; P10-P5=",,0,0
+"WCH:73mm.; age by plumage",,0,0
+"WCH:74; TL:53.8; TS:21.1; BL:8.3",,0,0
+"WCH:74; TL:54 mm.; age by plumag",,0,0
+"WCH:76mm; WFL:76mm; TL:66.25mm; ",,0,0
+"WCH:77.8; TL:56.75; BL:12.2 (ksw",,0,0
+"WCH:89.42 mm.; age by plumage",,0,0
+"WCH:89.94; age by plumage",,0,0
+"WCH:92 mm.; age by plumage",,0,0
+"WCH:98mm; age by plumage",,0,0
+"WCH:98mm; TS:21.3mm; BL:12.6mm, ",,0,0
+"WCH413 mm.; age by plumage",,0,0
 "weak",,0,0
 "Weak or more",,0,0
 "week",,0,0
@@ -15088,6 +15893,7 @@ Started",,0,0
 "Well-formed embryos",,0,0
 "Well-formed soft embryos",,0,0
 "were addled about 1/3, or 7 days",,0,0
+"WFL:102mm; BL:depth 13.3mm; age ",,0,0
 "When found contained 2 hatched e",,0,0
 "When found contained 2 hatched eggs of wren and 5 ",,0,0
 "white egg half & speckled fresh",,0,0

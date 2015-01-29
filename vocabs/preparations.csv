@@ -6720,6 +6720,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Bill.",,0,0
 "Bipartitus teeth",,0,0
 "BIRD",,0,0
+"BirdPrep - 1",,0,0
 "bite marks on ammonite shell",,0,0
 "bits of bone",,0,0
 "blade frags",,0,0
@@ -6937,6 +6938,10 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "bulla fragment",,0,0
 "BULLA FRAGS",,0,0
 "BULLA SIGMOID PROCESS",,0,0
+"bulla, round skin, part skel, tissue - 1",,0,0
+"bulla, round skin, part skel, tissue, wing - 1",,0,0
+"bulla, round skin, part skel, tissue, wing - 1; BirdPrep - 1",,0,0
+"bulla, round skin, tissue - 1",,0,0
 "BULLA,HUMERUS,SCAPULA FRAGS",,0,0
 "BULLA,MALLEUS,INCUS",,0,0
 "BULLA,PERIOTIC",,0,0
@@ -6998,6 +7003,20 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "C&S - 5",,0,0
 "C&S - 5; 70% EtOH - 5",,0,0
 "C&S - 8; 70% EtOH - 8",,0,0
+"C&S | Dry",,0,0
+"C&S | Dry | Fluid",,0,0
+"C&S | Fluid",,0,0
+"C&S | Fluid | Dry",,0,0
+"C&S | Fluid | Dry | Hemipenis",,0,0
+"C&S | Fluid | Hemipenis",,0,0
+"C&S | Hemipenis | Fluid",,0,0
+"C&S | Hemipenis | Fluid | Dry",,0,0
+"C&S | Microtechnique",,0,0
+"C&S | Microtechnique | Fluid",,0,0
+"C&S | Recording",,0,0
+"C&S | Tissue",,0,0
+"C&S | Tissue | Dry | Hemipenis",,0,0
+"C&S | Tissue | Fluid",,0,0
 "C&S Skeleton - 1",,0,0
 "C&S Skeleton - 1; C&S Skeleton - 1",,0,0
 "C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
@@ -8407,6 +8426,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "CLOACAL BONES (DRY)","cloacal bones",0,1
 "Cloacal region + vestigial limbs (in phenoxetol)",,0,0
 "Cluster of eggs (mounted, in spirit)",,0,0
+"clutch - complete - 1",,0,0
+"clutch - partial - 1",,0,0
+"clutch (complete) with nest (complete) - 1",,0,0
+"clutch (partial) with nest (complete) - 1",,0,0
 "clutch of 17 eggs",,0,0
 "CM I L",,0,0
 "C-M3/",,0,0
@@ -8522,6 +8545,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete skel; alc. gut,uterus | tissue",,0,0
 "complete skel; alc. skin",,0,0
 "complete skeleton",,0,0
+"complete skeleton - 1",,0,0
 "complete skeleton | tissue",,0,0
 "complete skeleton + 6 alc eggs",,0,0
 "Complete skeleton only","complete skeleton",0,1
@@ -8546,6 +8570,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete skeleton, skull, other",,0,0
 "complete skeleton, skull, skin",,0,0
 "complete skeleton, tissue",,0,0
+"complete skeleton, tissue - 1",,0,0
 "complete skeleton, tissue, alcoholic",,0,0
 "complete skeleton, tissue, flat skin",,0,0
 "complete skeleton, tissue, other",,0,0
@@ -12316,6 +12341,28 @@ R PERIPHERALS 2 - 3.",,0,0
 "DRIED/ SMALL JAR, tissue",,0,0
 "dRP4",,0,0
 "Dry","dry",1,1
+"Dry | C&S",,0,0
+"Dry | C&S | Fluid",,0,0
+"Dry | C&S | Hemipenis | Fluid",,0,0
+"Dry | Dry",,0,0
+"Dry | Fluid",,0,0
+"Dry | Fluid | C&S",,0,0
+"Dry | Fluid | C&S | Hemipenis",,0,0
+"Dry | Fluid | Dry",,0,0
+"Dry | Fluid | Fluid",,0,0
+"Dry | Fluid | Hemipenis",,0,0
+"Dry | Fluid | Hemipenis | C&S",,0,0
+"Dry | Fluid | Tissue",,0,0
+"Dry | Hemipenis",,0,0
+"Dry | Hemipenis | C&S | Fluid",,0,0
+"Dry | Hemipenis | Dry",,0,0
+"Dry | Hemipenis | Dry | Fluid",,0,0
+"Dry | Hemipenis | Fluid",,0,0
+"Dry | Hemipenis | Microtechnique",,0,0
+"Dry | Microtechnique",,0,0
+"Dry | Recording",,0,0
+"Dry | Tissue",,0,0
+"Dry | Tissue | Fluid",,0,0
 "Dry eggshells","dry eggshells",0,1
 "DRY JAR",,0,0
 "Dry shell","dry eggshell",0,1
@@ -13033,6 +13080,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Feather; Wings_tail; Tissue; Skel",,0,0
 "Feather; Wings_tail; Tissue; Skin",,0,0
 "feathers","feathers",1,1
+"feathers - 1",,0,0
 "Feathers (crest)",,0,0
 "Feathers (from flanks)",,0,0
 "Feathers (wing)",,0,0
@@ -13053,6 +13101,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "feathers, wing",,0,0
 "FEATHERS/SKELETON","feathers, skin",0,1
 "feathers/wing, tissue",,0,0
+"feathers; Round Skin",,0,0
 "Fecal pellets","fecal pellets",0,1
 "feet",,0,0
 "Feet (2 sabots)",,0,0
@@ -13479,12 +13528,20 @@ R PERIPHERALS 2 - 3.",,0,0
 "flat skin, partial skeleton, complete skeleton, wing",,0,0
 "flat skin, partial skeleton, tissue, wing",,0,0
 "flat skin, partial skeleton, wing",,0,0
+"flat skin, skeleton, syrinx - 1",,0,0
+"flat skin, skeleton, tissue - 1",,0,0
+"flat skin, skeleton, wing - 1",,0,0
 "flat skin, tissue",,0,0
+"flat skin, tissue - 1",,0,0
+"flat skin, tissue, bulla - 1",,0,0
 "flat skin, tissue, complete skeleton",,0,0
 "flat skin, tissue, complete skeleton, tissue",,0,0
 "flat skin, tissue, tissue, complete skeleton, tissue",,0,0
 "flat skin, tissue, tissue, tissue, complete skeleton",,0,0
 "flat skin, tissue, tissue, tissue, tissue, complete skeleton",,0,0
+"flat skin, tissue, wing - 1",,0,0
+"flat skin, tissue, wing, skeleton - 1",,0,0
+"flat skin, wing - 1",,0,0
 "flat skin, wing, complete skeleton",,0,0
 "flat skin, wing, complete skeleton, other",,0,0
 "flat skin/complete skel/tissue | tissue",,0,0
@@ -14852,6 +14909,48 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - null","Fluid - null",0,1
 "Fluid (Cleared & stained) (Cleared & stained)",,0,0
 "Fluid (Head only) (Head only)",,0,0
+"Fluid | C&S",,0,0
+"Fluid | C&S | Dry",,0,0
+"Fluid | C&S | Dry | Fluid",,0,0
+"Fluid | C&S | Dry | Hemipenis",,0,0
+"Fluid | C&S | Hemipenis",,0,0
+"Fluid | Dry",,0,0
+"Fluid | Dry | C&S",,0,0
+"Fluid | Dry | C&S | Hemipenis",,0,0
+"Fluid | Dry | Fluid",,0,0
+"Fluid | Dry | Hemipenis",,0,0
+"Fluid | Dry | Hemipenis | Dry",,0,0
+"Fluid | Dry | Tissue",,0,0
+"Fluid | Fluid",,0,0
+"Fluid | Fluid | Dry",,0,0
+"Fluid | Fluid | Dry | Tissue",,0,0
+"Fluid | Fluid | Hemipenis",,0,0
+"Fluid | Fluid | Tissue",,0,0
+"Fluid | Hemipenis",,0,0
+"Fluid | Hemipenis | C&S",,0,0
+"Fluid | Hemipenis | C&S | Dry",,0,0
+"Fluid | Hemipenis | Dry",,0,0
+"Fluid | Hemipenis | Dry | C&S",,0,0
+"Fluid | Hemipenis | Hemipenis",,0,0
+"Fluid | Hemipenis | Microtechnique",,0,0
+"Fluid | Microtechnique",,0,0
+"Fluid | Microtechnique | Hemipenis | Tissue",,0,0
+"Fluid | Microtechnique | Microtechnique",,0,0
+"Fluid | Microtechnique | Microtechnique | Microtechnique | Tissue",,0,0
+"Fluid | Microtechnique | Microtechnique | Tissue",,0,0
+"Fluid | Microtechnique | Microtechnique | Tissue | Microtechnique",,0,0
+"Fluid | Microtechnique | Recording",,0,0
+"Fluid | Microtechnique | Tissue",,0,0
+"Fluid | Misc",,0,0
+"Fluid | Recording",,0,0
+"Fluid | Recording | Microtechnique",,0,0
+"Fluid | Recording | Tissue",,0,0
+"Fluid | Tissue",,0,0
+"Fluid | Tissue | Dry",,0,0
+"Fluid | Tissue | Fluid",,0,0
+"Fluid | Tissue | Microtechnique",,0,0
+"Fluid | Tissue | Microtechnique | Hemipenis",,0,0
+"Fluid | Tissue | Recording",,0,0
 "FLUID HEAD AND PARTIAL SKELETON","fluid head, partial skeleton",0,1
 "FLUID HEAD FEET IN SKIN","fluid head and feet in skin",0,1
 "FLUID SKIN","fluid skin",0,1
@@ -16404,6 +16503,21 @@ R PERIPHERALS 2 - 3.",,0,0
 "HEMIPENES (GLYCERIN)","hemipenes (glycerin)",0,1
 "Hemipenis","hemipenis",1,1
 "HEMIPENIS (GLYCERIN)","hemipenes (glycerin)",0,1
+"Hemipenis | C&S | Dry | Fluid",,0,0
+"Hemipenis | C&S | Fluid",,0,0
+"Hemipenis | Dry",,0,0
+"Hemipenis | Dry | C&S | Fluid",,0,0
+"Hemipenis | Dry | C&S | Fluid | Fluid",,0,0
+"Hemipenis | Dry | Dry",,0,0
+"Hemipenis | Dry | Fluid",,0,0
+"Hemipenis | Fluid",,0,0
+"Hemipenis | Fluid | C&S",,0,0
+"Hemipenis | Fluid | Dry",,0,0
+"Hemipenis | Fluid | Dry | C&S",,0,0
+"Hemipenis | Fluid | Fluid",,0,0
+"Hemipenis | Fluid | Fluid | Dry",,0,0
+"Hemipenis | Microtechnique | Fluid",,0,0
+"Hemipenis | Tissue | Dry",,0,0
 "Hemipenis, C&S, Dry, Fluid","cleared and stained, dry, fluid, hemipenis",0,1
 "Hemipenis, C&S, Fluid","cleared and stained, fluid, hemipenis",0,1
 "Hemipenis, Dry","dry, hemipenis",0,1
@@ -24813,6 +24927,27 @@ R PERIPHERALS 2 - 3.",,0,0
 "METATASAL",,0,0
 "metcarpal 4",,0,0
 "met'ing juv",,0,0
+"Microtechnique | Dry",,0,0
+"Microtechnique | Fluid",,0,0
+"Microtechnique | Fluid | Hemipenis",,0,0
+"Microtechnique | Fluid | Microtechnique",,0,0
+"Microtechnique | Fluid | Microtechnique | Microtechnique",,0,0
+"Microtechnique | Fluid | Microtechnique | Microtechnique | Tissue",,0,0
+"Microtechnique | Fluid | Microtechnique | Tissue | Microtechnique",,0,0
+"Microtechnique | Fluid | Recording",,0,0
+"Microtechnique | Fluid | Tissue",,0,0
+"Microtechnique | Hemipenis | Fluid",,0,0
+"Microtechnique | Microtechnique | Fluid",,0,0
+"Microtechnique | Microtechnique | Fluid | Tissue",,0,0
+"Microtechnique | Microtechnique | Microtechnique | Fluid",,0,0
+"Microtechnique | Microtechnique | Microtechnique | Microtechnique | Fluid",,0,0
+"Microtechnique | Microtechnique | Microtechnique | Tissue | Fluid",,0,0
+"Microtechnique | Microtechnique | Tissue | Fluid",,0,0
+"Microtechnique | Microtechnique | Tissue | Fluid | Microtechnique",,0,0
+"Microtechnique | Microtechnique | Tissue | Microtechnique | Fluid",,0,0
+"Microtechnique | Recording | Fluid",,0,0
+"Microtechnique | Tissue | Fluid",,0,0
+"Microtechnique | Tissue | Microtechnique | Microtechnique | Fluid",,0,0
 "Microtechnique, Dry","dry, microtechnique",0,1
 "Microtechnique, Fluid","fluid, microtechnique",0,1
 "Microtechnique, Fluid, Hemipenis","fluid, hemipenis, microtechnique",0,1
@@ -28430,6 +28565,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "part skel/misc feathers | tissue",,0,0
 "part skel/wing","part skeleton, wing",0,1
 "part skel/wing, tissue","partial skeleton, tissue, wing",0,1
+"part skel; tissue; Round Skin",,0,0
 "part skeleton",,0,0
 "part skeleton (skull & 3 vertebrae)",,0,0
 "part skeleton (skull & 3 vertebrae) | tissue",,0,0
@@ -29468,6 +29604,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skel/wing","partial skeleton, wing",0,1
 "partial skel/x-rays R&L flippers/art. flipper",,0,0
 "partial skeleton","partial skeleton",1,1
+"Partial skeleton - 1",,0,0
 "PARTIAL SKELETON (DRY)","partial skeleton",0,1
 "PARTIAL SKELETON (LACKS ANT. F","partial skeleton",0,1
 "partial skeleton (muscle); other (surrogate puppet)",,0,0
@@ -29537,8 +29674,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skeleton, wing, tissue, round skin",,0,0
 "Partial skeleton.",,0,0
 "partial skeleton/tissue | tissue",,0,0
+"Partial skeleton; flat skin",,0,0
 "partial skeleton; head; foot; frozen: heart, muscle",,0,0
 "partial skeleton; jaws, skull frag, limb frags",,0,0
+"Partial skeleton; tail",,0,0
+"Partial skeleton; tail; tissue; wing",,0,0
+"Partial skeleton; tissue; flat skin",,0,0
 "partial skeleton; wing",,0,0
 "partial skeleton; wing ; frozen: heart",,0,0
 "partial skeleton; wing ; frozen: heart; muscle",,0,0
@@ -36155,6 +36296,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "RdP3or4/",,0,0
 "RdP4/",,0,0
 "RdPx/",,0,0
+"Recording | Dry",,0,0
+"Recording | Fluid",,0,0
+"Recording | Fluid | Microtechnique",,0,0
+"Recording | Microtechnique | Fluid",,0,0
+"Recording | Tissue | Fluid",,0,0
 "Recording, Dry","dry, recording",0,1
 "Recording, Fluid","fluid, recording",0,1
 "Recording, Fluid, Microtechnique","fluid, microtechnique, recording",0,1
@@ -36867,6 +37013,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "ROSTRUM+PALATE W P4-M1",,0,0
 "round","round skin",0,1
 "round skin",,0,0
+"Round Skin - 1",,0,0
 "round skin, alcoholic",,0,0
 "round skin, complete skeleton",,0,0
 "round skin, complete skeleton, wing",,0,0
@@ -36875,13 +37022,21 @@ R PERIPHERALS 2 - 3.",,0,0
 "round skin, other, partial skeleton",,0,0
 "round skin, other, tissue",,0,0
 "round skin, other, tissue, tissue, wing",,0,0
+"round skin, part skel, tiss, stom - 1",,0,0
+"round skin, part skel, tiss, stom, wing - 1",,0,0
+"round skin, part skel, tissue, ovary - 1",,0,0
+"round skin, part, skel, wing - 1",,0,0
 "round skin, partial skeleton",,0,0
+"round skin, partial skeleton - 1",,0,0
 "round skin, partial skeleton, tissue",,0,0
+"round skin, partial skeleton, tissue - 1",,0,0
+"round skin, partial skeleton, tissue - 1; round skin, partial skeleton, tissue - 1; round skin, partial skeleton, tissue - 1",,0,0
 "round skin, partial skeleton, wing",,0,0
 "round skin, round skin",,0,0
 "round skin, sound recording",,0,0
 "round skin, sound recording, tissue",,0,0
 "round skin, tissue",,0,0
+"round skin, tissue - 1",,0,0
 "round skin, tissue, complete skeleton",,0,0
 "round skin, tissue, other",,0,0
 "round skin, tissue, partial skeleton",,0,0
@@ -36898,7 +37053,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "round skin, wing, alcoholic",,0,0
 "round skin, wing, complete skeleton",,0,0
 "round skin, wing, partial skeleton",,0,0
+"round skin, wing, partial skeleton, tissue - 1",,0,0
 "round skin, wing, tissue",,0,0
+"round skin, wing, tissue - 1",,0,0
+"round skin, wing, tissue - 1; round skin, wing, tissue - 1",,0,0
 "round skin, wing, tissue, partial skeleton",,0,0
 "round skin, wing, tissue, tissue",,0,0
 "round wing","round skin, wing",0,1
@@ -37351,8 +37509,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "SCHMOO AND SKELETON",,0,0
 "SCHMOO AND SKELETON, tissue","schmoo, skeleton, tissue",0,1
 "SCHMOO AND SKULL","schmoo, skull",0,1
+"schmoo, complete skeleton, wing, tissue - 1",,0,0
 "SCHMOO, FULL SKELETON, AND SPREAD WING","schmoo, full skeleton, spread wing",0,1
 "SCHMOO, FULL SKELETON, AND SPREAD WING, tissue","schmoo, full skeleton, spread wing, tissue",0,1
+"schmoo, partial skel, wing - 1",,0,0
+"schmoo, skel, wing - 1",,0,0
+"schmoo, skeleton, tissue - 1",,0,0
+"schmoo, tissue - 1",,0,0
 "Sclerobasic axial skeleton",,0,0
 "SCLEROTIC PLATE",,0,0
 "Scrap",,0,0
@@ -37960,6 +38123,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel; Tissue; Genbank",,0,0
 "Skel; Tissue; Genbank; Skin",,0,0
 "Skel; Tissue; Genbank; Wings_tail",,0,0
+"skel; tissue; Round Skin",,0,0
+"skel; tissue; schmoo",,0,0
 "Skel; Tissue; Skel",,0,0
 "Skel; Tissue; Skin",,0,0
 "Skel; Tissue; Skin; Feather",,0,0
@@ -37975,8 +38140,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel; Tissue; Syrinx; Wings_tail",,0,0
 "Skel; Tissue; Thin section; Skin; Wings_tail",,0,0
 "Skel; Tissue; Tissue",,0,0
+"skel; tissue; wing",,0,0
 "Skel; Tissue; Wings_tail",,0,0
 "Skel; Tissue; Wings_tail; Wings_tail",,0,0
+"skel; wing",,0,0
 "Skel; Wings_tail","skeleton, tail, wings",0,1
 "Skel; Wings_tail/N",,0,0
 "Skel; Wings_tail/Y",,0,0
@@ -41661,10 +41828,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton; Skin","skeleton, skin",0,1
 "Skeleton; Skin (EtOH)","skeleton, skin (ETOH)",0,1
 "Skeleton; Study skin","skeleton, study skin",0,1
+"skeleton; tissue; schmoo",,0,0
+"skeleton; tissue; wing",,0,0
 "Skeleton; Whole (EtOH)","skeleton, whole animal (ETOH)",0,1
 "skeleton; wing",,0,0
 "skeleton; wing (2)",,0,0
 "skeleton; wing; tail",,0,0
+"skeleton; wing; tissue; schmoo",,0,0
 "skeleton; wings; flattened skin",,0,0
 "skeleton?, tissue",,0,0
 "SKELETON+DENTARY",,0,0
@@ -42643,6 +42813,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, sexed by Olson; Fluid",,0,0
 "Skin, shmoo made up; Skel, shmoo made up",,0,0
 "Skin, sk and sex; Feather",,0,0
+"skin, skel, stom, tissues - 1",,0,0
 "SKIN, SKELEON","skin, skeleton",0,1
 "Skin, Skeleton","skeleton, skin",0,1
 "SKIN, SKELETON (FEW WING BONES)","skin, skeleton, wing bones",0,1
@@ -42674,6 +42845,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Skeleton, Skeletal elements, Skeleton, Skeletal elements",,0,0
 "Skin, Skeleton, Skeleton","skeleton, skin",0,1
 "Skin, Skeleton, Skeleton, Tissue, Tissue",,0,0
+"skin, skeleton, stomach - 1",,0,0
 "skin, skeleton, syrinx, Tissue number 1149",,0,0
 "skin, skeleton, syrinx, Tissue number 11745",,0,0
 "skin, skeleton, syrinx, Tissue number 12273 at Smithsonian",,0,0
@@ -62196,6 +62368,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SPLINT",,0,0
 "splint metapodial",,0,0
 "SPREAD WING","spread wing",0,1
+"Spread Wing - 1",,0,0
 "spread wing (see Comments)",,0,0
 "spread wing (see Comments) | tissue",,0,0
 "SPREAD WING AND TAIL",,0,0
@@ -62347,6 +62520,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "stinger",,0,0
 "STOCK,C.",,0,0
 "STOCKARDS",,0,0
+"stom; skel; tissue; Round Skin",,0,0
+"stom; skel; tissue; schmoo",,0,0
 "Stomach (dried)",,0,0
 "Stomach (in spirit)",,0,0
 "Stomach + liver + gall bladder (in spirit)",,0,0
@@ -62662,6 +62837,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "tadpole",,0,0
 "tail","tail",1,1
 "Tail  + body (part)",,0,0
+"tail - 1",,0,0
 "tail & 2 wings","tail, wings",0,1
 "Tail & other pieces (in spirit)",,0,0
 "Tail (distal)",,0,0
@@ -62684,9 +62860,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "tail vertebrae",,0,0
 "Tail with rattle (in phenoxetol)",,0,0
 "Tail, sectioned (mounted, in spirit)",,0,0
+"tail, skeleton, tissue - 1",,0,0
 "tail, wing",,0,0
+"tail, wing, tissue - 1",,0,0
 "tail/skull/tail","skull, tail",0,1
 "tail/wings","tail, wings",0,1
+"tail; skel; tissue; wing",,0,0
+"tail; tissue; wing",,0,0
 "tail; wing; head; breast feathers; mantle and nape feathers",,0,0
 "tail; wings (2)",,0,0
 "Tails",,0,0
@@ -63613,6 +63793,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue - 1; Tissue - 1","Tissue - 1; Tissue - 1",0,1
 "Tissue - 1; Tissue - 1; Fluid - 2",,0,0
 "Tissue - 1; Tissue - 1; Tissue - 1; Fluid - 24; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
+"tissue - 1; wing - 1",,0,0
 "Tissue - 1; Wings_tail - 1","Tissue - 1; Wings_tail - 1",0,1
 "Tissue - 1; Wings_tail - 1; Skel - 1","Tissue - 1; Wings_tail - 1; Skel - 1",0,1
 "Tissue - 10","Tissue - 10",0,1
@@ -63727,6 +63908,20 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue ,wing","tissue, wing",0,1
 "tissue ,wing ,Skel","skeleton, tissue, wing",0,1
 "tissue ,wing ,Skel ,feathers","feathers, skeleton, tissue, wing",0,1
+"Tissue | C&S",,0,0
+"Tissue | C&S | Fluid",,0,0
+"Tissue | Dry",,0,0
+"Tissue | Dry | Fluid",,0,0
+"Tissue | Fluid",,0,0
+"Tissue | Fluid | Fluid",,0,0
+"Tissue | Fluid | Microtechnique",,0,0
+"Tissue | Fluid | Microtechnique | Microtechnique",,0,0
+"Tissue | Fluid | Microtechnique | Microtechnique | Microtechnique",,0,0
+"Tissue | Fluid | Recording",,0,0
+"Tissue | Microtechnique | Fluid",,0,0
+"Tissue | Microtechnique | Fluid | Microtechnique | Microtechnique",,0,0
+"Tissue | Microtechnique | Microtechnique | Fluid | Microtechnique",,0,0
+"Tissue | Recording | Fluid",,0,0
 "tissue | tissue",,0,0
 "Tissue number 10186",,0,0
 "Tissue number 10585",,0,0
@@ -64258,6 +64453,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue; Genbank; Skin",,0,0
 "Tissue; Genbank; Skin; Skel",,0,0
 "Tissue; Genbank; Wings_tail",,0,0
+"tissue; Round Skin",,0,0
+"tissue; schmoo",,0,0
 "Tissue; Skel","skeleton, tissue",0,1
 "Tissue; Skel, tissue T-308; Tissue, tissue T-308",,0,0
 "Tissue; Skel; Feather",,0,0
@@ -64329,10 +64526,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue; Syrinx; Skin; Fluid",,0,0
 "Tissue; Syrinx; Skin; Fluid; Skel; Skin/toe clip",,0,0
 "Tissue; Syrinx; Skin; Skel",,0,0
+"tissue; tail",,0,0
 "Tissue; Thin section; Skin",,0,0
 "Tissue; Tissue",,0,0
 "Tissue; Tissue; Skel",,0,0
 "Tissue; Tissue; Skin",,0,0
+"tissue; wing",,0,0
 "Tissue; Wings_tail","tail, tissue, wings",0,1
 "Tissue; Wings_tail; Skel",,0,0
 "Tissue; Wings_tail; Skel; Genbank",,0,0
@@ -66277,7 +66476,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing, alcoholic",,0,0
 "wing, alcoholic, tissue",,0,0
 "wing, cleared and stained, tissue",,0,0
+"wing, complete skel, tissue - 1",,0,0
 "wing, complete skeleton",,0,0
+"wing, complete skeleton - 1",,0,0
 "wing, complete skeleton, other",,0,0
 "wing, complete skeleton, tissue",,0,0
 "Wing, dissected (in spirit)",,0,0
@@ -66289,6 +66490,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing, other, round skin",,0,0
 "wing, par skeleton","wing, partial skeleton",0,1
 "WING, PART SKELETON, FEATHERS","wing, partial skeleton, feathers",0,1
+"wing, partial skel, tissue - 1",,0,0
 "wing, partial skeleton",,0,0
 "wing, partial skeleton, round skin",,0,0
 "wing, partial skeleton, tissue, round skin",,0,0
@@ -66299,9 +66501,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing, round skin, tissue, tissue",,0,0
 "wing, tail","wing, tail",0,1
 "WING, TAIL FEATHERS","wing, tail feathers",0,1
+"wing, tail, skeleton - 1",,0,0
+"wing, tail, skeleton, tissue - 1",,0,0
 "wing, tail, tissue","tail, tissue, wing",0,1
 "wing, tailtissue",,0,0
 "wing, tissue","tissue, wing",0,1
+"wing, tissue - 1",,0,0
 "wing, tissue, alcoholic",,0,0
 "wing, tissue, complete skeleton",,0,0
 "wing, tissue, flat skin, partial skeleton",,0,0
@@ -66310,6 +66515,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing, tissue, round skin",,0,0
 "wing, tissue, round skin, tissue",,0,0
 "wing, tissue, tissue, alcoholic",,0,0
+"wing, trachea, tissue, round skin, skeleton - 1",,0,0
 "wing, wing",,0,0
 "wing/feet","feet, wing",0,1
 "wing/primaries SIA","wing",0,1
@@ -66323,12 +66529,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing/tail/skel","skeleton, tail, wing",0,1
 "wing/tail/skel/foot","foot, skeleton, tail, wing",0,1
 "wing/tissue, tissue",,0,0
+"wing; flat skin",,0,0
 "wing; foot",,0,0
 "wing; frozen: liver; heart; muscle",,0,0
 "wing; No data","wing",0,1
 "wing; partial skeleton",,0,0
 "wing; partial skeleton; frozen: heart; muscle",,0,0
 "wing; partial skeleton; frozen: liver; heart; muscle",,0,0
+"wing; pickle",,0,0
+"wing; Round Skin",,0,0
+"wing; skel; tissue; schmoo",,0,0
 "wing; skeleton",,0,0
 "wing; skeleton; frozen: heart; liver; muscle",,0,0
 "wing; skeleton; frozen: muscle",,0,0
@@ -66336,6 +66546,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing; tail; foot; head; partial skeleton; frozen: liver; heart; muscle",,0,0
 "wing; tail; partial skeleton",,0,0
 "wing; tail; skeleton",,0,0
+"wing; tissue",,0,0
+"wing; tissue - 1",,0,0
+"wing; tissue; Round Skin",,0,0
+"wing; tissue; wing",,0,0
+"wing; wing; tissue; schmoo",,0,0
 "Wing+foot","wing, foot",0,1
 "WING+HEAD","head, wing",0,1
 "wing+partial skel.+DNA","wing, partial skeleton, DNA",0,1
