@@ -107,6 +107,7 @@
 "GNIS downloaded Feb 2002","not recorded",0,1
 "GNIS gazetteer","not recorded",0,1
 "GNIS lookup Feb 2006","not recorded",0,1
+"Google Earch",,0,1
 "Google Earth","not recorded",0,1
 "Google Earth ver. 4.0.2091","not recorded",0,1
 "Google Maps, WGS84","not recorded",0,1
@@ -204,6 +205,7 @@ MaNIS/HerpNET/ORNIS Georeferencing Guidelines","VertNet Georeferencing Guideline
 "Topozone.com gazetteer","not recorded",0,1
 "TRS Graphical Locator web site, http://www.esg.montana.edu/gl/trs-data.html","not recorded",0,1
 "TRS2LL batch program ver 11/26/2001","not recorded",0,1
+"Tulane GEOLocate","GeoLocate",0,1
 "U.S. Board on Geographic Names, Colombia, 2003.","not recorded",0,1
 "U.S. Geological Survey. State of North Carolina. 1993. 1:500,000","not recorded",0,1
 "United States Board on Geographic Names, Gazetteer 92, 1962.","not recorded",0,1
@@ -214,6 +216,11 @@ MaNIS/HerpNET/ORNIS Georeferencing Guidelines","VertNet Georeferencing Guideline
 "USGS map 1:24,000","not recorded",0,1
 "VertNet Georeferencing Guidelines, GBIF Best Practices","VertNet Georeferencing Guidelines",0,1
 "WGS 1984","not recorded",0,1
+"WGS 84",,0,1
+"WGS- 84",,0,1
+"WGS_84",,0,1
 "WGS84","not recorded",0,1
+"WGS-84",,0,1
 "WGS84 Geolocate",,0,1
 "WGS84, Google Maps","not recorded",0,1
+"WTS-84",,0,1
