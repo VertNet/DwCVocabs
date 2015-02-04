@@ -2255,6 +2255,7 @@ Paratype",,0,0
 "HOLOTYPE+PARATYPES OF ANOLIS CRISTATELLUS WILEYI",,0,0
 "holoype?",,0,0
 "Holoytpe of Amphispiza belli xerophilus",,0,0
+"Hypoparatype",,0,0
 "iguana",,0,1
 "isolectotype","isolectotype",1,1
 "isolectotype fragment",,0,0
@@ -2264,7 +2265,9 @@ Paratype",,0,0
 "isotopotype","isotopotype",1,1
 "isotype","isotype",1,1
 "isotype fragment","isotype",1,1
+"karyotype",,0,0
 "Lecto(Type) of rupestris","lectotype",0,1
+"Lectoparatype",,0,0
 "Lectoparatypes",,0,0
 "Lectotype","lectotype",1,1
 "Lectotype + Paratypes",,0,0
@@ -2299,6 +2302,8 @@ Paratype",,0,0
 "Lectotype; Lectoparatype",,0,0
 "marked Co-Type","syntype",0,1
 "microslide of type",,0,0
+"MS Holotype",,0,0
+"MS Type",,0,0
 "NEAR TOPOTYPE OF OTOCORYS NIGRIFRONS PRZEWALSKI",,0,0
 "NEAR-TOPOTYPE OF SAXICOLA MACULARIA QUOY & GAIMARD",,0,0
 "NEAR-TOPOTYPE; COLLECTED 12 MI SW OF TYPE LOCALITY MOUNT CARMEL",,0,0
@@ -4076,6 +4081,7 @@ Paratype",,0,0
 "to be HOLO",,0,0
 "to be PARA",,0,0
 "TopeTYPE","topotype",0,1
+"Topoparatype",,0,0
 "Topotype","topotype",1,1
 "TOPOTYPE OF [PARUS] AUREOLA LINNAEUS",,0,0
 "TOPOTYPE OF AETHOPYGA DABRYII BANGSI RILEY",,0,0

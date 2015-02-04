@@ -2008,6 +2008,7 @@
 "70 % ETHANOL/ TANK 35",,0,0
 "70 % ETHANOL/ TANK 62",,0,0
 "70 % EtOH","70% alcohol",0,1
+"70 % EtOH | tissue",,0,0
 "70 % ETOH AND CLEARED AND STAINED",,0,0
 "70% AND 95% ETHANOL/ 2 SMALL JARS, tissue",,0,0
 "70% AND 95% ETHANOL/ SMALL JAR, tissue",,0,0
@@ -3253,6 +3254,7 @@
 "70% EtOH - 996",,0,0
 "70% EtOH - 998",,0,0
 "70% ETOH & GLYCERIN",,0,0
+"70% EtOH | tissue",,0,0
 "70% ETOH +",,0,0
 "70% ETOH + C&S",,0,0
 "70% ETOH, tissue",,0,0
@@ -3266,7 +3268,9 @@
 "70%/ 95% ETHANOL/ 2 SMALL JARS, tissue",,0,0
 "70%ETHANOL/ HALF GALLON JAR",,0,0
 "70%EtOH","70% alcohol",0,1
+"70%EtOH | tissue",,0,0
 "70& EtOH","70% alcohol",0,1
+"70& EtOH | tissue",,0,0
 "74 carpals and tarsals",,0,0
 "74 UNDET.","undetermined",0,1
 "75 Frags",,0,0
@@ -3528,6 +3532,7 @@
 "95% EtOH (tiss) - 6; 70% EtOH - 6",,0,0
 "95% EtOH (tiss) - 7",,0,0
 "95% EtOH (tiss) - 9",,0,0
+"95% ETOH | tissue",,0,0
 "95% ETOH, tissue",,0,0
 "99% ETHANOL/ SMALL JAR, tissue",,0,0
 "A - partial r maxilla w C-M3; B- l P/4",,0,0
@@ -15673,6 +15678,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "freeze dried skin",,0,0
 "freeze-dried",,0,0
 "Freezer","frozen",0,1
+"Freezer | tissue",,0,0
 "frill",,0,0
 "frill frag",,0,0
 "frill frag+vertebra",,0,0
@@ -18442,6 +18448,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "juvenile skull and partial skeleton",,0,0
 "juvenile skull frags, assoc.",,0,0
 "karyotype",,0,0
+"karyotype | SK",,0,0
+"karyotype | tissue",,0,0
 "karyotype, SK",,0,0
 "karyotype, skeleton",,0,0
 "Karyotype, Skeleton, Skin, Skull","karyotype, skeleton, skin, skull",1,1
@@ -37860,6 +37868,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SIX UNDET. PIECES.",,0,0
 "sk","skull",0,1
 "Sk [?]",,0,0
+"sk | tissue",,0,0
 "SK +T","skeleton, skin, tissue",0,1
 "SK, tissue","skull, tissue",0,1
 "ske/wing","skeleton, wing",0,1
@@ -62224,6 +62233,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SN     94","SN     94",0,1
 "SN (2)","skeletons",0,1
 "SN (part.)","partial skeleton",0,1
+"sn | tissue",,0,0
 "SN +BAC","baculum, skeleton",0,1
 "SN +T","skeleton, tissue",0,1
 "SN +T+ECTO","ectoparasite, skeleton, tissue",0,1
@@ -62257,6 +62267,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "so  Im.","skin in alcohol",0,1
 "so  Juv.","skin in alcohol",0,1
 "so  Yg.","skin in alcohol",0,1
+"so | tissue",,0,0
 "SO +T","skin in alcohol, tissue",0,1
 "so AD","skin in alcohol",0,1
 "so Im","skin in alcohol",0,1
@@ -62420,6 +62431,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Squeezes of skull + vertebrae etc.",,0,0
 "Squeezes of skulls + casts",,0,0
 "ss","skin, skull",0,1
+"ss | tissue",,0,0
 "ss, tissue","skin, skull, tissue",0,1
 "sstissue",,0,0
 "ST","ST",0,1
@@ -66457,6 +66469,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing ,tissue ,Skel","skeleton, tissue, wing",0,1
 "wing ,tissue ,Skel ,feathers","feathers, skeleton, tissue, wing",0,1
 "wing ,wing","wing",0,1
+"wing | tissue",,0,0
 "wing + 2 tail feathers",,0,0
 "wing + 2 tail feathers | tissue",,0,0
 "wing + par skeleton","wing, partial skeleton",0,1
@@ -66510,6 +66523,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing, round skin, tissue",,0,0
 "wing, round skin, tissue, tissue",,0,0
 "wing, tail","wing, tail",0,1
+"wing, tail | tissue",,0,0
 "WING, TAIL FEATHERS","wing, tail feathers",0,1
 "wing, tail, skeleton - 1",,0,0
 "wing, tail, skeleton, tissue - 1",,0,0

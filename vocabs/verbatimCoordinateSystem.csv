@@ -109,4 +109,5 @@
 "UTM to dec. deg.","UTM",0,1,0,
 "UTM WGS84","UTM",0,1,0,
 "WGS 1984",,0,1,1,"Not a coordinate system."
+"WGS 84","WGS84",0,1,0,
 "WGS84",,0,1,1,"Not a coordinate system."

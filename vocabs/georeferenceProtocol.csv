@@ -107,13 +107,14 @@
 "GNIS downloaded Feb 2002","not recorded",0,1
 "GNIS gazetteer","not recorded",0,1
 "GNIS lookup Feb 2006","not recorded",0,1
-"Google Earch",,0,1
+"Google Earch","not recorded",0,1
 "Google Earth","not recorded",0,1
 "Google Earth ver. 4.0.2091","not recorded",0,1
+"Google Maps","not recorded",0,1
 "Google Maps, WGS84","not recorded",0,1
 "Google Maps, WGS84, extent .1 mi","not recorded",0,1
 "Google Maps, WGS84, July 2011","not recorded",0,1
-"GoogleEarth",,0,1
+"GoogleEarth","not recorded",0,1
 "Government of the United Kingdom. Turks and Caicos Islands, 1/25,000","not recorded",0,1
 "GPS","not recorded",0,1
 "GPS 204","not recorded",0,1
@@ -123,7 +124,8 @@
 "GPS293, extent .05 mi, WGS84","not recorded",0,1
 "Graphical Locator site, TRS to Lat/long; Willamette Meridian","not recorded",0,1
 "GTOPO30; non-USGS map 1:1000000","not recorded",0,1
-"handheld GPS (WGS84)",,0,1
+"handheld GPS (NAD27)","not recorded",0,1
+"handheld GPS (WGS84)","not recorded",0,1
 "HerpNET Georeferencing Guidelines","VertNet Georeferencing Guidelines",0,1
 "HNHM database","not recorded",0,1
 "http://geonames.nrcan.gc.ca/search/search_e.php","not recorded",0,1
@@ -168,6 +170,7 @@ MaNIS/HerpNET/ORNIS Georeferencing Guidelines","VertNet Georeferencing Guideline
 "Mexican Bird Atlas, Navarro-Sigⁿenza et al. - 2003","Mexican Bird Atlas, Navarro-Sigüenza et al. - 2003",0,1
 "Mexican Bird Atlas, Navarro-Sigüenza et al. - 2003","Mexican Bird Atlas, Navarro-Sigüenza et al. - 2003",0,1
 "Ministerio de Fomento: Nicaragua 1:50,000 (1966)","not recorded",0,1
+"Navarro-Sigenza, A. G., Peterson, A. T. and Gordillo-Martinez, A. (2003) Museums working together: the atlas of the birds of Mexico. Bull. Brit. Orn. Club 123A: 207225.","Mexican Bird Atlas, Navarro-Sigüenza et al. - 2003",0,1
 "Navarro-Sigüenza, A. G., Peterson, A. T. and Gordillo-Martinez, A. (2003) Museums working together: the atlas of the birds of Mexico. Bull. Brit. Orn. Club 123A: 207–225.","Mexican Bird Atlas, Navarro-Sigüenza et al. - 2003",0,1
 "New Mexico RGIS","not recorded",0,1
 "NIMA - GNS database","not recorded",0,1
@@ -175,6 +178,7 @@ MaNIS/HerpNET/ORNIS Georeferencing Guidelines","VertNet Georeferencing Guideline
 "on-line atlas","not recorded",0,1
 "Ornithological Gazetteer of Ecuador, 1993, Raymond A. Paynter","not recorded",0,1
 "other","not recorded",0,1
+"phone app","not recorded",0,1
 "Principales Resultados por Localidad, XII Censo de Poblaciùn y Vivienda 2000, Instituto Nacional de EstadÆstica GeografÆa e Informçtica (INEGI)","not recorded",0,1
 "Specimen Label","Specimen Label",0,1
 "Surveys and Mapping Division, Ministry of Lands, Housing and Urban Development, Tanzania, 1990. Moshi map (56/4).","not recorded",0,1
@@ -216,11 +220,11 @@ MaNIS/HerpNET/ORNIS Georeferencing Guidelines","VertNet Georeferencing Guideline
 "USGS map 1:24,000","not recorded",0,1
 "VertNet Georeferencing Guidelines, GBIF Best Practices","VertNet Georeferencing Guidelines",0,1
 "WGS 1984","not recorded",0,1
-"WGS 84",,0,1
-"WGS- 84",,0,1
-"WGS_84",,0,1
+"WGS 84","not recorded",0,1
+"WGS- 84","not recorded",0,1
+"WGS_84","not recorded",0,1
 "WGS84","not recorded",0,1
-"WGS-84",,0,1
-"WGS84 Geolocate",,0,1
+"WGS-84","not recorded",0,1
+"WGS84 Geolocate","not recorded",0,1
 "WGS84, Google Maps","not recorded",0,1
-"WTS-84",,0,1
+"WTS-84","not recorded",0,1
