@@ -26170,6 +26170,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: 10% formalin & frozen",,0,0
 "originally: 10% formalin & frozen; preservation: Osteo",,0,0
 "originally: 10% formalin (salted)",,0,0
+"originally: 10% formalin | tissue",,0,0
 "originally: 10% formalin + borax",,0,0
 "originally: 10% formalin and 70% etoh; preservation: 70% ethanol",,0,0
 "originally: 10% formalin and Borax",,0,0
@@ -26241,6 +26242,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: 10% formalin; preservation: 5 of 41 C&S",,0,0
 "originally: 10% Formalin; preservation: 5 to be C&S",,0,0
 "originally: 10% Formalin; preservation: 52 ETOH, 1 C&S",,0,0
+"originally: 10% formalin; preservation: 7 C&S",,0,0
 "originally: 10% formalin; preservation: 70% ethanol",,0,0
 "originally: 10% formalin; preservation: 70% ETOH",,0,0
 "originally: 10% formalin; preservation: 8 C&S",,0,0
@@ -26268,6 +26270,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: 10% formalin; preservation: otoliths removed",,0,0
 "originally: 10% formalin; preservation: Picric Acid",,0,0
 "originally: 10% formalin; preservation: tissue frozen",,0,0
+"originally: 10% formalin; preservation: tissue frozen | tissue",,0,0
 "originally: 10% formaline",,0,0
 "originally: 10% formalin--frozen",,0,0
 "originally: 10% Formaln",,0,0
@@ -26408,11 +26411,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: formalin and freeze",,0,0
 "originally: Formalin and Frozen",,0,0
 "originally: formalin except for tissu; preservation: ETOH, tissue frozen",,0,0
+"originally: formalin except for tissu; preservation: ETOH, tissue frozen | tissue",,0,0
 "originally: formalin, about 8%",,0,0
 "originally: formalin, except tissues",,0,0
 "originally: Formalin, Foods",,0,0
 "originally: formalin, isopropanol; preservation: ethanol",,0,0
 "originally: Formalin, tissue taken",,0,0
+"originally: Formalin, tissue taken | tissue",,0,0
 "originally: formalin/frozen",,0,0
 "originally: formalin/frozen; preservation: ETOH",,0,0
 "originally: formalin/frozen; preservation: Osteo",,0,0
@@ -26448,6 +26453,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: Freezing; preservation: osteo",,0,0
 "originally: Fresh frozen",,0,0
 "originally: fresh, then formalin",,0,0
+"originally: fresh, then formalin | tissue",,0,0
 "originally: fresh; preservation: Osteo",,0,0
 "originally: Fresh-frozen, 10%formalin",,0,0
 "originally: from dr. hubbs H46-102",,0,0
@@ -26472,6 +26478,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: frozen & formalin",,0,0
 "originally: Frozen & put in 10% Form.",,0,0
 "originally: frozen (see remarks)",,0,0
+"originally: frozen | tissue",,0,0
 "originally: frozen => formalin",,0,0
 "originally: frozen- 10 % Formalin",,0,0
 "originally: Frozen 10% formailin",,0,0
@@ -26489,6 +26496,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: Frozen- Formalin",,0,0
 "originally: frozen in CF&G freezer; preservation: frozen",,0,0
 "originally: frozen in Ultracold",,0,0
+"originally: frozen in Ultracold | tissue",,0,0
 "originally: frozen ROSALIA",,0,0
 "originally: frozen the 10% formalin",,0,0
 "originally: frozen then 10% formalin",,0,0
@@ -26507,18 +26515,23 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: frozen, then 10% formalin",,0,0
 "originally: frozen, then formalin",,0,0
 "originally: frozen, then formalin; preservation: ethanol",,0,0
+"originally: frozen, then formalin; preservation: ethanol | tissue",,0,0
 "originally: frozen, tissue voucher; preservation: Osteo",,0,0
 "originally: Frozen,fixed in 10%formal",,0,0
 "originally: Frozen,fixed in 10%formal; preservation: C&S",,0,0
 "originally: Frozen,fixed in 10%formal; preservation: ETOH, C&S",,0,0
 "originally: frozen/ formalin",,0,0
+"originally: frozen/ formalin | tissue",,0,0
 "originally: frozen/10% formalin",,0,0
 "originally: frozen/formalin",,0,0
+"originally: frozen/formalin | tissue",,0,0
 "originally: frozen/formalin; preservation: Osteo",,0,0
 "originally: Frozen; 10% Formalin",,0,0
+"originally: frozen; preservation: 10 % formalin, ETOH | tissue",,0,0
 "originally: frozen; preservation: 70% ETOH",,0,0
 "originally: frozen; preservation: 95% ethanol",,0,0
 "originally: frozen; preservation: 95% ETOH",,0,0
+"originally: frozen; preservation: 95% ETOH | tissue",,0,0
 "originally: frozen; preservation: C&S",,0,0
 "originally: frozen; preservation: DNA freezer",,0,0
 "originally: frozen; preservation: ETOH",,0,0
@@ -26528,6 +26541,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: frozen; preservation: frozen",,0,0
 "originally: frozen; preservation: Osteo",,0,0
 "originally: frozen; preservation: Osteo (vert. ETOH)",,0,0
+"originally: frozen; preservation: Osteo (vert. ETOH) | tissue",,0,0
 "originally: frozen; preservation: tissue, otoliths",,0,0
 "originally: frozen; preservation: Ultracold(Mammalogy)",,0,0
 "originally: frozen?",,0,0
@@ -31809,6 +31823,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "preservation: 1 to be C&S","cleared and stained",0,1
 "preservation: 10 C&S","cleared and stained",0,1
 "preservation: 11 C&S",,0,0
+"preservation: 125 etoh + 1 C&S",,0,0
 "preservation: 16 ETOH, 1 C&S","alcohol, cleared and stained",0,1
 "preservation: 19 etoh + 1 C&S","alcohol, cleared and stained",0,1
 "preservation: 2 C&S","cleared and stained",0,1
