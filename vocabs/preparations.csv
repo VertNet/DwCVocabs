@@ -1,13 +1,15 @@
 "verbatimPrep","StandardPrep","standard","checked"
 "",,0,1
 "--",,0,0
-" | tissue",,0,0
+" | tissue","tissue",0,1
 "-- | tissue",,0,0
 " 70% EtOH","70% alcohol",0,1
 " 70% ETOH + C&S",,0,0
 " Ca. half tibiofibula.",,0,0
-" L",,0,0
-" N",,0,0
+" L","complete skeleton",0,1
+" L | tissue","complete skeleton | tissue",0,1
+" N","round skin",0,1
+" N | tissue","round skin | tissue",0,1
 " Partial palate M1/ M2/.",,0,0
 " Proximal half L tibia.",,0,0
 " R c/1.",,0,0
@@ -13244,7 +13246,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Eye, sectioned (in spirit)",,0,0
 "Eyes (in spirit)",,0,0
 "Eyes + tongue (in spirit)",,0,0
-"F","egg fragment",0,1
+"F","flat skin",0,1
+"F | tissue","flat skin | tissue",0,1
 "FA","flat skin with alcoholic carcass",0,1
 "Face (in spirit)",,0,0
 "Face + quadrate region (right side)",,0,0
@@ -13811,7 +13814,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "five assorted elements",,0,0
 "five cheek teeth",,0,0
 "five isolated cheek teeth",,0,0
-"FL",,0,0
+"FL","complete skeleton | flat skin",0,1
+"FL | tissue","complete skeleton | flat skin | tissue",0,1
 "FLAT","flat skin",0,1
 "flat body skin only",,0,0
 "flat pelt/complete skeleton/tissue | tissue",,0,0
@@ -15679,7 +15683,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "FOUR PHALANGES.",,0,0
 "FOUR RIBS.",,0,0
 "FOUR VERTEBRAE.","vertebrae - 4",0,1
-"FP",,0,0
+"FP","partial skeleton | flat skin",0,1
+"FP | tissue","partial skeleton | flat skin | tissue",0,1
 "fracción de piel","partial skin",0,1
 "fracción de piel, piel, sangre y muestra de riñón","blood | kidney sample | partial skin",0,1
 "frag",,0,0
@@ -16734,7 +16739,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "GRENADIER BARREL, tissue",,0,0
 "Gullet (in spirit)",,0,0
 "Gullet, dissected (in spirit)",,0,0
-"H",,0,0
+"H","schmoo",0,1
+"H | tissue","shmoo | tissue",0,1
 "HA","HA",0,1
 "HAEMAL ARCH",,0,0
 "HAEMAL ARCH ?",,0,0
@@ -16984,7 +16990,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "histological slide of scute,parallel inner face scute",,0,0
 "histological slide through middle scute parallel sfc",,0,0
 "histology slide",,0,0
-"HL",,0,0
+"HL","shmoo | complete skeleton",0,1
+"HL | tissue","complete skeleton | shmoo | tissue",0,1
 "HM","head mount",0,1
 "HO","head",0,1
 "Hoof",,0,0
@@ -17064,7 +17071,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "horns and posterior portion of skull",,0,0
 "HORNS O.","horns",0,1
 "Horns only",,0,0
-"HP",,0,0
+"HP","shmoo | partial skeleton",0,1
+"HP | tissue","partial skeleton | shmoo | tissue",0,1
 "HPOSTLIMB BONE+VERTEBRA",,0,0
 "HT","head | skin | tail",0,1
 "HUMERAE",,0,0
@@ -18948,7 +18956,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Kidneys etc. (in spirit)",,0,0
 "Kidneys, etc. (in spirit)",,0,0
 "Knee and ankle",,0,0
-"L",,0,0
+"L","complete skeleton",0,1
 "L  m/1",,0,0
 "L  metatarsals III/IV.",,0,0
 "L  P3or4",,0,0
@@ -19039,6 +19047,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "L ?M3",,0,0
 "L ?m3 frag",,0,0
 "l ?p4",,0,0
+"L | tissue","complete skeleton | tissue",0,1
 "L + R M3/, + LIMB FRAGS.",,0,0
 "L 1/2 THORACIC VERTEBRA AND DETACHED EPIPHYSIS.",,0,0
 "L ACETABULAR AREA.",,0,0
@@ -22026,7 +22035,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "L/M3",,0,0
 "L/P4",,0,0
 "L/P4-M3",,0,0
-"L:",,0,0
+"L:","complete skeleton",0,1
+"L: | tissue","complete skeleton | tissue",0,1
 "L? /m1 frag.",,0,0
 "l+partial r dentaries",,0,0
 "l+r adult dentaries (contain complete tooth rows",,0,0
@@ -23290,7 +23300,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "LMx/",,0,0
 "LMx/ frag",,0,0
 "LMx/ frag.",,0,0
-"LO",,0,0
+"LO","other prep | complete skeleton",0,1
+"LO | tissue","other prep | complete skeleton | tissue",0,1
 "Loaned - 1",,0,0
 "loer premolar",,0,0
 "long bone",,0,0
@@ -26583,7 +26594,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Mx/ worn",,0,0
 "Mx/, heavily worn",,0,0
 "Mx/, left",,0,0
-"N","nest",0,1
+"N","round skin",0,1
+"N | tissue","round skin | tissue",0,1
 "N=1 70% ETHANOL/ SMALL JAR; N=1 CLEARED AND STAINED",,0,0
 "N=1 IN 95% ETHANOL/ SMALL JAR, N=1 IN 70% ETHANOL/ SMALL JAR, tissue",,0,0
 "N=2 IN 70% ETHANOL/ SMALL JAR; N=1 CLEARED AND STAINED",,0,0
@@ -26877,7 +26889,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "NOT RECORDED",,0,0
 "Not recorded.",,0,0
 "not saved",,0,0
-"NP",,0,0
+"NP","partial skeleton | round skin",0,1
+"NP | tissue","partial skeleton | round skin | tissue",0,1
 "nuchal",,0,0
 "nuchal frag",,0,0
 "NUCHAL FRAG + PERIPHERAL 1",,0,0
@@ -26957,7 +26970,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "numerous unprepared chunks",,0,0
 "numerous upper+lower cheek teeth",,0,0
 "numerous vertebrae",,0,0
-"o","other",0,1
+"o","other prep",0,1
+"O | tissue","other prep | tissue",0,1
 "OCCIPITAL",,0,0
 "Occipital and Vertebra",,0,0
 "OCCIPITAL COMPLEX",,0,0
@@ -27758,10 +27772,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Ovary, cut open (in spirit)",,0,0
 "OVERSIZED JAR ON BOTTOM SHELF",,0,0
 "Oviduct with egg capsule (in spirit)",,0,0
-"P",,0,0
+"P","partial skeleton",0,1
 "P ?",,0,0
 "P ? FRAG/",,0,0
 "P ?/",,0,0
+"P | tissue","partial skeleton | tissue",0,1
 "P broken",,0,0
 "P FRAG",,0,0
 "P FRAG ?",,0,0
@@ -31879,7 +31894,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "PM ?",,0,0
 "P-M FRAG",,0,0
 "PM/,M",,0,0
-"PN",,0,0
+"PN","partial skeleton | round skin",0,1
+"PN | tissue","partial skeleton | round skin | tissue",0,1
 "PO",,0,0
 "podial",,0,0
 "podial (vial",,0,0
@@ -63749,6 +63765,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "sound recordings, fluid",,0,0
 "Sound; Skin",,0,0
 "SP",,0,0
+"SP | tissue",,0,0
 "SPECIMEN","whole animal",0,1
 "Specimen Destroyed (no specimen)",,0,0
 "SPECIMEN IN ALCOHOL","whole animal in alcohol",0,1

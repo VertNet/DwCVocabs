@@ -61,6 +61,11 @@
 "DeLorme Topo USA 6.0","not recorded",0,1
 "DeLorme Topo USA 6.1","not recorded",0,1
 "Dipolog map (PCGS 2538), published by the Philippine Coast and Geodetic Survey, ed. 3, Mar. 1983.","not recorded",0,1
+"DMS-1",,0,1
+"DMS-2",,0,1
+"EDB",,0,1
+"EDB-M1",,0,1
+"EDG-M2",,0,1
 "Energy, Mine and Natural Resources Canada 1:50,000","not recorded",0,1
 "Energy, Mines and Resources Canada, Series A751, Westport, 31C09, 1:50,000, Edition 6, 1994","not recorded",0,1
 "extent .25 mi, WGS84, Google Maos","not recorded",0,1
@@ -68,7 +73,10 @@
 "field notes","not recorded",0,1
 "FMNH catalog","not recorded",0,1
 "from SpecLocality","not recorded",0,1
+"G!",,0,1
 "G. H. Swynnerton, F.Z.S., A Check List of the Land Mammals of the Tanganyika Territory and the Zanzibar Protectorate, Journal of the East Africa Natural History Society, 1950. Vol. 20, No. 6 & 7 (90).","not recorded",0,1
+"G1",,0,1
+"G2",,0,1
 "Garmin","not recorded",0,1
 "gazetteer","not recorded",0,1
 "Geographical Survey Institute of Japan (GSIJ) 1:25,000 Topographic Maps Web Browsing System, 2000 (http://mapbrowse.gsi.go.jp/mapsearch.html)","not recorded",0,1
@@ -101,6 +109,7 @@
 "Georefrencer","not recorded",0,1
 "Gepreferencing Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
 "GioG","VertNet Georeferencing Guidelines",0,1
+"GIS-",,0,1
 "GNIS","not recorded",0,1
 "GNIS database","not recorded",0,1
 "GNIS downloaded Aug 2002","not recorded",0,1
@@ -126,7 +135,13 @@
 "GTOPO30; non-USGS map 1:1000000","not recorded",0,1
 "handheld GPS (NAD27)","not recorded",0,1
 "handheld GPS (WGS84)","not recorded",0,1
+"HerNet","VertNet Georeferencing Guidelines",0,1
+"Herpnet","VertNet Georeferencing Guidelines",0,1
+"HerpNet-","VertNet Georeferencing Guidelines",0,1
 "HerpNET Georeferencing Guidelines","VertNet Georeferencing Guidelines",0,1
+"HerpNet`","VertNet Georeferencing Guidelines",0,1
+"HerpNetf","VertNet Georeferencing Guidelines",0,1
+"HerpNetu","VertNet Georeferencing Guidelines",0,1
 "HNHM database","not recorded",0,1
 "http://geonames.nrcan.gc.ca/search/search_e.php","not recorded",0,1
 "Instituto Geografico Nacional de Honduras. Departamento de Olancho. 1990. 1:350,000","not recorded",0,1
@@ -138,9 +153,14 @@
 "Instituto Nacional de Estadstica Geografa e Informtica, (INEGI). Map 1:250,000",,0,1
 "Israel 1:250,000","not recorded",0,1
 "Israel 1:50,000","not recorded",0,1
+"L1",,0,1
+"L2",,0,1
 "label","not recorded",0,1
 "lat/long from University of Calgary web site","not recorded",0,1
 "latlong in Locality","not recorded",0,1
+"M1",,0,1
+"M2",,0,1
+"M3",,0,1
 "Malay States, Federated. Survey Dept. 1950 1:126,720","not recorded",0,1
 "Malaysia. Jabatanarah Pemetaan Negara. 1970 1:190,080","not recorded",0,1
 "Mammals of Nepal, R. M. Mitchell, Iowa State University, 1977","not recorded",0,1
@@ -178,6 +198,7 @@ MaNIS/HerpNET/ORNIS Georeferencing Guidelines","VertNet Georeferencing Guideline
 "Navarro-Sigüenza, A. G., Peterson, A. T. and Gordillo-Martinez, A. (2003) Museums working together: the atlas of the birds of Mexico. Bull. Brit. Orn. Club 123A: 207–225.","Mexican Bird Atlas, Navarro-Sigüenza et al. - 2003",0,1
 "New Mexico RGIS","not recorded",0,1
 "NIMA - GNS database","not recorded",0,1
+"none",,0,1
 "not recorded","not recorded",1,1
 "on-line atlas","not recorded",0,1
 "Ornithological Gazetteer of Ecuador, 1993, Raymond A. Paynter","not recorded",0,1
@@ -224,6 +245,7 @@ MaNIS/HerpNET/ORNIS Georeferencing Guidelines","VertNet Georeferencing Guideline
 "USGS 1:24,000","not recorded",0,1
 "USGS Gnis website, http://geonames.usgs.gov/pls/gnis/web_query.gnis_web_query_form","not recorded",0,1
 "USGS map 1:24,000","not recorded",0,1
+"UTM",,0,1
 "VertNet Georeferencing Guidelines, GBIF Best Practices","VertNet Georeferencing Guidelines",0,1
 "WGS 1984","not recorded",0,1
 "WGS 84","not recorded",0,1
