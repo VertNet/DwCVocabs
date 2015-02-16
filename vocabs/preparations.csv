@@ -3705,7 +3705,7 @@
 "alcohol, 3 tissue, 2 hair, 1 bone",,0,0
 "alcohol, bone, hair, tissue",,0,0
 "alcohol, skull",,0,0
-"alcohol, tissue",,0,0
+"alcohol, tissue","alcoholic | tissue",0,1
 "Alcohol; Photo",,0,0
 "alcoholc",,0,0
 "alcoholi",,0,0
@@ -12616,7 +12616,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "DRIED SPECIMEN","dried specimen",0,1
 "DRIED SPECIMENS","dried specimens",0,1
 "dried whole",,0,0
-"dried with skeleton",,0,0
+"dried with skeleton","dried with skeleton",0,1
 "DRIED/ GALLON JAR, tissue",,0,0
 "DRIED/ HALF GALLON JAR, tissue",,0,0
 "DRIED/ SMALL JAR, tissue",,0,0
@@ -12863,8 +12863,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "egg nest",,0,0
 "Egg sacs + embryos (mounted, in spirit)",,0,0
 "egg set","egg set",1,1
-"egg set, mount, nest",,0,0
-"egg set, nest",,0,0
+"egg set, mount, nest","egg set | mount | nest",0,1
+"egg set, nest","egg set | nest",0,1
 "egg set, tissue","egg set | tissue",0,1
 "egg set/01","eggs",0,1
 "egg set/01+nest","eggs | nest",0,1
@@ -13392,10 +13392,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "feathers ,wing ,Skel","feathers | skeleton | wing",0,1
 "feathers ,wing ,Skel ,tissue","feathers | skeleton | tissue | wing",0,1
 "feathers ,wing ,tissue ,Skel","feathers | skeleton | tissue | wing",0,1
-"feathers, skeleton",,0,0
-"feathers, tail, wing",,0,0
+"feathers, skeleton","feathers | skeleton",0,1
+"feathers, tail, wing","feathers | tail | wing",0,1
 "FEATHERS, tissue","feathers | tissue",0,1
-"feathers, wing",,0,0
+"feathers, wing","feathers | wing",0,1
 "FEATHERS/SKELETON","feathers | skin",0,1
 "feathers/wing, tissue",,0,0
 "feathers; Round Skin","feathers | round skin",0,1
@@ -16064,10 +16064,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "frags. of L pelvis, femur",,0,0
 "free rib frag",,0,0
 "FREE VERTEBRA.",,0,0
-"Freeze dried",,0,0
-"freeze dried mount",,0,0
-"freeze dried skin",,0,0
-"freeze-dried",,0,0
+"Freeze dried","freeze-dried",0,1
+"freeze dried mount","freeze-dried mount",0,1
+"freeze dried skin","freeze-dried skin",0,1
+"freeze-dried","freeze-dried",1,1
 "Freezer","frozen",0,1
 "Freezer | tissue",,0,0
 "frill",,0,0
@@ -26438,7 +26438,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Mount/skull","mount | skull",0,1
 "Mount/skull/baculum/tissue","baculum | mount | skull | tissue",0,1
 "mount; blood","blood | mount",0,1
-"mount?",,0,0
+"mount?","mount",0,1
 "mounted","mount",0,1
 "Mounted - 1",,0,0
 "Mounted (live mount ?)",,0,0
@@ -30686,9 +30686,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skeleton, round skin, tissue",,0,0
 "partial skeleton, round skin, tissue, wing",,0,0
 "partial skeleton, round skin, wing",,0,0
-"partial skeleton, skin",,0,0
-"partial skeleton, skin, tissue",,0,0
-"partial skeleton, skin, tissue, wing",,0,0
+"partial skeleton, skin","partial skeleton | skin",0,1
+"partial skeleton, skin, tissue","partial skeleton | skin | tissue",0,1
+"partial skeleton, skin, tissue, wing","partial skeleton | skin | tissue | wing",0,1
 "partial skeleton, skull",,0,0
 "Partial skeleton, skull and a few hairs",,0,0
 "partial skeleton, skull missing (mostly digested)",,0,0
@@ -30696,14 +30696,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skeleton, skull, complete skeleton",,0,0
 "partial skeleton, skull, other",,0,0
 "partial skeleton, skull, skin",,0,0
-"partial skeleton, tail, tissue, wing",,0,0
-"partial skeleton, tail, wing",,0,0
+"partial skeleton, tail, tissue, wing","partial skeleton | tail | tissue | wing",0,1
+"partial skeleton, tail, wing","partial skeleton | tail | wing",0,1
 "PARTIAL SKELETON, tissue","partial skeleton | tissue",0,1
 "Partial Skeleton, Tissue (2) and Feet, skin",,0,0
 "partial skeleton, tissue, round skin",,0,0
 "partial skeleton, tissue, round skin, wing",,0,0
-"partial skeleton, tissue, wing",,0,0
-"partial skeleton, wing",,0,0
+"partial skeleton, tissue, wing","partial skeleton | tissue | wing",0,1
+"partial skeleton, wing","partial skeleton | wing",0,1
 "Partial Skeleton, Wing, DNA","DNA | partial skeleton | wing",0,1
 "partial skeleton, wing, round skin",,0,0
 "partial skeleton, wing, round skin, tissue, tissue",,0,0
@@ -39903,7 +39903,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton, no skull, a few hairs",,0,0
 "SKELETON, OLD ADULT",,0,0
 "skeleton, other prep","other prep | skeleton",0,1
-"skeleton, parasites, tissue, wing",,0,0
+"skeleton, parasites, tissue, wing","parasites | skeleton | tissue | wing",0,1
 "Skeleton, part (in spirit)",,0,0
 "Skeleton, partial","partial skeleton",0,1
 "Skeleton, Pelvis, Pelvis, Skin, Skin, Toe pad sample, Pelvis, Skin, Skin, Toe pad sample",,0,0
@@ -40032,7 +40032,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skeleton, syrinx, wingspread, Tissue number 3619",,0,0
 "skeleton, syrinx, wingspread, Tissue number 3848",,0,0
 "skeleton, syrinx, wingspread, Tissue number B-13065 at Smithsonian",,0,0
-"skeleton, tail, wing",,0,0
+"skeleton, tail, wing","skeleton | tail | wing",0,1
 "SKELETON, TAIL,FEATHERS","skeleton | tail | feathers",0,1
 "skeleton, tanned skin, tissue",,0,0
 "skeleton, tanned skin, tissue (3 samples)",,0,0
@@ -43171,7 +43171,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton, Tissue, Tissue",,0,0
 "Skeleton, Tissue, Tissue, Skin (Schmoo), Skin (Schmoo)",,0,0
 "Skeleton, Tissue, Tissue, Skin, Skin",,0,0
-"skeleton, tissue, wing",,0,0
+"skeleton, tissue, wing","skeleton | tissue | wing",0,1
 "SKELETON, WING","skeleton | wing",0,1
 "Skeleton, Wing (02), Tissue","skeleton | wings | tissue",0,1
 "Skeleton, Wing (2), Tissue","skeleton | wings | tissue",0,1
@@ -60778,7 +60778,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Tissue, Tissue",,0,0
 "Skin, Tissue, Tissue, Skeleton (Partial skeleton), Skeleton (Partial skeleton)",,0,0
 "Skin, Tissue, Tissue, Skeleton, Skeleton",,0,0
-"skin, tissue, wing",,0,0
+"skin, tissue, wing","skin | tissue | wing",0,1
 "Skin, Toe pad sample",,0,0
 "Skin, Toe pad sample, DNA extract, DNA extract, Toe pad sample",,0,0
 "Skin, Toe pad sample, DNA extract, Toe pad sample, DNA extract",,0,0
@@ -60791,7 +60791,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Toe pad sample, Toe pad sample, Skeleton, Skeleton",,0,0
 "Skin, Toe pad sample, Toe pad sample, Toe pad sample, Toe pad sample",,0,0
 "Skin, tongue saved; Skel, tongue saved",,0,0
-"skin, trachea",,0,0
+"skin, trachea","skin | trachea",0,1
 "skin, unknown",,0,0
 "skin, US 91",,0,0
 "skin, USA",,0,0
@@ -64374,7 +64374,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tail with rattle (in phenoxetol)",,0,0
 "Tail, sectioned (mounted, in spirit)",,0,0
 "tail, skeleton, tissue - 1","skeleton | tail | tissue - 1",0,1
-"tail, wing",,0,0
+"tail, wing","tail | wing",0,1
 "tail, wing, tissue - 1","tail | tissue - 1 | wing",0,1
 "tail/skull/tail","skull | tail",0,1
 "tail/wings","tail | wings",0,1
