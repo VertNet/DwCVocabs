@@ -660,6 +660,7 @@
 "Africa/Europe",,0,1
 "Africa?",,0,1
 "AFRICAN COUNTRIES",,0,1
+"Afrika <K>",,0,1
 "AFRX",,0,1
 "Ain",,0,1
 "AK","US",0,1
@@ -714,6 +715,7 @@
 "America; Pacific Ocean",,0,1
 "American Samoa","AS",1,1
 "American Samoa I.","AS",0,1
+"Amerika",,0,1
 "Amirantes","SC",0,1
 "Amst.",,0,1
 "Amsterdam Island","FR",0,1
@@ -828,6 +830,7 @@
 "ASIA?",,0,1
 "Asiatic Russia","RU",0,1
 "Asiatic Turkey","TR",0,1
+"Asien",,0,1
 "ASIX",,0,1
 "Assam","IN",0,1
 "Assassi",,0,1
@@ -1126,6 +1129,7 @@
 "Bosnia & Hercegovina","BA",0,1
 "Bosnia & Herzegovina","BA",0,1
 "Bosnia and Herzegovina","BA",1,1
+"Bosnia and Herzegowina","BA",0,1
 "Bosphorus",,0,1
 "BOT","BW",0,1
 "Botswana","BW",1,1
@@ -1835,7 +1839,9 @@
 "Congo Free State",,0,1
 "CONGO REPUBLIC","CG",0,1
 "CONGO RUPUBLIC","CG",0,1
+"Congo, Democratic Republic of the","CD",0,1
 "Congo, Gaboon",,0,1
+"Congo, Republic of the","CG",0,1
 "Congo-Kinshasa","CD",0,1
 "Conn.","US",0,1
 "'Continental India'","IN",0,1
@@ -2363,6 +2369,7 @@
 "Euador","EC",0,1
 "Euphrates",,0,1
 "Eurasia",,0,1
+"Eurasien",,0,1
 "EUROPE",,0,1
 "EUROPE (BY INFE",,0,1
 "EUROPE (BY INFERENCE)",,0,1
@@ -2927,6 +2934,7 @@
 "India; Ceylon",,0,1
 "India; Nepal",,0,1
 "India?","IN",0,1
+"India~~Bangladesh",,0,1
 "Indian",,0,1
 "Indian O.",,0,1
 "Indian Ocean",,0,1
@@ -3172,6 +3180,7 @@
 "Korea",,0,1
 "Korea ?",,0,1
 "Korea, Formosa",,0,1
+"Korea, Republic Of","KR",0,1
 "Korrido","ID",0,1
 "Kosovo","XK",0,1
 "Kotekhaie","IN",0,1
@@ -3201,6 +3210,7 @@
 "Lambok I.","ID",0,1
 "Lambok Is.","ID",0,1
 "Lanzarote I.","ES",0,1
+"Lao People's Democratic Republic","LA",0,1
 "Laoet Islds.","ID",0,1
 "Laos","LA",1,1
 "Laos, Indo China","LA",0,1
@@ -4578,6 +4588,7 @@
 "Outer Hebrides","GB",0,1
 "Outer Mongolia","MN",0,1
 "Ovalau I.","FJ",0,1
+"Ozeanien",,0,1
 "P. Guianea","PG",0,1
 "P. Is.",,0,1
 "P. Siam","TH",0,1
@@ -5666,6 +5677,7 @@
 "Sierre Leone","SL",0,1
 "Sikkim","IN",0,1
 "Silesia",,0,1
+"Simbabwe, Republik","ZW",0,1
 "Simbawa Is.","ID",0,1
 "Sin","SG",0,1
 "Sinai","EG",0,1
@@ -5752,6 +5764,7 @@
 "Solomon Islands","SB",1,1
 "Solomon Islands: New Georgia Group","SB",0,1
 "Solomon Islands?","SB",0,1
+"Solomon Islands~~Papua New Guinea",,0,1
 "Solomon Iss.","SB",0,1
 "Solomons","SB",0,1
 "Solomon's","SB",0,1
