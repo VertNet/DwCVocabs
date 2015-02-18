@@ -20,6 +20,9 @@
 " skull","skull",0,1
 "R M2/.",,0,0
 "Skull, Fluid","fluid | skull",0,1
+"""alcoholic, skull prepared, skin & body dried""",,0,0
+"""antler, left""",,0,0
+"""antler, right""",,0,0
 """art. surface limb"" - from card cat.",,0,0
 """block of brea with bones""",,0,0
 """dist. art. radius-ulna"" from card cat.",,0,0
@@ -36,15 +39,23 @@
 """Partial Skel, Wing, DNA""","DNA | partial skeleton | wing",0,1
 """Partial Skeleton, Wing, DNA""","DNA | partial skeleton | wing",0,1
 """Partial Skeleton, Wing, Tissue""","partial skeleton | tissue | wing",0,1
+"""plastic, skel for mount""",,0,0
+"""skel, no skull""",,0,0
+"""skel, wing and tail""",,0,0
 """Skeleton, Wing (02), Tissue""","skeleton | tissue | wing",0,1
 """Skeleton, Wing (2), Tissue""","skeleton | tissue | wing",0,1
 """Skin & Wing, DNA,  partial skel in freerer""","DNA | partial skeleton (frozen) | skin | wing",0,1
+"""skin, no skull""",,0,0
 """Skin, Par Skeleton, Wing, DNA""","DNA | partial skeleton | skin | wing",0,1
 """skin, wing & DNA""","DNA | skin | wing",0,1
 """Skin, Wing""","skin | wing",0,1
 """skin, wing, DNA & partial skeleton""","DNA | partial skeleton | skin | wing",0,1
+"""skin/skull, teaching""",,0,0
+"""skull, partial""",,0,0
+"""skull, partial/anlters""",,0,0
 """tibia prox. art."" from card cat",,0,0
 """wing, par skeleton""","partial skeleton | wing",0,1
+"""wings, 2 spread""",,0,0
 "###############################################################################################################################################################################################################################################################",,0,0
 "&",,0,0
 "(1 mounted)",,0,0
@@ -16549,6 +16560,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Generative organs (in spirit)",,0,0
 "Generative organs + kidneys (in spirit)",,0,0
 "Generative organs, etc. (in spirit)",,0,0
+"genital bone",,0,0
+"genital bone | skin",,0,0
+"genital bone | skin | skull",,0,0
+"genital bone | skull",,0,0
 "Genitalia (in spirit)",,0,0
 "Gift - 1",,0,0
 "GIFT TO ERIC HILTON",,0,0
