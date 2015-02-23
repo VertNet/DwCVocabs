@@ -6833,10 +6833,12 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "blocks of matrix",,0,0
 "blood","blood",0,1
 "BLOOD (MICROSLIDES)","blood (microslides)",1,1
+"blood | tissue",,0,0
 "BLOOD FILM (MICROSLIDE)","blood film (microslide)",1,1
 "blood, tissue","blood | tissue",0,1
 "blood/feather","blood | feather",0,1
 "blood/feather, tissue","blood | feather | tissue",0,1
+"blood/feather/wing | tissue",,0,0
 "blood/feather/wing, tissue",,0,0
 "blood/feathers","blood | feathers",0,1
 "blood/feathers, tissue","blood | feathers | tissue",0,1
@@ -12874,6 +12876,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "egg nest",,0,0
 "Egg sacs + embryos (mounted, in spirit)",,0,0
 "egg set","egg set",1,1
+"egg set | tissue",,0,0
 "egg set, mount, nest","egg set | mount | nest",0,1
 "egg set, nest","egg set | nest",0,1
 "egg set, tissue","egg set | tissue",0,1
@@ -12913,8 +12916,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "egg set/22","eggs",0,1
 "egg set/28","eggs",0,1
 "egg set/nest","egg set | nest",0,1
+"egg set/nest | tissue",,0,0
 "egg set/nest, tissue","egg set | nest | tissue",0,1
+"egg set/nest/wing",,0,0
 "egg set/nest/wing, tissue",,0,0
+"egg set/wing",,0,0
 "egg set/wing, tissue",,0,0
 "EGG SHELL","egg shell",0,1
 "EGG SHELL (DRY)","egg shell",0,1
@@ -13408,6 +13414,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FEATHERS, tissue","feathers | tissue",0,1
 "feathers, wing","feathers | wing",0,1
 "FEATHERS/SKELETON","feathers | skin",0,1
+"feathers/wing",,0,0
 "feathers/wing, tissue",,0,0
 "feathers; Round Skin","feathers | round skin",0,1
 "Fecal pellets","fecal pellets",0,1
@@ -13828,6 +13835,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FL","complete skeleton | flat skin",0,1
 "FL | tissue","complete skeleton | flat skin | tissue",0,1
 "FLAT","flat skin",0,1
+"flat | tissue",,0,0
 "flat body skin only",,0,0
 "flat pelt/complete skeleton/tissue | tissue",,0,0
 "Flat Round Skin",,0,0
@@ -13906,18 +13914,25 @@ R PERIPHERALS 2 - 3.",,0,0
 "flat wing + skel | tissue",,0,0
 "flat, tissue","flat skin | tissue",0,1
 "flat/part skel","partial skeleton | flat skin",0,1
+"flat/part skel | tissue",,0,0
 "flat/part skel, tissue","partial skeleton | flat skin | tissue",0,1
 "flat/skel","skeleton | flat skin",0,1
+"flat/skel | tissue",,0,0
 "flat/skel, tissue","skeleton | flat skin | tissue",0,1
 "flat/skel/egg set","egg set | skeleton | flat skin",0,1
 "flat/skel/egg set, tissue",,0,0
+"flat/skel/wing",,0,0
+"flat/skel/wing | tissue",,0,0
 "flat/skel/wing, tissue",,0,0
 "flat/skel/wng","skeleton | flat skin | wing",0,1
 "flat/wing","flat skin | wing",0,1
+"flat/wing | tissue",,0,0
 "flat/wing, tissue","flat skin | tissue | wing",0,1
 "flat/wing/part skel","partial skeleton | flat skin | wing",0,1
+"flat/wing/part skel | tissue",,0,0
 "flat/wing/part skel, tissue","partial skeleton | flat skin | tissue | wing",0,1
 "flat/wing/skel","skeleton | flat skin | wing",0,1
+"flat/wing/skel | tissue",,0,0
 "flat/wing/skel, tissue","skeleton | flat skin | tissue | wing",0,1
 "flat/wing? skel","skeleton | flat skin | wing",0,1
 "flat/wings/skel","skeleton | flat skin | wings",0,1
@@ -26430,6 +26445,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "mount (body); skull (complete)",,0,0
 "mount (head)",,0,0
 "mount (skin); skull (complete)",,0,0
+"mount | tissue",,0,0
 "mount + mummy chick + nest + 3 eggs",,0,0
 "mount + mummy chick + nest + 3 eggs | tissue",,0,0
 "mount and skull",,0,0
@@ -26448,6 +26464,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "mount/nest","mount | nest",0,1
 "mount/nest, tissue",,0,0
 "mount/part skel","mount | partial skeleleton",0,1
+"mount/part skel | tissue",,0,0
 "mount/part skel, tissue","mount | partial skeleton | tissue",0,1
 "Mount/Skeleton","mount | skeleton",0,1
 "Mount/skull","mount | skull",0,1
@@ -29589,6 +29606,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "part skel/misc feathers",,0,0
 "part skel/misc feathers | tissue",,0,0
 "part skel/wing","part skeleton | wing",0,1
+"part skel/wing | tissue",,0,0
 "part skel/wing, tissue","partial skeleton | tissue | wing",0,1
 "part skel; tissue; Round Skin","partial skeleton | round skin | tissue",0,1
 "part skeleton",,0,0
@@ -29639,6 +29657,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "part+counterpart of palate + latex peels",,0,0
 "partal maxilla w two cheek teeth",,0,0
 "partial  maxilla w two broken cheek tooth bases",,0,0
+"PARTIAL (DRY)",,0,0
 "PARTIAL (DRY), tissue","partial animal | tissue",0,1
 "Partial (EtOH)","partial animal (ETOH)",0,1
 "Partial (EtOH) - 1",,0,0
@@ -38430,6 +38449,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "rostrum/mandibles/tissue | tissue",,0,0
 "ROSTRUM+PALATE W P4-M1",,0,0
 "round","round skin",0,1
+"round | tissue",,0,0
 "round skin","round skin",0,1
 "Round Skin - 1","round skin - 1",0,1
 "round skin, alcoholic",,0,0
@@ -38478,6 +38498,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "round skin, wing, tissue, partial skeleton",,0,0
 "round skin, wing, tissue, tissue",,0,0
 "round wing","round skin | wing",0,1
+"round wing | tissue",,0,0
 "round wing, tissue","round wing | tissue",0,1
 "round, tissue","round skin | tissue",0,1
 "round/egg set","egg set | round skin",0,1
@@ -38485,25 +38506,34 @@ R PERIPHERALS 2 - 3.",,0,0
 "round/nest","nest | round skin",0,1
 "round/nest, tissue",,0,0
 "round/part skel","partial skeleton | round skin",0,1
+"round/part skel | tissue",,0,0
 "round/part skel, tissue","partial skeleton | round skin | tissue",0,1
 "round/skel","round skin | skeleton",0,1
+"round/skel | tissue",,0,0
 "round/skel, tissue","skeleton | round skin | tissue",0,1
 "round/skel/wing","round skin | skeleton | wing",0,1
 "round/skel/wing, tissue",,0,0
 "round/tissue","round skin | tissue",0,1
+"round/tissue | tissue",,0,0
 "round/tissue, tissue",,0,0
+"round/tissue/skel",,0,0
 "round/tissue/skel, tissue",,0,0
 "round/wing","round skin | wing",0,1
 "round/wing (check)","round skin | wing",0,1
 "round/wing (teaching)","round skin | wing",0,1
+"round/wing | tissue",,0,0
 "round/wing -check","round skin | wing",0,1
 "round/wing, tissue","round skin | tissue | wing",0,1
 "round/wing/egg","egg | round skin | wing",0,1
+"round/wing/egg | tissue",,0,0
 "round/wing/egg, tissue","egg | round skin | tissue | wing",0,1
 "round/wing/part skel","partial skeleton | round skin | wing",0,1
+"round/wing/part skel | tissue",,0,0
 "round/wing/part skel, tissue","partial skeleton | round skin | tissue | wing",0,1
 "round/wing/skel","skeleton | round skin | wing",0,1
+"round/wing/skel | tissue",,0,0
 "round/wing/skel, tissue","skeleton | round skin | tissue | wing",0,1
+"round/wing/tissue | tissue",,0,0
 "round/wing/tissue, tissue",,0,0
 "Rp/1",,0,0
 "Rp/2",,0,0
@@ -38747,6 +38777,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "scalp/skull/body skel | tissue",,0,0
 "scalp/skull/tissue | tissue",,0,0
 "scalp/wing","scalp | wing",0,1
+"scalp/wing | tissue",,0,0
 "scalp/wing, tissue","scalp | tissue | wing",0,1
 "SCAPHOID",,0,0
 "Scaphoid (left)",,0,0
@@ -39520,13 +39551,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "skel/tissue/pelt patches | tissue",,0,0
 "skel/two wings","skeleton | wings",0,1
 "skel/wing","skeleton | wing",0,1
+"skel/wing | tissue",,0,0
 "skel/wing, tissue","skeleton | tissue | wing",0,1
 "skel/wing/egg set","egg set | skeleton | wing",0,1
 "skel/wing/egg set, tissue",,0,0
 "skel/wing/foot","foot | skeleton | wing",0,1
 "skel/wing/syrinx","skeleton | syrinx | wing",0,1
+"skel/wing/syrinx | tissue",,0,0
 "skel/wing/syrinx, tissue","skeleton | syrinx | tissue | wing",0,1
 "skel/wing/tail","skeleton | tail | wing",0,1
+"skel/wing/tail | tissue",,0,0
 "skel/wing/tail, tissue","skeleton | tail | tissue | wing",0,1
 "skel/wing/tail/foot","foot | skeleton | tail | wing",0,1
 "skel/wings","skeleton | wings",0,1
@@ -61133,6 +61167,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin/toe clip; Skin; Wings_tail",,0,0
 "Skin/toe clip; Wings_tail",,0,0
 "skin/wing","skin | wing",0,1
+"skin/wing | tissue",,0,0
 "skin/wing, tissue","skin | tissue | wing",0,1
 "SKIN/WING/SKELETON","skin | wing | skeleton",0,1
 "skin;  (L. wing)",,0,0
@@ -61952,6 +61987,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull (with ear bones) with jaw",,0,0
 "Skull (with ear ossicles) with jaw",,0,0
 "Skull (x2) with jaw + skeleton (articulated)",,0,0
+"SKULL / VERTEBRAE / LEG (DRY)",,0,0
 "SKULL / VERTEBRAE / LEG (DRY), tissue","leg | skull | vertebrae | tissue",0,1
 "skull ?",,0,0
 "skull | body (ethanol)",,0,0
@@ -64873,6 +64909,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "terminal phalanx",,0,0
 "TERMINAL PLATE",,0,0
 "termphalanx",,0,0
+"TESTES AND KIDNEYS (MICROSLIDES/TISSUE BLOCKS)",,0,0
 "TESTES AND KIDNEYS (MICROSLIDES/TISSUE BLOCKS), tissue","testes (microslides, tissue blocks) | kidneys (microslides, tissue blocks) | tissue",0,1
 "TESTES IN ALCOHOL","testes in alcohol",0,1
 "Testicular network (in spirit)",,0,0
@@ -66010,6 +66047,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, wing, tissue, other",,0,0
 "tissue, wing, tissue, round skin",,0,0
 "tissue, wings","tissue | wings",0,1
+"tissue/wing",,0,0
+"tissue/wing | tissue",,0,0
 "tissue/wing, tissue",,0,0
 "Tissue; Eggset",,0,0
 "Tissue; Eggset; Fluid",,0,0
@@ -68219,12 +68258,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "WING/SKELETON","skeleton, wing",0,1
 "wing/skull/body skel",,0,0
 "wing/tail","tail | wing",0,1
+"wing/tail | tissue",,0,0
 "wing/tail, tissue","tail | tissue | wing",0,1
 "wing/tail/feet","feet | tail | wing",0,1
 "wing/tail/foot","foot | tail | wing",0,1
 "wing/tail/part skel","partial skeleton | tail | wing",0,1
 "wing/tail/skel","skeleton | tail | wing",0,1
 "wing/tail/skel/foot","foot | skeleton | tail | wing",0,1
+"wing/tissue | tissue",,0,0
 "wing/tissue, tissue",,0,0
 "wing; flat skin","flat skin | wing",0,1
 "wing; foot",,0,0
