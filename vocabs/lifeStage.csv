@@ -377,13 +377,20 @@
 "[ad?]",,0,0
 "[Ad]",,0,0
 "[ad]?",,0,0
+"[Adult ?] [Female ?]","adult",0,1
+"[Adult ?] Female","adult",0,1
+"[Adult ?] Male","adult",0,1
+"[Adult Female ?]","adult",0,1
 "[Adult*]",,0,0
 "[Adult, Summer]",,0,0
 "[Adult, Winter]",,0,0
 "[Adult]","adult",0,1
 "[Adult] + young",,0,0
+"[Adult] Female","adult",0,1
 "[Adult]*",,0,0
 "[aestiv.]",,0,0
+"[Age ?] [Sex ?]","unknown",0,1
+"[Age ?] Male","unknown",0,1
 "[Albino]",,0,0
 "[app. a dull Ad.]",,0,0
 "[Autumn or Immature]",,0,0
@@ -396,6 +403,7 @@
 "[downy young]",,0,0
 "[Embryo]",,0,0
 "[F]",,0,0
+"[Female ?]",,0,1
 "[First Winter]",,0,0
 "[Fledgling]",,0,0
 "[Foetus]",,0,0
@@ -424,6 +432,10 @@
 "[Imm]",,0,0
 "[imm]?",,0,0
 "[imm+]",,0,0
+"[Immature ?] [Sex ?]","immature",0,1
+"[Immature ?] Female","immature",0,1
+"[Immature ?] Male","immature",0,1
+"[Immature Male ?]","immature",0,1
 "[Immature*]",,0,0
 "[Immature, autumn]",,0,0
 "[Immature, first plumage]",,0,0
@@ -448,11 +460,14 @@
 "[juv?]",,0,0
 "[juv]",,0,0
 "[juv] written below crossed-out ",,0,0
+"[Juvenile ?] Female","juvenile",0,1
+"[Juvenile ?] Male","juvenile",0,1
 "[Juvenile]","juvenile",0,1
 "[Juvenile]?",,0,0
 "[jv.]",,0,0
 "[light phase]",,0,0
 "[M]",,0,0
+"[Male ?]",,0,1
 "[molting im-ad]",,0,0
 "[Nestling]",,0,0
 "[off-season]",,0,0
@@ -466,11 +481,14 @@
 "[prob. Ad. ?]",,0,0
 "[pullus] ?",,0,0
 "[see eggs]",,0,0
+"[Sex ?]",,0,1
 "[spring]",,0,0
 "[sub ad]",,0,0
 "[sub.adult]",,0,0
 "[subad]",,0,0
 "[sub-ad]",,0,0
+"[Subadult ?] Male","subadult",0,1
+"[Sub-adult Female ?]","subadult",0,1
 "[Subadult]",,0,0
 "[Sub-adult]",,0,0
 "[summer dress]",,0,0
@@ -1917,6 +1935,8 @@ begun",,0,0
 "1st y",,0,0
 "1st y.",,0,0
 "1st year",,0,0
+"1st Year Female","first year",0,1
+"1st Year Male","first year",0,1
 "1st yr",,0,0
 "1st yr.",,0,0
 "1st yr.?",,0,0
@@ -2340,7 +2360,8 @@ begun",,0,0
 "2 moderate, 2 unfertile",,0,0
 "2 months",,0,0
 "2 nearly fresh, 1 well incubated",,0,0
-"2 Nestlings",,0,0
+"2 Nestlings","nestlings",0,1
+"2 Nestlings [Sex ?]","nestling",0,1
 "2 nestlings 3.5 weeks in nest",,0,0
 "2 nestlings also collected (RC29",,0,0
 "2 nestlings also collected (RC2924 & 2925)",,0,0
@@ -2797,6 +2818,7 @@ begun",,0,0
 "2nd year",,0,0
 "2nd year bird by plumage",,0,0
 "2nd year immature",,0,0
+"2nd Year Male","second year",0,1
 "2nd yr",,0,0
 "2nd yr.",,0,0
 "2-pronounced trace of blood, 1-e",,0,0
@@ -4737,6 +4759,12 @@ ACC: 20",,0,0
 "ADULT ; SKULL WELL OSS",,0,0
 "Adult ?","adult",0,1
 "adult ?)","adult",0,1
+"Adult [Female ?]","adult",0,1
+"Adult [Female?]","adult",0,1
+"Adult [Female]","adult",0,1
+"Adult [Male ?]","adult",0,1
+"Adult [Male?]","adult",0,1
+"Adult [Sex ?]","adult",0,1
 "Adult + ?Embryo",,0,0
 "Adult + egg",,0,0
 "Adult + Eggs",,0,0
@@ -4768,7 +4796,10 @@ ACC: 20",,0,0
 "Adult by skull",,0,0
 "adult eclipse",,0,0
 "ADULT EXCEPT WHITE VENTRAL PLUMA",,0,0
-"ADULT FEMALE",,0,0
+"ADULT FEMALE","adult",0,1
+"Adult Female (by size)","adult",0,1
+"Adult Female [= a Male]","adult",0,1
+"Adult Female, 240-208-80-17","adult",0,1
 "ADULT FEMALES",,0,0
 "ADULT GRAVID FEMALE",,0,0
 "Adult HY",,0,0
@@ -4776,8 +4807,10 @@ ACC: 20",,0,0
 "Adult M and 2 nestlings collecte",,0,0
 "Adult M and 2 nestlings collected (wfvz#'s 54957,5",,0,0
 "Adult male","adult",0,1
+"Adult Male [= a Female]","adult",0,1
+"Adult Male [Female ?]","adult",0,1
 "ADULT MALE ALTERNATE PLUMAGE",,0,0
-"Adult male by plumage",,0,0
+"Adult male by plumage","adult",0,1
 "ADULT MALE PLUMAGE; BURSA FLESHY",,0,0
 "ADULT MALE PLUMAGE; NO BURSA",,0,0
 "ADULT MALE PLUMAGE; NO BURSA; SK",,0,0
@@ -4893,6 +4926,7 @@ ACC: 20",,0,0
 "Adults + Embryos",,0,0
 "Adults + Juvenile",,0,0
 "Adults + Juveniles",,0,0
+"Adults + Nestlings","adults | nestlings",0,1
 "Adults + Young",,0,0
 "Adults abandoned nest",,0,0
 "ADULTS AND 2  LARVAE",,0,0
@@ -5197,6 +5231,7 @@ perhaps one half",,0,0
 "AHY by lack of molt limits",,0,0
 "AHY by plumage",,0,0
 "AHY by primary covert pattern an",,0,0
+"AHY Male","AHY",0,1
 "AHY MALE;",,0,0
 "AHY/ASY","adult",0,1
 "AHY/SY",,0,0
@@ -6854,6 +6889,7 @@ Trace.",,0,0
 "Clutch size unknown. There were ",,0,0
 "Clutch size unknown. There were at least two young",,0,0
 "CO",,0,0
+"Cochise",,0,1
 "cold",,0,0
 "Cold and caked with matter.",,0,0
 "Cold and evidently deserted",,0,0
@@ -7183,6 +7219,7 @@ Trace.",,0,0
 "Downy yg",,0,0
 "downy yng.",,0,0
 "downy young","chick",0,1
+"Downy Young [Sex ?]","downy young",0,1
 "DOWNY YOUNG; BURSA NOT FOUND",,0,0
 "downy-Juv.",,0,0
 "Dried",,0,0
@@ -7512,7 +7549,7 @@ Trace.",,0,0
 "Egg-capsules",,0,0
 "eggcase","egg case",0,1
 "eggcases","egg case",0,1
-"eggs","egg",0,1
+"eggs","eggs",1,1
 "Eggs # 1 and 2 small embryos; #3",,0,0
 "Eggs # 1 and 2 small embryos; #3 and 4 showing blo",,0,0
 "eggs #1 & #2: very small embryos",,0,0
@@ -8047,12 +8084,22 @@ Trace.",,0,0
 "Fecound mous nu ocht",,0,0
 "Fell from palm tree in back yard",,0,0
 "female",,0,1
+"Female (?)",,0,1
+"Female (A.R. Phillips)",,0,1
 "Female (RC2785) collected",,0,1
+"Female ?",,0,1
+"Female [= Male ?]",,0,1
+"Female [Adult]","adult",0,1
+"Female [Immature]","immature",0,1
+"Female [Male ?]",,0,1
+"Female + Male + Nest",,0,1
 "female breaking one every day or",,0,1
 "female breaking one every day or so; 98-SF04-ES-1,",,0,1
+"Female by plumage",,0,1
 "female incubating",,0,0
 "female on nest",,0,0
 "female or immature",,0,0
+"Female plumage. Sex ?",,0,1
 "Female seen incubating at time o",,0,1
 "Female seen incubating at time of collection.",,0,1
 "Female taken",,0,1
@@ -8112,6 +8159,7 @@ Trace.",,0,0
 "first winter",,0,0
 "FIRST WINTER PLUMAGE; SKULL 30% ",,0,0
 "first year","juvenile",0,1
+"First Year Male","first year",0,1
 "first year plumage",,0,0
 "five",,0,0
 "Five 1/4, Three1/3, Five 1/2",,0,0
@@ -8155,6 +8203,10 @@ Trace.",,0,0
 "fledgl.",,0,0
 "fledgling","fledgling",1,1
 "FLEDGLING ; BURSA NOT FOUND",,0,0
+"Fledgling [Female ?]","fledgling",0,1
+"Fledgling [Sex ?]","fledgling",0,1
+"Fledgling Female","fledgling",0,1
+"Fledgling Male","fledgling",0,1
 "FLEDGLING/JUV PLUMAGE; BURSA 10 ",,0,0
 "FLEDGLING/NESTLING; BURSA 5 X 4 ",,0,0
 "FLEDGLING; BURSA 10  X 6 MM",,0,0
@@ -10093,6 +10145,8 @@ Sowing blood-1",,0,0
 "immature (AHY)",,0,0
 "Immature (fall)","immature",0,1
 "Immature (HY)","hatch-year",0,1
+"Immature (HY) Female","immature",0,1
+"Immature (HY) Male","immature",0,1
 "Immature (HY-U)",,0,0
 "immature (nestling)","immature",0,1
 "Immature (second year)","second-year",0,1
@@ -10171,7 +10225,14 @@ Sowing blood-1",,0,0
 "IMMATURE ; SKULL SOFT",,0,0
 "IMMATURE ; SKULL Y3 OSS",,0,0
 "Immature ?","immature",0,1
+"Immature [= Fledgling] Male","fledgling",0,1
+"Immature [Female ?]","immature",0,1
+"Immature [Male ?]","immature",0,1
+"Immature [Sex ?]","immature",0,1
 "Immature by plumage","immature",0,1
+"Immature Female","immature",0,1
+"Immature Female ?","immature",0,1
+"Immature Male","immature",0,1
 "immature or female",,0,0
 "IMMATURE PLUMAGE",,0,0
 "IMMATURE PLUMAGE; BURSA 13 X 6 M",,0,0
@@ -10883,13 +10944,18 @@ Sowing blood-1",,0,0
 "JUVENILE ; SKULL PART. OSS",,0,0
 "JUVENILE ; SKULL SOFT",,0,0
 "Juvenile ?","juvenile",0,1
+"Juvenile [Female ?]","juvenile",0,1
+"Juvenile [Female?]","juvenile",0,1
+"Juvenile [Male ?]","juvenile",0,1
+"Juvenile [Sex ?]","juvenile",0,1
 "Juvenile 2nd winter","juvenile",0,1
 "juvenile and larva",,0,0
-"JUVENILE FEMALE",,0,0
+"JUVENILE FEMALE","juvenile",0,1
 "JUVENILE FEMALES",,0,0
 "juvenile frog",,0,0
 "juvenile hatchling",,0,0
-"JUVENILE MALE",,0,0
+"JUVENILE MALE","juvenile",0,1
+"Juvenile Male (?)","juvenile",0,1
 "juvenile specimen",,0,0
 "JUVENILE W/EGG CASE",,0,0
 "JUVENILE,  ADULT",,0,0
@@ -11818,10 +11884,17 @@ Infertile-1",,0,0
 "macho test esc","adult",0,1
 "Majority fresh",,0,0
 "male",,0,1
+"Male - 6 months","6 months",0,1
+"Male ?",,0,1
+"Male [Adult]","adult",0,1
+"Male [Female ?]",,0,1
 "MALE ADULT",,0,0
+"Male by plumage",,0,1
 "Male incubating about 10 AM",,0,1
 "Male incubating. Eggs missing.",,0,1
+"Male, testes 2 X 3 mm",,0,1
 "male?",,0,0
+"Males + Females",,0,1
 "Many eggs, fresh, showing blood,",,0,0
 "Many eggs, fresh, showing blood, small to large em",,0,0
 "marked 1/4",,0,0
@@ -11914,6 +11987,7 @@ Infertile-1",,0,0
 "Mixed clutches",,0,0
 "MIXED JUVENILE AND AD",,0,0
 "MIXED LOTS",,0,0
+"Mixed Sexes",,0,1
 "MM","unknown",0,1
 "MO BURSA",,0,0
 "mo. old juv.",,0,0
@@ -12140,6 +12214,7 @@ Infertile-1",,0,0
 "NESTILING; BURSA 8 X 6 MM",,0,0
 "nesting",,0,0
 "Nesting bagan 10 May 2012",,0,0
+"Nesting Colony","nesting colony",1,1
 "nestl.",,0,0
 "nestlg",,0,0
 "nestlg.",,0,0
@@ -12148,10 +12223,14 @@ Infertile-1",,0,0
 "nestling [11-14d old]",,0,0
 "nestling [2-4d old]",,0,0
 "nestling [7d old? = specimen bag",,0,0
+"Nestling [Female ?]","nestling",0,1
+"Nestling [Sex ?]","nestling",0,1
 "nestling ~35 days old",,0,0
 "Nestling Banded",,0,0
 "NESTLING BURSA NOT FOUND",,0,0
+"Nestling Female","nestling",0,1
 "Nestling fledged",,0,0
+"Nestling Male","nestling",0,1
 "NESTLING/FLEDGLING PLUMAGE; BURS",,0,0
 "NESTLING/FLEDGLING; BURSA 7 X 6 ",,0,0
 "NESTLING/SMALL FLEDGLING; BURSA ",,0,0
@@ -12164,6 +12243,7 @@ Infertile-1",,0,0
 "NESTLING; BURSA NOT FOUND",,0,0
 "Nestling; skull not oss.",,0,0
 "nestlings","nestling",0,1
+"Nestlings [Sex ?]","nestlings",0,1
 "Nestlings left nest between 6/8 ",,0,0
 "Nestlings left nest between 6/8 May",,0,0
 "new laid",,0,0
@@ -12421,7 +12501,7 @@ Infertile-1",,0,0
 "non feconde",,0,0
 "non incubated",,0,0
 "non vides",,0,0
-"none",,0,0
+"none",,0,1
 "none  (one egg in very bad shape",,0,0
 "none  (one egg in very bad shape)",,0,0
 "none - deserted",,0,0
@@ -13062,6 +13142,7 @@ Infertile-1",,0,0
 "perhaps 5 days",,0,0
 "phoebes fresh, 1 addled; cowbird",,0,0
 "picked and sucked by some specie",,0,0
+"Pima",,0,1
 "Pip.-Pred.",,0,0
 "piped",,0,0
 "piped and ready to hatch",,0,0
@@ -13403,6 +13484,8 @@ fresh",,0,0
 "several days, well begun",,0,0
 "Several days.",,0,0
 "sex","unknown",0,1
+"Sex ?",,0,1
+"Sex ? - Male plumage",,0,1
 "SFO",,0,0
 "SFO ad",,0,0
 "SFO ad  o.sl.e",,0,0
@@ -14856,7 +14939,13 @@ Started",,0,0
 "SUBADULT ; BURSA NOT FOUND;",,0,0
 "SUBADULT ; SKULL 1/2 OSS",,0,0
 "Sub-adult ?",,0,0
+"Sub-Adult [Male ?]","subadult",0,1
+"Sub-adult [Sex ?]","subadult",0,1
 "subadult \ adult",,0,0
+"Subadult Female","subadult",0,1
+"Sub-adult Female","subadult",0,1
+"Subadult Male","subadult",0,1
+"Sub-adult Male","subadult",0,1
 "SUBADULT MALE PLUMAGE; NO BURSA;",,0,0
 "SUBADULT PLUMAGE",,0,0
 "SUBADULT PLUMAGE (AS IN UF46230)",,0,0
@@ -16081,13 +16170,17 @@ Started",,0,0
 "YOLKSAC AND PREFLEXIO",,0,0
 "YOLKSAC LARVA",,0,0
 "young","juvenile",0,1
+"Young [Female ?]","young",0,1
+"Young [Sex ?]","young",0,1
 "Young + Adult",,0,0
 "Young + Egg",,0,0
 "Young + larval form.",,0,0
 "young adult",,0,0
+"Young Adult Male","young adult",0,1
 "young adults","young adult",0,1
 "young bird",,0,0
 "Young Birds; C",,0,0
+"Young Female","young",0,1
 "Young Fledged",,0,0
 "Young fledged 7/27 & 7/29 1987",,0,0
 "young flown",,0,0
@@ -16099,6 +16192,7 @@ Started",,0,0
 "Young in nest were approx 15 days old.",,0,0
 "Young killed by fire ants",,0,0
 "young killed by predator",,0,0
+"Young Male","young",0,1
 "young much formed",,0,0
 "Young Observed",,0,0
 "young of year",,0,0

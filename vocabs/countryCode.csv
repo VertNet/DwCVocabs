@@ -1873,7 +1873,9 @@
 "Costi Rica","CR",0,1
 "Cote d'Ivoire","CI",0,1
 "Côte d'Ivoire","CI",1,1
+"Country ?",,0,1
 "COUNTRY OF ORIGIN UNKNOWN",,0,1
+"Country?",,0,1
 "CR","CR",0,1
 "CRC",,0,1
 "Credner I.","PG",0,1
@@ -1986,6 +1988,7 @@
 "DOM",,0,1
 "Dom Republic","DO",0,1
 "DOMI","DM",0,1
+"Dominian Republic","DO",0,1
 "Dominica","DM",1,1
 "Dominica I.W.I.","DM",0,1
 "Dominica; (Lesser Antilles)","DM",0,1
@@ -3544,6 +3547,7 @@
 "Mexico [?]; [Jamaica]",,0,1
 "Mexico D.F.","MX",0,1
 "Mexico or Guatemala ?",,0,1
+"Mexico or USA",,0,1
 "Mexico(?)","MX",0,1
 "Mexico/Guatemala",,0,1
 "MEXICO/UNITED STATES",,0,1

@@ -175,6 +175,13 @@ M[F]","unknown",0,1
 "[1st spring Male]","male",0,1
 "[Ad.]","unknown",0,1
 "[ADM]","unknown",0,1
+"[Adult ?] [Female ?]","female",0,1
+"[Adult ?] Female","female",0,1
+"[Adult ?] Male","male",0,1
+"[Adult Female ?]","female",0,1
+"[Adult] Female","female",0,1
+"[Age ?] [Sex ?]","unknown",0,1
+"[Age ?] Male","male",0,1
 "[almost surely a F]","female",0,1
 "[app F]","female",0,1
 "--[app. F]","female",0,1
@@ -204,6 +211,7 @@ M[F]","unknown",0,1
 "[F]M","unknown",0,1
 "[F]sic","female",0,1
 "[F}","female",0,1
+"[Female ?]","female",0,1
 "[Female?]","in question",0,1
 "[Female?] by plumage","in question",0,1
 "[Female]","female",0,1
@@ -218,9 +226,15 @@ M[F]","unknown",0,1
 "--[illeg]F","female",0,1
 "[illeg]M","male",0,1
 "[Im.]","unknown",0,1
+"[Immature ?] [Sex ?]","unknown",0,1
+"[Immature ?] Female","female",0,1
+"[Immature ?] Male","male",0,1
+"[Immature Male ?]","male",0,1
 "[juv. chick]","unknown",0,1
 "[juv. Male]","male",0,1
 "[Juv.]","unknown",0,1
+"[Juvenile ?] Female","female",0,1
+"[Juvenile ?] Male","male",0,1
 "[M","male",0,1
 "[M ?]","in question",0,1
 "[M ?] (illeg.)","in question",0,1
@@ -239,10 +253,14 @@ M[F]","unknown",0,1
 "[M]F","unknown",0,1
 "[M]ns","male",0,1
 "[M=] F","unknown",0,1
+"[Male ?]","male",0,1
 "[Male?]","in question",0,1
 "[Male]","male",0,1
 "[Male] by plumage","male",0,1
+"[Sex ?]","unknown",0,1
 "[size Female]","female",0,1
+"[Subadult ?] Male","male",0,1
+"[Sub-adult Female ?]","female",0,1
 "[surely F]","female",0,1
 "[u]","unknown",0,1
 "]","unknown",0,1
@@ -288,7 +306,11 @@ M[F]","unknown",0,1
 "180","unknown",0,1
 "184","unknown",0,1
 "186","unknown",0,1
+"1st Year Female","female",0,1
+"1st Year Male","male",0,1
 "2","unknown",0,1
+"2 Nestlings",,0,1
+"2 Nestlings [Sex ?]","unknown",0,1
 "223","unknown",0,1
 "227","unknown",0,1
 "239","unknown",0,1
@@ -296,6 +318,7 @@ M[F]","unknown",0,1
 "263.5","unknown",0,1
 "274","unknown",0,1
 "298","unknown",0,1
+"2nd Year Male","male",0,1
 "3","unknown",0,1
 "335","unknown",0,1
 "340","unknown",0,1
@@ -318,8 +341,22 @@ M[F]","unknown",0,1
 "AD?","unknown",0,1
 "ADM","unknown",0,1
 "adult",,0,1
+"Adult [Female ?]","female",0,1
+"Adult [Female?]","female",0,1
+"Adult [Female]","female",0,1
+"Adult [Male ?]","male",0,1
+"Adult [Male?]","male",0,1
+"Adult [Sex ?]","unknown",0,1
 "Adult + [Juvenile]","unknown",0,1
 "adult female","female",0,1
+"Adult Female (by size)","female",0,1
+"Adult Female [= a Male]","female",0,1
+"Adult Female, 240-208-80-17","female",0,1
+"Adult Male","male",0,1
+"Adult Male [= a Female]","male",0,1
+"Adult Male [Female ?]","male",0,1
+"Adult Male by plumage","male",0,1
+"Adults + Nestlings",,0,1
 "AHY MALE","male",0,1
 "AHY-M","male",0,1
 "ALC.","unknown",0,1
@@ -339,6 +376,7 @@ M[F]","unknown",0,1
 "brown in life",,0,1
 "Brown nuptial pads, throat yello",,0,1
 "brown nuptial pads, yellow throa",,0,1
+"Cochise",,0,1
 "D","unknown",0,1
 "dark phase",,0,1
 "determine","unknown",0,1
@@ -347,6 +385,8 @@ M[F]","unknown",0,1
 "Dissect","unknown",0,1
 "dorsum olive with scattered brow",,0,1
 "downy","unknown",0,1
+"Downy Young [Sex ?]","unknown",0,1
+"Eggs",,0,1
 "EMB 1 emb. 18mm","female",0,1
 "Embryo",,0,1
 "F","female",0,1
@@ -509,15 +549,23 @@ M[F]","unknown",0,1
 "FD","female",0,1
 "female","female",1,1
 "Female (?)","in question",0,1
+"Female (A.R. Phillips)","female",0,1
 "Female (likely)","female",0,1
 "Female (probably)","female",0,1
 "Female ?","in question",0,1
 "Female [?]","in question",0,1
+"Female [= Male ?]","female",0,1
+"Female [Adult]","female",0,1
+"Female [Immature]","female",0,1
+"Female [Male ?]","female",0,1
 "Female [Male?]","in question",0,1
 "Female [Male]","unknown",0,1
+"Female + Male + Nest","female | male",0,1
 "Female and 1 newborn","female",0,1
 "female and male","hermaphrodite",0,1
 "Female br.","female",0,1
+"Female by plumage","female",0,1
+"Female plumage. Sex ?","female",0,1
 "Female(?)","in question",0,1
 "Female, but has male plumage","female",0,1
 "Female, nest","female",0,1
@@ -526,7 +574,12 @@ M[F]","unknown",0,1
 "females","female",0,1
 "FF","unknown",0,1
 "FG","unknown",0,1
+"First Year Male","male",0,1
 "flat skin",,0,1
+"Fledgling [Female ?]","female",0,1
+"Fledgling [Sex ?]","unknown",0,1
+"Fledgling Female","female",0,1
+"Fledgling Male","male",0,1
 "Fn.","female",0,1
 "FR","unknown",0,1
 "F's","unknown",0,1
@@ -582,6 +635,15 @@ M[F]","unknown",0,1
 "IMM. FEMALE?","in question",0,1
 "IMM?","unknown",0,1
 "immature","immature",1,1
+"Immature (HY) Female","female",0,1
+"Immature (HY) Male","male",0,1
+"Immature [= Fledgling] Male","male",0,1
+"Immature [Female ?]","female",0,1
+"Immature [Male ?]","male",0,1
+"Immature [Sex ?]","unknown",0,1
+"Immature Female","female",0,1
+"Immature Female ?","female",0,1
+"Immature Male","male",0,1
 "Indeterminate","unknown",0,1
 "J","unknown",0,1
 "J?","unknown",0,1
@@ -594,7 +656,13 @@ M[F]","unknown",0,1
 "JUV?","unknown",0,1
 "Juvenil","unknown",0,1
 "juvenile","unknown",0,1
+"Juvenile [Female ?]","female",0,1
+"Juvenile [Female?]","female",0,1
+"Juvenile [Male ?]","male",0,1
+"Juvenile [Sex ?]","unknown",0,1
+"Juvenile Female","female",0,1
 "Juvenile male","male",0,1
+"Juvenile Male (?)","male",0,1
 "juveniles and eggs","unknown",0,1
 "L","unknown",0,1
 "light olive-gray",,0,1
@@ -773,30 +841,37 @@ M[F]","unknown",0,1
 "macho test 8x4","male",0,1
 "macho test esc","male",0,1
 "male","male",1,1
+"Male - 6 months","male",0,1
 "male & female","male, female",0,1
 "male (?)","in question",0,1
 "Male (by bleeding?)","in question",0,1
 "Male (likely)","male",0,1
 "Male ?","in question",0,1
 "Male [?]","in question",0,1
+"Male [Adult]","male",0,1
+"Male [Female ?]","male",0,1
 "Male [Female?]","in question",0,1
 "Male [Female]","unknown",0,1
 "Male and Female","male, female",0,1
 "Male br.","male",0,1
+"Male by plumage","male",0,1
 "Male Female","unknown",0,1
 "Male(?)","in question",0,1
 "Male, nest","male",0,1
+"Male, testes 2 X 3 mm","male",0,1
 "male/female","unknown",0,1
 "Male?","in question",0,1
 "Male[?]","in question",0,1
 "Male+Female","male, female",0,1
 "males","male",0,1
+"Males + Females","males | females",0,1
 "males, females","males, females",1,1
 "marked as both F and M","unknown",0,1
 "MF","hermaphrodite",0,1
 "M-F","unknown",0,1
 "mid-ventral white line",,0,1
 "mid-ventral white line, brown ve",,0,1
+"Mixed Sexes","males | females",0,1
 "MM","male",0,1
 "Mm.","male",0,1
 "Mn","male",0,1
@@ -805,11 +880,18 @@ M[F]","unknown",0,1
 "n.s.","unknown",0,1
 "n/","unknown",0,1
 "N/A","unknown",0,1
+"Nesting Colony",,0,1
+"Nestling [Female ?]","female",0,1
+"Nestling [Sex ?]","unknown",0,1
+"Nestling Female","female",0,1
+"Nestling Male","male",0,1
+"Nestlings [Sex ?]","unknown",0,1
 "No","unknown",0,1
 "no data","unknown",0,1
 "No nuptial pads, throat white, n",,0,1
 "no sex","unknown",0,1
 "no sex given","unknown",0,1
+"None",,0,1
 "not found","unknown",0,1
 "not sexed","unknown",0,1
 "NR","unknown",0,1
@@ -821,6 +903,7 @@ M[F]","unknown",0,1
 "O~","unknown",0,1
 "O'B","unknown",0,1
 "orange head",,0,1
+"Pima",,0,1
 "pink tail",,0,1
 "POSSIBLY FEMALE","female",0,1
 "POSSIBLY MALE","male",0,1
@@ -835,15 +918,20 @@ M[F]","unknown",0,1
 "see spec. label!","unknown",0,1
 "sex","unknown",0,1
 "Sex ?","unknown",0,1
+"Sex ? - Male plumage","male",0,1
 "Sex Unknown","unknown",0,1
 "Sex?","unknown",0,1
 "Stomach contents: Leaf cutter an",,0,1
 "Striped",,0,1
 "Striped pattern",,0,1
 "Striped; unusual broad dorsal st",,0,1
+"Sub-Adult [Male ?]","male",0,1
+"Sub-adult [Sex ?]","unknown",0,1
 "subadult female","female",0,1
+"Sub-adult Female","female",0,1
 "subadult femle","female",0,1
 "subadult male","male",0,1
+"Sub-adult Male","male",0,1
 "Tadpoles","unknown",0,1
 "throat balck, belly salt and pep",,0,1
 "throat black; white line from ti",,0,1
@@ -884,4 +972,9 @@ M[F]","unknown",0,1
 "xxx","unknown",0,1
 "Yankee Pond","unknown",0,1
 "young",,0,1
+"Young [Female ?]","female",0,1
+"Young [Sex ?]","unknown",0,1
 "Young adult","young adult",1,1
+"Young Adult Male","male",0,1
+"Young Female","female",0,1
+"Young Male","male",0,1
