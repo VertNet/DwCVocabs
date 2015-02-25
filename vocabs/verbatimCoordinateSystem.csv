@@ -1,12 +1,19 @@
 "verbatimCoordinateSystem","standardVCS","standard","checked","incorrectable","error"
 "",,0,1,0,
+"
+Decimal degrees",,0,1,0,
 """degrees minutes seconds, nearest minute""","degrees minutes seconds",0,1,0,
 """Township, section, range""","PLSS",0,1,0,
 "#NAME?",,0,1,0,
 "1/5/2012",,0,1,0,
+"14276",,0,1,0,
 "2012/01/05",,0,1,1,"Not a coordinate system."
+"4094.192",,0,1,0,
+"41763",,0,1,0,
+"4507.192 m",,0,1,0,
 "Cartografa Digital del Laboratorio de SIG'S y PR, Instituto de Geografa, UNAM.  Incluye: INEGI, 2000; IMT2000.  Escala 1:250,000",,0,1,0,
 "Cartografía Digital del Laboratorio de SIG'S y PR, Instituto de Geografía, UNAM.  Incluye: INEGI, 2000; IMT2000.  Escala 1:250,000",,0,1,0,
+"dcimal degrees","decimal degrees",0,1,0,
 "DD","decimal degrees",0,1,0,
 "DD.DDD","degrees decimal minutes",0,1,0,
 "DD.DDDD","degrees decimal minutes",0,1,0,
@@ -26,6 +33,7 @@
 "decimal degrrees","decimal degrees",0,1,0,
 "decimal minutes","degrees decimal minutes",0,1,0,
 "decimal minutes seconds","degrees minutes seconds",0,1,0,
+"Decimall degrees","decimal degrees",0,1,0,
 "Decimla Degrees","decimal degrees",0,1,0,
 "decmal degrees","decimal degrees",0,1,0,
 "degdecmn","degrees decimal minutes",0,1,0,

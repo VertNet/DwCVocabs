@@ -1,5 +1,8 @@
 "georeferenceProtocol","standardgeoreferenceProtocol","standard","checked"
 "	Georeferencing Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"
+Georeferencing Quick Reference Guide Version 2012-10-08",,0,1
+"""Georeferencing Quick Reference Guide Version 2012-10-08.""","VertNet Georeferencing Guidelines",0,1
 """MaNIS/HerpNet/ORNIS Georeferencing Guidelines, GBIF Best Practices""","VertNet Georeferencing Guidelines",0,1
 "[ORNIS]GeoreferenceProtocol","VertNet Georeferencing Guidelines",0,1
 "0914","not recorded",0,1
@@ -56,10 +59,12 @@
 "Colorado RGIS","not recorded",0,1
 "coordinates approximated from m","not recorded",0,1
 "De Lorme Topo USA","not recorded",0,1
+"Decimal degrees",,0,1
 "DeLorme Topo  USA ","not recorded",0,1
 "DeLorme Topo USA","not recorded",0,1
 "DeLorme Topo USA 6.0","not recorded",0,1
 "DeLorme Topo USA 6.1","not recorded",0,1
+"Dereferencing Quick Reference Guide Version 2012-10-08","VertNet Georeferencing Guidelines",0,1
 "Dipolog map (PCGS 2538), published by the Philippine Coast and Geodetic Survey, ed. 3, Mar. 1983.","not recorded",0,1
 "DMS-1",,0,1
 "DMS-2",,0,1
@@ -83,28 +88,47 @@
 "GEOLocate","not recorded",0,1
 "Geological Survey of Canada : Mineral Map of British Columbia. 1951. 1:1,267,200","not recorded",0,1
 "GeoNet Name Server gazetteer","not recorded",0,1
+"Georefereincing Quick Reference Guide Version 2012-10-08.","VertNet Georeferencing Guidelines",0,1
 "Georeference Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
 "Georeferenced Georeferencing Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferencing  Quick Reference Guide Version 2012-10-08","VertNet Georeferencing Guidelines",0,1
 "Georeferencing Guidelines Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
 "Georeferencing Quick Guide 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Guide Version 2012-10-08","VertNet Georeferencing Guidelines",0,1
 "Georeferencing Quick Guide Version 2012-10-17","Georeferencing Quick Reference Guide",0,1
 "Georeferencing Quick Guide Version 2012-11-13","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Reference Guide 2012-10-08","VertNet Georeferencing Guidelines",0,1
 "Georeferencing Quick Reference Guide Version 12-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Reference Guide Version 2012-","VertNet Georeferencing Guidelines",0,1
 "Georeferencing Quick Reference Guide Version 2012-08-10","Georeferencing Quick Reference Guide",0,1
 "Georeferencing Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Reference Guide Version 2012-10-08, Historical map of Stockton (1897)","VertNet Georeferencing Guidelines",0,1
+"Georeferencing Quick Reference Guide Version 2012-10-08, http://www.geographic.org/geographic_names/name.php?uni=-3321065&fid=4133&c=malaysia","VertNet Georeferencing Guidelines",0,1
 "Georeferencing Quick Reference Guide Version 2012-10-08.","Georeferencing Quick Reference Guide",0,1
 "Georeferencing Quick Reference Guide Version 2012-10-08.-80.2114296","Georeferencing Quick Reference Guide",0,1
 "Georeferencing Quick Reference Guide Version 2012-10-08Georeferencing Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
 "Georeferencing Quick Reference Guide Version 2012-10-08s","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Reference Guide Version 2012-10-12","VertNet Georeferencing Guidelines",0,1
 "Georeferencing Quick Reference Guide Version 2012-11-25","Georeferencing Quick Reference Guide",0,1
 "Georeferencing Quick Reference Guide Version 2012-11-26","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Reference Guide Version 2014-10-08","VertNet Georeferencing Guidelines",0,1
 "Georeferencing Quick Reference Guide Version:  2012-10-08","Georeferencing Quick Reference Guide",0,1
 "Georeferencing Quick Reference Guide Version: 2012-10-08","Georeferencing Quick Reference Guide",0,1
 "Georeferencing Quick Reference Guide Vesion 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Reference Guide:  Version 2012-10-08","VertNet Georeferencing Guidelines",0,1
+"Georeferencing Quick Reference Guide: Version 2012-10-08","VertNet Georeferencing Guidelines",0,1
+"Georeferencing Quick Reference GuidGeoreferencing Quick Reference Guide Version: 2012-10-08e Version 2012-10-08","VertNet Georeferencing Guidelines",0,1
+"Georeferencing Quick Referencing Guide Version 2012-10-08","VertNet Georeferencing Guidelines",0,1
+"Georeferencing Quick Referencing Guide Version 2012-10-08.","VertNet Georeferencing Guidelines",0,1
+"Georeferencing Quick Referencing Quick Reference Guide Version 2012-10-08","VertNet Georeferencing Guidelines",0,1
 "Georeferencing Quick Refernce Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferencing Quick Refrence Guide Version 2012-10-08","VertNet Georeferencing Guidelines",0,1
 "Georeferencng Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
 "Georeferenhcing Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferening Quick Reference Guide Version: 2012-10-08","VertNet Georeferencing Guidelines",0,1
 "Georeferenncing Quick Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
+"Georeferncing Quick Reference Guide Version Guide Version 2012-10-08.","VertNet Georeferencing Guidelines",0,1
+"Georeferncing Quick Reference Guide Version: 2012-10-08","VertNet Georeferencing Guidelines",0,1
 "Georeferrencing Quick Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
 "Georefrencer","not recorded",0,1
 "Gepreferencing Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide",0,1
@@ -183,6 +207,7 @@ MaNIS/HerpNET/ORNIS Georeferencing Guidelines","VertNet Georeferencing Guideline
 "MaNIS/HerpNET/ORNIS Guidelines","VertNet Georeferencing Guidelines",0,1
 "MaNIS/HerpNet/ORNIS Guidelines-GBIF Best Practices","VertNet Georeferencing Guidelines",0,1
 "MaNIS/HerpNet/ORNIS/Biogeomancer Guidelines","VertNet Georeferencing Guidelines",0,1
+"Manish/HerpNet/ORNIS Georeferencing Guidelines, GBIF Best Practices","VertNet Georeferencing Guidelines",0,1
 "Manish/Hornet/ORNIS Dereferencing Guidelines, GBIF Best Practices","VertNet Georeferencing Guidelines",0,1
 "Manually digitized from known localities",,0,1
 "Manually digitized using Geolocate",,0,1
@@ -239,9 +264,11 @@ MaNIS/HerpNET/ORNIS Georeferencing Guidelines","VertNet Georeferencing Guideline
 "Tulane GEOLocate","GeoLocate",0,1
 "U.S. Board on Geographic Names, Colombia, 2003.","not recorded",0,1
 "U.S. Geological Survey. State of North Carolina. 1993. 1:500,000","not recorded",0,1
+"Undefined area. Georeferencing Quick Reference Guide Version 2012-10-08.","VertNet Georeferencing Guidelines",0,1
 "United States Board on Geographic Names, Gazetteer 92, 1962.","not recorded",0,1
 "United States CIA Map of Jamaica 1968. 1:500,000","not recorded",0,1
 "US Army Corps of Engineers Dominican Republic 1961: 1:250,000","not recorded",0,1
+"US Topo and Historical Topographic Map Collection",,0,1
 "USGS 1:24,000","not recorded",0,1
 "USGS Gnis website, http://geonames.usgs.gov/pls/gnis/web_query.gnis_web_query_form","not recorded",0,1
 "USGS map 1:24,000","not recorded",0,1
