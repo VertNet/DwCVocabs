@@ -1016,6 +1016,7 @@
 "? | alcoholic | skeleton | tissue",,0,0
 "? | alcoholic | skin",,0,0
 "? | alcoholic | skin | skull",,0,0
+"? | alcoholic | skin | skull | tissue",,0,0
 "? | alcoholic | skin | tissue",,0,0
 "? | skeleton | skull",,0,0
 "? | tissue",,0,0
@@ -63877,6 +63878,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "so  Juv.","skin in alcohol",0,1
 "so  Yg.","skin in alcohol",0,1
 "SO | other preparation | skin",,0,0
+"SO | other preparation | skin | tissue",,0,0
 "SO | skin",,0,0
 "SO | skin | tissue",,0,0
 "so | tissue",,0,0
