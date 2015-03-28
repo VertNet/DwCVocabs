@@ -1016,6 +1016,7 @@
 "? | alcoholic | skeleton | tissue",,0,0
 "? | alcoholic | skin",,0,0
 "? | alcoholic | skin | skull",,0,0
+"? | alcoholic | skin | skull | tissue",,0,0
 "? | alcoholic | skin | tissue",,0,0
 "? | skeleton | skull",,0,0
 "? | tissue",,0,0
@@ -17818,6 +17819,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Impression, includes limbs + ribs + cast",,0,0
 "impression, mandible",,0,0
 "in 2 pieces",,0,0
+"in alcohol",,0,0
 "in lungfish burrows",,0,0
 "in nodules",,0,0
 "inciscor",,0,0
@@ -43910,6 +43912,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Skin, spread wing), Skeleton (Partial skeleton), Tissue, Heart, liver, muscle (Skin, spread wing) (Skin, spread wing), Skeleton (Partial skeleton), Tissue, Heart, liver, muscle",,0,0
 "Skin (Skin, spread wing), Tissue (Skin, spread wing)",,0,0
 "skin (skull in skin)",,0,0
+"skin (skull inside)",,0,0
 "Skin (Skull only) (Skull only) (Skull only)",,0,0
 "Skin (small piece)",,0,0
 "Skin (Spread tail) (Spread tail), Skeleton, Tissue (Spread tail), Skeleton, Tissue",,0,0
@@ -44312,6 +44315,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, gizzard saved",,0,0
 "Skin, gizzard saved; Skin/toe clip",,0,0
 "Skin, gut cestodes preserved",,0,0
+"skin, in alcohol",,0,0
 "Skin, Jan. '52",,0,0
 "skin, jaw",,0,0
 "Skin, July 1951",,0,0
@@ -44768,6 +44772,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Skull, Fluid, Glans","fluid | glans | skin | skull",0,1
 "Skin, Skull, Fluid, Karyotype",,0,0
 "Skin, Skull, Glans",,0,0
+"skin, skull, in alcohol",,0,0
 "skin, skull, karyo/NC",,0,0
 "Skin, Skull, Karyotype",,0,0
 "skin, skull, karytype",,0,0
@@ -61161,6 +61166,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin/skel","skeleton | skin",0,1
 "skin/skel fragments","skeleton fragments | skin",0,1
 "skin/skel//forelimb/scalp/","forelimbs | scalp | skeleton | skin",0,1
+"Skin/skel/tissue",,0,0
 "SKIN/SKELEOTN","skin | skeleton",0,1
 "SKIN/SKELETON","skin | skeleton",0,1
 "skin/skeleton :partial","partial skeleton | skin",0,1
@@ -63877,6 +63883,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "so  Juv.","skin in alcohol",0,1
 "so  Yg.","skin in alcohol",0,1
 "SO | other preparation | skin",,0,0
+"SO | other preparation | skin | tissue",,0,0
 "SO | skin",,0,0
 "SO | skin | tissue",,0,0
 "so | tissue",,0,0
