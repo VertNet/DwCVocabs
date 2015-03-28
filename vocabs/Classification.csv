@@ -5805,9 +5805,9 @@
 "Coryne",,,,"HYDROZOA","Coelenterata","Animalia",,0,0,,1
 "Corynella",,,,"CALCAREA","Porifera","Animalia",,0,0,,1
 "Corynopoma","Corynopoma","Characidae","Characiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
-"Corynorhinus","Plecotus","Vespertilionidae","Chiroptera","Mammalia","Chordata","Animalia","ITIS",0,1,"Genus is a synonym.",0
-"Corynorhinus (large)","Corynorhinus","Vespertilionidae","Chiroptera","Mammalia","Chordata","Animalia","National Center for Biotechnology Information",0,1,"Genus contains an identification qualifier.",0
-"Corynorhinus [?]","Corynorhinus","Vespertilionidae","Chiroptera","Mammalia","Chordata","Animalia","National Center for Biotechnology Information",0,1,"Genus includes identificationModifier.",0
+"Corynorhinus","Corynorhinus","Vespertilionidae","Chiroptera","Mammalia","Chordata","Animalia","ITIS",1,1,,0
+"Corynorhinus (large)","Corynorhinus","Vespertilionidae","Chiroptera","Mammalia","Chordata","Animalia","ITIS",0,1,"Genus contains an identification qualifier.",0
+"Corynorhinus [?]","Corynorhinus","Vespertilionidae","Chiroptera","Mammalia","Chordata","Animalia","ITIS",0,1,"Genus includes identificationModifier.",0
 "Coryogalops","Coryogalops","Gobiidae","Perciformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Corypha",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Coryphaena","Coryphaena","Coryphaenidae","Perciformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
