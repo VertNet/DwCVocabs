@@ -1,5 +1,6 @@
 "verbatimPrep","StandardPrep","standard","checked"
 "",,0,1
+"-",,0,0
 "--",,0,0
 " | tissue","tissue",0,1
 "-- | tissue",,0,0
@@ -13855,8 +13856,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "FL","complete skeleton | flat skin",0,1
 "FL | tissue","complete skeleton | flat skin | tissue",0,1
 "FLAT","flat skin",0,1
+"flat - freeze-dried",,0,0
 "flat | tissue",,0,0
+"flat + wing",,0,0
 "flat body skin only",,0,0
+"flat mount",,0,0
 "flat pelt/complete skeleton/tissue | tissue",,0,0
 "Flat Round Skin",,0,0
 "Flat Round Skin and Castor Glands",,0,0
@@ -13959,6 +13963,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "flat/wing/skel, tissue","skeleton | flat skin | tissue | wing",0,1
 "flat/wing? skel","skeleton | flat skin | wing",0,1
 "flat/wings/skel","skeleton | flat skin | wings",0,1
+"flat; mummified",,0,0
 "Flat_skin",,0,0
 "Flat_skin - 1","flat skin - 1",0,1
 "Flat_skin - 1; Fluid - 1","flat skin - 1 | fluid - 1",0,1
@@ -23262,8 +23267,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "líquido","fluid",0,1
 "líquido, cráneo","fluid | skull",0,1
 "LIVE",,0,0
+"Live (flying)",,0,0
 "Live Mount",,0,0
 "live mount, partial skeleton, tissue",,0,0
+"live; no longer in collection",,0,0
 "liver (95% ethanol)",,0,0
 "Liver (in spirit)",,0,0
 "LIx/",,0,0
@@ -33031,6 +33038,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PREZYGAPOPHYSIS",,0,0
 "primaries","primaries",1,1
 "Primary",,0,0
+"Primary feather",,0,0
 "prismatic cartilage fragment",,0,0
 "Probably fragment costal.",,0,0
 "Proboscis, sectioned (in spirit)",,0,0
@@ -67192,6 +67200,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "unident. cranial",,0,0
 "Unidentified fragment",,0,0
 "Unidentified fragments",,0,0
+"unk",,0,0
 "Unknown",,0,0
 "UNKNOWN ELEMENT.",,0,0
 "unknown molar",,0,0

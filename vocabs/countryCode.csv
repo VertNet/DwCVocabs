@@ -759,6 +759,7 @@
 "Antarctic Seas",,0,1
 "Antarctic Territory","AQ",0,1
 "Antarctica","AQ",1,1
+"Antarctica and Adjacent Islands","AQ",0,1
 "Antigua","AG",0,1
 "Antigua & Barbuda","AG",0,1
 "Antigua & Bermuda","AG",0,1
@@ -861,11 +862,15 @@
 "Austral Is.","PF",0,1
 "Austral Islands","PF",0,1
 "Austral Isles","PF",0,1
+"Australasia","AU",0,1
 "Australia","AU",1,1
 "'Australia'","AU",0,1
 "Australia (South ?)","AU",0,1
 "Australia ?","AU",0,1
 "Australia [?]","AU",0,1
+"Australia and Melanesia",,0,1
+"Australia and New Guinea",,0,1
+"Australia and Tasmania","AU",0,1
 "Australia orTasmania","AU",0,1
 "'Australia""","AU",0,1
 "Australia,  [= Tonga Is.]",,0,1
@@ -1394,6 +1399,7 @@
 "C Nigeria","NG",0,1
 "C.  Australia","AU",0,1
 "C. & S. America",,0,1
+"C. and E. South America",,0,1
 "C. Angola","AO",0,1
 "C. Australia","AU",0,1
 "C. Bolivia","BO",0,1
@@ -1652,6 +1658,7 @@
 "Central S.E. Madagascar","MG",0,1
 "Central Sahara",,0,1
 "Central Sulawesi","ID",0,1
+"Central Taiwan","TW",0,1
 "centre E. coast Madagascar","MG",0,1
 "centre Madagascar","MG",0,1
 "Centro Coast E. Madagascar","MG",0,1
@@ -1793,6 +1800,7 @@
 "Columbia","CO",0,1
 "Columbia ?","CO",0,1
 "Columbia [Colombia]","CO",0,1
+"Columbia, Ecuador",,0,1
 "Columbia?","CO",0,1
 "Commander I","RU",0,1
 "Commander I.","RU",0,1
@@ -3026,6 +3034,7 @@
 "ISLA DEL COCO","CR",0,1
 "Island of Guam","GU",0,1
 "Island of Martinique","MQ",0,1
+"Islands of Ecuador, Peru, Chile",,0,1
 "Isle of Man","IM",1,1
 "Isle of Pines",,0,1
 "Isle of Skye","GB",0,1
@@ -3188,6 +3197,7 @@
 "Kosovo","XK",0,1
 "Kotekhaie","IN",0,1
 "KS","US",0,1
+"kunk",,0,1
 "Kurdestan",,0,1
 "Kurdistan",,0,1
 "Kuril Islands","RU",0,1
@@ -3545,10 +3555,12 @@
 "Mexico (probably)","MX",0,1
 "Mexico ?","MX",0,1
 "Mexico [?]; [Jamaica]",,0,1
+"Mexico and Central America",,0,1
 "Mexico D.F.","MX",0,1
 "Mexico or Guatemala ?",,0,1
 "Mexico or USA",,0,1
 "Mexico(?)","MX",0,1
+"Mexico, Central, and South America",,0,1
 "Mexico/Guatemala",,0,1
 "MEXICO/UNITED STATES",,0,1
 "Mexico?","MX",0,1
@@ -3567,6 +3579,7 @@
 "Mid. W. Madagascar","MG",0,1
 "Middle Andaman Is.","IN",0,1
 "Middle Asia",,0,1
+"Middle East to Bangladesh",,0,1
 "Middle W. Madagascar","MG",0,1
 "Midland Center W. Madagascar","MG",0,1
 "Midway","UM",0,1
@@ -4199,6 +4212,7 @@
 "New Guiana",,0,1
 "New Guin.",,0,1
 "NEW GUINEA",,0,1
+"New Guinea (4000')",,0,1
 "New Guinea (Crandall 1929)",,0,1
 "New Guinea ?",,0,1
 "New Guinea [?]",,0,1
@@ -5174,11 +5188,13 @@
 "S. Mantchuria","CN",0,1
 "S. Marocco","MA",0,1
 "S. Marquesa Is.","PF",0,1
+"S. Mediterranean Basin to E. Asia",,0,1
 "S. Mexico","MX",0,1
 "S. Miguel I",,0,1
 "S. Mindanao","PH",0,1
 "S. Moluccas","ID",0,1
 "S. Molucca's","ID",0,1
+"S. Moluccas, Indonesia","ID",0,1
 "S. Mongolia","MN",0,1
 "S. Morocco","MA",0,1
 "S. Morrocco","MA",0,1
@@ -5596,6 +5612,7 @@
 "Scotland; [U.K.]","GB",0,1
 "Scotland; U.K.","GB",0,1
 "SE ASIA",,0,1
+"SE Asia, Melanesia",,0,1
 "SE Celebes","ID",0,1
 "SE N. Guinea",,0,1
 "SE. Celebes","ID",0,1
@@ -5941,6 +5958,7 @@
 "southeastern Iran (Kirman)","IR",0,1
 "Southern  India","IN",0,1
 "Southern Abyssinia",,0,1
+"Southern Africa",,0,1
 "Southern Arabia",,0,1
 "Southern Brazil","BR",0,1
 "Southern Cameroon","CM",0,1
@@ -6498,6 +6516,7 @@
 "'United States of America' [U.S.A.]","US",0,1
 "United States Virgin Islands","VI",0,1
 "United States-Mexico",,0,1
+"unk",,0,1
 "UNKNOWN",,0,1
 "unknown *",,0,1
 "unknown prob. captive reared",,0,1
@@ -6597,6 +6616,7 @@
 "Venezuela, Surinam",,0,1
 "Venezuela; [West Indies]","VE",0,1
 "Venezuela?","VE",0,1
+"Venezuela-Columbia",,0,1
 "Venzuela","VE",0,1
 "Venzuela or Trinidad",,0,1
 "Venzueley","VE",0,1
