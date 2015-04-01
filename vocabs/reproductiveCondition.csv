@@ -122,6 +122,7 @@
 "1 E",,0,0
 "1 emb",,0,0
 "1 emb (CR=18mm)",,0,0
+"1 emb ?",,0,0
 "1 emb [R], CR=6 mm",,0,0
 "1 emb = 12mm",,0,0
 "1 emb = 18 mm",,0,0
@@ -236,6 +237,7 @@
 "1 emb; CR=24mm",,0,0
 "1 emb; CR=26mm",,0,0
 "1 emb; CR=30mm",,0,0
+"1 emb; CR-3",,0,0
 "1 embryo",,0,0
 "1 Embryo, 20 mm",,0,0
 "1 embryo, 25mm",,0,0
@@ -262,9 +264,14 @@
 "1 M emb: cr= 212.7 mm *",,0,0
 "1 M emb: cr=108.3mm *",,0,0
 "1 male suckling",,0,0
+"1 neonate",,0,0
+"1 neonate; mother of ROMM 43919",,0,0
+"1 neonate; mother of ROMM 74058",,0,0
+"1 neonate; mother of ROMM 78874",,0,0
 "1 oviductal egg in left ovary ca. 5 mm",,0,0
 "1 oviductal egg, yolking follicles lt & rt ovaries",,0,0
 "1 ovum 3.0cm + ~ 3d other",,0,0
+"1 plac scar 1L 0R",,0,0
 "1 plac scar, L",,0,0
 "1 pouch yg (78-27-14-07)",,0,0
 "1 pouch yg (89-32-16-08)",,0,0
@@ -279,14 +286,27 @@
 "1 scar: rt",,0,0
 "1 shelled egg in oviduct",,0,0
 "1 sm emb",,0,0
+"1 testis/epididymis WT-0.90",,0,0
+"1 testis/epididymis WT-1.01",,0,0
 "1 tubal egg",,0,0
 "1 X 1, CR = 9mm",,0,0
 "1 young",,0,0
+"1 young; CR-37",,0,0
+"1 young; CR-40",,0,0
+"1 young; mother of ROMM 32086",,0,0
+"1 young; mother of ROMM 59129",,0,0
+"1 young; mother of ROMM 69842",,0,0
 "1.5 mm tubes",,0,0
 "1:2 = 6 mammae",,0,0
 "1:2= 6 mamae",,0,0
+"10 emb",,0,0
 "10 ova; largest 10X10 mm",,0,0
 "10 ova; largest 7X7 mm",,0,0
+"10 plac scar",,0,0
+"10 plac scar 5L 5R 2 sets; mammary tissue present; not lactating",,0,0
+"10 plac scar 7L 3R",,0,0
+"10 plac scar 8L 2R",,0,0
+"10 pouch young",,0,0
 "10 well developed embs",,0,0
 "10x8,7x12",,0,0
 "11 eggs in oviducts",,0,0
@@ -295,11 +315,17 @@
 "11 embs/6R/5L/cr=2mm",,0,0
 "11 embs: 3mm",,0,0
 "11 pac scars: 7(R)&4(L)",,0,0
+"11 plac scar",,0,0
+"11 pouch young; CR-33",,0,0
 "12",,0,0
+"12 emb 6L 6R; MAM",,0,0
+"12 plac scar",,0,0
 "12 undev emb in oviducts",,0,0
 "12 x 8 mm",,0,0
 "13",,0,0
 "13 ova; largest 4X4 mm",,0,0
+"13 plac scar 2 sets",,0,0
+"13 pouch young; CR-63",,0,0
 "14 X 19 (right testis), epid-",,0,0
 "15 20mm eggs",,0,0
 "15 February 1952",,0,0
@@ -341,6 +367,11 @@
 "2 emb.; CR=1 mm",,0,0
 "2 emb.; CR=23 mm",,0,0
 "2 emb.; CR=33 mm",,0,0
+"2 emb; CR-12; CR-6",,0,0
+"2 emb; CR-13",,0,0
+"2 emb; CR-20",,0,0
+"2 emb; CR-4",,0,0
+"2 emb; CR-5",,0,0
 "2 embryos",,0,0
 "2 embryos, 18mm",,0,0
 "2 embryos, 3 mm",,0,0
@@ -448,6 +479,11 @@
 "2 mm",,0,0
 "2 pac scars: 1(L)&1(R)",,0,0
 "2 pac scars:1(L),1(R)",,0,0
+"2 plac scar",,0,0
+"2 plac scar ?",,0,0
+"2 plac scar 1L 1R",,0,0
+"2 plac scar 2L",,0,0
+"2 plac scar 2L 0R",,0,0
 "2 placental scars, right",,0,0
 "2 pouch young",,0,0
 "2 Rt , 0 Lt plac scars",,0,0
@@ -462,6 +498,7 @@
 "2 sm. embs; not lact.",,0,0
 "2 small embs.",,0,0
 "2 X 11",,0,0
+"2 young",,0,0
 "2 yrs old",,0,0
 "20 x 6 mm",,0,0
 "20-25 kg",,0,0
@@ -495,6 +532,16 @@
 "2x1 R",,0,0
 "3 E",,0,0
 "3 Emb",,0,0
+"3 emb 0L 3R; resorbed emb 1L 1R; CR-7; mammary tissue present",,0,0
+"3 emb 1L 2 R; CR-13; lactating",,0,0
+"3 emb 1L 2R; CR-1",,0,0
+"3 emb 1L 2R; CR-13",,0,0
+"3 emb 1L 2R; CR-15",,0,0
+"3 emb 1L 2R; CR-20",,0,0
+"3 emb 2L 1R",,0,0
+"3 emb 2L 1R; CR-13",,0,0
+"3 emb 3L 0R; CR-3",,0,0
+"3 emb 3L 0R; CR-9",,0,0
 "3 emb. (10 mm.) 2 L, 1 R",,0,0
 "3 emb. (12 mm.)",,0,0
 "3 emb. (15 mm)",,0,0
@@ -503,6 +550,10 @@
 "3 emb., cr = 17 mm",,0,0
 "3 emb., CR = 25mm",,0,0
 "3 emb/cr = X 8 mm",,0,0
+"3 emb; CR-13",,0,0
+"3 emb; CR-18",,0,0
+"3 emb; CR-40",,0,0
+"3 emb; CR-5",,0,0
 "3 Embryo",,0,0
 "3 embryos",,0,0
 "3 embryos X 15",,0,0
@@ -610,12 +661,16 @@
 "3 embs; CR=43mm",,0,0
 "3 lg. embryo; not lact.",,0,0
 "3 mm",,0,0
+"3 neonateS; mother of ROMM 15755, 15756, 15757",,0,0
 "3 ova, lgst ovum= 1.4mm",,0,0
 "3 pac scars",,0,0
 "3 pac scars: (2rt & 1lf)",,0,0
 "3 pac scars: 1(L)&2(R)",,0,0
 "3 pac. scars:1(R)&2(L)",,0,0
 "3 pec, 3 ing mammae",,0,0
+"3 plac scar",,0,0
+"3 plac scar 2L 1R",,0,0
+"3 pouch young",,0,0
 "3 scars",,0,0
 "3 scars (lact)",,0,0
 "3 scars, lg mamm",,0,0
@@ -630,6 +685,8 @@
 "3 x 2; breeding",,0,0
 "3 X 22 mm",,0,0
 "3 X 3",,0,0
+"3 young",,0,0
+"3 young; CR-17",,0,0
 "3.3 mm ; no sc. Emb < 1mm",,0,0
 "3.5 By 3.0 mm",,0,0
 "32 ova; largest 23X18",,0,0
@@ -653,10 +710,25 @@
 "3R, 4L placental scars",,0,0
 "3R, 5L, CR (crown-rump length) = 4",,0,0
 "3x4; CR=2mm",,0,0
+"4 emb",,0,0
+"4 emb 1L 3 R; CR-13",,0,0
+"4 emb 1L 3R; lactating",,0,0
+"4 emb 2L 2R; CR-1",,0,0
+"4 emb 2L 2R; CR-3",,0,0
+"4 emb 2L 2R; CR-6",,0,0
+"4 emb 2R 2L; CR-3",,0,0
+"4 emb 2R 2L; CR-4.5",,0,0
+"4 emb 3L 1R; CR-1",,0,0
 "4 emb X 3 mm",,0,0
 "4 emb. (18 mm) 2 L, 2 R",,0,0
 "4 emb. (7 mm.)",,0,0
 "4 emb. CR = 33 mm",,0,0
+"4 emb; CR-11",,0,0
+"4 emb; CR-12",,0,0
+"4 emb; CR-17",,0,0
+"4 emb; CR-2",,0,0
+"4 emb; CR-4X2",,0,0
+"4 emb; CR-7",,0,0
 "4 embryo; not lact.",,0,0
 "4 embryos",,0,0
 "4 embryos = 11 mm",,0,0
@@ -786,8 +858,17 @@
 "4 oviducal eggs",,0,0
 "4 pac scars",,0,0
 "4 pac scars, lact",,0,0
+"4 plac scar",,0,0
+"4 plac scar 1L 3R",,0,0
+"4 plac scar 2L 2R",,0,0
+"4 plac scar; mother of ROMM 100732, FN33625",,0,0
+"4 plac scarS",,0,0
 "4 placental scars",,0,0
 "4 pouch young",,0,0
+"4 pouch young; CR-14",,0,0
+"4 pouch young; CR-15",,0,0
+"4 pouch young; CR-38",,0,0
+"4 pouch young; mother of ROMM 31616, 31617, 31618, 31619",,0,0
 "4 scars",,0,0
 "4 scars (lact)",,0,0
 "4 scars, 1R 3L",,0,0
@@ -803,6 +884,7 @@
 "4 undev embs: 3(R)&1(L)",,0,0
 "4 x 2 mm",,0,0
 "4 yolk-filled follicles",,0,0
+"4 young",,0,0
 "4 young in pouch",,0,0
 "4.5 x 3.5",,0,0
 "4.8x9.5mm [=lgst ovum?]",,0,0
@@ -822,6 +904,22 @@
 "4rt, 2lt embs",,0,0
 "4x2, L; 3x3, R",,0,0
 "5 = X 9 mm",,0,0
+"5 emb",,0,0
+"5 emb 2L 3R; CR 35",,0,0
+"5 emb 3L 2R; mammary tissue present",,0,0
+"5 emb; 1L 4R; CR-22; lactating",,0,0
+"5 emb; 1L 4R; CR-9",,0,0
+"5 emb; 3L 2R; CR-10",,0,0
+"5 emb; 3L 2R; CR-11",,0,0
+"5 emb; 3L 2R; CR-2",,0,0
+"5 emb; 3L 2R; CR-4",,0,0
+"5 emb; 4L 1R",,0,0
+"5 emb; 5L 0R; CR-7",,0,0
+"5 emb; CR-10",,0,0
+"5 emb; CR-11",,0,0
+"5 emb; CR-14",,0,0
+"5 emb; CR-16",,0,0
+"5 emb; CR-21",,0,0
 "5 Embryo",,0,0
 "5 embryos",,0,0
 "5 embryos (10 mm)",,0,0
@@ -903,7 +1001,20 @@
 "5 pac scars: 3(R)&2(L)",,0,0
 "5 pac scars:3(R)&2(L)",,0,0
 "5 pac.scars:3(R)&2(L)",,0,0
+"5 PLAC SC",,0,0
+"5 plac scar",,0,0
+"5 plac scar 2L 3R",,0,0
+"5 plac scar 2L 3R; mammary tissue present",,0,0
+"5 plac scar 2L 3R; mammary tissue present; not lactating",,0,0
+"5 plac scar 2L 3R; mammary tissue present; not lactating; teats visible",,0,0
+"5 plac scar 3L 2R",,0,0
+"5 plac scar 3L 2R; MAMMARY TISSSUE ABSENT; not lactating",,0,0
+"5 plac scar 3L 2R; mammary tissue present; not lactating",,0,0
+"5 plac scar 4L 1R",,0,0
+"5 plac scar 4L 1R; mammary tissue present; lactating",,0,0
 "5 placental scars",,0,0
+"5 pouch young",,0,0
+"5 pouch young; CR-42",,0,0
 "5 prs mammae",,0,0
 "5 scars (lact)",,0,0
 "5 scars: 1lf,4rt",,0,0
@@ -911,16 +1022,27 @@
 "5 scars: 3L, 2R",,0,0
 "5 scars: 3lf,2rt",,0,0
 "5 scars:3(R),2(L); Lact",,0,0
+"5 young",,0,0
 "5 young in pouch",,0,0
 "5.0 x 4.0",,0,0
 "5.5 by 4.5 mm",,0,0
 "5-E",,0,0
 "5embs 10x8","pregnant",0,1
 "5embs 30x15","pregnant",0,1
+"6 CORPRA LUTEA",,0,0
 "6 eggs in oviducts",,0,0
 "6 eggs laid; 20 shelled eggs (largest ovum = 21 mm) and multiple unshelled eggs found within the abdominal cavity",,0,0
+"6 emb",,0,0
+"6 emb 3L 3R; CR-12",,0,0
+"6 emb 3L 3R; CR-2",,0,0
+"6 emb 3L 3R; CR-28; CR-21",,0,0
+"6 emb 3L 3R; CR-3",,0,0
+"6 emb 3L 3R; CR-5.5",,0,0
 "6 emb., cr = 4 mm",,0,0
 "6 emb/6R/cr=12mm",,0,0
+"6 emb; CR-15, L",,0,0
+"6 emb; CR-3",,0,0
+"6 emb; CR-30",,0,0
 "6 embryo x 14,2L,4R",,0,0
 "6 embryos",,0,0
 "6 embryos too small to measure",,0,0
@@ -972,6 +1094,13 @@
 "6 pac. scars: (2 & 4)",,0,0
 "6 pac. scars: 4 & 2",,0,0
 "6 pectoral and 4 inguinal mammae",,0,0
+"6 PLAC SC",,0,0
+"6 plac scar",,0,0
+"6 plac scar 2L 4R",,0,0
+"6 plac scar 3L 3R",,0,0
+"6 plac scar 4L 2R",,0,0
+"6 plac scar 4L 2R; mammary tissue present; lactating",,0,0
+"6 pouch young; CR-60",,0,0
 "6 scars",,0,0
 "6 scars: 3 L, 3 R",,0,0
 "6 scars: 3 R, 3 L",,0,0
@@ -981,10 +1110,17 @@
 "6 well dev. embs",,0,0
 "6 x 5",,0,0
 "6 yg in pouch",,0,0
+"6 young WITH ADULT FEMALES",,0,0
+"6 young; mother of ROMM 12704",,0,0
 "6.0x4.0 mm",,0,0
 "6-7 months old",,0,0
 "6-8mm emb",,0,0
 "7 26mm embryos",,0,0
+"7 emb 3L 4R",,0,0
+"7 emb 4L 3R",,0,0
+"7 emb; CR-19",,0,0
+"7 emb; CR-2.5",,0,0
+"7 emb; CR-9",,0,0
 "7 embryos",,0,0
 "7 embs",,0,0
 "7 embs, 12mm",,0,0
@@ -999,11 +1135,17 @@
 "7 embs; CR=7mm",,0,0
 "7 mm",,0,0
 "7 pac. scars: (4 & 3)",,0,0
+"7 PLAC SC",,0,0
+"7 plac scar",,0,0
+"7 plac scar 3L 4R",,0,0
+"7 plac scar 4L 3R",,0,0
 "7 placental scars",,0,0
+"7 pouch young",,0,0
 "7 unpigmented eggs",,0,0
 "7 x 3 mm",,0,0
 "7 x 5 mm",,0,0
 "7 x 6 mm",,0,0
+"7 young",,0,0
 "8 embryos",,0,0
 "8 embryos, 20-30 mm",,0,0
 "8 embs: 1lf & 7rt x 4mm",,0,0
@@ -1020,7 +1162,11 @@
 "8 ova, lgst ovum=1.5mm",,0,0
 "8 pac. scars: (5 & 3)",,0,0
 "8 pac. scars: 5 & 3",,0,0
+"8 plac scar",,0,0
+"8 plac scar 4L 4R",,0,0
 "8 placental scars",,0,0
+"8 pouch young",,0,0
+"8 tests",,0,0
 "8 X 4 mm = left testis",,0,0
 "8 x 5 mm",,0,0
 "8 x 6 mm",,0,0
@@ -1032,6 +1178,9 @@
 "9 embryos, 3mm, 5 left, 4 right",,0,0
 "9 embs/6 R/3 L/cr < 3 mm",,0,0
 "9 pac. scars: (5 & 4)",,0,0
+"9 plac scar",,0,0
+"9 pouch young; CR- 26",,0,0
+"9 pouch young; CR-47",,0,0
 "9 x 6 mm",,0,0
 "9no gonad data]",,0,0
 "A","unknown",0,1
@@ -1052,6 +1201,8 @@
 "abd. 2605",,0,0
 "abdomen looks like breeding ovaries slightly enlarged",,0,0
 "abdominal",,0,0
+"aborted",,0,0
+"aborted 1 young",,0,0
 "Active, turg.",,0,0
 "AD","unknown",0,1
 "Ad t 4x2","unknown",0,1
@@ -1105,6 +1256,7 @@
 "c, no emb.",,0,0
 "ca.25 ova",,0,0
 "carrying young joey (fem)",,0,0
+"CCNO",,0,0
 "COMMENT: 2 OVARIES? - K.C.PARKES.",,0,0
 "COMMENT: 4 RUPTURED FOLLICLES, EGG IN DUCT, NO OTH",,0,0
 "COMMENT: 4 RUPTURED FOLLICLES, EGG IN DUCT, NO OTHERS ENLARGED.",,0,0
@@ -1228,6 +1380,11 @@
 "Contained two embryoes. Two pairs of inguinal mammals.",,0,0
 "corn.",,0,0
 "cr = 11",,0,0
+"CR-20",,0,0
+"CR-26",,0,0
+"CR-30",,0,0
+"CRUPTORCHID LEFT testis",,0,0
+"CRUPTORCHID RIGHT testis",,0,0
 "cub",,0,0
 "descended [no meas]",,0,0
 "descended scrotum",,0,0
@@ -1279,6 +1436,10 @@
 "embryo (apprx. 5 mos.)",,0,0
 "Embryo =15.4",,0,0
 "embryo 15 X 14",,0,0
+"embryo of ROMM 19766",,0,0
+"embryo of RROMM 20327",,0,0
+"embryo of RROMM 60455",,0,0
+"embryo of RROMM 91190, REM2316",,0,0
 "embryo small",,0,0
 "embryo= 13",,0,0
 "embryo= 30",,0,0
@@ -1306,12 +1467,42 @@
 "enlarged nipples and uterus",,0,0
 "enlarged nipples and uterus, no embryos",,0,0
 "enlarged testes",,0,0
+"enlarged testes; epididymus visible",,0,0
+"enlarged testes; sperm present",,0,0
+"enlarged testes; testes-10X5",,0,0
+"enlarged testes; testes-10X6",,0,0
+"enlarged testes; testes-10X7",,0,0
+"enlarged testes; testes-11X6",,0,0
+"enlarged testes; testes-11X7",,0,0
+"enlarged testes; testes-12X7",,0,0
+"enlarged testes; testes-12X8",,0,0
+"enlarged testes; testes-12X9",,0,0
+"enlarged testes; testes-13X8",,0,0
+"enlarged testes; testes-13X9",,0,0
+"enlarged testes; testes-14X10",,0,0
+"enlarged testes; testes-14X9",,0,0
+"enlarged testes; testes-15X12",,0,0
+"enlarged testes; testes-15X9",,0,0
+"enlarged testes; testes-2X1",,0,0
+"enlarged testes; testes-4X3",,0,0
+"enlarged testes; testes-5X2",,0,0
+"enlarged testes; testes-5X3",,0,0
+"enlarged testes; testes-5X4",,0,0
+"enlarged testes; testes-6X2",,0,0
+"enlarged testes; testes-6X4",,0,0
+"enlarged testes; testes-7X3",,0,0
+"enlarged testes; testes-7X5",,0,0
+"enlarged testes; testes-8X4",,0,0
+"enlarged testes; testes-8X5",,0,0
 "enlarged uterus",,0,0
 "enlarged uterus and nipples",,0,0
 "enlarged uterus and teats, lots of fat deposits; prob. just gave birth.",,0,0
 "enlarged uterus, 2 embryos?",,0,0
 "entire ovary 1x2mm",,0,0
+"epididymis not visible",,0,0
+"epididymis not visible; testes small",,0,0
 "Estrous, no embs.",,0,0
+"eunuch",,0,0
 "ext.*",,0,0
 "F","unknown",0,1
 "F-","unknown",0,1
@@ -1352,6 +1543,8 @@
 "gF(7)","gravid",0,1
 "gF(8)","gravid",0,1
 "gF(9)","gravid",0,1
+"giving birth",,0,0
+"glands enlaerged",,0,0
 "gonad 11x5mm",,0,0
 "gonad 12x6mm",,0,0
 "gonads = 12x6mm",,0,0
@@ -1361,6 +1554,7 @@
 "gonads mentioned",,0,0
 "GONADS NOT FOUND",,0,0
 "gonads obscure",,0,0
+"gonads reduced",,0,0
 "GONADS SPOILED",,0,0
 "GONADS: 1 VASCULAR OVARY 3.5 X 6.5, WITH ENLARGING",,0,0
 "GONADS: 1 VASCULAR OVARY 3.5 X 6.5, WITH ENLARGING OVA (0.5).",,0,0
@@ -1451,7 +1645,9 @@
 "gravid?",,0,0
 "gravide",,0,0
 "H",,0,1
+"had suckled",,0,0
 "hatched eggcase in cloaca",,0,0
+"heavy moult",,0,0
 "hembra",,0,1
 "hembra 2 pares ma",,0,1
 "hembra A",,0,1
@@ -12872,6 +13068,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "juvenile, young of UCM6175, not yet capable of flight","juvenile",0,1
 "juvenile; non reproductive","juvenile",0,1
 "juvenile; not breeding","juvenile",0,1
+"L",,0,0
 "L  testis = 8 x 4 mm",,0,0
 "L testes = 12 x 5 mm",,0,0
 "L testis = 2 x 1 mm",,0,0
@@ -12889,6 +13086,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "L testis= damaged; R testis= 4x10 mm (black)",,0,0
 "l. testes= 3x8mm",,0,0
 "L.T. 4.0mm",,0,0
+"L; NE",,0,0
 "L=0.4 / R=0.5 kg",,0,0
 "L-1; R-1; C-30",,0,0
 "lac","lactating",0,1
@@ -12980,6 +13178,9 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "lactating","lactating",1,1
 "lactating (0,0)",,0,0
 "lactating (no emb.)",,0,0
+"lactating ?",,0,0
+"lactating ?; parous",,0,0
+"lactating ?; young female attached",,0,0
 "lactating, 2R, 3L embryos",,0,0
 "lactating, 3 embs.",,0,0
 "lactating, 4 embryos 2R2L, x27",,0,0
@@ -12996,7 +13197,89 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "lactating, pregnant",,0,0
 "Lactating, scars","lactating, scars",1,1
 "lactating,m FPG-21 days",,0,0
+"lactating;  4 PLAC SC",,0,0
+"lactating;  MAMMARY TISSUE LIGHT; vagina imperforate; plac scar",,0,0
+"lactating; 1 emb; CR-98",,0,0
+"lactating; 1 young",,0,0
+"lactating; 1 youngL; young female attached TO BREAST",,0,0
+"lactating; 12 WELL DEVELOPED teats",,0,0
+"lactating; 2 plac scar",,0,0
+"lactating; 2 young",,0,0
+"lactating; 3 plac scar",,0,0
+"lactating; 3 plac scar; mother of ROMM 20474",,0,0
+"lactating; 3 pouch young; mother of ROMM 74049, 74080, 74081",,0,0
+"lactating; 4 plac scar",,0,0
+"lactating; 4 SWELLINGS",,0,0
+"lactating; 4 young",,0,0
+"lactating; 4 young; mother of ROMM 12361, 12362, 12363, 12364",,0,0
+"lactating; 5 plac scar",,0,0
+"lactating; 5 young",,0,0
+"lactating; 6 emb",,0,0
+"lactating; 6 plac scar",,0,0
+"lactating; 6 plac scar; 2 sets",,0,0
+"lactating; 6 SWELLINGS",,0,0
+"lactating; 6 young",,0,0
+"lactating; 7 plac scar",,0,0
+"lactating; 8 N",,0,0
+"lactating; 8 NIPPLES",,0,0
+"lactating; 8 plac scar",,0,0
+"lactating; 9 plac scar",,0,0
+"lactating; mammary tissue present",,0,0
+"lactating; mammary tissue present; vagina perforate; plac scar 3L 3R",,0,0
+"lactating; mammary tissue present; vagina perforate; plac scar 4L 4R",,0,0
+"lactating; mother of ROMM 69850",,0,0
+"lactating; mother of ROMM 77231 AND 77235; twins",,0,0
+"lactating; mother of ROMM 78250",,0,0
+"lactating; mother of ROMM 78686",,0,0
+"lactating; mother of ROMM 78974",,0,0
+"lactating; mother of ROMM 86311",,0,0
+"lactating; mother of ROMM 8642, FN21815; caught carrying young",,0,0
+"lactating; mother of ROMM 98704",,0,0
+"lactating; no em; 4 plac scar",,0,0
+"lactating; no em; 5 plac scar",,0,0
+"lactating; no em; 6 plac scar",,0,0
+"lactating; no emb",,0,0
+"lactating; no emb; 2 plac scar",,0,0
+"lactating; no emb; 3 plac scar",,0,0
+"lactating; no emb; 8 plac scar",,0,0
+"lactating; no emb; 9 plac scar",,0,0
+"lactating; nulliparous",,0,0
+"lactating; nursing",,0,0
+"lactating; OVAR 7L, 7R",,0,0
+"lactating; parous",,0,0
+"lactating; plac scar",,0,0
+"lactating; plac scar 1L 1R",,0,0
+"lactating; plac scar 1L 3R",,0,0
+"lactating; plac scar 2L",,0,0
+"lactating; plac scar 2L 1R",,0,0
+"lactating; plac scar 2L 2R",,0,0
+"lactating; plac scar 2L 2R; mammary tissue present",,0,0
+"lactating; plac scar 2L 3R",,0,0
+"lactating; plac scar 2L 4R",,0,0
+"lactating; plac scar 3L 2R",,0,0
+"lactating; plac scar 3L 4R",,0,0
+"lactating; plac scar 4L 1R",,0,0
+"lactating; plac scar 4L 3R",,0,0
+"lactating; plac scar 4L 4R",,0,0
+"lactating; plac scar 5L 3R",,0,0
+"lactating; plac scar LIGHT",,0,0
+"lactating; placental scars; mammary tissue present with MImilkLK",,0,0
+"lactating; pregnant",,0,0
+"lactating; pregnant ?; 5 emb ?",,0,0
 "Lactating; scars present",,0,0
+"lactating; teats visible; mammary tissue present",,0,0
+"lactating; teats visible; mammary tissue present; vagina perforate; plac scar 2R",,0,0
+"lactating; teats visible; mammary tissue present; vagina perforate; plac scar 3R",,0,0
+"lactating; vagina imperforate",,0,0
+"lactating; vagina imperforate; 5 plac scar, light",,0,0
+"lactating; vagina imperforate; plac scar",,0,0
+"lactating; vagina imperforate; plac scar 2L 2R",,0,0
+"lactating; vagina imperforate; plac scar 4L 3R",,0,0
+"lactating; vagina imperforate; plac scar 6L 6R",,0,0
+"lactating; vagina perforate; 4 emb; 4 plac scar",,0,0
+"lactating; vagina perforate; plac scar 3L 3R",,0,0
+"lactating; vagina perforate; plac scar 3L 4R",,0,0
+"lactating; vagina perforate; plac scar 4L 1R",,0,0
 "lagst ovum = 1 mm",,0,0
 "laid 2 eggs",,0,0
 "laid eggs",,0,0
@@ -13196,9 +13479,17 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "mammae 1:2 = 6",,0,0
 "mammae 2+2",,0,0
 "mammae 2p +4",,0,0
+"mammae enlarged",,0,0
+"mammae enlarged; had been nursing",,0,0
+"mammae enlarged; Post lactating",,0,0
 "mammae: 1 + 2 = 6",,0,0
+"mammary tissue present",,0,0
+"mammary tissue present; lactating",,0,0
+"mammary tissue present; not lactating",,0,0
+"mammary tissue present; not lactating; teats visible",,0,0
 "mammory glands enlarged",,0,0
 "many placental scars",,0,0
+"mate to ROMM 16982; FATHER OF ROMM 16977-16981, 19281-19282",,0,0
 "mature",,0,0
 "mature breeding condition",,0,0
 "MI",,0,1
@@ -13213,12 +13504,46 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Mo Embryo",,0,0
 "mod. large testes",,0,0
 "mod-large testes",,0,0
+"mother of ROMM 100763, FN34405",,0,0
+"mother of ROMM 12552, 12553",,0,0
+"mother of ROMM 14085, 14086, 14087, 14088",,0,0
+"mother of ROMM 16256, 16257, 16258, 16259, 16260",,0,0
+"mother of ROMM 19767",,0,0
+"mother of ROMM 20976, 20980, 20984",,0,0
+"mother of ROMM 2311080007; TWO young TAKEN WITH SPECIMEN",,0,0
+"mother of ROMM 24818, 24819",,0,0
+"mother of ROMM 32005",,0,0
+"mother of ROMM 3506170019",,0,0
+"mother of ROMM 3508010219, 3508010220",,0,0
+"mother of ROMM 45552",,0,0
+"mother of ROMM 45554",,0,0
+"mother of ROMM 45796",,0,0
+"mother of ROMM 50861",,0,0
+"mother of ROMM 68282",,0,0
+"mother of ROMM 77228, 77229",,0,0
+"mother of ROMM 78285",,0,0
+"mother of ROMM 78286, 78287",,0,0
+"mother of ROMM 78289, 78290",,0,0
+"mother of ROMM 78704",,0,0
+"mother of ROMM 97266-97269, FN33569-33572",,0,0
+"moult",,0,0
+"moult on dorsum, testes-4X8",,0,0
+"moulting",,0,0
+"moulting, testes-5X10",,0,0
 "multiple early stage ova",,0,0
+"musch adipose",,0,0
 "N","unknown",0,1
+"NE",,0,0
+"NE; lact",,0,0
+"NE; NO PLAC SC",,0,0
 "Neonato",,0,1
 "nesting",,0,0
 "nesting ?",,0,0
 "new eggs",,0,0
+"nipple prominent",,0,0
+"nipple showing",,0,0
+"nipple showing; Mammal tissue developed",,0,0
+"nipple showing; well developed thick reproductive tract",,0,0
 "nipples and mammaries indicate nursing",,0,0
 "nipples and uterus enlarged, 2R, 2L scars",,0,0
 "nipples and uterus enlarged, no embryos, no scars",,0,0
@@ -13231,6 +13556,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "NL, NR",,0,0
 "no developing ova",,0,0
 "no emb","not pregnant",0,1
+"no emb ?",,0,0
 "no emb or plac scars",,0,0
 "no emb, mammae = 2pec, 2ing",,0,0
 "no emb, mammae 2 pr ing = 4",,0,0
@@ -13251,6 +13577,73 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "no emb.; lactating",,0,0
 "no emb/2recent scars on V",,0,0
 "no emb/no lact",,0,0
+"no emb; 1 neonate; mother of ROMM 98800",,0,0
+"no emb; 1 plac scar",,0,0
+"no emb; 11 plac scar",,0,0
+"no emb; 11 plac scar; lactating",,0,0
+"no emb; 12 plac scar",,0,0
+"no emb; 12 plac scar; lactating",,0,0
+"no emb; 2 PLAC SC",,0,0
+"no emb; 2 plac scar",,0,0
+"no emb; 2 plac scar; lactating",,0,0
+"no emb; 3 plac scar",,0,0
+"no emb; 3 plac scar; lactating",,0,0
+"no emb; 4 neonate; 4 plac scar",,0,0
+"no emb; 4 plac scar",,0,0
+"no emb; 4 plac scar;",,0,0
+"no emb; 4 plac scar; lactating",,0,0
+"no emb; 4 pouch young; TL-36",,0,0
+"no emb; 4 pouch young; TL-97",,0,0
+"no emb; 5 plac scar",,0,0
+"no emb; 5 plac scar; lactating",,0,0
+"no emb; 5 pouch young",,0,0
+"no emb; 5 pouch young; CR-112",,0,0
+"no emb; 6 plac scar",,0,0
+"no emb; 6 plac scar; 2 sets",,0,0
+"no emb; 6 plac scar; lactating",,0,0
+"no emb; 7 plac scar",,0,0
+"no emb; 7 plac scar; lactating",,0,0
+"no emb; 7 pouch young; CR-57",,0,0
+"no emb; 8 plac scar",,0,0
+"no emb; 8 plac scar; lactating",,0,0
+"no emb; 8 young",,0,0
+"no emb; 9 plac scar",,0,0
+"no emb; 9 plac scar; lactating",,0,0
+"no emb; 9 pouch young",,0,0
+"no emb; 9 pouch young; CR-185",,0,0
+"no emb; lactating",,0,0
+"no emb; lactating ?",,0,0
+"no emb; lactating; 2 plac scar",,0,0
+"no emb; lactating; 3 plac scar",,0,0
+"no emb; lactating; 3 plac scar; 3 young",,0,0
+"no emb; lactating; 5 PLAC SC; 2 sets",,0,0
+"no emb; lactating; 5 plac scar",,0,0
+"no emb; lactating; 7 plac scar",,0,0
+"no emb; lactating; mother of ROMM 107915",,0,0
+"no emb; lactating; mother of ROMM 107917",,0,0
+"no emb; lactating; mother of ROMM 98770",,0,0
+"no emb; lactating; parous",,0,0
+"no emb; lactating; plac scar",,0,0
+"no emb; lactating; plac scar; 2 sets",,0,0
+"no emb; mother of F43035, young not accessed",,0,0
+"no emb; mother of ROMM 96700, 96702-96704, FN32126, 32128-32130",,0,0
+"no emb; nulliparous",,0,0
+"no emb; parous",,0,0
+"no emb; parous; lactating",,0,0
+"no emb; plac scar",,0,0
+"no emb; plac scar; 2 sets",,0,0
+"no emb; plac scar; lactating",,0,0
+"no emb; plapostc scar; mother of 20362, COLN 4606",,0,0
+"no emb; post lactating",,0,0
+"no emb; PRIMIparous",,0,0
+"no emb; sibling of  ROMM 20795",,0,0
+"no emb; small alse",,0,0
+"no emb; SWOLLEN FLACID UTERUS",,0,0
+"no emb; SWOLLEN UTERUS",,0,0
+"no emb; UTERUS SWOLLEN",,0,0
+"no emb; VERY SMALL FALSE NIPPLES",,0,0
+"no emb; young OF ROMM 107918",,0,0
+"no emb; young OF ROMM 59113",,0,0
 "no embarazada","not pregnant",0,1
 "No embry",,0,0
 "No embryo",,0,0
@@ -13327,8 +13720,13 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "No lact",,0,0
 "No lact, no embs",,0,0
 "No Lact; 1 emb",,0,0
+"NO MOULT",,0,0
+"NO MOULT, 4 emb; CR-7",,0,0
+"NO nipple showing",,0,0
+"NO NIPPLES APPARENT",,0,0
 "no ova",,0,0
 "no ovarian follicles",,0,0
+"NO plac scar",,0,0
 "no placental scars",,0,0
 "no pouch young",,0,0
 "no preñ, no lac","non-lactating, not pregnant",0,1
@@ -13337,6 +13735,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "no scars or embryos",,0,0
 "No scars; nips. large",,0,0
 "no signs of sexual activity",,0,0
+"NO testes; NO epididymis; NO PENIS",,0,0
 "no vis. embryo",,0,0
 "no visable embryo",,0,0
 "no visble embryos",,0,0
@@ -13398,18 +13797,39 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "not lact.; one sm. embryo",,0,0
 "not lactating",,0,0
 "not lactating, no embryos",,0,0
+"not MOULTING, testes-11X7",,0,0
 "not observed",,0,0
 "not pert, t = 13 X 8 & 15",,0,0
 "not pert.",,0,0
 "not pert., no emb",,0,0
 "not pert., no emb.",,0,0
 "not preg.",,0,0
+"not pregnant; not lactating",,0,0
+"not pregnant; not lactating; HAD SUCKLED young",,0,0
+"not pregnant; not lactating; mammary tissue present",,0,0
+"not pregnant; not lactating; mammary tissue present; NIPPLES INDICATE PREVIOUS LACTATION",,0,0
+"not pregnant; not lactating; no emb; UTERUS not enlarged; MILK LINE WELL DEVELOPED",,0,0
+"not pregnant; not lactating; NO plac scar",,0,0
+"not pregnant; not lactating; plac scar",,0,0
+"not pregnant; not lactating; plac scar 7L 7R",,0,0
+"not pregnant; not lactating; teats visible",,0,0
+"not pregnant; not lactating; UTERUS MINUTE",,0,0
+"not pregnant; not lactating; UTERUS VERY SMALL",,0,0
+"not pregnant; not lactating; vagina imperforate",,0,0
+"not pregnant; not lactating; vagina perforate; plac scar",,0,0
 "Not present",,0,0
 "not reproductively active",,0,0
 "NR, NL",,0,0
 "NS",,0,0
 "Nuliparous",,0,0
+"NULLI parous",,0,0
 "Nulliparous",,0,0
+"nulliparous ?",,0,0
+"nulliparous; 1 PLAC  SC",,0,0
+"nulliparous; lactating",,0,0
+"nulliparous; no emb",,0,0
+"nulliparous; ORIGINAL ID AS A MALE",,0,0
+"nulliparous; pregnant ?",,0,0
 "Nulliparus",,0,0
 "Nurs; 4@48",,0,0
 "nursing","nursing",1,1
@@ -13421,7 +13841,10 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "O.S.E.",,0,0
 "old female? (antlers?)",,0,0
 "Old Male",,0,0
+"old plac scar; teats worn",,0,0
+"on rocky Lichen covered slope under Red Pine",,0,0
 "one lg. embryo",,0,0
+"one testis internal",,0,0
 "only one testicle enlarged",,0,0
 "Oocyte 2.9",,0,0
 "organ small",,0,0
@@ -13519,6 +13942,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "ovaries granular",,0,0
 "ovaries granular <1mm",,0,0
 "ovaries healthy, not enlarged",,0,0
+"ovaries L-2, R-1.5",,0,0
+"ovaries L-2, R-3",,0,0
 "ovaries much enlarged",,0,0
 "ovaries not enlarged",,0,0
 "ovaries not granular",,0,0
@@ -13534,6 +13959,23 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "ovaries very granular",,0,0
 "ovaries very slightly developed",,0,0
 "ovaries very small",,0,0
+"ovaries WT- 0.35",,0,0
+"ovaries WT-0.22",,0,0
+"ovaries WT-0.25",,0,0
+"ovaries WT-0.26",,0,0
+"ovaries WT-0.3",,0,0
+"ovaries WT-0.30",,0,0
+"ovaries WT-0.31",,0,0
+"ovaries WT-0.33",,0,0
+"ovaries WT-0.34",,0,0
+"ovaries WT-0.37",,0,0
+"ovaries WT-0.38",,0,0
+"ovaries WT-0.43",,0,0
+"ovaries WT-0.62",,0,0
+"ovaries WT-0.65",,0,0
+"ovaries WT-0.7",,0,0
+"ovaries WT-0.91",,0,0
+"ovaries WT-1.12",,0,0
 "ovaries= 4x13mm",,0,0
 "ovaries= 7.1x9.1mm",,0,0
 "ovary (left) = 2x5mm",,0,0
@@ -13686,6 +14128,11 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "ovary very granular",,0,0
 "ovary very granular *",,0,0
 "ovary with follicles",,0,0
+"OVARY WT-0.24",,0,0
+"OVARY WT-0.34",,0,0
+"OVARY WT-0.4",,0,0
+"OVARY WT-0.41",,0,0
+"OVARY WT-0.47",,0,0
 "ovary, largest ovum <1mm",,0,0
 "ovary: 20 x 9 mm, largest ovum: 3 mm",,0,0
 "ovary; largest follicle 8 mm",,0,0
@@ -13725,6 +14172,10 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "ovum 16mm",,0,0
 "ovum 17mm",,0,0
 "ovum small",,0,0
+"P",,0,0
+"P; 1 emb; CR-25",,0,0
+"P; 1 emb; CR-5",,0,0
+"P; 6 embS; CR-10; 4L 2R",,0,0
 "Pac scars",,0,0
 "Pac scars: 3(R)&2(L)",,0,0
 "Pac scars:3(R);2(L)",,0,0
@@ -13737,6 +14188,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Par; 5embs:3(R)&2(L)=21mm",,0,0
 "Par; 6 embs:3(R)&3(L)=5mm",,0,0
 "Parous",,0,0
+"parous ?",,0,0
 "Parous, lact",,0,0
 "parous, lactating",,0,0
 "Parous, no embryos",,0,0
@@ -13744,12 +14196,20 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Parous, no embs, no scars",,0,0
 "Parous, plac scars:3l,2r",,0,0
 "Parous, scars present",,0,0
+"parous; 2 emb ON EACH SIDE",,0,0
 "Parous; 4 embs:1(R)&3(L)",,0,0
 "Parous; 4 embs:4(R)&0(L)",,0,0
+"parous; 4 plac scar",,0,0
 "Parous; 5 embs:(R)=10mm",,0,0
+"parous; 5 plac scar",,0,0
+"parous; MULTIparous",,0,0
+"parous; no emb",,0,0
+"parous; no emb; 2 plac scar",,0,0
+"parous; no emb; lactating",,0,0
 "Parous; no embs",,0,0
 "Parous; no embs; lact.",,0,0
 "Parous; no pac. scars",,0,0
+"parous; plac scar",,0,0
 "perf.",,0,0
 "perf., no emb.",,0,0
 "pert = 8 cm/cr 16 mm",,0,0
@@ -13758,6 +14218,28 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "pert., 2 emb., cr = 18 mm",,0,0
 "pert., no emb",,0,0
 "pert., no emb.",,0,0
+"plac scar",,0,0
+"plac scar ?",,0,0
+"plac scar 1L",,0,0
+"plac scar 5 sets",,0,0
+"plac scar PRESENT",,0,0
+"plac scar; lactating",,0,0
+"plac scar; mammary tissue present; lactating",,0,0
+"plac scar; mammary tissue present; not lactating",,0,0
+"plac scar; mammary tissue present; not lactating; teats visible",,0,0
+"plac scar; mammary tissue present; not lactating; teats worn",,0,0
+"plac scar-2; CR-4",,0,0
+"plac scar-3; lactating",,0,0
+"plac scar-4",,0,0
+"plac scar-4; lactating",,0,0
+"plac scar-5",,0,0
+"plac scar-5; lactating",,0,0
+"plac scar-6",,0,0
+"plac scar-7",,0,0
+"plac scar-7; lactating",,0,0
+"plac scar-8",,0,0
+"plac scar-8; lactating",,0,0
+"plac scar-9; lactating",,0,0
 "plac scars",,0,0
 "Plac scars: 2(R)&2(L)",,0,0
 "placental scars",,0,0
@@ -13766,14 +14248,17 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Placental scars: 4rt,5lf",,0,0
 "possible testes= 2x11mm",,0,0
 "post 5 emb., lactating X 5",,0,0
+"post LAC",,0,0
 "post lac. no embryos",,0,0
 "post lact.",,0,0
 "post lact., no emb.",,0,0
 "Post lact; no embs",,0,0
 "Post lactating",,0,0
+"post lactating ?",,0,0
 "POSTLAC","post-lactating",0,1
 "post-lactating",,0,0
 "post-lactating, 3 scars R",,0,0
+"post-partum",,0,0
 "post-partum scars 2R 3L",,0,0
 "preg",,0,0
 "Preg ?",,0,0
@@ -13791,7 +14276,13 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Preg; 4 embs: CR=6mm",,0,0
 "Preg; large nip.; 4 embs",,0,0
 "pregnant","pregnant",1,1
+"pregnant ?",,0,0
+"pregnant ?; 5 emb ?",,0,0
+"pregnant ?; 6 emb ?",,0,0
+"pregnant ?; lactating; parous",,0,0
+"pregnant ?; parous",,0,0
 "pregnant emb.",,0,0
+"pregnant or lactating",,0,0
 "pregnant,  1 (?) embryo",,0,0
 "pregnant, ~3 embryos",,0,0
 "Pregnant, 1 embryo",,0,0
@@ -13805,9 +14296,778 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Pregnant, 8@9",,0,0
 "pregnant, embryos in alc",,0,0
 "pregnant: 4 embryos",,0,0
+"pregnant; 1 blastocust",,0,0
+"pregnant; 1 emb",,0,0
+"pregnant; 1 emb 0L 1R; CR-18; resorbed emb 1R; 2 plac scar 1L 1R",,0,0
+"pregnant; 1 emb 1R",,0,0
+"pregnant; 1 emb; aborted",,0,0
+"pregnant; 1 emb; aborted; CR-33; emb WT-2",,0,0
+"pregnant; 1 emb; aborted; WT-3.2; CR-30",,0,0
+"pregnant; 1 emb; aborting",,0,0
+"pregnant; 1 emb; born in bag",,0,0
+"pregnant; 1 emb; CR-1",,0,0
+"pregnant; 1 emb; CR-1.5",,0,0
+"pregnant; 1 emb; CR-1; aborted 19791025",,0,0
+"pregnant; 1 emb; CR-10",,0,0
+"pregnant; 1 emb; CR-10; aborted overnight",,0,0
+"pregnant; 1 emb; CR-10; lactating",,0,0
+"pregnant; 1 emb; CR-104",,0,0
+"pregnant; 1 emb; CR-108",,0,0
+"pregnant; 1 emb; CR-11",,0,0
+"pregnant; 1 emb; CR-11.3",,0,0
+"pregnant; 1 emb; CR-110",,0,0
+"pregnant; 1 emb; CR-12",,0,0
+"pregnant; 1 emb; CR-12;",,0,0
+"pregnant; 1 emb; CR-13",,0,0
+"pregnant; 1 emb; CR-13;",,0,0
+"pregnant; 1 emb; CR-14",,0,0
+"pregnant; 1 emb; CR-14.0",,0,0
+"pregnant; 1 emb; CR-14; 1 plac scar",,0,0
+"pregnant; 1 emb; CR-140",,0,0
+"pregnant; 1 emb; CR-15",,0,0
+"pregnant; 1 emb; CR-15; non lactating",,0,0
+"pregnant; 1 emb; CR-16",,0,0
+"pregnant; 1 emb; CR-16; lactating",,0,0
+"pregnant; 1 emb; CR-17",,0,0
+"pregnant; 1 emb; CR-178",,0,0
+"pregnant; 1 emb; CR-18",,0,0
+"pregnant; 1 emb; CR-18.4",,0,0
+"pregnant; 1 emb; CR-18; emb WT-1.0",,0,0
+"pregnant; 1 emb; CR-19",,0,0
+"pregnant; 1 emb; CR-19; aborted",,0,0
+"pregnant; 1 emb; CR-19; lactating",,0,0
+"pregnant; 1 emb; CR-2",,0,0
+"pregnant; 1 emb; CR-2.8; emb WT-3.2; mother of ROMM 33614A; not given own CN",,0,0
+"pregnant; 1 emb; CR-20",,0,0
+"pregnant; 1 emb; CR-20; lactating",,0,0
+"pregnant; 1 emb; CR-21",,0,0
+"pregnant; 1 emb; CR-22",,0,0
+"pregnant; 1 emb; CR-22; lactating",,0,0
+"pregnant; 1 emb; CR-23",,0,0
+"pregnant; 1 emb; CR-24",,0,0
+"pregnant; 1 emb; CR-25",,0,0
+"pregnant; 1 emb; CR-25; lactating",,0,0
+"pregnant; 1 emb; CR-26",,0,0
+"pregnant; 1 emb; CR-26; lactating",,0,0
+"pregnant; 1 emb; CR-27",,0,0
+"pregnant; 1 emb; CR-27; emb WT-37",,0,0
+"pregnant; 1 emb; CR-28",,0,0
+"pregnant; 1 emb; CR-28; 1 plac scar",,0,0
+"pregnant; 1 emb; CR-29",,0,0
+"pregnant; 1 emb; CR-29; emb WT-4.3; mother of ROMM 91191, REM2379",,0,0
+"pregnant; 1 emb; CR-3",,0,0
+"pregnant; 1 emb; CR-30",,0,0
+"pregnant; 1 emb; CR-30; mother of ROMM 75039",,0,0
+"pregnant; 1 emb; CR-31",,0,0
+"pregnant; 1 emb; CR-32",,0,0
+"pregnant; 1 emb; CR-33",,0,0
+"pregnant; 1 emb; CR-33.3; emb WT-5.5",,0,0
+"pregnant; 1 emb; CR-34",,0,0
+"pregnant; 1 emb; CR-35",,0,0
+"pregnant; 1 emb; CR-36",,0,0
+"pregnant; 1 emb; CR-37",,0,0
+"pregnant; 1 emb; CR-38",,0,0
+"pregnant; 1 emb; CR-39",,0,0
+"pregnant; 1 emb; CR-4",,0,0
+"pregnant; 1 emb; CR-4; lactating",,0,0
+"pregnant; 1 emb; CR-40",,0,0
+"pregnant; 1 emb; CR-42",,0,0
+"pregnant; 1 emb; CR-43",,0,0
+"pregnant; 1 emb; CR-45",,0,0
+"pregnant; 1 emb; CR-45; aborted",,0,0
+"pregnant; 1 emb; CR-48; lactating",,0,0
+"pregnant; 1 emb; CR-5",,0,0
+"pregnant; 1 emb; CR-5.5",,0,0
+"pregnant; 1 emb; CR-50",,0,0
+"pregnant; 1 emb; CR-51",,0,0
+"pregnant; 1 emb; CR-516; emb 516-41-210-44; emb WT-2835",,0,0
+"pregnant; 1 emb; CR-54",,0,0
+"pregnant; 1 emb; CR-55",,0,0
+"pregnant; 1 emb; CR-59",,0,0
+"pregnant; 1 emb; CR-6",,0,0
+"pregnant; 1 emb; CR-6; 1 plac scar",,0,0
+"pregnant; 1 emb; CR-6; lactating",,0,0
+"pregnant; 1 emb; CR-7",,0,0
+"pregnant; 1 emb; CR-7; lactating",,0,0
+"pregnant; 1 emb; CR-74; emb W-25; emb WT-4.8",,0,0
+"pregnant; 1 emb; CR-8",,0,0
+"pregnant; 1 emb; CR-8.5",,0,0
+"pregnant; 1 emb; CR-8; lactating",,0,0
+"pregnant; 1 emb; CR-85",,0,0
+"pregnant; 1 emb; CR-9",,0,0
+"pregnant; 1 emb; CR-9.8",,0,0
+"pregnant; 1 emb; CR-9; lactating",,0,0
+"pregnant; 1 emb; emb male",,0,0
+"pregnant; 1 emb; emb male; emb MTS-95-54-19",,0,0
+"pregnant; 1 emb; emb WT-1",,0,0
+"pregnant; 1 emb; emb WT-1.4",,0,0
+"pregnant; 1 emb; emb WT-16",,0,0
+"pregnant; 1 emb; emb WT-2.4",,0,0
+"pregnant; 1 emb; emb WT-2.6",,0,0
+"pregnant; 1 emb; emb WT-4.2",,0,0
+"pregnant; 1 emb; embryo male; C 70-9-18-13; FA-32.0",,0,0
+"pregnant; 1 emb; embryo saved",,0,0
+"pregnant; 1 emb; lactating",,0,0
+"pregnant; 1 emb; mother of ROMM 20586",,0,0
+"pregnant; 1 emb; mother of ROMM 42920",,0,0
+"pregnant; 1 emb; mother of ROMM 60456",,0,0
+"pregnant; 1 emb; mother of ROMM 77457",,0,0
+"pregnant; 1 emb; mother of ROMM 85985",,0,0
+"pregnant; 1 emb; parturition just before capture",,0,0
+"pregnant; 1 emb; ROM 85987; CR-27",,0,0
+"pregnant; 1 emb; ROM 85989",,0,0
+"pregnant; 1 emb; WT-0.5",,0,0
+"pregnant; 1 emb; WT-2.22",,0,0
+"pregnant; 1 emb; WT-2.38",,0,0
+"pregnant; 1 emb; WT-4.2",,0,0
+"pregnant; 1 emb;CR-13",,0,0
+"pregnant; 1 young; CR-32",,0,0
+"pregnant; 10 emb",,0,0
+"pregnant; 10 emb 4L 6R",,0,0
+"pregnant; 10 emb 5L 5R",,0,0
+"pregnant; 10 emb 6L 4R",,0,0
+"pregnant; 10 emb 7L 3R",,0,0
+"pregnant; 10 emb; CR-19",,0,0
+"pregnant; 10 emb; CR-2",,0,0
+"pregnant; 11 emb",,0,0
+"pregnant; 11 emb 4L 7R",,0,0
+"pregnant; 11 emb 5L 6R",,0,0
+"pregnant; 11 emb 6L 5R",,0,0
+"pregnant; 11 emb 8L 3R",,0,0
+"pregnant; 11 emb 9L 2R",,0,0
+"pregnant; 12 emb 5L 7R",,0,0
+"pregnant; 12 emb 6L 6R",,0,0
+"pregnant; 12 emb 7L 5R",,0,0
+"pregnant; 13 emb",,0,0
+"pregnant; 13 emb 5L 8R",,0,0
+"pregnant; 14 emb",,0,0
+"pregnant; 14 emb 6L 8R",,0,0
+"pregnant; 14 emb; CR-6",,0,0
+"pregnant; 15 emb 10L 5R",,0,0
+"pregnant; 15 emb 6L 9R",,0,0
+"pregnant; 15 emb 7L 8R",,0,0
+"pregnant; 15 emb 9L 6R",,0,0
+"pregnant; 16 emb",,0,0
+"pregnant; 16 emb 7L 9R",,0,0
+"pregnant; 16 emb 9L 7R",,0,0
+"pregnant; 17 emb 9L 8R",,0,0
+"pregnant; 18 emb 10L 8R",,0,0
+"pregnant; 2 blastocysts",,0,0
+"pregnant; '2 ehsh present'",,0,0
+"pregnant; 2 emb",,0,0
+"pregnant; 2 emb 1L 1R",,0,0
+"pregnant; 2 emb 1X13, 1X15",,0,0
+"pregnant; 2 emb 2L",,0,0
+"pregnant; 2 emb 2R",,0,0
+"pregnant; 2 emb; 6 plac scar",,0,0
+"pregnant; 2 emb; aborted; mother of ROMM 42745, 42746",,0,0
+"pregnant; 2 emb; CR-10",,0,0
+"pregnant; 2 emb; CR-11",,0,0
+"pregnant; 2 emb; CR-11; 3 plac scar",,0,0
+"pregnant; 2 emb; CR-12",,0,0
+"pregnant; 2 emb; CR-13",,0,0
+"pregnant; 2 emb; CR-14",,0,0
+"pregnant; 2 emb; CR-15",,0,0
+"pregnant; 2 emb; CR-16",,0,0
+"pregnant; 2 emb; CR-17",,0,0
+"pregnant; 2 emb; CR-17; 1 resorbed embryo",,0,0
+"pregnant; 2 emb; CR-17; emb W-10",,0,0
+"pregnant; 2 emb; CR-17; emb W-11",,0,0
+"pregnant; 2 emb; CR-18",,0,0
+"pregnant; 2 emb; CR-185",,0,0
+"pregnant; 2 emb; CR-190",,0,0
+"pregnant; 2 emb; CR-2",,0,0
+"pregnant; 2 emb; CR-2.0; CR-1.5",,0,0
+"pregnant; 2 emb; CR-20",,0,0
+"pregnant; 2 emb; CR-20-21",,0,0
+"pregnant; 2 emb; CR-21",,0,0
+"pregnant; 2 emb; CR-22",,0,0
+"pregnant; 2 emb; CR-23",,0,0
+"pregnant; 2 emb; CR-230; CR-220; mother of ROMM 64993, 64992",,0,0
+"pregnant; 2 emb; CR-24",,0,0
+"pregnant; 2 emb; CR-25",,0,0
+"pregnant; 2 emb; CR-26; CR-21",,0,0
+"pregnant; 2 emb; CR-27",,0,0
+"pregnant; 2 emb; CR-28",,0,0
+"pregnant; 2 emb; CR-29",,0,0
+"pregnant; 2 emb; CR-3",,0,0
+"pregnant; 2 emb; CR-30; 1 resorbed embryo",,0,0
+"pregnant; 2 emb; CR-33",,0,0
+"pregnant; 2 emb; CR-34; CR-39",,0,0
+"pregnant; 2 emb; CR-35",,0,0
+"pregnant; 2 emb; CR-36",,0,0
+"pregnant; 2 emb; CR-37",,0,0
+"pregnant; 2 emb; CR-39.5; CR-36",,0,0
+"pregnant; 2 emb; CR-4",,0,0
+"pregnant; 2 emb; CR-40",,0,0
+"pregnant; 2 emb; CR-5",,0,0
+"pregnant; 2 emb; CR-5; lactating",,0,0
+"pregnant; 2 emb; CR-50",,0,0
+"pregnant; 2 emb; CR-55",,0,0
+"pregnant; 2 emb; CR-6",,0,0
+"pregnant; 2 emb; CR-6;",,0,0
+"pregnant; 2 emb; CR-6; lactating",,0,0
+"pregnant; 2 emb; CR-65",,0,0
+"pregnant; 2 emb; CR-7",,0,0
+"pregnant; 2 emb; CR-8",,0,0
+"pregnant; 2 emb; CR-9",,0,0
+"pregnant; 2 emb; lactating",,0,0
+"pregnant; 2 emb; mother of ROMM 27469",,0,0
+"pregnant; 2 embryoS; CR-24",,0,0
+"pregnant; 2 swellings",,0,0
+"pregnant; 20 emb 7L 13R",,0,0
+"pregnant; 24 emb 12L 12R",,0,0
+"pregnant; 24 emb 13L 11R",,0,0
+"pregnant; 27 emb 10L 17R",,0,0
 "pregnant; 2R, 2L",,0,0
 "pregnant; 2R, 3L",,0,0
+"pregnant; 3 blastocysts",,0,0
+"pregnant; 3 emb",,0,0
+"pregnant; 3 emb 1L 2R",,0,0
+"pregnant; 3 emb 1L 2R; CR-10; 2 resorbed emb 2R",,0,0
+"pregnant; 3 emb 1L 2R; CR-4; plac scar 2L 2R; mammary tissue present; not lactating",,0,0
+"pregnant; 3 emb 2L 1R",,0,0
+"pregnant; 3 emb 2L 1R; CR-3",,0,0
+"pregnant; 3 emb 3L",,0,0
+"pregnant; 3 emb 3R",,0,0
+"pregnant; 3 emb; 4 plac scar",,0,0
+"pregnant; 3 emb; CR-1",,0,0
+"pregnant; 3 emb; CR-10",,0,0
+"pregnant; 3 emb; CR-105",,0,0
+"pregnant; 3 emb; CR-11",,0,0
+"pregnant; 3 emb; CR-12",,0,0
+"pregnant; 3 emb; CR-12; 1 resorbed emb",,0,0
+"pregnant; 3 emb; CR-13",,0,0
+"pregnant; 3 emb; CR-14",,0,0
+"pregnant; 3 emb; CR-14; lactating",,0,0
+"pregnant; 3 emb; CR-14; no visible milk tissue; non lactating",,0,0
+"pregnant; 3 emb; CR-15",,0,0
+"pregnant; 3 emb; CR-15; non lactating",,0,0
+"pregnant; 3 emb; CR-16",,0,0
+"pregnant; 3 emb; CR-17",,0,0
+"pregnant; 3 emb; CR-18",,0,0
+"pregnant; 3 emb; CR-2",,0,0
+"pregnant; 3 emb; CR-20",,0,0
+"pregnant; 3 emb; CR-200",,0,0
+"pregnant; 3 emb; CR-21",,0,0
+"pregnant; 3 emb; CR-21.4; CR-21.6; CR-23.5",,0,0
+"pregnant; 3 emb; CR-22",,0,0
+"pregnant; 3 emb; CR-23",,0,0
+"pregnant; 3 emb; CR-23; emb W-15",,0,0
+"pregnant; 3 emb; CR-25",,0,0
+"pregnant; 3 emb; CR-26",,0,0
+"pregnant; 3 emb; CR-28",,0,0
+"pregnant; 3 emb; CR-28; lactating",,0,0
+"pregnant; 3 emb; CR-3",,0,0
+"pregnant; 3 emb; CR-30",,0,0
+"pregnant; 3 emb; CR-32",,0,0
+"pregnant; 3 emb; CR-35",,0,0
+"pregnant; 3 emb; CR-39",,0,0
+"pregnant; 3 emb; CR-4",,0,0
+"pregnant; 3 emb; CR-40",,0,0
+"pregnant; 3 emb; CR-43",,0,0
+"pregnant; 3 emb; CR-45",,0,0
+"pregnant; 3 emb; CR-5",,0,0
+"pregnant; 3 emb; CR-50",,0,0
+"pregnant; 3 emb; CR-6",,0,0
+"pregnant; 3 emb; CR-65",,0,0
+"pregnant; 3 emb; CR-7",,0,0
+"pregnant; 3 emb; CR-7;",,0,0
+"pregnant; 3 emb; CR-7; lactating",,0,0
+"pregnant; 3 emb; CR-8",,0,0
+"pregnant; 3 emb; CR-8 ; 3 plac scar",,0,0
+"pregnant; 3 emb; CR-9",,0,0
+"pregnant; 3 emb; CR-9 ?",,0,0
+"pregnant; 3 emb; lactating",,0,0
+"pregnant; 3 emb; mammary tissue present; lactating",,0,0
+"pregnant; 3 embryos",,0,0
+"pregnant; 3 swellings",,0,0
 "pregnant; 3R, 3L",,0,0
+"pregnant; 4 emb",,0,0
+"pregnant; 4 emb 1L 3R",,0,0
+"pregnant; 4 emb 2L 2R",,0,0
+"pregnant; 4 emb 2L 2R; 1 resorbed emb; CR-32; mammary tissue present",,0,0
+"pregnant; 4 emb 2L 2R; CR-10",,0,0
+"pregnant; 4 emb 2L 2R; CR-8",,0,0
+"pregnant; 4 emb 3L 1R",,0,0
+"pregnant; 4 emb 3L 1R; CR-28",,0,0
+"pregnant; 4 emb 4L",,0,0
+"pregnant; 4 emb 4R",,0,0
+"pregnant; 4 emb 4R; 1 resorbed emb 1R; 5 plac scar",,0,0
+"pregnant; 4 emb;  lactating",,0,0
+"pregnant; 4 emb; 4 plac scar",,0,0
+"pregnant; 4 emb; 6 plac scar; CR-3",,0,0
+"pregnant; 4 emb; 6 plac scar; lactating",,0,0
+"pregnant; 4 emb; CR<1",,0,0
+"pregnant; 4 emb; CR-10",,0,0
+"pregnant; 4 emb; CR-11",,0,0
+"pregnant; 4 emb; CR-11; lactating",,0,0
+"pregnant; 4 emb; CR-12",,0,0
+"pregnant; 4 emb; CR-13",,0,0
+"pregnant; 4 emb; CR-13 C",,0,0
+"pregnant; 4 emb; CR-13; lactating",,0,0
+"pregnant; 4 emb; CR-14",,0,0
+"pregnant; 4 emb; CR-14; NON-lactating ?",,0,0
+"pregnant; 4 emb; CR-15",,0,0
+"pregnant; 4 emb; CR-15; 4 plac scar",,0,0
+"pregnant; 4 emb; CR-15; lactating",,0,0
+"pregnant; 4 emb; CR-16",,0,0
+"pregnant; 4 emb; CR-17",,0,0
+"pregnant; 4 emb; CR-17; 4 plac scar",,0,0
+"pregnant; 4 emb; CR-18",,0,0
+"pregnant; 4 emb; CR-19",,0,0
+"pregnant; 4 emb; CR-2",,0,0
+"pregnant; 4 emb; CR-20",,0,0
+"pregnant; 4 emb; CR-21",,0,0
+"pregnant; 4 emb; CR-21; CR-14; CR-14; CR-11; 2 plac scar",,0,0
+"pregnant; 4 emb; CR-22",,0,0
+"pregnant; 4 emb; CR-22; lactating",,0,0
+"pregnant; 4 emb; CR-24",,0,0
+"pregnant; 4 emb; CR-24; lactating",,0,0
+"pregnant; 4 emb; CR-25",,0,0
+"pregnant; 4 emb; CR-27",,0,0
+"pregnant; 4 emb; CR-28",,0,0
+"pregnant; 4 emb; CR-29",,0,0
+"pregnant; 4 emb; CR-3",,0,0
+"pregnant; 4 emb; CR-30",,0,0
+"pregnant; 4 emb; CR-35",,0,0
+"pregnant; 4 emb; CR-35; lactating",,0,0
+"pregnant; 4 emb; CR-39",,0,0
+"pregnant; 4 emb; CR-4",,0,0
+"pregnant; 4 emb; CR-4; lactating",,0,0
+"pregnant; 4 emb; CR-5",,0,0
+"pregnant; 4 emb; CR-5; 1 resorbed emb",,0,0
+"pregnant; 4 emb; CR-51-60",,0,0
+"pregnant; 4 emb; CR-6",,0,0
+"pregnant; 4 emb; CR-6.5",,0,0
+"pregnant; 4 emb; CR-60",,0,0
+"pregnant; 4 emb; CR-7",,0,0
+"pregnant; 4 emb; CR-7; lactating",,0,0
+"pregnant; 4 emb; CR-75",,0,0
+"pregnant; 4 emb; CR-8",,0,0
+"pregnant; 4 emb; CR-9",,0,0
+"pregnant; 4 emb; CR-9.5",,0,0
+"pregnant; 4 emb; lactating",,0,0
+"pregnant; 4 emb; OVULE SIZE 10X7",,0,0
+"pregnant; 4 plac scar",,0,0
+"pregnant; 4 swellings",,0,0
+"pregnant; 5 emb",,0,0
+"pregnant; 5 emb ?",,0,0
+"pregnant; 5 emb 1L 4R",,0,0
+"pregnant; 5 emb 1L 4R; CR-4; plac scar; mammary tissue present; not lactating",,0,0
+"pregnant; 5 emb 1L 4R; CR-7",,0,0
+"pregnant; 5 emb 2 L 3R;  CR-3",,0,0
+"pregnant; 5 emb 2L 3R",,0,0
+"pregnant; 5 emb 2L 3R; CR-12; plac scar 2L 4R; mammary tissue present; not lactating",,0,0
+"pregnant; 5 emb 2L 3R; CR-17",,0,0
+"pregnant; 5 emb 2L 3R; CR-21",,0,0
+"pregnant; 5 emb 2L 3R; CR-25",,0,0
+"pregnant; 5 emb 2L 3R; CR-25; mammary tissue present",,0,0
+"pregnant; 5 emb 2L 3R; CR-6",,0,0
+"pregnant; 5 emb 2L 3R; CR-8",,0,0
+"pregnant; 5 emb 3L 2R",,0,0
+"pregnant; 5 emb 3L 2R; CR-23",,0,0
+"pregnant; 5 emb 3L 2R; CR-24; mammary tissue present; not lactating",,0,0
+"pregnant; 5 emb 3L 2R; CR-5",,0,0
+"pregnant; 5 emb 3L 2R; lactating",,0,0
+"pregnant; 5 emb 4L 1R",,0,0
+"pregnant; 5 emb 5L",,0,0
+"pregnant; 5 emb 5R",,0,0
+"pregnant; 5 emb; CR-10",,0,0
+"pregnant; 5 emb; CR-11",,0,0
+"pregnant; 5 emb; CR-11; lactating",,0,0
+"pregnant; 5 emb; CR-12",,0,0
+"pregnant; 5 emb; CR-12;",,0,0
+"pregnant; 5 emb; CR-12; 1 resorbed embryo",,0,0
+"pregnant; 5 emb; CR-12; plac scar",,0,0
+"pregnant; 5 emb; CR-12-13",,0,0
+"pregnant; 5 emb; CR-13",,0,0
+"pregnant; 5 emb; CR-13.1",,0,0
+"pregnant; 5 emb; CR-13; lactating",,0,0
+"pregnant; 5 emb; CR-14",,0,0
+"pregnant; 5 emb; CR-14; lactating",,0,0
+"pregnant; 5 emb; CR-15",,0,0
+"pregnant; 5 emb; CR-16",,0,0
+"pregnant; 5 emb; CR-16; lactating",,0,0
+"pregnant; 5 emb; CR-17",,0,0
+"pregnant; 5 emb; CR-17; parous",,0,0
+"pregnant; 5 emb; CR-18",,0,0
+"pregnant; 5 emb; CR-19",,0,0
+"pregnant; 5 emb; CR-19; 5 plac scar; lactating",,0,0
+"pregnant; 5 emb; CR-19; lactating",,0,0
+"pregnant; 5 emb; CR-2",,0,0
+"pregnant; 5 emb; CR-2.5",,0,0
+"pregnant; 5 emb; CR-2.5; 1 plac scar",,0,0
+"pregnant; 5 emb; CR-2; lactating",,0,0
+"pregnant; 5 emb; CR-20",,0,0
+"pregnant; 5 emb; CR-20.5",,0,0
+"pregnant; 5 emb; CR-20-25; parous",,0,0
+"pregnant; 5 emb; CR-21",,0,0
+"pregnant; 5 emb; CR-22",,0,0
+"pregnant; 5 emb; CR-23",,0,0
+"pregnant; 5 emb; CR-25",,0,0
+"pregnant; 5 emb; CR-27",,0,0
+"pregnant; 5 emb; CR-29",,0,0
+"pregnant; 5 emb; CR-3",,0,0
+"pregnant; 5 emb; CR-3; 5 plac scar",,0,0
+"pregnant; 5 emb; CR-3; lactating",,0,0
+"pregnant; 5 emb; CR-32",,0,0
+"pregnant; 5 emb; CR-38",,0,0
+"pregnant; 5 emb; CR-4",,0,0
+"pregnant; 5 emb; CR-4.5",,0,0
+"pregnant; 5 emb; CR-4; lactating",,0,0
+"pregnant; 5 emb; CR-40",,0,0
+"pregnant; 5 emb; CR-41; lactating",,0,0
+"pregnant; 5 emb; CR-5",,0,0
+"pregnant; 5 emb; CR-5 ?",,0,0
+"pregnant; 5 emb; CR-5; 5 plac scar",,0,0
+"pregnant; 5 emb; CR-5; 6 plac scar",,0,0
+"pregnant; 5 emb; CR-6",,0,0
+"pregnant; 5 emb; CR-6;",,0,0
+"pregnant; 5 emb; CR-7",,0,0
+"pregnant; 5 emb; CR-8",,0,0
+"pregnant; 5 emb; CR-9",,0,0
+"pregnant; 5 emb; emb diameter 3",,0,0
+"pregnant; 5 emb; lactating",,0,0
+"pregnant; 5 emb; protuberant nipples",,0,0
+"pregnant; 5 plac scar",,0,0
+"pregnant; 5 swellings",,0,0
+"pregnant; 5 swellings; 17 mm",,0,0
+"pregnant; 6 emb",,0,0
+"pregnant; 6 emb ?",,0,0
+"pregnant; 6 emb 2L 4R",,0,0
+"pregnant; 6 emb 2L 4R; CR-19",,0,0
+"pregnant; 6 emb 2L 4R; CR-29; mammary tissue present; not lactating",,0,0
+"pregnant; 6 emb 3L 3R",,0,0
+"pregnant; 6 emb 3L 3R; CR-1; mammary tissue present",,0,0
+"pregnant; 6 emb 3L 3R; CR-1; plac scar 6",,0,0
+"pregnant; 6 emb 3L 3R; CR-3; mammary tissue present; not lactating",,0,0
+"pregnant; 6 emb 3L 3R; CR-7",,0,0
+"pregnant; 6 emb 4L 2R",,0,0
+"pregnant; 6 emb 4L 2R; CR-10; mammary tissue present; not lactating",,0,0
+"pregnant; 6 emb 4L 2R; CR-2",,0,0
+"pregnant; 6 emb 4L 2R; CR-6",,0,0
+"pregnant; 6 emb, CR-6",,0,0
+"pregnant; 6 emb; 2 R emb; CR-10",,0,0
+"pregnant; 6 emb; 2 R emb; CR-12.2",,0,0
+"pregnant; 6 emb; CR-1.7",,0,0
+"pregnant; 6 emb; CR-10",,0,0
+"pregnant; 6 emb; CR-10; 4 plac scar",,0,0
+"pregnant; 6 emb; CR-11",,0,0
+"pregnant; 6 emb; CR-12",,0,0
+"pregnant; 6 emb; CR-12; lactating",,0,0
+"pregnant; 6 emb; CR-13",,0,0
+"pregnant; 6 emb; CR-13.6",,0,0
+"pregnant; 6 emb; CR-13; lactating",,0,0
+"pregnant; 6 emb; CR-14",,0,0
+"pregnant; 6 emb; CR-14-16",,0,0
+"pregnant; 6 emb; CR-15",,0,0
+"pregnant; 6 emb; CR-15 ?",,0,0
+"pregnant; 6 emb; CR-15; CR-18",,0,0
+"pregnant; 6 emb; CR-15; lactating",,0,0
+"pregnant; 6 emb; CR-17",,0,0
+"pregnant; 6 emb; CR-17; lactating",,0,0
+"pregnant; 6 emb; CR-18",,0,0
+"pregnant; 6 emb; CR-19",,0,0
+"pregnant; 6 emb; CR-2",,0,0
+"pregnant; 6 emb; CR-20",,0,0
+"pregnant; 6 emb; CR-22",,0,0
+"pregnant; 6 emb; CR-22-25",,0,0
+"pregnant; 6 emb; CR-23",,0,0
+"pregnant; 6 emb; CR-23; lactating",,0,0
+"pregnant; 6 emb; CR-25",,0,0
+"pregnant; 6 emb; CR-27",,0,0
+"pregnant; 6 emb; CR-3",,0,0
+"pregnant; 6 emb; CR-3; 5 plac scar",,0,0
+"pregnant; 6 emb; CR-3; 6 plac scar",,0,0
+"pregnant; 6 emb; CR-3; lactating",,0,0
+"pregnant; 6 emb; CR-30",,0,0
+"pregnant; 6 emb; CR-4",,0,0
+"pregnant; 6 emb; CR-4; 5 plac scar",,0,0
+"pregnant; 6 emb; CR-40",,0,0
+"pregnant; 6 emb; CR-5",,0,0
+"pregnant; 6 emb; CR-5; 6 plac scar",,0,0
+"pregnant; 6 emb; CR-5; lactating",,0,0
+"pregnant; 6 emb; CR-6",,0,0
+"pregnant; 6 emb; CR-6; 6 plac scar",,0,0
+"pregnant; 6 emb; CR-6; lactating",,0,0
+"pregnant; 6 emb; CR-6; plac scar; lactating",,0,0
+"pregnant; 6 emb; CR-7",,0,0
+"pregnant; 6 emb; CR-70",,0,0
+"pregnant; 6 emb; CR-8",,0,0
+"pregnant; 6 emb; CR-8.5",,0,0
+"pregnant; 6 emb; CR-8; lactating",,0,0
+"pregnant; 6 emb; CR-9",,0,0
+"pregnant; 6 emb; CR-9; CR-10",,0,0
+"pregnant; 6 emb; CR-9; lactating",,0,0
+"pregnant; 6 emb; emb-6X4",,0,0
+"pregnant; 6 emb; lactating",,0,0
+"pregnant; 6 emb; plac scar",,0,0
+"pregnant; 6 emb; sexed as male in catalogue",,0,0
+"pregnant; 6 plac scar",,0,0
+"pregnant; 6 swellings",,0,0
+"pregnant; 7 emb",,0,0
+"pregnant; 7 emb 2L 5R",,0,0
+"pregnant; 7 emb 3L 4R; CR-1; mammary tissue present",,0,0
+"pregnant; 7 emb 4L 3R",,0,0
+"pregnant; 7 emb 4L 3R; CR-10; mammary tissue absent; not lactating",,0,0
+"pregnant; 7 emb 5L 2R",,0,0
+"pregnant; 7 emb 6L 1R",,0,0
+"pregnant; 7 emb 7L",,0,0
+"pregnant; 7 emb, ovary 5X4",,0,0
+"pregnant; 7 emb; 6 plac scar",,0,0
+"pregnant; 7 emb; 7 plac scar",,0,0
+"pregnant; 7 emb; CR-1",,0,0
+"pregnant; 7 emb; CR-10",,0,0
+"pregnant; 7 emb; CR-11",,0,0
+"pregnant; 7 emb; CR-11; 4 plac scar",,0,0
+"pregnant; 7 emb; CR-12",,0,0
+"pregnant; 7 emb; CR-14",,0,0
+"pregnant; 7 emb; CR-15",,0,0
+"pregnant; 7 emb; CR-16",,0,0
+"pregnant; 7 emb; CR-16; lactating",,0,0
+"pregnant; 7 emb; CR-17; lactating",,0,0
+"pregnant; 7 emb; CR-18; lactating",,0,0
+"pregnant; 7 emb; CR-2",,0,0
+"pregnant; 7 emb; CR-20",,0,0
+"pregnant; 7 emb; CR-20.5",,0,0
+"pregnant; 7 emb; CR-22",,0,0
+"pregnant; 7 emb; CR-25",,0,0
+"pregnant; 7 emb; CR-28; lactating",,0,0
+"pregnant; 7 emb; CR-3",,0,0
+"pregnant; 7 emb; CR-3.5",,0,0
+"pregnant; 7 emb; CR-3; lactating",,0,0
+"pregnant; 7 emb; CR-30",,0,0
+"pregnant; 7 emb; CR-35",,0,0
+"pregnant; 7 emb; CR-4",,0,0
+"pregnant; 7 emb; CR-4; 8 plac scar",,0,0
+"pregnant; 7 emb; CR-40",,0,0
+"pregnant; 7 emb; CR-5",,0,0
+"pregnant; 7 emb; CR-6",,0,0
+"pregnant; 7 emb; CR-6; 6 plac scar",,0,0
+"pregnant; 7 emb; CR-6; lactating",,0,0
+"pregnant; 7 emb; CR-65",,0,0
+"pregnant; 7 emb; CR-7",,0,0
+"pregnant; 7 emb; CR-8",,0,0
+"pregnant; 7 emb; CR-9",,0,0
+"pregnant; 7 emb; CR-9; lactating",,0,0
+"pregnant; 7 emb; lactating",,0,0
+"pregnant; 7 swellings",,0,0
+"pregnant; 8 emb",,0,0
+"pregnant; 8 emb 2L 6R",,0,0
+"pregnant; 8 emb 3L 5 R; CR-15; mammary tissue present; not lactating",,0,0
+"pregnant; 8 emb 3L 5 R; CR-26; mammary tissue present",,0,0
+"pregnant; 8 emb 3L 5R; CR-2",,0,0
+"pregnant; 8 emb 4L 4R",,0,0
+"pregnant; 8 emb 5L 3R",,0,0
+"pregnant; 8 emb 6L 2R",,0,0
+"pregnant; 8 emb; 2 plac scar; lactating",,0,0
+"pregnant; 8 emb; CR-10",,0,0
+"pregnant; 8 emb; CR-10; lactating",,0,0
+"pregnant; 8 emb; CR-11",,0,0
+"pregnant; 8 emb; CR-15",,0,0
+"pregnant; 8 emb; CR-19; lactating",,0,0
+"pregnant; 8 emb; CR-20",,0,0
+"pregnant; 8 emb; CR-20; lactating",,0,0
+"pregnant; 8 emb; CR-26",,0,0
+"pregnant; 8 emb; CR-28",,0,0
+"pregnant; 8 emb; CR-3; lactating",,0,0
+"pregnant; 8 emb; CR-4",,0,0
+"pregnant; 8 emb; CR-5",,0,0
+"pregnant; 8 emb; CR-7",,0,0
+"pregnant; 8 emb; CR-8",,0,0
+"pregnant; 8 emb; CR-9",,0,0
+"pregnant; 8 swellings",,0,0
+"pregnant; 8-9 plac scar",,0,0
+"pregnant; 9 emb",,0,0
+"pregnant; 9 emb 6L 3R",,0,0
+"pregnant; 9 emb; CR-2",,0,0
+"pregnant; 9 emb; CR-20",,0,0
+"pregnant; 9 emb; CR-25",,0,0
+"pregnant; 9 emb; CR-3; 8 plac scar",,0,0
+"pregnant; 9 emb; CR-4",,0,0
+"pregnant; 9 emb; CR-7",,0,0
+"pregnant; 9 swellings",,0,0
+"pregnant; aborted",,0,0
+"pregnant; aborted; mother of ROMM 56411",,0,0
+"pregnant; CARRYING young; mother of ROMM 56186, FN00737",,0,0
+"pregnant; CR-10",,0,0
+"pregnant; CR-12",,0,0
+"pregnant; CR-13",,0,0
+"pregnant; CR-13; 5 plac scar",,0,0
+"pregnant; CR-14.4",,0,0
+"pregnant; CR-14; 5 plac scar",,0,0
+"pregnant; CR-15",,0,0
+"pregnant; CR-19",,0,0
+"pregnant; CR-20",,0,0
+"pregnant; CR-22",,0,0
+"pregnant; CR-24",,0,0
+"pregnant; CR-4",,0,0
+"pregnant; CR-5; 7 plac scar",,0,0
+"pregnant; CR-6",,0,0
+"pregnant; CR-77",,0,0
+"pregnant; CR-9",,0,0
+"pregnant; early in pregnancy",,0,0
+"pregnant; emb CR?-15",,0,0
+"pregnant; emb CR?-9",,0,0
+"pregnant; emb; CR?-10",,0,0
+"pregnant; emb; CR-1; 6 plac scar",,0,0
+"pregnant; emb; CR-12",,0,0
+"pregnant; emb; CR-13; 4 plac scar",,0,0
+"pregnant; emb; CR-16",,0,0
+"pregnant; emb; CR-17",,0,0
+"pregnant; emb; CR-17; 5 plac scar",,0,0
+"pregnant; emb; CR-18",,0,0
+"pregnant; emb; CR-18; 6 plac scar",,0,0
+"pregnant; emb; CR-19; plac scar",,0,0
+"pregnant; emb; CR-22",,0,0
+"pregnant; emb; CR-3",,0,0
+"pregnant; emb; CR-3; 5 plac scar; lactating",,0,0
+"pregnant; emb; CR-33.5",,0,0
+"pregnant; emb; CR-4",,0,0
+"pregnant; emb; CR-5",,0,0
+"pregnant; emb; CR-6; 5 plac scar",,0,0
+"pregnant; foetus aborted",,0,0
+"pregnant; foetus JUST BORN; WT-2.4; CR-30",,0,0
+"pregnant; foetus REMOVED- CN 51759 (VN47B)",,0,0
+"pregnant; foetus REMOVED-CN 51760 (VN48B)",,0,0
+"pregnant; GAVE BIRTH IN BAG",,0,0
+"pregnant; IN PROCESS OF ABORTING",,0,0
+"pregnant; lactating",,0,0
+"pregnant; lactating ?; 5 emb",,0,0
+"pregnant; lactating; 1 emb; CR-20",,0,0
+"pregnant; lactating; 1 emb; CR-22",,0,0
+"pregnant; lactating; 1 emb; CR-23",,0,0
+"pregnant; lactating; 1 emb; CR-26",,0,0
+"pregnant; lactating; 1 emb; CR-28",,0,0
+"pregnant; lactating; 1 emb; CR-29",,0,0
+"pregnant; lactating; 1 emb; CR-37; lactating; 4 plac scar",,0,0
+"pregnant; lactating; 1 emb; CR-38",,0,0
+"pregnant; lactating; 1 emb; CR-8",,0,0
+"pregnant; lactating; 1 emb; mother of ROMM 77354, REM6720",,0,0
+"pregnant; lactating; 2 emb; CR-10",,0,0
+"pregnant; lactating; 2 emb; CR-18",,0,0
+"pregnant; lactating; 2 emb; CR-21",,0,0
+"pregnant; lactating; 2 emb; CR-24",,0,0
+"pregnant; lactating; 2 emb; CR-33",,0,0
+"pregnant; lactating; 3 emb",,0,0
+"pregnant; lactating; 3 emb, CR-1",,0,0
+"pregnant; lactating; 3 emb; CR-12",,0,0
+"pregnant; lactating; 3 emb; CR-13",,0,0
+"pregnant; lactating; 3 emb; CR-16",,0,0
+"pregnant; lactating; 3 emb; CR-2",,0,0
+"pregnant; lactating; 3 emb; CR-4",,0,0
+"pregnant; lactating; 3 emb; CR-5",,0,0
+"pregnant; lactating; 4 emb",,0,0
+"pregnant; lactating; 4 emb; CR-10",,0,0
+"pregnant; lactating; 4 emb; CR-11",,0,0
+"pregnant; lactating; 4 emb; CR-20",,0,0
+"pregnant; lactating; 4 emb; CR-23",,0,0
+"pregnant; lactating; 4 emb; CR-5; plac scar",,0,0
+"pregnant; lactating; 4 emb; CR-6",,0,0
+"pregnant; lactating; 4 emb; CR-9",,0,0
+"pregnant; lactating; 5 emb",,0,0
+"pregnant; lactating; 5 emb, CR-9",,0,0
+"pregnant; lactating; 5 emb; CR-15",,0,0
+"pregnant; lactating; 5 emb; CR-18",,0,0
+"pregnant; lactating; 5 plac scar 2L 3R; mammary tissue present; not lactating",,0,0
+"pregnant; lactating; 5 swellings",,0,0
+"pregnant; lactating; 6 emb",,0,0
+"pregnant; lactating; 6 emb 2L 4R; CR-10",,0,0
+"pregnant; lactating; 6 emb, CR-7",,0,0
+"pregnant; lactating; 6 emb; CR-11",,0,0
+"pregnant; lactating; 6 emb; CR-13",,0,0
+"pregnant; lactating; 6 emb; CR-18; 4 plac scar",,0,0
+"pregnant; lactating; 6 emb; CR-5",,0,0
+"pregnant; lactating; 6 emb; CR-5; 4 plac scar",,0,0
+"pregnant; lactating; 6 emb; plac scar",,0,0
+"pregnant; lactating; 6 swellings",,0,0
+"pregnant; lactating; 7 emb",,0,0
+"pregnant; lactating; 7 emb; CR-4",,0,0
+"pregnant; lactating; 7 emb; CR-5",,0,0
+"pregnant; lactating; 7 emb; plac scar",,0,0
+"pregnant; lactating; 9 emb",,0,0
+"pregnant; lactating; CR-45",,0,0
+"pregnant; lactating; CR-8; 6 plac scar",,0,0
+"pregnant; lactating; emb; CR-10; 6 plac scar; lactating",,0,0
+"pregnant; lactating; emb; CR-13; 5 plac scar; lactating",,0,0
+"pregnant; lactating; emb; CR-15; 4 plac scar; lactating",,0,0
+"pregnant; lactating; MULTIparous",,0,0
+"pregnant; lactating; parous",,0,0
+"pregnant; lactating; vagina imperforate; 8 emb; CR-6",,0,0
+"pregnant; lactating; vagina perforate; 6 emb; CR-22; mammary tissue present",,0,0
+"pregnant; large foetus",,0,0
+"pregnant; mother of ROMM 45550",,0,0
+"pregnant; nulliparous",,0,0
+"pregnant; parous",,0,0
+"pregnant; parous; 3 emb; CR-67-75",,0,0
+"pregnant; premature delivery in field, BAG-51931 (VN84B)",,0,0
+"pregnant; prmiparous",,0,0
+"pregnant; small foetus",,0,0
+"pregnant; vagina imperforate",,0,0
+"pregnant; vagina imperforate; 1 emb; CR-10",,0,0
+"pregnant; vagina imperforate; 4 emb 2L 2R; CR-5; primi",,0,0
+"pregnant; vagina imperforate; 4 emb; CR-8",,0,0
+"pregnant; vagina imperforate; 5 emb; 1 resorbed emb; CR-17",,0,0
+"pregnant; vagina imperforate; 5 emb; CR-11",,0,0
+"pregnant; vagina imperforate; 5 emb; CR-14",,0,0
+"pregnant; vagina imperforate; 6 emb; CR-18",,0,0
+"pregnant; vagina imperforate; 8 emb 4L 4R; CR-1; primi",,0,0
+"pregnant; vagina perforate",,0,0
+"pregnant; vagina perforate; 1L 2R emb; CR-10; mammary tissue present",,0,0
+"pregnant; vagina perforate; 1L 2R emb; CR-12; MAM TIS",,0,0
+"pregnant; vagina perforate; 1L 3R emb; CR-10; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 1L 4R emb; CR-15; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 1L 6R emb; CR-21; plac scar 1L; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 2L 2R emb; CR-1",,0,0
+"pregnant; vagina perforate; 2L 2R emb; CR-10; 1L R emb; mammary tissue absent; not lactating",,0,0
+"pregnant; vagina perforate; 2L 2R emb; CR-17; mammary tissue present",,0,0
+"pregnant; vagina perforate; 2L 2R emb; CR-9; 1L R emb; mammary tissue present",,0,0
+"pregnant; vagina perforate; 2L 3R emb; CR-22; 1L R emb; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 2L 3R emb; CR-24; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 2L 3R emb; CR-8; 1L R emb; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 2L 4R emb; CR-13; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 2L 4R emb; CR-15; plac scar; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 2L 4R emb; CR-16; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 2R 1L emb; CR-11; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 3 emb; CR-2.3",,0,0
+"pregnant; vagina perforate; 3L 1R emb; CR-6; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 3L 2R emb; CR-14; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 3L 3R emb; CR-11; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 3L 3R emb; CR-15; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 3L 3R emb; CR-18; mammary tissue present",,0,0
+"pregnant; vagina perforate; 3L 3R emb; CR-3; mammary tissue present",,0,0
+"pregnant; vagina perforate; 3L 3R emb; CR-5; plac scar; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 3L 3R emb; CR-7; mammary tissue present",,0,0
+"pregnant; vagina perforate; 3L 4R emb; CR-3; mammary tissue present",,0,0
+"pregnant; vagina perforate; 3L 4R emb; CR-6; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 3R 2L emb; CR-14; mammary tissue present",,0,0
+"pregnant; vagina perforate; 3R 2L emb; CR-3",,0,0
+"pregnant; vagina perforate; 4L 1R emb; CR-13; 1L R emb; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 4L 1R emb; CR-24; mammary tissue present",,0,0
+"pregnant; vagina perforate; 4L 3R emb; CR-12",,0,0
+"pregnant; vagina perforate; 4L 3R emb; CR-6; mammary tissue present",,0,0
+"pregnant; vagina perforate; 4L 3R emb; CR-9; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 4L 4R emb; CR-12; mammary tissue present",,0,0
+"pregnant; vagina perforate; 4L 4R emb; CR-13; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 4L 5R emb; CR-10; mammary tissue present",,0,0
+"pregnant; vagina perforate; 4R 1L emb; CR-13; plac scar 1L; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 4R 1L emb; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 4R 2R; CR-16; mammary tissue absent; not lactating",,0,0
+"pregnant; vagina perforate; 4R 3L emb; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 4R 3L; CR-10; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 4R 4L emb; CR-18; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 5 emb; CR-13",,0,0
+"pregnant; vagina perforate; 5L 1R emb; CR-13; plac scar; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 5L 2R emb; CR-5; plac scar; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 5L 3R emb; CR-10",,0,0
+"pregnant; vagina perforate; 5L 4R emb; CR-13; mammary tissue absent; not lactating",,0,0
+"pregnant; vagina perforate; 5R 1L emb; CR-6; 1R emb; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; 6 emb; CR-18; mammary tissue present; not lactating",,0,0
+"pregnant; vagina perforate; emb 3L 3R; CR-2",,0,0
+"pregnant; vagina perforate; emb; 2 R emb; CR-12",,0,0
+"pregnant; with 2 young born in cage",,0,0
+"pregnant; with foetus",,0,0
 "Pren","pregnant",0,1
 "preñ","pregnant",0,1
 "preñ 1 emb 11mm","pregnant",0,1
@@ -13823,10 +15083,18 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "preñ: 1 emb. 25mm izq","pregnant",0,1
 "preñada","pregnant",0,1
 "Preñada, embrion 23mm","pregnant",0,1
+"primi",,0,0
+"probably breeding",,0,0
+"produced 11 calves",,0,0
+"R testes-2X1; L testes-11X7",,0,0
 "R testis = 6 x 7 mm",,0,0
 "R testis= 17x11mm, epid -",,0,0
 "R testis= 20x13mm, epid +",,0,0
 "Recently gave birth?, no scars, enlarged nipples, no  embryos",,0,0
+"recently given birth to young",,0,0
+"recently lactating",,0,0
+"reporductive tract very small",,0,0
+"reputed litter of 13; mate of ROMM 16983; mother of ROMM 16977-16981, 19281-19282",,0,0
 "rest, 11 mm",,0,0
 "rest, 12 mm",,0,0
 "rest, 13 mm",,0,0
@@ -13909,6 +15177,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "scrotal, x15",,0,0
 "scrotal, x6",,0,0
 "scrotal, x7",,0,0
+"scrotal?",,0,0
+"see catalogue",,0,0
 "see comments",,0,0
 "see drawing on label",,0,0
 "see drawing on lable",,0,0
@@ -13941,6 +15211,22 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Sexually active",,0,0
 "shelled egg",,0,0
 "shelled egg in oviduct",,0,0
+"sibling of ROMM 11113",,0,0
+"sibling of ROMM 11114",,0,0
+"sibling of ROMM 16977-16983; SIBLING AFFILIATION MAY BE DOUBTFUL",,0,0
+"sibling of ROMM 20796",,0,0
+"sibling of ROMM 2805300228, 2805300229, 2805300230, 2805300231; SAME LITTER AS 2805300228 AND 2805300229 BUT THREE DAYS OLDER",,0,0
+"sibling of ROMM 2805300228, 2805300229, 2805300230, 2805300232; SAME LITTER AS 2805300228 AND 2805300229 BUT THREE DAYS OLDER",,0,0
+"sibling of ROMM 2805300228, 2805300229, 2805300231, 2805300032; SAME LITTER AS 2805300228 AND 2805300229 BUT THREE DAYS OLDER",,0,0
+"sibling of ROMM 2805300228, 2805300230, 280530023, 2805300232",,0,0
+"sibling of ROMM 2805300229, 2805300230, 2805300231, 2805300232",,0,0
+"sibling of ROMM 30400",,0,0
+"sibling of ROMM 32845",,0,0
+"sibling of ROMM 32846",,0,0
+"sibling of ROMM 33775, 33776",,0,0
+"sibling of ROMM 41145",,0,0
+"sibling of ROMM 41146",,0,0
+"sibling of ROMM 43482",,0,0
 "single embryo",,0,0
 "single lg. egg",,0,0
 "small",,0,0
@@ -13949,6 +15235,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "small ovaries & oviduct",,0,0
 "small ovary",,0,0
 "small oviduct",,0,0
+"small reporductive organs",,0,0
 "Small testes",,0,0
 "small white left gonad",,0,0
 "small, nesting ?",,0,0
@@ -14686,9 +15973,22 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=small",,0,0
 "T=small, regressed",,0,0
 "T=very large",,0,0
+"T-10",,0,0
+"T-12X5",,0,0
+"T-12X7",,0,0
+"T-14",,0,0
+"T-14X9",,0,0
 "T2.4x1.3","unknown",0,1
+"T-2.5",,0,0
+"T-30X15",,0,0
+"T-33X15",,0,0
+"T-38X20",,0,0
 "T3x2","unknown",0,1
+"T-3X2",,0,0
 "T3x3","unknown",0,1
+"T-4",,0,0
+"T-45X10",,0,0
+"T-45X17",,0,0
 "T4x3","unknown",0,1
 "T5","unknown",0,1
 "T5mm","unknown",0,1
@@ -14697,9 +15997,11 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T6","unknown",0,1
 "T6x4","unknown",0,1
 "T7x4","unknown",0,1
+"T-7X4",,0,0
 "T8.2","unknown",0,1
 "T8x5","unknown",0,1
 "T8x6","unknown",0,1
+"T-9",,0,0
 "TA","unknown",0,1
 "TA 3x2","unknown",0,1
 "TA 5x3","unknown",0,1
@@ -14768,6 +16070,18 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "TE 9*6","scrotal testicles",0,1
 "TE 9x5","scrotal testicles",0,1
 "TE 9x6","scrotal testicles",0,1
+"teats visible",,0,0
+"teats visible but no sign of breeding",,0,0
+"teats visible; mammary tissue present",,0,0
+"teats visible; mammary tissue present; lactating",,0,0
+"teats visible; mammary tissue present; not lactating",,0,0
+"teats visible; N",,0,0
+"teats visible; plac scar 1L 2R; mammary tissue present; not lactating",,0,0
+"teats visible; plac scar 3R 2L; mammary tissue present; lactating",,0,0
+"teats visible; plac scar; mammary tissue present; not lactating",,0,0
+"teats visible; vagina perforate",,0,0
+"teats worn",,0,0
+"teats worn; fur not worn",,0,0
 "teses= 1x1.5mm",,0,0
 "tesetes abdominal",,0,0
 "tesres = 6.5x4.5mm",,0,0
@@ -14777,7 +16091,21 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "TEST","unknown",0,1
 "test = 8mm",,0,0
 "test 21, scrotal",,0,0
+"TESTE- 13X8",,0,0
 "teste= 4.8 x 2.5mm",,0,0
+"testes - 12 X 7",,0,0
+"testes - 12 X 9",,0,0
+"testes - 14 X 9",,0,0
+"testes - 5 X 3, non-scrotal",,0,0
+"testes - 5 X 4",,0,0
+"testes - 5 X 5",,0,0
+"testes - 6 X 5",,0,0
+"testes - 7 X 7",,0,0
+"testes - 8 X 5",,0,0
+"testes - 8 X 5, scrotal",,0,0
+"testes - 9 X 5",,0,0
+"testes - 9 X 6",,0,0
+"testes - 9 X 8",,0,0
 "testes & ova *",,0,0
 "Testes ( L 16x8mm, R 11x7mm)",,0,0
 "Testes (L 12x5mm, R 11x5mm)",,0,0
@@ -14785,6 +16113,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testes (L 7x3mm, R 7x3mm)",,0,0
 "Testes (L 9x3mm, R 7x2mm)",,0,0
 "Testes (R2x1mm, L2x1mm)",,0,0
+"testes ?",,0,0
 "testes [with diagram on label]",,0,0
 "testes ~ 3x4mm *",,0,0
 "testes + 3mm",,0,0
@@ -15230,6 +16559,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes 10x5 mm",,0,0
 "testes 10x5mm",,0,0
 "testes 10x6 mm",,0,0
+"testes -11 X 7",,0,0
 "testes 11 x 8",,0,0
 "testes 12 x 25, epid +",,0,0
 "testes 12 X 6",,0,0
@@ -15373,12 +16703,14 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes 8 x 6 mm",,0,0
 "testes 8.0 x 4.2",,0,0
 "testes 8.3 x 4.3",,0,0
+"testes- 8.5",,0,0
 "testes 8mm",,0,0
 "testes 8X10",,0,0
 "testes 8X11",,0,0
 "testes 8x4 mm",,0,0
 "testes 8x4mm",,0,0
 "testes 8x5 mm",,0,0
+"testes- 9",,0,0
 "testes 9 x 5",,0,0
 "testes 9 X 5 mm",,0,0
 "testes 9 x 6",,0,0
@@ -15448,6 +16780,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes abdominal, skull not completely fused",,0,0
 "testes abdominal, sub adult",,0,0
 "testes abdominal, subadult",,0,0
+"testes abdominal, undeveloped",,0,0
 "testes abdominal, x6",,0,0
 "Testes abdominal, x8",,0,0
 "testes abdominal;  T = 3 x 1",,0,0
@@ -15459,7 +16792,10 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testes abdominal; T = 5 x 4",,0,0
 "testes abdominal; T = 6 x 2",,0,0
 "testes abdominal; T 10 mm",,0,0
+"testes abdominal; testes-2",,0,0
 "testes about 150mm",,0,0
+"testes coxs",,0,0
+"testes decomposed",,0,0
 "Testes desc., 14x31",,0,0
 "Testes desc., 15x28",,0,0
 "testes desc., 5 x 8",,0,0
@@ -15469,9 +16805,11 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes descended and large",,0,0
 "Testes descendes",,0,0
 "Testes descending",,0,0
+"testes developed",,0,0
 "testes enlarged",,0,0
 "testes enlarged [?]",,0,0
 "testes enlarged a little",,0,0
+"testes enlarged and descended, testes-12X7",,0,0
 "testes enlarged, 33mm",,0,0
 "Testes enlarged, not desc",,0,0
 "testes enlarged; 10X5mm",,0,0
@@ -15479,6 +16817,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes firm, smooth, tan",,0,0
 "testes greatly enlarged",,0,0
 "testes grey = 4.5x6.5mm",,0,0
+"testes hanging",,0,0
 "testes in inactive state",,0,0
 "testes in""inactive state""",,0,0
 "testes inguinal",,0,0
@@ -15501,15 +16840,19 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testes measured during prep 14 x 24 mm",,0,0
 "Testes minute",,0,0
 "testes moderatly enlarged",,0,0
+"testes non-scrotal",,0,0
 "Testes not descended",,0,0
 "testes not descended, 5x9 mm, epid +",,0,0
 "testes not enlarged",,0,0
 "testes not found *",,0,0
+"testes not noted",,0,0
 "testes noted",,0,0
 "testes noted (no meas)",,0,0
 "testes noted but not measured",,0,0
+"testes oval",,0,0
 "testes partially descended",,0,0
 "testes pigmented",,0,0
+"testes predated",,0,0
 "testes present",,0,0
 "testes present *",,0,0
 "testes present*",,0,0
@@ -15522,6 +16865,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes R=6x4, L=7x5 mm",,0,0
 "Testes R2x1mm, L2x1mm",,0,0
 "testes rather large",,0,0
+"testes regressed",,0,0
+"testes round",,0,0
 "testes scarcely enlarged",,0,0
 "testes scr., 7X13",,0,0
 "Testes scrotal",,0,0
@@ -15560,7 +16905,10 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes scrotal; T = 9 x 6",,0,0
 "testes scrotal; T = 9 x 7",,0,0
 "testes scrotal; T = 9mm in length",,0,0
+"testes scrotal; testes-4",,0,0
 "testes sctotal",,0,0
+"testes semiscrotal",,0,0
+"testes semiscrotal ?",,0,0
 "testes slightly enlarged",,0,0
 "testes slightly enlarged, white",,0,0
 "Testes small",,0,0
@@ -15577,6 +16925,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes undescended, 6 x 7",,0,0
 "testes undeveloped",,0,0
 "testes very large",,0,0
+"testes visible",,0,0
 "testes, left 5.5 x 3 mm",,0,0
 "Testes:  2mm",,0,0
 "testes:  Enlarged",,0,0
@@ -15599,6 +16948,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testes: R 14x7mm, L 9x5mm",,0,0
 "testes: R=5x4,L=9x5mm",,0,0
 "testes: R=8x3, L=7x3.5 mm",,0,0
+"testes; non-scrotal",,0,0
+"testes; scrotal",,0,0
 "testes? = 1 mm diam, black",,0,0
 "testes? = 1 x 4 mm, black",,0,0
 "testes? = 1.5x5.2mm",,0,0
@@ -16243,6 +17594,778 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes=L 23x10;R 21x10mm",,0,0
 "testes=L 24x10;R 21x10mm",,0,0
 "testes=L83x42, R89x52",,0,0
+"testes-0.31X0.18",,0,0
+"testes-1",,0,0
+"testes-1.3",,0,0
+"testes-1.5",,0,0
+"testes-1.5; scrotal",,0,0
+"testes-1.5X0.5; epididymis not visible",,0,0
+"testes-1.5X1",,0,0
+"testes-1.5X1.5",,0,0
+"testes-1.5X1.5; epididymis not visible",,0,0
+"testes-1.5X1; epididymis not visible",,0,0
+"testes-1.5X2; scrotal",,0,0
+"testes-1.5X3",,0,0
+"testes-1.5X7.5",,0,0
+"testes-1.7",,0,0
+"testes-1.8X1.6 R, 2.5X1.4 L",,0,0
+"testes-1; scrotal",,0,0
+"testes-10",,0,0
+"testes-10.0",,0,0
+"testes-10.5",,0,0
+"testes-10.5; scrotal",,0,0
+"testes-10.5X6",,0,0
+"testes-10.5X6.5",,0,0
+"testes-10.5X7.5",,0,0
+"testes-10; ascended",,0,0
+"testes-10; descended",,0,0
+"testes-10; left testis degenerate",,0,0
+"testes-10; non-scrotal",,0,0
+"testes-10; scrotal",,0,0
+"testes-10X12",,0,0
+"testes-10X15",,0,0
+"testes-10X16",,0,0
+"testes-10X3.5",,0,0
+"testes-10X4",,0,0
+"testes-10X4; epididymis not visible",,0,0
+"testes-10X4; non-scrotal",,0,0
+"testes-10X4; scrotal",,0,0
+"testes-10X5",,0,0
+"testes-10X5; epididymis not visible",,0,0
+"testes-10X5; non-scrotal",,0,0
+"testes-10X5; scrotal",,0,0
+"testes-10X6",,0,0
+"testes-10X6 (not documented on catalogue)",,0,0
+"testes-10X6.5",,0,0
+"testes-10X6; non-scrotal",,0,0
+"testes-10X6; scrotal",,0,0
+"testes-10X7",,0,0
+"testes-10X7; epididymis not visible",,0,0
+"testes-10X7; non-scrotal",,0,0
+"testes-10X7; scrotal",,0,0
+"testes-10X7; young of ROMM 102755",,0,0
+"testes-10X8",,0,0
+"testes-10X8; scrotal",,0,0
+"testes-10X9",,0,0
+"testes-10X9; scrotal",,0,0
+"testes-11",,0,0
+"testes-11.5",,0,0
+"testes-11.5; scrotal",,0,0
+"testes-11.5X6",,0,0
+"testes-11; abdominal",,0,0
+"testes-11; scrotal",,0,0
+"testes-11X10",,0,0
+"testes-11X4",,0,0
+"testes-11X4.5",,0,0
+"testes-11X4; non-scrotal",,0,0
+"testes-11X4; scrotal",,0,0
+"testes-11X5",,0,0
+"testes-11X5; epididymis not visible",,0,0
+"testes-11X5; non-scrotal",,0,0
+"testes-11X5; scrotal",,0,0
+"testes-11X6",,0,0
+"testes-11X6.5",,0,0
+"testes-11X6; non-scrotal",,0,0
+"testes-11X6; scrotal",,0,0
+"testes-11X7",,0,0
+"testes-11X7.5",,0,0
+"testes-11X7; epididymis not visible",,0,0
+"testes-11X7; non-scrotal",,0,0
+"testes-11X7; scrotal",,0,0
+"testes-11X8",,0,0
+"testes-11X8; scrotal",,0,0
+"testes-11X8; scrotal; Father of ROMM 97266-97269, FN33569-33572",,0,0
+"testes-11X9",,0,0
+"testes-12",,0,0
+"testes-12.0",,0,0
+"testes-12.5",,0,0
+"testes-12.5; scrotal",,0,0
+"testes-12; scrotal",,0,0
+"testes-12X10",,0,0
+"testes-12X10; epididymis not visible",,0,0
+"testes-12X10; scrotal",,0,0
+"testes-12X11; scrotal",,0,0
+"testes-12X16",,0,0
+"testes-12X18",,0,0
+"testes-12X5",,0,0
+"testes-12X5; epididymis not visible",,0,0
+"testes-12X5; scrotal",,0,0
+"testes-12X6",,0,0
+"testes-12X6; non-scrotal",,0,0
+"testes-12X6; scrotal",,0,0
+"testes-12X7",,0,0
+"testes-12X7; abdominal",,0,0
+"testes-12X7; epididymis not visible",,0,0
+"testes-12X7; non-scrotal",,0,0
+"testes-12X7; scrotal",,0,0
+"testes-12X8",,0,0
+"testes-12X8;",,0,0
+"testes-12X8; non-scrotal",,0,0
+"testes-12X8; one testes hard and green",,0,0
+"testes-12X8; scrotal",,0,0
+"testes-12X9",,0,0
+"testes-12X9;",,0,0
+"testes-12X9; scrotal",,0,0
+"testes-13",,0,0
+"testes-13.1X5.5; testes-13.2X7.0",,0,0
+"testes-13.5",,0,0
+"testes-13.5; scrotal",,0,0
+"testes-13; scrotal",,0,0
+"testes-13X10",,0,0
+"testes-13X10;",,0,0
+"testes-13X10; scrotal",,0,0
+"testes-13X13",,0,0
+"testes-13X18;",,0,0
+"testes-13X4",,0,0
+"testes-13X5",,0,0
+"testes-13X5; non-scrotal",,0,0
+"testes-13X5; scrotal",,0,0
+"testes-13X6",,0,0
+"testes-13X6;",,0,0
+"testes-13X6; non-scrotal",,0,0
+"testes-13X6; scrotal",,0,0
+"testes-13X7",,0,0
+"testes-13X7;",,0,0
+"testes-13X7; non-scrotal",,0,0
+"testes-13X7; scrotal",,0,0
+"testes-13X8",,0,0
+"testes-13X8;",,0,0
+"testes-13X8; non-scrotal",,0,0
+"testes-13X8; scrotal",,0,0
+"testes-13X9",,0,0
+"testes-13X9;",,0,0
+"testes-13X9; dark morph",,0,0
+"testes-13X9; scrotal",,0,0
+"testes-14",,0,0
+"testes-14 X10",,0,0
+"testes-14.5X8",,0,0
+"testes-14; scrotal",,0,0
+"testes-140X127",,0,0
+"testes-14X10",,0,0
+"testes-14X10;",,0,0
+"testes-14X10; scrotal",,0,0
+"testes-14X11",,0,0
+"testes-14X11; scrotal",,0,0
+"testes-14X12; scrotal",,0,0
+"testes-14X13",,0,0
+"testes-14X15",,0,0
+"testes-14X4; scrotal",,0,0
+"testes-14X5",,0,0
+"testes-14X6; scrotal",,0,0
+"testes-14X7",,0,0
+"testes-14X7;",,0,0
+"testes-14X7; non-scrotal",,0,0
+"testes-14X7; scrotal",,0,0
+"testes-14X8",,0,0
+"testes-14X8.5",,0,0
+"testes-14X8;",,0,0
+"testes-14X8; scrotal",,0,0
+"testes-14X9",,0,0
+"testes-14X9;",,0,0
+"testes-14X9; non-scrotal",,0,0
+"testes-14X9; scrotal",,0,0
+"testes-15",,0,0
+"testes-15.3 X 9.8",,0,0
+"testes-15; scrotal",,0,0
+"testes-15X10",,0,0
+"testes-15X10;",,0,0
+"testes-15X10; epididymis not visible",,0,0
+"testes-15X10; non-scrotal",,0,0
+"testes-15X10; scrotal",,0,0
+"testes-15X10; scrotal eating L cones",,0,0
+"testes-15X11",,0,0
+"testes-15X11; scrotal",,0,0
+"testes-15X12; scrotal",,0,0
+"testes-15X19; scrotal",,0,0
+"testes-15X7",,0,0
+"testes-15X7;",,0,0
+"testes-15X7; non-scrotal",,0,0
+"testes-15X7; scrotal",,0,0
+"testes-15X8",,0,0
+"testes-15X8;",,0,0
+"testes-15X8; scrotal",,0,0
+"testes-15X9",,0,0
+"testes-15X9.5; scrotal",,0,0
+"testes-15X9;",,0,0
+"testes-15X9; scrotal",,0,0
+"testes-16",,0,0
+"testes-16 X10",,0,0
+"testes-16; scrotal",,0,0
+"testes-16X10",,0,0
+"testes-16X10;",,0,0
+"testes-16X10; scrotal",,0,0
+"testes-16X11",,0,0
+"testes-16X11; scrotal",,0,0
+"testes-16X12",,0,0
+"testes-16X12 R, 15X9 L",,0,0
+"testes-16X12;",,0,0
+"testes-16X14",,0,0
+"testes-16X16",,0,0
+"testes-16X19",,0,0
+"testes-16X5; scrotal",,0,0
+"testes-16X7",,0,0
+"testes-16X7; scrotal",,0,0
+"testes-16X8",,0,0
+"testes-16X8;",,0,0
+"testes-16X8; scrotal",,0,0
+"testes-16X9",,0,0
+"testes-16X9 R, 14X7 L",,0,0
+"testes-16X9;",,0,0
+"testes-16X9; non-scrotal",,0,0
+"testes-16X9; scrotal",,0,0
+"testes-17",,0,0
+"testes-17.5",,0,0
+"testes-17; scrotal",,0,0
+"testes-17X10",,0,0
+"testes-17X10 M",,0,0
+"testes-17X10;",,0,0
+"testes-17X10; scrotal",,0,0
+"testes-17X11",,0,0
+"testes-17X11;",,0,0
+"testes-17X11; scrotal",,0,0
+"testes-17X12",,0,0
+"testes-17X13",,0,0
+"testes-17X13;",,0,0
+"testes-17X14",,0,0
+"testes-17X16; scrotal",,0,0
+"testes-17X7",,0,0
+"testes-17X8",,0,0
+"testes-17X8; scrotal",,0,0
+"testes-17X9",,0,0
+"testes-17X9; non-scrotal",,0,0
+"testes-17X9; scrotal",,0,0
+"testes-18",,0,0
+"testes-18 X11",,0,0
+"testes-18, testes enlarged",,0,0
+"testes-18.0",,0,0
+"testes-18.5",,0,0
+"testes-18;",,0,0
+"testes-18X10",,0,0
+"testes-18X10; scrotal",,0,0
+"testes-18X11",,0,0
+"testes-18X11;",,0,0
+"testes-18X11; non-scrotal",,0,0
+"testes-18X11; scrotal",,0,0
+"testes-18X12",,0,0
+"testes-18X12; scrotal",,0,0
+"testes-18X13",,0,0
+"testes-18X15",,0,0
+"testes-18X6",,0,0
+"testes-18X6; scrotal",,0,0
+"testes-18X8",,0,0
+"testes-18X9",,0,0
+"testes-18X9; scrotal",,0,0
+"testes-19",,0,0
+"testes-1913 ?",,0,0
+"testes-19X10",,0,0
+"testes-19X10;",,0,0
+"testes-19X10; scrotal",,0,0
+"testes-19X11",,0,0
+"testes-19X11; scrotal",,0,0
+"testes-19X12",,0,0
+"testes-19X12; scrotal",,0,0
+"testes-19X13",,0,0
+"testes-19X13; scrotal",,0,0
+"testes-19X15; scrotal",,0,0
+"testes-19X5",,0,0
+"testes-19X7",,0,0
+"testes-19X8; scrotal",,0,0
+"testes-19X9",,0,0
+"testes-19X9; scrotal",,0,0
+"testes-1X.5",,0,0
+"testes-1X.5; epididymis not visible",,0,0
+"testes-1X.75",,0,0
+"testes-1X0.5; epididymis not visible",,0,0
+"testes-1X0.8 R, 2.1X1 L",,0,0
+"testes-1X1",,0,0
+"testes-1X1.5",,0,0
+"testes-1X1; EPI NV",,0,0
+"testes-1X1; epididymis not visible",,0,0
+"testes-1X1; non-scrotal",,0,0
+"testes-1X2",,0,0
+"testes-1X3; epididymis not visible",,0,0
+"testes-2",,0,0
+"testes-2 ?",,0,0
+"testes-2.0",,0,0
+"testes-2.0X1.0",,0,0
+"testes-2.0X1.5",,0,0
+"testes-2.1",,0,0
+"testes-2.1X1.5",,0,0
+"testes-2.2X1.5",,0,0
+"testes-2.3",,0,0
+"testes-2.5",,0,0
+"testes-2.5X1",,0,0
+"testes-2.5X1.5",,0,0
+"testes-2.5X2",,0,0
+"testes-2.5X2.0",,0,0
+"testes-2.5X3.5; abdominal",,0,0
+"testes-2.5X4",,0,0
+"testes-2.5X4 mm +captured at night",,0,0
+"testes-2.5X4; abdominal",,0,0
+"testes-2.5X6",,0,0
+"testes-20",,0,0
+"testes-20; scrotal",,0,0
+"testes-20X10",,0,0
+"testes-20X10; scrotal",,0,0
+"testes-20X11",,0,0
+"testes-20X11; non-scrotal",,0,0
+"testes-20X11; scrotal",,0,0
+"testes-20X12",,0,0
+"testes-20X12;",,0,0
+"testes-20X12; scrotal",,0,0
+"testes-20X13",,0,0
+"testes-20X13; scrotal",,0,0
+"testes-20X14",,0,0
+"testes-20X15; scrotal",,0,0
+"testes-20X8",,0,0
+"testes-20X9",,0,0
+"testes-20X9; scrotal",,0,0
+"testes-21",,0,0
+"testes-21X10; non-scrotal",,0,0
+"testes-21X11",,0,0
+"testes-21X11; scrotal",,0,0
+"testes-21X12",,0,0
+"testes-21X12; scrotal",,0,0
+"testes-21X13",,0,0
+"testes-21X13; scrotal",,0,0
+"testes-21X14",,0,0
+"testes-21X14; scrotal",,0,0
+"testes-21X15",,0,0
+"testes-21X15; non-scrotal",,0,0
+"testes-21X16",,0,0
+"testes-21X17",,0,0
+"testes-21X8",,0,0
+"testes-22",,0,0
+"testes-22X11",,0,0
+"testes-22X11; scrotal",,0,0
+"testes-22X12",,0,0
+"testes-22X12; non-scrotal",,0,0
+"testes-22X12; scrotal",,0,0
+"testes-22X13",,0,0
+"testes-22X13; scrotal",,0,0
+"testes-22X14",,0,0
+"testes-22X14; scrotal",,0,0
+"testes-22X15",,0,0
+"testes-22X15; scrotal",,0,0
+"testes-22X18; scrotal",,0,0
+"testes-22X7",,0,0
+"testes-23",,0,0
+"testes-23X12; non-scrotal",,0,0
+"testes-23X13",,0,0
+"testes-23X13; scrotal",,0,0
+"testes-23X14",,0,0
+"testes-23X14; non-scrotal",,0,0
+"testes-23X14; scrotal",,0,0
+"testes-23X15",,0,0
+"testes-23X15; scrotal",,0,0
+"testes-23X17; non-scrotal",,0,0
+"testes-23X19",,0,0
+"testes-23X20; scrotal",,0,0
+"testes-24",,0,0
+"testes-24X11; left testis abdominal",,0,0
+"testes-24X12",,0,0
+"testes-24X12; scrotal",,0,0
+"testes-24X13",,0,0
+"testes-24X14",,0,0
+"testes-24X14; non-scrotal",,0,0
+"testes-24X14; scrotal",,0,0
+"testes-24X15",,0,0
+"testes-25",,0,0
+"testes-25X10",,0,0
+"testes-25X10; scrotal",,0,0
+"testes-25X11",,0,0
+"testes-25X12",,0,0
+"testes-25X12; scrotal",,0,0
+"testes-25X13",,0,0
+"testes-25X14",,0,0
+"testes-25X14; scrotal",,0,0
+"testes-25X15",,0,0
+"testes-25X15; non-scrotal",,0,0
+"testes-25X15; scrotal",,0,0
+"testes-25X16; non-scrotal",,0,0
+"testes-25X18; scrotal",,0,0
+"testes-25X2.5",,0,0
+"testes-25X20; scrotal",,0,0
+"testes-26X11",,0,0
+"testes-26X13",,0,0
+"testes-26X14",,0,0
+"testes-26X15",,0,0
+"testes-26X15; non-scrotal",,0,0
+"testes-26X16",,0,0
+"testes-26X16; non-scrotal",,0,0
+"testes-26X18; scrotal",,0,0
+"testes-26X22; scrotal",,0,0
+"testes-27",,0,0
+"testes-27X14",,0,0
+"testes-27X18",,0,0
+"testes-27X18; non-scrotal",,0,0
+"testes-27X19",,0,0
+"testes-28X14",,0,0
+"testes-28X15",,0,0
+"testes-28X15; non-scrotal",,0,0
+"testes-28X16",,0,0
+"testes-28X18",,0,0
+"testes-28X7",,0,0
+"testes-28X9; scrotal",,0,0
+"testes-29X13",,0,0
+"testes-29X15;",,0,0
+"testes-2X1",,0,0
+"testes-2X1.5",,0,0
+"testes-2X1.5 mm; scrotal",,0,0
+"testes-2X1; epididymis not visible",,0,0
+"testes-2X1; non scrotal",,0,0
+"testes-2X1; non-scrotal",,0,0
+"testes-2X1; non-scrotal; young of ROMM 98769",,0,0
+"testes-2X1; scrotal",,0,0
+"testes-2X1; young of ROMM 78249",,0,0
+"testes-2X1; young of ROMM 97265 F X 97258 M",,0,0
+"testes-2X2",,0,0
+"testes-2X2; epididymis not visible",,0,0
+"testes-2X2; non-scrotal",,0,0
+"testes-2X2; scrotal",,0,0
+"testes-2X3",,0,0
+"testes-2X3; scrotal",,0,0
+"testes-2X4",,0,0
+"testes-2X4; scrotal",,0,0
+"testes-3",,0,0
+"testes-3 ?",,0,0
+"testes-3.0",,0,0
+"testes-3.1X2.9 L",,0,0
+"testes-3.5",,0,0
+"testes-3.5; scrotal",,0,0
+"testes-3.5X2",,0,0
+"testes-3.5X2.5",,0,0
+"testes-3.7",,0,0
+"testes-3.9",,0,0
+"testes-3; scrotal",,0,0
+"testes-30",,0,0
+"testes-30.1X.57",,0,0
+"testes-30X11",,0,0
+"testes-30X12; scrotal",,0,0
+"testes-30X15",,0,0
+"testes-30X17",,0,0
+"testes-30X19",,0,0
+"testes-30X20",,0,0
+"testes-30X25",,0,0
+"testes-31X14",,0,0
+"testes-31X15",,0,0
+"testes-31X18; non-scrotal",,0,0
+"testes-32",,0,0
+"testes-32X11",,0,0
+"testes-32X16; non-scrotal",,0,0
+"testes-32X18",,0,0
+"testes-32X20",,0,0
+"testes-32X20; non-scrotal",,0,0
+"testes-32X20; scrotal",,0,0
+"testes-32X25",,0,0
+"testes-33",,0,0
+"testes-33X16",,0,0
+"testes-34X11",,0,0
+"testes-34X12",,0,0
+"testes-34X13",,0,0
+"testes-34X19; non-scrotal",,0,0
+"testes-35",,0,0
+"testes-35; 40",,0,0
+"testes-35X17; non-scrotal",,0,0
+"testes-35X17; scrotal",,0,0
+"testes-35X25",,0,0
+"testes-35X25; non-scrotal",,0,0
+"testes-36X19",,0,0
+"testes-36X20",,0,0
+"testes-38",,0,0
+"testes-38X15",,0,0
+"testes-3X1",,0,0
+"testes-3X1.5",,0,0
+"testes-3X1.5; scrotal",,0,0
+"testes-3X1.7 R",,0,0
+"testes-3X1; epididymis not visible",,0,0
+"testes-3X1; non-scrotal",,0,0
+"testes-3X2",,0,0
+"testes-3X2, non-scrotal",,0,0
+"testes-3X2.5",,0,0
+"testes-3X2; epididymis not visible",,0,0
+"testes-3X2; non scrotal",,0,0
+"testes-3X2; non-scrotal",,0,0
+"testes-3X2; non-scrotal; young of ROMM 96701, FN32127",,0,0
+"testes-3X2; scrotal",,0,0
+"testes-3X2; young of ROMM 96607",,0,0
+"testes-3X2; young of ROMM 97265 F X 97258 M",,0,0
+"testes-3X3",,0,0
+"testes-3X3 ; young of ROMM 106818",,0,0
+"testes-3X3;",,0,0
+"testes-3X3; epididymis not visible",,0,0
+"testes-3X3; non-scrotal",,0,0
+"testes-3X3; scrotal",,0,0
+"testes-3X4",,0,0
+"testes-3X5",,0,0
+"testes-3X5, 3X6",,0,0
+"testes-3X5; scrotal",,0,0
+"testes-3X6",,0,0
+"testes-3X6; abdominal",,0,0
+"testes-3X8",,0,0
+"testes-4",,0,0
+"testes-4.0",,0,0
+"testes-4.0X2.5",,0,0
+"testes-4.5",,0,0
+"testes-4.5X2",,0,0
+"testes-4.5X2.5",,0,0
+"testes-4.5X3",,0,0
+"testes-4.7",,0,0
+"testes-4; scrotal",,0,0
+"testes-40",,0,0
+"testes-40X11",,0,0
+"testes-40X20",,0,0
+"testes-43X23",,0,0
+"testes-44X20",,0,0
+"testes-45",,0,0
+"testes-4X1",,0,0
+"testes-4X1.5",,0,0
+"testes-4X1; epididymis not visible",,0,0
+"testes-4X10; scrotal",,0,0
+"testes-4X11",,0,0
+"testes-4X2",,0,0
+"testes-4X2, non-scrotal",,0,0
+"testes-4X2.5",,0,0
+"testes-4X2.5; epididymis not visible",,0,0
+"testes-4X2.5; scrotal",,0,0
+"testes-4X2;",,0,0
+"testes-4X2; epididymis not visible",,0,0
+"testes-4X2; nonscrotal",,0,0
+"testes-4X2; non-scrotal",,0,0
+"testes-4X2; non-scrotal or no embryo",,0,0
+"testes-4X2; scrotal",,0,0
+"testes-4X2; young of ROMM 97265 F X 97258 M",,0,0
+"testes-4X3",,0,0
+"testes-4X3 R, 4X3 L",,0,0
+"testes-4X3.5",,0,0
+"testes-4X3; ; young of ROMM 105470, CH9421",,0,0
+"testes-4X3; epididymis not visible",,0,0
+"testes-4X3; non-scrotal",,0,0
+"testes-4X3; scrotal",,0,0
+"testes-4X3; young of FN32169, ROMM 32170",,0,0
+"testes-4X3; young of ROMM 102755",,0,0
+"testes-4X4",,0,0
+"testes-4X4; scrotal",,0,0
+"testes-4X6",,0,0
+"testes-4X6.5; inguinal",,0,0
+"testes-4X7",,0,0
+"testes-4X7; inguinal",,0,0
+"testes-4X7; scrotal",,0,0
+"testes-5",,0,0
+"testes-5.5",,0,0
+"testes-5.5; inguinal",,0,0
+"testes-5.5X3",,0,0
+"testes-5.5X3.0",,0,0
+"testes-5.5X3.5",,0,0
+"testes-5.5X4",,0,0
+"testes-5.6",,0,0
+"testes-5; non-scrotal",,0,0
+"testes-5; scrotal",,0,0
+"testes-50X18",,0,0
+"testes-52X18",,0,0
+"testes-5X11",,0,0
+"testes-5X2",,0,0
+"testes-5X2.5",,0,0
+"testes-5X2.5; epididymis not visible",,0,0
+"testes-5X2.6",,0,0
+"testes-5X2; epididymis not visible",,0,0
+"testes-5X2; non-scrotal",,0,0
+"testes-5X2; scrotal",,0,0
+"testes-5X2; scrotal; epididymis not visible",,0,0
+"testes-5X3",,0,0
+"testes-5X3.5",,0,0
+"testes-5X3; epididymis not visible",,0,0
+"testes-5X3; non -scrotal",,0,0
+"testes-5X3; non-scrotal",,0,0
+"testes-5X3; scrotal",,0,0
+"testes-5X4",,0,0
+"testes-5X4 R, 4X3 L",,0,0
+"testes-5X4; epididymis not visible",,0,0
+"testes-5X4; non-scrotal",,0,0
+"testes-5X4; scrotal",,0,0
+"testes-5X5",,0,0
+"testes-5X5; scrotal",,0,0
+"testes-5X6; scrotal",,0,0
+"testes-5X7",,0,0
+"testes-5X7; scrotal",,0,0
+"testes-5X8",,0,0
+"testes-6",,0,0
+"testes-6.3",,0,0
+"testes-6.5",,0,0
+"testes-6.5X4",,0,0
+"testes-6.5X4.5",,0,0
+"testes-6.5X5",,0,0
+"testes-6.8",,0,0
+"testes-6; scrotal",,0,0
+"testes-6; testes enlarged",,0,0
+"testes-60X10; scrotal",,0,0
+"testes-61X38",,0,0
+"testes-6X1",,0,0
+"testes-6X1 L, 4X1 R; epididymis not visible",,0,0
+"testes-6X1; epididymis not visible",,0,0
+"testes-6X10 L 8X13 R; L testis necrotic",,0,0
+"testes-6X14",,0,0
+"testes-6X2",,0,0
+"testes-6X2.5",,0,0
+"testes-6X2; epididymis not visible",,0,0
+"testes-6X2; scrotal",,0,0
+"testes-6X3",,0,0
+"testes-6X3.5",,0,0
+"testes-6X3; epididymis not visible",,0,0
+"testes-6X3; non-scrotal",,0,0
+"testes-6X3; scrotal",,0,0
+"testes-6X4",,0,0
+"testes-6X4 R, 5X4 L",,0,0
+"testes-6X4, scrotal",,0,0
+"testes-6X4.5",,0,0
+"testes-6X4; epididymis not visible",,0,0
+"testes-6X4; non-scrotal",,0,0
+"testes-6X4; scrotal",,0,0
+"testes-6X4; young of ROMM 96607",,0,0
+"testes-6X4;scrotal",,0,0
+"testes-6X5",,0,0
+"testes-6X5; epididymis not visible",,0,0
+"testes-6X5; non-scrotal",,0,0
+"testes-6X5; scrotal",,0,0
+"testes-6X5; young of FN32169, ROMM 32170",,0,0
+"testes-6X6",,0,0
+"testes-7",,0,0
+"testes-7.0",,0,0
+"testes-7.5",,0,0
+"testes-7.5; scrotal",,0,0
+"testes-7.5X4.5",,0,0
+"testes-7.5X5",,0,0
+"testes-7.5X5.0",,0,0
+"testes-7; scrotal",,0,0
+"testes-7; SCTORAL",,0,0
+"testes-70X35",,0,0
+"testes-72X14",,0,0
+"testes-7X2",,0,0
+"testes7X3",,0,0
+"testes-7X3",,0,0
+"testes-7X3 R, 5.5X4 L",,0,0
+"testes-7X3.5",,0,0
+"testes-7X3;",,0,0
+"testes-7X3; epididymis not visible",,0,0
+"testes-7X3; non-scrotal",,0,0
+"testes-7X3; scrotal",,0,0
+"testes-7X3; SCRTOAL",,0,0
+"testes-7X4",,0,0
+"testes-7X4.5",,0,0
+"testes-7X4;",,0,0
+"testes-7X4; epididymis not visible",,0,0
+"testes-7X4; non-scrotal",,0,0
+"testes-7X4; scrotal",,0,0
+"testes-7X4;epididymis not visible",,0,0
+"testes-7X5",,0,0
+"testes-7X5 (not documented on catalogue)",,0,0
+"testes-7X5;",,0,0
+"testes-7X5; epididymis not visible",,0,0
+"testes-7X5; non-scrotal",,0,0
+"testes-7X5; scrotal",,0,0
+"testes-7X6",,0,0
+"testes-7X6; scrotal",,0,0
+"testes-7X7",,0,0
+"testes-8",,0,0
+"testes-8.4X4.4",,0,0
+"testes-8.5",,0,0
+"testes-8.5; abdominal",,0,0
+"testes-8.5; scrotal",,0,0
+"testes-8.5X5",,0,0
+"testes-8.5X6",,0,0
+"testes-8; scrotal",,0,0
+"testes-85X50",,0,0
+"testes-8X2",,0,0
+"testes-8X3",,0,0
+"testes-8X3.5",,0,0
+"testes-8X3; epididymis not visible",,0,0
+"testes-8X3; non-scrotal",,0,0
+"testes-8X3; scrotal",,0,0
+"testes-8X4",,0,0
+"testes-8X4.5",,0,0
+"testes-8X4;",,0,0
+"testes-8X4; epididymis not visible",,0,0
+"testes-8X4; non-scrotal",,0,0
+"testes-8X4; SCROTA",,0,0
+"testes-8X4; scrotal",,0,0
+"testes-8X4; testes scrotal",,0,0
+"testes-8X5",,0,0
+"testes-8X5;",,0,0
+"testes-8X5; epididymis not visible",,0,0
+"testes-8X5; inguinal",,0,0
+"testes-8X5; non-scrotal",,0,0
+"testes-8X5; scrotal",,0,0
+"testes-8X5;epididymis not visible",,0,0
+"testes-8X6",,0,0
+"testes-8X6 (not documented on catalogue)",,0,0
+"testes-8X6;",,0,0
+"testes-8X6; epididymis not visible",,0,0
+"testes-8X6; non-scrotal",,0,0
+"testes-8X6; scrotal",,0,0
+"testes-8X6; young of ROMM 100783",,0,0
+"testes-8X6; young of ROMM 102755",,0,0
+"testes-8X7",,0,0
+"testes-8X7; scrotal",,0,0
+"testes-8X8",,0,0
+"testes-9",,0,0
+"testes-9.5",,0,0
+"testes-9.5; scrotal",,0,0
+"testes-9.5X5.5",,0,0
+"testes-9.5X6",,0,0
+"testes-9.5X6.5",,0,0
+"testes-9; abdominal",,0,0
+"testes-9; scrotal",,0,0
+"testes-9X12",,0,0
+"testes-9X13",,0,0
+"testes-9X16",,0,0
+"testes-9X19",,0,0
+"testes-9X2; scrotal",,0,0
+"testes-9X3",,0,0
+"testes-9X4",,0,0
+"testes-9X4.5",,0,0
+"testes-9X4; epididymis not visible",,0,0
+"testes-9X4; non-scrotal",,0,0
+"testes-9X4; scrotal",,0,0
+"testes-9X5",,0,0
+"testes-9X5.5",,0,0
+"testes-9X5; non-scrotal",,0,0
+"testes-9X5; scrotal",,0,0
+"testes-9X6",,0,0
+"testes-9X6.5",,0,0
+"testes-9X6; epididymis not visible",,0,0
+"testes-9X6; non-scrotal",,0,0
+"testes-9X6; scrotal",,0,0
+"testes-9X7",,0,0
+"testes-9X7; non-scrotal",,0,0
+"testes-9X7; scrotal",,0,0
+"testes-9X8",,0,0
+"testes-epididymis absent",,0,0
+"testes-epididymis wt-1.76",,0,0
+"testes-epididymis wt-11.17",,0,0
+"testes-epididymis wt-11.48",,0,0
+"testes-epididymis wt-12.25",,0,0
+"testes-epididymis wt-12.7",,0,0
+"testes-epididymis wt-13.11",,0,0
+"testes-epididymis wt-13.68",,0,0
+"testes-epididymis wt-15.46",,0,0
+"testes-epididymis wt-19.74",,0,0
+"testes-epididymis wt-2.03",,0,0
+"testes-epididymis wt-2.14",,0,0
+"testes-epididymis wt-2.76",,0,0
+"testes-epididymis wt-3.00",,0,0
+"testes-epididymis wt-3.01",,0,0
+"testes-epididymis wt-4.27",,0,0
+"testes-epididymis wt-4.91",,0,0
+"testes-epididymis wt-5.25",,0,0
+"testes-epididymis wt-5.31",,0,0
+"testes-epididymis wt-5.35",,0,0
+"testes-epididymis wt-6.46",,0,0
+"testes-epididymis wt-6.87",,0,0
+"testes-epididymis wt-8.49",,0,0
+"testes-epididymis wt-8.79",,0,0
+"testes-epididymis wt-9.74",,0,0
+"testes-epididymis wt-9.82",,0,0
+"testes-medium",,0,0
 "testexs= 4x2mm",,0,0
 "Testicle bag bulging somewhat externally.",,0,0
 "Testículos escrotados","scrotal testicles",0,1
@@ -16336,6 +18459,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testis undescended",,0,0
 "testis? = 1mm",,0,0
 "testis= 4x2mm",,0,0
+"testis-epididymis ABSENT",,0,0
+"testis-epididymis WT-14.41",,0,0
 "testres = 0.91x1.5mm",,0,0
 "testres = 2x3mm",,0,0
 "testris small",,0,0
@@ -16351,11 +18476,14 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "tstes = 4x2mm",,0,0
 "turgid uterus",,0,0
 "turgid uterus, no placental scars",,0,0
+"TWIN OF 33775; sibling of ROMM 33774",,0,0
+"TWIN OF 33776; sibling of ROMM 33774",,0,0
 "two small testes",,0,0
 "U","unknown",0,1
 "unshelled egg in oviduct",,0,0
 "uterine scarring; enlarged teats",,0,0
 "uterine scars, no embryos",,0,0
+"UTERINE SWELLINGS-2X2",,0,0
 "uterus = 1 mm,  2R, 3L plac scars",,0,0
 "uterus = 1.0 mm",,0,0
 "uterus = 1.5 mm, no scars, no emb",,0,0
@@ -16367,9 +18495,11 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "uterus enlarged",,0,0
 "Uterus enlarged, placental scars",,0,0
 "uterus observed",,0,0
+"UTERUS SMALL",,0,0
 "Uterus swollen",,0,0
 "uterus thickened, no embryos",,0,0
 "uterus threadlike",,0,0
+"UTERUS VERY SMALL",,0,0
 "Vag closed",,0,0
 "Vag closed, parous",,0,0
 "Vag closed, parous-no emb",,0,0
@@ -16408,7 +18538,68 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Vag. clsd; parous; no emb",,0,0
 "Vag. clsd; parous; scars",,0,0
 "Vag. clsed; parous-scars",,0,0
+"vagina imperforate",,0,0
+"vagina imperforate; 1 plac scar 0L 1R; mammary tissue present; HAIR AROUND teats worn",,0,0
+"vagina imperforate; 1 plac scar 1L 0R; mammary tissue present",,0,0
+"vagina imperforate; 10 plac scar 5L 5R",,0,0
+"vagina imperforate; 10 plac scar 5L 5R; mammary tissue present",,0,0
+"vagina imperforate; 11 plac scar 4L 7R",,0,0
+"vagina imperforate; 2 emb 1L 1R; 2 plac scar 1L 1R",,0,0
+"vagina imperforate; 3 emb 2L 1R; CR-22; mammary tissue present",,0,0
+"vagina imperforate; 3 plac scar 1L 2R",,0,0
+"vagina imperforate; 4 plac scar 2L 2R",,0,0
+"vagina imperforate; 4 plac scar 2L 2R; mammary tissue present",,0,0
+"vagina imperforate; 4 plac scar 3L 1R; mammary tissue present",,0,0
+"vagina imperforate; 5 plac scar",,0,0
+"vagina imperforate; 5 plac scar 3L 2R",,0,0
+"vagina imperforate; 5 plac scar 3R 2L",,0,0
+"vagina imperforate; 7 plac scar",,0,0
+"vagina imperforate; 7 plac scar 3L 4R",,0,0
+"vagina imperforate; 9 plac scar 4L 5R",,0,0
+"vagina imperforate; LIGHT plac scar",,0,0
+"vagina imperforate; mammary tissue present",,0,0
+"vagina imperforate; N",,0,0
+"vagina imperforate; N; mammary tissue present",,0,0
+"vagina imperforate; NP",,0,0
+"vagina imperforate; plac scar",,0,0
 "Vagina perforate",,0,0
+"vagina perforate; 1 emb; CR-12",,0,0
+"vagina perforate; 1 emb; CR-7",,0,0
+"vagina perforate; 1 emb; CR-8",,0,0
+"vagina perforate; 10 plac scar 5L 5R; mammary tissue present; not lactating",,0,0
+"vagina perforate; 12 plac scar 7L 5R; mammary tissue present",,0,0
+"vagina perforate; 3 emb 2R 1L; CR-10; 1R R emb; MAM TIS",,0,0
+"vagina perforate; 4 emb 2R 2L; CR-9; mammary tissue present; not lactating",,0,0
+"vagina perforate; 4 emb 4L; CR-9; 1L R emb; plac scar 5R; mammary tissue present",,0,0
+"vagina perforate; 4 plac scar 2L 2R; mammary tissue present",,0,0
+"vagina perforate; 4 plac scar 2L 2R; mammary tissue present; not lactating",,0,0
+"vagina perforate; 4 plac scar 2R 2L; mammary tissue present; not lactating",,0,0
+"vagina perforate; 4 plac scar 3L 1R; MAM TIS",,0,0
+"vagina perforate; 4 plac scar 4L OR; MAM TIS",,0,0
+"vagina perforate; 5 emb 1L; CR-17; MAMMARY TISSSUE ABSENT; not lactating",,0,0
+"vagina perforate; 5 emb 2L 3R; CR-12; mammary tissue present; not lactating",,0,0
+"vagina perforate; 5 emb 4R 1L; CR-11",,0,0
+"vagina perforate; 5 plac scar 2R 3L; mammary tissue present; not lactating",,0,0
+"vagina perforate; 5 plac scar 3L 2R; MAMMARY TISSSUE ABSENT; not lactating",,0,0
+"vagina perforate; 5 plac scar 3R 2L; mammary tissue present; not lactating",,0,0
+"vagina perforate; 5 plac scar 4R 1L; mammary tissue present; not lactating",,0,0
+"vagina perforate; 6 plac scar 2L 4R; mammary tissue present; not lactating",,0,0
+"vagina perforate; 6 plac scar 4L 2R; mammary tissue present",,0,0
+"vagina perforate; 6 plac scar 4L 2R; mammary tissue present; lactating",,0,0
+"vagina perforate; 6 plac scar 4L 2R; mammary tissue present; not lactating",,0,0
+"vagina perforate; 6 plac scar 4R 2L; MAMMARY TISSSUE ABSENT; not lactating",,0,0
+"vagina perforate; 6 plac scar 5R 1L; mammary tissue present; not lactating",,0,0
+"vagina perforate; 7 plac scar 1L 6R; mammary tissue present; not lactating",,0,0
+"vagina perforate; 7 plac scar 3L 4R; mammary tissue present",,0,0
+"vagina perforate; 7 plac scar 5L 2R",,0,0
+"vagina perforate; 8 plac scar 4L 4R; mammary tissue present",,0,0
+"vagina perforate; 8 plac scar 4L 4R; mammary tissue present; not lactating",,0,0
+"vagina perforate; MULTI",,0,0
+"vagina perforate; N",,0,0
+"vagina perforate; N; mammary tissue present",,0,0
+"vagina perforate; plac scar; mammary tissue present; not lactating",,0,0
+"vagina perforate; pregnant; lactating; 4 plac scar 2R 2L; MILK + RED MORPH",,0,0
+"vagina perforate; teats worn",,0,0
 "Very large yellow eggs",,0,0
 "very small eggs",,0,0
 "virginal",,0,0
@@ -16437,6 +18628,60 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "young",,0,0
 "young adult",,0,0
 "young eggs w/yolk",,0,0
+"young of moher, not accessed, REM2320",,0,0
+"young OF ROMM 100739, FN33617",,0,0
+"young OF ROMM 100756, FN33600",,0,0
+"young OF ROMM 102755",,0,0
+"young OF ROMM 105470, CH9421",,0,0
+"young OF ROMM 106818",,0,0
+"young OF ROMM 107916",,0,0
+"young OF ROMM 15754",,0,0
+"young OF ROMM 16982, 16983; sibling of ROMM 16977-16981; REPUTED LITTER OF 13",,0,0
+"young OF ROMM 20361, COLN 4605",,0,0
+"young OF ROMM 20473",,0,0
+"young OF ROMM 25928; sibling of P18, P19, P21, P22",,0,0
+"young OF ROMM 31602",,0,0
+"young OF ROMM 31971",,0,0
+"young OF ROMM 32085",,0,0
+"young OF ROMM 32170, FN32169",,0,0
+"young OF ROMM 3508010218",,0,0
+"young OF ROMM 37765",,0,0
+"young OF ROMM 37767",,0,0
+"young OF ROMM 37778",,0,0
+"young OF ROMM 37846",,0,0
+"young OF ROMM 37849",,0,0
+"young OF ROMM 42454 ?",,0,0
+"young OF ROMM 42892",,0,0
+"young OF ROMM 42919",,0,0
+"young OF ROMM 43926",,0,0
+"young OF ROMM 45551",,0,0
+"young OF ROMM 45553",,0,0
+"young OF ROMM 45793",,0,0
+"young OF ROMM 50938-50946",,0,0
+"young OF ROMM 55743",,0,0
+"young OF ROMM 56185",,0,0
+"young OF ROMM 56410",,0,0
+"young OF ROMM 60123",,0,0
+"young OF ROMM 63112",,0,0
+"young OF ROMM 64992",,0,0
+"young OF ROMM 68281",,0,0
+"young OF ROMM 68931",,0,0
+"young OF ROMM 69841",,0,0
+"young OF ROMM 69849",,0,0
+"young OF ROMM 74048",,0,0
+"young OF ROMM 78288; sibling of ROMM 78286",,0,0
+"young OF ROMM 78288; sibling of ROMM 78287",,0,0
+"young OF ROMM 78291; sibling of ROMM 78289",,0,0
+"young OF ROMM 78291; sibling of ROMM 78290",,0,0
+"young OF ROMM 78687",,0,0
+"young OF ROMM 78705",,0,0
+"young OF ROMM 78873",,0,0
+"young OF ROMM 78973",,0,0
+"young OF ROMM 85260",,0,0
+"young OF ROMM 86310",,0,0
+"young OF ROMM 86420,  FN21814",,0,0
+"young OF ROMM 91255",,0,0
+"young OF ROMM 96701, FN32127",,0,0
 "young of the year",,0,0
 "young of the year, testes 8:8 mm",,0,0
 "young, testis 5:4 mm",,0,0
