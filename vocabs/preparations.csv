@@ -32571,20 +32571,31 @@ R PERIPHERALS 2 - 3.",,0,0
 "postcranial skeketon",,0,0
 "postcranial skeleton",,0,0
 "Postcranial skeleton (almost complete)",,0,0
+"postcranial skeleton (articulated) | skull (complete)",,0,0
 "postcranial skeleton (articulated); skull (complete)",,0,0
+"postcranial skeleton (broken) | skull (complete)",,0,0
 "postcranial skeleton (broken); skull (complete)",,0,0
 "postcranial skeleton (complete)",,0,0
+"postcranial skeleton (complete) | cranium (partial)",,0,0
 "postcranial skeleton (complete) | muscle",,0,0
 "postcranial skeleton (complete) | skin (feathers and tail) | skull (complete)",,0,0
 "postcranial skeleton (complete) | skin (feathers) | skull (complete)",,0,0
 "postcranial skeleton (complete) | skin (feathers) | skull (complete) | two wings",,0,0
+"postcranial skeleton (complete) | skin (flat) | skull (broken)",,0,0
 "postcranial skeleton (complete) | skin (flat) | skull (complete)",,0,0
 "postcranial skeleton (complete) | skin (foot) | skull (complete) | one wing",,0,0
 "postcranial skeleton (complete) | skin (foot) | skull (partial) | one wing",,0,0
 "postcranial skeleton (complete) | skin (partial round) | skull (complete)",,0,0
+"postcranial skeleton (complete) | skin (pelt) | skull (broken)",,0,0
+"postcranial skeleton (complete) | skin (pelt) | skull (complete)",,0,0
+"postcranial skeleton (complete) | skin (round) | skull (broken)",,0,0
+"postcranial skeleton (complete) | skin (round) | skull (complete)",,0,0
+"postcranial skeleton (complete) | skin (round) | skull (complete) | muscle, liver, heart, kidney",,0,0
+"postcranial skeleton (complete) | skin (round) | skull (partial)",,0,0
 "postcranial skeleton (complete) | skin (tail) | skull (complete) | one wing",,0,0
 "postcranial skeleton (complete) | skull (broken)",,0,0
 "postcranial skeleton (complete) | skull (broken) | muscle, liver | one wing",,0,0
+"postcranial skeleton (complete) | skull (broken) | muscle, liver, heart, kidney",,0,0
 "postcranial skeleton (complete) | skull (complete)",,0,0
 "postcranial skeleton (complete) | skull (complete) | muscle",,0,0
 "postcranial skeleton (complete) | skull (complete) | muscle, liver",,0,0
@@ -32592,6 +32603,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "postcranial skeleton (complete) | skull (complete) | muscle, liver, heart, kidney",,0,0
 "postcranial skeleton (complete) | skull (complete) | muscle, liver, heart, kidney | one wing",,0,0
 "postcranial skeleton (complete) | skull (complete) | one wing",,0,0
+"postcranial skeleton (complete) | skull (cranium)",,0,0
+"postcranial skeleton (complete) | skull (cut open)",,0,0
+"postcranial skeleton (complete) | skull (cut)",,0,0
 "postcranial skeleton (complete) | skull (partial)",,0,0
 "postcranial skeleton (complete), none",,0,0
 "postcranial skeleton (complete); cranium (partial)",,0,0
@@ -32638,21 +32652,36 @@ R PERIPHERALS 2 - 3.",,0,0
 "postcranial skeleton (complete); skull (cut)",,0,0
 "postcranial skeleton (complete); skull (partial)",,0,0
 "POSTCRANIAL SKELETON (DRY)","post-cranial skeleton",0,1
+"postcranial skeleton (femur and humerus) | skin (round) | skull (complete)",,0,0
 "postcranial skeleton (femur and humerus); skin (round); skull (complete)",,0,0
 "Postcranial skeleton (incomplete)",,0,0
+"postcranial skeleton (leg bones) | skin (round) | skull (broken)",,0,0
+"postcranial skeleton (leg bones) | skin (round) | skull (complete)",,0,0
 "postcranial skeleton (leg bones); skin (round); skull (broken)",,0,0
 "postcranial skeleton (leg bones); skin (round); skull (complete)",,0,0
 "Postcranial skeleton (part)",,0,0
 "postcranial skeleton (partial)",,0,0
+"postcranial skeleton (partial) | mandible (two mandibles)",,0,0
 "postcranial skeleton (partial) | one wing",,0,0
 "postcranial skeleton (partial) | skin (feathers)",,0,0
 "postcranial skeleton (partial) | skin (feathers) | skull (complete)",,0,0
+"postcranial skeleton (partial) | skin (flat) | skull (broken)",,0,0
+"postcranial skeleton (partial) | skin (flat) | skull (complete)",,0,0
 "postcranial skeleton (partial) | skin (partial round) | skull (complete)",,0,0
+"postcranial skeleton (partial) | skin (pelt) | skull (complete)",,0,0
 "postcranial skeleton (partial) | skin (round and feathers)",,0,0
 "postcranial skeleton (partial) | skin (round)",,0,0
+"postcranial skeleton (partial) | skin (round) | cranium (complete)",,0,0
 "postcranial skeleton (partial) | skin (round) | one wing",,0,0
+"postcranial skeleton (partial) | skin (round) | skull (broken)",,0,0
+"postcranial skeleton (partial) | skin (round) | skull (broken) | muscle, liver, heart, kidney",,0,0
+"postcranial skeleton (partial) | skin (round) | skull (broken) | muscle, liver, heart, kidney, testes",,0,0
+"postcranial skeleton (partial) | skin (round) | skull (complete)",,0,0
+"postcranial skeleton (partial) | skin (round) | skull (complete) | muscle, liver, heart, kidney",,0,0
 "postcranial skeleton (partial) | skin (round) | skull (cranium only) | muscle, liver, heart, kidney",,0,0
 "postcranial skeleton (partial) | skin (round) | skull (cranium only) | muscle, liver, testes",,0,0
+"postcranial skeleton (partial) | skin (round) | skull (mandible only)",,0,0
+"postcranial skeleton (partial) | skin (round) | skull (partial)",,0,0
 "postcranial skeleton (partial) | skin (round) | skull (partial) | muscle, liver, heart",,0,0
 "postcranial skeleton (partial) | skin (round) | skull (partial) | muscle, liver, heart, kidney",,0,0
 "postcranial skeleton (partial) | skin (tail) | skull (complete) | two wings",,0,0
@@ -32665,6 +32694,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "postcranial skeleton (partial) | skull (complete) | muscle, liver, heart, kidney | one wing",,0,0
 "postcranial skeleton (partial) | skull (complete) | one wing",,0,0
 "postcranial skeleton (partial) | skull (complete) | two wings",,0,0
+"postcranial skeleton (partial) | skull (partial)",,0,0
 "postcranial skeleton (partial), none",,0,0
 "postcranial skeleton (partial), wing",,0,0
 "postcranial skeleton (partial), wings",,0,0
@@ -32725,6 +32755,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "postcranial skeleton (tympanic bullae); skin (round)",,0,0
 "postcranial skeleton (vertebrae and neck parts) | skull (complete)",,0,0
 "postcranial skeleton (vertebrae and neck parts); skull (complete)",,0,0
+"postcranial skeleton | skull (complete)",,0,0
 "POSTCRANIAL SKELETON FRAGS",,0,0
 "postcranial skeleton missing tail",,0,0
 "Post-cranial Skeleton only",,0,0
