@@ -98,6 +98,7 @@
 "Cotype","cotype",1,1
 "'Cotype'","syntype",0,1
 "Co-Type","syntype",0,1
+"Cotype ?",,0,0
 "Cotype [=Paratype]",,0,0
 "Co-TYPE of Oestrelata nigripennis","syntype",0,1
 "Co-Type specimen","syntype",0,1
@@ -2304,6 +2305,8 @@ Paratype",,0,0
 "microslide of type",,0,0
 "MS Holotype",,0,0
 "MS Type",,0,0
+"near Holotype locality",,0,0
+"near Topotype",,0,0
 "NEAR TOPOTYPE OF OTOCORYS NIGRIFRONS PRZEWALSKI",,0,0
 "NEAR-TOPOTYPE OF SAXICOLA MACULARIA QUOY & GAIMARD",,0,0
 "NEAR-TOPOTYPE; COLLECTED 12 MI SW OF TYPE LOCALITY MOUNT CARMEL",,0,0
@@ -4084,6 +4087,7 @@ Paratype",,0,0
 "TopeTYPE","topotype",0,1
 "Topoparatype",,0,0
 "Topotype","topotype",1,1
+"Topotype ?",,0,0
 "topotype [?]",,0,0
 "TOPOTYPE OF [PARUS] AUREOLA LINNAEUS",,0,0
 "TOPOTYPE OF AETHOPYGA DABRYII BANGSI RILEY",,0,0
@@ -4213,6 +4217,7 @@ Paratype",,0,0
 "TOPOTYPE OF SIPHIA PLATENAE W. BLASIUS, SIPHIA ERITHACUS SHARPE",,0,0
 "TOPOTYPE OF SIPHIA RAMSAYI W. BLASIUS",,0,0
 "TOPOTYPE OF SPERMOSPIZA RUFICAPILLA CANA FRIEDMANN",,0,0
+"Topotype of Ssp",,0,0
 "TOPOTYPE OF STELGIDOPTERYX RUFICOLLIS AEQUALIS BANGS",,0,0
 "TOPOTYPE OF SYCOBROTUS CROCONOTUS REICHENOW",,0,0
 "TOPOTYPE OF SYMPLECTES TEPHRONOTUS REICHENOW",,0,0

@@ -26,6 +26,7 @@
 "curator verified","verified by curator",0,1
 "from BioGeomancer","requires verification",0,1
 "no","requires verification",0,1
+"not georeferenced",,0,1
 "not recorded","requires verification",0,1
 "not veridied","requires verification",0,1
 "not verified","requires verification",0,1
@@ -43,6 +44,7 @@
 "verifed by locality matchup","verified by curator",0,1
 "verification required","requires verification",0,1
 "Verified","verified by curator",0,1
+"Verified 20030729","verified by curator",0,1
 "Verified by Allen Chartier","verified by curator",0,1
 "Verified by Collection Manager","verified by curator",0,1
 "verified by collector","verified by collector",1,1
@@ -55,5 +57,6 @@
 "Verified by Rene","verified by curator",0,1
 "verified JLW","verified by JLW",0,1
 "verified RS","verified by RS",0,1
+"verified, 20081023","verified by curator",0,1
 "verified, kc","verified by KC",0,1
 "verifiied","verified by curator",0,1

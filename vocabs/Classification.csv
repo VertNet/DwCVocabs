@@ -549,6 +549,7 @@
 "Aethopygia","Aethopyga","Nectariniidae","Passeriformes","Aves","Chordata","Animalia","ITIS",0,1,"Genus misspelled.",0
 "Aethopygya","Aethopyga","Nectariniidae","Passeriformes","Aves","Chordata","Animalia","ITIS",0,1,"Genus misspelled.",0
 "Aethorhynchus",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
+"Aethosciurus","Paraxerus","Sciuridae","Rodentia","Mammalia","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,"Genus is a synonym.",0
 "Aethostoma",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Aethotaxis","Aethotaxis","Nototheniidae","Perciformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Aetiocetus","Aetiocetus","Aetiocetidae","Cetacea","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
@@ -1513,6 +1514,7 @@
 "Antichromus","Bocagia","Malaconotidae","Passeriformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus is a synonym.",0
 "Anticromus",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Antidorcas","Antidorcas","Bovidae","Artiodactyla","Mammalia","Chordata","Animalia","ITIS",1,1,,0
+"Antidorcus","Antidorcas","Bovidae","Artiodactyla","Mammalia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus misspelled.",0
 "Antigone",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Antigonia","Antigonia","Caproidae","Perciformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Antillia",,,"MADREPORARIA","ANTHOZOA","Coelenterata","Animalia",,0,0,,1
@@ -10678,6 +10680,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Honbara",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Hondadelphys","Hondadelphys","Didelphidae","Didelphimorphia","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Hooded",,"",,,,,,0,1,"Genus not found.",0
+"Hoolock","Hoolock","Hylobatidae","Primates","Mammalia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",1,1,,0
 "Hophorina","Lophorina","Paradisaeidae","Passeriformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus misspelled.",0
 "Hopiichnus","Hopiichnus","Ornithomimidae",,"Reptilia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Hoplarchus","Hoplarchus","Cichlidae","Perciformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
@@ -11147,6 +11150,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Ibyctes","Ibycter","Falconidae","Falconiformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus misspelled.",0
 "Ibzcter","Ibycter","Falconidae","Falconiformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus misspelled.",0
 "Icaronycteris","Icaronycteris","Icaronycteridae","Chiroptera","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
+"Icaronycteris - extinct","Icaronycteris","Archaeonycteridae","Chiroptera","Mammalia","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,"Genus contains extant status.",0
 "Icarosaurus","Icarosaurus","Kuehneosauridae","Lepidosauria","Reptilia","Chordata","Animalia","Paleobiology Database",1,0,,1
 "Icelinus","Icelinus","Cottidae","Scorpaeniformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Icelus","Icelus","Cottidae","Scorpaeniformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
@@ -12510,6 +12514,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Lialis","Lialis","Pygopodidae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
 "LIASIS","Liasis","Pythonidae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
 "Libellula","Libellula","Libellulidae","Odonata","Insecta","Arthropoda","Animalia","The Catalogue of Life, 3rd January 2011",1,1,,0
+"Liberiictis","Liberiictis","Herpestidae","Carnivora","Mammalia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",1,1,,0
 "Libinia",,"Maiidae","BRACHYURA (OXYRHYNCHA)","CRUSTACEA","Arthropoda","Animalia",,0,0,,1
 "Liburnascincus","Liburnascincus","Scincidae","Squamata","Reptilia","Chordata","Animalia","The Reptile Database",1,1,,0
 "Libytherium","Libytherium","Giraffidae","Artiodactyla","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
@@ -13378,6 +13383,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Mammalia",,,,"Mammalia","Chordata","Animalia","Mammal Species of the World. 2005.",0,1,"Genus is a class.",0
 "Mammelomys","Mammelomys","Muridae","Rodentia","Mammalia","Chordata","Animalia","Mammal Species of the World. 2005.",1,1,,0
 "Mammut","Mammut","Mammutidae","Proboscidea","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
+"Mammut - extinct","Mammut","Mammutidae","Proboscidea","Mammalia","Chordata","Animalia","Paleobiology Database",0,1,"Genus contains extant status.",0
 "Mammuthus","Mammuthus","Elephantidae","Proboscidea","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Mamonteus","Mammuthus","Elephantidae","Proboscidea","Mammalia","Chordata","Animalia","Wikipedia",0,1,"Genus is a synonym.",0
 "Mamosopsis",,"Didelphidae","Marsupialia","Mammalia","Chordata","Animalia",,0,0,,1
@@ -13455,6 +13461,10 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Marmoronetta","Marmaronetta","Anatidae","Anseriformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus misspelled.",0
 "MARMOROSPHAX","Marmorosphax","Scincidae","Squamata","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: May 2012",1,1,,0
 "MARMOSA","Marmosa","Didelphidae","Didelphimorphia","Mammalia","Chordata","Animalia","ITIS",1,1,,0
+"Marmosa -> gracilinanus","Marmosa","Didelphidae","Didelphimorphia","Mammalia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus contains identification qualifier.",0
+"Marmosa -> marmosops","Marmosa","Didelphidae","Didelphimorphia","Mammalia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus contains identification qualifier.",0
+"Marmosa -> micoureus","Marmosa","Didelphidae","Didelphimorphia","Mammalia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus contains identification qualifier.",0
+"Marmosa 0> tlacuatzin","Marmosa","Didelphidae","Didelphimorphia","Mammalia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus contains identification qualifier.",0
 "MARMOSOPS","Marmosops","Didelphidae","Didelphimorphia","Mammalia","Chordata","Animalia","ITIS",1,1,,0
 "Marmota","Marmota","Sciuridae","Rodentia","Mammalia","Chordata","Animalia","ITIS",1,1,,0
 "Maroubra","Maroubra","Syngnathidae","Gasterosteiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
@@ -15319,6 +15329,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Neorhynchus",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Neornis",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Neornyias",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
+"Neoromica","Neoromicia","Vespertilionidae","Chiroptera","Mammalia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus misspelled.",0
 "Neoromicia","Neoromicia","Vespertilionidae","Chiroptera","Mammalia","Chordata","Animalia","Mammal Species of the World. 2005.",1,1,,0
 "Neorosyrtes","Necrosyrtes","Accipitridae","Accipitriformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus misspelled.",0
 "Neorrex",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
@@ -17350,6 +17361,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Patina",,,"DIOTOCARDIA","GASTROPODA","Mollusca","Animalia",,0,0,,1
 "Patriofelis","Patriofelis","Paleonictidae","Creodonta","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Patriolestes",,"Dormaaliidae","Lipotyphla","Mammalia","Chordata","Animalia",,0,0,,1
+"Pattonomys","Pattonomys","Echimyidae","Rodentia","Mammalia","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,,0
 "Paudion","Pandion","Pandionidae","Accipitriformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus misspelled.",0
 "Paulamys","Paulamys","Muridae","Rodentia","Mammalia","Chordata","Animalia","ITIS",1,1,,0
 "Paulicea","Zungaro","Pimelodidae","Siluriformes","Actinopterygii","Chordata","Animalia","Froese, R. and D. Pauly. Editors. 2012. FishBase.",0,1,"Genus is a synonym.",0
@@ -20108,6 +20120,7 @@ Colubridae: Xenodontinae). Herpetologica 52, 271-275.",0
 "Pteroptochos","Pteroptochos","Rhinocryptidae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Pteroptochus","Pteroptochos","Rhinocryptidae","Passeriformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus misspelled.",0
 "PTEROPUS","Pteropus","Pteropodidae","Chiroptera","Mammalia","Chordata","Animalia","ITIS",1,1,,0
+"Pteropusina; not in msw3","Pteropus","Pteropodidae","Chiroptera","Mammalia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus misspelled.",0
 "Pterorhinus","Garrulax","Sylviidae","Passeriformes","Aves","Chordata","Animalia","Avibase - IOC World Bird Names (2011)",0,1,"Genus is a synonym.",0
 "Pteroscion","Pteroscion","Sciaenidae","Perciformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Pterosphenus","Pterosphenus","Palaeophidae","Squamata","Reptilia","Chordata","Animalia","Paleobiology Database",1,1,,0
@@ -20770,6 +20783,7 @@ Colubridae: Xenodontinae). Herpetologica 52, 271-275.",0
 "RHINOPHRYNUS","Rhinophrynus","Rhinophrynidae","Anura","Amphibia","Chordata","Animalia","AmphibiaWeb 2014-04-11",1,1,,0
 "RHINOPHYLLA","Rhinophylla","Phyllostomidae","Chiroptera","Mammalia","Chordata","Animalia","ITIS",1,1,,0
 "Rhinopias","Rhinopias","Scorpaenidae","Scorpaeniformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
+"Rhinopithecus","Rhinopithecus","Cercopithecidae","Primates","Mammalia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",1,1,,0
 "Rhinoplagusia","Paraplagusia","Cynoglossidae","Pleuronectiformes","Actinopterygii","Chordata","Animalia","Catalog of Fishes",0,1,"Genus is a synonym.",0
 "Rhinoplax","Rhinoplax","Bucerotidae","Bucerotiformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Rhinoplocephalus","Rhinoplocephalus","Elapidae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
@@ -23829,6 +23843,7 @@ Colubridae: Xenodontinae). Herpetologica 52, 271-275.",0
 "Tornaria",,,,"HEMICHORDATA","Chordata","Animalia",,0,0,,1
 "Tornatellina",,,,"GASTROPODA","Mollusca","Animalia",,0,0,,1
 "Tornatina",,"SCAPHANDRIDAE","BULLOIDEA","GASTROPODA","Mollusca","Animalia",,0,0,,1
+"Torontoceros - extinct","Torontoceros","Cervidae","Artiodactyla","Mammalia","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,"Genus contains extant status.",0
 "Torosaurus","Torosaurus","Ceratopsidae",,"Reptilia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Torotix","Torotix","Torotigidae","Ciconiiformes","Aves","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Torpedinidae",,"Torpedinidae","Torpediniformes","Elasmobranchii","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: May 2012",0,1,"Genus is a family.",0
