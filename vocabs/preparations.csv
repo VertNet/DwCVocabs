@@ -8796,6 +8796,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete skel; alc. skin",,0,0
 "complete skeleton",,0,0
 "complete skeleton - 1","complete skeleton - 1",0,1
+"complete skeleton & other",,0,0
+"complete skeleton & other | tissue",,0,0
 "complete skeleton | tissue",,0,0
 "complete skeleton + 6 alc eggs",,0,0
 "Complete skeleton only","complete skeleton",0,1
@@ -13903,8 +13905,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Flat Round Skin and Castor Glands",,0,0
 "flat skin","flat skin",1,1
 "Flat skin - 1",,0,0
+"flat skin & complete skeleton",,0,0
+"flat skin & complete skeleton | tissue",,0,0
 "flat skin & part skeleton",,0,0
 "flat skin & part skeleton | tissue",,0,0
+"flat skin & partial skeleton",,0,0
+"flat skin & partial skeleton | tissue",,0,0
 "flat skin & skull",,0,0
 "flat skin & skull + complete skel",,0,0
 "flat skin & skull + skel",,0,0
@@ -27871,6 +27877,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "OT | other preparation | tissue",,0,0
 "OT*","other",0,1
 "other","other",1,1
+"other | tissue",,0,0
 "OTHER PICKLED MATERIAL","pickled material",0,1
 "OTHER PICKLED MATERIAL, tissue","pickled material | tissue",0,1
 "other prep","other prep",1,1
@@ -38700,6 +38707,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "round | tissue",,0,0
 "round skin","round skin",0,1
 "Round Skin - 1","round skin - 1",0,1
+"round skin & partial skeleton",,0,0
+"round skin & partial skeleton | tissue",,0,0
+"round skin | tissue",,0,0
 "round skin, alcoholic",,0,0
 "round skin, complete skeleton",,0,0
 "round skin, complete skeleton, wing",,0,0
@@ -39583,6 +39593,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "SHELLFRAGS,DIST FEMUR",,0,0
 "shells",,0,0
 "SHIELD FRAG",,0,0
+"shmoo",,0,0
+"shmoo & complete skeleton",,0,0
+"shmoo & partial skeleton",,0,0
 "Shoulder girdle (fragment) + ulnae (proximal ends)",,0,0
 "Shoulder girdle + fin (right pectoral)",,0,0
 "Shoulder mount",,0,0
