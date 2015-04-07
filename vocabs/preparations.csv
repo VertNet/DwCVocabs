@@ -12931,6 +12931,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Egg cases (2)",,0,0
 "Egg cast",,0,0
 "Egg cast - 1","egg cast - 1",0,1
+"Egg cast, Y",,0,0
 "egg clutch*",,0,0
 "egg nest",,0,0
 "Egg sacs + embryos (mounted, in spirit)",,0,0
@@ -13041,11 +13042,36 @@ R PERIPHERALS 2 - 3.",,0,0
 "Eggset - null","eggset - null",0,1
 "eggset, alcoholic","alcoholic | eggs",0,1
 "eggset, complete skeleton","eggs | complete skeleton",0,1
+"Eggset, Exch",,0,0
+"Eggset, N",,0,0
+"Eggset, N; Nest, N",,0,0
+"Eggset, N; Nest, N; Skin, N",,0,0
+"Eggset, N; Nest, U",,0,0
+"Eggset, N; Nest, Y",,0,0
+"Eggset, N; Nest, Y; Skin, N",,0,0
+"Eggset, N; Skin, N; Nest, N",,0,0
+"Eggset, N; Skin, Y",,0,0
 "eggset, nest","eggs | nest",0,1
 "eggset, nest, alcoholic","alcoholic | eggs | nest",0,1
 "Eggset, one young one [of the two in the nest was] preserved in alcohol",,0,0
+"Eggset, one young one [of the two in the nest was] preserved in alcohol, Y",,0,0
 "Eggset, T",,0,0
+"Eggset, U",,0,0
+"Eggset, U; Nest, N",,0,0
+"Eggset, U; Nest, Y",,0,0
 "eggset, wing","eggs | wing",0,1
+"Eggset, Y",,0,0
+"Eggset, Y; Flat_skin, Y; Skel, Y; Fluid, Y",,0,0
+"Eggset, Y; Fluid, Y",,0,0
+"Eggset, Y; Nest, N",,0,0
+"Eggset, Y; Nest, Y",,0,0
+"Eggset, Y; Nest, Y; Tissue, Y",,0,0
+"Eggset, Y; Skel, Y; Flat_skin, Y; Feather, N",,0,0
+"Eggset, Y; Skel, Y; Tissue, Y; Syrinx, Y; Skin, Y",,0,0
+"Eggset, Y; Skin, Y",,0,0
+"Eggset, Y; Skin, Y; Nest, N",,0,0
+"Eggset, Y; Tissue, Y",,0,0
+"Eggset, Y; Tissue; Fluid, Y",,0,0
 "Eggset; Flat_skin; Skel","eggs | flat skin | skeleton",0,1
 "Eggset; Flat_skin; Skel; Fluid","eggs | flat skin | fluid | skeleton",0,1
 "Eggset; Fluid","eggs | fluid",0,1
@@ -13057,6 +13083,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Eggset; Skin","eggs | skin",0,1
 "Eggset; Skin; Nest",,0,0
 "Eggset; Tissue","eggs | tissue",0,1
+"Eggset; Tissue, Y",,0,0
 "Eggset; Tissue; Fluid",,0,0
 "Eggset; Tissue; Skin","eggs | skin | tissue",0,1
 "EGGSHELL","egg",0,1
@@ -13397,8 +13424,35 @@ R PERIPHERALS 2 - 3.",,0,0
 "Feather development (in spirit)",,0,0
 "FEATHER SHAFT",,0,0
 "feather w part+counterpart",,0,0
+"Feather, N",,0,0
+"Feather, N; Skel, Y; Flat_skin, Y",,0,0
+"Feather, N; Skin, U; Skin/toe clip, N",,0,0
+"Feather, N; Skin, Y",,0,0
 "feather, part and counterpart",,0,0
 "FEATHER, tissue","feather | tissue",0,1
+"Feather, U; Skin, Y",,0,0
+"Feather, U; Syrinx, Y; Skin, U; Skel, Y",,0,0
+"Feather, U; Tissue, U; Syrinx, Y; Skin, U; Skel, Y",,0,0
+"Feather, Y",,0,0
+"Feather, Y; Genbank, Y; Genbank, Y",,0,0
+"Feather, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Feather, Y; Skel, Y",,0,0
+"Feather, Y; Skel, Y; Flat_skin, Y; Feather, N",,0,0
+"Feather, Y; Skel, Y; Skin, Y; Wings_tail, Y",,0,0
+"Feather, Y; Skel, Y; Tissue, Y; Genbank, Y; Genbank, Y",,0,0
+"Feather, Y; Skel, Y; Wings_tail, Y",,0,0
+"Feather, Y; Skin, 1 nematode, svl cestodes in gut (all measured), Y",,0,0
+"Feather, Y; Skin, Y",,0,0
+"Feather, Y; Skin, Y; Genbank, Y; Genbank, Y",,0,0
+"Feather, Y; Skin, Y; Skel, Y; Wings_tail, Y",,0,0
+"Feather, Y; Skin, Y; Tissue, Y",,0,0
+"Feather, Y; Skin, Y; Tissue, Y; Genbank, Y",,0,0
+"Feather, Y; Skin, Y; Tissue, Y; Skel partial, Y",,0,0
+"Feather, Y; Skin/toe clip, N",,0,0
+"Feather, Y; Skin/toe clip, N; Skin, Y",,0,0
+"Feather, Y; Tissue, Y; Skel, Y",,0,0
+"Feather, Y; Tissue, Y; Skel, Y; Wings_tail, Y; Fluid, Y",,0,0
+"Feather, Y; Tissue, Y; Wings_tail, Y",,0,0
 "Feather; Eggset; Flat_skin; Skel",,0,0
 "Feather; Feather; Feather; Feather; Skin; Feather",,0,0
 "Feather; Feather; Feather; Skin",,0,0
@@ -14046,25 +14100,49 @@ R PERIPHERALS 2 - 3.",,0,0
 "Flat_skin - null; Skel - 1","flat skin - null | skeleton - 1",0,1
 "Flat_skin - null; Skel - null","flat skin - null | skeleton - null",0,1
 "Flat_skin - null; Tissue - 1; Skel - 1; Syrinx - 1","flat skin - null | tissue - 1 | skeleton - 1 | syrinx - 1",0,1
+"Flat_skin, degreased in Stodsol and made up, Y; Skel, degreased in Stodsol and made up, Y",,0,0
 "Flat_skin, degreased in Stodsol and made up; Skel, degreased in Stodsol and made up",,0,0
+"Flat_skin, Exch; Skel, Exch; Syrinx, Exch",,0,0
+"Flat_skin, gizzard saved, Y; Skel, gizzard saved, Y",,0,0
+"Flat_skin, gizzard saved; pelt degreased and made up, Y; Skel, gizzard saved; pelt degreased and made up, Y",,0,0
 "Flat_skin, gizzard saved; pelt degreased and made up; Skel, gizzard saved; pelt degreased and made up",,0,0
+"Flat_skin, gizzard saved; pelt degreased and pinned out, Y; Skel, gizzard saved; pelt degreased and pinned out, Y",,0,0
 "Flat_skin, gizzard saved; pelt degreased and pinned out; Skel, gizzard saved; pelt degreased and pinned out",,0,0
+"Flat_skin, gizzard saved; pelt made up, Y; Skel, gizzard saved; pelt made up, Y",,0,0
 "Flat_skin, gizzard saved; pelt made up; Skel, gizzard saved; pelt made up",,0,0
+"Flat_skin, gizzard saved; pelt scraped, degreased, Y; Skel, gizzard saved; pelt scraped, degreased, Y",,0,0
 "Flat_skin, gizzard saved; pelt scraped, degreased; Skel, gizzard saved; pelt scraped, degreased",,0,0
 "Flat_skin, gizzard saved; Skel, gizzard saved",,0,0
+"Flat_skin, Instead of being boiled, this skeleton was soaked in conc. ammonium hydroxide for 4 days.  (20 Feb. 1991) RWS, Y; Skel, Instead of being boiled, this skeleton was soaked in conc. ammonium hydroxide for 4 days.  (20 Feb. 1991) RWS, Y; Fluid, Y;",,0,0
 "Flat_skin, Instead of being boiled, this skeleton was soaked in conc. ammonium hydroxide for 4 days.  (20 Feb. 1991) RWS; Skel, Instead of being boiled, this skeleton was soaked in conc. ammonium hydroxide for 4 days.  (20 Feb. 1991) RWS; Fluid;",,0,0
+"Flat_skin, L [pectoralis and supracoracoideus?] saved, Y; Skel, L [pectoralis and supracoracoideus?] saved, Y",,0,0
 "Flat_skin, L [pectoralis and supracoracoideus?] saved; Skel, L [pectoralis and supracoracoideus?] saved",,0,0
+"Flat_skin, N",,0,0
+"Flat_skin, N; Skel, N",,0,0
+"Flat_skin, N; Skel, Y",,0,0
+"Flat_skin, pelt cleaned and degreased, Y; Skel, pelt cleaned and degreased, Y",,0,0
 "Flat_skin, pelt cleaned and degreased; Skel, pelt cleaned and degreased",,0,0
+"Flat_skin, pelt degreased and made up, Y; Skel, pelt degreased and made up, Y",,0,0
 "Flat_skin, pelt degreased and made up; Skel, pelt degreased and made up",,0,0
+"Flat_skin, pelt degreased and pinned out, Y; Skel, , Y",,0,0
+"Flat_skin, pelt degreased and pinned out, Y; Skel, pelt degreased and pinned out, Y",,0,0
 "Flat_skin, pelt degreased and pinned out; Skel, ",,0,0
 "Flat_skin, pelt degreased and pinned out; Skel, pelt degreased and pinned out",,0,0
+"Flat_skin, pelt degreased and prep., Y; Skel, pelt degreased and prep., Y",,0,0
 "Flat_skin, pelt degreased and prep.; Skel, pelt degreased and prep.",,0,0
+"Flat_skin, pelt degreased in Stodsol and made up, Y; Skel, pelt degreased in Stodsol and made up, Y",,0,0
 "Flat_skin, pelt degreased in Stodsol and made up; Skel, pelt degreased in Stodsol and made up",,0,0
+"Flat_skin, pelt prep, Y; Skel, pelt prep, Y",,0,0
+"Flat_skin, pelt prep, Y; Skel, Y",,0,0
 "Flat_skin, pelt prep; Skel, pelt prep",,0,0
+"Flat_skin, pelt salted in field; reproductive organs pickled, Y; Skel, pelt salted in field; reproductive organs pickled, Y",,0,0
 "Flat_skin, pelt salted in field; reproductive organs pickled; Skel, pelt salted in field; reproductive organs pickled",,0,0
+"Flat_skin, relaxed in Dreft, degreased in Stodsol; middle segment of neck skin evidently lost, Y; Skel, relaxed in Dreft, degreased in Stodsol; middle segment of neck skin evidently lost, Y",,0,0
 "Flat_skin, relaxed in Dreft, degreased in Stodsol; middle segment of neck skin evidently lost; Skel, relaxed in Dreft, degreased in Stodsol; middle segment of neck skin evidently lost",,0,0
+"Flat_skin, salted pelt made up, Y; Skel, salted pelt made up, Y",,0,0
 "Flat_skin, salted pelt made up; Skel, salted pelt made up",,0,0
 "Flat_skin, scapulars lost; Skel, ; Feather",,0,0
+"Flat_skin, skin salted in field, Y; Skel, skin salted in field, Y",,0,0
 "Flat_skin, skin salted in field; Skel, skin salted in field",,0,0
 "Flat_skin, tissue T-696; Skel, tissue T-696; Syrinx, tissue T-696",,0,0
 "Flat_skin, tissue T-741; Skel, tissue T-741; Tissue, tissue T-741; Syrinx, tissue T-741; Wings_tail, tissue T-741",,0,0
@@ -14074,10 +14152,56 @@ R PERIPHERALS 2 - 3.",,0,0
 "Flat_skin, tissue T-756; Skel, tissue T-756; Tissue, tissue T-756; Syrinx, tissue T-756; Fluid",,0,0
 "Flat_skin, tissue T-757; Skel, tissue T-757; Tissue, tissue T-757; Syrinx, tissue T-757",,0,0
 "Flat_skin, tissue T-758; Skel, tissue T-758; Tissue, tissue T-758; Syrinx, tissue T-758",,0,0
+"Flat_skin, U",,0,0
+"Flat_skin, U; Skel, Y",,0,0
+"Flat_skin, U; Skel, Y; Syrinx, Y",,0,0
+"Flat_skin, U; Skel, Y; Syrinx, Y; Tissue, U",,0,0
+"Flat_skin, U; Skin/toe clip, N",,0,0
 "Flat_skin, washed in Dreft and Stodsol",,0,0
 "Flat_skin, washed in Dreft and Stodsol; Skel, washed in Dreft and Stodsol",,0,0
 "Flat_skin, washed in Dreft and Stodsol; Skel, washed in Dreft and Stodsol; Skin/toe clip",,0,0
 "Flat_skin, washed in Dreft and Stodsol; Skin/toe clip",,0,0
+"Flat_skin, Y",,0,0
+"Flat_skin, Y; Fluid, Y",,0,0
+"Flat_skin, Y; Fluid, Y; Skin/toe clip, N; Feather, Y",,0,0
+"Flat_skin, Y; Image, Y; Skel, Y",,0,0
+"Flat_skin, Y; Skel, Exch",,0,0
+"Flat_skin, Y; Skel, Exch; Syrinx, Y",,0,0
+"Flat_skin, Y; Skel, N",,0,0
+"Flat_skin, Y; Skel, U",,0,0
+"Flat_skin, Y; Skel, Y",,0,0
+"Flat_skin, Y; Skel, Y; Feather, N",,0,0
+"Flat_skin, Y; Skel, Y; Feather, N; Feather, N",,0,0
+"Flat_skin, Y; Skel, Y; Feather, N; Fluid, Y; Feather, N",,0,0
+"Flat_skin, Y; Skel, Y; Feather, Y",,0,0
+"Flat_skin, Y; Skel, Y; Fluid, Y",,0,0
+"Flat_skin, Y; Skel, Y; Fluid, Y; Feather, N",,0,0
+"Flat_skin, Y; Skel, Y; Skin/toe clip, N",,0,0
+"Flat_skin, Y; Skel, Y; Skin/toe clip, N; Fluid, Y",,0,0
+"Flat_skin, Y; Skel, Y; Syrinx, Y",,0,0
+"Flat_skin, Y; Skel, Y; Syrinx, Y; Tissue, U",,0,0
+"Flat_skin, Y; Skel, Y; Syrinx, Y; Tissue, Y",,0,0
+"Flat_skin, Y; Skel, Y; Syrinx, Y; Tissue, Y; Genbank, Y",,0,0
+"Flat_skin, Y; Skel, Y; Syrinx, Y; Wings_tail, Y",,0,0
+"Flat_skin, Y; Skel, Y; Tissue, U; Syrinx, Y",,0,0
+"Flat_skin, Y; Skel, Y; Tissue, Y",,0,0
+"Flat_skin, Y; Skel, Y; Tissue, Y; Syrinx, Y",,0,0
+"Flat_skin, Y; Skel, Y; Tissue, Y; Syrinx, Y; Fluid, Y",,0,0
+"Flat_skin, Y; Skel, Y; Tissue, Y; Syrinx, Y; Wings_tail, Y",,0,0
+"Flat_skin, Y; Skel, Y; Tissue, Y; Wings_tail, Y",,0,0
+"Flat_skin, Y; Skel, Y; Wings_tail, Y",,0,0
+"Flat_skin, Y; Skin, Y; Syrinx, Y; Tissue, Y",,0,0
+"Flat_skin, Y; Skin/toe clip, N",,0,0
+"Flat_skin, Y; Syrinx, Y; Skel, Y",,0,0
+"Flat_skin, Y; Syrinx, Y; Skel, Y; Tissue, Y",,0,0
+"Flat_skin, Y; Tissue, Y",,0,0
+"Flat_skin, Y; Tissue, Y; Skel, Y",,0,0
+"Flat_skin, Y; Tissue, Y; Skel, Y; Syrinx, Y",,0,0
+"Flat_skin, Y; Tissue, Y; Skel, Y; Syrinx, Y; Genbank, Y; Genbank, Y",,0,0
+"Flat_skin, Y; Tissue, Y; Skel, Y; Syrinx, Y; Wings_tail, U",,0,0
+"Flat_skin, Y; Tissue, Y; Skel, Y; Wings_tail, Y",,0,0
+"Flat_skin, Y; Tissue, Y; Syrinx, Y; Skel, Y",,0,0
+"Flat_skin, Y; Wings_tail, Y",,0,0
 "Flat_skin; Fluid",,0,0
 "Flat_skin; Fluid; Feather",,0,0
 "Flat_skin; Fluid; Skel",,0,0
@@ -15442,6 +15566,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid, ?????Skin, Skull","fluid | skin | skull",0,1
 "Fluid, Baculum",,0,0
 "Fluid, blood sample taken",,0,0
+"Fluid, blood sample taken, Y",,0,0
 "Fluid, blood, bursa, H, L, M [saved]; tissue T-645; Tissue, blood, bursa, H, L, M [saved]; tissue T-645",,0,0
 "Fluid, Breast muscle",,0,0
 "Fluid, C&S","cleared and stained | fluid",0,1
@@ -15450,6 +15575,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid, C&S, Dry, Hemipenis","cleared and stained | dry | fluid | hemipenis",0,1
 "Fluid, C&S, Hemipenis","cleared and stained | fluid | hemipenis",0,1
 "fluid, carapace",,0,0
+"Fluid, cleaned in Stodsol 20 Apr, preserved 21 Apr, Y; Syrinx, cleaned in Stodsol 20 Apr, preserved 21 Apr, Y",,0,0
 "Fluid, cleaned in Stodsol 20 Apr, preserved 21 Apr; Syrinx, cleaned in Stodsol 20 Apr, preserved 21 Apr",,0,0
 "fluid, cleared and stained",,0,0
 "fluid, cleared and stained, tissue",,0,0
@@ -15476,6 +15602,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "fluid, electric organ discharge recording, tissue, slide",,0,0
 "Fluid, fixed in buffered formalin and salt",,0,0
 "Fluid, fixed in buffered formalin and salt; mallophaga preserved",,0,0
+"Fluid, fixed in buffered formalin and salt; mallophaga preserved, Y",,0,0
 "Fluid, fixed in buffered formalin and salt; Syrinx, fixed in buffered formalin and salt",,0,0
 "Fluid, fixed in formalin and salt",,0,0
 "fluid, fluid","fluid",0,1
@@ -15525,6 +15652,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid, Misc","fluid | miscellaneous",1,1
 "fluid, miscellaneous",,0,0
 "fluid, miscellaneous, tissue, miscellaneous",,0,0
+"Fluid, N",,0,0
+"Fluid, N; Skel, Y; Skin, Y",,0,0
 "Fluid, PART, Skin","fluid | partial skeleton | skin",0,1
 "Fluid, PART, Skin, tissue","fluid | partial skeleton | skin | tissue",0,1
 "Fluid, PART, Skull","fluid | partial skeleton | skull",0,1
@@ -15533,6 +15662,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "fluid, photograph, tissue",,0,0
 "fluid, photograph, tissue, electric organ discharge recording, tissue",,0,0
 "Fluid, preserved in formalin and salt",,0,0
+"Fluid, preserved in formalin and salt, Y",,0,0
 "Fluid, Recording","fluid | recording",1,1
 "Fluid, Recording, Microtechnique","fluid | microtechnique | recording",0,1
 "Fluid, Recording, Tissue","fluid | recording | tissue",1,1
@@ -15563,6 +15693,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "fluid, slide, tissue, electric organ discharge recording",,0,0
 "fluid, sound recordings",,0,0
 "Fluid, stomach removed",,0,0
+"Fluid, stomach removed, Y",,0,0
 "Fluid, Syrinx, Skeleton, Syrinx",,0,0
 "Fluid, Syrinx, Skeleton, Tissue (DMSO/EDTA Buffer / No Medium), Syrinx",,0,0
 "Fluid, Syrinx, Syrinx",,0,0
@@ -15603,7 +15734,33 @@ R PERIPHERALS 2 - 3.",,0,0
 "fluid, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue",,0,0
 "fluid, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue",,0,0
 "fluid, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue",,0,0
+"Fluid, U",,0,0
+"Fluid, viscera examined for parasites; stomach and contents preserved separately, Y; Tissue, N",,0,0
 "Fluid, viscera examined for parasites; stomach and contents preserved separately; Tissue",,0,0
+"Fluid, Y",,0,0
+"Fluid, Y; Eggset, Y",,0,0
+"Fluid, Y; Feather, Y",,0,0
+"Fluid, Y; Feather, Y; Flat_skin, Y; Feather, Y",,0,0
+"Fluid, Y; Flat_skin, skin from alcoholic, Y; Feather, Y",,0,0
+"Fluid, Y; Flat_skin, Y",,0,0
+"Fluid, Y; Flat_skin, Y; Feather, Y",,0,0
+"Fluid, Y; Flat_skin, Y; Feather, Y; Fluid, Y",,0,0
+"Fluid, Y; Fluid, N",,0,0
+"Fluid, Y; Fluid, Y",,0,0
+"Fluid, Y; Image, Y",,0,0
+"Fluid, Y; Skel, Y",,0,0
+"Fluid, Y; Skin, U",,0,0
+"Fluid, Y; Skin, Y",,0,0
+"Fluid, Y; Syrinx, Y",,0,0
+"Fluid, Y; Syrinx, Y; Skel, Y; Tissue, N; Genbank, Y; Skin, N; Wings_tail, Y",,0,0
+"Fluid, Y; Syrinx, Y; Tissue, U",,0,0
+"Fluid, Y; Tissue, eye removed, Y",,0,0
+"Fluid, Y; Tissue, N",,0,0
+"Fluid, Y; Tissue, U",,0,0
+"Fluid, Y; Tissue, U; Syrinx, Y",,0,0
+"Fluid, Y; Tissue, Y",,0,0
+"Fluid, Y; Tissue, Y; Syrinx, Y",,0,0
+"Fluid, Y; Wings_tail, Y",,0,0
 "Fluid; Feather",,0,0
 "Fluid; Feather; Flat_skin; Feather",,0,0
 "Fluid; Feather; Flat_skin; Fluid",,0,0
@@ -16576,6 +16733,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Genbank - 1; Wings_tail - 1","Genbank - 1 | wings_tail - 1",0,1
 "Genbank - 1; Wings_tail - 1; Tissue - 1; Genbank - 1","Genbank - 1 | wings_tail - 1 | tissue - 1 | Genbank - 1",0,1
 "Genbank - 1; Wings_tail - 1; Tissue - 24; Skel - 1; Genbank - 1; Genbank - 1","Genbank - 1 | wings_tail - 1 | tissue - 24 | skeleton - 1 | Genbank - 1 | Genbank - 1",0,1
+"Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Skin, N; Tissue, U; Genbank, Y; Genbank, Y",,0,0
+"Genbank, Y; Genbank, Y; Skin, Y",,0,0
 "Genbank; Feather; Genbank",,0,0
 "Genbank; Feather; Skin; Genbank",,0,0
 "Genbank; Feather; Tissue; Skel; Genbank",,0,0
@@ -17858,6 +18017,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Image - 1; Skin - 1","image - 1 | skin - 1",0,1
 "Image - 1; Tissue - 1; Skin - 1; Genbank - 1; Genbank - 1; Genbank - 1","image - 1 | tissue - 1 | skin - 1 | Genbank - 1 | Genbank - 1 | Genbank - 1",0,1
 "Image - 2; Nest - 1","image - 2 | nest - 1",0,1
+"Image, U; Skin, Y",,0,0
+"Image, Y; Skin, The bones and those of UMMZ #'s 93,027 & 93,028 were cleaned and degreased in the spring of 1959., Y; Skel, Y",,0,0
+"Image, Y; Skin, Y",,0,0
+"Image, Y; Skin, Y; Genbank, Y",,0,0
 "Image; Image; Skin","image | skin",0,1
 "Image; Nest","image | nest",0,1
 "Image; Skin","image | skin",0,1
@@ -26874,9 +27037,24 @@ R PERIPHERALS 2 - 3.",,0,0
 "nest, egg",,0,0
 "nest, eggs",,0,0
 "nest, eggset","eggs | nest",0,1
+"Nest, Exch; Eggset, Exch",,0,0
+"Nest, N",,0,0
+"Nest, N; Eggset, N",,0,0
+"Nest, N; Eggset, U",,0,0
+"Nest, N; Eggset, Y",,0,0
+"Nest, N; Skin, U; Eggset, N",,0,0
 "nest, none",,0,0
 "nest, tissue","nest | tissue",0,1
 "nest, Tissue number none",,0,0
+"Nest, U",,0,0
+"Nest, U; Eggset, Y",,0,0
+"Nest, U; Skin, N",,0,0
+"Nest, Y",,0,0
+"Nest, Y; Eggset, U",,0,0
+"Nest, Y; Eggset, Y",,0,0
+"Nest, Y; Eggset, Y; Tissue, Y",,0,0
+"Nest, Y; Image, Y",,0,0
+"Nest, Y; Skin, U",,0,0
 "Nest; Eggset","eggs | nest",0,1
 "Nest; Eggset; Skin","eggs | nest | skin",0,1
 "Nest; Eggset; Tissue","eggs | nest | tissue",0,1
@@ -31123,6 +31301,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "pedal+tooth frags",,0,0
 "Peel of part of Holotype",,0,0
 "Peels",,0,0
+"Pellet, Y",,0,0
 "pellets",,0,0
 "pellets | tissue",,0,0
 "pelt","pelt",1,1
@@ -39714,70 +39893,154 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKEL + TISSUE","skeleton | tissue",0,1
 "Skel cast",,0,0
 "Skel cast - 1","skeleton cast - 1",0,1
+"Skel cast, Y",,0,0
 "Skel partial",,0,0
 "Skel partial - 1","skeleton partial - 1",0,1
 "Skel partial - 1; Skin - 1","skeleton partial - 1 | skin - 1",0,1
 "Skel partial - 6","skeleton partial - 6",0,1
+"Skel partial, U",,0,0
+"Skel partial, Y",,0,0
+"Skel partial, Y; Fluid, U",,0,0
+"Skel partial, Y; Skin, Y",,0,0
+"Skel partial, Y; Skin, Y; Tissue, U; Genbank, Y",,0,0
+"Skel partial, Y; Skin, Y; Tissue, Y",,0,0
+"Skel partial, Y; Wings_tail, Y",,0,0
 "Skel partial; Fluid",,0,0
 "Skel partial; Skin",,0,0
 "Skel, ","skeleton",0,1
+"Skel, , Y",,0,0
+"Skel, , Y; Flat_skin, Y; Feather, N",,0,0
 "Skel, 2 cestodes saved",,0,0
+"Skel, 2 cestodes saved, Y",,0,0
 "Skel, 4 vials cestodes saved",,0,0
+"Skel, 4 vials cestodes saved, Y",,0,0
 "Skel, blood saved",,0,0
+"Skel, blood saved, Y",,0,0
 "Skel, boiled briefly in water",,0,0
 "Skel, boiled in water",,0,0
+"Skel, boiled in water, Y",,0,0
+"Skel, brown paper notes suggest past mixup of bones., Y",,0,0
 "Skel, cervical vertebrae strung",,0,0
+"Skel, cervical vertebrae strung, Y",,0,0
 "Skel, cleaned and boxed Mar 1940",,0,0
+"Skel, cleaned and boxed Mar 1940, Y",,0,0
+"Skel, complete skull in skin, Y; Skin, complete skull in skin, Y",,0,0
 "Skel, complete skull in skin; Skin, complete skull in skin",,0,0
 "Skel, completed prep",,0,0
+"Skel, completed prep, Y",,0,0
 "Skel, data taken",,0,0
+"Skel, data taken, Y",,0,0
 "Skel, endoparasites collected",,0,0
+"Skel, endoparasites collected, Y",,0,0
+"Skel, Exch",,0,0
+"Skel, Exch; Feather, Y",,0,0
+"Skel, Exch; Flat_skin, Y",,0,0
+"Skel, Exch; Skin, Y; Wings_tail, Y",,0,0
+"Skel, Exch; Wings_tail, Y",,0,0
 "Skel, fish in crop saved (SMG 397)",,0,0
+"Skel, fish in crop saved (SMG 397), Y",,0,0
 "Skel, food remains from digestive tract saved",,0,0
+"Skel, food remains from digestive tract saved, Y",,0,0
+"Skel, frozen 10 Aug. 1967, Y; Flat_skin, frozen 10 Aug. 1967, Y; Feather, N",,0,0
 "Skel, frozen 10 Aug. 1967; Flat_skin, frozen 10 Aug. 1967; Feather",,0,0
 "Skel, gizzard saved",,0,0
+"Skel, gizzard saved, Y",,0,0
 "Skel, greasy bones boiled in water; result good",,0,0
+"Skel, greasy bones boiled in water; result good, Y",,0,0
 "Skel, impregnated with Alvar",,0,0
 "Skel, internal parasites collected by R W Storer",,0,0
+"Skel, internal parasites collected by R W Storer, Y",,0,0
 "Skel, keep primaries for subspecies ID",,0,0
+"Skel, keep primaries for subspecies ID, Y",,0,0
 "Skel, long bones degreased in ammonium hydroxide - Jan, Oct",,0,0
+"Skel, long bones degreased in ammonium hydroxide - Jan, Oct, Y",,0,0
 "Skel, lung section taken",,0,0
+"Skel, lung section taken, Y",,0,0
 "Skel, mallophaga collected",,0,0
+"Skel, mallophaga collected, Y",,0,0
 "Skel, measurements taken",,0,0
+"Skel, measurements taken, Y",,0,0
 "Skel, missing vertebral column, sternum, ribs, pelvis, L femur",,0,0
 "Skel, missing:  atlas and axis; 1 wing from carpals out; 3 nails, 4 toe bones",,0,0
+"Skel, missing:  atlas and axis; 1 wing from carpals out; 3 nails, 4 toe bones, Y",,0,0
+"Skel, N",,0,0
+"Skel, N; Skin, Y",,0,0
+"Skel, N; Tissue, Y; Syrinx, Y",,0,0
+"Skel, N; Wings_tail, Y",,0,0
+"Skel, neck saved; wing tracing taken; pectoral muscles weighed, Y; Wings_tail, neck saved; wing tracing taken; pectoral muscles weighed, Y",,0,0
 "skel, no skull","skeleton",0,1
 "Skel, Oct. 1945",,0,0
+"Skel, October 1945, Y",,0,0
+"Skel, October 1945., Y",,0,0
 "Skel, On loan",,0,0
 "Skel, originally preserved in liquid",,0,0
+"Skel, originally preserved in liquid, Y",,0,0
 "Skel, ovary saved in formalin",,0,0
+"Skel, ovary saved in formalin, Y",,0,0
 "Skel, parasites collected",,0,0
+"Skel, parasites collected, Y",,0,0
 "Skel, parasites saved",,0,0
+"Skel, parasites saved, Y",,0,0
 "skel, partial","partial skeleton",0,1
 "skel, partial, tissue",,0,0
 "Skel, parts of skeletons PM 2880, 2881 and 2882 were mixed in transit and later sorted by hand (RWS 10 Jun 1978)",,0,0
+"Skel, parts of skeletons PM 2880, 2881 and 2882 were mixed in transit and later sorted by hand (RWS 10 Jun 1978), Y",,0,0
 "Skel, pelt kept",,0,0
+"Skel, pelt kept, Y",,0,0
+"Skel, prep by C.J. Risley, Y",,0,0
+"Skel, prep by F.B. Gill, Y",,0,0
+"Skel, prep by F.Gill, Y",,0,0
+"Skel, prep by Frank B Gill, Y",,0,0
+"Skel, prep by M Nemazi, Y",,0,0
+"Skel, prep by N. Klein, Y",,0,0
+"Skel, Prep by R.B. Payne, Y",,0,0
+"Skel, prep by R.D Prum, Y",,0,0
+"Skel, prep by RB Payne, Y",,0,0
+"Skel, prep by RLZ., Y",,0,0
 "Skel, prep by S W [= Sea World?]",,0,0
+"Skel, prep. 11 June 1971, Y",,0,0
 "Skel, preserved from decay by wad soaked alcohol",,0,0
+"Skel, preserved from decay by wad soaked alcohol, Y",,0,0
 "Skel, preserved in fluid, made into schmoo and partial skeleton",,0,0
+"Skel, preserved in fluid, made into schmoo and partial skeleton, Y",,0,0
+"Skel, salted in the field, Y; Flat_skin, salted in the field, Y",,0,0
 "Skel, salted in the field; Flat_skin, salted in the field",,0,0
+"Skel, September 1945, Y",,0,0
 "Skel, sexed",,0,0
+"Skel, sexed by E.L. Cheatum, Y",,0,0
+"Skel, sexed by J.V. , Y",,0,0
 "Skel, sexed by Van Tyne, Josselyn",,0,0
+"Skel, sexed by Van Tyne, Josselyn, Y",,0,0
+"Skel, sexed, Y",,0,0
 "Skel, skeleton of a specimen preserved in formalin",,0,0
+"Skel, skeleton of a specimen preserved in formalin, Y",,0,0
 "Skel, skull cleaned with Biz",,0,0
+"Skel, skull cleaned with Biz, Y",,0,0
 "Skel, some [beetles from stomach] saved",,0,0
+"Skel, some [beetles from stomach] saved, Y",,0,0
 "Skel, specimen boiled in water",,0,0
 "Skel, specimen preserved in formalin",,0,0
+"Skel, specimen preserved in formalin, Y",,0,0
 "Skel, stomach [saved,] assigned USNMFN 25231 [= 35231?]",,0,0
+"Skel, stomach [saved,] assigned USNMFN 25231 [= 35231?], Y",,0,0
 "Skel, stomach and contents preserved separately",,0,0
+"Skel, stomach and contents preserved separately, Y",,0,0
 "Skel, stomach contents [saved as?] USNMFS 35173",,0,0
+"Skel, stomach contents [saved as?] USNMFS 35173, Y",,0,0
 "Skel, stomach contents [saved as?] USNMFS 35195",,0,0
+"Skel, stomach contents [saved as?] USNMFS 35195, Y",,0,0
 "Skel, stomach contents [saved as?] USNMFS 35207",,0,0
+"Skel, stomach contents [saved as?] USNMFS 35207, Y",,0,0
 "Skel, stomach contents [saved as?] USNMFS 35688",,0,0
+"Skel, stomach contents [saved as?] USNMFS 35688, Y",,0,0
 "Skel, stomach contents [saved as?] USNMFS 35689",,0,0
+"Skel, stomach contents [saved as?] USNMFS 35689, Y",,0,0
 "Skel, stomach contents [saved,] assigned USNMFN 35233",,0,0
+"Skel, stomach contents [saved,] assigned USNMFN 35233, Y",,0,0
 "Skel, stomach saved",,0,0
+"Skel, stomach saved, Y",,0,0
 "Skel, syrinx cleared and stained; Flat_skin, syrinx cleared and stained; Syrinx, syrinx cleared and stained",,0,0
+"Skel, T",,0,0
 "Skel, tail glued in",,0,0
 "skel, tissue","skeleton | tissue",0,1
 "Skel, tissue T-309; Tissue; Tissue, tissue T-309",,0,0
@@ -39797,11 +40060,144 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel, tissue T-744; Tissue, tissue T-744; Syrinx, tissue T-744; Flat_skin, tissue T-744",,0,0
 "Skel, tissue T-745; Tissue, tissue T-745; Syrinx, tissue T-745; Flat_skin, tissue T-745",,0,0
 "Skel, toe bones mounted on cardboard",,0,0
+"Skel, toe bones mounted on cardboard, Y",,0,0
+"Skel, U",,0,0
+"Skel, U; Skin, Y",,0,0
+"Skel, U; Tissue, Y",,0,0
+"Skel, U; Tissue, Y; Genbank, Y",,0,0
+"Skel, U; Tissue, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Skel, U; Wings_tail, Y",,0,0
 "Skel, viscera examined for parasites; stomach and contents preserved separately",,0,0
+"Skel, viscera examined for parasites; stomach and contents preserved separately, Y",,0,0
 "Skel, was prepared with dermestids, water for several months, and hydrogen peroxide for 2 h; too harsh a treatment",,0,0
+"Skel, was prepared with dermestids, water for several months, and hydrogen peroxide for 2 h; too harsh a treatment, Y",,0,0
 "skel, wing and tail","skeleton | tail | wing",0,1
 "Skel, wing saved",,0,0
+"Skel, wing saved, Y",,0,0
 "Skel, Wing's first skeleton",,0,0
+"Skel, Wing's first skeleton, Y",,0,0
+"Skel, Y",,0,0
+"Skel, Y; Eggset, Y",,0,0
+"Skel, Y; Eggset, Y; Flat_skin, Y; Feather, N",,0,0
+"Skel, Y; Feather",,0,0
+"Skel, Y; Feather, N",,0,0
+"Skel, Y; Feather, N; Flat_skin, Y",,0,0
+"Skel, Y; Feather, N; Fluid, Y; Feather, N",,0,0
+"Skel, Y; Feather, N; Skin, Y",,0,0
+"Skel, Y; Feather, U",,0,0
+"Skel, Y; Feather, U; Tissue, U; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Flat_skin, U",,0,0
+"Skel, Y; Feather, U; Wings_tail, U",,0,0
+"Skel, Y; Feather, Y",,0,0
+"Skel, Y; Feather, Y; Flat_skin, Y",,0,0
+"Skel, Y; Feather, Y; Wings_tail, Y",,0,0
+"Skel, Y; Flat_skin",,0,0
+"Skel, Y; Flat_skin, Exch",,0,0
+"Skel, Y; Flat_skin, N",,0,0
+"Skel, Y; Flat_skin, N; Tissue, Y",,0,0
+"Skel, Y; Flat_skin, N; Wings_tail, Y",,0,0
+"Skel, Y; Flat_skin, U",,0,0
+"Skel, Y; Flat_skin, U; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Skel, Y; Flat_skin, Y",,0,0
+"Skel, Y; Flat_skin, Y; Eggset, Y; Feather, N",,0,0
+"Skel, Y; Flat_skin, Y; Feather, N",,0,0
+"Skel, Y; Flat_skin, Y; Feather, N; Eggset, Y",,0,0
+"Skel, Y; Flat_skin, Y; Feather, N; Feather, N",,0,0
+"Skel, Y; Flat_skin, Y; Feather, N; Fluid, Y; Feather, N",,0,0
+"Skel, Y; Flat_skin, Y; Feather, Y; Feather, N",,0,0
+"Skel, Y; Flat_skin, Y; Fluid, Y",,0,0
+"Skel, Y; Flat_skin, Y; Fluid, Y; Feather, N",,0,0
+"Skel, Y; Flat_skin, Y; Skin/toe clip, N",,0,0
+"Skel, Y; Flat_skin, Y; Syrinx, Y",,0,0
+"Skel, Y; Flat_skin, Y; Syrinx, Y; Tissue, Y",,0,0
+"Skel, Y; Flat_skin, Y; Tissue, Y",,0,0
+"Skel, Y; Flat_skin, Y; Tissue, Y; Syrinx, Y",,0,0
+"Skel, Y; Flat_skin, Y; Tissue, Y; Wings_tail, Y",,0,0
+"Skel, Y; Flat_skin, Y; Wings_tail, Y",,0,0
+"Skel, Y; Fluid, Y",,0,0
+"Skel, Y; Fluid, Y; Feather, N",,0,0
+"Skel, Y; Fluid, Y; Skin, Y",,0,0
+"Skel, Y; Fluid, Y; Tissue, Y; Syrinx, Y; Wings_tail, Y",,0,0
+"Skel, Y; Genbank, Y",,0,0
+"Skel, Y; Genbank, Y; Genbank, Y",,0,0
+"Skel, Y; Genbank, Y; Genbank, Y; Genbank, Y; Wings_tail, Y",,0,0
+"Skel, Y; Genbank, Y; Wings_tail, U",,0,0
+"Skel, Y; Skin, Exch",,0,0
+"Skel, Y; Skin, N",,0,0
+"Skel, Y; Skin, preserved in formalin, stored in 70% ethanol until skinned, Y",,0,0
+"Skel, Y; Skin, U",,0,0
+"Skel, Y; Skin, Y",,0,0
+"Skel, Y; Skin, Y; Feather, Y",,0,0
+"Skel, Y; Skin, Y; Skin/toe clip, N; Fluid, Y",,0,0
+"Skel, Y; Skin, Y; Tissue, Y; Syrinx, Y; Fluid, Y",,0,0
+"Skel, Y; Skin/toe clip, N",,0,0
+"Skel, Y; Skin/toe clip, Y",,0,0
+"Skel, Y; Syrinx, N",,0,0
+"Skel, Y; Syrinx, Y",,0,0
+"Skel, Y; Syrinx, Y; Feather, Y",,0,0
+"Skel, Y; Syrinx, Y; Flat_skin, Y",,0,0
+"Skel, Y; Syrinx, Y; Flat_skin, Y; Tissue, Y",,0,0
+"Skel, Y; Syrinx, Y; Flat_skin, Y; Tissue, Y; Wings_tail, Y",,0,0
+"Skel, Y; Syrinx, Y; Fluid, Y",,0,0
+"Skel, Y; Syrinx, Y; Skin, U",,0,0
+"Skel, Y; Syrinx, Y; Skin, Y",,0,0
+"Skel, Y; Syrinx, Y; Skin, Y; Tissue, Y",,0,0
+"Skel, Y; Syrinx, Y; Tissue, U",,0,0
+"Skel, Y; Syrinx, Y; Tissue, U; Flat_skin, U",,0,0
+"Skel, Y; Syrinx, Y; Tissue, Y",,0,0
+"Skel, Y; Syrinx, Y; Tissue, Y; Flat_skin, Y",,0,0
+"Skel, Y; Syrinx, Y; Tissue, Y; Flat_skin, Y; Wings_tail, Y",,0,0
+"Skel, Y; Syrinx, Y; Tissue, Y; Fluid, Y",,0,0
+"Skel, Y; Syrinx, Y; Tissue, Y; Skin, Y",,0,0
+"Skel, Y; Syrinx, Y; Tissue, Y; Wings_tail, Y",,0,0
+"Skel, Y; Syrinx, Y; Wings_tail, U",,0,0
+"Skel, Y; Syrinx, Y; Wings_tail, Y",,0,0
+"Skel, Y; Thin section, Y",,0,0
+"Skel, Y; Tissue",,0,0
+"Skel, Y; Tissue, N",,0,0
+"Skel, Y; Tissue, N; Flat_skin, N",,0,0
+"Skel, Y; Tissue, N; Tissue, Y",,0,0
+"Skel, Y; Tissue, U",,0,0
+"Skel, Y; Tissue, U; Feather, Y",,0,0
+"Skel, Y; Tissue, U; Flat_skin, U",,0,0
+"Skel, Y; Tissue, U; Genbank, Y; Genbank, Y",,0,0
+"Skel, Y; Tissue, U; Skin, U",,0,0
+"Skel, Y; Tissue, U; Skin, U; Genbank, Y",,0,0
+"Skel, Y; Tissue, U; Skin, Y; Genbank, Y",,0,0
+"Skel, Y; Tissue, U; Syrinx, Y",,0,0
+"Skel, Y; Tissue, U; Syrinx, Y; Wings_tail, Y",,0,0
+"Skel, Y; Tissue, U; Wings_tail, Y",,0,0
+"Skel, Y; Tissue, Y",,0,0
+"Skel, Y; Tissue, Y; Feather, Y",,0,0
+"Skel, Y; Tissue, Y; Flat_skin, Y",,0,0
+"Skel, Y; Tissue, Y; Flat_skin, Y; Feather, Y",,0,0
+"Skel, Y; Tissue, Y; Flat_skin, Y; Syrinx, Y",,0,0
+"Skel, Y; Tissue, Y; Genbank, Y",,0,0
+"Skel, Y; Tissue, Y; Genbank, Y; Genbank, Y",,0,0
+"Skel, Y; Tissue, Y; Genbank, Y; Genbank, Y; Genbank, Y; Skin, Y",,0,0
+"Skel, Y; Tissue, Y; Genbank, Y; Genbank, Y; Genbank, Y; Wings_tail, Y",,0,0
+"Skel, Y; Tissue, Y; Skel, Y",,0,0
+"Skel, Y; Tissue, Y; Skin, Y",,0,0
+"Skel, Y; Tissue, Y; Skin, Y; Wings_tail, Y",,0,0
+"Skel, Y; Tissue, Y; Sound, Y",,0,0
+"Skel, Y; Tissue, Y; Syrinx, Y",,0,0
+"Skel, Y; Tissue, Y; Syrinx, Y; Flat_skin, Y",,0,0
+"Skel, Y; Tissue, Y; Syrinx, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Skin, Y",,0,0
+"Skel, Y; Tissue, Y; Syrinx, Y; Genbank, Y; Genbank, Y; Wings_tail, Y",,0,0
+"Skel, Y; Tissue, Y; Syrinx, Y; Wings_tail, Y",,0,0
+"Skel, Y; Tissue, Y; Thin section, Y; Skin, Y; Wings_tail, Y",,0,0
+"Skel, Y; Tissue, Y; Wings_tail, Y",,0,0
+"Skel, Y; Tissue, Y; Wings_tail, Y; Wings_tail, Y",,0,0
+"Skel, Y; Wings_tail, U",,0,0
+"Skel, Y; Wings_tail, Y",,0,0
+"Skel, Y; Wings_tail, Y; Feather, Y; Flat_skin, Y",,0,0
+"Skel, Y; Wings_tail, Y; Flat_skin, Y",,0,0
+"Skel, Y; Wings_tail, Y; Flat_skin, Y; Feather, Y",,0,0
+"Skel, Y; Wings_tail, Y; Skin, Y",,0,0
+"Skel, Y; Wings_tail, Y; Syrinx, Y",,0,0
+"Skel, Y; Wings_tail, Y; Syrinx, Y; Tissue, Y",,0,0
+"Skel, Y; Wings_tail, Y; Tissue, Y",,0,0
+"Skel, Y; Wings_tail, Y; Tissue, Y; Flat_skin, Y",,0,0
+"Skel, Y; Wings_tail, Y; Tissue, Y; Syrinx, Y",,0,0
 "skel/baculum","baculum | skeleton",0,1
 "skel/foot","foot | skeleton",0,1
 "skel/no skull","skeleton",0,1
@@ -44517,19 +44913,189 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKIN WITH SKULL IN FLUID","fluid skin with skull",0,1
 "skin",,0,0
 "Skin, ","skin",0,1
+"Skin,  , Y",,0,0
+"Skin,  28-JUN-1952 ., Y",,0,0
+"Skin,  5 Jun 1952, Y",,0,0
+"Skin,  April 1985, Y",,0,0
+"Skin,  Sept. 1955 - REM, Y",,0,0
+"Skin,  sk and sex by J Van Tyne, Y",,0,0
 "Skin, & Stodsol",,0,0
+"Skin, & Stodsol, Y",,0,0
 "Skin, (1) prep, (2) washed in Dreft and Stodsol and remade; date prepared refers to (2)",,0,0
+"Skin, (1) prep, (2) washed in Dreft and Stodsol and remade; date prepared refers to (2), Y",,0,0
 "Skin, (1) prep; (2) relaxed in Dreft and Stodsol and remade; date prepared refers to (2)",,0,0
+"Skin, (1) prep; (2) relaxed in Dreft and Stodsol and remade; date prepared refers to (2), Y",,0,0
 "Skin, (1) prep; (2) washed in Dreft and Stodsol; preparator's # refers to (1), date prepared refers to (2)",,0,0
+"Skin, (1) prep; (2) washed in Dreft and Stodsol; preparator's # refers to (1), date prepared refers to (2), Y",,0,0
 "Skin, (1) relaxed, scraped, washed in Dreft, and made up; date prepared refers to (1)",,0,0
 "Skin, (PSH June 1955).",,0,0
+"Skin, (PSH June 1955)., Y",,0,0
 "skin, (skull?)",,0,0
+"Skin, , Y",,0,0
+"Skin, /y",,0,0
 "Skin, [originally] preserved in formaldehyde",,0,0
+"Skin, [originally] preserved in formaldehyde, Y",,0,0
 "Skin, [weighed with a] postal scale",,0,0
+"Skin, [weighed with a] postal scale, Y",,0,0
+"Skin, 09/1952, Y",,0,0
+"Skin, 09/20/1949, Y",,0,0
+"Skin, 1 Aug 1952, Y",,0,0
+"Skin, 1 Aug 52 ojo, Y",,0,0
+"Skin, 1 Aug '52, Y",,0,0
+"Skin, 1 Feb 1956, Y",,0,0
+"Skin, 1 Nov 1976, Y",,0,0
+"Skin, 10 Jan 1951 , Y",,0,0
+"Skin, 10 June 1952 , Y",,0,0
+"Skin, 10 March 1950, Y",,0,0
+"Skin, 10 March 1952, Y",,0,0
+"Skin, 10 May 1951, Y",,0,0
+"Skin, 11 Aug 1952, Y",,0,0
+"Skin, 11 July 1949, Y",,0,0
+"Skin, 11 July 1958, Y",,0,0
+"Skin, 11 June 1951, Y",,0,0
+"Skin, 11 March 1952 OJO, Y",,0,0
+"Skin, 11 March '52, Y",,0,0
+"Skin, 11 May 1951, Y",,0,0
+"Skin, 11 May 51, Y",,0,0
+"Skin, 11 Oct 1955, Y",,0,0
+"Skin, 12 Aug 1952, Y",,0,0
+"Skin, 12 Aug. 1952, Y",,0,0
+"Skin, 12 Feb 1952, Y",,0,0
+"Skin, 12 March '52, Y",,0,0
+"Skin, 12 Oct 55, Y",,0,0
+"Skin, 13 Apr 1952, Y",,0,0
+"Skin, 13 Aug 1952, Y",,0,0
+"Skin, 13 Dec 1955, Y",,0,0
+"Skin, 13 July 1949, Y",,0,0
+"Skin, 13 Oct 55, Y",,0,0
+"Skin, 14 Dec. 1955, Y",,0,0
+"Skin, 14 Feb 1952, Y",,0,0
+"Skin, 14 July 1958, Y",,0,0
+"Skin, 14 June 1951, Y",,0,0
+"Skin, 14 June 1952, Y",,0,0
+"Skin, 15 Apr. 1952, Y",,0,0
+"Skin, 15 Dec 1955, Y",,0,0
+"Skin, 15 July 1949, Y",,0,0
+"Skin, 15 July 1952, Y",,0,0
+"Skin, 15 July '52, Y",,0,0
+"Skin, 16 July 1952, Y",,0,0
+"Skin, 16 July 1955, Y",,0,0
+"Skin, 16 June 1952, Y",,0,0
+"Skin, 16 March '52, Y",,0,0
+"Skin, 16 May 1956, Y",,0,0
+"Skin, 17 June '52, Y",,0,0
+"Skin, 17 Mar 1952, Y",,0,0
+"Skin, 17 March 1952, Y",,0,0
+"Skin, 17 March '52, Y",,0,0
+"Skin, 18 Jan 1951, Y",,0,0
+"Skin, 18 July 1949, Y",,0,0
+"Skin, 18 June 1952, Y",,0,0
+"Skin, 18 March 1952, Y",,0,0
+"Skin, 18 March '52, Y",,0,0
+"Skin, 18 Nov. 1953, Y",,0,0
+"Skin, 19 Aug 1952, Y",,0,0
+"Skin, 19 Dec, 1955, Y",,0,0
+"Skin, 19 Feb 1959, Y",,0,0
+"Skin, 19 March '52, Y",,0,0
+"Skin, 19 May 1952, Y",,0,0
+"Skin, 1948, Y",,0,0
+"Skin, 1951, Y",,0,0
+"Skin, 1952?, Y",,0,0
+"Skin, 1953, Y",,0,0
+"Skin, 1972, Y",,0,0
+"Skin, 2 Mar 1952 , Y",,0,0
+"Skin, 2 March 1952, Y",,0,0
 "skin, 2 skulls",,0,0
+"Skin, 20 Aug 1949, Y",,0,0
+"Skin, 20 Dec 1956, Y",,0,0
+"Skin, 20 Jul 1950, Y",,0,0
+"Skin, 20 June 52, Y",,0,0
+"Skin, 20 June '52, Y",,0,0
+"Skin, 21 Apr 1949, Y",,0,0
+"Skin, 21 Jul '52, Y",,0,0
+"Skin, 21 July 1952, Y",,0,0
+"Skin, 21 July 1958, Y",,0,0
+"Skin, 21 July 52 ojo, Y",,0,0
+"Skin, 21 Jun 1952, Y",,0,0
+"Skin, 21 May 1952, Y",,0,0
+"Skin, 22 Dec 1961 , Y",,0,0
+"Skin, 22 July 1958, Y",,0,0
+"Skin, 22 Nov 1955, Y",,0,0
+"Skin, 23 April 1952, Y",,0,0
+"Skin, 23 July 1958, Y",,0,0
+"Skin, 23 June 1952, Y",,0,0
+"Skin, 24 Apr 1951, Y",,0,0
+"Skin, 24 June 1952 , Y",,0,0
+"Skin, 24th July 1966, Y",,0,0
+"Skin, 25 April 1952, Y",,0,0
+"Skin, 25 July 1952, Y",,0,0
+"Skin, 25 June 1952, Y",,0,0
+"Skin, 25 Mar 1952 RWS, Y",,0,0
+"Skin, 25 May 1952, Y",,0,0
+"Skin, 26 Apr 1950, Y",,0,0
+"Skin, 26 Aug 1955, Y",,0,0
+"Skin, 26 Dec 1961, Y",,0,0
+"Skin, 26 ZAug 1955, Y",,0,0
+"Skin, 27 Aug 1949, Y",,0,0
+"Skin, 27 Feb 1952, Y",,0,0
+"Skin, 27 June '52, Y",,0,0
+"Skin, 27 Nov 1956, Y",,0,0
+"Skin, 28 June 1951 , Y",,0,0
+"Skin, 28 June 1952 , Y",,0,0
+"Skin, 28 June '52, Y",,0,0
+"Skin, 28 Nov 1951, Y",,0,0
+"Skin, 28 Nov 1961, Y",,0,0
+"Skin, 29 Jan 1958, Y",,0,0
+"Skin, 29 Jul 1958, Y",,0,0
+"Skin, 29 Mar 1952, Y",,0,0
+"Skin, 29 Sept 1955, Y",,0,0
 "Skin, 2nd class skin, only",,0,0
+"Skin, 2nd class skin, only, Y",,0,0
+"Skin, 3 Jan 1957, Y",,0,0
+"Skin, 30 July 1952, Y",,0,0
+"Skin, 30 June 1951, Y",,0,0
+"Skin, 30 Mar 1952, Y",,0,0
+"Skin, 30 March 1952, Y",,0,0
+"Skin, 30 Sept 1949, Y",,0,0
+"Skin, 30 Sept. 1949, Y",,0,0
+"Skin, 31 Jan 1958, Y",,0,0
+"Skin, 31 July 1952 , Y",,0,0
+"Skin, 4  Aug 1952, Y",,0,0
+"Skin, 4 Aug 1952, Y",,0,0
+"Skin, 4 Dec 1961, Y",,0,0
+"Skin, 4 Jan 1951, Y",,0,0
+"Skin, 4 June 1951, Y",,0,0
+"Skin, 4 June 1952, Y",,0,0
+"Skin, 4 Oct. 1955 (R.E.M.), Y",,0,0
+"Skin, 5 April 1952 , Y",,0,0
+"Skin, 5 April 1952, Y",,0,0
+"Skin, 5 April '52, Y",,0,0
+"Skin, 5 Aug 1952, Y",,0,0
+"Skin, 5 Mar. '52, Y",,0,0
+"Skin, 5 March '52, Y",,0,0
+"Skin, 6 Oct 1949, Y",,0,0
+"Skin, 6/25/2014, Y",,0,0
+"Skin, 7 June '57, Y",,0,0
+"Skin, 7 March '52, Y",,0,0
+"Skin, 7/8/52, Y",,0,0
+"Skin, 8 Aug 1949, Y",,0,0
+"Skin, 8 Aug 1952, Y",,0,0
+"Skin, 8 Aug. 1952, Y",,0,0
+"Skin, 8 August 1949, Y",,0,0
+"Skin, 8 Dec 1955, Y",,0,0
+"Skin, 8 Dec. 1955, Y",,0,0
+"Skin, 8 July 1949, Y",,0,0
+"Skin, 8 Mar 52 RWS, Y",,0,0
+"Skin, 8 May 1951, Y",,0,0
+"Skin, 9 Aug 1952, Y",,0,0
+"Skin, 9 Jan 1955, Y",,0,0
+"Skin, 9 July 1952, Y",,0,0
+"Skin, 9 May 1951, Y",,0,0
+"Skin, 9 Nov 1955, Y",,0,0
+"Skin, 9/19/1949, Y",,0,0
 "Skin, A",,0,0
 "Skin, Accession card: first bird skinned by F. T. Hall",,0,0
+"Skin, Accession card: first bird skinned by F. T. Hall, Y",,0,0
 "skin, alcoholic","alcoholic | skin",0,1
 "skin, alcoholic, tissue",,0,0
 "skin, alcoholic, Tissue number 10246",,0,0
@@ -44548,34 +45114,67 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, alcoholic, Tissue number 3757",,0,0
 "skin, alcoholic, Tissue number 3860",,0,0
 "skin, alcoholic, wingspread, Tissue number 2717",,0,0
+"Skin, Apr 1951, Y",,0,0
+"Skin, Apr 1982, Y",,0,0
+"Skin, April 1950, Y",,0,0
 "Skin, April 1951",,0,0
+"Skin, April 1951, Y",,0,0
+"Skin, April 1985, Y",,0,0
+"Skin, Aug 1951, Y",,0,0
+"Skin, Aug 1951., Y",,0,0
+"Skin, Aug 1954, Y",,0,0
+"Skin, Aug 1957, Y",,0,0
+"Skin, Aug 51, Y",,0,0
+"Skin, Aug '51, Y",,0,0
 "Skin, Aug. 1951",,0,0
+"Skin, Aug. 1951, Y",,0,0
 "Skin, Aug. '51",,0,0
+"Skin, Aug. '51, Y",,0,0
+"Skin, August 1948, Y",,0,0
 "Skin, August 1951",,0,0
+"Skin, August 1951, Y",,0,0
+"Skin, August 1957, Y",,0,0
 "Skin, Baculum",,0,0
 "Skin, bill glued",,0,0
+"Skin, bill glued, Y",,0,0
 "Skin, bird preserved in aformalin alcohol. skinned, pickled trunk.; Fluid",,0,0
+"Skin, bird preserved in formalin, alcohol. skinned, pickled trunk., Y; Fluid, Y",,0,0
 "SKIN, BODY SKELETON","skin | body skeleton",0,1
 "Skin, both testes, adrenal, pituitary, and brood patch strip preserved",,0,0
+"Skin, both testes, adrenal, pituitary, and brood patch strip preserved, Y",,0,0
 "Skin, cestodes and nematodes [saved?  measured?]",,0,0
+"Skin, cestodes and nematodes [saved?  measured?], Y",,0,0
 "Skin, cestodes collected from intestine by R.W.S.",,0,0
+"Skin, cestodes collected from intestine by R.W.S., Y",,0,0
 "Skin, cleaned in Dreft and Stodsol",,0,0
+"Skin, cleaned in Dreft and Stodsol, Y",,0,0
 "Skin, Cleaned in stodsol June 1945",,0,0
 "Skin, Cleared and Stained",,0,0
 "skin, complete skeleton",,0,0
 "skin, complete skeleton, tissue",,0,0
 "Skin, could not be sexed",,0,0
 "Skin, Das versandte Stuck war bedentend dunkler gefarbt.",,0,0
+"Skin, Das versandte Stuck war bedentend dunkler gefarbt., Y",,0,0
+"Skin, Dec 1949, Y",,0,0
+"Skin, Dec 1952, Y",,0,0
+"Skin, Dec 1954, Y",,0,0
+"Skin, Dec. '52 , Y",,0,0
 "Skin, degreased and remade",,0,0
 "Skin, degreased in Stodsol",,0,0
 "Skin, degreased in Stodsol and made up",,0,0
+"Skin, degreased in Stodsol and made up, Y",,0,0
+"Skin, degreased in Stodsol, Y",,0,0
 "Skin, Degreased in stodsol.  Dec 1953 PSH",,0,0
 "Skin, degreased, remade",,0,0
+"Skin, degreased, remade, Y",,0,0
 "Skin, dissected (in spirit)",,0,0
 "Skin, downy feathers on belly lost when washed",,0,0
+"Skin, downy feathers on belly lost when washed, Y",,0,0
 "Skin, dried","dried skin",0,1
+"Skin, dried, Y",,0,0
 "Skin, dry skeleton","dry skeleton | skin",0,1
 "Skin, ectoparasites collected C. T. Collins",,0,0
+"Skin, ectoparasites collected C. T. Collins, Y",,0,0
 "skin, egg, nest",,0,0
 "Skin, Egg/Nest","eggs | nest | skin",0,1
 "skin, eggs, Tissue number 19632",,0,0
@@ -44584,6 +45183,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, eggs, Tissue number 7048",,0,0
 "skin, eggs, Tissue number 7051",,0,0
 "skin, eggs, Tissue number 9367",,0,0
+"Skin, Ex",,0,0
+"Skin, Exch",,0,0
+"Skin, Exch.",,0,0
+"Skin, Exch; Fluid, Exch",,0,0
+"Skin, Exch; Fluid, Y",,0,0
+"Skin, Exch; Skel partial, Y",,0,0
+"Skin, Exch; Tissue, Y",,0,0
 "Skin, Feather samples",,0,0
 "Skin, Feather samples (Breast feathers)",,0,0
 "Skin, Feather samples (Breast feathers), Feather samples (Breast feathers)",,0,0
@@ -44606,35 +45212,111 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, fluid, skull",,0,0
 "Skin, fragment with hairs (in spirit)",,0,0
 "Skin, gizzard saved",,0,0
+"Skin, gizzard saved, Y",,0,0
+"Skin, gizzard saved, Y; Skin/toe clip, N",,0,0
 "Skin, gizzard saved; Skin/toe clip",,0,0
 "Skin, gut cestodes preserved",,0,0
+"Skin, gut cestodes preserved, Y",,0,0
 "skin, in alcohol",,0,0
+"Skin, Jan 18 1956, Y",,0,0
+"Skin, Jan 1952, Y",,0,0
+"Skin, Jan 1954, Y",,0,0
+"Skin, Jan 4 1951, Y",,0,0
+"Skin, Jan 9, 1950, Y",,0,0
+"Skin, Jan. 1952, Y",,0,0
 "Skin, Jan. '52",,0,0
+"Skin, Jan. '52, Y",,0,0
+"Skin, Jan. '54, Y",,0,0
 "skin, jaw",,0,0
+"Skin, July '07, Y",,0,0
 "Skin, July 1951",,0,0
+"Skin, July 1951, Y",,0,0
 "Skin, July '51",,0,0
+"Skin, July '51, Y",,0,0
+"Skin, June 12, '51, Y",,0,0
+"Skin, June 1945 E. K. Miller, Y",,0,0
+"Skin, June 1945, Y",,0,0
+"Skin, June 1951, Y",,0,0
+"Skin, June 1954 , Y",,0,0
+"Skin, June 1955, PSH, Y",,0,0
+"Skin, June 1955, Y",,0,0
 "Skin, Label by T. D. Hinshaw",,0,0
+"Skin, Label by T. D. Hinshaw, Y",,0,0
 "Skin, left femoral down removed",,0,0
+"Skin, left femoral down removed, Y",,0,0
 "Skin, Legs soaked and straightened",,0,0
+"Skin, Legs soaked and straightened, Y",,0,0
 "Skin, made by Max M. Peet",,0,0
+"Skin, made by Max M. Peet, Y",,0,0
 "Skin, made up 11/19/1954",,0,0
+"Skin, made up 11/19/1954, Y",,0,0
+"Skin, made up 2 June '52, Y",,0,0
+"Skin, made up 20 March 1952, Y",,0,0
+"Skin, Made up 24 Apr. 1956, Y",,0,0
+"Skin, Made up 9 Feb 1956, Y",,0,0
+"Skin, Made up 9 Feb. 1956, Y",,0,0
+"Skin, made up from flat , Y",,0,0
+"Skin, made up from flat skin 23 Sept 1949, Y",,0,0
+"Skin, made up from flat, Y",,0,0
 "Skin, made up from flat; Washed in Dreft, degreased in Sodsol",,0,0
 "Skin, mallophaga collected; gizzard saved; degreased and made up from salted skin",,0,0
+"Skin, mallophaga collected; gizzard saved; degreased and made up from salted skin, Y",,0,0
 "skin, mandible",,0,0
 "skin, mandibles",,0,0
+"Skin, Mar 1948, Y",,0,0
+"Skin, Mar 1949, Y",,0,0
+"Skin, Mar 1951, Y",,0,0
+"Skin, Mar '51, Y",,0,0
+"Skin, March 14 1982, Y",,0,0
+"Skin, March 1949, Y",,0,0
 "Skin, March 1950",,0,0
+"Skin, March 1950, Y",,0,0
+"Skin, March 1951, RWS, Y",,0,0
+"Skin, March 1951, Y",,0,0
+"Skin, March 1952, Y",,0,0
+"Skin, March 1982, Y",,0,0
 "Skin, measured length",,0,0
+"Skin, measured length, Y",,0,0
 "Skin, mounted",,0,0
+"Skin, Mounted by William Grant, a Vassar Taxidermist.  Taken down and thoroughly washed in Dreft & Ivory flakes Jan 3-4, 1950 (DAZ & LMZ), Y",,0,0
+"Skin, mounted, Y",,0,0
+"Skin, Mted by Wm. Richter of Saginaw, Y; Feather, Y",,0,0
 "Skin, Mted by Wm. Richter of Saginaw; Feather",,0,0
+"Skin, My first bird skin, Y",,0,0
+"Skin, N",,0,0
+"Skin, N; Feather, Y",,0,0
+"Skin, N; Fluid, Y",,0,0
+"Skin, N; Skel partial, Y",,0,0
+"Skin, N; Skel, N",,0,0
+"Skin, N; Skel, Y",,0,0
+"Skin, N; Tissue, U",,0,0
+"Skin, N; Tissue, Y",,0,0
+"Skin, N; Tissue; Thin section, Y",,0,0
 "skin, nest, eggs",,0,0
 "skin, nest, eggs, Tissue number 20223",,0,0
 "skin, no skull","skin",0,1
+"Skin, not washed, Y",,0,0
+"Skin, Nov 1954, Y",,0,0
+"Skin, Nov. 1954, Y",,0,0
+"Skin, Nov. '51, Y",,0,0
 "Skin, O.OWRE",,0,0
+"Skin, O.OWRE, Y",,0,0
+"Skin, Oct 15, Y",,0,0
+"Skin, Oct 1952, U",,0,0
+"Skin, Oct 1952, Y",,0,0
+"Skin, Oct 1954, Y",,0,0
+"Skin, Oct 1976, Y",,0,0
+"Skin, Oct 76, Y",,0,0
+"Skin, Oct. '52, Y",,0,0
+"Skin, one wing and one leg skinned out, Y; Skel, one wing and one leg skinned out, Y",,0,0
 "Skin, one wing and one leg skinned out; Skel, one wing and one leg skinned out",,0,0
 "skin, other",,0,0
 "skin, other prep","other prep | skin",0,1
 "Skin, ovary preserved",,0,0
+"Skin, ovary preserved, Y",,0,0
 "Skin, ovary saved",,0,0
+"Skin, ovary saved, Y",,0,0
+"Skin, p, Y",,0,0
 "Skin, Par Skeleton, Wing, DNA","DNA | partial skeleton | skin | wing",0,1
 "Skin, PART","skin | partial skeleton",0,1
 "SKIN, PART SKELETON","skin | partial skeleton",0,1
@@ -44643,67 +45325,137 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, partial skeleton:  sternum, furcula, coracoids; Skel",,0,0
 "Skin, piece (in spirit)",,0,0
 "Skin, pituitary preserved; adrenal glands preserved; both testes preserved, tunic cut on right testis",,0,0
+"Skin, pituitary preserved; adrenal glands preserved; both testes preserved, tunic cut on right testis, Y",,0,0
 "Skin, prep by D. A. Lancaster",,0,0
+"Skin, prep by D. A. Lancaster, Y",,0,0
 "Skin, Prep by Dale Zimmerman",,0,0
+"Skin, Prep by Dale Zimmerman, Y",,0,0
 "Skin, Prep by J. J. H.",,0,0
 "Skin, prep by J. P. Hubband and D. A. Zimmerman",,0,0
+"Skin, prep by J. P. Hubband and D. A. Zimmerman, Y",,0,0
 "Skin, Prep by Jake S. Mengel",,0,0
+"Skin, Prep by Jake S. Mengel, Y",,0,0
 "Skin, Prep by Max Minor Peet",,0,0
+"Skin, Prep by Max Minor Peet , Y",,0,0
+"Skin, Prep by Max Minor Peet, Y",,0,0
 "Skin, prep by Nik Ford",,0,0
+"Skin, prep by Nik Ford, Y",,0,0
 "Skin, Prep by P. S Humphrey",,0,0
+"Skin, Prep by P. S Humphrey, Y",,0,0
 "Skin, Prep by P. S. Humphrey",,0,0
+"Skin, Prep by P. S. Humphrey, Y",,0,0
 "Skin, Prep by Paul Slud",,0,0
+"Skin, Prep by Paul Slud, Y",,0,0
 "Skin, prep J. Hindshaw",,0,0
+"Skin, prep J. Hindshaw, Y",,0,0
 "Skin, Prep P. S. Humphrey",,0,0
+"Skin, Prep P. S. Humphrey, Y",,0,0
 "Skin, Prep. by Harrison B. Tordoff",,0,0
 "Skin, Prep. by Max Minor Peet",,0,0
+"Skin, Prep. by Max Minor Peet, Y",,0,0
 "Skin, Prep. R E Morrill",,0,0
 "Skin, preparator's ##:  CDF 22 and JPH 1076",,0,0
 "Skin, prepared as salted skin",,0,0
 "Skin, prepared as salted skin in field",,0,0
+"Skin, prepared as salted skin in field, Y",,0,0
+"Skin, prepared as salted skin, Y",,0,0
 "Skin, Prepared bby Douglas S. Middleton",,0,0
+"Skin, Prepared bby Douglas S. Middleton, Y",,0,0
 "Skin, prepared from a specimen preserved in formalin; skinned, washed in Dreft, soaked in Stodsol",,0,0
+"Skin, prepared from a specimen preserved in formalin; skinned, washed in Dreft, soaked in Stodsol, Y",,0,0
 "Skin, prepared from specimen in formalin",,0,0
+"Skin, prepared from specimen in formalin, Y",,0,0
+"Skin, Preserved  in alcohol for 21 years. Prep 1947, Y; Fluid, Y",,0,0
 "Skin, Preserved  in alcohol for 21 years. Prep 1947; Fluid",,0,0
+"Skin, received salted, Y; Skin/toe clip, N",,0,0
 "Skin, received salted; washed in Dreft and Stodsol and made up; Skin/toe clip",,0,0
 "Skin, relaxed ",,0,0
 "Skin, Relaxed & made up Apr. '51 RWS & PSH",,0,0
+"Skin, Relaxed & made up Apr. '51 RWS & PSH, Y",,0,0
+"Skin, Relaxed & remade 1950., Y",,0,0
+"Skin, relaxed , Y",,0,0
 "Skin, relaxed and made up",,0,0
+"Skin, relaxed and made up , Y",,0,0
 "Skin, relaxed and made up April '51",,0,0
+"Skin, relaxed and made up April '51, Y",,0,0
+"Skin, relaxed and made up, Y",,0,0
+"Skin, Relaxed and remade 12 Oct 1955, Y",,0,0
 "Skin, relaxed and remade Sept 1955",,0,0
+"Skin, relaxed and remade Sept 1955 DAZ, Y; Skin/toe clip, relaxed and remade, N; Feather, Y; Skel, relaxed and remade, Y",,0,0
 "Skin, relaxed and remade Sept 1955 DAZ; Skin/toe clip, relaxed and remade; Feather; Skel, relaxed and remade",,0,0
+"Skin, relaxed and remade Sept 1955, Y",,0,0
 "Skin, relaxed and restuffed",,0,0
+"Skin, Relaxed and restuffed Apr 26, 1950., Y",,0,0
+"Skin, relaxed and restuffed, Y",,0,0
+"Skin, relaxed in Dreft & remade 1 Nov 1965, NL Ford, Y",,0,0
 "Skin, relaxed in Dreft & remade 1 Nov 1965L Ford",,0,0
 "Skin, relaxed, scraped, washed in Dreft",,0,0
+"Skin, Relaxed, scraped, washed in dreft. Soaked in Stodsol. 25 April 1950 RWS, Y",,0,0
 "Skin, relaxed, stuffed",,0,0
+"Skin, relaxed, stuffed, Y",,0,0
 "Skin, relaxed, washed in Dreft and Stodsol, and remade",,0,0
 "Skin, relaxed, washed in Dreft, degreased in Stodsol, remade",,0,0
+"Skin, relaxed, washed in Dreft, degreased in Stodsol, remade, Y",,0,0
 "Skin, Relaxed, washed, and degreased by DAZ",,0,0
+"Skin, Relaxed, washed, and degreased by DAZ, Y",,0,0
 "Skin, remade",,0,0
+"Skin, remade 11 Sept 1949, Y",,0,0
 "Skin, Remade 13 July, 1955 DAZ",,0,0
+"Skin, Remade 13 July, 1955 DAZ, Y",,0,0
+"Skin, remade 19 Dec. 1955, Y",,0,0
 "Skin, Remade 4 Feb 1958 N.L. Ford. Washed in Dreft.",,0,0
 "Skin, Remade 5 Feb 1958",,0,0
+"Skin, Remade 5 Feb 1958, Y",,0,0
 "Skin, remade April 1949",,0,0
+"Skin, remade April 1949, Y",,0,0
 "Skin, remade April, 1949",,0,0
+"Skin, remade April, 1949, Y",,0,0
 "Skin, remade by L D Case",,0,0
+"Skin, remade by L D Case, Y",,0,0
+"Skin, Remade Dec., 1948. , Y",,0,0
 "Skin, Remade from mounted bird by N. L. Ford",,0,0
+"Skin, Remade from mounted bird by N. L. Ford, Y",,0,0
 "Skin, remade from pickled skin",,0,0
+"Skin, remade from pickled skin, Y",,0,0
 "Skin, remade from pickled specimen",,0,0
+"Skin, remade from pickled specimen, Y",,0,0
+"Skin, Remade Jan 18, 1956, Y",,0,0
 "Skin, remade March 1949",,0,0
+"Skin, remade March 1949, Y",,0,0
 "Skin, Re-made March 3, 1950 by D.A.Z. + G.M.S. Not washed",,0,0
 "Skin, remade March, 1949",,0,0
+"Skin, remade March, 1949, Y",,0,0
 "Skin, remade washed, drift aand stedsol",,0,0
 "Skin, Remade, April 1949",,0,0
+"Skin, Remade, April 1949, Y",,0,0
 "Skin, remade, degressed - April 25, 1949 - H.B. Tordoff",,0,0
+"Skin, remade, Y",,0,0
 "Skin, restored by Donald Magoon",,0,0
+"Skin, restored by Donald Magoon, Y",,0,0
 "Skin, Rinsed in water, degreased in stodsol",,0,0
+"Skin, Rinsed in water, degreased in stodsol, Y",,0,0
 "Skin, secondaries stripped from ulna",,0,0
+"Skin, secondaries stripped from ulna, Y",,0,0
 "SKIN, SELETON","skin | skeleton",0,1
+"Skin, Sep 1952, Y",,0,0
+"Skin, Sep 27, 1955, Y",,0,0
+"Skin, Sept 1952, Y",,0,0
+"Skin, Sept 1954, Y",,0,0
+"Skin, Sept 1972, Y",,0,0
+"Skin, Sept '52, Y",,0,0
+"Skin, Sept. 1952, Y",,0,0
+"Skin, Sept. 1955, Y",,0,0
 "Skin, sexed",,0,0
 "Skin, sexed and prepared by P S H; skin by F J H [on date of preparation given above]",,0,0
+"Skin, sexed and prepared by P S H; skin by F J H [on date of preparation given above], Y",,0,0
 "Skin, sexed and stuffed",,0,0
+"Skin, sexed and stuffed, Y",,0,0
+"Skin, sexed by Olson, Y; Fluid, Y",,0,0
 "Skin, sexed by Olson; Fluid",,0,0
+"Skin, sexed, Y",,0,0
+"Skin, shmoo made up, Y; Skel, shmoo made up, Y",,0,0
 "Skin, shmoo made up; Skel, shmoo made up",,0,0
+"Skin, sk and sex, Y; Feather, N",,0,0
 "Skin, sk and sex; Feather",,0,0
 "skin, skel, stom, tissues - 1","skeleton | skin | stomach | tissues - 1",0,1
 "SKIN, SKELEON","skin | skeleton",0,1
@@ -44990,53 +45742,90 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKIN, SKELETON,FEATHERS","skin | skeleton | feathers",0,1
 "skin, skin","skin",0,1
 "Skin, Skin & Sex by DAZ",,0,0
+"Skin, Skin & Sex by DAZ, Y",,0,0
 "Skin, Skin & sex by L W Wing",,0,0
+"Skin, Skin & sex by L W Wing, Y",,0,0
 "Skin, skin and label",,0,0
+"Skin, skin and label, Y",,0,0
 "Skin, skin and sex",,0,0
 "Skin, Skin and sex by Dale A. Zimmerman.",,0,0
+"Skin, Skin and sex by Dale A. Zimmerman., Y",,0,0
 "Skin, Skin and Sex by J VanTyne",,0,0
+"Skin, Skin and Sex by J VanTyne, Y",,0,0
 "Skin, Skin and sex by L W Wing",,0,0
+"Skin, Skin and sex by L W Wing, Y",,0,0
 "Skin, Skin and Sex by L Wing",,0,0
+"Skin, Skin and sex by L Wing, Y",,0,0
 "Skin, Skin and Sex by L. Wing",,0,0
+"Skin, Skin and Sex by L. Wing, Y",,0,0
 "Skin, Skin and sex by LW Wing",,0,0
+"Skin, Skin and sex by LW Wing, Y",,0,0
 "Skin, Skin and Sex by Wing",,0,0
+"Skin, Skin and Sex by Wing, Y",,0,0
+"Skin, skin and sex, Y",,0,0
 "Skin, skin and trunk (pickled); Fluid",,0,0
 "Skin, Skin by Brodkorb",,0,0
+"Skin, Skin by Brodkorb, Y",,0,0
 "Skin, Skin by D. Magoon",,0,0
 "Skin, Skin by Donald Magoon",,0,0
+"Skin, skin by Donald Magoon; sexed by J V[an Tyne], Y",,0,0
 "Skin, Skin by L W Wing",,0,0
+"Skin, Skin by L W Wing, Y",,0,0
 "Skin, Skin by L. D. Case",,0,0
+"Skin, Skin by L. D. Case, Y",,0,0
 "Skin, Skin by L.D. Case",,0,0
+"Skin, Skin by L.D. Case, Y",,0,0
 "Skin, skin by R. Goeller",,0,0
+"Skin, skin by R. Goeller, Y",,0,0
 "Skin, Skin by R. N. H. Jr.",,0,0
+"Skin, Skin by R. N. H. Jr., Y",,0,0
 "Skin, skin by R. Olsen",,0,0
+"Skin, skin by R. Olsen, Y",,0,0
 "Skin, skin by T. D. H.",,0,0
+"Skin, skin by T. D. H., Y",,0,0
 "Skin, skin by T. D. Hinshaw, skin washed by T. D. H.",,0,0
 "Skin, Skin by Westman",,0,0
+"Skin, Skin by Westman, Y",,0,0
 "Skin, Skin cleaned in Stodsol",,0,0
 "Skin, skin Louis W. Campbell",,0,0
+"Skin, skin made from alcoholic 8 Oct. 1981, Y",,0,0
 "Skin, skin prepared",,0,0
 "Skin, skin prepared by",,0,0
 "Skin, skin remade",,0,0
 "Skin, Skin remade, washed in dreft and stodsol - RBP",,0,0
+"Skin, skin remade, Y",,0,0
 "Skin, Skin salted in field and remade",,0,0
+"Skin, Skin salted in field and remade, Y",,0,0
 "Skin, skin salted in the field",,0,0
 "Skin, skin salted in the field and remade",,0,0
+"Skin, skin salted in the field and remade, Y",,0,0
+"Skin, skin salted in the field, Y",,0,0
 "Skin, skin salted in the field; blood and bursa saved",,0,0
+"Skin, skin salted in the field; blood and bursa saved, Y",,0,0
 "Skin, Skin sample, Skin sample","skin | skin sample",0,1
 "Skin, skin set by J. VanTyne",,0,0
+"Skin, skin sex by J. VanTyne, Y",,0,0
 "Skin, skin washed",,0,0
 "Skin, skin washed in dreft",,0,0
 "Skin, skin washed in Dreft and remade",,0,0
 "Skin, skin washed in Dreft Oct. 1976 - RBP",,0,0
 "skin, skin, Tissue number 31368",,0,0
+"Skin, skin, Y",,0,0
 "Skin, skinned and sexed by J VanTyne",,0,0
+"Skin, skinned and sexed by J VanTyne, Y",,0,0
 "Skin, Skinned and sexed by L Wing",,0,0
+"Skin, Skinned and sexed by L Wing, Exch",,0,0
+"Skin, Skinned and sexed by L Wing, Y",,0,0
+"Skin, skinned by K.S., Y",,0,0
 "Skin, skinned by M. M. Peet",,0,0
+"Skin, skinned by M. M. Peet, Y",,0,0
 "Skin, skinned by Max M. Peet",,0,0
+"Skin, skinned by Max M. Peet, Y",,0,0
 "Skin, skinned by R. B. Payne",,0,0
+"Skin, skinned by Stuart, stuffed by Ford, Y; Skel, Y; Skin/toe clip, N",,0,0
 "Skin, skinned by Stuart, stuffed by Ford; washed in Tide and Stodsol; Skel, skinned by Stuart, stuffed by Ford; washed in Tide and Stodsol; Skin/toe clip",,0,0
 "Skin, skinned from alcoholic",,0,0
+"Skin, skinned from alcoholic, Y",,0,0
 "Skin, Skull","skin | skull",0,1
 "skin, skull & embryo",,0,0
 "skin, skull (?)",,0,0
@@ -45050,6 +45839,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Skull and Partial Skeleton",,0,0
 "Skin, Skull and Skeleton",,0,0
 "Skin, skull and tarsus removed from skin",,0,0
+"Skin, skull and tarsus removed from skin, Y",,0,0
 "skin, skull",,0,0
 "skin, skull, alc","alcoholic | skin | skull",0,1
 "skin, skull, alcoholic","alcoholic | skin | skull",0,1
@@ -45088,20 +45878,30 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, skull,tissue",,0,0
 "skin, skull?",,0,0
 "skin, skull?*",,0,0
+"Skin, Staebler determined age, Y",,0,0
 "skin, stomach",,0,0
 "Skin, stomach [saved as?] USNMFS 35213",,0,0
+"Skin, stomach [saved as?] USNMFS 35213, Y",,0,0
 "Skin, stomach [saved,] assigned USNMFN 35247",,0,0
+"Skin, stomach [saved,] assigned USNMFN 35247, Y",,0,0
 "Skin, stomach contents [saved as?] USNMFS 35161",,0,0
+"Skin, stomach contents [saved as?] USNMFS 35161, Y",,0,0
 "Skin, stomach contents [saved as?] USNMFS 35162",,0,0
+"Skin, stomach contents [saved as?] USNMFS 35162, Y",,0,0
 "Skin, stomach contents [USNMFN] 35186",,0,0
+"Skin, stomach contents [USNMFN] 35186, Y",,0,0
 "Skin, stomach contents saved",,0,0
+"Skin, stomach contents saved, Y",,0,0
+"Skin, stomach contents USNMFN 35178, Y; Skel, Y",,0,0
 "Skin, stomach contents USNMFN 35178; Skel",,0,0
 "Skin, stomach contents USNMFN 35191",,0,0
+"Skin, stomach contents USNMFN 35191, Y",,0,0
 "skin, stomach, Tissue number 20715",,0,0
 "skin, stomach, Tissue number 2209",,0,0
 "skin, stomach, Tissue number 27602",,0,0
 "skin, stomach, Tissue number 5542 at Smithsonian",,0,0
 "Skin, Stuffed by Peters, James L Labeled by Wing, L",,0,0
+"Skin, Stuffed by Peters, James L Labeled by Wing, L, Y",,0,0
 "skin, syrinx",,0,0
 "skin, syrinx, eggs, Tissue number 10385",,0,0
 "skin, syrinx, stomach, Tissue number 10692 at Smithsonian",,0,0
@@ -45964,10 +46764,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, syrinx, wingspread, Tissue number 9371",,0,0
 "Skin, T",,0,0
 "Skin, Taken down, scraped, washed in Dreft, soaked in Stodsol",,0,0
+"Skin, Taken down, scraped, washed in Dreft, soaked in Stodsol, Y",,0,0
 "skin, taxidermy mount",,0,0
 "Skin, testes preserved",,0,0
 "Skin, testes preserved in Bouin's",,0,0
+"Skin, testes preserved in Bouin's, Y",,0,0
+"Skin, testes preserved, Y",,0,0
 "Skin, thawed and prep",,0,0
+"Skin, thawed and prep, Y",,0,0
 "Skin, Tissue","skin | tissue",0,1
 "Skin, Tissue (100% ethanol)",,0,0
 "Skin, Tissue (DMSO/EDTA Buffer / No Medium)",,0,0
@@ -61221,24 +62025,57 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Toe pad sample, Toe pad sample, Toe pad sample, Toe pad sample",,0,0
 "Skin, tongue saved; Skel, tongue saved",,0,0
 "skin, trachea","skin | trachea",0,1
+"Skin, U",,0,0
+"Skin, U; Feather, Y",,0,0
+"Skin, U; Fluid, Y",,0,0
+"Skin, U; Fluid, Y; Fluid, Y",,0,0
+"Skin, U; Genbank, Y",,0,0
+"Skin, U; Genbank, Y; Genbank, Y",,0,0
+"Skin, U; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Tissue, U",,0,0
+"Skin, U; Genbank, Y; Genbank, Y; Tissue, U",,0,0
+"Skin, U; Nest, Y; Eggset, Y",,0,0
+"Skin, U; Skel, Y",,0,0
+"Skin, U; Skel, Y; Tissue, U; Genbank, Y",,0,0
+"Skin, U; Syrinx, Y",,0,0
+"Skin, U; Syrinx, Y; Tissue, U; Genbank, Y; Genbank, Y",,0,0
+"Skin, U; Tissue, U",,0,0
+"Skin, U; Tissue, U; Genbank, U; Skel, Y",,0,0
+"Skin, U; Tissue, U; Genbank, Y",,0,0
+"Skin, U; Tissue, U; Genbank, Y; Genbank, Y",,0,0
+"Skin, U; Tissue, U; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, U; Tissue, U; Genbank, Y; Genbank, Y; Skel, Y",,0,0
+"Skin, U; Tissue, U; Genbank, Y; Skel, Y",,0,0
+"Skin, U; Tissue, U; Skel, Y",,0,0
+"Skin, U; Tissue, U; Sound, U; Skel, Y",,0,0
+"Skin, U; Tissue, U; Syrinx, Y; Skel, Y",,0,0
+"Skin, U; Tissue, Y",,0,0
+"Skin, ulnae stripped, Y",,0,0
+"Skin, UN",,0,0
+"Skin, uncottoned, Y",,0,0
+"Skin, un-cottoned, Y",,0,0
 "skin, unknown",,0,0
 "skin, US 91",,0,0
 "skin, USA",,0,0
 "Skin, V",,0,0
 "Skin, viscera","skin | viscera",0,1
 "Skin, viscera in alcohol, melophaga in alcohol",,0,0
+"Skin, viscera in alcohol, melophaga in alcohol, Y",,0,0
 "Skin, waahed in ivory stodsol",,0,0
+"Skin, waahed in ivory stodsol, Y",,0,0
 "Skin, waashed in dreft and stodsol",,0,0
+"Skin, waashed in dreft and stodsol, Y",,0,0
 "Skin, Wadhed in Dreft August 1951",,0,0
 "Skin, wahed in dreft/stodsol Oct 1952",,0,0
 "Skin, washed",,0,0
 "Skin, washed and gased prep by J. Gvanlund",,0,0
 "Skin, washed and stuffed",,0,0
+"Skin, washed DOR, Y",,0,0
 "Skin, washed dreft",,0,0
 "Skin, washed in ""Dreft""",,0,0
 "Skin, Washed in ""Dreft."" Degreased in Stodsol July, 1955. DAZ",,0,0
 "Skin, washed in a dreft/stodsol Dec 1952",,0,0
 "Skin, washed in dreft",,0,0
+"Skin, Washed in Dreft - Prep 4 June, '57, Y",,0,0
 "Skin, Washed in Dreft & made up",,0,0
 "Skin, washed in Dreft & made up 10 March 1952",,0,0
 "Skin, washed in Dreft & made up 11 May '51",,0,0
@@ -61249,15 +62086,27 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, washed in Dreft & made up RW Storer Aug. '51",,0,0
 "Skin, Washed in Dreft & made up: 20 June '52",,0,0
 "Skin, washed in Dreft & made up: 25 March '52",,0,0
+"Skin, Washed in Dreft & prep, Y",,0,0
+"Skin, Washed in Dreft & soaked in Stodsol Oct. 1976, Y",,0,0
+"Skin, Washed in Dreft & Stodsol & made up Oct 1976, Y",,0,0
+"Skin, Washed in Dreft & Stodsol & made up Oct. 1976, Y",,0,0
 "Skin, washed in Dreft & Stodsol & made up: 11 March '52",,0,0
+"Skin, Washed in Dreft & Stodsol & remade1 Feb. 1956, Y",,0,0
+"Skin, Washed in Dreft & Stodsol Oct 1976, Y",,0,0
+"Skin, washed in Dreft & Stodsol Oct 26, Y",,0,0
+"Skin, Washed in Dreft & Stodsol Oct. 1976, Y",,0,0
 "Skin, washed in dreft & stodsol Oct. '76",,0,0
+"Skin, Washed in Dreft (no Stodsol) & skin remade 1 Nov. 1976, Y",,0,0
 "Skin, washed in dreft /stodsol",,0,0
 "Skin, washed in Dreft and degreased and remade",,0,0
 "Skin, Washed in dreft and degreased and remade-Humphrey, P S.",,0,0
 "Skin, washed in Dreft and degreased in Stodsol",,0,0
 "Skin, washed in Dreft and degreased in Stodsol and remade",,0,0
+"Skin, Washed in Dreft and degreased, Y",,0,0
 "Skin, washed in dreft and degreased; remade",,0,0
 "Skin, washed in Dreft and made up",,0,0
+"Skin, Washed in Dreft and made up 18 Aug 1952, Y",,0,0
+"Skin, Washed in Dreft and made up 2 April 1952, Y",,0,0
 "Skin, Washed in Dreft and made up 28 March OP",,0,0
 "Skin, Washed in Dreft and made up 31 March 1952 OP",,0,0
 "Skin, washed in dreft and made up Aug 51",,0,0
@@ -61275,6 +62124,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Washed in Dreft and Stodsol",,0,0
 "Skin, washed in dreft and stodsol 25 August 1976",,0,0
 "Skin, washed in Dreft and Stodsol and made up",,0,0
+"Skin, washed in Dreft and Stodsol and made up Oct 26, Y",,0,0
 "Skin, washed in Dreft and Stodsol and remade",,0,0
 "Skin, Washed in Dreft and Stodsol and remade 1 Feb 1956 - R.E. Mumford",,0,0
 "Skin, Washed in Dreft and Stodsol and remade 10 Nov. 1955 - D.A. Zimmermann",,0,0
@@ -61282,10 +62132,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Washed in Dreft and Stodsol and remade 17 Jan. 1957 by R.E. Mumford",,0,0
 "Skin, Washed in Dreft and Stodsol and remade 19 Jan 1956 R.E. Mumford",,0,0
 "Skin, Washed in Dreft and Stodsol and remade 22 Nov 1955 R.E. Mumford",,0,0
+"Skin, washed in Dreft and Stodsol and remade on 2 Jan 1962 by Ford, Norman L, Y",,0,0
 "Skin, washed in Dreft and Stodsol and remade on 2 Jan 1962 by Fordorman L",,0,0
 "Skin, washed in Dreft and Stodsol and remade; ulnae stripped",,0,0
 "Skin, washed in dreft and stodsol Oct 1976",,0,0
+"Skin, Washed in Dreft and Stodsol Oct 1976, Y",,0,0
 "Skin, washed in dreft and stodsol Oct 76",,0,0
+"Skin, washed in Dreft and Stodsol Oct. 1976, Y",,0,0
 "Skin, washed in Dreft and Stodsol, remade",,0,0
 "Skin, washed in Dreft and Stodsol; relaxed and remade",,0,0
 "Skin, washed in Dreft and Stodsol; remade",,0,0
@@ -61294,6 +62147,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, washed in dreft July 1951",,0,0
 "Skin, washed in dreft Oct 1976",,0,0
 "Skin, washed in dreft Oct 1979",,0,0
+"Skin, Washed in Dreft Oct. 1976, Y",,0,0
 "Skin, Washed in Dreft Stodsol",,0,0
 "Skin, washed in dreft stodsol prep PSH June 1955",,0,0
 "Skin, washed in Dreft, degreased and remade",,0,0
@@ -61313,6 +62167,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Washed in Dreft. remade",,0,0
 "Skin, Washed in Dreft. Stodsol",,0,0
 "Skin, Washed in Dreft. Stodsol.",,0,0
+"Skin, Washed in Dreft. Stodsol. Jan. 1953, Y",,0,0
 "Skin, washed in dreft/stodsol",,0,0
 "Skin, washed in dreft/stodsol  Oct 1979",,0,0
 "Skin, washed in dreft/stodsol 1953",,0,0
@@ -61351,6 +62206,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, washed in Ivory flakes & remade 27 Feb 1952",,0,0
 "Skin, washed in Ivory- flakes and remade",,0,0
 "Skin, Washed in Ivory flakes and Stodsol 4 Feb 1952. Relaxed and remade 27 Feb 1952",,0,0
+"Skin, Washed in Ivory flakes and Stodsol 4 Feb 1952. Relaxed and remade 27 Feb 1952, Y",,0,0
 "Skin, Washed in Ivory flakes and Stodsol 6 Feb 1952. Remade by O.T.Oree",,0,0
 "Skin, washed in ivory flakes remade",,0,0
 "Skin, Washed in Ivory flakes. Remade 17 Feb 1952 O Owre",,0,0
@@ -61371,15 +62227,19 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Washed, degreased, and remade 19 Jan, 1956. R.E. Mumford",,0,0
 "Skin, washed, relaxed, remade",,0,0
 "Skin, washed, remade",,0,0
+"Skin, Washed, Y",,0,0
 "Skin, washedd in dreft dn stotsol",,0,0
 "Skin, Wing","skin | wing",0,1
 "skin, wing & DNA","DNA | skin | wing",0,1
 "Skin, wing and tail traced",,0,0
+"Skin, wing and tail traced, Y",,0,0
 "skin, wing, and skeleton","skin | wing | skeleton",0,1
 "skin, wing, DNA & partial skeleton","DNA | partial skeleton | skin | wing",0,1
 "SKIN, WING, SKELETON","skin | wing | skeleton",0,1
 "Skin, wings removed, body washed, wings replaced, skin made up",,0,0
+"Skin, wings removed, body washed, wings replaced, skin made up, Y",,0,0
 "Skin, wings sewed together and left leg glued on. Jan. '51",,0,0
+"Skin, wings sewed together and left leg glued on. Jan. '51, Y",,0,0
 "skin, wingspread",,0,0
 "skin, wingspread, Tissue number 10549 at Smithsonian",,0,0
 "skin, wingspread, Tissue number 11430",,0,0
@@ -61427,6 +62287,147 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, wingspread, Tissue number 9313",,0,0
 "skin, wingspread, Tissue number 9384",,0,0
 "skin, wingspread, Tissue number 9743 at Smithsonian",,0,0
+"Skin, Y",,0,0
+"Skin, Y'",,0,0
+"Skin, Y; Eggset, N",,0,0
+"Skin, Y; Eggset, Y",,0,0
+"Skin, Y; Feather, N",,0,0
+"Skin, Y; Feather, N; Skel, N",,0,0
+"Skin, Y; Feather, U",,0,0
+"Skin, Y; Feather, Y",,0,0
+"Skin, Y; Feather, Y; Feather, Y",,0,0
+"Skin, Y; Feather, Y; Feather, Y; Feather, Y",,0,0
+"Skin, Y; Feather, Y; Feather, Y; Feather, Y; Feather, Y",,0,0
+"Skin, Y; Feather, Y; Feather, Y; Feather, Y; Feather, Y; Feather, Y",,0,0
+"Skin, Y; Feather, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Feather, Y; Skel, Y",,0,0
+"Skin, Y; Feather, Y; Skin/toe clip, Y",,0,0
+"Skin, Y; Feather, Y; Tissue, Y",,0,0
+"Skin, Y; Feather, Y; Tissue, Y; Skel partial, Y",,0,0
+"Skin, Y; Feather, Y; Wings_tail, Y",,0,0
+"Skin, Y; Fluid, U",,0,0
+"Skin, Y; Fluid, Y",,0,0
+"Skin, Y; Fluid, Y; Fluid, Y",,0,0
+"Skin, Y; Fluid, Y; Skel, Y",,0,0
+"Skin, Y; Fluid, Y; Skin/toe clip, N",,0,0
+"Skin, Y; Genbank, Y",,0,0
+"Skin, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Genbank, Y; Genbank, Y; Feather, Y",,0,0
+"Skin, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Tissue, U",,0,0
+"Skin, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Skel, Y; Tissue, U",,0,0
+"Skin, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Tissue, Y; Skel, Y",,0,0
+"Skin, Y; Genbank, Y; Genbank, Y; Skel, Y; Tissue, Y",,0,0
+"Skin, Y; Genbank, Y; Genbank, Y; Tissue, Y",,0,0
+"Skin, Y; Genbank, Y; Skel, Y",,0,0
+"Skin, Y; Image, U",,0,0
+"Skin, Y; Image, Y",,0,0
+"Skin, Y; Image, Y; Feather, Y",,0,0
+"Skin, Y; Image, Y; Image, Y",,0,0
+"Skin, Y; Image, Y; Tissue, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Nest, Y",,0,0
+"Skin, Y; Skel",,0,0
+"Skin, Y; Skel partial, Y",,0,0
+"Skin, Y; Skel partial, Y; Fluid, Y",,0,0
+"Skin, Y; Skel partial, Y; Tissue, Y",,0,0
+"Skin, Y; Skel partial, Y; Wings_tail, N",,0,0
+"Skin, Y; Skel partial, Y; Wings_tail, Y",,0,0
+"Skin, Y; Skel, Exch",,0,0
+"Skin, Y; Skel, N",,0,0
+"Skin, Y; Skel, Sept. 4, 1945, Y",,0,0
+"Skin, Y; Skel, U",,0,0
+"Skin, Y; Skel, Y",,0,0
+"Skin, Y; Skel, Y; Feather, N",,0,0
+"Skin, Y; Skel, Y; Skin/toe clip, N",,0,0
+"Skin, Y; Skel, Y; Syrinx, Y; Tissue, Y",,0,0
+"Skin, Y; Skel, Y; Tissue, Y; Feather, Y; Wings_tail, Y",,0,0
+"Skin, Y; Skel, Y; Tissue, Y; Genbank, Y",,0,0
+"Skin, Y; Skel, Y; Tissue, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Skel, Y; Tissue, Y; Skel partial, Y",,0,0
+"Skin, Y; Skel, Y; Tissue, Y; Syrinx, Y",,0,0
+"Skin, Y; Skin, U",,0,0
+"Skin, Y; Skin/toe clip, N",,0,0
+"Skin, Y; Skin/toe clip, N; Feather, N",,0,0
+"Skin, Y; Skin/toe clip, N; Feather, Y",,0,0
+"Skin, Y; Skin/toe clip, N; Feather, Y; Skel, Y",,0,0
+"Skin, Y; Skin/toe clip, N; Fluid, Y",,0,0
+"Skin, Y; Skin/toe clip, N; Genbank, Y",,0,0
+"Skin, Y; Skin/toe clip, Y",,0,0
+"Skin, Y; Skin/toe clip, Y; Feather, Y",,0,0
+"Skin, Y; Sound",,0,0
+"Skin, Y; Sound, Y",,0,0
+"Skin, Y; Syrinx, Y",,0,0
+"Skin, Y; Syrinx, Y; Fluid, Y",,0,0
+"Skin, Y; Syrinx, Y; Fluid, Y; Tissue, Y; Skel, Y",,0,0
+"Skin, Y; Syrinx, Y; Skel partial, Y; Fluid, Y; Tissue, Y",,0,0
+"Skin, Y; Syrinx, Y; Tissue, U; Wings_tail, U",,0,0
+"Skin, Y; Syrinx, Y; Tissue, Y",,0,0
+"Skin, Y; Syrinx, Y; Tissue, Y; Feather, Y; Wings_tail, Y",,0,0
+"Skin, Y; Syrinx, Y; Tissue, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Syrinx, Y; Tissue, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Syrinx, Y; Tissue, Y; Skel partial, Y",,0,0
+"Skin, Y; Syrinx, Y; Tissue, Y; Skel, Y",,0,0
+"Skin, Y; Syrinx, Y; Tissue, Y; Wings_tail, Y",,0,0
+"Skin, Y; Syrinx, Y; Wings_tail, Y",,0,0
+"Skin, Y; Syrinx, Y; Wings_tail, Y; Skel, Y",,0,0
+"Skin, Y; Tissue",,0,0
+"Skin, Y; Tissue,",,0,0
+"Skin, Y; Tissue, N",,0,0
+"Skin, Y; Tissue, N; Tissue, Y",,0,0
+"Skin, Y; Tissue, tissues in liq. N2 buffer, U; Genbank, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, U",,0,0
+"Skin, Y; Tissue, U; Fluid, Y",,0,0
+"Skin, Y; Tissue, U; Genbank, U; Skel, Y",,0,0
+"Skin, Y; Tissue, U; Genbank, Y",,0,0
+"Skin, Y; Tissue, U; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Tissue, U; Genbank, Y; Genbank, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, U; Genbank, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, U; Skel, Y",,0,0
+"Skin, Y; Tissue, U; Skel, Y; Wings_tail, Y; Fluid, U",,0,0
+"Skin, Y; Tissue, U; Wings_tail, U",,0,0
+"Skin, Y; Tissue, Y",,0,0
+"Skin, Y; Tissue, Y; Eggset, Y",,0,0
+"Skin, Y; Tissue, Y; Feather, N",,0,0
+"Skin, Y; Tissue, Y; Feather, N; Fluid, Y",,0,0
+"Skin, Y; Tissue, Y; Feather, Y",,0,0
+"Skin, Y; Tissue, Y; Feather, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, Y; Feather, Y; Syrinx, Y; Fluid, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, Y; Feather, Y; Wings_tail, Y",,0,0
+"Skin, Y; Tissue, Y; Fluid, Y",,0,0
+"Skin, Y; Tissue, Y; Fluid, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, Y; Genbank",,0,0
+"Skin, Y; Tissue, Y; Genbank, U; Skel, Y",,0,0
+"Skin, Y; Tissue, Y; Genbank, Y",,0,0
+"Skin, Y; Tissue, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Tissue, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Tissue, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Tissue, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Tissue, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Skin, Y; Tissue, Y; Genbank, Y; Genbank, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, Y; Genbank, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, Y; Image, Y",,0,0
+"Skin, Y; Tissue, Y; Misc, Y",,0,0
+"Skin, Y; Tissue, Y; Pellet, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, Y; Skel partial, Y",,0,0
+"Skin, Y; Tissue, Y; Skel partial, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, Y; Skel partial, Y; Syrinx, Y",,0,0
+"Skin, Y; Tissue, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, Y; Skel, Y; Syrinx, Y",,0,0
+"Skin, Y; Tissue, Y; Skin, Y; Skin, Y",,0,0
+"Skin, Y; Tissue, Y; Sound; Skel, Y",,0,0
+"Skin, Y; Tissue, Y; Syrinx, Y",,0,0
+"Skin, Y; Tissue, Y; Syrinx, Y; Fluid, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, Y; Syrinx, Y; Skel partial, Y",,0,0
+"Skin, Y; Tissue, Y; Syrinx, Y; Skel, Y",,0,0
+"Skin, Y; Tissue, Y; Syrinx, Y; Skel, Y; Wings_tail, Y",,0,0
+"Skin, Y; Tissue, Y; Thin section, Y",,0,0
+"Skin, Y; Tissue, Y; Wings_tail, Y",,0,0
+"Skin, Y; Tissue, Y; Wings_tail, Y; Skel, Y",,0,0
+"Skin, Y; Wings_tail, U",,0,0
+"Skin, Y; Wings_tail, Y",,0,0
+"Skin, Y; Wings_tail, Y; Skel, Y",,0,0
+"Skin, Y; Wings_tail, Y; Tissue, Y; Syrinx, Y; Skel, Y",,0,0
+"Skin, Ys",,0,0
 "SKIN,SKELETON","skin | skeleton",0,1
 "skin//skull/skeleton/tissue | tissue",,0,0
 "skin/2 skulls/partial skels",,0,0
@@ -61529,7 +62530,19 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin/toe clip - 1; Skin - 1; Fluid - 1","skin - 1 | fluid - 1",0,1
 "Skin/toe clip - 2; Feather - 2","feather - 2",0,1
 "Skin/toe clip - null; Skin - 1","skin - 1",0,1
+"Skin/toe clip, cestodes preserved, N; Skin, Y",,0,0
 "Skin/toe clip, cestodes preserved; Skin",,0,0
+"Skin/toe clip, N; Feather, N; Skin, Y",,0,0
+"Skin/toe clip, N; Skel, Y",,0,0
+"Skin/toe clip, N; Skin, Y",,0,0
+"Skin/toe clip, N; Skin, Y; Feather, N",,0,0
+"Skin/toe clip, N; Skin, Y; Feather, Y",,0,0
+"Skin/toe clip, N; Skin, Y; Fluid, Y",,0,0
+"Skin/toe clip, N; Skin, Y; Skel, Y",,0,0
+"Skin/toe clip, N; Skin, Y; Wings_tail, Y",,0,0
+"Skin/toe clip, N; Wings_tail, Y",,0,0
+"Skin/toe clip, Y; Skin, 16 Mar 1952, Y",,0,0
+"Skin/toe clip, Y; Skin, Y",,0,0
 "Skin/toe clip; Feather","feather",0,1
 "Skin/toe clip; Feather; Skin","feather | skin",0,1
 "Skin/toe clip; Flat_skin","flat skin",0,1
@@ -64745,8 +65758,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Syrinx - 1; Wings_tail - 1; Tissue - 50; Skel - 1","syrinx - 1 | wings_tail - 1 | tissue - 50 | skeleton - 1",0,1
 "Syrinx - null; Tissue - 1; Skin - 1","syrinx - null | tissue - 1 | skin - 1",0,1
 "SYRINX OF MALE.",,0,0
+"Syrinx, blood and bursa saved, Y; Skel, blood and bursa saved, Y",,0,0
 "Syrinx, blood and bursa saved; Skel, blood and bursa saved",,0,0
+"Syrinx, bursa and blood sample saved, Y; Skel, bursa and blood sample saved, Y; Fluid, bursa and blood sample saved, Y",,0,0
 "Syrinx, bursa and blood sample saved; Skel, bursa and blood sample saved; Fluid, bursa and blood sample saved",,0,0
+"Syrinx, Exch; Flat_skin, Exch; Skel, Exch",,0,0
+"Syrinx, Exch; Skin, Exch",,0,0
 "syrinx, mount",,0,0
 "syrinx, nest",,0,0
 "syrinx, Tissue number 1803",,0,0
@@ -64763,6 +65780,84 @@ R PERIPHERALS 2 - 3.",,0,0
 "syrinx, wingspread, Tissue number 3650",,0,0
 "syrinx, wingspread, Tissue number 3804",,0,0
 "syrinx, wingspread, Tissue number 3859",,0,0
+"Syrinx, Y; Flat_skin, Y; Skel, Y",,0,0
+"Syrinx, Y; Flat_skin, Y; Skel, Y; Tissue, Y",,0,0
+"Syrinx, Y; Flat_skin, Y; Tissue, Y; Feather, Y; Skel, Y",,0,0
+"Syrinx, Y; Flat_skin, Y; Tissue, Y; Skel, Y",,0,0
+"Syrinx, Y; Flat_skin, Y; Tissue, Y; Skel, Y; Fluid, Y",,0,0
+"Syrinx, Y; Flat_skin, Y; Tissue, Y; Skel, Y; Genbank, Y; Genbank, Y",,0,0
+"Syrinx, Y; Flat_skin, Y; Tissue, Y; Skel, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Fluid, Y",,0,0
+"Syrinx, Y; Skel, Y",,0,0
+"Syrinx, Y; Skel, Y; Flat_skin, Y",,0,0
+"Syrinx, Y; Skel, Y; Flat_skin, Y; Tissue, Y",,0,0
+"Syrinx, Y; Skel, Y; Fluid, Y",,0,0
+"Syrinx, Y; Skel, Y; Fluid, Y; Tissue, Y",,0,0
+"Syrinx, Y; Skel, Y; Skin, U",,0,0
+"Syrinx, Y; Skel, Y; Skin, Y",,0,0
+"Syrinx, Y; Skel, Y; Skin, Y; Feather, Y",,0,0
+"Syrinx, Y; Skel, Y; Skin, Y; Tissue, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Skel, Y; Skin, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Skel, Y; Tissue, U",,0,0
+"Syrinx, Y; Skel, Y; Tissue, U; Flat_skin, Y",,0,0
+"Syrinx, Y; Skel, Y; Tissue, U; Wings_tail, Y",,0,0
+"Syrinx, Y; Skel, Y; Tissue, Y",,0,0
+"Syrinx, Y; Skel, Y; Tissue, Y; Flat_skin, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Skel, Y; Tissue, Y; Skin, Y",,0,0
+"Syrinx, Y; Skel, Y; Tissue, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Skel, Y; Wings_tail, U",,0,0
+"Syrinx, Y; Skel, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Skin, N; Tissue, Y",,0,0
+"Syrinx, Y; Skin, U",,0,0
+"Syrinx, Y; Skin, U; Tissue, Y",,0,0
+"Syrinx, Y; Skin, Y",,0,0
+"Syrinx, Y; Skin, Y; Fluid, Y",,0,0
+"Syrinx, Y; Skin, Y; Skel, Y",,0,0
+"Syrinx, Y; Skin, Y; Tissue, Y",,0,0
+"Syrinx, Y; Skin, Y; Tissue, Y; Fluid, Y",,0,0
+"Syrinx, Y; Skin, Y; Tissue, Y; Fluid, Y; Skel, Y",,0,0
+"Syrinx, Y; Skin, Y; Tissue, Y; Skel, Y",,0,0
+"Syrinx, Y; Skin, Y; Tissue, Y; Skel, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Skin, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Syrinx, Y; Skel, Y; Skin, N; Wings_tail, Y",,0,0
+"Syrinx, Y; Tissue, eye removed, Y; Fluid, Y",,0,0
+"Syrinx, Y; Tissue, U; Fluid, Y",,0,0
+"Syrinx, Y; Tissue, U; Skel, N",,0,0
+"Syrinx, Y; Tissue, U; Skel, Y",,0,0
+"Syrinx, Y; Tissue, U; Skin, U; Skel, Y",,0,0
+"Syrinx, Y; Tissue, U; Skin, Y",,0,0
+"Syrinx, Y; Tissue, U; Skin, Y; Skel, Y",,0,0
+"Syrinx, Y; Tissue, Y",,0,0
+"Syrinx, Y; Tissue, Y; Flat_skin, U; Skel, Y",,0,0
+"Syrinx, Y; Tissue, Y; Flat_skin, Y; Skel, Y; Feather, Y",,0,0
+"Syrinx, Y; Tissue, Y; Fluid, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skel, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skel, Y; Flat_skin, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skel, Y; Flat_skin, Y; Fluid, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skel, Y; Fluid, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skel, Y; Genbank, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skel, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skel, Y; Skin, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skel, Y; Skin, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skel, Y; Wings_tail, U",,0,0
+"Syrinx, Y; Tissue, Y; Skel, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skel, Y; Wings_tail, Y; Genbank, Y; Genbank, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skin, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skin, Y; Feather, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skin, Y; Fluid",,0,0
+"Syrinx, Y; Tissue, Y; Skin, Y; Fluid, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skin, Y; Genbank, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skin, Y; Skel partial, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skin, Y; Skel, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skin, Y; Skel, Y; Feather, Y",,0,0
+"Syrinx, Y; Tissue, Y; Skin, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Tissue, Y; Wings_tail, Y; Skel, Y",,0,0
+"Syrinx, Y; Tissue, Y; Wings_tail; Skin, Y",,0,0
+"Syrinx, Y; Tissue; Skel, Y; Skin/toe clip, Y",,0,0
+"Syrinx, Y; Tissue; Skin, Y",,0,0
+"Syrinx, Y; Wings_tail, Y; Skel, Y",,0,0
+"Syrinx, Y; Wings_tail, Y; Tissue, Y; Skel, Y",,0,0
+"Syrinx, Y; Wings_tail, Y; Tissue, Y; Skin, Y",,0,0
 "Syrinx; Eggset; Tissue; Skin; Skel",,0,0
 "Syrinx; Flat_skin; Skel",,0,0
 "Syrinx; Flat_skin; Skel; Tissue",,0,0
@@ -65385,6 +66480,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Thin section - 1; Wings_tail - 1","thin section - 1 | wings_tail - 1",0,1
 "THIN SECTION OF MAXILLA",,0,0
 "THIN SECTION OF PALATAL TUSK",,0,0
+"Thin section, Y",,0,0
+"Thin section, Y; Skel, Y",,0,0
+"Thin section, Y; Tissue, Y; Skin, Y",,0,0
+"Thin section, Y; Wings_tail",,0,0
 "Thin section; Skel",,0,0
 "Thin section; Skin; Tissue",,0,0
 "Thin section; Tissue; Skin",,0,0
@@ -66079,11 +67178,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, alcoholic, wing",,0,0
 "Tissue, Blood (Ethanol), Blood (Ethanol)",,0,0
 "Tissue, Blood feather, Blood feather",,0,0
+"Tissue, blood sample 945, Y; Fluid, blood sample 945, Y",,0,0
 "Tissue, blood sample 945; Fluid, blood sample 945",,0,0
 "Tissue, blood sampled; tissue T-514; Skel, blood sampled; tissue T-514; Flat_skin, blood sampled; tissue T-514",,0,0
 "Tissue, Blood, Blood",,0,0
 "Tissue, Blood, Blood, Blood",,0,0
+"Tissue, blood, bursa, and tissue saved, Y; Skel, Y",,0,0
 "Tissue, blood, bursa, and tissue saved; Skel, blood, bursa, and tissue saved",,0,0
+"Tissue, blood, heart, and liver saved, Y; Skel, Y",,0,0
 "Tissue, blood, heart, and liver saved; Skel, blood, heart, and liver saved",,0,0
 "Tissue, Blood, heart, liver, muscle, Blood, heart, liver, muscle, Skeleton",,0,0
 "Tissue, Breast muscle, Breast muscle, Fluid, Breast muscle, Fluid",,0,0
@@ -66120,6 +67222,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, electric organ discharge recording, tissue, tissue, fluid",,0,0
 "tissue, electric organ discharge recording, tissue, tissue, fluid, photograph, tissue",,0,0
 "tissue, electric organ discharge recording, tissue, tissue, tissue, fluid, tissue, electric organ discharge recording, tissue",,0,0
+"Tissue, Exch; Skin, Exch",,0,0
+"Tissue, eye removed, U; Fluid, Y",,0,0
+"Tissue, eye removed, Y; Syrinx, Y; Fluid, Y",,0,0
 "Tissue, eye removed; Fluid",,0,0
 "Tissue, eye removed; Syrinx; Fluid",,0,0
 "Tissue, Eyes, brain, heart, liver, muscle, stomach & contents, Skeleton, Eyes, brain, heart, liver, muscle, stomach & contents",,0,0
@@ -66273,6 +67378,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue, Muscle, Muscle, Skin",,0,0
 "Tissue, Muscle, Skeleton, Fluid, Muscle",,0,0
 "Tissue, Muscle, Skin, Muscle",,0,0
+"Tissue, N",,0,0
+"Tissue, N; Fluid, Y",,0,0
+"Tissue, N; Skel, Y",,0,0
+"Tissue, N; Skel, Y; Genbank, Y; Skin, Y",,0,0
+"Tissue, N; Skel, Y; Tissue, Y",,0,0
+"Tissue, N; Skin, N",,0,0
+"Tissue, N; Skin, Y",,0,0
 "tissue, other",,0,0
 "tissue, other, round skin",,0,0
 "tissue, other, wing",,0,0
@@ -66492,6 +67604,53 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, tissue, wing, round skin",,0,0
 "Tissue, Toe pad, Toe pad",,0,0
 "Tissue, Toe, Toe",,0,0
+"Tissue, U",,0,0
+"Tissue, U; Fluid, Y",,0,0
+"Tissue, U; Fluid, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Fluid, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Fluid, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Fluid, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Fluid, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Fluid, Y; Syrinx, Y",,0,0
+"Tissue, U; Genbank, Y; Skel, Y",,0,0
+"Tissue, U; Genbank, Y; Skin, U; Skel, Y",,0,0
+"Tissue, U; Skel partial, Y",,0,0
+"Tissue, U; Skel, U",,0,0
+"Tissue, U; Skel, Y",,0,0
+"Tissue, U; Skel, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Skel, Y; Skin, Y",,0,0
+"Tissue, U; Skel, Y; Syrinx, Y",,0,0
+"Tissue, U; Skel, Y; Wings_tail, U",,0,0
+"Tissue, U; Skin, N",,0,0
+"Tissue, U; Skin, U",,0,0
+"Tissue, U; Skin, U; Feather, U; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Skin, U; Genbank, U; Genbank, U",,0,0
+"Tissue, U; Skin, U; Genbank, Y",,0,0
+"Tissue, U; Skin, U; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Skin, U; Genbank, Y; Genbank, Y; Skel, Y",,0,0
+"Tissue, U; Skin, U; Genbank, Y; Skel, Y",,0,0
+"Tissue, U; Skin, U; Skel, Y",,0,0
+"Tissue, U; Skin, U; Syrinx, Y",,0,0
+"Tissue, U; Skin, U; Syrinx, Y; Genbank, Y; Genbank, Y; Skel, Y",,0,0
+"Tissue, U; Skin, U; Syrinx, Y; Skel, Y",,0,0
+"Tissue, U; Skin, Y",,0,0
+"Tissue, U; Skin, Y; Genbank, Y",,0,0
+"Tissue, U; Skin, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Skin, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Skin, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Skin, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Skin, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, U; Skin, Y; Genbank, Y; Genbank, Y; Skel, Y",,0,0
+"Tissue, U; Skin, Y; Genbank, Y; Skel, Y",,0,0
+"Tissue, U; Skin, Y; Skel, Y",,0,0
+"Tissue, U; Skin, Y; Wings_tail, U",,0,0
+"Tissue, U; Syrinx, Y; Feather, U; Skin, U; Genbank, Y; Genbank, Y; Genbank, Y; Skel, Y",,0,0
+"Tissue, U; Syrinx, Y; Skel, Y",,0,0
+"Tissue, U; Syrinx, Y; Skin, U; Skel, U",,0,0
+"Tissue, U; Syrinx, Y; Skin, Y; Skel, Y",,0,0
+"Tissue, U; Wings_tail, #680, Y; Syrinx, Y; Skin, Y; Skel, Y",,0,0
+"Tissue, U; Wings_tail, U; Skel, Y",,0,0
+"Tissue, U; Wings_tail, U; Syrinx, Y; Skel, Y",,0,0
 "tissue, wing","tissue | wing",0,1
 "tissue, wing, alcoholic",,0,0
 "tissue, wing, alcoholic, tissue",,0,0
@@ -66506,6 +67665,107 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, wing, tissue, other",,0,0
 "tissue, wing, tissue, round skin",,0,0
 "tissue, wings","tissue | wings",0,1
+"Tissue, Y",,0,0
+"Tissue, Y; Eggset, Y",,0,0
+"Tissue, Y; Eggset, Y; Skin, Y",,0,0
+"Tissue, Y; Feather, Y",,0,0
+"Tissue, Y; Feather, Y; Skin, Y",,0,0
+"Tissue, Y; Flat_skin, N; Skel, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Flat_skin, Y",,0,0
+"Tissue, Y; Flat_skin, Y; Fluid, Y; Skel, Y; Fluid, Y",,0,0
+"Tissue, Y; Flat_skin, Y; Skel, Y",,0,0
+"Tissue, Y; Flat_skin, Y; Skel, Y; Syrinx, Y",,0,0
+"Tissue, Y; Flat_skin, Y; Skel, Y; Syrinx, Y; Wings_tail, U",,0,0
+"Tissue, Y; Flat_skin, Y; Syrinx, Y; Skel, Y",,0,0
+"Tissue, Y; Flat_skin, Y; Syrinx, Y; Skel, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Fluid, U",,0,0
+"Tissue, Y; Fluid, Y",,0,0
+"Tissue, Y; Fluid, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, Y; Fluid, Y; Syrinx, Y",,0,0
+"Tissue, Y; Fluid, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, Y; Genbank, Y; Genbank, Y; Skin, Y",,0,0
+"Tissue, Y; Genbank, Y; Genbank, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skel partial, Y; Skin, Y",,0,0
+"Tissue, Y; Skel, N; Flat_skin, Y",,0,0
+"Tissue, Y; Skel, Skel prepared 25 Nov 1997, Y; Feather, Y",,0,0
+"Tissue, Y; Skel, U",,0,0
+"Tissue, Y; Skel, Y",,0,0
+"Tissue, Y; Skel, Y; Feather, N",,0,0
+"Tissue, Y; Skel, Y; Feather, Y; Flat_skin, Y",,0,0
+"Tissue, Y; Skel, Y; Feather, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skel, Y; Flat_skin, Y",,0,0
+"Tissue, Y; Skel, Y; Flat_skin, Y; Feather, Y",,0,0
+"Tissue, Y; Skel, Y; Flat_skin, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, Y; Skel, Y; Flat_skin, Y; Syrinx, Y",,0,0
+"Tissue, Y; Skel, Y; Flat_skin, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skel, Y; Fluid, Y",,0,0
+"Tissue, Y; Skel, Y; Genbank, Y",,0,0
+"Tissue, Y; Skel, Y; Genbank, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, Y; Skel, Y; Genbank, Y; Genbank, Y; Genbank, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skel, Y; Skin, Y",,0,0
+"Tissue, Y; Skel, Y; Skin, Y; Skin/toe clip, N",,0,0
+"Tissue, Y; Skel, Y; Skin, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skel, Y; Syrinx, Y",,0,0
+"Tissue, Y; Skel, Y; Syrinx, Y; Flat_skin, Y",,0,0
+"Tissue, Y; Skel, Y; Syrinx, Y; Flat_skin, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skel, Y; Syrinx, Y; Skin, Y",,0,0
+"Tissue, Y; Skel, Y; Syrinx, Y; Skin, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skel, Y; Syrinx, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skel, Y; Tissue, N",,0,0
+"Tissue, Y; Skel, Y; Tissue, Y",,0,0
+"Tissue, Y; Skel, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skel, Y; Wings_tail, Y; Skin, Y",,0,0
+"Tissue, Y; Skel, Y; Wings_tail, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skin",,0,0
+"Tissue, Y; Skin, Exch",,0,0
+"Tissue, Y; Skin, Exch; Syrinx, Y",,0,0
+"Tissue, Y; Skin, N",,0,0
+"Tissue, Y; Skin, U; Thin section, Y",,0,0
+"Tissue, Y; Skin, Y",,0,0
+"Tissue, Y; Skin, Y; Feather, N",,0,0
+"Tissue, Y; Skin, Y; Feather, Y",,0,0
+"Tissue, Y; Skin, Y; Feather, Y; Skel, Y",,0,0
+"Tissue, Y; Skin, Y; Fluid, Y",,0,0
+"Tissue, Y; Skin, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, Y; Skin, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, Y; Skin, Y; Genbank, Y; Skel, Y",,0,0
+"Tissue, Y; Skin, Y; Skel partial, Y",,0,0
+"Tissue, Y; Skin, Y; Skel partial, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skin, Y; Skel, N",,0,0
+"Tissue, Y; Skin, Y; Skel, Y",,0,0
+"Tissue, Y; Skin, Y; Skel, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skin, Y; Syrinx, Y",,0,0
+"Tissue, Y; Skin, Y; Syrinx, Y; Fluid, Y; Skel, Y",,0,0
+"Tissue, Y; Skin, Y; Syrinx, Y; Genbank, Y",,0,0
+"Tissue, Y; Skin, Y; Syrinx, Y; Skel, Y",,0,0
+"Tissue, Y; Skin, Y; Syrinx, Y; Wings_tail, U",,0,0
+"Tissue, Y; Skin, Y; Syrinx, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Skin, Y; Thin section",,0,0
+"Tissue, Y; Skin, Y; Thin section, Y",,0,0
+"Tissue, Y; Skin, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Syrinx, Y; Flat_skin, Y; Skel, Y",,0,0
+"Tissue, Y; Syrinx, Y; Fluid, Y",,0,0
+"Tissue, Y; Syrinx, Y; Skel, Exch",,0,0
+"Tissue, Y; Syrinx, Y; Skel, Y",,0,0
+"Tissue, Y; Syrinx, Y; Skel, Y; Feather, Y; Flat_skin, Y",,0,0
+"Tissue, Y; Syrinx, Y; Skel, Y; Flat_skin, Y",,0,0
+"Tissue, Y; Syrinx, Y; Skel, Y; Skin, Y",,0,0
+"Tissue, Y; Syrinx, Y; Skel, Y; Skin, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Syrinx, Y; Skel, Y; Wings_tail, U",,0,0
+"Tissue, Y; Syrinx, Y; Skel, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Syrinx, Y; Skel, Y; Wings_tail, Y; Flat_skin, Y",,0,0
+"Tissue, Y; Syrinx, Y; Skin, Y",,0,0
+"Tissue, Y; Syrinx, Y; Skin, Y; Fluid, Y",,0,0
+"Tissue, Y; Syrinx, Y; Skin, Y; Fluid, Y; Skel, Y; Skin/toe clip, N",,0,0
+"Tissue, Y; Syrinx, Y; Skin, Y; Skel, Y",,0,0
+"Tissue, Y; Tissue, U; Skin, Y",,0,0
+"Tissue, Y; Wings_tail, Y",,0,0
+"Tissue, Y; Wings_tail, Y; Skel, Y",,0,0
+"Tissue, Y; Wings_tail, Y; Skel, Y; Genbank, Y; Genbank, Y; Genbank, Y",,0,0
+"Tissue, Y; Wings_tail, Y; Skel, Y; Skin, Y",,0,0
+"Tissue, Y; Wings_tail, Y; Skel, Y; Syrinx, Y",,0,0
+"Tissue, Y; Wings_tail, Y; Syrinx, Y; Skel, Y",,0,0
 "tissue/wing",,0,0
 "tissue/wing | tissue",,0,0
 "tissue/wing, tissue",,0,0
@@ -66513,6 +67773,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue; Eggset; Fluid",,0,0
 "Tissue; Eggset; Skin",,0,0
 "Tissue; Feather",,0,0
+"Tissue; Feather, Y; Wings_tail, Y",,0,0
 "Tissue; Feather; Skel",,0,0
 "Tissue; Feather; Skin",,0,0
 "Tissue; Feather; Wings_tail",,0,0
@@ -66543,6 +67804,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue; schmoo","schmoo | tissue",0,1
 "Tissue; Skel","skeleton | tissue",0,1
 "Tissue; Skel, tissue T-308; Tissue, tissue T-308",,0,0
+"Tissue; Skel, Y",,0,0
+"Tissue; Skel, Y; Wings_tail, Y",,0,0
 "Tissue; Skel; Feather",,0,0
 "Tissue; Skel; Feather; Flat_skin",,0,0
 "Tissue; Skel; Feather; Wings_tail",,0,0
@@ -66569,6 +67832,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue; Skel; Wings_tail; Skin",,0,0
 "Tissue; Skel; Wings_tail; Wings_tail",,0,0
 "Tissue; Skin","skin | tissue",0,1
+"Tissue; Skin, Y",,0,0
 "Tissue; Skin; Feather",,0,0
 "Tissue; Skin; Feather; Genbank",,0,0
 "Tissue; Skin; Feather; Skel",,0,0
@@ -66596,6 +67860,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue; Skin; Tissue",,0,0
 "Tissue; Skin; Wings_tail",,0,0
 "Tissue; Syrinx",,0,0
+"Tissue; Syrinx, Y; Skin, Y",,0,0
 "Tissue; Syrinx; Feather; Skin; Genbank; Skel",,0,0
 "Tissue; Syrinx; Flat_skin; Skel",,0,0
 "Tissue; Syrinx; Fluid",,0,0
@@ -68635,6 +69900,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Whole specimens, male dissected to show embryos (in spirit)",,0,0
 "Whole specimens, one carrying eggs + young (in spirit)",,0,0
 "Whole specimens, one partly dissected, missing plastron & limbs (in spirit)",,0,0
+"Whole, N",,0,0
 "whole; frozen",,0,0
 "whole; wet",,0,0
 "whole; wet; embryo",,0,0
@@ -68858,6 +70124,33 @@ R PERIPHERALS 2 - 3.",,0,0
 "Wings_tail - 100; Skel - 1","wings_tail - 100 | skeleton - 1",0,1
 "Wings_tail - 30; Flat_skin - 1","wings_tail - 30 | flat skin - 1",0,1
 "Wings_tail - null; Skel - 1; Syrinx - 1","wings_tail - null | skeleton - 1 | syrinx - 1",0,1
+"Wings_tail, N",,0,0
+"Wings_tail, U",,0,0
+"Wings_tail, U; Skel, Y; Wings_tail, Y",,0,0
+"Wings_tail, U; Tissue, U; Skel, Y",,0,0
+"Wings_tail, U; Tissue, U; Syrinx, Y; Skel, Y",,0,0
+"Wings_tail, Y",,0,0
+"Wings_tail, Y; Feather, Y; Skel, Y",,0,0
+"Wings_tail, Y; Flat_skin, Y",,0,0
+"Wings_tail, Y; Flat_skin, Y; Skel, Y",,0,0
+"Wings_tail, Y; Flat_skin, Y; Syrinx, Y; Skel, Y",,0,0
+"Wings_tail, Y; Flat_skin, Y; Tissue, Y; Syrinx, Y; Skel, Y",,0,0
+"Wings_tail, Y; Genbank, Y",,0,0
+"Wings_tail, Y; Skel, Exch",,0,0
+"Wings_tail, Y; Skel, N",,0,0
+"Wings_tail, Y; Skel, Y",,0,0
+"Wings_tail, Y; Skel, Y; Flat_skin, Y",,0,0
+"Wings_tail, Y; Skel, Y; Skel, Y",,0,0
+"Wings_tail, Y; Skel, Y; Syrinx, Y",,0,0
+"Wings_tail, Y; Skel, Y; Syrinx, Y; Tissue, Y",,0,0
+"Wings_tail, Y; Skel, Y; Tissue, U",,0,0
+"Wings_tail, Y; Syrinx, Y; Skel, Y",,0,0
+"Wings_tail, Y; Tissue, Y",,0,0
+"Wings_tail, Y; Tissue, Y; Skel, Y",,0,0
+"Wings_tail, Y; Tissue, Y; Skel, Y; Syrinx, Y",,0,0
+"Wings_tail, Y; Tissue, Y; Skin, Y; Fluid, Y",,0,0
+"Wings_tail, Y; Tissue, Y; Syrinx, Y; Skel, Y",,0,0
+"Wings_tail, Y; Wings_tail, Y",,0,0
 "Wings_tail; Feather; Skel",,0,0
 "Wings_tail; Feather; Skel; Flat_skin",,0,0
 "Wings_tail; Flat_skin",,0,0
