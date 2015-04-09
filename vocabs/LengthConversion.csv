@@ -88,6 +88,7 @@ k",1000.00,0,1
 "CENTIMETERS",0.01,0,1
 "cm",0.01,1,1
 "d",,0,1
+"datos pendientes",,0,1
 "Decimal Degrees",,0,1
 "EPIBENTHIC",,0,1
 "f",0.30,0,1
@@ -227,6 +228,7 @@ k",1000.00,0,1
 "MM (PROBABLY M)",1.0e-03,0,1
 "MM""??",1.0e-03,0,1
 "MM(?)",1.0e-03,0,1
+"msnm",1.00,0,1
 "mt",1.00,0,1
 "mts",1.00,0,1
 "MWO",,0,1
@@ -244,6 +246,8 @@ k",1000.00,0,1
 "on small island",,0,1
 "on small island in lake",,0,1
 "oof",,0,1
+"Parque Nacional Tres Volcanes",,0,1
+"pies",0.30,0,1
 "Previously labelled as from Qu",,0,1
 "q",,0,1
 "SE, at Friday Mtn. Boys Camp",,0,1

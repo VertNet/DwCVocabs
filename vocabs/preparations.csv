@@ -1043,6 +1043,7 @@
 "?/I root",,0,0
 "?/M or P frag",,0,0
 "??","unknown",0,1
+"?? | ??",,0,0
 "?? | tissue",,0,0
 "??, ??","unknown",0,1
 "?????","unknown",0,1
@@ -9061,8 +9062,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Cráneo","skull",0,1
 "Cràneo","skull",0,1
 "Cráneo y Esqueleto","skeleton | skull",0,1
+"Cráneo y Esqueleto | ??",,0,0
 "Cráneo y Esqueleto, ??","skeleton | skull",0,1
 "Cráneo y fracción de piel","partial skin | skull",0,1
+"Cráneo y fracción de piel | Hígado y sangre",,0,0
+"Cráneo y fracción de piel | sangre",,0,0
 "Cráneo y fracción de piel, Hígado y sangre","liver | blood | partial skin | skull",0,1
 "Cráneo y fracción de piel, sangre","blood | partial skin | skull",0,1
 "Cráneo, fracción","partial skull",0,1
@@ -13155,6 +13159,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Empty",,0,0
 "en liquido","fluid",0,1
 "En Líquido","fluid",0,1
+"en líquido | ---",,0,0
+"en líquido | KLH Lysis buffer",,0,0
+"En Líquido | quim 10",,0,0
 "En Líquido y Cráneo","fluid | skull",0,1
 "en líquido, ---","fluid",0,1
 "En Líquido, cráneo","fluid | skull",0,1
@@ -15942,6 +15949,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FP","partial skeleton | flat skin",0,1
 "FP | tissue","partial skeleton | flat skin | tissue",0,1
 "fracción de piel","partial skin",0,1
+"fracción de piel | piel, sangre y muestra de riñón",,0,0
 "fracción de piel, piel, sangre y muestra de riñón","blood | kidney sample | partial skin",0,1
 "frag",,0,0
 "frag bone",,0,0
@@ -32059,16 +32067,33 @@ R PERIPHERALS 2 - 3.",,0,0
 "PIECES OF TWO VERTEBRAE.",,0,0
 "Piel con cráneo","skin | skull",0,1
 "Piel de estudio","study skin",0,1
+"Piel de estudio | ??",,0,0
+"Piel de estudio | KLH Lysis buffer",,0,0
+"Piel de estudio | riñon",,0,0
+"Piel de estudio | riñón",,0,0
+"Piel de estudio | riñón e hígado",,0,0
+"Piel de estudio | riñón higado",,0,0
+"Piel de estudio | riñon y ala",,0,0
+"Piel de estudio | riñón, ala",,0,0
+"Piel de estudio | Riñon, higado y esqueleto",,0,0
 "Piel de estudio y Cráneo","study skin | skull",0,1
+"Piel de estudio y Cráneo | riñon",,0,0
+"Piel de estudio y Cráneo | riñón y ala",,0,0
 "Piel de estudio y Cráneo, riñon","kidney | study skin | skull",0,1
 "Piel de estudio y Cráneo, riñón y ala","kidney | study skin | skull | wing",0,1
 "Piel de estudio y Esqueleto","skeleton | study skin",0,1
+"Piel de estudio y Esqueleto | riñon",,0,0
 "Piel de estudio y Esqueleto, riñon","kidney | skeleton | study skin",0,1
 "Piel de estudio, ??","study skin",0,1
 "Piel de estudio, Cráneo","study skin | skull",0,1
 "Piel de estudio, cráneo  y esqueleto","skeleton | study skin | skull",0,1
+"Piel de estudio, cráneo  y esqueleto | riñon, ectoparasito",,0,0
 "Piel de estudio, cráneo  y esqueleto, riñon, ectoparasito","ectoparasite | kidney | skeleton | study skin | skull",0,1
 "Piel de estudio, Cráneo y Esqueleto","skeleton | study skin | skull",0,1
+"Piel de estudio, cráneo y esqueleto | riñon",,0,0
+"Piel de estudio, Cráneo y Esqueleto | riñon y ala",,0,0
+"Piel de estudio, cráneo y esqueleto | riñon, ectoparasito",,0,0
+"Piel de estudio, Cráneo y Esqueleto | sp 13456",,0,0
 "Piel de estudio, Cráneo y Esqueleto, ","skeleton | study skin | skull",0,1
 "Piel de estudio, cráneo y esqueleto, riñon","kidney | skeleton | study skin | skull",0,1
 "Piel de estudio, Cráneo y Esqueleto, riñon y ala","kidney | skeleton | study skin | skull | wing",0,1
@@ -32084,6 +32109,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Piel de estudio, Riñon, higado y esqueleto","kidney | liver | skeleton | study skin",0,1
 "Piel de estudio,AK398, cráneo y esqueleto","skeleton | study skin | skull",0,1
 "piel y cráneo","skin | skull",0,1
+"piel y cráneo | AK 25023",,0,0
+"piel y cráneo | AK 25024",,0,0
+"piel y cráneo | AK 25093",,0,0
+"piel y cráneo | AK25022",,0,0
 "piel y cráneo, AK 25023","skin | skull",0,1
 "piel y cráneo, AK 25024","skin | skull",0,1
 "piel y cráneo, AK 25093","skin | skull",0,1
