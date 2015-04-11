@@ -1009,6 +1009,7 @@
 "/TOOTH,TOOTH/",,0,0
 "/TUSK",,0,0
 "?","unknown",0,1
+"? - 1",,0,0
 "? | alcoholic | skeleton",,0,0
 "? | alcoholic | skeleton | skin | skull",,0,0
 "? | alcoholic | skeleton | skin | skull | tissue",,0,0
@@ -3649,6 +3650,10 @@
 "akin (round); skull (complete)",,0,0
 "al","alcoholic",0,1
 "AL'","alcoholic",0,1
+"AL - 1",,0,0
+"AL - 1; AL - 1",,0,0
+"AL - 1; SS - 1",,0,0
+"AL - 8",,0,0
 "AL (1 ADUL","alcoholic",0,1
 "AL | alcoholic",,0,0
 "AL | alcoholic | other preparation",,0,0
@@ -3658,6 +3663,7 @@
 "AL +T","alcoholic | tissue",0,1
 "AL +T +ECTO","alcoholic | ectoparasite | tissue",0,1
 "AL +T +ECTO +CH","alcoholic | chromosomes | ectoparasite | tissue",0,1
+"AL* - 1",,0,0
 "AL+T","alcoholic | tissue",0,1
 "AL+T +ECTO","alcoholic | ectoparasite | tissue",0,1
 "AL+T+ECTO","alcoholic | ectoparasite | tissue",0,1
@@ -3665,6 +3671,7 @@
 "AL+T+ECTO+CH","alcoholic | chromosomes | ectoparasite | tissue",0,1
 "Alar digit three.",,0,0
 "alc","alcoholic",0,1
+"ALC - 1",,0,0
 "alc emb + egg shell",,0,0
 "alc emb + egg shell | tissue",,0,0
 "alc gut only*",,0,0
@@ -7132,6 +7139,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "broken tibia",,0,0
 "broken upper premolar",,0,0
 "BS","body skeleton",0,1
+"BS - 1",,0,0
 "BS | other preparation | skeleton",,0,0
 "BS | skeleton",,0,0
 "BS | skeleton | tissue",,0,0
@@ -8683,6 +8691,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "CM I L",,0,0
 "C-M3/",,0,0
 "co","cranium",0,1
+"CO - 1",,0,0
 "COARCOID",,0,0
 "coastal",,0,0
 "coastal 1 fragment",,0,0
@@ -17271,6 +17280,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "HL","shmoo | complete skeleton",0,1
 "HL | tissue","complete skeleton | shmoo | tissue",0,1
 "HM","head mount",0,1
+"HM - 1",,0,0
 "HO","head",0,1
 "Hoof",,0,0
 "Hoof (right)",,0,0
@@ -19236,8 +19246,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Karyotype, Skull","karyotype | skull",0,1
 "karyotype, tissue",,0,0
 "kb","study skin | body skeleton",0,1
+"KB - 1",,0,0
 "KB | skeleton | skin",,0,0
 "KB | skeleton | skin | tissue",,0,0
+"KB* - 1",,0,0
 "Kidney",,0,0
 "Kidney (in spirit)",,0,0
 "Kidney, sectioned (in spirit)",,0,0
@@ -28059,9 +28071,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "OSTOEDERM FRAGS",,0,0
 "OSTOEDERM FRAGS,TEETH,VERTEBRA FRAGS",,0,0
 "ot","other",0,1
+"OT - 1",,0,0
 "OT | other preparation",,0,0
 "OT | other preparation | tissue",,0,0
 "OT*","other",0,1
+"OT* - 1",,0,0
 "other","other",1,1
 "other | tissue",,0,0
 "OTHER PICKLED MATERIAL","pickled material",0,1
@@ -34330,6 +34344,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "PROXIMALPHALANX II, IMM.",,0,0
 "prtil pelvis",,0,0
 "ps","partial skeleton",0,1
+"PS - 1",,0,0
+"PS* - 1",,0,0
 "PS0",,0,0
 "pt skull",,0,0
 "pt. skull",,0,0
@@ -39075,11 +39091,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "rug with half head mount",,0,0
 "rump skin",,0,0
 "S0","skin in alcohol",0,1
+"S0 - 1",,0,0
 "SA","alcoholic carcass",0,1
+"SA - 1",,0,0
 "SA | alcoholic | other preparation | skull",,0,0
 "SA | alcoholic | other preparation | skull | tissue",,0,0
 "SA | alcoholic | skull",,0,0
 "SA | alcoholic | skull | tissue",,0,0
+"SA* - 1",,0,0
 "Sabot (right, fore)",,0,0
 "sac rib",,0,0
 "sac vertebra",,0,0
@@ -39146,10 +39165,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "SB      91",,0,0
 "SB      92",,0,0
 "SB      93",,0,0
+"SB - 1",,0,0
 "SB | other preparation | skeleton | skin | skull",,0,0
 "SB | other preparation | skeleton | skin | skull | tissue",,0,0
 "SB | skeleton | skin | skull",,0,0
 "SB | skeleton | skin | skull | tissue",,0,0
+"SB* - 1",,0,0
+"SBS - 1",,0,0
 "SCAKES, VERTEBRAE, SKULL FRAG",,0,0
 "Scale",,0,0
 "Scale - 1; Fluid - 1",,0,0
@@ -39823,6 +39845,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "six mandibles w cheek teeth, 1 isolated cheek tooth",,0,0
 "SIX UNDET. PIECES.",,0,0
 "sk","skull",0,1
+"SK - 1",,0,0
+"SK - 1; SO - 1",,0,0
+"SK - 1; SS - 1",,0,0
 "Sk [?]",,0,0
 "SK | other preparation | skull",,0,0
 "SK | other preparation | skull | tissue",,0,0
@@ -39830,6 +39855,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SK | skull | tissue",,0,0
 "sk | tissue",,0,0
 "SK +T","skeleton | skin | tissue",0,1
+"SK* - 1",,0,0
 "SK, tissue","skull | tissue",0,1
 "ske/wing","skeleton | wing",0,1
 "skeketon",,0,0
@@ -65246,6 +65272,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "SN     292",,0,0
 "SN     293",,0,0
 "SN     94",,0,0
+"SN - 1",,0,0
+"SN - 1; SK - 1",,0,0
+"SN - 1; SN - 1",,0,0
+"SN - 1; SS - 1",,0,0
 "SN (2)","skeletons",0,1
 "SN (part.)","partial skeleton",0,1
 "SN | other preparation | skeleton | skull",,0,0
@@ -65256,6 +65286,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SN +BAC","baculum | skeleton",0,1
 "SN +T","skeleton | tissue",0,1
 "SN +T+ECTO","ectoparasite | skeleton | tissue",0,1
+"SN* - 1",,0,0
 "sn, tissue","skeleton | tissue",0,1
 "SN+T","skeleton | tissue",0,1
 "SN+T +ECTO","ectoparasite | skeleton | tissue",0,1
@@ -65282,6 +65313,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "so   Ad.","skin in alcohol",0,1
 "so   Im.","skin in alcohol",0,1
 "so   Juv.","skin in alcohol",0,1
+"SO - 1",,0,0
+"SO - 1; SO - 1",,0,0
+"SO - 1; SS - 1",,0,0
 "so  Ad","skin in alcohol",0,1
 "so  Ad.","skin in alcohol",0,1
 "so  Im.","skin in alcohol",0,1
@@ -65296,6 +65330,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "so AD","skin in alcohol",0,1
 "so Im","skin in alcohol",0,1
 "SO*","skin in alcohol",0,1
+"SO* - 1",,0,0
 "so, & part","skin in alcohol | partial skeleton",0,1
 "so, & part. skeleton","skin in alcohol | partial skeleton",0,1
 "so, eg, ot","skin in alcohol | egg | other",0,1
@@ -65462,11 +65497,19 @@ R PERIPHERALS 2 - 3.",,0,0
 "Squeezes of skull + vertebrae etc.",,0,0
 "Squeezes of skulls + casts",,0,0
 "ss","skin | skull",0,1
+"SS - 1",,0,0
+"SS - 1; AL - 1",,0,0
+"SS - 1; SK - 1",,0,0
+"SS - 1; SN - 1",,0,0
+"SS - 1; SO - 1",,0,0
+"SS - 1; SS - 1",,0,0
+"SS - 2",,0,0
 "SS | other preparation | skin | skull",,0,0
 "SS | other preparation | skin | skull | tissue",,0,0
 "SS | skin | skull",,0,0
 "SS | skin | skull | tissue",,0,0
 "ss | tissue",,0,0
+"SS* - 1",,0,0
 "ss, tissue","skin | skull | tissue",0,1
 "sstissue",,0,0
 "ST","st",0,1
