@@ -327,10 +327,10 @@ M[F]","unknown",0,1
 "348","unknown",0,1
 "36010","unknown",0,1
 "361","unknown",0,1
-"4",,0,0
-"46",,0,0
-"47",,0,0
-"48",,0,0
+"4",,0,1
+"46",,0,1
+"47",,0,1
+"48",,0,1
 "58","unknown",0,1
 "6","unknown",0,1
 "A","unknown",0,1
@@ -573,6 +573,8 @@ M[F]","unknown",0,1
 "Female by plumage","female",0,1
 "Female plumage. Sex ?","female",0,1
 "Female(?)","in question",0,1
+"female(s)-certain","female",0,1
+"female(s)-uncertain","female(s)-uncertain",0,1
 "Female, but has male plumage","female",0,1
 "Female, nest","female",0,1
 "female?","in question",0,1
@@ -863,6 +865,10 @@ M[F]","unknown",0,1
 "Male by plumage","male",0,1
 "Male Female","unknown",0,1
 "Male(?)","in question",0,1
+"male(s) & female(s)-certain","males, females",0,1
+"male(s) & female(s)-uncertain","male(s) & female(s)-uncertain",0,1
+"male(s)-certain","male",0,1
+"male(s)-uncertain","male(s)-uncertain",0,1
 "Male, nest","male",0,1
 "Male, testes 2 X 3 mm","male",0,1
 "male/female","unknown",0,1
@@ -963,6 +969,7 @@ M[F]","unknown",0,1
 "unknowable","unknown",0,1
 "Unknowm","unknown",0,1
 "unknown","unknown",1,1
+"unknown sex","unknown",0,1
 "unknown; SEE ER","unknown",0,1
 "Unknwon","unknown",0,1
 "Unkown","unknown",0,1

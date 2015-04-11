@@ -4850,6 +4850,8 @@ ACC: 20",,0,0
 "Adult winter",,0,0
 "adult with 4 young in-uteri",,0,0
 "adult(?)","adult",0,1
+"adult(s)",,0,0
+"adult(s) and juvenile(s)",,0,0
 "Adult*",,0,0
 "ADULT**",,0,0
 "Adult,  skull oss.",,0,0
@@ -11668,6 +11670,7 @@ Sowing blood-1",,0,0
 "Juvenile Male (?)","juvenile",0,1
 "juvenile specimen",,0,0
 "JUVENILE W/EGG CASE",,0,0
+"juvenile(s)",,0,0
 "JUVENILE,  ADULT",,0,0
 "juvenile, 1/3 ossification","juvenile",0,1
 "Juvenile, 60% oss.","juvenile",0,1
@@ -13043,6 +13046,7 @@ Infertile-1",,0,0
 "Nestling Female","nestling",0,1
 "Nestling fledged",,0,0
 "Nestling Male","nestling",0,1
+"nestling(s)",,0,0
 "NESTLING/FLEDGLING PLUMAGE; BURS",,0,0
 "NESTLING/FLEDGLING; BURSA 7 X 6 ",,0,0
 "NESTLING/SMALL FLEDGLING; BURSA ",,0,0
@@ -13980,7 +13984,9 @@ Infertile-1",,0,0
 "positive
 fresh",,0,0
 "positive, fresh",,0,0
+"possible adult(s)",,0,0
 "Possible around 24 May 93",,0,0
+"possible juvenile(s)",,0,0
 "POSSIBLY ADULT","adult",0,1
 "Possibly crushed egg",,0,0
 "POSSIBLY IMMATURE","immature",0,1
@@ -16244,9 +16250,9 @@ Started",,0,0
 "Two-thirds; 1 infertile",,0,0
 "TY","third year",0,1
 "TY or ATY by plumage",,0,0
-"U",,0,0
+"U","unknown",0,1
 "u.slight",,0,0
-"UKN",,0,0
+"UKN","unknown",0,1
 "unborn",,0,0
 "uncertain",,0,0
 "uncertain & hatched",,0,0
@@ -16274,16 +16280,17 @@ Started",,0,0
 "Unincubated",,0,0
 "Unincubated And Slightly Addled",,0,0
 "unincubated?",,0,0
-"Unk","unknown",0,0
-"unk.",,0,0
+"Unk","unknown",0,1
+"unk.","unknown",0,1
 "unknown","unknown",1,1
+"unknown age","unknown",0,1
 "Unknown If Fertile (3 Broken)",,0,0
 "Unknown, nest abandoned",,0,0
 "Unknown: egg cracked open and dr",,0,0
 "Unknown: egg cracked open and dried.",,0,0
 "Unknown; from prior year",,0,0
 "Unknown; specimens dried",,0,0
-"Unkown",,0,0
+"Unkown","unknown",0,1
 "Unpaired female",,0,0
 "unsorted",,0,0
 "Unsuccessful",,0,0
