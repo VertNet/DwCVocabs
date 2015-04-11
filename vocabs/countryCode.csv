@@ -2805,6 +2805,9 @@
 "Hainan Island","CN",0,1
 "HAIT","HT",0,1
 "Haiti","HT",1,1
+"Haiti and Dominican Republic",,0,1
+"Haiti or Dominican Republic",,0,1
+"Haiti, Dominican Republic or Cuba",,0,1
 "Haiti?","HT",0,1
 "Halmahera","ID",0,1
 "Halmahera Island","ID",0,1
@@ -3563,6 +3566,7 @@
 "Mexico(?)","MX",0,1
 "Mexico, Central, and South America",,0,1
 "Mexico/Guatemala",,0,1
+"Mexico/Nicaragua",,0,1
 "MEXICO/UNITED STATES",,0,1
 "Mexico?","MX",0,1
 "'Mexico'?","MX",0,1
@@ -4482,6 +4486,7 @@
 "NORWEGIAN SEA",,0,1
 "Nor-West Australia","AU",0,1
 "not applicable",,0,1
+"not given",,0,1
 "Not recorded",,0,1
 "not reported",,0,1
 "Noumea","NC",0,1
@@ -4729,6 +4734,7 @@
 "Perú","PE",0,1
 "Peru -","PE",0,1
 "Peru - ?","PE",0,1
+"Peru (SE)","PE",0,1
 "Peru ?","PE",0,1
 "Peru(?)","PE",0,1
 "Peru, Ecuador",,0,1
@@ -6024,6 +6030,7 @@
 "Squally I.","PG",0,1
 "Squally or Storm I.","PG",0,1
 "SRI","LK",0,1
+"Sri  Lanka","LK",0,1
 "Sri Lanka","LK",1,1
 "'Sri Lanka'","LK",0,1
 "Sri Lanka (Ceylon)","LK",0,1
@@ -6439,9 +6446,11 @@
 "TURKS & CAICOS","TC",0,1
 "TURKS & CAICOS IS.","TC",0,1
 "Turks & Caicos Islands","TC",0,1
+"Turks & Caicos, British West","TC",0,1
 "Turks and Caicos Ids","TC",0,1
 "TURKS AND CAICOS IS","TC",0,1
 "Turks and Caicos Islands","TC",1,1
+"Turks and Caicos, British West Indies","TC",0,1
 "Turks Island?","TC",0,1
 "Turks Islands","TC",0,1
 "TURKS/CAICOS ISLAND/S","TC",0,1
