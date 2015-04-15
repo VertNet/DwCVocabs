@@ -1518,6 +1518,9 @@
 "11 teeth",,0,0
 "11 VERTEBRAE (DRY)","11 vertebrae",0,1
 "113 metapodial frags",,0,0
+"1150 m",,0,0
+"1161 m",,0,0
+"1162 m",,0,0
 "11th peripheral",,0,0
 "12 alcoholic juvs",,0,0
 "12 calcanea",,0,0
@@ -2040,6 +2043,7 @@
 "6 VERTEBRAE (DRY)","6 vertebrae",0,1
 "63 m",,0,0
 "64",,0,0
+"64539",,0,0
 "6699",,0,1
 "6th cervical vertebra",,0,0
 "7 - 70% ETHANOL; 2 - DRY",,0,0
@@ -3372,6 +3376,7 @@
 "8 teeth",,0,0
 "8 TEETH/",,0,0
 "8 VERTEBRAE,RIB,SCAPHOLUNAR,METATARSAL 3,5,/R P4, P",,0,0
+"825 m",,0,0
 "8th neural",,0,0
 "9 - 70% ETHANOL; 5 - DRY",,0,0
 "9 bone Frags",,0,0
@@ -3606,6 +3611,7 @@
 "95% EtOH (tiss) - 9",,0,0
 "95% ETOH | tissue",,0,0
 "95% ETOH, tissue",,0,0
+"950 m",,0,0
 "99% ETHANOL/ SMALL JAR, tissue",,0,0
 "A - partial r maxilla w C-M3; B- l P/4",,0,0
 "A - r p4; B-r dentary w p4-m1",,0,0
@@ -3700,6 +3706,7 @@
 "alcholic head",,0,0
 "alcholic head | tissue",,0,0
 "alcohlic",,0,0
+"Alcohoilc",,0,0
 "alcohol","alcoholic",0,1
 "Alcohol - 1",,0,0
 "Alcohol - 1; Photo",,0,0
@@ -5388,10 +5395,18 @@
 "Aliz. Skel., Hyoid","alizarin skeleton | hyoid",0,1
 "Aliz. Skel., Larynx","alizarin skeleton | larynx",0,1
 "Aliz. Skel., Skin","alizarin skeleton | skin",0,1
+"Aliz. Skel.+Dry",,0,0
+"Aliz. Skel.+Dry Skel",,0,0
+"Aliz. Skel.+Dry Skul",,0,0
+"Aliz. Skel.+DrySkull",,0,0
+"Aliz. Skel.+Hyoid",,0,0
+"Aliz. Skel.+Larynx",,0,0
+"Aliz. Skel.+Skin",,0,0
 "Aliz. Skeleton","alizarin skeleton",0,1
 "Allantois (in spirit)",,0,0
 "Almost complete",,0,0
 "Almost complete (mounted)",,0,0
+"Alocholic",,0,0
 "also coprolites",,0,0
 "altas vertebra",,0,0
 "alular phalanx",,0,0
@@ -12784,11 +12799,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "Dry Skeleton - 5",,0,0
 "Dry Skeleton - 9",,0,0
 "dry skeleton, fluid",,0,0
+"Dry Skeleton, Hyoid",,0,0
 "Dry skeleton, Skin","dry skeleton | skin",1,1
 "dry skeleton, tissue",,0,0
 "dry skeleton, tissue, photograph",,0,0
 "Dry skeleton; embryo","dry skeleton | embryo",0,1
 "Dry skeleton; skin","dry skeleton | skin",0,1
+"Dry Skeleton+Embryo",,0,0
+"Dry Skeleton+Hyoid",,0,0
+"Dry Skeleton+Skin",,0,0
 "DRY SKELETONS",,0,0
 "dry skin",,0,0
 "dry skin (cranium in skin)",,0,0
@@ -12802,6 +12821,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Dry skull","dry skull",1,1
 "DRY SKULL AND CLEARED AND STAINED BODY","cleared and stained | dried skull",0,1
 "Dry skull, C&S ","cleared and stained | dry skull",0,1
+"Dry Skull+Aliz. Skel",,0,0
+"Dry Skull+Skin",,0,0
 "Dry specimen","dry specimen",1,1
 "DRY STORAGE",,0,0
 "Dry, C&S","cleared and stained | dry",0,1
@@ -22461,6 +22482,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "larva in formalin",,0,0
 "Larvae","larvae",0,1
 "larvae or embryos",,0,0
+"Larvae/Alcoholic",,0,0
 "Larvae/Form.","larvae in formalin",0,1
 "Laryngeal cartilage",,0,0
 "Larynx (in spirit)",,0,0
@@ -29740,6 +29762,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PARANUCHAL FRAG",,0,0
 "PARANUCHAL PLATE FRAG",,0,0
 "Parapophysis?",,0,0
+"Parasites",,0,0
 "PARASPEHENOID",,0,0
 "Parasphenoid",,0,0
 "PARASPHENOID FRAG",,0,0
@@ -62868,6 +62891,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin; Wings_tail; Tissue",,0,0
 "skin?",,0,0
 "SKIN\BODY SKELETON","skin | body skeleton",0,1
+"Skin+Dry Skeleton",,0,0
 "Skin+Wing","skin | wing",0,1
 "skin+wing+partial skel.+DNA (muscle only)","DNA (muscle) | partial skeleton | skin | wing",0,1
 "SKINK/SKELETON/FEATHERS","feathers | skeleton | skin",0,1
@@ -68428,6 +68452,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "top right jaw frag w/ p4",,0,0
 "top right P4",,0,0
 "top right P4 frag",,0,0
+"Tortola Island",,0,0
 "trace fossil-swim track",,0,0
 "trace fossil-swim track showing striations and scale-like impression at tip",,0,0
 "Trachea (in spirit)",,0,0
