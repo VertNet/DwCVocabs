@@ -1052,6 +1052,7 @@
 "6 embryos, 24mm",,0,0
 "6 embryos, 3mm",,0,0
 "6 embryos, about 1 week, 4 mammae",,0,0
+"6 embryos: 3 R, 3 L; CR= 2 mm",,0,0
 "6 embs",,0,0
 "6 embs, 13 mm",,0,0
 "6 embs/2 R/4 L/cr < 2 mm",,0,0
@@ -1082,6 +1083,7 @@
 "6 embs: 8mm",,0,0
 "6 embs: well developed",,0,0
 "6 embs:11mm",,0,0
+"6 embs:2(L)&4",,0,0
 "6 embs:2(L)&4®",,0,0
 "6 embs:2(L),4(R)=1mm",,0,0
 "6 embs:3(L)&3(R), no lact",,0,0
@@ -1234,6 +1236,7 @@
 "Adutl",,0,0
 "AI","inactive",0,1
 "Alac","lactating",0,1
+"Alces americanus",,0,0
 "AM","multiparous",0,1
 "AMI","multiparous, inactive",0,1
 "AML?","lactating?",0,1
@@ -13183,6 +13186,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "lactating ?; young female attached",,0,0
 "lactating, 2R, 3L embryos",,0,0
 "lactating, 3 embs.",,0,0
+"Lactating, 3 scars, R",,0,0
 "lactating, 4 embryos 2R2L, x27",,0,0
 "lactating, 5 embryos (2R3L), 7 mm",,0,0
 "lactating, 6 embryos, 4mm",,0,0
@@ -13531,6 +13535,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "moulting",,0,0
 "moulting, testes-5X10",,0,0
 "multiple early stage ova",,0,0
+"Murexechinus melanurus",,0,0
 "musch adipose",,0,0
 "N","unknown",0,1
 "NE",,0,0
@@ -14191,6 +14196,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "parous ?",,0,0
 "Parous, lact",,0,0
 "parous, lactating",,0,0
+"Parous, lactating, no embs",,0,0
 "Parous, no embryos",,0,0
 "parous, no embs",,0,0
 "Parous, no embs, no scars",,0,0
@@ -15271,6 +15277,15 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Subadulto",,0,1
 "suckling",,0,0
 "swelling",,0,0
+"T  10 mm",,0,0
+"T  2 mm",,0,0
+"T  3 mm",,0,0
+"T  4 mm",,0,0
+"T  5 mm",,0,0
+"T  6 mm",,0,0
+"T  7 mm",,0,0
+"T  8 mm",,0,0
+"T  9 mm",,0,0
 "T < 1 mm",,0,0
 "T < 1mm",,0,0
 "T < 1mm, abdom.",,0,0
@@ -15434,6 +15449,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=123 mm",,0,0
 "T=12mm",,0,0
 "T=12x16",,0,0
+"T=12x6mm, scr",,0,0
 "T=12x7 mm",,0,0
 "T=13 mm",,0,0
 "T=13 mm, abdom.",,0,0
@@ -15647,6 +15663,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=29 mm",,0,0
 "T=29 mm, scrot.",,0,0
 "T=2mm",,0,0
+"T=2mm, abd",,0,0
 "T=2x1 mm",,0,0
 "T=2x3",,0,0
 "T=3",,0,0
