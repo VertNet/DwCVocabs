@@ -1471,6 +1471,7 @@
 "Can","CA",0,1
 "Can.","CA",0,1
 "Canada","CA",1,1
+"Canadá","CA",1,0
 "Canada (?)","CA",0,1
 "CANADA (PROBABLE)","CA",0,1
 "Canada ?","CA",0,1
@@ -2465,6 +2466,7 @@
 "Fiji; [South Pacific]","FJ",0,1
 "Fiji; South Pacific","FJ",0,1
 "Fijis","FJ",0,1
+"Filipinas","PH",1,0
 "FIN","FI",0,1
 "FINL","FI",0,1
 "Finland","FI",1,1
@@ -2525,6 +2527,7 @@
 "France 9","FR",0,1
 "France; Spain",,0,1
 "France?","FR",0,1
+"Francia","FR",1,0
 "Free State Congo",,0,1
 "French Africa",,0,1
 "French Antarctic Territory","AQ",0,1
@@ -4514,6 +4517,7 @@
 "NT",,0,1
 "Nubia",,0,1
 "Nubia (Abyssinia?)",,0,1
+"Nueva Zelanda","NZ",1,0
 "Null",,0,1
 "NV","US",0,1
 "NW Ecuador","EC",0,1
@@ -4951,6 +4955,9 @@
 "Republic of the Marshall Islands","MH",0,1
 "Republic of the Philippines","PH",0,1
 "Republic of the Phillipines","PH",0,1
+"República Cooperativa de Guyana","GY",1,0
+"República de Chad","TD",1,0
+"República de Sudán","SD",1,0
 "Republica Dominica","DO",0,1
 "REPUBLICA DOMINICANA","DM",0,1
 "Réunion","RE",1,1

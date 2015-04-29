@@ -3,6 +3,7 @@
 "-",,0,0
 "--",,0,0
 """",,0,0
+"""Type México""",,0,0
 """Type""","holotype",0,1
 "(= Type of P. plumbeiceps Lawr.)","holotype",0,1
 "(A type of cearensis Bd)","holotype",0,1
@@ -106,6 +107,9 @@
 "Co-types",,0,0
 "DM Harris",,0,1
 "drawing of type",,0,0
+"DUPICADO BPI, LIL",,0,0
+"DUPLICADO BPI",,0,0
+"DUPLICADO LIL",,0,0
 "epitype","epitype",1,1
 "ex Holotype","holotype",0,1
 "ex MS Holotype","holotype",0,1
@@ -118,6 +122,7 @@
 "H","holotype",0,1
 "HOLO",,0,0
 "HOLO*",,0,0
+"HOLOTIPO",,0,0
 "Holotye of Dryobates villosus scrippsae",,0,0
 "holotype","holotype",1,1
 "Holotype (at USNM)",,0,0
@@ -2263,6 +2268,7 @@ Paratype",,0,0
 "isoneotype","isoneotype",1,1
 "isoparatype","isoparatype",1,1
 "isosyntype","isosyntype",1,1
+"ISOTIPO",,0,0
 "isotopotype","isotopotype",1,1
 "isotype","isotype",1,1
 "isotype fragment","isotype",1,1
@@ -2361,6 +2367,7 @@ Neotype",,0,0
 "Paralectotypes",,0,0
 "PARALECTOTYPES OF ANOLIS GRISEUS",,0,0
 "PARANEOTYPE",,0,0
+"PARATIPO",,0,0
 "PARATOPO",,0,0
 "PARATOPOTYES OF HYLA BOGERTI",,0,0
 "Paratopotype","paratopotype",1,1
@@ -3952,6 +3959,7 @@ Paratype",,0,0
 "PARATYPES PSEUDOEURYCEA EXSPECTATA",,0,0
 "PARATYPES PSEUDOPALUDICOLA BOLIVIANA",,0,0
 "PARATYPES TOMODACTYLUS GRANDIS",,0,0
+"Parte del holotipo",,0,0
 "photo of type",,0,0
 "pipiens",,0,1
 "possible holotype",,0,0
@@ -3975,6 +3983,7 @@ Paratype",,0,0
 "PUBL?",,0,0
 "S",,0,0
 "Secondary Type",,0,0
+"SINTIPO",,0,0
 "skin",,0,0
 "SYN",,0,0
 "Syn TYPE","syntype",0,1
@@ -4082,6 +4091,7 @@ Paratype",,0,0
 "T","topotype",0,1
 "taxon ined.",,0,1
 "THIS SPECIMEN WAS ONE OF THE TYPE SERIES BUT NOT DESIGNATED A PARATYPE.",,0,0
+"TIPO",,0,0
 "to be HOLO",,0,0
 "to be PARA",,0,0
 "TopeTYPE","topotype",0,1
@@ -4552,4 +4562,5 @@ Paratype",,0,0
 "Types of var.",,0,0
 "Type-specimen","holotype",0,1
 "Unverified",,0,1
+"Ver etiqueta",,0,0
 "Winter TYPE","holotype",0,1
