@@ -1,0 +1,47 @@
+[
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Column 1 to genus",
+    "oldColumnName": "Column 1",
+    "newColumnName": "genus"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column genus to verbatimGenus",
+    "oldColumnName": "genus",
+    "newColumnName": "verbatimGenus"
+  },
+  {
+    "op": "core/column-addition-by-fetching-urls",
+    "description": "Create column resolverResults at index 1 by fetching URLs based on column verbatimGenus using expression grel:\"http://resolver.globalnames.org/name_resolvers.json?names=\"+escape(cells[\"verbatimGenus\"].value,\"url\")+\"&data_source_ids=1&with_context=false&best_match_only=true&resolve_once=true\"",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "resolverResults",
+    "columnInsertIndex": 1,
+    "baseColumnName": "verbatimGenus",
+    "urlExpression": "grel:\"http://resolver.globalnames.org/name_resolvers.json?names=\"+escape(cells[\"verbatimGenus\"].value,\"url\")+\"&data_source_ids=1&with_context=false&best_match_only=true&resolve_once=true\"",
+    "onError": "set-to-blank",
+    "delay": 100
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column COLGenus at index 2 based on column resolverResults using expression grel:value.parseJson(\" { 'a' : 1 } \").get(\"data\")[0].get(\"results\")[0].get(\"canonical_form\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "COLGenus",
+    "columnInsertIndex": 2,
+    "baseColumnName": "resolverResults",
+    "expression": "grel:value.parseJson(\" { 'a' : 1 } \").get(\"data\")[0].get(\"results\")[0].get(\"canonical_form\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column COLGenus to position 1",
+    "columnName": "COLGenus",
+    "index": 1
+  }
+]
