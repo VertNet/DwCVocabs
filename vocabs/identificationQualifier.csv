@@ -156,7 +156,7 @@
 "740m.m.s.l.tip of tail ab",,0,1
 "aegyptiaca X sp.","aegyptiaca X sp.",0,1
 "aff sp","aff.",0,1
-"aff.",,0,0
+"aff.","aff.",1,1
 "Along with B548 & B549 SYNTYPE of Sericornis maculatus houtmanensis, Zietz, 1921, (see SAOA 6(2): 44-5). W.D. Dodd No. 119.",,0,1
 "americana or crassidens","species in question",0,1
 "Arvicolinae",,0,1
@@ -332,6 +332,10 @@
 "gen. ?","genus in question",0,1
 "gen?","genus in question",0,1
 "genus ?","genus in question",0,1
+"Genus and Species uncertain, Family identified",,0,1
+"Genus and Species unknown, Family identified",,0,1
+"Genus identified, Species uncertain",,0,1
+"Genus identified, Species unknown",,0,1
 "genus in question","genus in question",0,1
 "genus in quotes","genus in question",0,1
 "genus in quotes and ?","genus in question",0,1
@@ -339,7 +343,9 @@
 "genus in quotes, cf sp","cf.",0,1
 "genus in quotes. ? Sp","genus, species in question",0,1
 "genus questioned","genus in question",1,1
+"Genus uncertain, Species unknown, Family identified",,0,1
 "genus, ?sp","genus, species in question",0,1
+"Genus, Species and Family uncertain",,0,1
 "gn ?","genus in question",0,1
 "gn ? sp ?","genus, species in question",0,1
 "gn cf","cf.",0,1
@@ -462,6 +468,7 @@
 "sg cf;sp cf","cf.",0,1
 "Sigmodontinae",,0,1
 "small",,0,1
+"Some uncertainty as to identification",,0,1
 "sp","sp.",0,1
 "sp ?","species in question",0,1
 "sp cf","cf.",0,1
@@ -785,6 +792,7 @@
 "subsp. ","ssp.",0,1
 "subspecies in question","subspecies in question",1,1
 "subspecies questioned","subspecies in question",0,1
+"Subspecies uncertain",,0,1
 "tabira ssp. 1","ssp.",0,1
 "tblidentificationqualifier.identqualifiername: Genus and Species uncertain, Family identified; tblidentificationqualifier.identqualifiercode: Genus ? species ?, Family known;",,0,1
 "tblidentificationqualifier.identqualifiername: Genus and Species unknown, Family identified; tblidentificationqualifier.identqualifiercode: Genus blank and species blank or ""sp."", Family known;",,0,1
@@ -802,6 +810,7 @@
 "unidentata parv",,0,1
 "unidentata pras",,0,1
 "unidentata sebe",,0,1
+"Unidentified",,0,1
 "venusta x sp.","venusta X sp.",0,1
 "Vespertilionoidea cf fm","cf.",0,1
 "vivax X sp.","vivax X sp.",0,1
