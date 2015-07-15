@@ -1364,6 +1364,7 @@
 "British Somaliland","SO",0,1
 "British Somililand","SO",0,1
 "British Virgin Ids","VG",0,1
+"British Virgin Is.","VG",0,1
 "BRITISH VIRGIN ISLAND/S","VG",0,1
 "British Virgin Islands","VG",0,1
 "British Virgin Isls.","VG",0,1
@@ -1395,6 +1396,7 @@
 "Buru I.","ID",0,1
 "Buru Is.","ID",0,1
 "Burundi","BI",1,1
+"BVI","VG",0,1
 "BWI",,0,1
 "C Madagascar","MG",0,1
 "C Nigeria","NG",0,1
@@ -2449,6 +2451,7 @@
 "Figi Is","FJ",0,1
 "Figi Is.","FJ",0,1
 "Figi Islands","FJ",0,1
+"Fiij","FJ",0,1
 "Fiji","FJ",1,1
 "Fiji - Tonga Groups?",,0,1
 "Fiji *","FJ",0,1
@@ -3186,6 +3189,7 @@
 "Kilimanjaro District","TZ",0,1
 "Kingdom of the Netherlands","NL",0,1
 "Kio I.","RU",0,1
+"Kirgistan","KG",0,1
 "Kirgizstan","KG",0,1
 "Kiribati","KI",1,1
 "KIRIBATI (GILBERT IS)","KI",0,1
@@ -4943,8 +4947,10 @@
 "Republic of China","CN",0,1
 "REPUBLIC OF CONGO","CG",0,1
 "Republic of Guinea","GN",0,1
+"Republic of India","IN",0,1
 "Republic of Ireland","IE",0,1
 "Republic of Korea","KR",1,1
+"Republic of Liberia","LR",0,1
 "Republic of Madagascar","MG",0,1
 "Republic of Nauru","NR",0,1
 "Republic of Niger","NE",0,1
@@ -6092,7 +6098,9 @@
 "St. Vincent and the Grenadines","VC",0,1
 "St. Vincent, B.W.I.","VC",0,1
 "St. Vincent; West Indies","VC",0,1
+"St.Kitts","KN",0,1
 "St.Lucia","LC",0,1
+"St.Vincent","VC",0,1
 "States of Malaya","MY",0,1
 "Stewart Island","NZ",0,1
 "Sto Domingi","DO",0,1
@@ -6520,11 +6528,13 @@
 "Union Is.","VC",0,1
 "Union of South Africa","ZA",0,1
 "Union Of Soviet Socialist Republics",,0,1
+"Union of the Comoros","KM",0,1
 "UNITED ARAB EMIRATE","AE",0,1
 "United Arab Emirates","AE",1,1
 "United Kindom","GB",0,1
 "United Kingdom","GB",1,1
 "United Kingdom of Great Britain","GB",0,1
+"United Kingdom of Great Britain and Northern Ireland","GB",0,1
 "United Kingdom; Crown Dependency",,0,1
 "United Kingdom; Overseas Territory",,0,1
 "United Kingdom?","GB",0,1
@@ -6603,6 +6613,7 @@
 "USSR",,0,1
 "USSR (presumably)",,0,1
 "USSR?",,0,1
+"USVI","VI",0,1
 "UT","US",0,1
 "Uuganda","UG",0,1
 "Uzb","UZ",0,1
