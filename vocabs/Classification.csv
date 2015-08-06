@@ -11084,6 +11084,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Hymeniacidon",,,,,"Porifera","Animalia",,0,0,,1
 "Hymenocephalus","Hymenocephalus","Macrouridae","Gadiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Hymenochirus","Hymenochirus","Pipidae","Anura","Amphibia","Chordata","Animalia","AmphibiaWeb 2014-04-11",1,1,,0
+"Hymenochrius","Hymenochirus","Pipidae","Anura","Amphibia","Chordata","Animalia","Amphibiaweb",0,1,"Genus misspelled.",0
 "Hymenolaimus","Hymenolaimus","Anatidae","Anseriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Hymenops","Hymenops","Tyrannidae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Hymenoptera",,,"Hymenoptera","Insecta","Arthropoda","Animalia","Species 2000 & ITIS Catalogue of Life: May 2012",0,1,"Genus is an order.",0
@@ -21397,6 +21398,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "SALAMANDRA","Salamandra","Salamandridae","Caudata","Amphibia","Chordata","Animalia","AmphibiaWeb 2014-04-11",1,1,,0
 "SALAMANDRELLA","Salamandrella","Hynobiidae","Caudata","Amphibia","Chordata","Animalia","AmphibiaWeb 2014-04-11",1,1,,0
 "Salamandrina","Salamandrina","Salamandridae","Caudata","Amphibia","Chordata","Animalia","AmphibiaWeb 2014-04-11",1,1,,0
+"Salamandrinae",,"Salamandridae","Caudata",,,,,0,1,"Not a genus.",0
 "Salangichthys","Salangichthys","Salangidae","Osmeriformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Salangidae",,"Salangidae","Osmeriformes","Actinopterygii","Chordata","Animalia",,0,1,"Genus is a family.",0
 "Salanoia","Salanoia","Eupleridae","Carnivora","Mammalia","Chordata","Animalia","ITIS",1,1,,0

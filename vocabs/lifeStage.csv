@@ -574,6 +574,7 @@
 "0.t-b-B",,0,0
 "0; egg taken from bird",,0,0
 "0?",,0,1
+"00",,0,0
 "0-0-0",,0,0
 "0000",,0,0
 "0-0-0-0",,0,0
@@ -669,9 +670,24 @@
 "1 addled; 3 advanced",,0,0
 "1 addled; 4 about 1 week",,0,0
 "1 addled; 7 ready to hatch",,0,0
+"1 adult",,0,0
 "1 adult & 1 metamorphosing larva",,0,0
+"1 adult (large)",,0,0
+"1 adult (medium)",,0,0
+"1 adult (small)",,0,0
+"1 adult female with eggs",,0,0
 "1 ADULT FEMALE; 2 LAR",,0,0
+"1 adult male, 1 juvenile",,0,0
 "1 ADULT MALE; 1 LARVA",,0,0
+"1 adult, 1 juv.(Sierra Nevada x ",,0,0
+"1 adult, 1 juvenile",,0,0
+"1 adult, 1 larva",,0,0
+"1 adult, 1 near adult",,0,0
+"1 adult, 2 juveniles",,0,0
+"1 adult, 2 larvae",,0,0
+"1 adult, 3 juveniles",,0,0
+"1 adult, 4 juveniles",,0,0
+"1 adult, 8 immature adults, 5 ju",,0,0
 "1 ADULT; 18 JUVENILE",,0,0
 "1 ADULT; 23 JUVENILE",,0,0
 "1 ADULT; 29 JUVENILE",,0,0
@@ -1053,6 +1069,7 @@
 "1 Heavy, 4 addled",,0,0
 "1 host egg pecked and stuck to l",,0,0
 "1 host slightly incubated, 1 hos",,0,0
+"1 immature",,0,0
 "1 inc; 4 rotten",,0,0
 "1 incubated (2 young)",,0,0
 "1 incubated 10-12 days, 1 infert",,0,0
@@ -1120,7 +1137,10 @@ begun",,0,0
 "1 infertile; others hatched and ",,0,0
 "1 just commenced, 2 ....more tha",,0,0
 "1 just commenced, rest fresh",,0,0
+"1 juvenile",,0,0
+"1 juvenile with eggs",,0,0
 "1 JUVENILE, 1 EGG CAS",,0,0
+"1 juvenile, 2 adult, 1 small",,0,0
 "1 JUVENILE; 1 ADULT",,0,0
 "1 JUVENILE; 2 ADULT",,0,0
 "1 JUVENILE; 4 ADULT",,0,0
@@ -1140,8 +1160,12 @@ begun",,0,0
 "1 large embryo, 3 fresh",,0,0
 "1 large embryo; 1 infertile",,0,0
 "1 large embryos, 2 small embryos",,0,0
+"1 large larva",,0,0
 "1 larva",,0,0
+"1 larva (1yr to transformation)",,0,0
+"1 larva (metamorphosing. Gills m",,0,0
 "1 LARVA, 3 JUVENILE",,0,0
+"1 larval",,0,0
 "1 Lrg Embryo, 1 Infertile, 1 Add",,0,0
 "1 Lrg Embryo, 1 Infertile, 1 Addled",,0,0
 "1 MALE",,0,0
@@ -1152,6 +1176,7 @@ begun",,0,0
 "1 MALE, 1 FEMALE",,0,0
 "1 med, 2 advanced",,0,0
 "1 Med, 2 Small embryos",,0,0
+"1 medium",,0,0
 "1 medium host embryo, 4 large co",,0,0
 "1 medium small embryo, 1 large e",,0,0
 "1 mo",,0,0
@@ -1172,6 +1197,7 @@ begun",,0,0
 "1 OF 2 JARS",,0,0
 "1 of 3 failed eggs",,0,0
 "1 of 4 eggs-clutch failed",,0,0
+"1 old tadpole",,0,0
 "1 one-half; 1 one-eighth",,0,0
 "1 one-third; 1 highly inc.",,0,0
 "1 one-third; 3 infert.",,0,0
@@ -1250,6 +1276,8 @@ begun",,0,0
 "1 slightly incubated others fresh",,0,0
 "1 slightly incubated, 1 infertil",,0,0
 "1 slightly incubated, 1 infertile, Cowbirds starte",,0,0
+"1 small",,0,0
+"1 small adult",,0,0
 "1 Small Embryo",,0,0
 "1 Small embryo decomposed, 1 fle",,0,0
 "1 Small Embryo, 1 Infertile",,0,0
@@ -1277,6 +1305,9 @@ begun",,0,0
 "1 sterile, 1 advanced",,0,0
 "1 sterile, 2 fresh, 2 very sligh",,0,0
 "1 sterile, 2 fresh, 2 very slight",,0,0
+"1 tadpole",,0,0
+"1 tadpole, 2 adult",,0,0
+"1 tadpole, 2 tadpoles (old)",,0,0
 "1 to 2 days",,0,0
 "1 to 3 small embryos, 4 fresh, 5",,0,0
 "1 to 3 small embryos, 4 fresh, 5 ?",,0,0
@@ -1653,14 +1684,18 @@ begun",,0,0
 "1021 moderate",,0,0
 "105 ADULT; 309 JUVENI",,0,0
 "1054-1055 addled; 1056 advanced",,0,0
+"11 adult and medium",,0,0
+"11 adult, 7 larvae",,0,0
 "11 ADULT; 14 JUVENILE",,0,0
 "11 ADULT; 4 JUVENILE",,0,0
 "11 ADULT; 47 JUVENILE",,0,0
 "11 ADULT; 6 JUVENILE",,0,0
 "11 ADULT; 9 JUVENILE",,0,0
+"11 adults",,0,0
 "11 days",,0,0
 "11 days of incubation",,0,0
 "11 days post-laying",,0,0
+"11 juveniles",,0,0
 "11 large embryos, 1 medium embry",,0,0
 "11 large embryos, 1 medium embryo",,0,0
 "11 moderate, 3 fresh",,0,0
@@ -1704,10 +1739,12 @@ begun",,0,0
 "1-2 fresh; 3-4 large embryo; 5 n",,0,0
 "1-2 fresh; 3-4 large embryo; 5 not recorded",,0,0
 "12 hatched, 4 broken",,0,0
+"12 juveniles",,0,0
 "12 mi",,0,0
 "12 or 13 days",,0,0
 "12 or 14 days",,0,0
 "12 or more",,0,0
+"12 tadpoles",,0,0
 "12 to 14 days",,0,0
 "12 to 15 days",,0,0
 "1-2 to pipped",,0,0
@@ -1730,6 +1767,7 @@ begun",,0,0
 "1291 slight-moderate; 1292 moderate",,0,0
 "13",,0,0
 "13 ADULT; 4 JUVENILE",,0,0
+"13 adults",,0,0
 "1-3 advanced",,0,0
 "13 days",,0,0
 "1-3 days",,0,0
@@ -1799,6 +1837,8 @@ begun",,0,0
 "14day min.",,0,0
 "15",,0,0
 "15 ADULT; 7 JUVENILE",,0,0
+"15 adults",,0,0
+"15 adults, 2 juveniles",,0,0
 "15 Days",,0,0
 "15 days of incubation",,0,0
 "15 days post-laying",,0,0
@@ -1961,6 +2001,7 @@ begun",,0,0
 "2 & 4 days",,0,0
 "2 + 3 days",,0,0
 "2- 28 days, 1 infertile",,0,0
+"2 3"" larvae",,0,0
 "2 6-7 days, 1 infertile",,0,0
 "2 abandoned and dented eggs.",,0,0
 "2 about 5/8, 1 infertile",,0,0
@@ -1992,6 +2033,7 @@ begun",,0,0
 "2 addled, 2 fresh",,0,0
 "2 addled, 2 young hatched",,0,0
 "2 addled, 2 young just hatched",,0,0
+"2 adult",,0,0
 "2 ADULT; 11 JUVENILE",,0,0
 "2 ADULT; 16 JUVENILE",,0,0
 "2 ADULT; 27 JUVENILE",,0,0
@@ -1999,6 +2041,9 @@ begun",,0,0
 "2 ADULT; 3 JUVENILE",,0,0
 "2 ADULT; 38 JUVENILE",,0,0
 "2 ADULT; 63 LARVA",,0,0
+"2 adults",,0,0
+"2 adults, 2 small",,0,0
+"2 adults, 3 juveniles",,0,0
 "2 adv. 2 infertile",,0,0
 "2 adv. 4 addled",,0,0
 "2 advanced - 1 addled",,0,0
@@ -2259,6 +2304,7 @@ begun",,0,0
 "2 fresh; 4 commenced",,0,0
 "2 fresh; 4 faint trace",,0,0
 "2 fresh; one slight",,0,0
+"2 frogs",,0,0
 "2 GHO eggs + 1 chick from '93 RS",,0,0
 "2 GHO eggs + 1 chick from '93 RSH nest.",,0,0
 "2 hacked, 1 radioed; 97-SC07-ES-",,0,0
@@ -2286,6 +2332,7 @@ begun",,0,0
 "2 host infertile, 2 host full in",,0,0
 "2 host slight, 1 host addled, al",,0,0
 "2 host slight, 2 host and cowbir",,0,0
+"2 immature",,0,0
 "2 incubated 5 days, 2 rotten",,0,0
 "2 incubated eggs",,0,0
 "2 incubated, 1 infertile",,0,0
@@ -2319,6 +2366,7 @@ begun",,0,0
 "2 jars",,0,0
 "2 just begun, 1 none",,0,0
 "2 just started; 1 - 1/4",,0,0
+"2 juvenile",,0,0
 "2 JUVENILE*; 1 ADULT",,0,0
 "2 JUVENILE, 10 ADULT",,0,0
 "2 JUVENILE; 1 ADULT",,0,0
@@ -2327,6 +2375,7 @@ begun",,0,0
 "2 JUVENILE; 2 ADULT*",,0,0
 "2 JUVENILE; 3 ADULT",,0,0
 "2 JUVENILE; 4 ADULT",,0,0
+"2 juveniles",,0,0
 "2 large embryo, 1 fresh",,0,0
 "2 Large Embryos",,0,0
 "2 large embryos ; abandoned",,0,0
@@ -2344,6 +2393,7 @@ begun",,0,0
 "2 large, 1 medium embryo",,0,0
 "2 larva",,0,0
 "2 larvae",,0,0
+"2 larvae (yearlings)",,0,0
 "2 MALES, 2 FEMALES",,0,0
 "2 Med, 2 Small embryos",,0,0
 "2 med. Embryos",,0,0
@@ -2464,6 +2514,7 @@ begun",,0,0
 "2 started, one 1/3 incubated",,0,0
 "2 started; 1small infertile",,0,0
 "2 started; 2 fresh; 2 about 1/3",,0,0
+"2 tadpoles",,0,0
 "2 three-fourths inc.; 3 addled",,0,0
 "2 to 3 days",,0,0
 "2 to 4 days",,0,0
@@ -2800,6 +2851,7 @@ begun",,0,0
 "29 ADULT; 51 JUVENILE",,0,0
 "29 days",,0,0
 "29 days of incubation",,0,0
+"29 tadpoles",,0,0
 "2922 fresh",,0,0
 "2-advanced, 1-infertile",,0,0
 "2d yr?",,0,0
@@ -2857,6 +2909,9 @@ begun",,0,0
 "3 addled, 2 one week",,0,0
 "3 addled, 2 well-begun",,0,0
 "3 ADULT",,0,0
+"3 adult and sub-adult",,0,0
+"3 adult, 1 medium",,0,0
+"3 adult, 6 medium",,0,0
 "3 ADULT; 1 JUVENILE",,0,0
 "3 ADULT; 1 LARVAE",,0,0
 "3 ADULT; 11 JUVENILE",,0,0
@@ -2867,7 +2922,10 @@ begun",,0,0
 "3 ADULT; 24 JUVENILE",,0,0
 "3 ADULT; 7 JUVENILE",,0,0
 "3 adults",,0,0
+"3 adults, 2 juveniles",,0,0
+"3 adults, 6 juveniles",,0,0
 "3 ADULTS, 8 LARVAE",,0,0
+"3 adults, plus eggs",,0,0
 "3 advanced, 1 addled",,0,0
 "3 advanced, 1 fresh",,0,0
 "3 advanced, 1 infertile",,0,0
@@ -3063,6 +3121,7 @@ begun",,0,0
 "3 JUVENILE; 2 ADULT",,0,0
 "3 JUVENILE; 3 ADULT",,0,0
 "3 JUVENILE; 5 ADULT",,0,0
+"3 juveniles",,0,0
 "3 large embryo, 1 fresh",,0,0
 "3 large embryos",,0,0
 "3 large embryos (eggs saved), 1 ",,0,0
@@ -3080,6 +3139,8 @@ begun",,0,0
 "3 larva",,0,0
 "3 larvae",,0,0
 "3 Male Eyases Produced",,0,0
+"3 mature, 5 immature, 2 larvae",,0,0
+"3 medium",,0,0
 "3 moderate embryos, 1 infertile",,0,0
 "3 moderate, 2 infertile",,0,0
 "3 Nestlings Fledged",,0,0
@@ -3148,6 +3209,7 @@ begun",,0,0
 "3 started; 1 fresh.",,0,0
 "3 Started; 2 Fresh",,0,0
 "3- strictly fresh, 1-faint trace",,0,0
+"3 tadpoles",,0,0
 "3 to 4 days",,0,0
 "3 To 5 Days",,0,0
 "3 to 6 days",,0,0
@@ -3275,6 +3337,8 @@ begun",,0,0
 "3240 moderate",,0,0
 "3243 advanced-feathered",,0,0
 "33 ADULT; 15 JUVENILE",,0,0
+"33 sub-adults",,0,0
+"33 tadpoles",,0,0
 "33%",,0,0
 "3316 fresh. Others unknown.",,0,0
 "3329 no development; 3330 very s",,0,0
@@ -3329,6 +3393,7 @@ begun",,0,0
 "3873 depredated",,0,0
 "3875, 3877 fresh",,0,0
 "3891 moderate; 3893 slight",,0,0
+"39 adults",,0,0
 "39 g",,0,0
 "39.0 g",,0,0
 "3-9/10; 1-1/4",,0,0
@@ -3365,7 +3430,10 @@ begun",,0,0
 "4 ADULT; 12 JUVENILE",,0,0
 "4 ADULT; 5 JUVENILE",,0,0
 "4 ADULT; 8 JUVENILE",,0,0
+"4 adults",,0,0
 "4 ADULTS AND 3 LARVAE",,0,0
+"4 adults, 19 juveniles",,0,0
+"4 adults, eggs",,0,0
 "4 advanced, runt infertile",,0,0
 "4 birds fledged on 20 June-nest ",,0,0
 "4 birds fledged on 20 June-nest only.",,0,0
@@ -3479,6 +3547,7 @@ begun",,0,0
 "4 just started. 4 about 1/4",,0,0
 "4 JUVENILE; 1 ADULT",,0,0
 "4 JUVENILE; 2 ADULT",,0,0
+"4 juveniles",,0,0
 "4 large embryos & 1 infertile",,0,0
 "4 large embryos, 2 small embryos",,0,0
 "4 large embryos; see card",,0,0
@@ -3516,6 +3585,7 @@ begun",,0,0
 "4 stages of incubation from 1/2 ",,0,0
 "4 stages of incubation from 1/2 to fresh",,0,0
 "4 started, 1 infertile",,0,0
+"4 tadpoles",,0,0
 "4 to 5",,0,0
 "4 To 5 Days",,0,0
 "4 to 6 days",,0,0
@@ -3539,6 +3609,7 @@ begun",,0,0
 "4 young 1 egg",,0,0
 "4 young 2.5-3 weeks + 1 egg",,0,0
 "4 young fledged",,0,0
+"4 young frogs",,0,0
 "4 young hatched in wild",,0,0
 "4 young present on 31 May, gone ",,0,0
 "4 young present on 31 May, gone 1 june.",,0,0
@@ -3605,6 +3676,7 @@ begun",,0,0
 "4-3/4, 1 infertile",,0,0
 "4345-46 slight",,0,0
 "43g",,0,0
+"44 larvae",,0,0
 "4-4-4",,0,0
 "4-4-4-6",,0,0
 "4447 very slight; 4448 slight; 4",,0,0
@@ -3689,6 +3761,8 @@ begun",,0,0
 "5 ADULT; 6 JUVENILE",,0,0
 "5 ADULT; 7 JUVENILE",,0,0
 "5 ADULT; 8 JUVENILE",,0,0
+"5 adults",,0,0
+"5 adults, plus eggs",,0,0
 "5 and 6 days",,0,0
 "5 And 7 Days",,0,0
 "5 chicks 2.5 weeks + 1 egg",,0,0
@@ -3736,6 +3810,8 @@ begun",,0,0
 "5 infertile, 1 heavy",,0,0
 "5 j.",,0,0
 "5 JUVENILE, 2 ADULT",,0,0
+"5 juveniles",,0,0
+"5 larvae",,0,0
 "5 months",,0,0
 "5 newly hatched young and 1 egg",,0,0
 "5 one-half; 1 infertile",,0,0
@@ -3751,6 +3827,7 @@ begun",,0,0
 "5 soft embryo, 1 addled",,0,0
 "5 soft embryos; one addled",,0,0
 "5 spoiled eggs and tow young bir",,0,0
+"5 tadpoles",,0,0
 "5 To 6 Days",,0,0
 "5 to 6 days gone",,0,0
 "5 to 7 days",,0,0
@@ -3823,7 +3900,9 @@ begun",,0,0
 "6 ADULT; 1 JUVENILE",,0,0
 "6 ADULT; 16 JUVENILE",,0,0
 "6 ADULT; 20 JUVENILE",,0,0
+"6 adults",,0,0
 "6 ADULTS AND 2 LARVAE",,0,0
+"6 adults, 3 juveniles",,0,0
 "6 chicks collected wfvz#'s- 6024",,0,0
 "6 chicks collected wfvz#'s- 6024-29",,0,0
 "6 Days",,0,0
@@ -3843,6 +3922,7 @@ begun",,0,0
 "6 incubating",,0,0
 "6 infertile; 5 formed embryos",,0,0
 "6 j.",,0,0
+"6 juveniles",,0,0
 "6 larvae",,0,0
 "6 months",,0,0
 "6 mos.",,0,0
@@ -3851,6 +3931,7 @@ begun",,0,0
 "6 or 7 days, soft bones.",,0,0
 "6 or 8 days",,0,0
 "6 or 8 days advanced",,0,0
+"6 subadults",,0,0
 "6 to 10 days",,0,0
 "6 to 15 days advanced",,0,0
 "6 to 7 days",,0,0
@@ -3887,6 +3968,7 @@ begun",,0,0
 "7 7",,0,0
 "7 adult",,0,0
 "7 ADULT; 12 JUVENILE",,0,0
+"7 adults",,0,0
 "7 broken, 3 of which showed deve",,0,0
 "7 broken, 3 of which showed development",,0,0
 "7 Days",,0,0
@@ -3929,11 +4011,13 @@ begun",,0,0
 "7-9 weeks. See card",,0,0
 "7m, 10d",,0,0
 "8 - 10 days",,0,0
+"8 adult, 1 small, 11 medium",,0,0
 "8 ADULT; 11 JUVENILE",,0,0
 "8 ADULT; 15 JUVENILE",,0,0
 "8 ADULT; 278 JUVENILE",,0,0
 "8 ADULT; 5 JUVENILE",,0,0
 "8 ADULT; 6 JUVENILE",,0,0
+"8 adults",,0,0
 "8 days",,0,0
 "8 days (?)",,0,0
 "8 Days Advanced",,0,0
@@ -3952,9 +4036,11 @@ begun",,0,0
 "8 fresh, 3 four days",,0,0
 "8 fresh, 4 slight",,0,0
 "8 hatched, 1 addled and broken",,0,0
+"8 immature",,0,0
 "8 j",,0,0
 "8 j.",,0,0
 "8 jours",,0,0
+"8 juveniles",,0,0
 "8 larva",,0,0
 "8 or 10 days",,0,0
 "8 or 10 days advanced",,0,0
@@ -3983,6 +4069,8 @@ begun",,0,0
 "9",,0,0
 "9 ADULT; 41 JUVENILE",,0,0
 "9 ADULT; 8 JUVENILE",,0,0
+"9 adults",,0,0
+"9 adults, 1 juvenile",,0,0
 "9 Days",,0,0
 "9 days incubated",,0,0
 "9 Days Incubated; 1 Infertile",,0,0
@@ -3994,7 +4082,10 @@ begun",,0,0
 "9 had loose air cells, 2 pipped",,0,0
 "9 Infertile 10 large embryo",,0,0
 "9 JUVENILE, 14 ADULT",,0,0
+"9 juveniles",,0,0
+"9 larvae",,0,0
 "9 or 10 days",,0,0
+"9 tadpoles",,0,0
 "9 to 10 days",,0,0
 "9 years",,0,0
 "9.3","9.3",0,1
@@ -4727,6 +4818,7 @@ ACC: 20",,0,0
 "ADULT (BY PLUMAGE); BURSA NOT FO",,0,0
 "Adult (hatch year)",,0,0
 "Adult (im)",,0,0
+"adult (Sierra Nevada x Oregon in",,0,0
 "Adult (skull 85% oss)",,0,0
 "adult (SY)","adult",0,1
 "Adult (winter)",,0,0
@@ -7715,6 +7807,7 @@ Trace.",,0,0
 "Considerate feathers on young",,0,0
 "considerately incubated",,0,0
 "contained 3 chicks",,0,0
+"contained 39 eggs",,0,0
 "contained soft embyros",,0,0
 "contents apperently dried by bei",,0,0
 "contents apperently dried by being long laid.",,0,0
@@ -8183,6 +8276,7 @@ Trace.",,0,0
 "egg- cases","egg case",0,1
 "EGG CASES AND EMBRYO",,0,0
 "EGG CASES, EMBRYOS",,0,0
+"egg cluster",,0,0
 "Egg crushed; fragments",,0,0
 "Egg died early",,0,0
 "Egg failed with large embryo.",,0,0
@@ -11570,6 +11664,7 @@ Sowing blood-1",,0,0
 "juvenile (flegling)",,0,0
 "Juvenile (from teeth)",,0,0
 "Juvenile (plumage)?","juvenile",0,1
+"juvenile (Sierra Nevada x Oregon",,0,0
 "JUVENILE ; BURSA 1.5 X 1.5 MM;",,0,0
 "JUVENILE ; BURSA 10 X  8 MM;",,0,0
 "JUVENILE ; BURSA 10 X 10 MM;",,0,0
@@ -12558,6 +12653,7 @@ Infertile-1",,0,0
 "LARVA-AMMOCETE",,0,0
 "LARVA-AMMOCOETE",,0,0
 "larvae","larva",0,1
+"larvae (tadpoles)",,0,0
 "Larvae + Embryos + Eggs",,0,0
 "larvae cell","larva cell",0,1
 "larvae or tadpole",,0,0
@@ -12737,6 +12833,7 @@ Infertile-1",,0,0
 "medium large embryos",,0,0
 "medium set",,0,0
 "medium size embryos",,0,0
+"medium sized",,0,0
 "Medium sized embroys",,0,0
 "medium sized embryo",,0,0
 "Medium sized embryo, feathers pr",,0,0
