@@ -1,4 +1,4 @@
-DwCVocabs
+VertNet Darwin Core Vocabularies
 =========
 
 Tables used to reconcile real-world values for Darwin Core terms to somewhat more standardized values to facilitate searching in aggregated data stores.
