@@ -11,4 +11,4 @@ Geography provides continent, country, countryCode, stateProvince, county, munic
 
 [https://github.com/tucotuco/DwCVocabs/blob/master/vocabs/tests/VertNetTaxonomyTestSet.csv](https://github.com/tucotuco/DwCVocabs/blob/master/vocabs/tests/VertNetTaxonomyTestSet.csv)
 
-This data set consists of a random set of 1000 records of distinct taxon name combinations from the 18 April 2015 snapshot of the data aggregated in VertNet. The data were carefully vetted to track various kinds of errors as well as synonyms. Entries were resolved to determine valid taxon name wherever possible using the workflow documents at (https://github.com/tucotuco/DwCVocabs/wiki/VertNet-Taxonomy-Test-Set).
+This data set consists of a random set of 1000 records of distinct taxon name combinations from the 18 April 2015 snapshot of the data aggregated in VertNet. The data were carefully vetted to track various kinds of errors as well as synonyms. Entries were resolved to determine valid taxon name wherever possible using the workflow documents at (https://github.com/tucotuco/DwCVocabs/wiki/Standardized-Reference-Data-Set-for-Vertebrate-Taxon-Name-Resolution).
