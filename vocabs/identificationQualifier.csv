@@ -383,6 +383,7 @@
 "megalotis X sp.","megalotis X sp.",0,1
 "n. sp.","sp. nov.",0,1
 "n. sp. (ms)","sp. nov.",0,1
+"n. sp. 1",,0,1
 "n. sp. 7","sp. nov.",0,1
 "n. sp. 8","sp. nov.",0,1
 "n. sp. a","sp. nov.",0,1
@@ -394,12 +395,14 @@
 "n.sp. ""common""","sp. nov.",0,1
 "n.sp. ""tavi""","sp. nov.",0,1
 "n.sp. (ms)","sp. nov.",0,1
+"n.sp. 1",,0,1
 "n.sp. a","sp. nov.",0,1
 "n.sp. cf novaecaledoniae","sp. nov.",0,1
 "n.sp. 'common'","sp. nov.",0,1
 "n.sp. Coral Sea","sp.",0,1
 "n.sp.1","sp.",0,1
 "n.sp.2","sp.",0,1
+"n.sp.3",,0,1
 "n.sp.sp.2","sp. nov.",0,1
 "n.sp.sp.3","sp. nov.",0,1
 "n.sp.sp.5","sp. nov.",0,1
@@ -479,6 +482,9 @@
 "sp near","cf.",0,1
 "sp nr","cf.",0,1
 "sp.","sp.",1,1
+"sp. ""A""",,0,1
+"sp. ""B""",,0,1
+"sp. ""C""",,0,1
 "sp. ""kazumbe""","sp.",0,1
 "sp. ""moshi""","sp.",0,1
 "sp. ""sawfin shiner""","sp.",0,1
@@ -596,6 +602,7 @@
 "sp. aff. lysina","sp. aff. lysina",0,1
 "sp. albogularis","sp.",0,1
 "sp. B","sp.",0,1
+"sp. B (D?)",,0,1
 "sp. B.","sp.",0,1
 "sp. BBN1","sp.",0,1
 "sp. BBP1","sp.",0,1
@@ -689,10 +696,12 @@
 "sp. div.","sp. div.",0,1
 "sp. E","sp.",0,1
 "sp. 'ebano'","sp.",0,1
+"sp. egg cases",,0,1
 "sp. F","sp.",0,1
 "sp. G","sp.",0,1
 "sp. 'grammarion' ms","sp.",0,1
 "sp. green","sp.",0,1
+"sp. H",,0,1
 "sp. 'Holston sculpin'","sp.",0,1
 "sp. hybrid","sp.",0,1
 "sp. I","sp.",0,1
@@ -701,6 +710,7 @@
 "sp. incert","sp. incert.",0,1
 "sp. incert.","sp. incert.",0,1
 "sp. indet.","sp. indet.",1,1
+"Sp. IV",,0,1
 "sp. J","sp.",0,1
 "sp. K","sp.",0,1
 "sp. kim-2","sp.",0,1
@@ -760,6 +770,7 @@
 "sp. undet.","sp. incert.",0,1
 "sp. unnamed","sp.",0,1
 "sp. vadamans","sp.",0,1
+"Sp. VII",,0,1
 "sp. w1","sp.",0,1
 "sp. w2","sp.",0,1
 "sp. w4","sp.",0,1
@@ -783,6 +794,7 @@
 "sp.9","sp.",0,1
 "sp.A","sp.",0,1
 "sp.B (cf.bransfordii)","sp.",0,1
+"sp.C",,0,1
 "sp.III (c.f.cruentes)","sp.",0,1
 "sp.n","sp. nov.",0,1
 "sp.--not M. mogollonensis","sp.",0,1

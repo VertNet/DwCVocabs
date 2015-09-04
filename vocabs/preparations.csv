@@ -25976,6 +25976,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Kidneys etc. (in spirit)",,0,0
 "Kidneys, etc. (in spirit)",,0,0
 "KK",,0,0
+"KK | tissue",,0,0
 "Knee and ankle",,0,0
 "L","complete skeleton",0,1
 "L  m/1",,0,0
@@ -72050,6 +72051,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "so  Juv.","skin in alcohol",0,1
 "so  Yg.","skin in alcohol",0,1
 "SO | blood sample | blood sample",,0,0
+"SO | blood sample | blood sample | tissue",,0,0
 "SO | other preparation | skin",,0,0
 "SO | other preparation | skin | tissue",,0,0
 "SO | skin",,0,0
@@ -74704,6 +74706,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "TN","skin in alcohol | skeleton | tissue",0,1
 "TO","skeleton | tissue",0,1
 "TO | blood sample | blood sample",,0,0
+"TO | blood sample | blood sample | tissue",,0,0
 "to be determined; input",,0,0
 "toe",,0,0
 "Toe Bones",,0,0
@@ -77051,6 +77054,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "WORN TOOTH",,0,0
 "worn vertebra",,0,0
 "WT",,0,0
+"WT | tissue",,0,0
 "xiphiplastra (2), unassoc.",,0,0
 "XIPHIPLASTRA FRAGS",,0,0
 "xiphiplastra, unassoc.",,0,0

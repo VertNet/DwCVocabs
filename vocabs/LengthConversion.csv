@@ -12,6 +12,7 @@
 "- FT.",0.30,0,1
 "- IN",0.02,0,1
 " m",1.00,0,1
+"- m",1.00,0,1
 "- M ?",1.00,0,1
 "- METERS",1.00,0,1
 "- MT",1.00,0,1
@@ -28,6 +29,7 @@ m",1.00,0,1
 """Houndwood""",,0,1
 """ovary diagram on ta",,0,1
 """ovary diagram on ta ""o",,0,1
+"""shallow""",0.00,0,1
 """t",0.30,0,1
 "(",,0,1
 "( m",1.00,0,1
@@ -40,6 +42,7 @@ m",1.00,0,1
 "(PROBABLY METERS)",1.00,0,1
 "(sea level)",1.00,0,1
 ")",,0,1
+",",0.00,0,1
 "'.",,0,1
 "..",,0,1
 "..033",,0,1
@@ -56,6 +59,7 @@ k",1000.00,0,1
 ".66.578",,0,1
 ".683l",,0,1
 ".946G",,0,1
+".m",1.00,0,1
 ";",,0,1
 "?",,0,1
 "?-",,0,1
@@ -76,6 +80,7 @@ k",1000.00,0,1
 "acres",,0,1
 "AEC HOOT",,0,1
 "ALL DEPTHS TO BOTTOM",,0,1
+"ashore",0.00,0,1
 "AT SURFACE",,0,1
 "attic",,0,1
 "BEACH",,0,1
@@ -85,12 +90,14 @@ k",1000.00,0,1
 "Carson, Garrett, Edwards et al",,0,1
 "Carson, Garrett, et al.",,0,1
 "Carson, Hanna, Garrett, Edward",,0,1
+"cast ashore",0.00,0,1
 "CB no data",,0,1
 "CENTIMETERS",0.01,0,1
 "cm",0.01,1,1
 "d",,0,1
 "datos pendientes",,0,1
 "Decimal Degrees",,0,1
+"E. Flower Garden",0.00,0,1
 "EPIBENTHIC",,0,1
 "f",0.30,0,1
 "F (FEET OR FATHOMS)",,0,1
@@ -155,6 +162,8 @@ k",1000.00,0,1
 "FTHM",1.82,0,1
 "FTMS",1.82,0,1
 "fy",0.30,0,1
+"high tide",0.00,0,1
+"high tide level",0.00,0,1
 "Höhe",,0,1
 "HOWELL, A",,0,1
 "HUEY, L.",,0,1
@@ -172,6 +181,7 @@ k",1000.00,0,1
 "l.336",,0,1
 "LAMB, C.",,0,1
 "LAMB. C.",,0,1
+"land",0.00,0,1
 "lm",,0,1
 "m",1.00,1,1
 "M (GPS)",1.00,0,1
@@ -183,9 +193,11 @@ k",1000.00,0,1
 "m m",1.00,0,1
 "M WIRE",1.00,0,1
 "m""",1.00,0,1
+"m(?)",1.00,0,1
 "M)",1.00,0,1
 "M*",1.00,0,1
 "m.",1.00,0,1
+"m?",1.00,0,1
 "m\",,0,1
 "Madden Creek",,0,1
 "maissing",,0,1
@@ -242,8 +254,10 @@ k",1000.00,0,1
 "NEAR SURFACE",,0,1
 "Nicholson Nursery",,0,1
 "north",,0,1
+"nr",0.00,0,1
 "NS",,0,1
 "NULL",,0,1
+"-o m",1.00,0,1
 "on beach",,0,1
 "on small island",,0,1
 "on small island in lake",,0,1
@@ -258,15 +272,21 @@ k",1000.00,0,1
 "see CCS field notes",,0,1
 "seine",,0,1
 "Shallow",,0,1
+"shore",0.00,0,1
+"shore?",0.00,0,1
 "Shoreline",,0,1
 "spruce",,0,1
 "spruce-Shepherdia",,0,1
 "STIRTON,",,0,1
+"subtidal",0.00,0,1
+"suface",0.00,0,1
 "SURFACE",,0,1
 "SURFACE-",,0,1
+"surface?",0.00,0,1
 "SWARTH, H",,0,1
 "tadpole",,0,1
 "TIDE",,0,1
+"tidepool",0.00,0,1
 "TIDEPOOLS",,0,1
 "TO O M",1.00,0,1
 "Tumble Dredge",,0,1
