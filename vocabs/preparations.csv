@@ -2064,6 +2064,7 @@
 "7 vials of misc. molars",,0,0
 "7 vials of molars",,0,0
 "7 vials of various osteological elements",,0,0
+"7% EtOH",,0,0
 "70 % ETHANOL",,0,0
 "70 % ETHANOL/ 1/2 GALLON JAR",,0,0
 "70 % ETHANOL/ 2 1/2 GALLON JAR",,0,0
@@ -3670,6 +3671,7 @@
 "AL +T +ECTO","alcoholic | ectoparasite | tissue",0,1
 "AL +T +ECTO +CH","alcoholic | chromosomes | ectoparasite | tissue",0,1
 "AL* - 1",,0,0
+"al, sk removed",,0,0
 "AL+T","alcoholic | tissue",0,1
 "AL+T +ECTO","alcoholic | ectoparasite | tissue",0,1
 "AL+T+ECTO","alcoholic | ectoparasite | tissue",0,1
@@ -7370,6 +7372,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "C/1 PARTIAL",,0,0
 "C/1 R",,0,0
 "C/-2-3,METACARPALS 2,3,5",,0,0
+"C/S",,0,0
 "C?",,0,0
 "C1",,0,0
 "C1 FRAG/",,0,0
@@ -13348,6 +13351,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "EPIPUBIC",,0,0
 "epliplastron frags",,0,0
 "epoccipital",,0,0
+"ES",,0,0
 "Esqueleto","skeleton",0,1
 "Esqueleto y cráneo","skeleton | skull",0,1
 "Esqueleto, pendiente de limpiar","skeleton",0,1
@@ -25971,6 +25975,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Kidneys + arteries + veins (in spirit)",,0,0
 "Kidneys etc. (in spirit)",,0,0
 "Kidneys, etc. (in spirit)",,0,0
+"KK",,0,0
 "Knee and ankle",,0,0
 "L","complete skeleton",0,1
 "L  m/1",,0,0
@@ -72044,6 +72049,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "so  Im.","skin in alcohol",0,1
 "so  Juv.","skin in alcohol",0,1
 "so  Yg.","skin in alcohol",0,1
+"SO | blood sample | blood sample",,0,0
 "SO | other preparation | skin",,0,0
 "SO | other preparation | skin | tissue",,0,0
 "SO | skin",,0,0
@@ -74697,6 +74703,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "TMT trochlea",,0,0
 "TN","skin in alcohol | skeleton | tissue",0,1
 "TO","skeleton | tissue",0,1
+"TO | blood sample | blood sample",,0,0
 "to be determined; input",,0,0
 "toe",,0,0
 "Toe Bones",,0,0
@@ -77033,6 +77040,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "wingspread, Tissue number 7876",,0,0
 "wingtissue",,0,0
 "With Skin",,0,0
+"WN",,0,0
 "WO","wings",0,1
 "wood specimens",,0,0
 "worn M frag",,0,0
@@ -77042,6 +77050,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "worn teeth",,0,0
 "WORN TOOTH",,0,0
 "worn vertebra",,0,0
+"WT",,0,0
 "xiphiplastra (2), unassoc.",,0,0
 "XIPHIPLASTRA FRAGS",,0,0
 "xiphiplastra, unassoc.",,0,0
