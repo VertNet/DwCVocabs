@@ -3934,6 +3934,7 @@
 "alcoholic + vials & 4slides of endoparasites",,0,0
 "alcoholic 2 juvs and 4 eggs",,0,0
 "ALCOHOLIC AND DRY INDIVIDUAL PRIMARIES AND SECONDARIES","alcoholic | dry primaries | dry secondaries",0,1
+"ALCOHOLIC AND DRY INDIVIDUAL PRIMARIES AND SECONDARIES | tissue",,0,0
 "ALCOHOLIC AND DRY INDIVIDUAL PRIMARIES AND SECONDARIES, tissue","alcoholic | dry primaries | dry secondaries | tissue",0,1
 "alcoholic anterior half of body",,0,0
 "alcoholic body",,0,0
@@ -11575,6 +11576,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Dissected + sectioned specimen (mounted, in spirit)",,0,0
 "Dissected parts (in spirit)",,0,0
 "DISSECTED PICKLED SPECIMEN","dissected pickle",0,1
+"DISSECTED PICKLED SPECIMEN | tissue",,0,0
 "DISSECTED PICKLED SPECIMEN, tissue","dissected pickle | tissue",0,1
 "Dissected specimen (in spirit)",,0,0
 "Dissected specimen (mounted in spirit)",,0,0
@@ -12710,6 +12712,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "DRIED INFLATED LUNGS","dried inflated lungs",0,1
 "DRIED PARTIAL SPECIMEN","dried partial skeleton",0,1
 "DRIED PRESERVED FOOT",,0,0
+"DRIED PRESERVED FOOT | tissue",,0,0
 "DRIED PRESERVED FOOT, tissue","dried foot | tissue",0,1
 "dried rattle",,0,0
 "DRIED SHELL, SKULL AND SKIN","dried shell | skin | skull",0,1
@@ -13039,9 +13042,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "EGG SHELLS (DRY)","egg shells",0,1
 "EGG SHELLS EMBRYO (DRY)","embryo | egg shells",0,1
 "EGG, COMPLETE CLUTCH",,0,0
+"EGG, COMPLETE CLUTCH | tissue",,0,0
 "EGG, COMPLETE CLUTCH, tissue","egg | complete clutch | tissue",0,1
 "egg, nest",,0,0
 "EGG, PARTIAL CLUTCH",,0,0
+"EGG, PARTIAL CLUTCH | tissue",,0,0
 "EGG, PARTIAL CLUTCH, tissue","egg | partial clutch | tissue",0,1
 "egg, skin",,0,0
 "egg, skin, nest",,0,0
@@ -13055,6 +13060,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Eggs & Nest","eggs | nest",0,1
 "EGGS (?)","eggs",0,1
 "EGGS (DRY)","eggs",0,1
+"EGGS | tissue",,0,0
 "Eggs + a series of young (in spirit)",,0,0
 "Eggs + embryos (in phenoxetol)",,0,0
 "EGGS EMBRYOS (DRY)","embryos | eggs",0,1
@@ -13063,8 +13069,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "EGGS&NEST","eggs | nest",0,1
 "EGGS(?)","eggs",0,1
 "EGGS, COMPLETE CLUTCH","eggs | complete clutch",0,1
+"EGGS, COMPLETE CLUTCH | tissue",,0,0
 "EGGS, COMPLETE CLUTCH, tissue","eggs | complete clutch | tissue",0,1
 "EGGS, PARTIAL CLUTCH","eggs | partial clutch",0,1
+"EGGS, PARTIAL CLUTCH | tissue",,0,0
 "EGGS, PARTIAL CLUTCH, tissue","eggs | partial clutch | tissue",0,1
 "EGGS, tissue","eggs | tissue",0,1
 "eggs, Tissue number 10903",,0,0
@@ -20152,6 +20160,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Feather - 2; Skin - 1","feather - 2 | skin - 1",0,1
 "Feather - 2; Skin - 1; Feather - 2","feather - 2 | skin - 1 | feather - 2",0,1
 "Feather - 3; Skin - 1","feather - 3 | skin - 1",0,1
+"FEATHER | tissue",,0,0
 "Feather development (in spirit)",,0,0
 "FEATHER SHAFT",,0,0
 "feather w part+counterpart",,0,0
@@ -20253,6 +20262,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "feathers ,wing ,Skel","feathers | skeleton | wing",0,1
 "feathers ,wing ,Skel ,tissue","feathers | skeleton | tissue | wing",0,1
 "feathers ,wing ,tissue ,Skel","feathers | skeleton | tissue | wing",0,1
+"FEATHERS | tissue",,0,0
 "Feathers only",,0,0
 "feathers, skeleton","feathers | skeleton",0,1
 "feathers, tail, wing","feathers | tail | wing",0,1
@@ -20974,15 +20984,20 @@ R PERIPHERALS 2 - 3.",,0,0
 "Flat_skin; Wings_tail",,0,0
 "FLAT+WINGS","flat skin | wings",0,1
 "FLATSKIN AND ALCOHOLIC","alcoholic | flat skin",0,1
+"FLATSKIN AND ALCOHOLIC | tissue",,0,0
 "FLATSKIN AND ALCOHOLIC, tissue","alcoholic | flat skin | tissue",0,1
 "FLATSKIN AND DISSECTED CARCASS","flat skin | dissected carcass",0,1
 "FLATSKIN AND SKELETON","flat skin | skeleton",0,1
+"FLATSKIN AND SKELETON | tissue",,0,0
 "FLATSKIN AND SKELETON, tissue","flat skin | skeleton | tissue",0,1
 "FLATSKIN AND SKULL",,0,0
+"FLATSKIN AND SKULL | tissue",,0,0
 "FLATSKIN AND SKULL, tissue","flat skin | skull | tissue",0,1
 "FLATSKIN ONLY","flat skin",0,1
+"FLATSKIN ONLY | tissue",,0,0
 "FLATSKIN ONLY, tissue","flat skin | tissue",0,1
 "FLATSKIN, SKELETON, AND WING",,0,0
+"FLATSKIN, SKELETON, AND WING | tissue",,0,0
 "FLATSKIN, SKELETON, AND WING, tissue","flat skin | skeleton | wing | tissue",0,1
 "flatskin, skeleton, tissue",,0,0
 "flayed and dried specimen",,0,0
@@ -23334,6 +23349,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FTR RM 113",,0,0
 "full mount",,0,0
 "FULL SKELETON","full skeleton",0,1
+"FULL SKELETON | tissue",,0,0
 "Full Skeleton + Flat Skin",,0,0
 "Full Skeleton + Skin + 1 Wing",,0,0
 "FULL SKELETON AND TAIL","full skeleton | tail",0,1
@@ -25139,10 +25155,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "INCOMPLETE/NO SKULL (DRY)","post-cranial",0,1
 "INCOMPLETE/SKULL MISSING (DRY)","post-cranial",0,1
 "INCOMPLETE: BODY ONLY","body",0,1
+"INCOMPLETE: BODY ONLY | tissue",,0,0
 "INCOMPLETE: BODY ONLY, tissue","body | tissue",0,1
 "INCOMPLETE: SKULL AND WING(S) ONLY","skull | wings",0,1
+"INCOMPLETE: SKULL AND WING(S) ONLY | tissue",,0,0
 "INCOMPLETE: SKULL AND WING(S) ONLY, tissue","skull | wings | tissue",0,1
 "INCOMPLETE: SKULL ONLY","skull",0,1
+"INCOMPLETE: SKULL ONLY | tissue",,0,0
 "INCOMPLETE: SKULL ONLY, tissue","skull | tissue",0,1
 "incus",,0,0
 "Incus?",,0,0
@@ -33775,6 +33794,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "nest only | tissue",,0,0
 "Nest only.",,0,0
 "NEST WITH EGGS","eggs | nest",0,1
+"NEST WITH EGGS | tissue",,0,0
 "NEST WITH EGGS, tissue","eggs | nest | tissue",0,1
 "nest, alcoholic","alcoholic | nest",0,1
 "nest, egg",,0,0
@@ -34806,6 +34826,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Other | Tissue: 0",,0,0
 "Other | Tissue: 7358",,0,0
 "OTHER PICKLED MATERIAL","pickled material",0,1
+"OTHER PICKLED MATERIAL | tissue",,0,0
 "OTHER PICKLED MATERIAL, tissue","pickled material | tissue",0,1
 "other prep","other prep",1,1
 "other, alcoholic",,0,0
@@ -37729,6 +37750,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skeleton (muscle); other (surrogate puppet)",,0,0
 "Partial Skeleton (no skull)",,0,0
 "partial skeleton [card catalog]; >1 indiv or taxon",,0,0
+"PARTIAL SKELETON | tissue",,0,0
 "Partial Skeleton + 2 Wings + Tail",,0,0
 "PARTIAL SKELETON AND FLUID HEAD","partial skeleton | fluid head",0,1
 "PARTIAL SKELETON AND FLUID HEAD AND TAIL","partial skeleton | fluid head | fluid tail",0,1
@@ -37921,6 +37943,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial verterba",,0,0
 "partial wing","partial wing",0,1
 "PARTIAL: SKULL AND TAIL ONLY","skull | tail",0,1
+"PARTIAL: SKULL AND TAIL ONLY | tissue",,0,0
 "PARTIAL: SKULL AND TAIL ONLY, tissue","skull | tail | tissue",0,1
 "Partially dissected (mounted, in spirit)",,0,0
 "Partical skull",,0,0
@@ -38794,8 +38817,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "pick up horns","horns",0,1
 "PICKLED EMBRYO","pickled embryo",0,1
 "PICKLED HEAD, LEG, AND WING, REMAINDER AS SKELETON. DRIED BONELESS WING.",,0,0
+"PICKLED HEAD, LEG, AND WING, REMAINDER AS SKELETON. DRIED BONELESS WING. | tissue",,0,0
 "PICKLED HEAD, LEG, AND WING, REMAINDER AS SKELETON. DRIED BONELESS WING., tissue","pickled head | leg | wing | skeleton | dried boneless wing | tissue",0,1
 "PICKLED TRUNK ONLY","pickled trunk",0,1
+"PICKLED TRUNK ONLY | tissue",,0,0
 "PICKLED TRUNK ONLY, tissue","pickled trunk | tissue",0,1
 "Piece",,0,0
 "Piece (+ 2 fragments)",,0,0
@@ -46188,13 +46213,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "SCHAPHOLUNAR",,0,0
 "SCHMOO","schmoo",0,1
 "SCHMOO AND FULL SKELETON","schmoo | full skeleton",0,1
+"SCHMOO AND FULL SKELETON | tissue",,0,0
 "SCHMOO AND FULL SKELETON, tissue","schmoo | full skeleton | tissue",0,1
 "SCHMOO AND PARTIAL SKELETON","schmoo | partial skeleton",0,1
 "SCHMOO AND SKELETON",,0,0
+"SCHMOO AND SKELETON | tissue",,0,0
 "SCHMOO AND SKELETON, tissue","schmoo | skeleton | tissue",0,1
 "SCHMOO AND SKULL","schmoo | skull",0,1
 "schmoo, complete skeleton, wing, tissue - 1","schmoo | complete skeleton | tissue - 1 | wing",0,1
 "SCHMOO, FULL SKELETON, AND SPREAD WING","schmoo | full skeleton | spread wing",0,1
+"SCHMOO, FULL SKELETON, AND SPREAD WING | tissue",,0,0
 "SCHMOO, FULL SKELETON, AND SPREAD WING, tissue","schmoo | full skeleton | spread wing | tissue",0,1
 "schmoo, partial skel, wing - 1","schmoo | partial skeleton | wing - 1",0,1
 "schmoo, skel, wing - 1","schmoo | skeleton | wing - 1",0,1
@@ -47326,6 +47354,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELETON AND TANNED SKIN","skeleton | tanned skin",0,1
 "SKELETON AND TESTES IN FORMALIN","skeleton and testes in formalin",0,1
 "SKELETON AND WING","skeleton | wing",0,1
+"SKELETON AND WING | tissue",,0,0
 "SKELETON AND WING, tissue","skeleton | wing | tissue",0,1
 "SKELETON BODY",,0,0
 "SKELETON ELEMENTS",,0,0
@@ -50683,6 +50712,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton, Wing (2), Tissue","skeleton | wings | tissue",0,1
 "SKELETON, WING FEATHERS","skeleton | wing feathers",0,1
 "SKELETON, WING, AND TAIL","skeleton | wing | tail",0,1
+"SKELETON, WING, AND TAIL | tissue",,0,0
 "SKELETON, WING, AND TAIL, tissue","skeleton | wing | tail | tissue",0,1
 "SKELETON, WING, BONELESS SKIN","skeleton | boneless skin | wing",0,1
 "SKELETON, WING, FEATHERS","skeleton | wing | feathers",0,1
@@ -72187,7 +72217,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Spread Wing - 1","spread wing - 1",0,1
 "spread wing (see Comments)",,0,0
 "spread wing (see Comments) | tissue",,0,0
+"SPREAD WING | tissue",,0,0
 "SPREAD WING AND TAIL",,0,0
+"SPREAD WING AND TAIL | tissue",,0,0
 "SPREAD WING AND TAIL, tissue","spread wing | tail | tissue",0,1
 "SPREAD WING, tissue","spread wing | tissue",0,1
 "Spur + femoral gland (in spirit)",,0,0
@@ -72378,11 +72410,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "study skin + skeleton",,0,0
 "study skin + skeleton | tissue",,0,0
 "STUDY SKIN AND ALCOHOLIC TRUNK","study skin | alcoholic trunk",0,1
+"STUDY SKIN AND ALCOHOLIC TRUNK | tissue",,0,0
 "STUDY SKIN AND ALCOHOLIC TRUNK, tissue","study skin | alcoholic trunk | tissue",0,1
 "STUDY SKIN AND BODY SKELETON","study skin | body skeleton",0,1
+"STUDY SKIN AND BODY SKELETON | tissue",,0,0
 "STUDY SKIN AND BODY SKELETON, tissue","study skin | body skeleton | tissue",0,1
 "STUDY SKIN AND SKELETON","study skin |  skeleton",0,1
 "STUDY SKIN AND SPREAD WING",,0,0
+"STUDY SKIN AND SPREAD WING | tissue",,0,0
 "STUDY SKIN AND SPREAD WING, tissue","study skin | spread wing | tissue",0,1
 "STUDY SKIN AND WING","study skin | wing",0,1
 "study skin only",,0,0
@@ -72961,6 +72996,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "TAXIDERMIED MOUNT, SKELETON","mount | skeleton",0,1
 "Taxidermy",,0,0
 "Taxidermy Mount","taxidermy mount",0,1
+"TAXIDERMY MOUNT | tissue",,0,0
 "taxidermy mount, skin",,0,0
 "taxidermy mount, skull",,0,0
 "TAXIDERMY MOUNT, tissue","taxidermy mount | tissue",0,1

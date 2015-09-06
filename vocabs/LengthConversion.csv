@@ -42,7 +42,9 @@ m",1.00,0,1
 "(PROBABLY METERS)",1.00,0,1
 "(sea level)",1.00,0,1
 ")",,0,1
+"*",0.00,0,1
 ",",0.00,0,1
+",OOO FT",304.80,0,1
 "'.",,0,1
 "..",,0,1
 "..033",,0,1
@@ -94,6 +96,7 @@ k",1000.00,0,1
 "CB no data",,0,1
 "CENTIMETERS",0.01,0,1
 "cm",0.01,1,1
+"COAST",0.00,0,1
 "d",,0,1
 "datos pendientes",,0,1
 "Decimal Degrees",,0,1
@@ -133,6 +136,7 @@ k",1000.00,0,1
 "FRANK OGAWA ATH",,0,1
 "ft",0.30,1,1
 "FT  (GPS)",0.30,0,1
+"FT (?)",0.30,0,1
 "ft (BENCHMARK)",0.30,0,1
 "ft (georef point)",0.30,0,1
 "ft (GMF)",0.30,0,1
@@ -182,6 +186,7 @@ k",1000.00,0,1
 "LAMB, C.",,0,1
 "LAMB. C.",,0,1
 "land",0.00,0,1
+"LITTORAL",0.00,0,1
 "lm",,0,1
 "m",1.00,1,1
 "M (GPS)",1.00,0,1
@@ -242,6 +247,7 @@ k",1000.00,0,1
 "MM (PROBABLY M)",1.0e-03,0,1
 "MM""??",1.0e-03,0,1
 "MM(?)",1.0e-03,0,1
+"MM.",0.00,0,1
 "msnm",1.00,0,1
 "mt",1.00,0,1
 "mts",1.00,0,1
@@ -257,11 +263,14 @@ k",1000.00,0,1
 "nr",0.00,0,1
 "NS",,0,1
 "NULL",,0,1
+"O FT",3.04,0,1
 "-o m",1.00,0,1
 "on beach",,0,1
 "on small island",,0,1
 "on small island in lake",,0,1
+"OO FT",30.48,0,1
 "oof",,0,1
+"OOO FT",304.80,0,1
 "Parque Nacional Tres Volcanes",,0,1
 "pies",0.30,0,1
 "Previously labelled as from Qu",,0,1
@@ -296,6 +305,7 @@ k",1000.00,0,1
 "UBC campus",,0,1
 "VAN ROSSE",,0,1
 "various",,0,1
+"'W",0.00,0,1
 "weber, j.",,0,1
 "wet willow",,0,1
 "wet willow and grass",,0,1
