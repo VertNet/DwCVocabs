@@ -2948,6 +2948,7 @@
 "India, Lower Burma",,0,1
 "India, N.W. Ceylon",,0,1
 "India, Nepal",,0,1
+"India, Pakistan",,0,1
 "India, Upp. Burma",,0,1
 "India, Upper Burma",,0,1
 "India, W. Ceylon",,0,1
@@ -3143,6 +3144,7 @@
 "Karinthia","AT",0,1
 "Kashmir",,0,1
 "KAZACHSTAN","KZ",0,1
+"Kazahkstan","KZ",0,1
 "Kazakatan","KZ",0,1
 "Kazakh SSR","KZ",0,1
 "Kazakhistan SSR","KZ",0,1
@@ -3269,6 +3271,7 @@
 "Lesser Sunda Is.","ID",0,1
 "Letti I.","ID",0,1
 "Letti Is.","ID",0,1
+"Libera","LR",0,1
 "Liberia","LR",1,1
 "'Liberia'","LR",0,1
 "Liberia ? Cameroon ?",,0,1
@@ -3364,6 +3367,7 @@
 "Macau","MO",0,1
 "Macauley I.","NZ",0,1
 "Macedonia","MK",1,1
+"Macedonia, Former Yugoslav Republic of","MK",0,1
 "Macquarie I.","AU",0,1
 "Macquarie Is.","AU",0,1
 "Macquarie Island","AU",0,1
@@ -4128,6 +4132,7 @@
 "NAMB","NA",0,1
 "Namibia","NA",1,1
 "NAMIBIA (SWA)","NA",0,1
+"Namibia?","NA",0,1
 "NAMX",,0,1
 "N'Angola","AO",0,1
 "Napal Valley","NP",0,1
@@ -4749,6 +4754,7 @@
 "Peru (SE)","PE",0,1
 "Peru ?","PE",0,1
 "Peru(?)","PE",0,1
+"Peru, Chile",,0,1
 "Peru, Ecuador",,0,1
 "PERU/MEXICO",,0,1
 "Peru?","PE",0,1
@@ -4969,6 +4975,7 @@
 "República de Sudán","SD",0,1
 "Republica Dominica","DO",0,1
 "REPUBLICA DOMINICANA","DM",0,1
+"Reunion","RE",0,1
 "Réunion","RE",1,1
 "Reunion I","RE",0,1
 "Reunion I.","RE",0,1
@@ -5721,6 +5728,7 @@
 "Sierra Leone","SL",1,1
 "Sierra Leone Penin.","SL",0,1
 "Sierra Leone Peninsula","SL",0,1
+"Sierra Leone?","SL",0,1
 "Sierre Leone","SL",0,1
 "Sikkim","IN",0,1
 "Silesia",,0,1
@@ -6181,6 +6189,7 @@
 "Sweden","SE",1,1
 "Sweden ?","SE",0,1
 "Sweden [Norway]",,0,1
+"Sweden, Norway",,0,1
 "Sweden?","SE",0,1
 "Swedish Lapland","SE",0,1
 "Swedish Lapland [Sweden]","SE",0,1
@@ -6620,6 +6629,7 @@
 "Uzb","UZ",0,1
 "Uzbekistan","UZ",1,1
 "Uzbekistan SSR","UZ",0,1
+"Uzbekistan, Turkemenistan",,0,1
 "V ENEZUELA","VE",0,1
 "VA","US",0,1
 "Vanua Levu I.","FJ",0,1
@@ -6635,12 +6645,14 @@
 "Venez.","VE",0,1
 "Venez; Trinidad",,0,1
 "VENEZEULA","VE",0,1
+"Venezuala","VE",0,1
 "Venezuela","VE",1,1
 "Venezuela (?)","VE",0,1
 "Venezuela ?","VE",0,1
 "Venezuela or Trinidad",,0,1
 "Venezuela S.A.","VE",0,1
 "Venezuela!","VE",0,1
+"Venezuela, Ecuador",,0,1
 "Venezuela, N. Coast Mt.","VE",0,1
 "Venezuela, N. Coast M'ts","VE",0,1
 "Venezuela, N. Coast Mts.","VE",0,1
