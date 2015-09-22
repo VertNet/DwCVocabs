@@ -99,6 +99,7 @@ k",1000.00,0,1
 "COAST",0.00,0,1
 "d",,0,1
 "datos pendientes",,0,1
+"DEAD ON SPOIL ISLANDS",0.00,0,1
 "Decimal Degrees",,0,1
 "E. Flower Garden",0.00,0,1
 "EPIBENTHIC",,0,1
@@ -190,12 +191,17 @@ k",1000.00,0,1
 "lm",,0,1
 "m",1.00,1,1
 "M (GPS)",1.00,0,1
+"M (MAIN ISLAND)",1.00,0,1
 "M (MUST BE FATHOMS)",1.82,0,1
 "m (sea level)",1.00,0,1
 "M ?",1.00,0,1
+"M +",1.00,0,1
 "m ±",1.00,0,1
+"M ABOVE CHILAS",1.00,0,1
+"M ELEVATION",1.00,0,1
 "m gear",,0,1
 "m m",1.00,0,1
+"M RIVER",0.00,0,1
 "M WIRE",1.00,0,1
 "m""",1.00,0,1
 "m(?)",1.00,0,1
@@ -264,6 +270,7 @@ k",1000.00,0,1
 "NS",,0,1
 "NULL",,0,1
 "O FT",3.04,0,1
+"O M",1.00,0,1
 "-o m",1.00,0,1
 "on beach",,0,1
 "on small island",,0,1

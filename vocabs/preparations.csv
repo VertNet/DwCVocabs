@@ -5421,6 +5421,9 @@
 "ANAL SCALES",,0,0
 "anatomical; alc. 4 fetuses: ex utero",,0,0
 "anchylosed vertebrae",,0,0
+"Ancillary Material - 1",,0,0
+"Ancillary Material - 1; Skeleton - 1",,0,0
+"Ancillary Material - 1; Tissue - 1; Skin - 1; Skeleton - 1",,0,0
 "anerior carapace",,0,0
 "ANGLE OF DENTARY",,0,0
 "Angular",,0,0
@@ -6185,6 +6188,8 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "antlers (9 sets)",,0,0
 "Antlers (bases)",,0,0
 "Antlers (pair)",,0,0
+"Antlers/Horns - 1",,0,0
+"Antlers/Horns - 1; Mandibles",,0,0
 "Antlers/mandible","antlers | mandible",0,1
 "antlers/partial cranium",,0,0
 "antlers/skull plate",,0,0
@@ -6685,6 +6690,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "baculum  (complete); postcranial skeleton (partial); skin (round); skull (complete)",,0,0
 "baculum  (complete); skin (round)",,0,0
 "baculum  (complete); skin (round); skull (complete)",,0,0
+"Baculum - 1",,0,0
 "baculum (broken); postcranial skeleton (complete); skin (pelt); skull (complete)",,0,0
 "baculum (broken); postcranial skeleton (complete); skull (complete)",,0,0
 "baculum (broken); postcranial skeleton (partial); skin (round); skull (broken)",,0,0
@@ -6787,6 +6793,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "baculum; skull (complete)",,0,0
 "baculum; skull (complete), none",,0,0
 "baleen","baleen",1,1
+"Baleen - 1",,0,0
 "baleen (1 plate)",,0,0
 "baleen (1 plate), none",,0,0
 "baleen (12 plates)",,0,0
@@ -7594,6 +7601,9 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "cape skin",,0,0
 "cape/paw/skel","cape | paw | skeleton",0,1
 "CARAPACE",,0,0
+"Carapace - 1",,0,0
+"Carapace - 1; Skeleton - 1",,0,0
+"Carapace - 1; Skull - 1",,0,0
 "carapace & limb",,0,0
 "CARAPACE (DRY)","carapace",0,1
 "Carapace (fragment)",,0,0
@@ -20700,6 +20710,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Flat Round Skin and Castor Glands",,0,0
 "flat skin","flat skin",1,1
 "Flat skin - 1",,0,0
+"Flat Skin - 1; Antlers/Horns - 1",,0,0
+"Flat Skin - 1; Baculum - 1",,0,0
+"Flat Skin - 1; Partial Skeleton - 1; Skull - 1",,0,0
+"Flat Skin - 1; Skeleton - 1",,0,0
+"Flat Skin - 1; Skeleton - 1; Fluid - 1",,0,0
+"Flat Skin - 1; Skeleton - 1; Skeleton - 1",,0,0
+"Flat Skin - 1; Skeleton - 1; Tissue - 1",,0,0
+"Flat Skin - 1; Skull - 1",,0,0
 "flat skin & complete skeleton",,0,0
 "flat skin & complete skeleton | tissue",,0,0
 "flat skin & part skeleton",,0,0
@@ -21025,19 +21043,28 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 1; Fluid - 69; Fluid - 48",,0,0
 "Fluid - 1; Fluid - 9",,0,0
 "Fluid - 1; Image - 1","fluid - 1 | image - 1",0,1
+"Fluid - 1; Partial Skeleton - 1; Skull - 1",,0,0
 "Fluid - 1; Scale - 0",,0,0
 "Fluid - 1; Scale - 1",,0,0
 "Fluid - 1; Skel - 1","fluid - 1 | skeleton - 1",0,1
 "Fluid - 1; Skel - 1; Skin - 1","fluid - 1 | skeleton - 1 | skin - 1",0,1
+"Fluid - 1; Skeleton - 1",,0,0
 "Fluid - 1; Skin - 1","fluid - 1 | skin - 1",0,1
 "Fluid - 1; Skin - 1; Fluid - 1","fluid - 1 | skin - 1 | fluid - 1",0,1
 "Fluid - 1; Skin - 1; Skel - 1; Skin/toe clip - 1","fluid - 1 | skin - 1 | skeleton - 1",0,1
+"Fluid - 1; Skin - 1; Skeleton - 1",,0,0
 "Fluid - 1; Skin - 1; Skin/toe clip - 1","fluid - 1 | skin - 1",0,1
+"Fluid - 1; Skin - 1; Skull - 1",,0,0
 "Fluid - 1; Skin - 1; Tissue - 50","fluid - 1 | skin - 1 | tissue - 50",0,1
+"Fluid - 1; Skull - 1",,0,0
+"Fluid - 1; Skull - 1; Baculum",,0,0
+"Fluid - 1; Skull - 1; Baculum - 1",,0,0
+"Fluid - 1; Skull - 1; Skin - 1",,0,0
 "Fluid - 1; Syrinx - 1","fluid - 1 | syrinx - 1",0,1
 "Fluid - 1; Syrinx - 1; Skel - 1","fluid - 1 | syrinx - 1 | skeleton - 1",0,1
 "Fluid - 1; Syrinx - 1; Tissue - 1; Skel - 1","fluid - 1 | syrinx - 1 | tissue - 1 | skeleton - 1",0,1
 "Fluid - 1; Syrinx - 1; Tissue - 1; Skin - 1","fluid - 1 | syrinx - 1 | tissue - 1 | skin - 1",0,1
+"Fluid - 1; Tissue",,0,0
 "Fluid - 1; Tissue - 1","fluid - 1 | tissue - 1",0,1
 "Fluid - 1; Tissue - 1; Dry Skeleton - 1",,0,0
 "Fluid - 1; Tissue - 1; Fluid - 1",,0,0
@@ -31325,6 +31352,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "MANDIBLE+SCUTE FRAGS",,0,0
 "MANDIBLE+TEETH",,0,0
 "MANDIBLES",,0,0
+"Mandibles - 1",,0,0
 "MANDIBLES & FRAGS",,0,0
 "mandibles (2 mandibles)",,0,0
 "mandibles (2 mandibles), none",,0,0
@@ -33450,6 +33478,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Mould of vertebra (18th)",,0,0
 "Moulds of skull",,0,0
 "mount","mount",1,1
+"Mount - 1",,0,0
+"Mount - 1; Skull - 1",,0,0
 "mount & bones",,0,0
 "mount (body)",,0,0
 "mount (body) | cranium (complete)",,0,0
@@ -33608,6 +33638,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "multiple skeletons","skeletons (multiple)",0,1
 "MUMIFIED TAIL","mummified tail",0,1
 "MUMMIFIED","mummy",0,1
+"Mummified - 1",,0,0
+"Mummified - 1; Mandibles - 1",,0,0
+"Mummified - 1; Skeleton - 1",,0,0
 "mummified head only",,0,0
 "mummified skin of 1 foot only",,0,0
 "mummified skin, tissue",,0,0
@@ -36489,6 +36522,22 @@ R PERIPHERALS 2 - 3.",,0,0
 "PARANUCHAL PLATE FRAG",,0,0
 "Parapophysis?",,0,0
 "Parasites",,0,0
+"Parasites - 1; Tissue",,0,0
+"Parasites - 1; Tissue - 1",,0,0
+"Parasites - 1; Wing Punch - 1",,0,0
+"Parasites - 10; Wing Punch - 1",,0,0
+"Parasites - 11; Wing Punch - 1",,0,0
+"Parasites - 12; Wing Punch - 1",,0,0
+"Parasites - 13; Wing Punch - 1",,0,0
+"Parasites - 2; Wing Punch - 1",,0,0
+"Parasites - 20; Wing Punch - 1",,0,0
+"Parasites - 3; Wing Punch - 1",,0,0
+"Parasites - 4; Wing Punch - 1",,0,0
+"Parasites - 5; Wing Punch - 1",,0,0
+"Parasites - 6; Wing Punch - 1",,0,0
+"Parasites - 7; Wing Punch - 1",,0,0
+"Parasites - 8; Wing Punch - 1",,0,0
+"Parasites - 9; Wing Punch - 1",,0,0
 "PARASPEHENOID",,0,0
 "Parasphenoid",,0,0
 "PARASPHENOID FRAG",,0,0
@@ -37745,6 +37794,23 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skel/x-rays R&L flippers/art. flipper",,0,0
 "partial skeleton","partial skeleton",1,1
 "Partial skeleton - 1","partial skeleton - 1",0,1
+"Partial Skeleton - 1; Carapace",,0,0
+"Partial Skeleton - 1; Fluid - 1",,0,0
+"Partial Skeleton - 1; Partial Skeleton - 1",,0,0
+"Partial Skeleton - 1; Partial Skeleton - 1; Partial Skeleton - 1",,0,0
+"Partial Skeleton - 1; Skeleton - 1",,0,0
+"Partial Skeleton - 1; Skin",,0,0
+"Partial Skeleton - 1; Skin Patch",,0,0
+"Partial Skeleton - 1; Skin Patch; Skull - 1",,0,0
+"Partial Skeleton - 1; Skull",,0,0
+"Partial Skeleton - 1; Skull - 1",,0,0
+"Partial Skeleton - 1; Skull - 17",,0,0
+"Partial Skeleton - 1; Skull - 5",,0,0
+"Partial Skeleton - 1; Tissue - 1",,0,0
+"Partial Skeleton - 1; Tissue - 1; Skull - 1",,0,0
+"Partial Skeleton - 1; Tissue; Skin",,0,0
+"Partial Skeleton - 2; Skull - 2",,0,0
+"Partial Skeleton - 3",,0,0
 "PARTIAL SKELETON (DRY)","partial skeleton",0,1
 "PARTIAL SKELETON (LACKS ANT. F","partial skeleton",0,1
 "partial skeleton (muscle); other (surrogate puppet)",,0,0
@@ -47182,17 +47248,48 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeletal remains of 2 adults and 1 immature.",,0,0
 "skeleton","skeleton",1,1
 "Skeleton - 1","skeleton",0,1
+"Skeleton - 1; Ancillary Material - 1",,0,0
+"Skeleton - 1; Baleen",,0,0
+"Skeleton - 1; Baleen - 1",,0,0
+"Skeleton - 1; Baleen - 1; Skeleton - 1",,0,0
+"Skeleton - 1; Carapace",,0,0
 "Skeleton - 1; Flat skin - 1",,0,0
+"Skeleton - 1; Fluid - 1",,0,0
+"Skeleton - 1; Fluid - 1; Tissue - 1; Skin",,0,0
 "Skeleton - 1; Misc. - 1",,0,0
 "Skeleton - 1; Mounted - 1",,0,0
 "Skeleton - 1; No data - 1",,0,0
+"Skeleton - 1; Parasites - 1; Tissue - 1",,0,0
+"Skeleton - 1; Skeleton",,0,0
 "Skeleton - 1; Skeleton - 1","skeleton",0,1
+"Skeleton - 1; Skeleton - 1; Skeleton - 1",,0,0
+"Skeleton - 1; Skeleton - 1; Skeleton - 1; Skeleton - 1",,0,0
+"Skeleton - 1; Skeleton - 1; Skeleton - 1; Skeleton - 1; Skeleton - 1",,0,0
+"Skeleton - 1; Skeleton - 1; Skin - 1",,0,0
+"Skeleton - 1; Skeleton - 1; Skin Patch - 1",,0,0
+"Skeleton - 1; Skeleton - 1; Tissue - 1",,0,0
+"Skeleton - 1; Skeleton; Skin Patch",,0,0
+"Skeleton - 1; Skin",,0,0
 "Skeleton - 1; Skin - 1",,0,0
+"Skeleton - 1; Skin - 1; Skeleton - 1",,0,0
 "Skeleton - 1; Skin (EtOH) - 1",,0,0
+"Skeleton - 1; Skin; Tissue",,0,0
+"Skeleton - 1; Skull - 1",,0,0
 "Skeleton - 1; Study skin - 1",,0,0
+"Skeleton - 1; Tanned Skin - 1; Tissue",,0,0
+"Skeleton - 1; Tissue",,0,0
+"Skeleton - 1; Tissue - 1",,0,0
+"Skeleton - 1; Tissue - 1; Parasites - 1",,0,0
+"Skeleton - 1; Tissue - 1; Skin",,0,0
+"Skeleton - 1; Tissue - 1; Skin - 1",,0,0
+"Skeleton - 1; Tissue - 1; Skin Patch - 1",,0,0
+"Skeleton - 1; Tissue - 1; Skin Patch; Skeleton - 1",,0,0
+"Skeleton - 1; Tissue; Skin",,0,0
 "Skeleton - 1; Whole (EtOH) - 1",,0,0
 "Skeleton - 2","skeleton",0,1
 "skeleton  2 wings & flattened skin","skeleton | wings | flat skin",0,1
+"Skeleton - 2; Ancillary Material - 1",,0,0
+"Skeleton - 4",,0,0
 "Skeleton - 564","skeleton",0,1
 "skeleton - lower jaw missing",,0,0
 "skeleton - skull & jaws missing",,0,0
@@ -50833,6 +50930,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skeleton; skin sample",,0,0
 "skeleton; skin voucher not available",,0,0
 "Skeleton; Study skin","skeleton | study skin",0,1
+"Skeleton; Tissue",,0,0
 "skeleton; tissue; schmoo","schmoo | skeleton | tissue",0,1
 "skeleton; tissue; wing","skeleton | tissue | wing",0,1
 "Skeleton; Whole (EtOH)","skeleton | whole animal (ETOH)",0,1
@@ -50873,6 +50971,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin  + alc stomach",,0,0
 "skin  + alc stomach | tissue",,0,0
 "Skin - 1","skin - 1",0,1
+"Skin - 1; Baculum - 1",,0,0
 "Skin - 1; Eggset - 1","skin - 1 | eggset - 1",0,1
 "Skin - 1; Feather - 1","skin - 1 | feather - 1",0,1
 "Skin - 1; Feather - 1; Feather - 1","skin - 1 | feather - 1 | feather - 1",0,1
@@ -50882,6 +50981,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 1; Feather - 8","skin - 1 | feather - 8",0,1
 "Skin - 1; Feather - null","skin - 1 | feather - null",0,1
 "Skin - 1; Fluid - 1","skin - 1 | fluid - 1",0,1
+"Skin - 1; Fluid - 1; Skeleton - 1",,0,0
+"Skin - 1; Fluid - 1; Skull - 1",,0,0
 "Skin - 1; Fluid - 1; Syrinx - 1","skin - 1 | fluid - 1 | syrinx - 1",0,1
 "Skin - 1; Genbank - 1","skin - 1 | Genbank - 1",0,1
 "Skin - 1; Genbank - 1; Genbank - 1","skin - 1 | Genbank - 1 | Genbank - 1",0,1
@@ -50890,7 +50991,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 1; Genbank - 1; Tissue - 1; Skel - 1","skin - 1 | Genbank - 1 | tissue - 1 | skeleton - 1",0,1
 "Skin - 1; Image - 1","skin - 1 | image - 1",0,1
 "Skin - 1; Image - 1; Skel - 1","skin - 1 | image - 1 | skeleton - 1",0,1
+"Skin - 1; Mandibles - 1",,0,0
 "Skin - 1; Nest - 1","skin - 1 | nest - 1",0,1
+"Skin - 1; Partial Skeleton - 1",,0,0
+"Skin - 1; Partial Skeleton - 1; Fluid - 1; Skull - 1",,0,0
+"Skin - 1; Partial Skeleton - 1; Skull - 1",,0,0
+"Skin - 1; Partial Skeleton - 1; Tissue - 1",,0,0
+"Skin - 1; Partial Skeleton - 2; Partial Skeleton - 1; Skeleton - 1; Partial Skeleton - 1",,0,0
 "Skin - 1; Skel","skin - 1 | skel",0,1
 "Skin - 1; Skel - 1","skin - 1 | skeleton - 1",0,1
 "Skin - 1; Skel - 1; Feather - 1","skin - 1 | skeleton - 1 | feather - 1",0,1
@@ -50905,11 +51012,34 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 1; Skel - 1; Tissue - null","skin - 1 | skeleton - 1 | tissue - null",0,1
 "Skin - 1; Skel - 10; Feather - 1; Wings_tail - 1","skin - 1 | skeleton - 10 | feather - 1 | wings_tail - 1",0,1
 "Skin - 1; Skel partial - 1","skin - 1 | skeleton partial - 1",0,1
+"Skin - 1; Skeleton - 1",,0,0
+"Skin - 1; Skeleton - 1; Fluid - 1",,0,0
+"Skin - 1; Skeleton - 1; Fluid - 4",,0,0
+"Skin - 1; Skeleton - 1; Fluid; Parasites",,0,0
+"Skin - 1; Skeleton - 1; Parasites - 1; Tissue - 1",,0,0
+"Skin - 1; Skeleton - 1; Skeleton - 1",,0,0
+"Skin - 1; Skeleton - 1; Tissue",,0,0
+"Skin - 1; Skeleton - 1; Tissue - 1",,0,0
+"Skin - 1; Skeleton - 1; Tissue - 1; Ancillary Material",,0,0
+"Skin - 1; Skeleton - 1; Tissue - 1; Baculum - 1",,0,0
+"Skin - 1; Skeleton - 1; Tissue - 1; Parasites",,0,0
+"Skin - 1; Skeleton - 1; Tissue - 1; Parasites - 1",,0,0
+"Skin - 1; Skeleton - 1; Tissue - 1; Skeleton - 1",,0,0
+"Skin - 1; Skeleton - 2",,0,0
 "Skin - 1; Skin - 1","skin - 1 | skin - 1",0,1
 "Skin - 1; Skin/toe clip - 1","skin - 1",0,1
 "Skin - 1; Skin/toe clip - 1; Skel - 1; Feather - 1","skin - 1 | skeleton - 1 | feather - 1",0,1
 "Skin - 1; Skin/toe clip - 1; Tissue - 1; Skel - 1","skin - 1 | tissue - 1 | skeleton - 1",0,1
 "Skin - 1; Skin/toe clip - 1; Wings_tail - 1","skin - 1 | wings_tail - 1",0,1
+"Skin - 1; Skull - 1",,0,0
+"Skin - 1; Skull - 1; Baculum",,0,0
+"Skin - 1; Skull - 1; Baculum - 1",,0,0
+"Skin - 1; Skull - 1; Fluid",,0,0
+"Skin - 1; Skull - 1; Fluid - 1",,0,0
+"Skin - 1; Skull - 1; Partial Skeleton - 1",,0,0
+"Skin - 1; Skull - 1; Skeleton - 1",,0,0
+"Skin - 1; Skull - 1; Skull - 1",,0,0
+"Skin - 1; Skull - 1; Tissue - 1",,0,0
 "Skin - 1; Sound - 1","skin - 1 | sound - 1",0,1
 "Skin - 1; Syrinx - 1","skin - 1 | syrinx - 1",0,1
 "Skin - 1; Syrinx - 1; Skel - 1; Tissue - 10","skin - 1 | syrinx - 1 | skeleton - 1 | tissue - 10",0,1
@@ -50924,6 +51054,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 1; Tissue - 1; Feather - 1","skin - 1 | tissue - 1 | feather - 1",0,1
 "Skin - 1; Tissue - 1; Fluid - 1","skin - 1 | tissue - 1 | fluid - 1",0,1
 "Skin - 1; Tissue - 1; Image - 1","skin - 1 | tissue - 1 | image - 1",0,1
+"Skin - 1; Tissue - 1; Parasites - 1",,0,0
+"Skin - 1; Tissue - 1; Partial Skeleton - 1",,0,0
 "Skin - 1; Tissue - 1; Skel - 1","skin - 1 | tissue - 1 | skeleton - 1",0,1
 "Skin - 1; Tissue - 1; Skel - 1; Syrinx - 1","skin - 1 | tissue - 1 | skeleton - 1 | syrinx - 1",0,1
 "Skin - 1; Tissue - 1; Skin - 1; Skin - 1","skin - 1 | tissue - 1 | skin - 1 | skin - 1",0,1
@@ -50945,6 +51077,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 1; Tissue - null; Fluid - 1","skin - 1 | tissue - null | fluid - 1",0,1
 "Skin - 1; Wings_tail - 1; Tissue - 10","skin - 1 | wings_tail - 1 | tissue - 10",0,1
 "Skin - 1; Wings_tail - 1; Tissue - 50","skin - 1 | wings_tail - 1 | tissue - 50",0,1
+"Skin - 2; Skeleton - 2",,0,0
 "Skin - 50","skin - 50",0,1
 "Skin - 50; Eggset - 1; Tissue - null","skin - 50 | eggset - 1 | tissue - null",0,1
 "Skin - 50; Tissue - 1","skin - 50 | tissue - 1",0,1
@@ -51713,6 +51846,19 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin only; alc. whole body | tissue",,0,0
 "skin or hide",,0,0
 "Skin patch",,0,0
+"Skin Patch - 1",,0,0
+"Skin Patch - 1; Partial Skeleton - 1",,0,0
+"Skin Patch - 1; Partial Skeleton - 1; Partial Skeleton - 1",,0,0
+"Skin Patch - 1; Partial Skeleton - 1; Skull - 1",,0,0
+"Skin Patch - 1; Partial Skeleton - 1; Tissue - 1",,0,0
+"Skin Patch - 1; Partial Skeleton - 1; Tissue - 1; Skull - 1",,0,0
+"Skin Patch - 1; Skeleton - 1",,0,0
+"Skin Patch - 1; Skeleton - 1; Skeleton",,0,0
+"Skin Patch - 1; Skeleton - 1; Skeleton - 1",,0,0
+"Skin Patch - 1; Skeleton - 1; Tissue - 1",,0,0
+"Skin Patch - 1; Skeleton - 1; Tissue - 1; Parasites - 1",,0,0
+"Skin Patch - 1; Skeleton - 11",,0,0
+"Skin Patch - 1; Skull - 1",,0,0
 "Skin Removed",,0,0
 "skin sample",,0,0
 "skin sample, bone sample, tissue",,0,0
@@ -69498,6 +69644,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin; Skel; Tissue; Genbank",,0,0
 "Skin; Skel; Tissue; Syrinx",,0,0
 "skin; skeleton",,0,0
+"Skin; Skeleton - 1",,0,0
+"Skin; Skeleton - 1; Tissue",,0,0
 "skin; skeleton partial",,0,0
 "skin; Skeleton removed",,0,0
 "skin; Skeleton saved",,0,0
@@ -69584,6 +69732,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin; Tissue; Skel",,0,0
 "Skin; Tissue; Skel; Syrinx",,0,0
 "Skin; Tissue; Skel; Wings_tail; Fluid",,0,0
+"Skin; Tissue; Skeleton - 1",,0,0
 "Skin; Tissue; Skin; Skin",,0,0
 "Skin; Tissue; Sound; Skel",,0,0
 "Skin; Tissue; Syrinx",,0,0
@@ -69656,12 +69805,36 @@ R PERIPHERALS 2 - 3.",,0,0
 "skul/post-cranial",,0,0
 "skull","skull",1,1
 "Skull - 1",,0,0
+"Skull - 1; Ancillary Material - 1",,0,0
+"Skull - 1; Antlers/Horns",,0,0
+"Skull - 1; Baculum",,0,0
+"Skull - 1; Baculum - 1",,0,0
+"Skull - 1; Baleen",,0,0
+"Skull - 1; Baleen - 1",,0,0
+"Skull - 1; Carapace - 1",,0,0
 "Skull - 1; Flat Skin - 1",,0,0
+"Skull - 1; Fluid - 1",,0,0
 "Skull - 1; Misc. - 1",,0,0
 "Skull - 1; Mounted - 1",,0,0
+"Skull - 1; Partial Skeleton - 1",,0,0
+"Skull - 1; Partial Skeleton - 1; Partial Skeleton - 1",,0,0
+"Skull - 1; Skeleton - 1",,0,0
+"Skull - 1; Skeleton - 1; Fluid - 1",,0,0
 "Skull - 1; Skin - 1",,0,0
+"Skull - 1; Skin - 1; Tissue - 1",,0,0
 "Skull - 1; Skull - 1",,0,0
 "Skull - 1; Study skin - 1",,0,0
+"Skull - 1; Tanned Skin",,0,0
+"Skull - 1; Teeth",,0,0
+"Skull - 1; Teeth - 1",,0,0
+"Skull - 1; Tissue",,0,0
+"Skull - 1; Tissue - 1",,0,0
+"Skull - 1; Tissue - 1; Partial Skeleton - 1",,0,0
+"Skull - 2",,0,0
+"Skull - 4",,0,0
+"Skull - 5",,0,0
+"Skull - 5; Skull - 2",,0,0
+"Skull - 6",,0,0
 "SKULL  AND MANDIBLES ONLY","skull | mandibles",0,1
 "skull - jaw",,0,0
 "SKULL  POSTERIOR 3/5",,0,0
@@ -72861,6 +73034,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "tanned hide","tanned skin",0,1
 "tanned hide/tissue only | tissue",,0,0
 "TANNED SKIN","tanned skin",0,1
+"Tanned Skin - 1",,0,0
+"Tanned Skin - 1; Partial Skeleton - 1",,0,0
+"Tanned Skin - 1; Partial Skeleton - 1; Skull - 1",,0,0
+"Tanned Skin - 1; Skeleton - 1",,0,0
+"Tanned Skin - 1; Skeleton - 1; Skeleton - 1",,0,0
+"Tanned Skin - 1; Skeleton - 1; Skeleton - 1; Skeleton - 1",,0,0
+"Tanned Skin - 1; Skeleton - 1; Tissue",,0,0
+"Tanned Skin - 1; Skeleton - 1; Tissue - 1",,0,0
+"Tanned Skin - 1; Skeleton - 1; UNSPECIFIED - 1",,0,0
+"Tanned Skin - 1; Skull - 1",,0,0
 "tanned skin & skull",,0,0
 "tanned skin & skull + complete skel",,0,0
 "tanned skin & skull + skel",,0,0
@@ -73010,6 +73193,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "teaching skel/wing/tail","skeleton | tail | wing",0,1
 "TEETH","teeth",0,1
 "Teeth  (molars, right lower)",,0,0
+"Teeth - 1",,0,0
+"Teeth - 1; Fluid - 1; Skeleton - 1",,0,0
+"Teeth - 1; Partial Skeleton - 1",,0,0
+"Teeth - 1; Partial Skeleton - 1; Partial Skeleton - 1",,0,0
+"Teeth - 1; Skeleton - 1",,0,0
+"Teeth - 1; Skeleton - 1; Skeleton - 1; Skeleton - 1",,0,0
+"Teeth - 1; Skeleton - 1; Skull - 1",,0,0
+"Teeth - 24",,0,0
+"Teeth - 53",,0,0
 "TEETH & TOOTH FRAGS",,0,0
 "teeth (10)",,0,0
 "Teeth (2)",,0,0
@@ -73749,6 +73941,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue - 1; Feather - 1","tissue - 1 | feather - 1",0,1
 "Tissue - 1; Feather - 1; Skin - 1","tissue - 1 | feather - 1 | skin - 1",0,1
 "Tissue - 1; Flat_skin - 1; Skel - 1","tissue - 1 | flat skin - 1 | skeleton - 1",0,1
+"Tissue - 1; Fluid",,0,0
 "Tissue - 1; Fluid - 1","tissue - 1 | fluid - 1",0,1
 "Tissue - 1; Fluid - 1; Skin - 1","tissue - 1 | fluid - 1 | skin - 1",0,1
 "Tissue - 1; Fluid - 1; Skin - 1; Feather - 1","tissue - 1 | fluid - 1 | skin - 1 | feather - 1",0,1
@@ -73770,6 +73963,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue - 1; Fluid - 7",,0,0
 "Tissue - 1; Genbank - 1; Genbank - 1; Genbank - 1; Genbank - 1","tissue - 1 | Genbank - 1 | Genbank - 1 | Genbank - 1 | Genbank - 1",0,1
 "Tissue - 1; Genbank - 1; Skel - 1","tissue - 1 | Genbank - 1 | skeleton - 1",0,1
+"Tissue - 1; Parasites",,0,0
+"Tissue - 1; Parasites - 1; Skeleton - 1; Skin - 1",,0,0
 "Tissue - 1; Skel - 1","tissue - 1 | skeleton - 1",0,1
 "Tissue - 1; Skel - 1; Feather - 1","tissue - 1 | skeleton - 1 | feather - 1",0,1
 "Tissue - 1; Skel - 1; Flat_skin - 1","tissue - 1 | skeleton - 1 | flat skin - 1",0,1
@@ -73782,6 +73977,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue - 1; Skel - 1; Tissue - 50","tissue - 1 | skeleton - 1 | tissue - 50",0,1
 "Tissue - 1; Skel - 1; Wings_tail - 1","tissue - 1 | skeleton - 1 | wings_tail - 1",0,1
 "Tissue - 1; Skel - null","tissue - 1 | skeleton - null",0,1
+"Tissue - 1; Skeleton - 1",,0,0
 "Tissue - 1; Skin - 1","tissue - 1 | skin - 1",0,1
 "Tissue - 1; Skin - 1; Feather - 1","tissue - 1 | skin - 1 | feather - 1",0,1
 "Tissue - 1; Skin - 1; Feather - 1; Skel - 1","tissue - 1 | skin - 1 | feather - 1 | skeleton - 1",0,1
@@ -73795,6 +73991,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue - 1; Skin - 1; Skel - 1; Sound - 1","tissue - 1 | skin - 1 | skeleton - 1 | sound - 1",0,1
 "Tissue - 1; Skin - 1; Skel - 1; Syrinx - 1","tissue - 1 | skin - 1 | skeleton - 1 | syrinx - 1",0,1
 "Tissue - 1; Skin - 1; Skel - 1; Wings_tail - 1","tissue - 1 | skin - 1 | skeleton - 1 | wings_tail - 1",0,1
+"Tissue - 1; Skin - 1; Skeleton - 1",,0,0
 "Tissue - 1; Skin - 1; Sound - 1; Skel - 1","tissue - 1 | skin - 1 | sound - 1 | skeleton - 1",0,1
 "Tissue - 1; Skin - 1; Syrinx - 1","tissue - 1 | skin - 1 | syrinx - 1",0,1
 "Tissue - 1; Skin - 1; Syrinx - 1; Skel - 1","tissue - 1 | skin - 1 | syrinx - 1 | skeleton - 1",0,1
@@ -73804,6 +74001,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue - 1; Skin - 50","tissue - 1 | skin - 50",0,1
 "Tissue - 1; Skin - null","tissue - 1 | skin - null",0,1
 "Tissue - 1; Skin - null; Skel - 1","tissue - 1 | skin - null | skeleton - 1",0,1
+"Tissue - 1; Skull",,0,0
+"Tissue - 1; Skull - 1; Fluid - 1",,0,0
+"Tissue - 1; Skull - 1; Skin - 1",,0,0
 "Tissue - 1; Syrinx - 1","tissue - 1 | syrinx - 1",0,1
 "Tissue - 1; Syrinx - 1; Flat_skin - 1; Skel - 1","tissue - 1 | syrinx - 1 | flat skin - 1 | skeleton - 1",0,1
 "Tissue - 1; Syrinx - 1; Fluid - 1","tissue - 1 | syrinx - 1 | fluid - 1",0,1
@@ -74670,6 +74870,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue; Skel; Wings_tail",,0,0
 "Tissue; Skel; Wings_tail; Skin",,0,0
 "Tissue; Skel; Wings_tail; Wings_tail",,0,0
+"Tissue; Skeleton - 1",,0,0
+"Tissue; Skeleton - 1; Skin",,0,0
 "Tissue; Skin","skin | tissue",0,1
 "Tissue; Skin, Y",,0,0
 "Tissue; Skin; Feather",,0,0
@@ -74688,6 +74890,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue; Skin; Skel; Sound",,0,0
 "Tissue; Skin; Skel; Syrinx",,0,0
 "Tissue; Skin; Skel; Wings_tail",,0,0
+"Tissue; Skin; Skeleton - 1",,0,0
 "Tissue; Skin; Sound; Skel",,0,0
 "Tissue; Skin; Syrinx",,0,0
 "Tissue; Skin; Syrinx; Genbank",,0,0
@@ -75683,6 +75886,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "unprepared block",,0,0
 "Unrecorded.",,0,0
 "unspecified",,0,0
+"UNSPECIFIED - 1",,0,0
+"UNSPECIFIED - 1; UNSPECIFIED - 1",,0,0
+"UNSPECIFIED - 1; UNSPECIFIED - 1; UNSPECIFIED - 1",,0,0
+"UNSPECIFIED - 1; UNSPECIFIED - 1; UNSPECIFIED - 1; UNSPECIFIED - 1",,0,0
+"UNSPECIFIED - 1; UNSPECIFIED - 1; UNSPECIFIED - 1; UNSPECIFIED - 1; UNSPECIFIED - 1; UNSPECIFIED - 1",,0,0
 "unworn lower cheek tooth",,0,0
 "upper and lower dentition",,0,0
 "upper and lower jaws, likely one individual",,0,0
@@ -76805,6 +77013,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "WING PHALANX I, DIGIT III, IMM.",,0,0
 "Wing phalanx.",,0,0
 "Wing phalanx; proximal tip humerus; distal end tibiotarsus.",,0,0
+"Wing Punch - 1",,0,0
+"Wing Punch - 1; Parasites",,0,0
+"Wing Punch - 1; Parasites - 1",,0,0
+"Wing Punch - 2",,0,0
 "wing, alcoholic",,0,0
 "wing, alcoholic, tissue",,0,0
 "wing, cleared and stained, tissue",,0,0

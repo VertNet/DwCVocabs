@@ -885,6 +885,7 @@
 "Australia orTasmania","AU",0,1
 "'Australia""","AU",0,1
 "Australia,  [= Tonga Is.]",,0,1
+"AUSTRALIA, CAPTIVE","AU",0,1
 "Australia, eastern","AU",0,1
 "Australia.","AU",0,1
 "Australia/New Guinea",,0,1
@@ -1229,6 +1230,7 @@
 "Brazil!","BR",0,1
 "Brazil(?)","BR",0,1
 "Brazil, Colombia, or Venezuela",,0,1
+"BRAZIL, GUYANA, FRENCH GUIANA, SURINAM",,0,1
 "Brazil.","BR",0,1
 "Brazil/Argentina",,0,1
 "Brazil/Bolivia",,0,1
@@ -1401,6 +1403,7 @@
 "Brunei","BN",0,1
 "Buchara","UZ",0,1
 "Bueno[Argentina]","AR",0,1
+"Buffalo Zoo","US",0,1
 "Bulgaria","BG",1,1
 "Bunguran I.","ID",0,1
 "Bunguran Is.","ID",0,1
@@ -1886,6 +1889,7 @@
 "Congo Free State",,0,1
 "CONGO REPUBLIC","CG",0,1
 "CONGO RUPUBLIC","CG",0,1
+"CONGO TO KENYA",,0,1
 "Congo, Democratic Republic of the","CD",0,1
 "Congo, Gaboon",,0,1
 "Congo, Republic of the","CG",0,1
@@ -1927,6 +1931,7 @@
 "COUNTRY OF ORIGIN UNKNOWN",,0,1
 "Country?",,0,1
 "CR","CR",0,1
+"CRANDON PARK ZOO","US",0,1
 "CRC",,0,1
 "Credner I.","PG",0,1
 "Crete","GR",0,1
@@ -2421,6 +2426,7 @@
 "Estonia","EE",1,1
 "Eth","ET",0,1
 "Ethiopia","ET",1,1
+"ETHIOPIA, CAPTIVE","ET",0,1
 "Ethiopia?","ET",0,1
 "Ethiopia-Eritrea",,0,1
 "Ethiopian-Kenya border",,0,1
@@ -3145,6 +3151,7 @@
 "Italy/North Africa",,0,1
 "Italy?","IT",0,1
 "Ivory Coast","CI",0,1
+"Jacksonville Zoo","US",0,1
 "Jam","JM",0,1
 "JAMA","JM",0,1
 "Jamaica","JM",1,1
@@ -4327,6 +4334,8 @@
 "New Guinea [N. New Guinea?]",,0,1
 "New Guinea Papua","PG",0,1
 "New Guinea Terr. Papua","PG",0,1
+"NEW GUINEA, AUSTRALIA, NORTHERN TERRITORY, QUEENSLAND",,0,1
+"NEW GUINEA, CAPTIVE",,0,1
 "New Guinea/Solomons",,0,1
 "New Guinea?",,0,1
 "New Hampshire","US",0,1
@@ -4391,6 +4400,7 @@
 "Nicarag.","NI",0,1
 "Nicaragua","NI",1,1
 "'Nicaragua'","NI",0,1
+"NICARAGUA ?","NI",0,1
 "Nicaragua [northern Nicaragua]","NI",0,1
 "Nicaragua-Costa Rica",,0,1
 "Nicaraqua","NI",0,1
@@ -4806,6 +4816,7 @@
 "PARA","PY",0,1
 "Paraguary","PY",0,1
 "Paraguay","PY",1,1
+"PARAGUAY OR ARGENTINA",,0,1
 "Paraguayan","PY",0,1
 "Parana","BR",0,1
 "Paraquay","PY",0,1
@@ -6063,6 +6074,7 @@
 "South Spain","ES",0,1
 "South Sudan","SS",0,1
 "South Sweden","SE",0,1
+"SOUTH THAILAND, MALAYSIA PENINSULA","TH",0,1
 "South Uzbekistan","UZ",0,1
 "SOUTH VIETNAM","VN",0,1
 "South W. Africa","NA",0,1
@@ -6206,6 +6218,7 @@
 "St. Lucia","LC",0,1
 "St. Lucia; [West Indies]","LC",0,1
 "St. Lucia; West Indies","LC",0,1
+"ST. MARTIN","MF",0,1
 "St. Mathias I.","PG",0,1
 "St. Matthias","PG",0,1
 "St. Matthias I","PG",0,1
@@ -6386,6 +6399,7 @@
 "Tanzania","TZ",1,1
 "'Tanzania'","TZ",0,1
 "Tanzania ?","TZ",0,1
+"TANZANIA, CAPTIVE","TZ",0,1
 "TANZANIA, UNITED REPUBLIC OF","TZ",0,1
 "Tanzania?","TZ",0,1
 "TAS","AU",0,1
@@ -6766,6 +6780,7 @@
 "Vanuatu","VU",1,1
 "VANUATU (NEW HEBRIDES)","VU",0,1
 "Vanuatu(NewHebrides)","VU",0,1
+"VARIOUS",,0,1
 "Ven","VE",0,1
 "Ven.","VE",0,1
 "VENE","VE",0,1
@@ -6836,6 +6851,7 @@
 "W Africa",,0,1
 "W Algeria","DZ",0,1
 "W Australia","AU",0,1
+"W BRAZIL, E PERU, E ECUADOR",,0,1
 "W China","CN",0,1
 "W China?","CN",0,1
 "W Colombia","CO",0,1
@@ -6848,6 +6864,7 @@
 "W Siberia","RU",0,1
 "W Sumatra","ID",0,1
 "W, Morocco","MA",0,1
+"W, N BRAZIL, N PERU, ECUADOR",,0,1
 "W.  Australia","AU",0,1
 "W.  Sumatra","ID",0,1
 "W. A.",,0,1

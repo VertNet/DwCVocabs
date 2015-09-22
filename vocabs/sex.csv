@@ -289,9 +289,12 @@ M[F]","unknown",0,1
 "♂? Adult","in question",0,1
 "0?","unknown",0,1
 "1","unknown",0,1
+"1 F, 4 M","female | male",0,1
+"1 FEMALE,","female",0,1
 "1 hemipene, throat white, scales",,0,1
 "10 females, 64 males","female | male",0,1
 "11","unknown",0,1
+"11 F, 1 M","female | male",0,1
 "13","unknown",0,1
 "152","unknown",0,1
 "154","unknown",0,1
@@ -330,13 +333,16 @@ M[F]","unknown",0,1
 "36010","unknown",0,1
 "361","unknown",0,1
 "4",,0,1
+"4 FEMALE,","female",0,1
 "46",,0,1
 "47",,0,1
 "48",,0,1
 "58","unknown",0,1
 "6","unknown",0,1
 "6f","female",0,1
+"7 FEMALE,","female",0,1
 "A","unknown",0,1
+"A: FEMALE","female",0,1
 "ad","unknown",0,1
 "ad sex ?","unknown",0,1
 "AD. ?","unknown",0,1
@@ -561,6 +567,9 @@ M[F]","unknown",0,1
 "Fby dissection","female",0,1
 "F'CHICK'","female",0,1
 "FD","female",0,1
+"FELMALE","female",0,1
+"FEMAL","female",0,1
+"FEMALAE","female",0,1
 "female","female",1,1
 "Female (?)","in question",0,1
 "Female (A.R. Phillips)","female",0,1
@@ -575,11 +584,13 @@ M[F]","unknown",0,1
 "Female [Male?]","in question",0,1
 "Female [Male]","female | male",0,1
 "Female + Male + Nest","female | male",0,1
+"FEMALE 23","female",0,1
 "Female and 1 newborn","female",0,1
 "female and male","female | male",0,1
 "Female br.","female",0,1
 "Female by plumage","female",0,1
 "Female plumage. Sex ?","in question",0,1
+"FEMALE W/","female",0,1
 "Female(?)","in question",0,1
 "female(s)-certain","in question",0,1
 "female(s)-uncertain","in question",0,1
@@ -588,6 +599,7 @@ M[F]","unknown",0,1
 "female?","in question",0,1
 "Female[illeg]","female",0,1
 "females","female",0,1
+"FEMAMLE","female",0,1
 "FF","female",0,1
 "FG","unknown",0,1
 "First Year Male","male",0,1
@@ -836,6 +848,7 @@ M[F]","unknown",0,1
 "M=[F] C.H.R.","unknown",0,1
 "M7","male",0,1
 "Ma","male",0,1
+"MAÁE","male",0,1
 "macho","male",0,1
 "macho A","male",0,1
 "macho ad","male",0,1
@@ -864,6 +877,7 @@ M[F]","unknown",0,1
 "macho test esc","male",0,1
 "male","male",1,1
 "Male - 6 months","male",0,1
+"MALE  M","male",0,1
 "male & female","female | male",0,1
 "male (?)","in question",0,1
 "Male (by bleeding?)","in question",0,1
@@ -908,6 +922,7 @@ M[F]","unknown",0,1
 "n.s.","unknown",0,1
 "n/","unknown",0,1
 "N/A","unknown",0,1
+"NA","unknown",0,1
 "Nesting Colony",,0,1
 "Nestling [Female ?]","in question",0,1
 "Nestling [Sex ?]","unknown",0,1
