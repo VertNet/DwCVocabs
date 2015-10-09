@@ -68,10 +68,13 @@
 "?Conicera",,0,0
 "?Co-Type",,0,0
 "?Figured",,0,0
+"?holotype",,0,0
+"?holotype or syntype",,0,0
 "?Hypoceridites",,0,0
 "?Neotype",,0,0
 "?Plectanocnema",,0,0
 "?Possible Type",,0,0
+"?syntype",,0,0
 "?Type",,0,0
 "[?Type]",,0,0
 "[coll in 2000]",,0,0
@@ -120,7 +123,16 @@
 "Baltic amber; 2 black flies",,0,0
 "beautiful specimen",,0,0
 "body used for molecular",,0,0
+"Cast of Figured Specimen",,0,0
+"Cast of holotype",,0,0
+"Cast of lectotype",,0,0
+"Cast of paralectotype",,0,0
+"Cast of Paratype",,0,0
+"Cast of syntype",,0,0
 "Chapin TYPE","holotype",0,1
+"Cited",,0,0
+"Cited; Cited; Cited",,0,0
+"Cited; Holotype",,0,0
 "Co - Type","syntype",0,1
 "Co TYPE","syntype",0,1
 "coated SEM specimen",,0,0
@@ -142,7 +154,9 @@
 "Co-TYPE of Oestrelata nigripennis","syntype",0,1
 "Co-Type specimen","syntype",0,1
 "Co-type?",,0,0
+"cotypes",,0,0
 "Co-types",,0,0
+"Cotypes (Holotype and Paratype)",,0,0
 "damaged, headless",,0,0
 "DM Harris",,0,1
 "Dominican amber",,0,0
@@ -165,12 +179,15 @@
 "f",,0,0
 "FIG",,0,0
 "Figured",,0,0
+"Figured; Cited",,0,0
+"Figured; Figured",,0,0
 "foreleg SEM",,0,0
 "formerly sp. 31",,0,0
 "four individuals in this piece",,0,0
 "four specimens",,0,0
 "from Type Locality",,0,0
 "G",,0,0
+"G.incrassatus and genus  Sphoerocephalus",,0,0
 "good specimen",,0,0
 "H","holotype",0,1
 "hard to see",,0,0
@@ -184,6 +201,7 @@
 "Holotype (MS)","holotype",0,1
 "holotype fragment","holotype",0,1
 "HOLOTYPE HYLA RIVEROI, COCHRAN AND GOIN, 1970, U.S. NATL. MUS. BULL., 288:284",,0,0
+"Holotype Limnotragus selousi",,0,0
 "HOLOTYPE OF","holotype",0,1
 "HOLOTYPE OF  LEPIDODACTYLUS NAUJANENSIS, TAYLOR, 1919, PHILIPPINE JOUR. SCI., 14:113",,0,0
 "HOLOTYPE OF  TYPHLOPS DENDROPHIS, TAYLOR, 1922, PHILIPPINE BUR. SCI., PUBL. 16:60",,0,0
@@ -2306,6 +2324,7 @@
 "Holotype of Zygodontomys brevicauda brevicauda",,0,0
 "Holotype of Zygodontomys brevicauda brevicauda ((Allen & Chapman))",,0,0
 "Holotype of Zygodontomys brevicauda cherriei ((Allen))",,0,0
+"holotype or syntype",,0,0
 "HOLOTYPE PUBLISHED IN - WILSON, L. D., R. K. VAUGH AND J. R. DIXON. 1999. ANOTHER NEW SPECIES OF TANTILLA OF THE TAENIATA GROUP FROM CHIAPAS, MEXICO. JOURNAL OF HERPETOLOGY 33 (1): 1-5",,0,0
 "Holotype
 Holotype",,0,0
@@ -2313,6 +2332,11 @@ Holotype",,0,0
 Paralectotype",,0,0
 "Holotype
 Paratype",,0,0
+"Holotype.",,0,0
+"Holotype; Holotype",,0,0
+"Holotype; Holotype; Holotype",,0,0
+"Holotype; Holotype; Holotype; Holotype",,0,0
+"holotype?",,0,0
 "HOLOTYPE+PARATYPES OF ANOLIS CRISTATELLUS WILEYI",,0,0
 "holoype?",,0,0
 "Holoytpe of Amphispiza belli xerophilus",,0,0
@@ -2323,6 +2347,7 @@ Paratype",,0,0
 "HT; beautiful specimen",,0,0
 "HT; was never deposited in CNC",,0,0
 "Hypoparatype",,0,0
+"Hypotype",,0,0
 "iguana",,0,1
 "in copula pair, PT",,0,0
 "in drawer in main collection",,0,0
@@ -2339,6 +2364,7 @@ Paratype",,0,0
 "large individual",,0,0
 "large individual, Baltic amber",,0,0
 "Lecto(Type) of rupestris","lectotype",0,1
+"Lectoholotype",,0,0
 "Lectoparatype",,0,0
 "Lectoparatypes",,0,0
 "Lectotype","lectotype",1,1
@@ -2372,6 +2398,9 @@ Paratype",,0,0
 "Lectotype of Zosterops smithi (Neumann, 1902)","Lectotype of Zosterops smithi (Neumann, 1902)",0,1
 "Lectotype proposed",,0,0
 "Lectotype; Lectoparatype",,0,0
+"Lectotype; Lectotype; Syntype",,0,0
+"Lectotype; Syntype; Syntype",,0,0
+"Lectotype+",,0,0
 "like 208723",,0,0
 "loaned to Disney 19.xi.2001",,0,0
 "loaned to Disney, 2002",,0,0
@@ -2380,6 +2409,7 @@ Paratype",,0,0
 "LT",,0,0
 "many specimens, 3 spp.",,0,0
 "marked Co-Type","syntype",0,1
+"Metatype",,0,0
 "microslide of type",,0,0
 "mol.vouch. 22.xii.03-139;slide",,0,0
 "Mol.Voucher 12.iv.05-238",,0,0
@@ -2420,6 +2450,7 @@ Paratype",,0,0
 Neotype",,0,0
 "new aenig. genus",,0,0
 "No type",,0,0
+"None",,0,0
 "non-type",,0,1
 "non-types",,0,1
 "not a TYPE",,0,1
@@ -2433,6 +2464,8 @@ Neotype",,0,0
 "pair",,0,0
 "PARA",,0,0
 "PARA*",,0,0
+"paralecotype",,0,0
+"Paralecto",,0,0
 "PARALECTOTYPE","paralectotype",1,1
 "PARALECTOTYPE OF [AMMODRAMUS] [SANDWICHENSIS] [BRUNNESCENS], BUTLER, A. W. 1888. ON A NEW SUBSPECIES OF AMMODRAMUS SANDWICHENSIS FROM MEXICO ***NAMED COTYPE BUT NOT CONSUBSPECIFIC**. AUK, 264-266. PAGE 265, PUBLISHED JULY 1888.",,0,0
 "PARALECTOTYPE OF AESTRELATA VOCIFERANS, SHUFELDT, R.W. 1916. THE BIRD-CAVES OF THE BERMUDAS AND THEIR FORMER INHABITANTS. IBIS, 623-637. PAGE 633, PUBLISHED 2 OCTOBER 1916.",,0,0
@@ -2453,6 +2486,8 @@ Neotype",,0,0
 "PARALECTOTYPE OF SCELOPORUS LONGIPES",,0,0
 "Paralectotype of Tamias bulleri bulleri (Allen)",,0,0
 "Paralectotype of Tamiasciurus hudsonicus mogollonensis ((Mearns))",,0,0
+"Paralectotype.",,0,0
+"Paralectotype; Syntype",,0,0
 "Paralectotypes",,0,0
 "PARALECTOTYPES OF ANOLIS GRISEUS",,0,0
 "PARANEOTYPE",,0,0
@@ -2933,6 +2968,7 @@ Neotype",,0,0
 "PARATYPE  OF LEPTOTYPHLOPS COLUMBI, KLAUBER, 1939, TRANS. SAN DIEGO SOC. NAT. HIST., 9:62",,0,0
 "paratype (former number 2814a",,0,0
 "Paratype (MS)","paratype",0,1
+"Paratype (No.52)",,0,0
 "PARATYPE (SYNTYPE)  OF SPHENOMORPHUS JAGORII DIVERGENS, TAYLOR, 1922, PHILIPPINE BUR. SCI., PUBL. 17:194",,0,0
 "PARATYPE (SYNTYPE) OF EURYCEA TYNERENSIS, MOORE AND HUGHES, 1939, AMER. MIDLAND NAT., 22:697",,0,0
 "PARATYPE (SYNTYPE) OF SPHENOMORPHUS JAGORII DIVERGENS, TAYLOR, 1922, PHILIPPINE BUR. SCI., PUBL. 17:194",,0,0
@@ -3932,6 +3968,7 @@ Paratype",,0,0
 Paratype
 Paratype
 Paratype",,0,0
+"Paratype.",,0,0
 "paratype?",,0,0
 "Paratypes","paratype",0,1
 "Paratypes (MS)","paratype",0,1
@@ -4049,6 +4086,8 @@ Paratype",,0,0
 "PARATYPES PSEUDOEURYCEA EXSPECTATA",,0,0
 "PARATYPES PSEUDOPALUDICOLA BOLIVIANA",,0,0
 "PARATYPES TOMODACTYLUS GRANDIS",,0,0
+"Part of Holotype",,0,0
+"Part of Paratype",,0,0
 "Parte del holotipo",,0,0
 "photo of type",,0,0
 "pipiens",,0,1
@@ -4070,6 +4109,7 @@ Paratype",,0,0
 "probable isolectotype",,0,0
 "probable isosyntype",,0,0
 "probable isotype",,0,0
+"probable paralectotype",,0,0
 "probable syntype",,0,0
 "Probable syntype of lembeyi","syntype",0,1
 "probable type",,0,0
@@ -4084,10 +4124,12 @@ Paratype",,0,0
 "PT; specimen lost",,0,0
 "PUBL",,0,0
 "PUBL?",,0,0
+"Putative Type",,0,0
 "retained",,0,0
 "retained from loan # 882",,0,0
 "retained from MZSP loan",,0,0
 "S",,0,0
+"schubotzi",,0,0
 "scutellar setae like Beckerina",,0,0
 "Secondary Type",,0,0
 "SEM hind leg",,0,0
@@ -4103,6 +4145,7 @@ Paratype",,0,0
 "small, weird",,0,0
 "specimen lost",,0,0
 "ST",,0,0
+"Stated not type on evac.",,0,0
 "strange genitalia",,0,0
 "swollen costa",,0,0
 "SYN",,0,0
@@ -4189,8 +4232,14 @@ Paratype",,0,0
 "Syntype of Vireo huttoni unitti",,0,0
 "SYNTYPE OF VIREO HUTTONI UNITTI, REA, A. M. [IN PHILLIPS, A. R.]. 1991. KNOWN BIRDS OF NORTH & MIDDLE AMERICA. 185. PAGE 185, PUBLISHED 1991.",,0,0
 "SYNTYPE OF ZOSTEROPS SIQUIJORENSIS BOURNS & WORCESTER",,0,0
+"syntype or holotype",,0,0
+"syntype or holotype?",,0,0
+"syntype or lectotype",,0,0
+"Syntype or paralectotype",,0,0
 "Syntype Tunneyi","syntype",0,1
+"Syntype; syntype",,0,0
 "Syntype?",,0,0
+"Syntype]",,0,0
 "Syntypes",,0,0
 "SYNTYPES OF ANOLIS ASPER",,0,0
 "SYNTYPES OF ANOLIS CEPEDII CINEREUS",,0,0
@@ -4208,6 +4257,7 @@ Paratype",,0,0
 "SYNTYPES OF SCINCUS OFFICINALIS CUCULLATA",,0,0
 "SYNTYPES OF SCINCUS OFFICINALIS LATERIMACULATA",,0,0
 "Syntypes, Paratypes","syntypes, paratypes",0,1
+"Synytpe",,0,0
 "T","topotype",0,1
 "taxon ined.",,0,1
 "teneral? id questionable",,0,0
@@ -4376,12 +4426,14 @@ Paratype",,0,0
 "TOPOTYPE OF ZELEDONIA INSPERATA RIDGWAY (EX CHERRIE MS)",,0,0
 "TOPOTYPE OR NEAR-TOPOTYPE OF RALLUS LONGIROSTRIS SCOTTII SENNETT",,0,0
 "Topotype!","topotype",0,1
+"Topotypes",,0,0
 "TOPOTypical specimen","topotype",0,1
 "two individuals in this piece",,0,0
 "two specimens in piece",,0,0
 "Type","holotype",0,1
 "Type - (gen?)","holotype",0,1
 "Type - Lawr. MS.","holotype",0,1
+"Type - nom. nud.",,0,0
 "Type - of Female","holotype",0,1
 "Type - speciman","holotype",0,1
 "Type - Specimen","holotype",0,1
@@ -4441,6 +4493,7 @@ Paratype",,0,0
 "TYPE of andrewsi","holotype",0,1
 "Type of assimilis Lawr.","holotype",0,1
 "TYPE of B. bulweria pacifica","holotype",0,1
+"Type of B.asiatica",,0,0
 "Type of becki","holotype",0,1
 "Type of berlepschi","holotype",0,1
 "TYPE of bougainvillei","holotype",0,1
@@ -4578,6 +4631,7 @@ Paratype",,0,0
 "TYPE of perplexa","holotype",0,1
 "TYPE of Petroica multicolor soror","holotype",0,1
 "Type of Peucaea ruficeps scottii","holotype",0,1
+"Type of Phocoena communis  tuberculiferus; Gray 1865",,0,0
 "TYPE of Podiceps, fluriatilis, parryi","holotype",0,1
 "TYPE of polionota","holotype",0,1
 "TYPE of Prion vittatus missus","holotype",0,1
@@ -4659,6 +4713,7 @@ Paratype",,0,0
 "TYPE specimen Apalis bameridae strausae Ann. Carnegie Mus. XXI pg 53","holotype",0,1
 "TYPE specimen of archboldi","holotype",0,1
 "Type unique","holotype",0,1
+"Type Unregulated",,0,0
 "TYPE!","holotype",0,1
 "TYPE, a melanistic aberration of vestitus","holotype",0,1
 "Type, B.B.O.C. XXXVII, P. 4, Oct. 1916.","holotype",0,1
@@ -4682,9 +4737,12 @@ Paratype",,0,0
 "TYPE=aberration of barrali","holotype",0,1
 "TYPEof tucopiae","holotype",0,1
 "Types",,0,0
+"types (?)",,0,0
+"Types (Paralectotypes)",,0,0
 "TYPES OF SPHAERODACTYLUS GAIGEAE",,0,0
 "Types of var.",,0,0
 "Type-specimen","holotype",0,1
 "Unverified",,0,1
 "Ver etiqueta",,0,0
+"Voucher",,0,0
 "Winter TYPE","holotype",0,1

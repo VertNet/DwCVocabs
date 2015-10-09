@@ -104,6 +104,7 @@ M[F]","unknown",0,1
 "(M)","male",0,1
 "(M) ?","in question",0,1
 "(M) ?)","in question",0,1
+"(m) see note","male",0,1
 "(M)=(F)","unknown",0,1
 "(M)=F","unknown",0,1
 "(M/F?)","in question",0,1
@@ -112,8 +113,10 @@ M[F]","unknown",0,1
 "(Male or Female ?)","in question",0,1
 "(Male)","male",0,1
 "(Male)?","in question",0,1
+"(N)","unknown",0,1
 "(Sex Unknown)","unknown",0,1
 "(sex?)","unknown",0,1
+"(unsexed)","unknown",0,1
 "*","unknown",0,1
 "--*","unknown",0,1
 ",",,0,1
@@ -288,10 +291,15 @@ M[F]","unknown",0,1
 "♂?","in question",0,1
 "♂? Adult","in question",0,1
 "0?","unknown",0,1
+"06-Mar-21","unknown",0,1
+"07-Oct-26","unknown",0,1
+"09-Mar-32","unknown",0,1
 "1","unknown",0,1
 "1 F, 4 M","female | male",0,1
 "1 FEMALE,","female",0,1
 "1 hemipene, throat white, scales",,0,1
+"1 Male","male",0,1
+"1 Male, 1 Female","female | male",0,1
 "10 females, 64 males","female | male",0,1
 "11","unknown",0,1
 "11 F, 1 M","female | male",0,1
@@ -312,10 +320,15 @@ M[F]","unknown",0,1
 "180","unknown",0,1
 "184","unknown",0,1
 "186","unknown",0,1
+"19-Mar-21","unknown",0,1
 "1st Year Female","female",0,1
 "1st Year Male","male",0,1
 "2","unknown",0,1
 "2 female","female",0,1
+"2 Female, 1 Male","female | male",0,1
+"2 Male","male",0,1
+"2 Males","male",0,1
+"2 Males, 2 Females","female | male",0,1
 "2 Nestlings",,0,1
 "2 Nestlings [Sex ?]","unknown",0,1
 "223","unknown",0,1
@@ -327,6 +340,8 @@ M[F]","unknown",0,1
 "298","unknown",0,1
 "2nd Year Male","male",0,1
 "3","unknown",0,1
+"3 Males, Female","female | male",0,1
+"3207 111/95/iv","unknown",0,1
 "335","unknown",0,1
 "340","unknown",0,1
 "348","unknown",0,1
@@ -338,9 +353,11 @@ M[F]","unknown",0,1
 "47",,0,1
 "48",,0,1
 "58","unknown",0,1
+"5M,2F","female | male",0,1
 "6","unknown",0,1
 "6f","female",0,1
 "7 FEMALE,","female",0,1
+"7M,6F","female | male",0,1
 "A","unknown",0,1
 "A: FEMALE","female",0,1
 "ad","unknown",0,1
@@ -492,6 +509,7 @@ M[F]","unknown",0,1
 "F OR JUV","unknown",0,1
 "F or M","unknown",0,1
 "F or M juv","unknown",0,1
+"F pregnant","female",0,1
 "F prob.","female",0,1
 "F with eggs","female",0,1
 "f","female",0,1
@@ -571,10 +589,36 @@ M[F]","unknown",0,1
 "FEMAL","female",0,1
 "FEMALAE","female",0,1
 "female","female",1,1
+"female (? - see note)/male (? - ","unknown",0,1
 "Female (?)","in question",0,1
+"female (?, see note)","female",0,1
 "Female (A.R. Phillips)","female",0,1
+"female (believed to be)","female",0,1
+"female (but see notes)","female",0,1
+"female (by gonads)","female",0,1
+"Female (by gonads))","female",0,1
+"female (by plumage)","female",0,1
+"female (fide Sclater 1888, Cat. ","female",0,1
+"female (fide Sclater, 1888, Cat.","female",0,1
+"female (identified later as)","female",0,1
+"female (in register)","female",0,1
+"female (lact)","female",0,1
+"female (later identified as)","female",0,1
 "Female (likely)","female",0,1
+"female (M)","unknown",0,1
+"female (male, on label)","female",0,1
+"female ('may be')","female",0,1
+"female ('not breeding' on label)","female",0,1
+"female (on label)","female",0,1
+"female (on label)/male (in text)","female",0,1
+"female (on plumage)","female",0,1
+"female (or immature)","female",0,1
 "Female (probably)","female",0,1
+"female ('probably')","female",0,1
+"female (see note)","female",0,1
+"female (see notes)","female",0,1
+"female (subsequently considered ","female",0,1
+"female (subsequently sexed as)","female",0,1
 "Female ?","in question",0,1
 "Female [?]","in question",0,1
 "Female [= Male ?]","in question",0,1
@@ -596,6 +640,8 @@ M[F]","unknown",0,1
 "female(s)-uncertain","in question",0,1
 "Female, but has male plumage","female",0,1
 "Female, nest","female",0,1
+"female/male","female | male",0,1
+"female/male (on label)","female | male",0,1
 "female?","in question",0,1
 "Female[illeg]","female",0,1
 "females","female",0,1
@@ -680,6 +726,7 @@ M[F]","unknown",0,1
 "J?","unknown",0,1
 "JU?. MALE?","in question",0,1
 "juevenile",,0,1
+"Jul-76","unknown",0,1
 "juv","unknown",0,1
 "JUV ?","unknown",0,1
 "juv.","unknown",0,1
@@ -717,6 +764,7 @@ M[F]","unknown",0,1
 "M (BASED ON PLUMAGE)","male",0,1
 "M (by dissection)","male",0,1
 "m (by plumage)","male",0,1
+"M (castrate)","male",0,1
 "M (F ?)","in question",0,1
 "M (F!)","unknown",0,1
 "M (F(","unknown",0,1
@@ -789,6 +837,12 @@ M[F]","unknown",0,1
 "M prob.","male",0,1
 "M prop.","male",0,1
 "M R","male",0,1
+"M Test. regr.","male",0,1
+"M Test. Scr.","male",0,1
+"M test.scr.","male",0,1
+"M Yg","male",0,1
+"M Yg,","male",0,1
+"M yng","male",0,1
 "M!","male",0,1
 "M(?)","in question",0,1
 "m(?), adult","in question",0,1
@@ -879,9 +933,27 @@ M[F]","unknown",0,1
 "Male - 6 months","male",0,1
 "MALE  M","male",0,1
 "male & female","female | male",0,1
+"male (? - see note)","male",0,1
+"male (? - see note)/female (? - ","unknown",0,1
 "male (?)","in question",0,1
+"male (?)/female","female | male",0,1
+"male ('?male' on label)","male",0,1
 "Male (by bleeding?)","in question",0,1
+"male (by gonads)","male",0,1
+"male (by plumage)","male",0,1
+"male (in text)/female (on label)","unknown",0,1
+"male (in text; female on label)","unknown",0,1
+"male (later identified as)","male",0,1
 "Male (likely)","male",0,1
+"male (not breeding)","male",0,1
+"male (on label)","male",0,1
+"male (on plumage)","male",0,1
+"male (plumage)","male",0,1
+"male (printed in error as female","male",0,1
+"male ('probably')","male",0,1
+"male (see note)","male",0,1
+"male (see notes)","male",0,1
+"male (summer)","male",0,1
 "Male ?","in question",0,1
 "Male [?]","in question",0,1
 "Male [Adult]","male",0,1
@@ -901,12 +973,16 @@ M[F]","unknown",0,1
 "Male, nest","male",0,1
 "Male, testes 2 X 3 mm","male",0,1
 "male/female","female | male",0,1
+"male/female (in text)","unknown",0,1
+"male/female (labelled as)","unknown",0,1
+"male/female (on label)","unknown",0,1
 "Male?","in question",0,1
 "Male[?]","in question",0,1
 "Male+Female","female | male",0,1
 "males","male",0,1
 "Males + Females","female | male",0,1
 "males, females","female | male",1,1
+"Mandible only, no teeth","unknown",0,1
 "marked as both F and M","unknown",0,1
 "MF","female | male",0,1
 "M-F","unknown",0,1
@@ -950,6 +1026,7 @@ M[F]","unknown",0,1
 "pink tail",,0,1
 "POSSIBLY FEMALE","in question",0,1
 "POSSIBLY MALE","male",0,1
+"Preg?","female",0,1
 "Prob. F","female",0,1
 "Prob. Female","female",0,1
 "Probably [Male]","male",0,1
@@ -1016,6 +1093,7 @@ M[F]","unknown",0,1
 "X",,0,1
 "xxx","unknown",0,1
 "Yankee Pond","unknown",0,1
+"Yg","unknown",0,1
 "young",,0,1
 "Young [Female ?]","in question",0,1
 "Young [Sex ?]","unknown",0,1

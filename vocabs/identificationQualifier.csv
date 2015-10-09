@@ -217,6 +217,7 @@
 "cf other_id","cf.",0,1
 "cf otherid","cf.",0,1
 "cf Ovis canadensis","cf.",0,1
+"cf Rhabdognathus rarus.","cf.",0,1
 "cf sp","cf.",0,1
 "cf sp cf gn","cf.",0,1
 "cf sp, ?genus, worn","cf.",0,1
@@ -234,6 +235,7 @@
 "cf.","cf.",0,1
 "cf. A. nobilis","cf.",0,1
 "cf. Aetiocetidae","cf.",0,1
+"cf. buroletti","cf.",0,1
 "cf. C. occidentalis","cf.",0,1
 "cf. fam.","cf.",0,1
 "cf. family","cf.",0,1
@@ -365,6 +367,8 @@
 "Hyla sp.","sp.",0,1
 "Identified",,0,1
 "incertae sedis","incertae sedis",1,1
+"indet sp.","sp.",0,1
+"indet. sp.","sp.",0,1
 "inornatus x sp. Uniparens",,0,1
 "isolepis sp.1","sp.",0,1
 "isolepis sp.2","sp.",0,1
@@ -444,6 +448,7 @@
 "possibly gen","genus in question",0,1
 "possibly gen +sp","genus, species in question",0,1
 "possibly sp.","species in question",0,1
+"probable","in question",0,1
 "probably","id in question",0,1
 "proserpina x Notropis sp.","proserpina X Notropis sp.",0,1
 "Q sp","species in question",0,1
@@ -491,6 +496,7 @@
 "sp. ""urique""","sp.",0,1
 "sp. ""walteri""","sp.",0,1
 "sp. # 1","sp.",0,1
+"sp. (?palumbus)","sp.",0,1
 "sp. (albino)","sp.",0,1
 "sp. (alnorum or trailli ?)","sp.",0,1
 "sp. (altamazonica complex)","sp.",0,1
@@ -503,6 +509,7 @@
 "sp. (bogotensis group)","sp.",0,1
 "sp. (broad head)","sp.",0,1
 "sp. (broadtail madtom)","sp.",0,1
+"sp. (c.f. europaeus)","sp.",0,1
 "sp. (calamarina-group)","sp.",0,1
 "sp. (catharinae-group)","sp.",0,1
 "sp. (Caura, Orinoco)","sp.",0,1
@@ -561,6 +568,7 @@
 "sp. '1'","sp.",0,1
 "sp. 1 (cf. macrophthalma)","sp.",0,1
 "sp. 10","sp.",0,1
+"sp. 11","sp.",0,1
 "sp. 2","sp.",0,1
 "sp. '2'","sp.",0,1
 "sp. 28","sp.",0,1
@@ -709,6 +717,7 @@
 "sp. III","sp.",0,1
 "sp. incert","sp. incert.",0,1
 "sp. incert.","sp. incert.",0,1
+"sp. indet","sp.",0,1
 "sp. indet.","sp. indet.",1,1
 "Sp. IV",,0,1
 "sp. J","sp.",0,1
@@ -763,6 +772,7 @@
 "sp. SN4","sp.",0,1
 "sp. SN9","sp.",0,1
 "sp. 'spotted'","sp.",0,1
+"sp. striped","sp.",0,1
 "sp. szaboi","sp.",0,1
 "sp. 'Tallapoosa sculpin'","sp.",0,1
 "sp. 'Teapa'","sp.",0,1
@@ -778,6 +788,7 @@
 "sp. X","sp.",0,1
 "sp. X sp.","sp. X sp.",0,1
 "sp. X venustus","sp. X venustus",0,1
+"sp..","sp.",0,1
 "sp.;","sp.",0,1
 "sp.1","sp.",0,1
 "sp.11","sp.",0,1
@@ -794,9 +805,11 @@
 "sp.8","sp.",0,1
 "sp.9","sp.",0,1
 "sp.A","sp.",0,1
+"sp.b","sp.",0,1
 "sp.B (cf.bransfordii)","sp.",0,1
 "sp.C",,0,1
 "sp.III (c.f.cruentes)","sp.",0,1
+"sp.indet.","sp.",0,1
 "sp.n","sp. nov.",0,1
 "sp.--not M. mogollonensis","sp.",0,1
 "sp.nov.","sp. nov.",0,1
