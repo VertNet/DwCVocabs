@@ -151,10 +151,13 @@ k",1000.00,0,1
 "FT (USGS map)",0.30,0,1
 "FT (USGS)",0.30,0,1
 "FT (USGS, ESTIMATED)",0.30,0,1
+"FT +",0.30,0,1
 "ft above MHW",0.30,0,1
 "ft from summit",0.30,0,1
 "ft high",0.30,0,1
 "ft level",0.30,0,1
+"FT ON TAG",0.30,0,1
+"FT ON TAG)",0.30,0,1
 "ft""",0.30,0,1
 "ft)",0.30,0,1
 "ft, acc. = 20 ft",0.30,0,1
@@ -214,7 +217,9 @@ k",1000.00,0,1
 "Madden Creek",,0,1
 "maissing",,0,1
 "maters",1.00,0,1
+"MET",1.00,0,1
 "meter",1.00,0,1
+"meter below sea level",1.00,0,1
 "METER EQ*",1.00,0,1
 "METER WIRE",1.00,0,1
 "meters",1.00,0,1
@@ -302,6 +307,7 @@ k",1000.00,0,1
 "surface?",0.00,0,1
 "SWARTH, H",,0,1
 "tadpole",,0,1
+"THE FOLLOWING ELEVATI",0.00,0,1
 "TIDE",,0,1
 "tidepool",0.00,0,1
 "TIDEPOOLS",,0,1

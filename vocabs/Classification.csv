@@ -1049,6 +1049,7 @@
 "AMEIURUS","Ameiurus","Ictaluridae","Siluriformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "AMEIURUS (ICTALURUS)",,"Ictaluridae","Siluriformes","Actinopterygii","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: May 2012",0,1,"Genus consists of two distinct genera.",0
 "AMEIVA","Ameiva","Teiidae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
+"Ameivula","Ameivula","Teiidae","Sauria","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: 2015",1,1,,0
 "Amentum","Stolephorus","Engraulidae","Clupeiformes","Actinopterygii","Chordata","Animalia","Catalog of Fishes",0,1,"Genus is a synonym.",0
 "Amerega","Ameerega","Dendrobatidae","Anura","Amphibia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus misspelled.",0
 "Ameribaatar","Ameribaatar",,"Multituberculata","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
@@ -3810,6 +3811,7 @@
 "Caromantis","Cacomantis","Cuculidae","Cuculiformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus misspelled.",0
 "Carphibis","Threskiornis","Threskiornithidae","Pelecaniformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus is a synonym.",0
 "CARPHODACTYLUS","Carphodactylus","Carphodactylidae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
+"Carphoephus","Carphophis","Colubridae","Serpentes","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: 2015",0,1,"Genus misspelled.",0
 "CARPHOPHIS","Carphophis","Colubridae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
 "Carphophus","Carphophis","Colubridae","Squamata","Reptilia","Chordata","Animalia","ITIS",0,1,"Genus misspelled.",0
 "Carpio","Carpio","Cyprinidae","Cypriniformes","Actinopterygii","Chordata","Animalia","World Register of Marine Species",1,1,,0
@@ -12522,6 +12524,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Lophophanes","Lophophanes","Paridae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Lophophaps","Geophaps","Columbidae","Columbiformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus is a synonym.",0
 "LOPHOPHLOPS",,"Gekkonidae","Squamata","Reptilia","Chordata","Animalia",,0,1,"Genus not found.",0
+"Lophopholis","Lophopholis","Gekkonidae","Sauria","Reptilia","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,,0
 "Lophophorus","Lophophorus","Phasianidae","Galliformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Lophophorus (phasianus)",,"Phasianidae","Galliformes","Aves","Chordata","Animalia",,1,1,"Genus contains a specific epithet and punctuation.",0
 "Lophophorus X Catreus",,,,"Aves","Chordata","Animalia",,0,1,"Genus is a hybrid.",0
@@ -13261,6 +13264,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Megatherium","Megatherium","Megatheriidae","Pilosa","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Megatriorchis","Megatriorchis","Accipitridae","Accipitriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Megatylopus","Megatylopus","Camelidae","Artiodactyla","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
+"Megatyphlops","Megatyphlops","Typhlopidae","Serpentes","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: 2015",1,1,,0
 "Megaxenops","Megaxenops","Furnariidae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Megazoaterops","Megazosterops","Zosteropidae","Passeriformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus misspelled.",0
 "MEGAZOSTEROPS","Megazosterops","Zosteropidae","Passeriformes","Aves","Chordata","Animalia","Avibase",1,1,,0
@@ -19985,6 +19989,8 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Ramsayornis","Ramsayornis","Meliphagidae","Passeriformes","Aves","Chordata","Animalia","Avibase",1,1,,0
 "RANA","Rana","Ranidae","Anura","Amphibia","Chordata","Animalia","AmphibiaWeb 2014-04-11",1,1,,0
 "Rana / Bufo",,,,"Amphibia","Chordata","Animalia",,0,1,"Genus not found.",0
+"Rana sylvatica","Rana","Ranidae","Anura","Amphibia","Chordata","Animalia",,0,1,"Genus contains a specific epithet.",0
+"Rana.","Rana","Ranidae","Anura","Amphibia","Chordata","Animalia",,0,1,"Genus contains punctuation.",0
 "RANACEPHALA","Phrynops","Chelidae","Testudines","Reptilia","Chordata","Animalia","ITIS",0,1,"Genus is a synonym.",0
 "Randallichthys","Randallichthys","Lutjanidae","Perciformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Randia","Randia","Sylviidae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0

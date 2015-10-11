@@ -1514,6 +1514,8 @@
 "11 eggs",,0,0
 "11 eggs | tissue",,0,0
 "11 radia frags",,0,0
+"11 SPECIMENS IN ALCOHOL, 1 SKELETON",,0,0
+"11 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
 "11 tadpoles only",,0,0
 "11 teeth",,0,0
 "11 VERTEBRAE (DRY)","11 vertebrae",0,1
@@ -1528,6 +1530,7 @@
 "12 partial or whole dentary, 5 maxilla, 2 isolated molar.",,0,0
 "12 rib fragments",,0,0
 "12 rib fragments | tissue",,0,0
+"12 SPECIMENS IN ALCOHOL, 1 SKELETON",,0,0
 "12 tadpoles",,0,0
 "12 tadpoles & 4 met'ing juvs",,0,0
 "12 VERTEBRAE (DRY)","12 vertebrae",0,1
@@ -1553,9 +1556,11 @@
 "14 m",,0,0
 "14 Max Frg.",,0,0
 "14 RM3/",,0,0
+"14 SPECIMENS IN ALCOHOL, 1 SKELETON",,0,0
 "14 VERTEBRAE (DRY)","14 vertebrae",0,1
 "15 FIXED/PRESERVED 95% ETOH, tissue",,0,0
 "15 medial phalanges",,0,0
+"15 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
 "15 tadpoles",,0,0
 "15 UNDET. AND MISCELLANEOUS.","undetermined",0,1
 "15 VERTEBRAE",,0,0
@@ -1795,6 +1800,7 @@
 "25 tadpoles & met'ing juvs",,0,0
 "26 phalanges",,0,0
 "26 teeth/partial mandibles/tissue | tissue",,0,0
+"27 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
 "2-70% ETHANOL; 1-GLYCEROL",,0,0
 "29 incisors",,0,0
 "29 podials",,0,0
@@ -1872,6 +1878,7 @@
 "3 radius fragments",,0,0
 "3 radius fragments | tissue",,0,0
 "3 Skull onlys",,0,0
+"3 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
 "3 tadpoles",,0,0
 "3 tadpoles only",,0,0
 "3 teeth",,0,0
@@ -1915,11 +1922,13 @@
 "32",,0,0
 "32 eggs only",,0,0
 "32 eggs only | tissue",,0,0
+"32 SPECIMENS IN ALCOHOL, 1 SKULL",,0,0
 "32 tadpoles",,0,0
 "33",,0,1
 "33 /M",,0,0
 "33 incisors",,0,0
 "34 M/",,0,0
+"34 SPECIMENS IN ALCOHOL, 1 SKELETON",,0,0
 "35 tadpoles",,0,0
 "36 calcanea",,0,0
 "3960",,0,1
@@ -1975,8 +1984,10 @@
 "4 vertebra.","vertebrae",0,1
 "4 VERTEBRAE (DRY)","4 vertebrae",0,1
 "4 VERTEBRAE.  IMM.","vertebrae",0,1
+"41 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
 "42 eggs",,0,0
 "42 eggs | tissue",,0,0
+"42 SPECIMENS IN ALCOHOL, 1 SKELETON",,0,0
 "46 Frags",,0,0
 "48 metapodials",,0,0
 "4m",,0,0
@@ -2008,6 +2019,7 @@
 "5 pedal phalanges",,0,0
 "5 pedal phalanges | tissue",,0,0
 "5 phalanges",,0,0
+"5 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
 "5 tadpoles",,0,0
 "5 teeth, several assoc. fragments in vial",,0,0
 "5 UNDET.","undetermined",0,1
@@ -2034,6 +2046,7 @@
 "6 pedal phalanges | tissue",,0,0
 "6 PHALANGES",,0,0
 "6 Podial Frags",,0,0
+"6 SPECIMENS IN ALCOHOL, 1 PARTIAL SKELETON",,0,0
 "6 tadpoles",,0,0
 "6 TEETH,DENTARY",,0,0
 "6 upper cheekteeth, 1 L P2/.",,0,0
@@ -3372,6 +3385,7 @@
 "8 m",,0,0
 "8 podials",,0,0
 "8 right acrocoracoid tips",,0,0
+"8 SPECIMENS IN ALCOHOL, 1 CLEARED AND STAINED",,0,0
 "8 tadpoles only",,0,0
 "8 Tail Feathers only",,0,0
 "8 teeth",,0,0
@@ -3392,6 +3406,8 @@
 "9 proximal metapodials",,0,0
 "9 proximal phalanges",,0,0
 "9 skull frags",,0,0
+"9 SPECIMENS IN ALCOHOL, 1 SKELETON",,0,0
+"9 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
 "9 vertebrae",,0,0
 "9/10 L dentary p3 p4 m1 m2 m3; 2/3 R dentary i1 p3 p4 m1 m2",,0,0
 "95 % ETHANOL, tissue",,0,0
@@ -8701,6 +8717,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "cleared and stained, tissue, wing",,0,0
 "cleared and stained, wing, flat skin",,0,0
 "cleared and stained, wing, tissue",,0,0
+"Cleared and stained.",,0,0
 "CLEARED IN STAINED SPECIMEN, SOFT PARTS IN ALCOHOL","cleared and stained | soft parts in alcohol",0,1
 "cleared skeleton in plexiglass block",,0,0
 "CLEITHRA",,0,0
@@ -37844,6 +37861,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Partial Skeleton and Hair",,0,0
 "PARTIAL SKELETON AND SHELL AND GONADS IN FLUID","partial skeleton | fluid shell | fluid gonads",0,1
 "PARTIAL SKELETON AND SOFT PARTS IN FLUID","partial skeleton | fluid soft parts",0,1
+"Partial skeleton and specimen in alcohol",,0,0
 "PARTIAL SKELETON CARAPACE (DRY)","carapace | partial skeleton",0,1
 "Partial Skeleton for display","partial skeleton (display)",0,1
 "partial skeleton in burrow",,0,0
@@ -51848,6 +51866,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin chip",,0,0
 "skin chip and tissue",,0,0
 "skin chip, skull, tissue",,0,0
+"SKIN CONTAINING SKULL AND DIGITS IN ALCOHOL, REMAINDER PREPARED AS SKELETON",,0,0
 "Skin Frozen . Freeze dried.",,0,0
 "skin impression",,0,0
 "Skin of foot",,0,0
@@ -51894,6 +51913,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKIN WITH LIMB BONES","skin with limb bones",0,1
 "SKIN WITH SKULL AND FOOT BONES","skin with skull and foot bones",0,1
 "SKIN WITH SKULL AND LIM BONES","skin with skull and limb bones",0,1
+"SKIN WITH SKULL AND LIMB BONES",,0,0
 "SKIN WITH SKULL IN FLUID","fluid skin with skull",0,1
 "skin",,0,0
 "Skin, ","skin",0,1
@@ -70607,6 +70627,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull and flipper",,0,0
 "SKULL AND FLUID SKIN","skull | fluid skin",0,1
 "SKULL AND FLUID SPECIMEN","skull | fluid specimen",0,1
+"SKULL AND FLUID SPECIMENSPECIMEN IN ALCOHOL, DRY SKULL",,0,0
 "Skull and Humerus",,0,0
 "skull and hyoid",,0,0
 "skull and hyoid, adult male",,0,0
@@ -72316,11 +72337,52 @@ R PERIPHERALS 2 - 3.",,0,0
 "SPECIMEN","whole animal",0,1
 "Specimen Destroyed (no specimen)",,0,0
 "SPECIMEN IN ALCOHOL","whole animal in alcohol",0,1
+"SPECIMEN IN ALCOHOL | GENBANK cytB - KC847280, 16S - KC847260",,0,0
+"SPECIMEN IN ALCOHOL | Left foot removed for tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Left hind foot preserved as tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Left hind foot preserved as tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Left hind foot preserved as tissue sample..",,0,0
+"SPECIMEN IN ALCOHOL | Left hind foot removed for tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Left hind leg removed for tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Left hind lower leg removed for tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Left leg removed for tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Left thigh meat removed for tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Left thigh meat removed for tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Right foot preserved as tissue specimen",,0,0
+"SPECIMEN IN ALCOHOL | Right foot removed as tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Right foot removed for tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Right hind foot all toes preserved as tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Right hind foot middle three toes preserved as tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Right hind foot preserved as tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Right hind foot preserved as tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Right hind foot removed for tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Right hind foot removed for tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Right hind lower leg preserved as tissue specimen",,0,0
+"SPECIMEN IN ALCOHOL | Right hind lower leg removed for tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Right hind lower leg removed for tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Right hind thigh meat removed as tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Right hind thigh meat removed for tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Right hind thigh meat removed for tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Right hind toes preserved as tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Right leg mid-tibia to foot preserved for tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Right leg removed for tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Right lower hind leg removed for tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Right lower leg preserved as tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Right lower leg preserved as tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Right partial hind foot removed for tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Right thigh meat removed for tissue sample",,0,0
+"SPECIMEN IN ALCOHOL | Right thigh meat removed for tissue sample.",,0,0
+"SPECIMEN IN ALCOHOL | Right thigh muscle preserved as tissue specimen",,0,0
+"SPECIMEN IN ALCOHOL | TISSUE PRESERVED IN ETHANOL",,0,0
+"SPECIMEN IN ALCOHOL | Tissue sample from ventral mid-body.",,0,0
+"SPECIMEN IN ALCOHOL | Venter opened and tissue removed",,0,0
+"SPECIMEN IN ALCOHOL | Venter opened and tissue removed.",,0,0
 "SPECIMEN IN ALCOHOL + DRY SKULL","dried skull | specimen in alcohol",0,1
 "SPECIMEN IN ALCOHOL AND 2 EGGS IN FORMALIN","two eggs in formalin | specimen in alcohol",0,1
 "SPECIMEN IN ALCOHOL AND CLEARED AND STAINED.","specimen in alcohol | cleared and stained specimen",0,1
 "SPECIMEN IN ALCOHOL AND CLEARED IN STAINED SPECIMENS","specimen in alcohol | cleared and stained specimens",0,1
 "SPECIMEN IN ALCOHOL AND FLUID EGGS","specimen in alcohol | fluid eggs",0,1
+"SPECIMEN IN ALCOHOL WITH DRY SKULL",,0,0
 "SPECIMEN IN ALCOHOL, 2 CLEARED AND STAINED","specimen in alcohol | two cleared and stained specimens",0,1
 "SPECIMEN IN ALCOHOL, 3 CLEARED AND STAINED","specimen in alcohol | three cleared and stained specimens",0,1
 "SPECIMEN IN ALCOHOL, 8 CLEARED AND STAINED","specimen in alcohol | eight cleared and stained specimens",0,1
@@ -72330,8 +72392,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "SPECIMEN IN ALCOHOL, GONAD IN FORMALIN, SLIDES","specimen in alcohol | gonad in formalin | slides",0,1
 "SPECIMEN IN ALCOHOL, GONADS IN FORMALIN","specimen in alcohol | gonads in formalin",0,1
 "SPECIMEN IN ALCOHOL, OVARY IN FORMALIN","specimen in alcohol | ovary in formalin",0,1
+"SPECIMEN IN ALCOHOL.",,0,0
 "SPECIMEN IN FLUID","fluid specimen",0,1
 "SPECIMEN IN FORMALIN","specimen in formalin",0,1
+"SPECIMEN8 S IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
 "SPECIMENS IN ALCOHOL","specimens in alcohol",0,1
 "SPECIMENS IN ALCOHOL, 1 CLEARED AND STAINED","specimens in alcohol | one cleared and stained",0,1
 "SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED","specimens in alcohol | two cleared and stained",0,1
