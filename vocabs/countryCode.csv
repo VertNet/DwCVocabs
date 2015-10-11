@@ -1169,6 +1169,7 @@
 "Bombay","IN",0,1
 "Bonaire","BQ",0,1
 "Bonaire Island, W Indies","BQ",0,1
+"Bonaire, Sint Eustatius, and Saba","BQ",0,1
 "Bongao I","PH",0,1
 "Bongao I.","PH",0,1
 "Bongao Is.","PH",0,1
@@ -1449,6 +1450,7 @@
 "Brt. Guiana","GY",0,1
 "Br't. Guiana","GY",0,1
 "Brunei","BN",0,1
+"Brunei Darussalam","BN",0,1
 "Buchara","UZ",0,1
 "Bueno[Argentina]","AR",0,1
 "Buffalo Zoo","US",0,1
@@ -5226,6 +5228,7 @@
 "Republic of S Africa","ZA",0,1
 "REPUBLIC OF SEYCHELLES","SC",0,1
 "Republic of South Africa","ZA",0,1
+"Republic of Sudan","SD",0,1
 "Republic of the Congo","CD",0,1
 "Republic of the Marshall Islands","MH",0,1
 "Republic of the Philippines","PH",0,1
@@ -6985,6 +6988,8 @@
 "Vanua Levu I.","FJ",0,1
 "Vanuatu","VU",1,1
 "VANUATU (NEW HEBRIDES)","VU",0,1
+"Vanuatu
+'","VU",0,1
 "Vanuatu(NewHebrides)","VU",0,1
 "VARIOUS",,0,1
 "Ven","VE",0,1

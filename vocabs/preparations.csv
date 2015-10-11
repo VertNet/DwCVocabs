@@ -11584,6 +11584,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Dissected",,0,0
 "Dissected (mounted, in spirit)",,0,0
 "Dissected + sectioned specimen (mounted, in spirit)",,0,0
+"Dissected Fluid Specimen in Alcohol",,0,0
+"Dissected Fluid Specimen in Alcohol | tissue",,0,0
 "Dissected parts (in spirit)",,0,0
 "DISSECTED PICKLED SPECIMEN","dissected pickle",0,1
 "DISSECTED PICKLED SPECIMEN | tissue",,0,0
@@ -21001,10 +21003,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "Flat_skin; Tissue; Syrinx; Skel",,0,0
 "Flat_skin; Wings_tail",,0,0
 "FLAT+WINGS","flat skin | wings",0,1
+"Flatskin",,0,0
+"Flatskin | tissue",,0,0
 "FLATSKIN AND ALCOHOLIC","alcoholic | flat skin",0,1
 "FLATSKIN AND ALCOHOLIC | tissue",,0,0
 "FLATSKIN AND ALCOHOLIC, tissue","alcoholic | flat skin | tissue",0,1
+"Flatskin and Dissectd Specimen in Alcohol",,0,0
 "FLATSKIN AND DISSECTED CARCASS","flat skin | dissected carcass",0,1
+"Flatskin and Fluid Specimen in Alcohol",,0,0
+"Flatskin and Fluid Specimen in Alcohol | tissue",,0,0
 "FLATSKIN AND SKELETON","flat skin | skeleton",0,1
 "FLATSKIN AND SKELETON | tissue",,0,0
 "FLATSKIN AND SKELETON, tissue","flat skin | skeleton | tissue",0,1
@@ -21014,6 +21021,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FLATSKIN ONLY","flat skin",0,1
 "FLATSKIN ONLY | tissue",,0,0
 "FLATSKIN ONLY, tissue","flat skin | tissue",0,1
+"Flatskin, Skeleton and Wing | tissue",,0,0
 "FLATSKIN, SKELETON, AND WING",,0,0
 "FLATSKIN, SKELETON, AND WING | tissue",,0,0
 "FLATSKIN, SKELETON, AND WING, tissue","flat skin | skeleton | wing | tissue",0,1
@@ -22330,10 +22338,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid | Tissue | Microtechnique",,0,0
 "Fluid | Tissue | Microtechnique | Hemipenis",,0,0
 "Fluid | Tissue | Recording",,0,0
+"Fluid Embryo in Alcohol",,0,0
 "FLUID HEAD AND PARTIAL SKELETON","fluid head | partial skeleton",0,1
 "FLUID HEAD FEET IN SKIN","fluid head and feet in skin",0,1
+"Fluid Head, Leg and Wing, remainder as Skeleton and Dried Boneless Wing | tissue",,0,0
 "FLUID SKIN","fluid skin",0,1
 "FLUID SKIN AND EMBRYOS","fluid skin | embryos",0,1
+"Fluid Specimen in Alcohol",,0,0
+"Fluid Specimen in Alcohol | tissue",,0,0
+"Fluid Specimen in Alcohol and Dry individual primaries and secondaries",,0,0
+"Fluid Specimen in Alcohol and Dry individual primaries and secondaries | tissue",,0,0
+"Fluid Trunk in Alcohol",,0,0
+"Fluid Trunk in Alcohol | tissue",,0,0
 "fluidFluid, skull","fluid | skull",0,1
 "Fluid,  Skull","fluid | skull",0,1
 "Fluid, ?????Skin, Skull","fluid | skin | skull",0,1
@@ -23380,6 +23396,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Full Skeleton + Flat Skin",,0,0
 "Full Skeleton + Skin + 1 Wing",,0,0
 "FULL SKELETON AND TAIL","full skeleton | tail",0,1
+"Full Skeleton missing Skull",,0,0
 "FULL SKELETON, tissue","full skeleton | tissue",0,1
 "full skeleton; frozen: heart; liver; muscle",,0,0
 "fur, tissue",,0,0
@@ -33464,6 +33481,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Most of paired parietal.",,0,0
 "Most of sacrum.",,0,0
 "Most of scapula.",,0,0
+"Most of Skeleton and Wing",,0,0
 "most of skull",,0,0
 "Most of skull except R maxilla, R and L premaxillae, L parietal.  L P4/.",,0,0
 "Most of skull R C1/ P3/ P4/, L P3/ P4/ M1/.",,0,0
@@ -34858,6 +34876,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "other | tissue",,0,0
 "Other | Tissue: 0",,0,0
 "Other | Tissue: 7358",,0,0
+"Other Fluid Material",,0,0
+"Other Fluid Material | tissue",,0,0
 "OTHER PICKLED MATERIAL","pickled material",0,1
 "OTHER PICKLED MATERIAL | tissue",,0,0
 "OTHER PICKLED MATERIAL, tissue","pickled material | tissue",0,1
@@ -37851,6 +37871,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skeleton, including l+r dentaries",,0,0
 "partial skeleton, juvenile",,0,0
 "partial skeleton, juvenile, in concretion",,0,0
+"Partial Skeleton, missing Skull",,0,0
 "partial skeleton, other",,0,0
 "partial skeleton, part and counterpart",,0,0
 "partial skeleton, partial jaw in matrix",,0,0
@@ -46292,6 +46313,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "SCHMOO, FULL SKELETON, AND SPREAD WING, tissue","schmoo | full skeleton | spread wing | tissue",0,1
 "schmoo, partial skel, wing - 1","schmoo | partial skeleton | wing - 1",0,1
 "schmoo, skel, wing - 1","schmoo | skeleton | wing - 1",0,1
+"Schmoo, Skeleton and Spread Wing",,0,0
+"Schmoo, Skeleton and Spread Wing | tissue",,0,0
 "schmoo, skeleton, tissue - 1","schmoo | skeleton | tissue - 1",0,1
 "schmoo, tissue - 1","schmoo | tissue - 1",0,1
 "Sclerobasic axial skeleton",,0,0
@@ -47434,6 +47457,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton + Wing","skeleton | wing",0,1
 "Skeleton + Wing + Tail + Head + Feet",,0,0
 "Skeleton and baleen",,0,0
+"Skeleton and Bonesless Wing | tissue",,0,0
 "SKELETON AND DRIED SKIN","skeleton | dried skin",0,1
 "SKELETON AND DRY SKIN","skeleton | dried skin",0,1
 "SKELETON AND FLUID EGGS","skeleton | fluid eggs",0,1
@@ -47468,6 +47492,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELETON MINUS PES",,0,0
 "Skeleton minus skull",,0,0
 "Skeleton minus Trunk",,0,0
+"Skeleton missing Skull",,0,0
 "SKELETON MOUNTED",,0,0
 "SKELETON MOUNTED,POSTCRANIAL BONES",,0,0
 "Skeleton no skull",,0,0
@@ -70577,6 +70602,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull and dentary frags",,0,0
 "SKULL AND DRIED POST CRANIAL DRIED SKIN","skull | dried post-cranial skin",0,1
 "SKULL AND DRIED SKIN","skull | dried skin",0,1
+"Skull and Dried Tail with Feathers",,0,0
+"Skull and Dried Tail with Feathers | tissue",,0,0
 "skull and flipper",,0,0
 "SKULL AND FLUID SKIN","skull | fluid skin",0,1
 "SKULL AND FLUID SPECIMEN","skull | fluid specimen",0,1
@@ -70635,6 +70662,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull and Vertebrae (3)",,0,0
 "Skull and Vertebrae (4)",,0,0
 "skull and vertebral column",,0,0
+"Skull and wing bones only",,0,0
+"Skull and wing bones only | tissue",,0,0
 "SKULL ANT",,0,0
 "SKULL ANT  L I1/ M1-M/ R M2/",,0,0
 "SKULL ANT & L LATERAL",,0,0
@@ -72588,10 +72617,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "STUDY SKIN AND BODY SKELETON","study skin | body skeleton",0,1
 "STUDY SKIN AND BODY SKELETON | tissue",,0,0
 "STUDY SKIN AND BODY SKELETON, tissue","study skin | body skeleton | tissue",0,1
+"Study Skin and Fluid Trunk in Alcohol",,0,0
+"Study Skin and Fluid Trunk in Alcohol | tissue",,0,0
 "STUDY SKIN AND SKELETON","study skin |  skeleton",0,1
 "STUDY SKIN AND SPREAD WING",,0,0
 "STUDY SKIN AND SPREAD WING | tissue",,0,0
 "STUDY SKIN AND SPREAD WING, tissue","study skin | spread wing | tissue",0,1
+"Study Skin and Trunk Skeleton",,0,0
+"Study Skin and Trunk Skeleton | tissue",,0,0
 "STUDY SKIN AND WING","study skin | wing",0,1
 "study skin only",,0,0
 "study skin only | tissue",,0,0
@@ -72599,6 +72632,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "STUDY SKIN, FLATTENED","flat study skin",0,1
 "study skin, skeleton",,0,0
 "STUDY SKIN, tissue","study skin | tissue",0,1
+"Study Skin, Trunk Skeleton and Spread Wing",,0,0
 "STUDY+ WING","study skin | wing",0,1
 "STUDY+ALC","alcoholic | study skin",0,1
 "STUDY+SKEL","skeleton | study skin",0,1
@@ -75466,6 +75500,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "trunk skel","trunk skeleton",0,1
 "trunk skel, tissue",,0,0
 "TRUNK SKELETON","trunk skeleton",0,1
+"Trunk Skeleton | tissue",,0,0
+"Trunk Skeleton and One Eye Ring",,0,0
 "Trunk Skeleton only",,0,0
 "Trunk Skeleton only ?",,0,0
 "TRUNK SKELETON, ONE EYE RING","trunk skeleton | eye ring",0,1
