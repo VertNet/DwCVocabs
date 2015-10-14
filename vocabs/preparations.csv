@@ -6950,6 +6950,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Beak (part) + misc. postcranial elements",,0,0
 "beak fragment",,0,0
 "Beak.","beak",0,1
+"Beak/Jaw - 1",,0,0
 "Beak; leg; feathers (stomach contents of an Otus kennicottii)",,0,0
 "beak; sternum",,0,0
 "Beaver stick",,0,0
@@ -7015,6 +7016,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Body/Skel",,0,0
 "boen fragment",,0,0
 "bone",,0,0
+"Bone  - 1",,0,0
 "Bone ([postcranial] fragment)",,0,0
 "Bone (postcranial fragment)",,0,0
 "Bone (scraps)",,0,0
@@ -7127,6 +7129,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "bonefragment",,0,0
 "boner frag",,0,0
 "bones",,0,0
+"Bones  - 1",,0,0
 "bones (batch)",,0,0
 "Bones (fragments)",,0,0
 "Bones [postcranial]",,0,0
@@ -11667,6 +11670,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Dissected specimens (in spirit)",,0,0
 "Dissected specimens (mounted, in spirit)",,0,0
 "Dissected wing feathers developing (in spirit)",,0,0
+"Dissection - 1",,0,0
 "Dissection (proventriculus)",,0,0
 "Dissection (tongue)",,0,0
 "DIST",,0,0
@@ -12953,6 +12957,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "DRY/ BONES",,0,0
 "DRY/ JAWS ONLY",,0,0
 "DRY/ SMALL JAR",,0,0
+"dry? - 1",,0,0
 "Drylåda",,0,0
 "DUNG","dung",0,1
 "Dung (dried)",,0,0
@@ -13458,6 +13463,59 @@ R PERIPHERALS 2 - 3.",,0,0
 "Esqueleto, pendiente de limpiar","skeleton",0,1
 "ET","alcoholic",0,1
 "ETHANOL",,0,0
+"Ethanol - 1",,0,0
+"Ethanol - 10",,0,0
+"Ethanol - 11",,0,0
+"Ethanol - 110",,0,0
+"Ethanol - 118",,0,0
+"Ethanol - 12",,0,0
+"Ethanol - 127",,0,0
+"Ethanol - 13",,0,0
+"Ethanol - 130",,0,0
+"Ethanol - 131",,0,0
+"Ethanol - 14",,0,0
+"Ethanol - 143",,0,0
+"Ethanol - 154",,0,0
+"Ethanol - 17",,0,0
+"Ethanol - 171",,0,0
+"Ethanol - 18",,0,0
+"Ethanol - 19",,0,0
+"Ethanol - 190",,0,0
+"Ethanol - 2",,0,0
+"Ethanol - 20",,0,0
+"Ethanol - 200",,0,0
+"Ethanol - 21",,0,0
+"Ethanol - 216",,0,0
+"Ethanol - 22",,0,0
+"Ethanol - 23",,0,0
+"Ethanol - 24",,0,0
+"Ethanol - 269",,0,0
+"Ethanol - 27",,0,0
+"Ethanol - 278",,0,0
+"Ethanol - 28",,0,0
+"Ethanol - 295",,0,0
+"Ethanol - 3",,0,0
+"Ethanol - 31",,0,0
+"Ethanol - 32",,0,0
+"Ethanol - 34",,0,0
+"Ethanol - 35",,0,0
+"Ethanol - 355",,0,0
+"Ethanol - 4",,0,0
+"Ethanol - 44",,0,0
+"Ethanol - 45",,0,0
+"Ethanol - 479",,0,0
+"Ethanol - 5",,0,0
+"Ethanol - 50",,0,0
+"Ethanol - 59",,0,0
+"Ethanol - 6",,0,0
+"Ethanol - 7",,0,0
+"Ethanol - 78",,0,0
+"Ethanol - 8",,0,0
+"Ethanol - 80",,0,0
+"Ethanol - 81",,0,0
+"Ethanol - 87",,0,0
+"Ethanol - 89",,0,0
+"Ethanol - 9",,0,0
 "ETHANOL/ SMALL JAR, tissue",,0,0
 "ETHMOID",,0,0
 "EtOH","alcoholic",0,1
@@ -20179,6 +20237,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "eye lens, skull",,0,0
 "Eye nerves (in spirit)",,0,0
 "Eye, sectioned (in spirit)",,0,0
+"Eyes - 1",,0,0
 "Eyes (in spirit)",,0,0
 "Eyes + tongue (in spirit)",,0,0
 "F","flat skin",0,1
@@ -25552,6 +25611,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "jar - 1",,0,0
 "jar - 2",,0,0
 "jaw","jaw",1,1
+"Jaw - 1",,0,0
 "jaw & baculum",,0,0
 "JAW & FORELIMB O.","jaw | forelimb",0,1
 "Jaw (? lower, symphysis)",,0,0
@@ -30248,6 +30308,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Li2",,0,0
 "Li2, Lc, Lp3-4, Lm1; Ri2, Rc",,0,0
 "LI2/",,0,0
+"Life History - 1",,0,0
 "LIMB",,0,0
 "Limb + foot bones",,0,0
 "Limb + foot bones (incomplete)",,0,0
@@ -34989,6 +35050,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "OT*","other",0,1
 "OT* - 1",,0,0
 "other","other",1,1
+"Other - 1",,0,0
 "Other | 0",,0,0
 "Other | 7358",,0,0
 "other | tissue",,0,0
@@ -39764,6 +39826,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "postcranial misc",,0,0
 "postcranial skeketon",,0,0
 "postcranial skeleton",,0,0
+"Post-Cranial Skeleton - 1",,0,0
 "Postcranial skeleton (almost complete)",,0,0
 "postcranial skeleton (articulated) | skull (complete)",,0,0
 "postcranial skeleton (articulated); skull (complete)",,0,0
@@ -46170,6 +46233,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SCALE+CERATOHYAL",,0,0
 "scale+imprint",,0,0
 "Scales",,0,0
+"Scales - 1",,0,0
 "SCALES & TEETH",,0,0
 "Scales (body)",,0,0
 "Scales (disarticulated)",,0,0
@@ -73236,6 +73300,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "tail spines",,0,0
 "tail vertebra",,0,0
 "tail vertebrae",,0,0
+"Tail w/ Spines - 1",,0,0
 "Tail with rattle (in phenoxetol)",,0,0
 "Tail, sectioned (mounted, in spirit)",,0,0
 "tail, skeleton, tissue - 1","skeleton | tail | tissue - 1",0,1
@@ -77144,6 +77209,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "whole organism (ethanol) | muscle (95% ethanol)",,0,0
 "whole organism (ethanol) | skin clip (95% ethanol)",,0,0
 "whole skeleton",,0,0
+"Whole Skeleton - 1",,0,0
 "Whole specimen",,0,0
 "Whole specimen  (in spirit)",,0,0
 "whole specimen - dried",,0,0
