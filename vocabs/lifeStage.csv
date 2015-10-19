@@ -11,6 +11,9 @@
 " adv",,0,0
 " all advanced",,0,0
 " began",,0,0
+" BURSA 4 X 4 MM",,0,0
+" BURSA 9 X 7 MM",,0,0
+" BURSA NOT FOUND",,0,0
 " DEF. ADULT MALE PLUMAGE; NO BUR",,0,0
 " fresh",,0,0
 " fresh - commenced",,0,0
@@ -99,6 +102,7 @@
 "#1 infertile, fragments; #2 crushed, fragments, em",,0,0
 "#1 large embryo, #2 infertile, #",,0,0
 "#1 large embryo, #2 infertile, #3 medium embryo",,0,0
+"#1 Large embryo; #2 Infertile",,0,0
 "#1 medium embryo; #2 small embry",,0,0
 "#1 medium embryo; #2 small embryo; #3 small embryo",,0,0
 "#1 No inc, #2 No yolk. Nest cont",,0,0
@@ -2023,6 +2027,7 @@ begun",,0,0
 "1ST BASIC PLUM.; BURSA 16 X 10 M",,0,0
 "1st clutch frag- broke in nest. ",,0,0
 "1st clutch frag- broke in nest. Also, 1 addled egg",,0,0
+"1ST CYCLE; BURSA 15 X 15 MM",,0,0
 "1st egg April 1, set taken Apr. ",,0,0
 "1st egg layed 28th, 2nd layed 29",,0,0
 "1st egg layed 28th, 2nd layed 29th",,0,0
@@ -3080,6 +3085,7 @@ begun",,0,0
 "3 eggs of Chipping Sparrow fresh",,0,0
 "3 eggs on june 14",,0,0
 "3 eggs one-half incubated, 1 ste",,0,0
+"3 eggs ready to hatch",,0,0
 "3 eggs slightly incubated, 1 fre",,0,0
 "3 eggs slightly veined",,0,0
 "3 eggs the chicks was started to",,0,0
@@ -3565,6 +3571,7 @@ begun",,0,0
 "4 eggs much incubated, 2 apparen",,0,0
 "4 eggs much incubated, 2 apparently addled.",,0,0
 "4 eggs pipped",,0,0
+"4 eggs slight; 2 eggs 1/2",,0,0
 "4 eggs well advanced, 2 eggs abo",,0,0
 "4 eggs well advanced, 2 eggs about 10 days",,0,0
 "4 eggs well advanced; 1 fresh",,0,0
@@ -4936,6 +4943,7 @@ ACC: 20",,0,0
 "adukt",,0,0
 "Adul; skull oss.",,0,0
 "adul;t",,0,0
+"ADULKT; NO BIRSA",,0,0
 "Adullt",,0,0
 "adulr","adult",0,1
 "adult","adult",1,1
@@ -5050,7 +5058,9 @@ ACC: 20",,0,0
 "Adult on egg",,0,0
 "Adult on eggs",,0,0
 "ADULT PLUAMGE",,0,0
+"ADULT PLUAMGE; BURSA NOT FOUND",,0,0
 "ADULT PLUAMGE; NO BURSA",,0,0
+"ADULT PLUAMGNO BURSA",,0,0
 "ADULT PLUMAGE",,0,0
 "ADULT PLUMAGE; BURSA 11 X 8 MM [",,0,0
 "ADULT PLUMAGE; BURSA NOT FOUND",,0,0
@@ -5802,6 +5812,7 @@ ACC: 20",,0,0
 "adult; 99 day",,0,0
 "adult; 995 day",,0,0
 "adult; age unknown",,0,0
+"ADULT; ALT PLUMAGE; NO BURSA",,0,0
 "ADULT; ALTERNATE PPLUMAGE; NO BU",,0,0
 "adult; C 11 yr 6 mo 9 day",,0,0
 "adult; C18 yr",,0,0
@@ -5834,6 +5845,7 @@ ACC: 20",,0,0
 "adult; old",,0,0
 "adult; old, teeth worn and broke",,0,0
 "Adult; oss. Complete",,0,0
+"ADULT; PALE MORPH; NO BURSA",,0,0
 "adult; pouch young",,0,0
 "adult; Rudd's age class 3",,0,0
 "adult; Rudd's age class 3-",,0,0
@@ -6188,6 +6200,7 @@ perhaps one half",,0,0
 "AHY; NO BURSA; SKULL 100% OSS.",,0,0
 "AHY; NO BURSA; SKULL 100% OSS;",,0,0
 "AHY; NO BURSA; SKULL 5% OSS.",,0,0
+"AHY; SKULL 100% OSS.; NO BURSA",,0,0
 "AHY?",,0,0
 "AHY? NO BURSA; SKULL 100% OSS.",,0,0
 "AIG",,0,0
@@ -6506,11 +6519,13 @@ warbler's dent",,0,0
 "ASY by bill measurements",,0,0
 "ASY by plumage",,0,0
 "ASY/ATY",,0,0
+"ASY; BURSA NOT FOUND",,0,0
 "ASY; BURSA NOT FOUND; SKULL 100%",,0,0
 "ASY; NO BURSA",,0,0
 "ASY; NO BURSA; SKULL 100% OSS",,0,0
 "ASY; NO BURSA; SKULL 100% OSS.",,0,0
 "ASY; SKULL 100% OSS.",,0,0
+"ASY; SKULL 100% OSS.; NO BURSA",,0,0
 "ASY?",,0,0
 "ASY? NO BURSA",,0,0
 "At least 10 days",,0,0
@@ -6533,7 +6548,9 @@ warbler's dent",,0,0
 "At point of hatching.",,0,0
 "ATY",,0,0
 "ATY by plumage",,0,0
+"ATY;",,0,0
 "ATY; NO BURSA; SKULL 100% OSS.",,0,0
+"AUBADULT",,0,0
 "AUD.",,0,0
 "audlt",,0,0
 "Autumn",,0,0
@@ -6554,6 +6571,7 @@ c= small embryo",,0,0
 "bad",,0,0
 "bad -1 egg too bad to save",,0,0
 "Bad 1/2",,0,0
+"bad egg",,0,0
 "Bad incubation",,0,0
 "Bad, 3/4",,0,0
 "bad. Eggs broken",,0,0
@@ -6571,6 +6589,7 @@ c= small embryo",,0,0
 "Bagun-4 days-",,0,0
 "Baked",,0,0
 "Banded 3 young",,0,0
+"BANDED AS 8 D OLD NESTLING ON 1 ",,0,0
 "BANDED AS AHY MALE ON 14 JULY 20",,0,0
 "bare trace, a late set",,0,0
 "barely begun",,0,0
@@ -6995,6 +7014,7 @@ Trace.",,0,0
 "Breeding","adult",0,1
 "breeding 2 yrs. old",,0,0
 "Breeding Adult","adult",0,1
+"BREEDING PLUMAGE; NO BURSA",,0,0
 "broke in nest",,0,0
 "Broke in nest.",,0,0
 "Broke in nest; fragments",,0,0
@@ -7031,7 +7051,9 @@ Trace.",,0,0
 "Broken--appears hatched",,0,0
 "brooded",,0,0
 "broodpatch",,0,0
+"BUERSA 5 X 4 ,,",,0,0
 "BUIRSA NOT FOUND",,0,0
+"BURA NOT FOUND",,0,0
 "BURSA",,0,0
 "BURSA  1 X 1 MM;",,0,0
 "BURSA  17 X 8 MM",,0,0
@@ -7041,10 +7063,14 @@ Trace.",,0,0
 "BURSA  6 X 4 MM",,0,0
 "BURSA  NOT FOUND",,0,0
 "BURSA ;",,0,0
+"BURSA 1 X 1 MM",,0,0
 "BURSA 1 X 1 MM, FLESHY",,0,0
 "BURSA 1 X 1 MM; SKULL 10% OSS.",,0,0
+"BURSA 1 X 1 MM; SKULL 75 % OSS.",,0,0
 "BURSA 1 X 1.5 MM",,0,0
+"BURSA 1- X 6 MM",,0,0
 "BURSA 1.1 X 0L4 MM",,0,0
+"BURSA 1.5 X 1.5 MM",,0,0
 "BURSA 1.5 X 1.5 MM, FLESHY",,0,0
 "BURSA 10 MM",,0,0
 "BURSA 10 MM DIAM, 10 MM LONG; SK",,0,0
@@ -7117,6 +7143,7 @@ Trace.",,0,0
 "BURSA 12 X 10 MM; SKULL 100% OSS",,0,0
 "BURSA 12 X 11 MM",,0,0
 "BURSA 12 X 11 MM;",,0,0
+"BURSA 12 X 11 MM; PARTIAL ADULT/",,0,0
 "BURSA 12 X 12  MM;",,0,0
 "BURSA 12 X 12 MM",,0,0
 "BURSA 12 X 12 MM;",,0,0
@@ -7134,8 +7161,10 @@ Trace.",,0,0
 "BURSA 12 X 9 MM",,0,0
 "BURSA 12.5 X 5 MM;",,0,0
 "BURSA 13 MM DIAM, CA 2-3 MM HIGH",,0,0
+"BURSA 13 X 10 MM",,0,0
 "BURSA 13 X 10 MM, FLESHY;",,0,0
 "BURSA 13 X 10 MM; SKULL 75% OSS.",,0,0
+"BURSA 13 X 11 MM",,0,0
 "BURSA 13 X 12 MM; SKULL 100% PNE",,0,0
 "BURSA 13 X 13 MM",,0,0
 "BURSA 13 X 5 MM",,0,0
@@ -7155,6 +7184,7 @@ Trace.",,0,0
 "BURSA 14 X 12 AT BASE, CA 2 MM H",,0,0
 "BURSA 14 X 12 MM",,0,0
 "BURSA 14 X 13 MM; SKULL 100% PNE",,0,0
+"BURSA 14 X 14 MM",,0,0
 "BURSA 14 X 5 MM",,0,0
 "BURSA 14 X 6 MM",,0,0
 "BURSA 14 X 8 MM",,0,0
@@ -7169,6 +7199,7 @@ Trace.",,0,0
 "BURSA 15 X 12 MM",,0,0
 "BURSA 15 X 12 MM;",,0,0
 "BURSA 15 X 13 MM",,0,0
+"BURSA 15 X 15 MM",,0,0
 "BURSA 15 X 17 MM",,0,0
 "BURSA 15 X 17 MM, THIN WALLED",,0,0
 "BURSA 15 X 20 MM",,0,0
@@ -7178,6 +7209,7 @@ Trace.",,0,0
 "BURSA 15 X 5 MM",,0,0
 "BURSA 15 X 6 MM;",,0,0
 "BURSA 15 X 6 MM; SKULL 100% PNEU",,0,0
+"BURSA 15 X 7  MM",,0,0
 "BURSA 15 X 7 MM",,0,0
 "BURSA 15 X 8 MM",,0,0
 "BURSA 15 X 8 MM;",,0,0
@@ -7215,6 +7247,7 @@ Trace.",,0,0
 "BURSA 18 X 13 MM",,0,0
 "BURSA 18 X 14 MM",,0,0
 "BURSA 18 X 15 MM",,0,0
+"BURSA 18 X 16 MM",,0,0
 "BURSA 18 X 17  MM",,0,0
 "BURSA 18 X 18 MM",,0,0
 "BURSA 18 X 5 MM",,0,0
@@ -7224,11 +7257,16 @@ Trace.",,0,0
 "BURSA 18 X 9 MM",,0,0
 "BURSA 19 X 10 MM; SKULL 100% PNE",,0,0
 "BURSA 19 X 13 MM",,0,0
+"BURSA 2  X  2 MM; SKULL 25% OSS.",,0,0
+"BURSA 2  X 1 MM",,0,0
 "BURSA 2 MM WIDE AT BASE, 2 MM LO",,0,0
 "BURSA 2 MM WIDE AT BASE, 4 MM LO",,0,0
 "BURSA 2 MM WIDE, 5 MM LONG; SKUL",,0,0
+"BURSA 2 X 1 MM",,0,0
 "BURSA 2 X 1 MM;",,0,0
 "BURSA 2 X 1 MM; SKULL 0% OSS.",,0,0
+"BURSA 2 X 1 MM; SKULL 10% OSS.",,0,0
+"BURSA 2 X 1 MM; SKULL 25% OSS.",,0,0
 "BURSA 2 X 1 MM; SKULL 50% OSS.",,0,0
 "BURSA 2 X 1 MM; SKULL 70% PNEUM",,0,0
 "BURSA 2 X 1 MM; SKULL 95% OSS.",,0,0
@@ -7275,10 +7313,13 @@ Trace.",,0,0
 "BURSA 21 X 10 MM",,0,0
 "BURSA 21 X 11, FLESHY",,0,0
 "BURSA 21 X 13 MM;",,0,0
+"BURSA 21 X 16 MM",,0,0
 "BURSA 21 X 18 MM",,0,0
+"BURSA 21 X 8 MM",,0,0
 "BURSA 22 X 10 MM",,0,0
 "BURSA 22 X 11 MM",,0,0
 "BURSA 22 X 12 MM; HEN PLUMAGE",,0,0
+"BURSA 22 X 14 MM",,0,0
 "BURSA 22 X 5 MM",,0,0
 "BURSA 22 X 8 MM",,0,0
 "BURSA 22 X 9 MM",,0,0
@@ -7312,17 +7353,20 @@ Trace.",,0,0
 "BURSA 3 X 1 MM; SKULL 75% OSS.",,0,0
 "BURSA 3 X 1.5 MM",,0,0
 "BURSA 3 X 1.5 MM;",,0,0
+"BURSA 3 X 1.5 MM; SKULL 0% OSS.",,0,0
 "BURSA 3 X 2 MM",,0,0
 "BURSA 3 X 2 MM [OBV, INCORRECT-A",,0,0
 "BURSA 3 X 2 MM;",,0,0
 "BURSA 3 X 2 MM; SKULL 0% OSS.",,0,0
 "BURSA 3 X 2 MM; SKULL 10% OSS.",,0,0
+"BURSA 3 X 2 MM; SKULL 100% OSS",,0,0
 "BURSA 3 X 2 MM; SKULL 25% OSS.",,0,0
 "BURSA 3 X 2 MM; SKULL 30% PNEUM",,0,0
 "BURSA 3 X 2 MM; SKULL 40% PNEUM",,0,0
 "BURSA 3 X 2 MM; SKULL 75% OSS.",,0,0
 "BURSA 3 X 2 MM; SKULL 80% OSS.",,0,0
 "BURSA 3 X 2 MM; SKULL 95% OSS.",,0,0
+"BURSA 3 X 2 MM; SKULL SHOT",,0,0
 "BURSA 3 X 3 MM",,0,0
 "BURSA 3 X 3 MM [PROBABLY NOT-AWK",,0,0
 "BURSA 3 X 3 MM, SKULL 25% OSS.",,0,0
@@ -7336,6 +7380,7 @@ Trace.",,0,0
 "BURSA 3 X 3 MM; SKULL 5% OSS.",,0,0
 "BURSA 3 X 3 MM; SKULL 50% OSS.",,0,0
 "BURSA 3 X 3 MM; SKULL 75% OSS.",,0,0
+"BURSA 3 X 3 MM; SKULL 95% OSS.",,0,0
 "BURSA 3 X 4 MM",,0,0
 "BURSA 3 X 4 MM, FLESHY",,0,0
 "BURSA 3 X 5 MM",,0,0
@@ -7384,6 +7429,7 @@ Trace.",,0,0
 "BURSA 4 X 3 MM; SKULL 75% OSS.",,0,0
 "BURSA 4 X 4 MM",,0,0
 "BURSA 4 X 4 MM;",,0,0
+"BURSA 4 X 4 MM; FEMALE/IMMATURE ",,0,0
 "BURSA 4 X 4 MM; SKULL 100% OSS.",,0,0
 "BURSA 4 X 4 MM; SKULL 25% OSS.",,0,0
 "BURSA 4 X 4 MM; SKULL 25% PNEUM.",,0,0
@@ -7412,6 +7458,7 @@ Trace.",,0,0
 "BURSA 5 X 3 MM; SKULL 5% OSS.",,0,0
 "BURSA 5 X 3 MM; SKULL 95% OSS.",,0,0
 "BURSA 5 X 4 MM",,0,0
+"BURSA 5 X 4 MM [?]; SKULL 25 % O",,0,0
 "BURSA 5 X 4 MM;",,0,0
 "BURSA 5 X 4 MM; SKULL 0% OSS.",,0,0
 "BURSA 5 X 4 MM; SKULL 10% OSS.",,0,0
@@ -7419,6 +7466,7 @@ Trace.",,0,0
 "BURSA 5 X 4 MM; SKULL 75% OSS.",,0,0
 "BURSA 5 X 4 MM; SKULL 90% OSS.",,0,0
 "BURSA 5 X 5 MM",,0,0
+"BURSA 5 X 5 MM [?-AWK]",,0,0
 "BURSA 5 X 5 MM, SKULL 15% OSS.",,0,0
 "BURSA 5 X 5 MM, SKULL 20% PNEUM",,0,0
 "BURSA 5 X 5 MM; SKULL 100% OSS.",,0,0
@@ -7432,6 +7480,7 @@ Trace.",,0,0
 "BURSA 5 X 7 MM;",,0,0
 "BURSA 5 X 7 MM; SKULL 100% OSS.",,0,0
 "BURSA 5 X 9 MM;",,0,0
+"BURSA 54 X 3 MM",,0,0
 "BURSA 6 MM DIAM, 5 MM LONG, SKUL",,0,0
 "BURSA 6 MM WIDE AT BASE, 10 MM L",,0,0
 "BURSA 6 MM WIDE AT BASE, 12 MM L",,0,0
@@ -7447,7 +7496,10 @@ Trace.",,0,0
 "BURSA 6 X 3 MM; SKULL 5 % PNEUM",,0,0
 "BURSA 6 X 4 MM",,0,0
 "BURSA 6 X 4 MM;",,0,0
+"BURSA 6 X 4 MM; SKULL 10% OSS.",,0,0
+"BURSA 6 X 4 MM; SKULL 25% OSS.",,0,0
 "BURSA 6 X 4 MM; SKULL 5% OSS.",,0,0
+"BURSA 6 X 4 MM; SKULL 75 % OSS.",,0,0
 "BURSA 6 X 4 MM; SKULL 90% OSS.",,0,0
 "BURSA 6 X 5 MM",,0,0
 "BURSA 6 X 5 MM;",,0,0
@@ -7467,12 +7519,14 @@ Trace.",,0,0
 "BURSA 7 X 2 MM; SKULL 0% OSS.",,0,0
 "BURSA 7 X 3 MM",,0,0
 "BURSA 7 X 3 MM;",,0,0
+"BURSA 7 X 3 MM; SKULL 100% OSS.",,0,0
 "BURSA 7 X 3 MM; SKULL 60% PNEUM",,0,0
 "BURSA 7 X 4 MM",,0,0
 "BURSA 7 X 4 MM, SKULL 5% PNEUM; ",,0,0
 "BURSA 7 X 4 MM;",,0,0
 "BURSA 7 X 4 MM; SKULL 100% OSS.",,0,0
 "BURSA 7 X 5 MM",,0,0
+"BURSA 7 X 5 MM (CHECKED  BY AWK)",,0,0
 "BURSA 7 X 5 MM; SKULL 20% OSS.",,0,0
 "BURSA 7 X 6 MM",,0,0
 "BURSA 7 X 6 MM;",,0,0
@@ -7520,6 +7574,7 @@ Trace.",,0,0
 "BURSA 8 X 8 MM; STOMACH GRIT",,0,0
 "BURSA 8 X 9 MM",,0,0
 "BURSA 8 X 9 MM;",,0,0
+"BURSA 9 MM",,0,0
 "BURSA 9 MM LONG, 8 MM WIDE AT BA",,0,0
 "BURSA 9 X 10 MM",,0,0
 "BURSA 9 X 14 MM",,0,0
@@ -7568,6 +7623,7 @@ Trace.",,0,0
 "BURSA FLESHY, 12 X 10 MM;",,0,0
 "BURSA FLESHY, 12 X 7 MM",,0,0
 "BURSA FLESHY, 13 X 13 MM",,0,0
+"BURSA FLESHY, 16 X 14 MM",,0,0
 "BURSA FLESHY, 19 X 18 MM;",,0,0
 "BURSA FLESHY, 2 X 2 MM",,0,0
 "BURSA FLESHY, 2 X 2 MM; SKULL 10",,0,0
@@ -7586,7 +7642,10 @@ Trace.",,0,0
 "BURSA INDISTINCT, CA 10 MM DIAM,",,0,0
 "BURSA INDISTINCT, CA. 9 MM DIAM,",,0,0
 "BURSA INDISTINCT; SKULL CA 50% O",,0,0
+"BURSA MISSING; PROBABLY ASY BY P",,0,0
 "BURSA NECROPSIED",,0,0
+"BURSA NOT FOIND",,0,0
+"BURSA NOT FOND",,0,0
 "BURSA NOT FOUND",,0,0
 "BURSA NOT FOUND (DAMAGED BY SHOT",,0,0
 "BURSA NOT FOUND (INTESTINAL TUMO",,0,0
@@ -7600,16 +7659,23 @@ Trace.",,0,0
 "BURSA NOT FOUND; ADULT BAISC PLU",,0,0
 "BURSA NOT FOUND; ADULT MALE PLUM",,0,0
 "BURSA NOT FOUND; ADULT PLUMAGE",,0,0
+"BURSA NOT FOUND; AHY BY PLUMAGE",,0,0
 "BURSA NOT FOUND; BASIC/IMMATURE ",,0,0
+"BURSA NOT FOUND; HY PLUMAGE",,0,0
+"BURSA NOT FOUND; JUV PLUAMGE",,0,0
+"BURSA NOT FOUND; JUVENILE PLUMAG",,0,0
+"BURSA NOT FOUND; SKULL -% OSS.",,0,0
 "BURSA NOT FOUND; SKULL 0% OSS.",,0,0
 "BURSA NOT FOUND; SKULL 1% OSS",,0,0
 "BURSA NOT FOUND; SKULL 1% OSS.",,0,0
 "BURSA NOT FOUND; SKULL 10% OSS",,0,0
 "BURSA NOT FOUND; SKULL 10% OSS.",,0,0
+"BURSA NOT FOUND; SKULL 10% OSS/",,0,0
 "BURSA NOT FOUND; SKULL 100 % OSS",,0,0
 "BURSA NOT FOUND; SKULL 100% OSS.",,0,0
 "BURSA NOT FOUND; SKULL 100% PNEU",,0,0
 "BURSA NOT FOUND; SKULL 15% PNEUM",,0,0
+"BURSA NOT FOUND; SKULL 20% OSS.",,0,0
 "BURSA NOT FOUND; SKULL 25 % OSS.",,0,0
 "BURSA NOT FOUND; SKULL 25% OSS",,0,0
 "BURSA NOT FOUND; SKULL 25% OSS.",,0,0
@@ -7630,15 +7696,19 @@ Trace.",,0,0
 "BURSA NOT FOUND; SKULL 95 % OSS.",,0,0
 "BURSA NOT FOUND; SKULL 95% OSS.",,0,0
 "BURSA NOT FOUND; SKULL CA 75% OS",,0,0
+"BURSA NOT FOUND; SKULL DAMAGED",,0,0
 "BURSA NOT FOUND; SKULL DESTROYED",,0,0
 "BURSA NOT FOUND; SUBADULT PLUMAG",,0,0
+"BURSA NOT FOUND; SY?",,0,0
 "BURSA NOT FOUND;SKULL 100% OSS.",,0,0
+"BURSA NOT FOUNSD; SKULL 10% OSS.",,0,0
 "BURSA NOUT FOUND; SKULL OSS.?",,0,0
 "BURSA NTO FOUND",,0,0
 "BURSA NTO FOUND, IMM. BY PLUMAGE",,0,0
 "BURSA NTO FOUND; SKULL 10% OSS.",,0,0
 "BURSA NTO FOUND; SKULL 100% OSS.",,0,0
 "BURSA NTO FOUND; SKULL 25 % OSS.",,0,0
+"BURSA NTO FOUND; SKULL 5% OSS.",,0,0
 "BURSA ROTTED",,0,0
 "BURSA SMALL, SKULL 10% PNEUM",,0,0
 "BURSA THIN, 8 X 8 MM",,0,0
@@ -7647,6 +7717,7 @@ Trace.",,0,0
 "BURSA VAGUE, 5 X 3 MM; SKULL CA ",,0,0
 "BURSA WHITE;",,0,0
 "BURSA.",,0,0
+"BURSA12 X 6 MM",,0,0
 "BURSANOT FOUND",,0,0
 "BURSANOT FOUND; SKULL 100% OSS.",,0,0
 "c",,0,0
@@ -7770,6 +7841,7 @@ Trace.",,0,0
 "chick forming",,0,0
 "chick hatched; shells saved",,0,0
 "Chick Juv.",,0,0
+"CHICK MOLTING INTO FIRST BASIC; ",,0,0
 "Chick one day old",,0,0
 "Chick pipping (large blowhole)",,0,0
 "Chick ready to hatch",,0,0
@@ -8027,6 +8099,7 @@ Trace.",,0,0
 "cracked--no development",,0,0
 "craneo duro",,0,0
 "Crushed",,0,0
+"Crushed and depredated",,0,0
 "Crushed in nest",,0,0
 "Crushed; failed egg",,0,0
 "CTO:14.5.; age by plumage",,0,0
@@ -8086,6 +8159,7 @@ Trace.",,0,0
 "Decomposing small embryos",,0,0
 "definitely adult male",,0,0
 "Definitive Adult",,0,0
+"DEFINITIVE ADULT BASIC; NO BURSA",,0,0
 "DEFINITIVE ADULT MALE PLUMAGE; N",,0,0
 "DEFINITIVE BASIC PLUMAGE; NO BUR",,0,0
 "DEFINITIVE PLUMAGE",,0,0
@@ -8940,6 +9014,7 @@ Trace.",,0,0
 "Failed.",,0,0
 "Failed. Fragments + whole egg",,0,0
 "Failed. Infertile/early death",,0,0
+"failed/depredated",,0,0
 "Failed: 1- 2 day old dead young ",,0,0
 "Failed: 1- 2 day old dead young + 4 eggs (2 with e",,0,0
 "Failed; addled egg collected",,0,0
@@ -9157,7 +9232,11 @@ Trace.",,0,0
 "Fledg.",,0,0
 "fledged",,0,0
 "Fledged 1 Young",,0,0
+"fledged 2 or 3 young",,0,0
+"fledged 2 young",,0,0
+"fledged 2 young, another dead in",,0,0
 "Fledged 2 young.",,0,0
+"fledged 3 young",,0,0
 "Fledged 4 young",,0,0
 "Fledged at least 1 young",,0,0
 "Fledged at least 1 young.",,0,0
@@ -9181,12 +9260,15 @@ Trace.",,0,0
 "FLEDGLING; BURSA 10 X 8 MM; SKUL",,0,0
 "FLEDGLING; BURSA 11 X 5 MM",,0,0
 "FLEDGLING; BURSA 12 X 10 MM",,0,0
+"FLEDGLING; BURSA 12 X 7 MM",,0,0
 "FLEDGLING; BURSA 13 X 13 MM",,0,0
 "FLEDGLING; BURSA 14 X 10 MM",,0,0
+"FLEDGLING; BURSA 14 X 6 MM",,0,0
 "FLEDGLING; BURSA 15 X 10 MM",,0,0
 "FLEDGLING; BURSA 3 X 3 MM",,0,0
 "FLEDGLING; BURSA 3 X 3 MM; SKULL",,0,0
 "FLEDGLING; BURSA 4 X 2 MM",,0,0
+"FLEDGLING; BURSA 4 X 2 MM; SKULL",,0,0
 "FLEDGLING; BURSA 4 X 3 MM",,0,0
 "FLEDGLING; BURSA 4 X 3 MM; SKULL",,0,0
 "FLEDGLING; BURSA 5 X 2 MM",,0,0
@@ -9194,9 +9276,11 @@ Trace.",,0,0
 "FLEDGLING; BURSA 5 X 2 MM; SKULL",,0,0
 "FLEDGLING; BURSA 5 X 3 MM",,0,0
 "FLEDGLING; BURSA 5 X 4 MM; SKULL",,0,0
+"FLEDGLING; BURSA 5 X 5 MM",,0,0
 "FLEDGLING; BURSA 5 X 5 MM; SKULL",,0,0
 "FLEDGLING; BURSA 6 X 3 M",,0,0
 "FLEDGLING; BURSA 6 X 3 MM; SKULL",,0,0
+"FLEDGLING; BURSA 6 X 4 MM",,0,0
 "FLEDGLING; BURSA 6 X 4 MM; SKULL",,0,0
 "FLEDGLING; BURSA 6 X 6 M",,0,0
 "FLEDGLING; BURSA 7 X 4 MM",,0,0
@@ -9214,6 +9298,7 @@ Trace.",,0,0
 "Fledglings left nest 3 days prior",,0,0
 "FLEDLGING; BURSA 8 X 9 MM",,0,0
 "FLEDLING;",,0,0
+"FLEDLING; BURSA NOT FOUND",,0,0
 "Flesh",,0,0
 "FLG",,0,0
 "flycatcher just begun, titmouse ",,0,0
@@ -9240,6 +9325,7 @@ Trace.",,0,0
 "Found abandoned egg on sandy flo",,0,0
 "Found abandoned egg on sandy floor of rear of cave",,0,0
 "Found as c/4 on 8 June",,0,0
+"FOUND BEACH; DIED SAME DAY AT S.",,0,0
 "Found below eyrie on ground",,0,0
 "Found broken in nest",,0,0
 "Found broken in nest.",,0,0
@@ -9921,6 +10007,7 @@ practically immaculate",,0,0
 "Fresh to well incubated",,0,0
 "fresh to well started",,0,0
 "fresh with a little blood",,0,0
+"fresh worthy",,0,0
 "Fresh- yolkless",,0,0
 "fresh
 2 badly broken",,0,0
@@ -10359,6 +10446,7 @@ Sowing blood-1",,0,0
 "HACTHED CA. 1984; WILD BORN (AFR",,0,0
 "HACTHED SAN DEIGO ZOO ON 17 NOV ",,0,0
 "Had 2, 6/3",,0,0
+"had 3 eggs on 15 Apr but abandon",,0,0
 "had been hardset, but become rot",,0,0
 "had began and progressed 2 or 3 ",,0,0
 "had began and progressed 2 or 3 days",,0,0
@@ -10471,6 +10559,7 @@ Sowing blood-1",,0,0
 "HATCHED 20 APRIL 2005",,0,0
 "HATCHED 20 JUNE 2002 AT SAN DIEG",,0,0
 "HATCHED 20 MARCH 1987",,0,0
+"HATCHED 2006;",,0,0
 "HATCHED 22 APRIL 2002 (SAN DIEGO",,0,0
 "HATCHED 24 FEB 1991 (HOUSTON ZOO",,0,0
 "HATCHED 25 JULY 2004",,0,0
@@ -10493,6 +10582,7 @@ Sowing blood-1",,0,0
 "HATCHED 6 JUNE 2000 AT PHOENIX Z",,0,0
 "HATCHED 8 JUNE 1999; BURSA 4 X 4",,0,0
 "Hatched And Addled",,0,0
+"Hatched and crushed",,0,0
 "Hatched at PWRC",,0,0
 "Hatched At Santa Cruz Predatory ",,0,0
 "Hatched At Santa Cruz Predatory Brg",,0,0
@@ -10694,6 +10784,7 @@ Sowing blood-1",,0,0
 "highly advanced; 1 infert.",,0,0
 "highly incubated",,0,0
 "Highly Incubated; 1 Infertile",,0,0
+"HIT WINDOW, FOUND DEAD",,0,0
 "HOLOTYPE",,0,0
 "hor",,0,0
 "hornot",,0,0
@@ -10727,6 +10818,8 @@ Sowing blood-1",,0,0
 "HURSA 5 X 4 MM; SKULL 100% OSS.",,0,0
 "HY","hatch-year",0,1
 "HY (< 7mo)",,0,0
+"HY (BY PLUMAGE) BURSA NOT FOUND",,0,0
+"HY (BY PLUMAGE);  BURSA NOT FOUN",,0,0
 "HY (BY PLUMAGE); BURSA NOT FOUND",,0,0
 "HY (BY PLUMAGE); NO BURSA",,0,0
 "HY (BY PUMAGE); BURSA NOT FOUND",,0,0
@@ -10738,10 +10831,12 @@ Sowing blood-1",,0,0
 "HY ?",,0,0
 "HY [BY PLUMAGE; RECTRICES]; BURS",,0,0
 "HY [BY PLUMAGE]; BURSA NOT FOUND",,0,0
+"HY 9BY PLUMAGE); NO BURSA",,0,0
 "HY bird","hatch-year",0,1
 "HY by bill measurements",,0,0
 "HY by head plumage",,0,0
 "HY by ossification",,0,0
+"HY BY PLUAMGE; BURSA NOT FOUND",,0,0
 "HY by plumage",,0,0
 "HY by skull",,0,0
 "HY juv.",,0,0
@@ -10754,6 +10849,7 @@ Sowing blood-1",,0,0
 "HY/SY; BURSA 22 X 18 MM",,0,0
 "HY/SY; BURSA 7 X 12 MM",,0,0
 "HY/SY?",,0,0
+"HY;",,0,0
 "HY; BUIRSA NOT FOUND",,0,0
 "HY; BURSA 1 X 1 MM",,0,0
 "HY; BURSA 1 X 2 MM; SKULL 0% OSS",,0,0
@@ -10767,44 +10863,65 @@ Sowing blood-1",,0,0
 "HY; BURSA 10 X 8 MM; SKULL 10% O",,0,0
 "HY; BURSA 10 X 8 MM; SKULL 5% OS",,0,0
 "HY; BURSA 10 X 89 MM",,0,0
+"HY; BURSA 10 X 9 MM",,0,0
+"HY; BURSA 11 X 10 MM",,0,0
 "HY; BURSA 11 X 11 MM; SKULL 10% ",,0,0
 "HY; BURSA 11 X 4 MM",,0,0
 "HY; BURSA 11 X 5 MM; SKULL 100% ",,0,0
+"HY; BURSA 11 X 6 MM",,0,0
 "HY; BURSA 11 X 6 MM; SKULL 100% ",,0,0
 "HY; BURSA 11 X 7 MM",,0,0
 "HY; BURSA 11 X 8 MM",,0,0
+"HY; BURSA 11 X 9 MM",,0,0
 "HY; BURSA 11 X 9 MM; SKULL 100% ",,0,0
 "HY; BURSA 12 X 10 MM",,0,0
+"HY; BURSA 12 X 11 MM",,0,0
 "HY; BURSA 12 X 13 MM",,0,0
 "HY; BURSA 12 X 17 MM",,0,0
+"HY; BURSA 12 X 5 MM",,0,0
 "HY; BURSA 12 X 6 MM",,0,0
+"HY; BURSA 12 X 7 MM",,0,0
+"HY; BURSA 12 X 8 MM",,0,0
 "HY; BURSA 12 X 9 MM",,0,0
 "HY; BURSA 13 X 11 MM",,0,0
+"HY; BURSA 13 X 12 MM",,0,0
+"HY; BURSA 13 X 13 MM",,0,0
 "HY; BURSA 13 X 5 MM; SKULL 100% ",,0,0
 "HY; BURSA 13 X 5 MM; SKULL 75% O",,0,0
 "HY; BURSA 13 X 8 MM",,0,0
 "HY; BURSA 13 X 9 MM",,0,0
 "HY; BURSA 14 X 10 MM",,0,0
+"HY; BURSA 14 X 12 MM",,0,0
 "HY; BURSA 14 X 5 MM",,0,0
 "HY; BURSA 14 X 5 MM; SKULL 60% O",,0,0
 "HY; BURSA 14 X 7 MM",,0,0
 "HY; BURSA 14 X 8 MM",,0,0
+"HY; BURSA 14 X 9 MM",,0,0
 "HY; BURSA 15 X 10 MM",,0,0
+"HY; BURSA 15 X 11 MM",,0,0
 "HY; BURSA 15 X 12 MM",,0,0
 "HY; BURSA 15 X 20 MM",,0,0
 "HY; BURSA 15 X 7 MM",,0,0
 "HY; BURSA 15 X 8 MM",,0,0
+"HY; BURSA 15 X 9 MM",,0,0
+"HY; BURSA 16 X 11 MM",,0,0
+"HY; BURSA 16 X 7 MM",,0,0
+"HY; BURSA 16 X 9 MM",,0,0
 "HY; BURSA 17 X 10 M",,0,0
+"HY; BURSA 17 X 10 MM",,0,0
 "HY; BURSA 17 X 7 MM",,0,0
+"HY; BURSA 17 X 9 MM",,0,0
 "HY; BURSA 18 X 12 MM",,0,0
 "HY; BURSA 18 X 9 MM",,0,0
 "HY; BURSA 18 X 9 MM; SKULL 100% ",,0,0
 "HY; BURSA 19 X 12 MM",,0,0
 "HY; BURSA 19 X 13 MM",,0,0
 "HY; BURSA 19 X 8 MM",,0,0
+"HY; BURSA 2 MM; SKULL 10% OSS.",,0,0
 "HY; BURSA 2 X 1 MM",,0,0
 "HY; BURSA 2 X 1 MM; SKULL 20% OS",,0,0
 "HY; BURSA 2 X 1 MM; SKULL 30% OS",,0,0
+"HY; BURSA 2 X 2 MM",,0,0
 "HY; BURSA 2 X 2 MM;",,0,0
 "HY; BURSA 2 X 2 MM; SKULL 10% OS",,0,0
 "HY; BURSA 2 X 2 MM; SKULL 100% O",,0,0
@@ -10815,8 +10932,10 @@ Sowing blood-1",,0,0
 "HY; BURSA 2 X 2 MM; SKULL 5 % OS",,0,0
 "HY; BURSA 2 X 2 MM; SKULL 5% OSS",,0,0
 "HY; BURSA 2 X 2 MM; SKULL 50% OS",,0,0
+"HY; BURSA 2 X 2 MM; SKULL 65% OS",,0,0
 "HY; BURSA 2 X 2 MM; SKULL 80% OS",,0,0
 "HY; BURSA 2 X 2 MM; SKULL 95% OS",,0,0
+"HY; BURSA 2 X 2MM; SKULL 10% OSS",,0,0
 "HY; BURSA 2 X 8 MM; SKULL 100% O",,0,0
 "HY; BURSA 2.5 X 1 MM; SKULL <10%",,0,0
 "HY; BURSA 2.5 X 2.5 MM",,0,0
@@ -10824,6 +10943,7 @@ Sowing blood-1",,0,0
 "HY; BURSA 20 X 8 MM",,0,0
 "HY; BURSA 21 X 10 MM",,0,0
 "HY; BURSA 22 X 10 MM",,0,0
+"HY; BURSA 22 X 15 MM",,0,0
 "HY; BURSA 22 X 8 MM",,0,0
 "HY; BURSA 23 X 15 MM",,0,0
 "HY; BURSA 23 X 9 MM",,0,0
@@ -10872,12 +10992,14 @@ Sowing blood-1",,0,0
 "HY; BURSA 3 ZX 1 MM; SKULL 5% OS",,0,0
 "HY; BURSA 4 X 1 MM; SKULL 30% OS",,0,0
 "HY; BURSA 4 X 2 MM",,0,0
+"HY; BURSA 4 X 2 MM; SKULL 10% OS",,0,0
 "HY; BURSA 4 X 2 MM; SKULL 100% O",,0,0
 "HY; BURSA 4 X 2 MM; SKULL 40% OS",,0,0
 "HY; BURSA 4 X 2 MM; SKULL 5% OSS",,0,0
 "HY; BURSA 4 X 2 MM; SKULL 50% OS",,0,0
 "HY; BURSA 4 X 2 MM; SKULL 75% OS",,0,0
 "HY; BURSA 4 X 2.5 MM, FLESHY",,0,0
+"HY; BURSA 4 X 2.5 MM; SKULL 5% O",,0,0
 "HY; BURSA 4 X 3 MM",,0,0
 "HY; BURSA 4 X 3 MM (NOT DISTINCT",,0,0
 "HY; BURSA 4 X 3 MM; SKULL 0% OSS",,0,0
@@ -10944,15 +11066,18 @@ Sowing blood-1",,0,0
 "HY; BURSA 6 X 4 MM; SKULL 5% OSS",,0,0
 "HY; BURSA 6 X 5 MM",,0,0
 "HY; BURSA 6 X 5 MM; SKULL 0% OSS",,0,0
+"HY; BURSA 6 X 5 MM; SKULL 10% OS",,0,0
 "HY; BURSA 6 X 5 MM; SKULL 5% OSS",,0,0
 "HY; BURSA 6 X 6 MM",,0,0
 "HY; BURSA 6 X 8 MM",,0,0
 "HY; BURSA 6 X 8 MM, THIN-WALLED",,0,0
 "HY; BURSA 6 X 9 MM",,0,0
 "HY; BURSA 7 X 2 MM",,0,0
+"HY; BURSA 7 X 3 MM",,0,0
 "HY; BURSA 7 X 3 MM; SKULL 100% O",,0,0
 "HY; BURSA 7 X 3 MM; SKULL 20% OS",,0,0
 "HY; BURSA 7 X 3 MM; SKULL 75% OS",,0,0
+"HY; BURSA 7 X 4 MM",,0,0
 "HY; BURSA 7 X 4 MM; SKULL 2% OSS",,0,0
 "HY; BURSA 7 X 5 MM",,0,0
 "HY; BURSA 7 X 5 MM, SKULL 10% OS",,0,0
@@ -10987,10 +11112,12 @@ Sowing blood-1",,0,0
 "HY; BURSA 9 X 6 MM; SKULL 10% OS",,0,0
 "HY; BURSA 9 X 7 MM",,0,0
 "HY; BURSA 9 X 8 MM",,0,0
+"HY; BURSA 9 X 9",,0,0
 "HY; BURSA 9 X 9 MM",,0,0
 "HY; BURSA 9 X 9 MM; SKULL 25% OS",,0,0
 "HY; BURSA DISINTEGRATING (CA. 3 ",,0,0
 "HY; BURSA FLESHY, 15 X 5 MM",,0,0
+"HY; BURSA LL X 7 MM",,0,0
 "HY; BURSA NOT FOUND",,0,0
 "HY; BURSA NOT FOUND (ROTTING); S",,0,0
 "HY; BURSA NOT FOUND; JUV PLUMAGE",,0,0
@@ -11021,6 +11148,7 @@ Sowing blood-1",,0,0
 "HY; SKULL 100% OSS",,0,0
 "HY; SKULL 20% OSS.; BURSA 2 X 2 ",,0,0
 "HY; SKULL 25% OSS.",,0,0
+"HY; SKULL 30% OSS.",,0,0
 "HY; SKULL 5% OSS.",,0,0
 "HY; SKULL 5% OSS; BURSA  6 X 3 M",,0,0
 "HY; SKULL UNOSSIFIED",,0,0
@@ -11218,6 +11346,7 @@ Sowing blood-1",,0,0
 "Immature by plumage","immature",0,1
 "Immature Female","immature",0,1
 "Immature Female ?","immature",0,1
+"IMMATURE FEMALE PLUMAGE; BURSA N",,0,0
 "Immature Male","immature",0,1
 "immature or female",,0,0
 "IMMATURE PLUMAGE",,0,0
@@ -11281,6 +11410,7 @@ Sowing blood-1",,0,0
 "immaturre",,0,0
 "Impacted, infertile",,0,0
 "Imperfect",,0,0
+"IMPORTED TO US IN 2006 FROM NICA",,0,0
 "Impossible",,0,0
 "IN",,0,0
 "in 1 fresh, in 4 well started",,0,0
@@ -11517,6 +11647,7 @@ Sowing blood-1",,0,0
 "Intact, unhatched, fertile egg; feathers, beak, we",,0,0
 "interior consumed by ants",,0,0
 "Intermediate",,0,0
+"Intertile",,0,0
 "Inubated but took because dark c",,0,0
 "Irregula (small to medium embryo",,0,0
 "Irregula (small to medium embryo)",,0,0
@@ -11705,11 +11836,16 @@ Sowing blood-1",,0,0
 "juv by plum.",,0,0
 "juv half grown",,0,0
 "Juv Not ossified","juvenile",0,1
+"JUV PLAUMGE; BURSA NOT FOUND",,0,0
+"JUV PLUMAGE",,0,0
 "JUV PLUMAGE;  BURSA 20 X 15 MM",,0,0
+"JUV PLUMAGE; BURSA 13 X 12 MM",,0,0
 "JUV PLUMAGE; BURSA 7 X 4 MM",,0,0
 "JUV PLUMAGE; BURSA 7 X 5 MM; SKU",,0,0
 "JUV PLUMAGE; BURSA CA 6 MM LONG,",,0,0
 "JUV PLUMAGE; BURSA NOT FOUND",,0,0
+"JUV PLUMAGE; BURSA NOT FOUND; SK",,0,0
+"JUV PLUMAGE; BURSA NTO FOUND",,0,0
 "juv pull.(pull. is underlined)",,0,0
 "Juv SFO","juvenile",0,1
 "Juv SNO","juvenile",0,1
@@ -11765,6 +11901,7 @@ Sowing blood-1",,0,0
 "juv., 2 wks. old",,0,0
 "JUV./SY PLUMAGE; BURSA 11 X 8 MM",,0,0
 "JUV.; BURSA 5 X 6 MM",,0,0
+"JUV.; BURSA 7 X 5 MM",,0,0
 "JUV.; BURSA 7 X 7 MM; SKULL 10% ",,0,0
 "Juv.?",,0,0
 "juv/ subad",,0,0
@@ -11778,13 +11915,17 @@ Sowing blood-1",,0,0
 "juv; 17 Days Old",,0,0
 "juv; 26 Days Old",,0,0
 "JUV; BURSA 10 X 4 MM",,0,0
+"JUV; BURSA 10 X 5 MM",,0,0
 "JUV; BURSA 10 X 6 MM",,0,0
 "JUV; BURSA 10 X 7 MM",,0,0
 "JUV; BURSA 11 X 8 MM; SKULL 5% O",,0,0
 "JUV; BURSA 11 X 8.5 MM; SKULL 0%",,0,0
 "JUV; BURSA 12 X 10 MM",,0,0
+"JUV; BURSA 12 X 7 MM`",,0,0
+"JUV; BURSA 12 X 9 MM",,0,0
 "JUV; BURSA 14 X 9 MM",,0,0
 "JUV; BURSA 15 X 10 MM",,0,0
+"JUV; BURSA 15 X 15 MM",,0,0
 "JUV; BURSA 16 X 15 MM",,0,0
 "JUV; BURSA 16 X 9 MM",,0,0
 "JUV; BURSA 18  X 14 MM",,0,0
@@ -11792,6 +11933,7 @@ Sowing blood-1",,0,0
 "JUV; BURSA 2 X 2 MM; SKULL 25% O",,0,0
 "JUV; BURSA 3 X 3 MM; SKULL 5% OS",,0,0
 "JUV; BURSA 4 X 2 MM",,0,0
+"JUV; BURSA 4 X 3 MM",,0,0
 "JUV; BURSA 4 X 3 MM, SKULL 10% O",,0,0
 "JUV; BURSA 5  X 3 MM; SKULL 5% O",,0,0
 "JUV; BURSA 5  X 4 MM; SKULL 25% ",,0,0
@@ -11799,15 +11941,20 @@ Sowing blood-1",,0,0
 "JUV; BURSA 5 X 4 MM",,0,0
 "JUV; BURSA 5 X 4 MM; SKULL 0% OS",,0,0
 "JUV; BURSA 5 X 4 MM; SKULL 100% ",,0,0
+"JUV; BURSA 5 X 5 MM",,0,0
 "JUV; BURSA 5 X 5 MM; SKULL 10% O",,0,0
 "JUV; BURSA 5 X 7 MM; SKULL 10% O",,0,0
 "JUV; BURSA 6 X 5 MM",,0,0
 "JUV; BURSA 6 X 5 MM; SKULL 25% O",,0,0
 "JUV; BURSA 6 X 6 MM",,0,0
+"JUV; BURSA 7 X 4 MM",,0,0
 "JUV; BURSA 7 X 6 MM",,0,0
+"JUV; BURSA 8 X 6 MM",,0,0
 "JUV; BURSA 8 X 7 MM; SKULL 60% O",,0,0
+"JUV; BURSA 8 X 8 MM",,0,0
 "JUV; BURSA 9 X 7 MM",,0,0
 "JUV; BURSA 9 X 9 MM; SKULL 65% O",,0,0
+"JUV; BURSA CA. 7 X 7 MM; SKULL 0",,0,0
 "JUV; BURSA NOT FOUND",,0,0
 "JUV; BURSA NOT FOUND; SKULL 35% ",,0,0
 "JUV; BURSA THIN-WALLED, 5 X 8 MM",,0,0
@@ -11851,6 +11998,7 @@ Sowing blood-1",,0,0
 "juvenile (7 weeks)",,0,0
 "juvenile (9 days)",,0,0
 "juvenile (by plumage)","juvenile",0,1
+"JUVENILE (BY PLUMAGE); BURSA NOT",,0,0
 "juvenile (fledgeling)",,0,0
 "juvenile (fledgling)","juvenile",0,1
 "juvenile (flegling)",,0,0
@@ -11955,6 +12103,8 @@ Sowing blood-1",,0,0
 "juvenile hatchling",,0,0
 "JUVENILE MALE","juvenile",0,1
 "Juvenile Male (?)","juvenile",0,1
+"JUVENILE PLUMAGE",,0,0
+"JUVENILE PLUMAGE; BURSA NOT FOUN",,0,0
 "juvenile specimen",,0,0
 "JUVENILE W/EGG CASE",,0,0
 "juvenile(s)",,0,0
@@ -12793,6 +12943,7 @@ Sowing blood-1",,0,0
 "large embryos to hatching",,0,0
 "Large embryos with feathers",,0,0
 "Large Embryos(2) And Fresh(1)",,0,0
+"large embryos, 1 young",,0,0
 "Large embryos, Infertile",,0,0
 "Large embryos, some more advance",,0,0
 "Large embryos, some more advanced than others",,0,0
@@ -13107,6 +13258,7 @@ Infertile-1",,0,0
 "Moderate embryos (caustic)",,0,0
 "moderate embryos (some caustic)",,0,0
 "Moderate embryos, 1 fresh",,0,0
+"MODERATE FAT",,0,0
 "moderate incubation",,0,0
 "Moderate sized embryos",,0,0
 "moderate to advanced",,0,0
@@ -13306,6 +13458,7 @@ Infertile-1",,0,0
 "nest held 5 eggs yesterday",,0,0
 "Nest held 5 eggs-2 of the eggs w",,0,0
 "Nest held 5 eggs-2 of the eggs were pipped and sta",,0,0
+"nest never used",,0,0
 "Nest Only",,0,0
 "Nest Only, Not Used",,0,0
 "Nest produced one male and one f",,0,0
@@ -13357,6 +13510,8 @@ Infertile-1",,0,0
 "NESTLING; BURSA 5 X 4 MM; SKULL ",,0,0
 "NESTLING; BURSA 5 X 7 MM; SKULL ",,0,0
 "NESTLING; BURSA 6 X 3 MM; SKULL ",,0,0
+"NESTLING; BURSA 7 X 6 MM",,0,0
+"NESTLING; BURSA CA. 6 X 3 MM",,0,0
 "NESTLING; BURSA NOT FOUND",,0,0
 "Nestling; skull not oss.",,0,0
 "nestlings","nestling",0,1
@@ -13398,6 +13553,8 @@ Infertile-1",,0,0
 "No blood",,0,0
 "No blood or embryo",,0,0
 "no blood showing",,0,0
+"NO BRUSA",,0,0
+"NO BUERSA; SKULL 5% OSS.",,0,0
 "NO BUIRSA; SKULL 100% OSS.",,0,0
 "NO BURA FOUND; SKULL 80% OSS.",,0,0
 "no bursa","no bursa",0,1
@@ -13406,6 +13563,7 @@ Infertile-1",,0,0
 "NO BURSA ; SKULL 100 % OSS.",,0,0
 "NO BURSA ; SKULL 100% OSS",,0,0
 "NO BURSA ; SKULL 100% OSS.",,0,0
+"NO BURSA [HY BY PLUMAGE, AWK 201",,0,0
 "NO BURSA FOUND",,0,0
 "NO BURSA FOUND, SKULL 100% PNEUM",,0,0
 "NO BURSA FOUND, SKULL 40% PNEUM",,0,0
@@ -13441,19 +13599,24 @@ Infertile-1",,0,0
 "NO BURSA; 3Y?",,0,0
 "NO BURSA; ADULT ""BLUE GOOSE""",,0,0
 "NO BURSA; ADULT ALTERNATE PLUMAG",,0,0
+"NO BURSA; ADULT MALE PLUAMGE",,0,0
 "NO BURSA; ADULT MALE PLUMAGE",,0,0
 "NO BURSA; ADULT PLUMAGE",,0,0
 "NO BURSA; ASY PLUMAGE",,0,0
 "NO BURSA; BASIC PLUIMAGE",,0,0
+"NO BURSA; BREEDING PLUMES",,0,0
 "NO BURSA; DEFINITIVE PLUMAGE",,0,0
 "NO BURSA; HEN-PLUMAGE",,0,0
 "NO BURSA; HY/SY PLUMAGE",,0,0
 "NO BURSA; KSULL 100% OSS.",,0,0
 "NO BURSA; KSULL25% OSS.",,0,0
+"NO BURSA; PRE-ALTERNATE PLUAMGE ",,0,0
 "NO BURSA; SKUILL 100% OSS.",,0,0
 "NO BURSA; SKULL !00% OSS.",,0,0
 "NO BURSA; SKULL 0 % OSS.",,0,0
 "NO BURSA; SKULL 0% OSS.",,0,0
+"NO BURSA; SKULL 0% OSS[?]",,0,0
+"NO BURSA; SKULL 10% OSS",,0,0
 "NO BURSA; SKULL 10% OSS [?]",,0,0
 "NO BURSA; SKULL 10% OSS.",,0,0
 "NO BURSA; SKULL 100 % OSS.",,0,0
@@ -13474,6 +13637,7 @@ Infertile-1",,0,0
 "NO BURSA; SKULL 25 % OSS.",,0,0
 "NO BURSA; SKULL 25% OSS",,0,0
 "NO BURSA; SKULL 25% OSS.",,0,0
+"NO BURSA; SKULL 25% OSS.; SY BY ",,0,0
 "NO BURSA; SKULL 30% OSS.",,0,0
 "NO BURSA; SKULL 35% OSS.",,0,0
 "NO BURSA; SKULL 40% OSS.",,0,0
@@ -13499,13 +13663,18 @@ Infertile-1",,0,0
 "NO BURSA; SKULL CA 50% PNEUM",,0,0
 "NO BURSA; SKULL CA 75% PNEUM",,0,0
 "NO BURSA; SKULL CA. 50% PNEUM",,0,0
+"NO BURSA; SKULL DAMAGED",,0,0
 "NO BURSA; SKULL DESTROYED",,0,0
 "NO BURSA; SKULL DESTROYED BY SHO",,0,0
 "NO BURSA; SKULL PNEUM APPEARS CO",,0,0
+"NO BURSA; SKULL SHOT",,0,0
 "NO BURSA; SKULL100% OSS,",,0,0
 "NO BURSA; SKULLM 100% OSS.",,0,0
 "NO BURSA; STREAKED BROWN PLUMAGE",,0,0
 "NO BURSA; SY (BY PLUMAGE- FEW IR",,0,0
+"NO BURSA;S KULL 100% OSS.",,0,0
+"NO BURSAA",,0,0
+"NO BURSAS",,0,0
 "NO BURSS",,0,0
 "NO BURSSA",,0,0
 "No chicks (1 egg crushed and mol",,0,0
@@ -13609,6 +13778,7 @@ Infertile-1",,0,0
 "No trace in any",,0,0
 "no trace of incubation",,0,0
 "No trecorded",,0,0
+"NO URSA",,0,0
 "NO URSA; SKULL 100% OSS.",,0,0
 "no yolk",,0,0
 "no yolk in runt, 3 almost fresh",,0,0
@@ -13789,6 +13959,7 @@ Infertile-1",,0,0
 "nulle",,0,0
 "nulle (egg cold)",,0,0
 "NURSA 6 X 4 MM",,0,0
+"NURSA NOT FOUND",,0,0
 "nursing pup",,0,0
 "NY",,0,0
 "Nymph",,0,0
@@ -14520,6 +14691,7 @@ fresh",,0,0
 "sad",,0,0
 "S-Ad.",,0,0
 "Said to be fresh",,0,0
+"Same",,0,0
 "Same in all; well advanced",,0,0
 "same number June 23",,0,0
 "Samll embryo",,0,0
@@ -14632,6 +14804,7 @@ fresh",,0,0
 "shaping embryos",,0,0
 "Shell fragments",,0,0
 "Shell Frags-successful Hatch",,0,0
+"shell from hatched egg",,0,0
 "shell of hatched egg",,0,0
 "showed red",,0,0
 "Showing",,0,0
@@ -14780,6 +14953,7 @@ small embryos",,0,0
 "SKULL 0% OSS; BURSA FLESHY, 6 X ",,0,0
 "SKULL 0% OSS; BURSA NOT FOUND;",,0,0
 "SKULL 0% OSS; NO BURSA",,0,0
+"SKULL 1% OSS.; NO BURSA",,0,0
 "Skull 1/2 oss",,0,0
 "skull 1/2 ossified",,0,0
 "Skull 1/3 ossified",,0,0
@@ -14883,7 +15057,9 @@ small embryos",,0,0
 "SKULL 10O% OSS; NO BURSA",,0,0
 "skull 15 % ossified",,0,0
 "skull 15% ossified",,0,0
+"SKULL 20% OSS.",,0,0
 "skull 20% ossified",,0,0
+"SKULL 25 % OSS.; BURSA 3 X 2 MM",,0,0
 "SKULL 25 % OSS; BURSA 11 X 5 MM;",,0,0
 "SKULL 25 % OSS; BURSA 4 X 3 MM;",,0,0
 "SKULL 25 % OSS; BURSA NOT FOUND;",,0,0
@@ -14895,6 +15071,7 @@ small embryos",,0,0
 "SKULL 25% OSS.",,0,0
 "SKULL 25% OSS.; BURSA 2 X 4 MM",,0,0
 "SKULL 25% OSS.; BURSA 4 X 3 MM",,0,0
+"SKULL 25% OSS.; BURSA 7 X 5 MM",,0,0
 "SKULL 25% OSS.; BURSA""NO HALLADA",,0,0
 "SKULL 25% OSS; BURSA 10 X 6 MM;",,0,0
 "SKULL 25% OSS; BURSA 10 X 8 MM;",,0,0
@@ -14938,6 +15115,7 @@ small embryos",,0,0
 "SKULL 5 % OSS; BURSA 6 X 4 MM;",,0,0
 "SKULL 5 % OSS; NO BURSA",,0,0
 "Skull 5% oss",,0,0
+"SKULL 5% OSS.; NO BURSA",,0,0
 "SKULL 5% OSS; BURSA 1 X 1 MM;",,0,0
 "SKULL 5% OSS; BURSA 10 X 3 MM;",,0,0
 "SKULL 5% OSS; BURSA 16 X 6 MM;",,0,0
@@ -14965,6 +15143,7 @@ small embryos",,0,0
 "Skull 50%",,0,0
 "Skull 50% oss",,0,0
 "SKULL 50% OSS.",,0,0
+"SKULL 50% OSS.; BURSA 2 X 1 MM",,0,0
 "SKULL 50% OSS; BURSA  NOT FOUND;",,0,0
 "SKULL 50% OSS; BURSA 1 X 1 MM;",,0,0
 "SKULL 50% OSS; BURSA 1.5 X 1.5 M",,0,0
@@ -14999,6 +15178,7 @@ small embryos",,0,0
 "Skull 5o% oss",,0,0
 "SKULL 60% OSS",,0,0
 "SKULL 60% OSS.",,0,0
+"SKULL 60% OSS.; BIRSA 5 X 4 MM",,0,0
 "SKULL 60% OSS; BURSA FLESHY, 5 X",,0,0
 "SKULL 60% OSS; NO BURSA",,0,0
 "skull 60% ossified",,0,0
@@ -15006,6 +15186,7 @@ small embryos",,0,0
 "Skull 65% ossified",,0,0
 "Skull 70 % ossified",,0,0
 "Skull 70% oss",,0,0
+"SKULL 70% OSS.; BURSA NOT FOUND",,0,0
 "skull 70% ossified",,0,0
 "Skull 70% ossified.",,0,0
 "Skull 70% pneumatized",,0,0
@@ -15035,6 +15216,7 @@ small embryos",,0,0
 "skull 75% ossified",,0,0
 "Skull 80% oss",,0,0
 "SKULL 80% OSS.",,0,0
+"SKULL 80% OSS.; BIRSA NOT FOUND",,0,0
 "SKULL 80% OSS.; BURSA NOT FOUND",,0,0
 "SKULL 80% OSS; BURSA NOT FOUND;",,0,0
 "SKULL 80% OSS; NO BURSA",,0,0
@@ -15047,6 +15229,7 @@ small embryos",,0,0
 "Skull 90 % ossified",,0,0
 "Skull 90% oss",,0,0
 "SKULL 90% OSS.",,0,0
+"SKULL 90% OSS.; BURSA NOT FOUND",,0,0
 "SKULL 90% OSS.; NO BURSA",,0,0
 "SKULL 90% OSS; BURSA 10 X 8 MM;",,0,0
 "SKULL 90% OSS; BURSA 2 X 1 MM;",,0,0
@@ -15261,10 +15444,12 @@ small embryos",,0,0
 "SKULL>90% OSS; BURSA 2 X 1 MM;",,0,0
 "Skull100% oss",,0,0
 "SKULL100% OSS; NO BURSA",,0,0
+"SKULL90% OSS.; NO BURSA",,0,0
 "SKULL-FULLY PNEUM",,0,0
 "Skulll 100% oss",,0,0
 "SKULLL OSS",,0,0
 "Skulll ossified",,0,0
+"SKUYLL SHOT; BURSA NOT FOUND",,0,0
 "sl","juvenile",0,1
 "Sl.",,0,0
 "slag",,0,0
@@ -16028,6 +16213,7 @@ Started",,0,0
 "sub ad",,0,0
 "sub ad.",,0,0
 "sub adult",,0,0
+"SUB ADULT [SY?] ; NO BURSA",,0,0
 "Sub Adult?","subadult",0,1
 "sub(?)adult",,0,0
 "sub.",,0,0
@@ -16139,6 +16325,7 @@ Started",,0,0
 "SY; BURSA 12 X 10 MM",,0,0
 "SY; BURSA 12 X 9 MM",,0,0
 "SY; BURSA 13 X 10 MM, X 3 MM HIG",,0,0
+"SY; BURSA 13 X 5 MM",,0,0
 "SY; BURSA 13 X 8 MM",,0,0
 "SY; BURSA 14 X 11 MM",,0,0
 "SY; BURSA 14 X 8 MM",,0,0
@@ -16150,6 +16337,7 @@ Started",,0,0
 "SY; BURSA 3 X 2 MM",,0,0
 "SY; BURSA 3 X 3 MM",,0,0
 "SY; BURSA 3 X 4 MM; SKULL 100% O",,0,0
+"SY; BURSA 4 X 4 MM",,0,0
 "SY; BURSA 5 X 10 MM; SKULL 100% ",,0,0
 "SY; BURSA 5 X 5 MM",,0,0
 "SY; BURSA 6 X 5 MM; SKULL 100% O",,0,0
@@ -16161,10 +16349,13 @@ Started",,0,0
 "SY; BURSA 8 X 6 MM",,0,0
 "SY; BURSA 8 X 7 MM",,0,0
 "SY; BURSA 8 X 8 MM",,0,0
+"SY; BURSA 9 X 6 MM",,0,0
+"SY; BURSA NOT FOUND",,0,0
 "SY; BURSA NOT FOUND; SKULL 100% ",,0,0
 "SY; NO BURSA",,0,0
 "SY; NO BURSA;",,0,0
 "SY; NO BURSA; SKULL 100% OSS.",,0,0
+"SY; SKULL 100% OSS.; BURSA NOT F",,0,0
 "SY?",,0,0
 "SY? BURSA 17 X 10 MM",,0,0
 "SY? BURSA 7 X 5 MM",,0,0
@@ -16200,6 +16391,7 @@ Started",,0,0
 "Tern 1/4; Grebe 1/4",,0,0
 "Tested fresh",,0,0
 "Tested fresh, but they lied.",,0,0
+"TESTES BLACK, 2 X 1 MM",,0,0
 "Th",,0,0
 "The egg was dented when picked u",,0,0
 "The egg was dented when picked up and appently con",,0,0
@@ -16212,9 +16404,11 @@ Started",,0,0
 "the yolks almost filled with blo",,0,0
 "Thick (nest deserted)",,0,0
 "Thick, bloody yolks",,0,0
+"thin-shelled eggs, hatched and d",,0,0
 "third",,0,0
 "Third clutch; no development, pr",,0,0
 "Third clutch; no development, probably infertile o",,0,0
+"THIRD CYCLE",,0,0
 "Third summer",,0,0
 "Third winter",,0,0
 "THIRD YEAR","third year",1,1
@@ -16921,6 +17115,8 @@ Started",,0,0
 "Very well incubated",,0,0
 "Very young",,0,0
 "Very young *",,0,0
+"viable embryo",,0,0
+"viable embryo; 1/3 developed",,0,0
 "Vide embryos (?)",,0,0
 "Vireos about 1/2; Cowbirds ready",,0,0
 "Virtually nil",,0,0

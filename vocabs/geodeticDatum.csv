@@ -1,5 +1,6 @@
 "geodeticDatum","standardGeodeticDatum","standard","checked"
 "'",,0,1
+" WGS84","WGS84",0,1
 "
 WGS84",,0,1
 """International spheroid""","International 1924 ellipsoid",0,1
@@ -17,6 +18,8 @@ WGS84",,0,1
 "1962 American Samoa","1962 American Samoa",0,1
 "2",,0,1
 "22.211654",,0,1
+"2267.192",,0,1
+"3635.192",,0,1
 "42.356157",,0,1
 "76.137987",,0,1
 "Adams",,0,1
