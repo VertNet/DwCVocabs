@@ -20419,10 +20419,17 @@ R PERIPHERALS 2 - 3.",,0,0
 "FEATHERS | tissue",,0,0
 "Feathers and skeletal part(s)",,0,0
 "Feathers only",,0,0
+"feathers, feathers",,0,0
+"feathers, skel",,0,0
 "feathers, skeleton","feathers | skeleton",0,1
+"feathers, skin",,0,0
 "feathers, tail, wing","feathers | tail | wing",0,1
 "FEATHERS, tissue","feathers | tissue",0,1
+"feathers, tissue, skel, wing",,0,0
 "feathers, wing","feathers | wing",0,1
+"feathers, wing, skel",,0,0
+"feathers, wing, skel, tissue",,0,0
+"feathers, wing, tissue, skel",,0,0
 "FEATHERS/SKELETON","feathers | skin",0,1
 "feathers/wing",,0,0
 "feathers/wing, tissue",,0,0
@@ -47081,6 +47088,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel, Exch; Flat_skin, Y",,0,0
 "Skel, Exch; Skin, Y; Wings_tail, Y",,0,0
 "Skel, Exch; Wings_tail, Y",,0,0
+"skel, feathers",,0,0
+"skel, feathers, tissue",,0,0
+"skel, feathers, tissue, wing",,0,0
+"skel, feathers, wing, tissue",,0,0
 "Skel, fish in crop saved (SMG 397)",,0,0
 "Skel, fish in crop saved (SMG 397), Y",,0,0
 "Skel, food remains from digestive tract saved",,0,0
@@ -47158,8 +47169,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel, sexed, Y",,0,0
 "Skel, skeleton of a specimen preserved in formalin",,0,0
 "Skel, skeleton of a specimen preserved in formalin, Y",,0,0
+"skel, skin",,0,0
+"skel, skin, tissue",,0,0
 "Skel, skull cleaned with Biz",,0,0
 "Skel, skull cleaned with Biz, Y",,0,0
+"skel, slide",,0,0
 "Skel, some [beetles from stomach] saved",,0,0
 "Skel, some [beetles from stomach] saved, Y",,0,0
 "Skel, specimen boiled in water",,0,0
@@ -47203,6 +47217,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel, tissue T-742; Tissue, tissue T-742; Flat_skin, tissue T-742",,0,0
 "Skel, tissue T-744; Tissue, tissue T-744; Syrinx, tissue T-744; Flat_skin, tissue T-744",,0,0
 "Skel, tissue T-745; Tissue, tissue T-745; Syrinx, tissue T-745; Flat_skin, tissue T-745",,0,0
+"skel, tissue, feathers",,0,0
+"skel, tissue, feathers, wing",,0,0
+"skel, tissue, wing",,0,0
 "Skel, toe bones mounted on cardboard",,0,0
 "Skel, toe bones mounted on cardboard, Y",,0,0
 "Skel, U",,0,0
@@ -47215,9 +47232,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel, viscera examined for parasites; stomach and contents preserved separately, Y",,0,0
 "Skel, was prepared with dermestids, water for several months, and hydrogen peroxide for 2 h; too harsh a treatment",,0,0
 "Skel, was prepared with dermestids, water for several months, and hydrogen peroxide for 2 h; too harsh a treatment, Y",,0,0
+"skel, wing",,0,0
 "skel, wing and tail","skeleton | tail | wing",0,1
 "Skel, wing saved",,0,0
 "Skel, wing saved, Y",,0,0
+"skel, wing, feathers",,0,0
+"skel, wing, feathers, tissue",,0,0
+"skel, wing, tissue",,0,0
+"skel, wing, tissue, feathers",,0,0
 "Skel, Wing's first skeleton",,0,0
 "Skel, Wing's first skeleton, Y",,0,0
 "Skel, Y",,0,0
@@ -52545,6 +52567,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Feather samples, Fluid, Feather samples, Fluid",,0,0
 "Skin, Feather samples, Toe pad sample, Feather samples, Toe pad sample",,0,0
 "Skin, Feather samples, Toe pad sample, Toe pad sample, Feather samples",,0,0
+"skin, feathers",,0,0
 "Skin, Feathers, Feather shaft sample, Feathers, Feather shaft sample, Feathers",,0,0
 "Skin, Feathers, Feathers, Feather shaft sample, Feathers, Feather shaft sample",,0,0
 "SKIN, FEATHERS, SKELETON","feathers | skeleton | skin",0,1
@@ -52803,6 +52826,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, shmoo made up; Skel, shmoo made up",,0,0
 "Skin, sk and sex, Y; Feather, N",,0,0
 "Skin, sk and sex; Feather",,0,0
+"skin, skel",,0,0
 "skin, skel, stom, tissues - 1","skeleton | skin | stomach | tissues - 1",0,1
 "SKIN, SKELEON","skin | skeleton",0,1
 "Skin, Skeleton","skeleton | skin",0,1
@@ -72592,6 +72616,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "slide, fluid, slide, slide",,0,0
 "slide, fluid, tissue",,0,0
 "slide, fluid, tissue, electric organ discharge recording",,0,0
+"slide, skel",,0,0
 "slide, tissue, fluid",,0,0
 "slide, tissue, fluid, electric organ discharge recording",,0,0
 "Slides",,0,0
@@ -74792,6 +74817,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue, Feather, heart, liver, muscle, Feather, heart, liver, muscle, Skeleton, Skeleton, Feather, heart, liver, muscle",,0,0
 "Tissue, Feathers & blood, Feathers & blood",,0,0
 "Tissue, Feathers, Feathers",,0,0
+"tissue, feathers, skel",,0,0
+"tissue, feathers, skel, wing",,0,0
 "tissue, flat skin",,0,0
 "tissue, flat skin, complete skeleton",,0,0
 "tissue, flat skin, complete skeleton, tissue",,0,0
@@ -74970,6 +74997,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, round skin, wing",,0,0
 "tissue, round skin, wing, partial skeleton",,0,0
 "tissue, round skin, wing, tissue",,0,0
+"tissue, skel",,0,0
+"tissue, skel, feathers, wing",,0,0
+"tissue, skel, wing",,0,0
+"tissue, skel, wing, feathers",,0,0
 "Tissue, Skeleton",,0,0
 "Tissue, Skeleton (Complete skeleton)",,0,0
 "Tissue, Skeleton (Partial skeleton)",,0,0
@@ -75219,6 +75250,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue, wing, round skin",,0,0
 "tissue, wing, round skin, partial skeleton",,0,0
 "tissue, wing, round skin, tissue",,0,0
+"tissue, wing, skel",,0,0
+"tissue, wing, skel, feathers",,0,0
 "tissue, wing, tissue, alcoholic",,0,0
 "tissue, wing, tissue, other",,0,0
 "tissue, wing, tissue, round skin",,0,0
@@ -77564,7 +77597,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing, complete skeleton, other",,0,0
 "wing, complete skeleton, tissue",,0,0
 "Wing, dissected (in spirit)",,0,0
+"wing, feathers, skel, tissue",,0,0
 "WING, FEATHERS, SKELETON","feathers | skeleton | wing",0,1
+"wing, feathers, tissue, skel",,0,0
 "wing, feet, skull",,0,0
 "WING, HEAD SKIN","head skin | wing",0,1
 "wing, other",,0,0
@@ -77581,6 +77616,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing, round skin, partial skeleton, tissue",,0,0
 "wing, round skin, tissue",,0,0
 "wing, round skin, tissue, tissue",,0,0
+"wing, skel",,0,0
+"wing, skel, feathers",,0,0
+"wing, skel, feathers, tissue",,0,0
+"wing, skel, slide",,0,0
+"wing, skel, tissue",,0,0
+"wing, skel, tissue, feathers",,0,0
 "wing, tail","tail | wing",0,1
 "wing, tail | tissue",,0,0
 "WING, TAIL FEATHERS","tail feathers | wing",0,1
@@ -77597,6 +77638,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing, tissue, partial skeleton, round skin",,0,0
 "wing, tissue, round skin",,0,0
 "wing, tissue, round skin, tissue",,0,0
+"wing, tissue, skel",,0,0
+"wing, tissue, skel, feathers",,0,0
 "wing, tissue, tissue, alcoholic",,0,0
 "wing, trachea, tissue, round skin, skeleton - 1","skeleton - 1 | round skin | tissue | trachea | wing",0,1
 "wing, wing",,0,0

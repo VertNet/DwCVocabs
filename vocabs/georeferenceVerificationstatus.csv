@@ -54,6 +54,7 @@
 "verified by institution","verified by curator",0,1
 "verified by kc","verified by KC",0,1
 "verified by locality lookup","verified by curator",0,1
+"verified by locality matchp",,0,1
 "Verified by locality matchup","verified by curator",0,1
 "Verified by Match","verified by curator",0,1
 "Verified by Rene","verified by curator",0,1
@@ -64,4 +65,5 @@
 "verified, 20081023","verified by curator",0,1
 "verified, kc","verified by KC",0,1
 "verifiied","verified by curator",0,1
+"WGS84",,0,1
 "Y",,0,1
