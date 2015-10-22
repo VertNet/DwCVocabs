@@ -851,6 +851,7 @@
 "Aruba","AW",1,1
 "Aruba Island","AW",0,1
 "Ary Is.",,0,1
+"AS","AS",0,1
 "Ascension I.","SH",0,1
 "Ascension Island","SH",0,1
 "Ascension Islands","SH",0,1
@@ -1844,9 +1845,11 @@
 "Christmas Is.",,0,1
 "Christmas Island",,0,1
 "CHUKCHI SEA",,0,1
+"CK","CK",0,1
 "CLIPPERTON IS","FR",0,1
 "Clipperton Island","FR",0,1
 "CMR",,0,1
+"CN","CN",0,1
 "CNMI",,0,1
 "CO","US",0,1
 "coast E. Madagascar","MG",0,1
@@ -2622,11 +2625,13 @@
 "Finlande","FI",0,1
 "Finnish Lapland [Finland]","FI",0,1
 "Finnland","FI",0,1
+"FJ","FJ",0,1
 "FL","US",0,1
 "Flores",,0,1
 "Flores I",,0,1
 "Flores I.",,0,1
 "Flores Is.",,0,1
+"FM","FM",0,1
 "FORM","TW",0,1
 "FORMOSA","TW",0,1
 "Formosa (Taiwan)","TW",0,1
@@ -2927,6 +2932,7 @@
 "Gt. Nicobar Is.","IN",0,1
 "Gt. Redang I.","MY",0,1
 "Gt. Sangi I.","ID",0,1
+"GU","GU",0,1
 "GUA","GT",0,1
 "GUADALUPE IS","MX",0,1
 "Guadamala","GT",0,1
@@ -3315,6 +3321,7 @@
 "Johore","MY",0,1
 "Jolo, Sulu Is.","ID",0,1
 "Jordan","JO",1,1
+"JP","JP",0,1
 "JUAN FERNANDEZ IS","CL",0,1
 "Jugoslavia",,0,1
 "K.C.",,0,1
@@ -3383,6 +3390,7 @@
 "Key I's.","ID",0,1
 "Key Islands","ID",0,1
 "Khartum","SD",0,1
+"KI","KI",0,1
 "Kikuyu.","KE",0,1
 "Kilimanjaro","TZ",0,1
 "Kilimanjaro District","TZ",0,1
@@ -3410,6 +3418,7 @@
 "Korrido","ID",0,1
 "Kosovo","XK",0,1
 "Kotekhaie","IN",0,1
+"KR","KR",0,1
 "Krakatau Is.","ID",0,1
 "KS","US",0,1
 "kunk",,0,1
@@ -3496,6 +3505,7 @@
 "Little Key Island","ID",0,1
 "Little Key Islands","ID",0,1
 "Livland",,0,1
+"LK","LK",0,1
 "Lloyds I.","AQ",0,1
 "LOCALITY DATA U",,0,1
 "LOCALITY DATA UNKNOWN",,0,1
@@ -3888,6 +3898,7 @@
 "MUSCAT AND OMAN","OM",0,1
 "MUSEUM",,0,1
 "Mxico","MX",0,1
+"MY","MY",0,1
 "Myanmar","MM",1,1
 "N Africa",,0,1
 "N Algeria","DZ",0,1
@@ -4760,6 +4771,7 @@
 "Novaya Semlya","RU",0,1
 "Novaya Zembya","RU",0,1
 "Novaya Zemlya","RU",0,1
+"NP","NP",0,1
 "NPAC",,0,1
 "NR Barotseland","ZM",0,1
 "nr boundary of Sweden, Norway and Finland",,0,1
@@ -4770,6 +4782,7 @@
 "Nsuguru",,0,1
 "NSW","AU",0,1
 "NT",,0,1
+"NU","NU",0,1
 "Nubia",,0,1
 "Nubia (Abyssinia?)",,0,1
 "Nubia (Egypt)","EG",0,1
@@ -5023,6 +5036,9 @@
 "Peru? (with the ""P"" underlined); Guadeloupe","PE",0,1
 "Peru-Bolivia-Brazil",,0,1
 "Peruvian Amazons","PE",0,1
+"PF","PF",0,1
+"PG","PG",0,1
+"PH","PH",0,1
 "Phi","PH",0,1
 "PHIL","PH",0,1
 "Philip.","PH",0,1
@@ -5067,6 +5083,7 @@
 "Pitcairn","PN",1,1
 "Pitcairn Island","PN",0,1
 "Pitcairn Islands","PN",0,1
+"PN","PN",0,1
 "PNG","PG",0,1
 "Png/Bi","PG",0,1
 "Png/Bo","PG",0,1
@@ -5918,6 +5935,7 @@
 "Savu I.","ID",0,1
 "Savu Is.","ID",0,1
 "Saychelles Is.","SC",0,1
+"SB","SB",0,1
 "SC","US",0,1
 "SC Kenya","KE",0,1
 "Scandinavia",,0,1
@@ -6640,6 +6658,7 @@
 "Territory of the French Southern and Antarctic Lands","TF",0,1
 "Tevor Is.","MY",0,1
 "Texas","US",0,1
+"TH","TH",0,1
 "THA","TH",0,1
 "Thai","TH",0,1
 "Thailand","TH",1,1
@@ -6677,6 +6696,7 @@
 "Timor-Leste","TL",0,1
 "Tiree","GB",0,1
 "TN","US",0,1
+"TO","TO",0,1
 "Tobago","TT",0,1
 "Tobago- Brit.West Indies","TT",0,1
 "Tobago Is","TT",0,1
@@ -6832,6 +6852,7 @@
 "Turtle I.",,0,1
 "Tuvalu","TV",1,1
 "Tuvalu (Ellice Is)","TV",0,1
+"TW","TW",0,1
 "TX","US",0,1
 "Tyi Is.",,0,1
 "Tyrol","AT",0,1
@@ -7071,6 +7092,7 @@
 "Viti Levu I.","FJ",0,1
 "Volcano I.","JP",0,1
 "Volcano Is.","JP",0,1
+"VU","VU",0,1
 "Vuctom I.",,0,1
 "Vulcan Is.","JP",0,1
 "W Africa",,0,1
@@ -7454,6 +7476,7 @@
 "Western Taiwan","TW",0,1
 "Western U.S.A.","US",0,1
 "Western United States [U.S.A.]","US",0,1
+"WF","WF",0,1
 "White Nile",,0,1
 "White Sea","RU",0,1
 "WI","US",0,1
@@ -7522,3 +7545,4 @@
 "Zoutpansberg","ZA",0,1
 "Zululand","ZA",0,1
 "Zulu-Land","ZA",0,1
+"ZZ",,0,1

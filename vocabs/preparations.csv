@@ -4045,6 +4045,8 @@
 "alcoholic, syrinx, Tissue number B-1195",,0,0
 "alcoholic, syrinx, Tissue number B-2215",,0,0
 "alcoholic, syrinx, Tissue number B-9212 at Smithsonian",,0,0
+"alcoholic, tied to 2245",,0,0
+"alcoholic, tied to 2246",,0,0
 "ALCOHOLIC, tissue","alcoholic | tissue",0,1
 "alcoholic, tissue at YPM 360",,0,0
 "alcoholic, tissue at YPM 367",,0,0
@@ -8131,6 +8133,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Cast of skull with jaw + skeleton (disrupted)",,0,0
 "Cast of skull with jaw + teeth",,0,0
 "Cast of skull with jaw + teeth (anterior)",,0,0
+"cast of small rattles",,0,0
 "Cast of snout + teeth",,0,0
 "cast of specimen",,0,0
 "Cast of squeeze of skull (dorsal face)",,0,0
@@ -13077,6 +13080,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Egg cast - 1","egg cast - 1",0,1
 "Egg cast, Y",,0,0
 "egg clutch*",,0,0
+"egg mass",,0,0
 "egg nest",,0,0
 "Egg sacs + embryos (mounted, in spirit)",,0,0
 "egg set","egg set",1,1
@@ -20891,6 +20895,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "flat skin & skull + skel",,0,0
 "flat skin (skull in skin)",,0,0
 "flat skin | tissue",,0,0
+"flat skin + 2 dried feet",,0,0
 "flat skin + alc body",,0,0
 "flat skin + alc body | tissue",,0,0
 "flat skin + alc body + alc stomach",,0,0
@@ -35842,6 +35847,20 @@ R PERIPHERALS 2 - 3.",,0,0
 "palatoquadrate cartilage fragment",,0,0
 "paleo",,0,0
 "paleo | tissue",,0,0
+"paleo:  carpometacarpus",,0,0
+"paleo:  coracoid",,0,0
+"paleo:  femur",,0,0
+"paleo:  femur frag.",,0,0
+"paleo:  humerus frag.",,0,0
+"paleo:  pedal phalanx",,0,0
+"paleo:  pedal phalanx frag.",,0,0
+"paleo:  scapula frag.",,0,0
+"paleo:  tarsometatarsus",,0,0
+"paleo:  tarsometatarsus frag.",,0,0
+"paleo:  tarsometatarsus fragment",,0,0
+"paleo:  tibiotarsus frag.",,0,0
+"paleo:  ulna frag.",,0,0
+"paleo:  ungual phalanx",,0,0
 "paleo: *1 crustacean chela frag only",,0,0
 "paleo: *1 crustacean chela frag only | tissue",,0,0
 "paleo: 1 accessory metatarsus",,0,0
@@ -36312,6 +36331,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: carpometacarpus (?) fragment",,0,0
 "paleo: carpometacarpus (?) fragment | tissue",,0,0
 "paleo: carpometacarpus | tissue",,0,0
+"paleo: carpometacarpus frag.",,0,0
 "paleo: carpometacarpus fragment",,0,0
 "paleo: carpometacarpus fragment | tissue",,0,0
 "paleo: carpometacarpus, ulnar carpal, radial carpal",,0,0
@@ -36331,6 +36351,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: coracoid (?) fragment",,0,0
 "paleo: coracoid (?) fragment | tissue",,0,0
 "paleo: coracoid | tissue",,0,0
+"paleo: coracoid frag.",,0,0
 "paleo: coracoid fragment",,0,0
 "paleo: coracoid fragment | tissue",,0,0
 "paleo: coracoid? Fragment",,0,0
@@ -36376,6 +36397,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: femur (?) fragment | tissue",,0,0
 "paleo: femur | tissue",,0,0
 "paleo: femur frag",,0,0
+"paleo: femur frag.",,0,0
 "paleo: femur fragment",,0,0
 "paleo: femur fragment | tissue",,0,0
 "paleo: femur, tibiotarsus and fibula fragments in matrix",,0,0
@@ -36409,6 +36431,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: humerus and ulna",,0,0
 "paleo: humerus and ulna | tissue",,0,0
 "paleo: humerus frag",,0,0
+"paleo: humerus frag.",,0,0
 "paleo: humerus fragment",,0,0
 "paleo: humerus fragment , in 8+/- pieces",,0,0
 "paleo: humerus fragment , in 8+/- pieces | tissue",,0,0
@@ -36425,6 +36448,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: innominate (?) fragment",,0,0
 "paleo: innominate (?) fragment | tissue",,0,0
 "paleo: innominate | tissue",,0,0
+"paleo: innominate frag.",,0,0
 "paleo: innominate fragment",,0,0
 "paleo: innominate fragment | tissue",,0,0
 "paleo: inominate fragment",,0,0
@@ -36449,6 +36473,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: mandible (?) fragment | tissue",,0,0
 "paleo: mandible | tissue",,0,0
 "paleo: mandible frag",,0,0
+"paleo: mandible frag.",,0,0
 "paleo: mandible fragment",,0,0
 "paleo: mandible fragment | tissue",,0,0
 "paleo: mandible half",,0,0
@@ -36474,11 +36499,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: maxilla | tissue",,0,0
 "paleo: maxilla frag",,0,0
 "paleo: maxilla frag | tissue",,0,0
+"paleo: maxilla frag.",,0,0
 "paleo: maxilla fragment",,0,0
 "paleo: maxilla fragment | tissue",,0,0
 "paleo: metacarpal",,0,0
 "paleo: metacarpal frag",,0,0
 "paleo: metapodial",,0,0
+"paleo: metatarsal",,0,0
 "paleo: metatarsal I",,0,0
 "paleo: metatarsal I | tissue",,0,0
 "paleo: metatarsus I",,0,0
@@ -36566,6 +36593,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: radius (?) fragment",,0,0
 "paleo: radius (?) fragment | tissue",,0,0
 "paleo: radius | tissue",,0,0
+"paleo: radius frag.",,0,0
 "paleo: radius fragment",,0,0
 "paleo: radius fragment | tissue",,0,0
 "paleo: radius-ulna fragment",,0,0
@@ -36610,6 +36638,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: sternum fragment | tissue",,0,0
 "paleo: sternum, carpometacarpus fragments",,0,0
 "paleo: sternum, carpometacarpus fragments | tissue",,0,0
+"paleo: supraorbital process",,0,0
 "paleo: synsacrum",,0,0
 "paleo: synsacrum (?) fragment",,0,0
 "paleo: synsacrum (?) fragment | tissue",,0,0
@@ -36622,7 +36651,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: tarsometatarsus",,0,0
 "paleo: tarsometatarsus (?) fragment",,0,0
 "paleo: tarsometatarsus (?) fragment | tissue",,0,0
+"paleo: tarsometatarsus (2 pieces)",,0,0
 "paleo: tarsometatarsus | tissue",,0,0
+"paleo: tarsometatarsus frag.",,0,0
 "paleo: tarsometatarsus fragment",,0,0
 "paleo: tarsometatarsus fragment | tissue",,0,0
 "paleo: tarsometatarsus, ulna fragment",,0,0
@@ -36641,6 +36672,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: tibiotarsus | tissue",,0,0
 "paleo: tibiotarsus and distal epiphysis",,0,0
 "paleo: tibiotarsus and distal epiphysis | tissue",,0,0
+"paleo: tibiotarsus frag.",,0,0
 "paleo: tibiotarsus fragment",,0,0
 "paleo: tibiotarsus fragment | tissue",,0,0
 "paleo: tibiotarsus? Fragment",,0,0
@@ -36664,6 +36696,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: ulna ? fragment",,0,0
 "paleo: ulna ? fragment | tissue",,0,0
 "paleo: ulna | tissue",,0,0
+"paleo: ulna frag.",,0,0
 "paleo: ulna fragment",,0,0
 "paleo: ulna fragment | tissue",,0,0
 "paleo: ulna uragment",,0,0
@@ -36694,10 +36727,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "paleo: vertebra or pedal phalanx ?",,0,0
 "paleo: vertebra or pedal phalanx ? | tissue",,0,0
 "paleo: vertebrae",,0,0
+"paleo: vertebrae (5)",,0,0
 "paleo: vertebrae | tissue",,0,0
 "paleo: vertebrae fragment",,0,0
 "paleo: vertebrae fragment | tissue",,0,0
 "paleo: vertebral epiphysis",,0,0
+"paleo: vertrebra (caudal)",,0,0
 "paleo: WHAT IS THIS?",,0,0
 "paleo: WHAT IS THIS? | tissue",,0,0
 "paleo:maxilla fragment",,0,0
@@ -38364,6 +38399,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "pedal+tooth frags",,0,0
 "Peel of part of Holotype",,0,0
 "Peels",,0,0
+"pellet",,0,0
 "Pellet, Y",,0,0
 "pellets",,0,0
 "pellets | tissue",,0,0
@@ -52118,10 +52154,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin + detached wing + skel",,0,0
 "skin + detached wing + skel | tissue",,0,0
 "skin + DNA","DNA | skin",0,1
+"skin + dried tongue",,0,0
 "skin + dry & alc gut contents*",,0,0
 "skin + dry & alc gut contents* | tissue",,0,0
 "skin + dry tongue",,0,0
 "skin + dry tongue | tissue",,0,0
+"skin + ectoparasites",,0,0
 "skin + feather in plastic bag",,0,0
 "skin + feather in plastic bag | tissue",,0,0
 "skin + flat wing",,0,0
@@ -52133,7 +52171,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin + Full Skeleton",,0,0
 "skin + head & body armor only",,0,0
 "Skin + Humeri",,0,0
+"skin + hyoid + dried tongue",,0,0
 "Skin + Limb Bones",,0,0
+"skin + loose feather",,0,0
 "skin + mandible",,0,0
 "skin + misc: flat wing",,0,0
 "skin + misc: flat wing | tissue",,0,0
@@ -52160,6 +52200,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin + rehydrated stomach | tissue",,0,0
 "Skin + remainder of specimen (in spirit)",,0,0
 "skin + skel",,0,0
+"skin + skel [prep log says ""alcoholic""]",,0,0
 "skin + skel | tissue",,0,0
 "skin + skel + alc stom. cont.",,0,0
 "skin + skel + alc stom. cont. | tissue",,0,0
@@ -70932,6 +70973,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull | tail (dry) | liver (95% ethanol) | heart (95% ethanol)",,0,0
 "skull | tissue",,0,0
 "Skull +  fragments",,0,0
+"skull + 2 vert. only",,0,0
 "Skull + atlas",,0,0
 "Skull + base of horn cores",,0,0
 "Skull + body (anterior part)",,0,0
@@ -74828,6 +74870,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue only; SKELETON TO T.C. | tissue",,0,0
 "Tissue Sample",,0,0
 "TISSUE SAMPLE IN BRINE, tissue",,0,0
+"tissue sample only (see COMMENTS)",,0,0
 "tissue, alcoholic",,0,0
 "tissue, alcoholic, complete skeleton",,0,0
 "tissue, alcoholic, round skin",,0,0
@@ -77561,6 +77604,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Whole specimen in cocoon (in spirit)",,0,0
 "Whole specimen in membranes (in spirit)",,0,0
 "Whole specimen missing head (in spirit)",,0,0
+"whole specimen tissue stored in PCMB",,0,0
 "Whole specimen with eggs (in spirit)",,0,0
 "Whole specimen with head partly dissected (in spirit)",,0,0
 "Whole specimen with nest + eggs (in spirit)",,0,0
