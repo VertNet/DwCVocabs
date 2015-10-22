@@ -1185,6 +1185,7 @@
 "9 pouch young; CR- 26",,0,0
 "9 pouch young; CR-47",,0,0
 "9 x 6 mm",,0,0
+"9+ years old",,0,0
 "9no gonad data]",,0,0
 "A","unknown",0,1
 "A lac","lactating",0,1
@@ -1213,18 +1214,81 @@
 "Ad t 4x2","unknown",0,1
 "ad., T=9x5mm",,0,0
 "Adult",,0,0
+"Adult (Dry shell)",,0,0
+"Adult Female",,0,0
+"Adult Female (gravid)",,0,0
+"Adult Female w/ 12 eggs (eegs lost)",,0,0
+"Adult Female, 29.9 g, Skin clip DNA taken",,0,0
+"Adult Female, 521g, SVL 1120 mm, tail 307 mm",,0,0
+"Adult Female, gravid",,0,0
+"Adult Female, laid 4 eggs 25-26 June",,0,0
+"Adult Female, liver tissue taken",,0,0
+"Adult female, SVL 179 mm, tail 279, 210 g",,0,0
+"Adult Female, SVL 182 mm, Tail 38",,0,0
+"Adult Female, SVL 600 mm, tail 172 mm, 88g",,0,0
+"Adult Female, SVL 673mm, Tail 189mm, 200g.",,0,0
+"Adult Female, Tissue-liver sample",,0,0
+"Adult Male",,0,0
+"Adult Male,  SVL 1020 mm, tail 95 mm, >300g",,0,0
+"Adult Male, Liver tissue taken",,0,0
+"Adult Male, Lver tissue taken",,0,0
+"Adult Male, SVL 1453 mm, Tail 517mm, 1.1kg",,0,0
+"Adult Male, SVL 163 mm, Tail 32.5 mm, 1857g",,0,0
+"Adult Male, SVL 210 mm, tail 259 mm, >300g",,0,0
+"Adult Male, SVL 560 mm, tail 290 mm",,0,0
+"Adult Male, SVL 71 mm",,0,0
+"Adult Male, Tissue at LSU",,0,0
+"Adult Male, tissue-liver sample taken",,0,0
+"Adult Male, Tissue-scale clips",,0,0
+"Adult Male, total length (visual estimate) ca 1100 mm",,0,0
+"Adult SVL 312mm,Tail 144mm",,0,0
+"Adult tail clip tissue",,0,0
+"Adult tail tissue clip",,0,0
 "Adult with 1 embryo; CR (crown-rump length) = 30 mm",,0,0
 "adult with 1 embryo; CR (crown-rump length) = 35 mm",,0,0
+"Adult with tail clip tissue",,0,0
+"Adult with tissue",,0,0
+"Adult,  SVL 216 mm, tail 20 mm, 11g",,0,0
+"Adult,  SVL 235 mm, tail 30 mm, 18g",,0,0
 "adult, 1L-2R",,0,0
+"Adult, 361 mm SVL, Tail 67 mm, 16.3g",,0,0
+"Adult, 43 cm TL",,0,0
 "adult, 5 embryos,17 mm",,0,0
+"Adult, 64 cm total length",,0,0
+"Adult, black phase",,0,0
+"Adult, ca 65 cm total length",,0,0
+"Adult, cereberus",,0,0
+"Adult, female?",,0,0
+"Adult, female? (short tail; did not capture or probe)",,0,0
 "Adult, lactating",,0,0
+"Adult, Liver Tissue",,0,0
+"Adult, Liver tissue taken",,0,0
 "adult, nipples",,0,0
 "adult, no embryo",,0,0
 "Adult, no embs",,0,0
 "adult, no embs.",,0,0
 "Adult, plac scars",,0,0
+"Adult, skin clip tissue taken",,0,0
+"Adult, SVL 235 mm",,0,0
+"Adult, SVL 237mm, Tail 41 mm",,0,0
+"Adult, SVL 265 mm, Tail 58 mm",,0,0
+"Adult, SVL 63 mm, Tail 58 mm",,0,0
+"Adult, SVL 633 mm, Tail 102.0 mm",,0,0
+"Adult, tail tissue taken",,0,0
 "adult, testes 9:9 mm",,0,0
+"Adult, tissue (tail) taken",,0,0
+"Adult, Tissue at LSU",,0,0
+"Adult, Tissue liver sample",,0,0
+"Adult, Tissue- scale clip",,0,0
+"Adult, Tissue scale clips",,0,0
+"Adult, tissue taken from left leg",,0,0
+"Adult, tissue taken from right leg",,0,0
+"Adult, Tissue-liver",,0,0
+"Adult, Tissue-liver sample",,0,0
+"Adult, Tissue-liver sample taken",,0,0
+"Adult, Tissue-scale clips",,0,0
 "Adult, TNE",,0,0
+"Adult,Liver tissue taken",,0,0
 "adult; 6 placental scars, 7 implantations, 4mm",,0,0
 "Adulta","unknown",0,1
 "Adulta (multípara)","multiparous",0,1
@@ -1244,6 +1308,8 @@
 "AMI","multiparous, inactive",0,1
 "AML?","lactating?",0,1
 "AMP","pregnant",0,1
+"Amplexing with UAZ50272",,0,0
+"Amplexing with UAZ50273",,0,0
 "Amul","multiparous",0,1
 "AN","nulliparous",0,1
 "ANI","inactive",0,1
@@ -1255,6 +1321,8 @@
 "ATE","scrotal testicles",0,1
 "blood in uterus; adult",,0,0
 "born 23 May 1948",,0,0
+"Born 7/18/1971 to UAZ34319",,0,0
+"Born 7/19/1971 from UAZ34328",,0,0
 "breeding","breeding",1,1
 "brown spotted fan shelled egg (19x27mm) in left oviduct",,0,0
 "by DNA analysis",,0,0
@@ -1417,6 +1485,7 @@
 "descended scrotum",,0,0
 "determine","unknown",0,1
 "developing ova",,0,0
+"Discarded",,0,0
 "Dissect","unknown",0,1
 "E = 4",,0,0
 "E 2 X 2, CR = 5",,0,0
@@ -1427,6 +1496,7 @@
 "egg in cloaca",,0,0
 "egg in oviduct",,0,0
 "egg in oviduct, largest ovum 9mm, 1 collapsed follicle",,0,0
+"Egg masses",,0,0
 "egg ready for shell",,0,0
 "egg ready to be laid",,0,0
 "egg to be laid",,0,0
@@ -1530,6 +1600,7 @@
 "epididymis not visible",,0,0
 "epididymis not visible; testes small",,0,0
 "Estrous, no embs.",,0,0
+"ETOH tissue sample taken",,0,0
 "eunuch",,0,0
 "EVICERATED IN PREVIOUS AUTOPSY",,0,0
 "Evicerated in previous autopsy, sex determined at aviary.",,0,0
@@ -1544,10 +1615,58 @@
 "F+","unknown",0,1
 "FA = 37 mm",,0,0
 "FA = 61",,0,0
+"Female",,0,0
 "FEMALE ?.",,0,0
+"Female 42 mm SVL",,0,0
 "FEMALE BY PLUMAGE.",,0,0
+"Female eggs N=11",,0,0
+"Female eggs N=15",,0,0
+"Female full od well developed eggs",,0,0
+"Female Gravid",,0,0
+"Female neonate",,0,0
+"Female of pair",,0,0
 "FEMALE OR IMMATURE MALE.",,0,0
+"Female subadult",,0,0
+"Female w/ 11 embryos",,0,0
+"Female w/ 3 eggs",,0,0
+"Female w/ 4 eggs 7X12mm",,0,0
+"Female w/ 8 eggs",,0,0
+"Female with 3 eggs",,0,0
+"Female with 6 eggs",,0,0
+"Female with eggs",,0,0
+"Female with embryos",,0,0
+"Female with four eggs, liver tissue",,0,0
+"Female with six eggs",,0,0
+"female, 11 eggs removed",,0,0
+"Female, 2 ova 13mm",,0,0
+"Female, 2 ova 6mm no shell",,0,0
+"Female, 3 eggs",,0,0
+"Female, 4 eggs",,0,0
+"Female, 4 large ova 4X5 mm",,0,0
+"Female, 51 mm SVL",,0,0
+"Female, 6 eggs",,0,0
+"Female, birth to 12 8/14-18/1989",,0,0
+"Female, ca 70 cm total length",,0,0
+"Female, coll gravid",,0,0
+"Female, eggs laid 8-9 May 1979",,0,0
+"Female, eggs N=8",,0,0
+"Female, gave birth 08/19-19/1989",,0,0
+"Female, gave birth 09/11-15/1989",,0,0
+"Female, gravid",,0,0
+"Female, gravid w/ 42 eggs",,0,0
+"Female, laid 27 eggs Aug 24, 1987",,0,0
+"Female, ova 5mm",,0,0
+"Female, ova enlarged",,0,0
+"Female, ova small",,0,0
+"Female, scale tissue taken",,0,0
+"Female, shed skin taken as tissue",,0,0
+"Female, SVL 198 mm, Tail 24 mm",,0,0
+"Female, SVL 33 mm, tail 31 mm",,0,0
+"Female, with 10 large eggs",,0,0
+"Femalegave birth to 5 live, 2 stillborn",,0,0
+"Female-Gravid",,0,0
 "FIDE W.S.CLARKE.",,0,0
+"first year subadult",,0,0
 "five embryos",,0,0
 "flacid",,0,0
 "foetus (male), full term",,0,0
@@ -1564,6 +1683,7 @@
 "FPG-15 August 1955",,0,0
 "FPG-18 days, 4 embryos, 15mm",,0,0
 "FPG-21 days",,0,0
+"froglet",,0,0
 "full term unborn fetus",,0,0
 "Full-term emb: 44mm",,0,0
 "fully developed",,0,0
@@ -1846,6 +1966,7 @@
 "gravid (2 eggs visible)",,0,0
 "gravid [?]",,0,0
 "gravid [see comments]",,0,0
+"Gravid female",,0,0
 "gravid)",,0,0
 "gravid, [early stage eggs to be counted on return from loan]",,0,0
 "gravid, 10 + 13 eggs in oviducts",,0,0
@@ -1863,6 +1984,9 @@
 "H",,0,1
 "had suckled",,0,0
 "hatched eggcase in cloaca",,0,0
+"hatching",,0,0
+"hatchling",,0,0
+"Hatchling, Liver tissue taken",,0,0
 "heavy moult",,0,0
 "hembra",,0,1
 "hembra 2 pares ma",,0,1
@@ -19552,8 +19676,20 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Juv; no embs","juvenile",0,1
 "Juvenil","juvenile",0,1
 "juvenile","juvenile",1,1
+"Juvenile 1 segment + button",,0,0
+"Juvenile Female",,0,0
+"Juvenile Male",,0,0
+"Juvenile Male, liver tissue taken",,0,0
+"Juvenile Male, SVL 45 mm, tail 66 mm",,0,0
+"Juvenile with tail clip tissue",,0,0
+"Juvenile with tissue",,0,0
+"Juvenile, 66 cm SVL,  89g",,0,0
+"Juvenile, liver tissue taken",,0,0
 "Juvenile, no embryo","juvenile",0,1
 "juvenile, no embryos","juvenile",0,1
+"Juvenile, SVL 395 mm, tail 58 mm",,0,0
+"Juvenile, SVL 415 mm",,0,0
+"Juvenile, SVL 662 mm, Tail 239 mm",,0,0
 "Juvenile, TA=2x1","juvenile",0,1
 "Juvenile, TA=3x2","juvenile",0,1
 "Juvenile, TA=4x3","juvenile",0,1
@@ -19562,7 +19698,11 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "juvenile, testes abdominal = 3x1","juvenile",0,1
 "juvenile, testes abdominal 2x1.5","juvenile",0,1
 "juvenile, Testes abdominal; T = 4 x 1.5","juvenile",0,1
+"Juvenile, Tissue- scale clip",,0,0
+"Juvenile, Tissue-liver sample",,0,0
+"Juvenile, Tissue-scale clip",,0,0
 "juvenile, young of UCM6175, not yet capable of flight","juvenile",0,1
+"Juvenile/neonate",,0,0
 "juvenile; non reproductive","juvenile",0,1
 "juvenile; not breeding","juvenile",0,1
 "L",,0,0
@@ -19785,6 +19925,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "laid eggs",,0,0
 "lamb",,0,0
 "large",,0,0
+"Large female w/ eggs",,0,0
 "large gonads",,0,0
 "Large mam.",,0,0
 "Large nip.",,0,0
@@ -19808,6 +19949,22 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "largest ovum= 1.15mm",,0,0
 "largest ovum= 1mm",,0,0
 "largest ovum= 5 x 7mm",,0,0
+"Larva",,0,0
+"Larva when captured",,0,0
+"Larva when collected",,0,0
+"larva, lot of 1",,0,0
+"larva, lot of 7",,0,0
+"larva, lot of one",,0,0
+"larvae",,0,0
+"Larvae lot of 1",,0,0
+"Larvae lot of 2",,0,0
+"Larvae, lot of 16",,0,0
+"larvae, lot of 2",,0,0
+"larvae, lot of 3",,0,0
+"larvae, lot of 5",,0,0
+"larvae, lot of 6",,0,0
+"Larvae, lot of 7",,0,0
+"larvae. lot of 7",,0,0
 "late lac.",,0,0
 "late vitellog follicles",,0,0
 "lct; 1 emb; cr = 7",,0,0
@@ -19939,7 +20096,23 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "lgst. ovum= 4mm",,0,0
 "lgst. ovum= 5mm",,0,0
 "lgst. ovum= 6 mm",,0,0
+"Liver tissue",,0,0
+"Liver tissue taken",,0,0
+"Liver tissue Taken, Adult",,0,0
+"LOST",,0,0
 "lot lact.",,0,0
+"Lot of 10 larvae",,0,0
+"Lot of 11 larvae",,0,0
+"lot of 16 larvae",,0,0
+"Lot of 21 larvae",,0,0
+"lot of 28 larvae",,0,0
+"Lot of 3 Larvae",,0,0
+"Lot of 5 larvae",,0,0
+"lot of 6 larvae",,0,0
+"Lot of 9 larvae",,0,0
+"lot of Larvae and hatchlings",,0,0
+"lot of six larvae",,0,0
+"lot of three larvae",,0,0
 "M","unknown",0,1
 "M < 1 mm",,0,0
 "M/F","unknown",0,1
@@ -19972,10 +20145,27 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "macho test 8x4",,0,1
 "macho test esc",,0,1
 "MAGGOTS CONSUMED GONADS , COULD NOT SEX.",,0,0
+"Male",,0,0
+"Male ?",,0,0
+"Male ?, testes 3mm???",,0,0
+"Male 51 mm SVL",,0,0
 "MALE BY SIZE FIDE K.C.PARKES, FEMALE BY GONADS FIDE S.P.ROGERS.",,0,0
 "MALE BY SIZE.",,0,0
 "MALE FIDE K.C.PARKES.",,0,0
 "MALE IN G.M.S. CATALOG, FEMALE ON ORIGINAL TAG.",,0,0
+"Male of pair",,0,0
+"Male, 31 mm SVL",,0,0
+"Male, 52 mm SVL, 28 mm tail",,0,0
+"Male, liver tissue collected",,0,0
+"Male, Liver tissue taken",,0,0
+"Male, SVL 319mm, Tail 64 mm",,0,0
+"Male, SVL 436 mm, Tail 157",,0,0
+"Male, SVL 75 mm, Tail 87 mm w/ 26 mm unbroken",,0,0
+"Male, SVL=365mm,Tail=31mm",,0,0
+"Male, Tissue-liver sample",,0,0
+"Male, Tissue-Liver sample taken",,0,0
+"Male, Tissue-scale clip",,0,0
+"Male, Tissue-scale clips",,0,0
 "mamas pte.","mammaries present",0,1
 "mammae  0 : 2 = 4",,0,0
 "mammae 0:1 = 2 ? [no gonad data]",,0,0
@@ -19998,6 +20188,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "mate to ROMM 16982; FATHER OF ROMM 16977-16981, 19281-19282",,0,0
 "mature",,0,0
 "mature breeding condition",,0,0
+"Metamorph",,0,0
 "MI",,0,1
 "mid vetellog follicles",,0,0
 "mid-late vitellog follicles",,0,0
@@ -20006,6 +20197,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "mildly enlgd. follicles",,0,0
 "minute",,0,0
 "minute follicles",,0,0
+"MISSING",,0,0
 "MM","unknown",0,1
 "Mo Embryo",,0,0
 "mod. large testes",,0,0
@@ -20032,6 +20224,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "mother of ROMM 78289, 78290",,0,0
 "mother of ROMM 78704",,0,0
 "mother of ROMM 97266-97269, FN33569-33572",,0,0
+"Mother to UAZ 35197-35208",,0,0
 "moult",,0,0
 "moult on dorsum, testes-4X8",,0,0
 "moulting",,0,0
@@ -20046,11 +20239,13 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "NE; lact",,0,0
 "NE; NO PLAC SC",,0,0
 "NEITHER DUCT LUMPY.",,0,0
+"Neonate",,0,0
 "Neonato",,0,1
 "nesting",,0,0
 "nesting ?",,0,0
 "NESTING.",,0,0
 "new eggs",,0,0
+"newborn",,0,0
 "nipple prominent",,0,0
 "nipple showing",,0,0
 "nipple showing; Mammal tissue developed",,0,0
@@ -20345,6 +20540,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Not present",,0,0
 "not reproductively active",,0,0
 "NOT SEXED, BODY DESSICATED.",,0,0
+"NOTES",,0,0
 "NOTHING ON LABEL.",,0,0
 "NR, NL",,0,0
 "NS",,0,0
@@ -20803,6 +20999,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Post lact; no embs",,0,0
 "Post lactating",,0,0
 "post lactating ?",,0,0
+"Post Partum female",,0,0
 "POSTLAC","post-lactating",0,1
 "post-lactating",,0,0
 "post-lactating, 3 scars R",,0,0
@@ -21634,6 +21831,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "PREVIOUSLY MARKED FEMALE.",,0,0
 "PREVIOUSLY MARKED UNKNOWN.",,0,0
 "primi",,0,0
+"probable adult female",,0,0
 "probably breeding",,0,0
 "produced 11 calves",,0,0
 "R testes-2X1; L testes-11X7",,0,0
@@ -21736,6 +21934,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "see drawing on lable",,0,0
 "see label for drawing",,0,0
 "see label for ovary drawg",,0,0
+"SEE Notes",,0,0
 "SEE PREP COMMENT.",,0,0
 "See remarks",,0,0
 "semiscrotal",,0,0
@@ -21830,6 +22029,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "single embryo",,0,0
 "single lg. egg",,0,0
 "SKETCH OF OVARY ON FIELD TAG.",,0,0
+"skin tissue sample taken",,0,0
 "small",,0,0
 "small eggs",,0,0
 "small ova",,0,0
@@ -21845,6 +22045,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Sub A",,0,1
 "Sub A TE 4X2","unknown",0,1
 "sub ad",,0,0
+"Sub Adult",,0,0
 "sub adulto",,0,1
 "sub.",,0,0
 "SubA",,0,1
@@ -21855,7 +22056,11 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "subad.",,0,0
 "Subad., lact.",,0,0
 "subadult",,0,0
+"Subadult female",,0,0
+"Subadult Male",,0,0
+"subadult male, Liver Tissue taken",,0,0
 "subadult, ing.",,0,0
+"Subadult, liver tissue taken",,0,0
 "subadult, not breeding",,0,0
 "subadult, t. scrotal",,0,0
 "subadult, T=3",,0,0
@@ -21873,6 +22078,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Subadulto",,0,1
 "suckling",,0,0
 "SUPPOSEDLY SEXED AS FEMALE AT AVIARY.",,0,0
+"SVL 181 mm, tail 67 mm",,0,0
+"SVL 449 mm, Tail 770 mm, 1979g",,0,0
 "swelling",,0,0
 "T  10 mm",,0,0
 "T  2 mm",,0,0
@@ -22705,6 +22912,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "teats visible; vagina perforate",,0,0
 "teats worn",,0,0
 "teats worn; fur not worn",,0,0
+"Term embryos",,0,0
 "teses= 1x1.5mm",,0,0
 "tesetes abdominal",,0,0
 "tesres = 6.5x4.5mm",,0,0
@@ -25089,8 +25297,22 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testres = 2x3mm",,0,0
 "testris small",,0,0
 "thickened uterus",,0,0
+"Tissue at LSU",,0,0
+"tissue taken (DGM)",,0,0
+"Tissue- ventrolateral scale clip",,0,0
+"Tissue-liver sample",,0,0
+"Tissue-Liver sample taken",,0,0
+"Tissue-liver, blood ASU & UTEP",,0,0
+"Tissue-retrolateral scaleclip taken",,0,0
+"Tissues",,0,0
+"Tissue-scale clip",,0,0
+"Tissue-scale clip taken",,0,0
+"Tissue-scale clips",,0,0
+"Tissue-Tail tip",,0,0
+"Tissue-Tail tip taken",,0,0
 "TNE",,0,0
 "to","unknown",0,1
+"toadlet",,0,0
 "TOO DAMAGED AND DECOMPOSED TO SEX.",,0,0
 "TOO DAMAGED TO DETERMINE SEX.",,0,0
 "TOO DAMAGED TO FIND GONADS.",,0,0
@@ -25108,6 +25330,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "TOO ROTTEN TO SEX.",,0,0
 "TOO SMALL FOR MALE - WECT.",,0,0
 "TORN IN HALF.",,0,0
+"Transformed or nearly so",,0,0
+"Transforming larva",,0,0
 "TS X 9",,0,0
 "TS=11x8",,0,0
 "TS=7x4",,0,0
@@ -25122,6 +25346,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "two small testes",,0,0
 "TWOMEY MARKED FEMALE. COMMENT: LARGE, PROBABLY MALE, K.C.PARKES.",,0,0
 "U","unknown",0,1
+"UAZ egg clutch 3, 1967",,0,0
 "UNABLE TO DETERMINE SEX INTERNALLY.",,0,0
 "UNABLE TO DETERMINE SEX, CARCASS DRIED OUT",,0,0
 "UNABLE TO DETERMINE SEX.",,0,0
@@ -25270,6 +25495,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "xxx","unknown",0,1
 "Ycrot.",,0,0
 "yearling",,0,0
+"Yearling female",,0,0
+"yearling?",,0,0
 "yestes = 1.7x2.5mm",,0,0
 "yng. of year",,0,0
 "yolk/shell in oviduct",,0,0

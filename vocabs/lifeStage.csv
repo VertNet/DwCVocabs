@@ -4222,6 +4222,7 @@ begun",,0,0
 "9.5 days of incubation",,0,0
 "9/10",,0,0
 "9/10 hatched",,0,0
+"9+ years old",,0,0
 "90",,0,0
 "90 % ossified",,0,0
 "90 Day Old Chick",,0,0
@@ -4958,6 +4959,7 @@ ACC: 20",,0,0
 "adult (49 days)",,0,0
 "ADULT (BREEDING)","adult",0,1
 "ADULT (BY PLUMAGE); BURSA NOT FO",,0,0
+"Adult (Dry shell)",,0,0
 "Adult (hatch year)",,0,0
 "Adult (im)",,0,0
 "adult (Sierra Nevada x Oregon in",,0,0
@@ -5038,8 +5040,20 @@ ACC: 20",,0,0
 "ADULT EXCEPT WHITE VENTRAL PLUMA",,0,0
 "ADULT FEMALE","adult",0,1
 "Adult Female (by size)","adult",0,1
+"Adult Female (gravid)",,0,0
 "Adult Female [= a Male]","adult",0,1
+"Adult Female w/ 12 eggs (eegs lo",,0,0
 "Adult Female, 240-208-80-17","adult",0,1
+"Adult Female, 29.9 g, Skin clip ",,0,0
+"Adult Female, 521g, SVL 1120 mm,",,0,0
+"Adult Female, gravid",,0,0
+"Adult Female, laid 4 eggs 25-26 ",,0,0
+"Adult Female, liver tissue taken",,0,0
+"Adult female, SVL 179 mm, tail 2",,0,0
+"Adult Female, SVL 182 mm, Tail 3",,0,0
+"Adult Female, SVL 600 mm, tail 1",,0,0
+"Adult Female, SVL 673mm, Tail 18",,0,0
+"Adult Female, Tissue-liver sampl",,0,0
 "ADULT FEMALES",,0,0
 "ADULT GRAVID FEMALE",,0,0
 "Adult HY",,0,0
@@ -5054,6 +5068,18 @@ ACC: 20",,0,0
 "ADULT MALE PLUMAGE; BURSA FLESHY",,0,0
 "ADULT MALE PLUMAGE; NO BURSA",,0,0
 "ADULT MALE PLUMAGE; NO BURSA; SK",,0,0
+"Adult Male,  SVL 1020 mm, tail 9",,0,0
+"Adult Male, Liver tissue taken",,0,0
+"Adult Male, Lver tissue taken",,0,0
+"Adult Male, SVL 1453 mm, Tail 51",,0,0
+"Adult Male, SVL 163 mm, Tail 32.",,0,0
+"Adult Male, SVL 210 mm, tail 259",,0,0
+"Adult Male, SVL 560 mm, tail 290",,0,0
+"Adult Male, SVL 71 mm",,0,0
+"Adult Male, Tissue at LSU",,0,0
+"Adult Male, tissue-liver sample ",,0,0
+"Adult Male, Tissue-scale clips",,0,0
+"Adult Male, total length (visual",,0,0
 "Adult n/a","adult",0,1
 "Adult on egg",,0,0
 "Adult on eggs",,0,0
@@ -5084,24 +5110,42 @@ ACC: 20",,0,0
 "Adult SNFO",,0,0
 "Adult still incubating.",,0,0
 "Adult summer",,0,0
+"Adult SVL 312mm,Tail 144mm",,0,0
+"Adult tail clip tissue",,0,0
+"Adult tail tissue clip",,0,0
 "Adult winter",,0,0
 "adult with 4 young in-uteri",,0,0
+"Adult with tail clip tissue",,0,0
+"Adult with tissue",,0,0
 "adult(?)","adult",0,1
 "adult(s)",,0,0
 "adult(s) and juvenile(s)",,0,0
 "Adult*",,0,0
 "ADULT**",,0,0
 "Adult,  skull oss.",,0,0
+"Adult,  SVL 216 mm, tail 20 mm, ",,0,0
+"Adult,  SVL 235 mm, tail 30 mm, ",,0,0
+"Adult, 361 mm SVL, Tail 67 mm, 1",,0,0
+"Adult, 43 cm TL",,0,0
+"Adult, 64 cm total length",,0,0
 "ADULT, ALTERNATE PLUMAGE; NO BUR",,0,0
+"Adult, black phase",,0,0
 "Adult, breeding",,0,0
+"Adult, ca 65 cm total length",,0,0
+"Adult, cereberus",,0,0
 "adult, eclipse plumage",,0,0
 "adult, eggs",,0,0
+"Adult, female?",,0,0
+"Adult, female? (short tail; did ",,0,0
 "ADULT, GRAVID FEMALE;",,0,0
 "ADULT, JUVENILE",,0,0
+"Adult, Liver Tissue",,0,0
+"Adult, Liver tissue taken",,0,0
 "ADULT, N=2 FEMALE",,0,0
 "adult, ossified skull",,0,0
 "adult, post breeding",,0,0
 "Adult, post-breeding",,0,0
+"Adult, skin clip tissue taken",,0,0
 "Adult, skull 100 % ossified",,0,0
 "Adult, skull 100% ossified",,0,0
 "adult, skull fully ossifed",,0,0
@@ -5116,7 +5160,25 @@ ACC: 20",,0,0
 "adult, skull ossified",,0,0
 "adult, subadult",,0,0
 "Adult, summer",,0,0
+"Adult, SVL 235 mm",,0,0
+"Adult, SVL 237mm, Tail 41 mm",,0,0
+"Adult, SVL 265 mm, Tail 58 mm",,0,0
+"Adult, SVL 63 mm, Tail 58 mm",,0,0
+"Adult, SVL 633 mm, Tail 102.0 mm",,0,0
+"Adult, tail tissue taken",,0,0
+"Adult, tissue (tail) taken",,0,0
+"Adult, Tissue at LSU",,0,0
+"Adult, Tissue liver sample",,0,0
+"Adult, Tissue- scale clip",,0,0
+"Adult, Tissue scale clips",,0,0
+"Adult, tissue taken from left le",,0,0
+"Adult, tissue taken from right l",,0,0
+"Adult, Tissue-liver",,0,0
+"Adult, Tissue-liver sample",,0,0
+"Adult, Tissue-liver sample taken",,0,0
+"Adult, Tissue-scale clips",,0,0
 "adult, winter",,0,0
+"Adult,Liver tissue taken",,0,0
 "adult,skull fully ossified",,0,0
 "Adult.",,0,0
 "ADULT.\",,0,0
@@ -6466,6 +6528,8 @@ warbler's dent",,0,0
 "AMMOCOETES",,0,0
 "AMMOECETE",,0,0
 "AMNOCETES",,0,0
+"Amplexing with UAZ50272",,0,0
+"Amplexing with UAZ50273",,0,0
 "AN","adult",0,1
 "an egg in nest on the 17th",,0,0
 "anm.",,0,0
@@ -6938,6 +7002,8 @@ Trace.",,0,0
 "BORN 16 JUN 2003 MIAMI METROZOO",,0,0
 "Born 1965.  Euthanized 3 Novembe",,0,0
 "Born 1966.  Euthanized 3 Novembe",,0,0
+"Born 7/18/1971 to UAZ34319",,0,0
+"Born 7/19/1971 from UAZ34328",,0,0
 "BORN CA 1953",,0,0
 "BORN CA. 1999",,0,0
 "BORN IN AVIARY SUMMER 1996",,0,0
@@ -8212,6 +8278,7 @@ Trace.",,0,0
 "different stages from 4-9 days",,0,0
 "Different stages of incubation",,0,0
 "Different stages.",,0,0
+"Discarded",,0,0
 "Discarded from nest",,0,0
 "diserted (?)",,0,0
 "Dissect","unknown",0,1
@@ -8539,6 +8606,7 @@ Trace.",,0,0
 "Egg likely predated, est. hatch ",,0,0
 "Egg likely predated, est. hatch date c. May 10th",,0,0
 "egg mass",,0,0
+"Egg masses",,0,0
 "Egg mostly empty; residual yolk.",,0,0
 "Egg not fertilzed",,0,0
 "Egg on ground",,0,0
@@ -8920,6 +8988,7 @@ Trace.",,0,0
 "Estimate 14 days.",,0,0
 "Estimated to be 5 days advanced",,0,0
 "et",,0,0
+"ETOH tissue sample taken",,0,0
 "Even trace in both",,0,0
 "evenly commenced in both eggs",,0,0
 "evenly started",,0,0
@@ -9133,17 +9202,63 @@ Trace.",,0,0
 "Female [Immature]","immature",0,1
 "Female [Male ?]",,0,1
 "Female + Male + Nest",,0,1
+"Female 42 mm SVL",,0,0
 "female breaking one every day or",,0,1
 "female breaking one every day or so; 98-SF04-ES-1,",,0,1
 "Female by plumage",,0,1
+"Female eggs N=11",,0,0
+"Female eggs N=15",,0,0
+"Female full od well developed eg",,0,0
+"Female Gravid",,0,0
 "female incubating",,0,0
 "Female is Adult, 4 immature",,0,0
+"Female neonate",,0,0
+"Female of pair",,0,0
 "female on nest",,0,0
 "female or immature",,0,0
 "Female plumage. Sex ?",,0,1
 "Female seen incubating at time o",,0,1
 "Female seen incubating at time of collection.",,0,1
+"Female subadult",,0,0
 "Female taken",,0,1
+"Female w/ 11 embryos",,0,0
+"Female w/ 3 eggs",,0,0
+"Female w/ 4 eggs 7X12mm",,0,0
+"Female w/ 8 eggs",,0,0
+"Female with 3 eggs",,0,0
+"Female with 6 eggs",,0,0
+"Female with eggs",,0,0
+"Female with embryos",,0,0
+"Female with four eggs, liver tis",,0,0
+"Female with six eggs",,0,0
+"female, 11 eggs removed",,0,0
+"Female, 2 ova 13mm",,0,0
+"Female, 2 ova 6mm no shell",,0,0
+"Female, 3 eggs",,0,0
+"Female, 4 eggs",,0,0
+"Female, 4 large ova 4X5 mm",,0,0
+"Female, 51 mm SVL",,0,0
+"Female, 6 eggs",,0,0
+"Female, birth to 12 8/14-18/1989",,0,0
+"Female, ca 70 cm total length",,0,0
+"Female, coll gravid",,0,0
+"Female, eggs laid 8-9 May 1979",,0,0
+"Female, eggs N=8",,0,0
+"Female, gave birth 08/19-19/1989",,0,0
+"Female, gave birth 09/11-15/1989",,0,0
+"Female, gravid",,0,0
+"Female, gravid w/ 42 eggs",,0,0
+"Female, laid 27 eggs Aug 24, 198",,0,0
+"Female, ova 5mm",,0,0
+"Female, ova enlarged",,0,0
+"Female, ova small",,0,0
+"Female, scale tissue taken",,0,0
+"Female, shed skin taken as tissu",,0,0
+"Female, SVL 198 mm, Tail 24 mm",,0,0
+"Female, SVL 33 mm, tail 31 mm",,0,0
+"Female, with 10 large eggs",,0,0
+"Femalegave birth to 5 live, 2 st",,0,0
+"Female-Gravid",,0,0
 "FEMALES",,0,0
 "fersh",,0,0
 "Fertile",,0,0
@@ -9202,6 +9317,7 @@ Trace.",,0,0
 "first year","juvenile",0,1
 "First Year Male","first year",0,1
 "first year plumage",,0,0
+"first year subadult",,0,0
 "five",,0,0
 "Five 1/4, Three1/3, Five 1/2",,0,0
 "Five Days",,0,0
@@ -10317,6 +10433,7 @@ Sowing blood-1",,0,0
 "fresh--yolkless",,0,0
 "Fresj",,0,0
 "friska",,0,0
+"froglet",,0,0
 "from 1/2 to 3/4",,0,0
 "From 1/3 to about 1/2",,0,0
 "From 1994 breeding. 2 samples.",,0,0
@@ -10435,6 +10552,7 @@ Sowing blood-1",,0,0
 "Graduated: slight to 5 days",,0,0
 "grais (fertilized)",,0,0
 "gravid",,0,0
+"Gravid female",,0,0
 "greatly advanced",,0,0
 "Grow rings on bones indicate 5 y",,0,0
 "growing",,0,0
@@ -10697,6 +10815,7 @@ Sowing blood-1",,0,0
 "hatching, pipped",,0,0
 "Hatchling",,0,0
 "hatchling(newborn)",,0,0
+"Hatchling, Liver tissue taken",,0,0
 "HATCHLING; BURSA 4 X 5 MM; SKULL",,0,0
 "hatchlings",,0,0
 "HATCHLINGS AND EGGSHELLS",,0,0
@@ -12095,6 +12214,7 @@ Sowing blood-1",,0,0
 "Juvenile [Female?]","juvenile",0,1
 "Juvenile [Male ?]","juvenile",0,1
 "Juvenile [Sex ?]","juvenile",0,1
+"Juvenile 1 segment + button",,0,0
 "Juvenile 2nd winter","juvenile",0,1
 "juvenile and larva",,0,0
 "JUVENILE FEMALE","juvenile",0,1
@@ -12103,27 +12223,40 @@ Sowing blood-1",,0,0
 "juvenile hatchling",,0,0
 "JUVENILE MALE","juvenile",0,1
 "Juvenile Male (?)","juvenile",0,1
+"Juvenile Male, liver tissue take",,0,0
+"Juvenile Male, SVL 45 mm, tail 6",,0,0
 "JUVENILE PLUMAGE",,0,0
 "JUVENILE PLUMAGE; BURSA NOT FOUN",,0,0
 "juvenile specimen",,0,0
 "JUVENILE W/EGG CASE",,0,0
+"Juvenile with tail clip tissue",,0,0
+"Juvenile with tissue",,0,0
 "juvenile(s)",,0,0
 "JUVENILE,  ADULT",,0,0
 "juvenile, 1/3 ossification","juvenile",0,1
 "Juvenile, 60% oss.","juvenile",0,1
+"Juvenile, 66 cm SVL,  89g",,0,0
 "Juvenile, about 1/4 full size","juvenile",0,1
 "JUVENILE, ADULT",,0,0
 "juvenile, lerss then 1 yr",,0,0
+"Juvenile, liver tissue taken",,0,0
 "juvenile, skull ~1/2 ossified","juvenile",0,1
 "juvenile, skull 5% ossified","juvenile",0,1
 "juvenile, skull not fully ossifi","juvenile",0,1
 "juvenile, skull not fully ossified","juvenile",0,1
 "juvenile, skull not ossified","juvenile",0,1
+"Juvenile, SVL 395 mm, tail 58 mm",,0,0
+"Juvenile, SVL 415 mm",,0,0
+"Juvenile, SVL 662 mm, Tail 239 m",,0,0
+"Juvenile, Tissue- scale clip",,0,0
+"Juvenile, Tissue-liver sample",,0,0
+"Juvenile, Tissue-scale clip",,0,0
 "JUVENILE.",,0,0
 "JUVENILE. ADULT",,0,0
 "juvenile/!st winter","juvenile",0,1
 "juvenile/1st winter",,0,0
 "juvenile/immature","juvenile",0,1
+"Juvenile/neonate",,0,0
 "juvenile; (Fledgling?)",,0,0
 "juvenile; .5 yr",,0,0
 "juvenile; < 1 yr",,0,0
@@ -12970,6 +13103,7 @@ Infertile-1",,0,0
 "large embyros",,0,0
 "large emrbyos",,0,0
 "Large Feathered Embryos",,0,0
+"Large female w/ eggs",,0,0
 "Large fledgling",,0,0
 "large foeti in all",,0,0
 "Large hairy embryo",,0,0
@@ -12996,8 +13130,13 @@ Infertile-1",,0,0
 "LARVA (AMMOCOETE)",,0,0
 "larva (with rear legs)",,0,0
 "LARVA AND JUVENILE",,0,0
+"Larva when captured",,0,0
+"Larva when collected",,0,0
 "LARVA, JUVENILE",,0,0
 "LARVA, JUVENILE, ADUL",,0,0
+"larva, lot of 1",,0,0
+"larva, lot of 7",,0,0
+"larva, lot of one",,0,0
 "LARVA-AMMOCETE",,0,0
 "LARVA-AMMOCOETE",,0,0
 "larvae","larva",0,1
@@ -13006,9 +13145,18 @@ Infertile-1",,0,0
 "Larvae + Embryos + Eggs",,0,0
 "larvae and young",,0,0
 "larvae cell","larva cell",0,1
+"Larvae lot of 1",,0,0
+"Larvae lot of 2",,0,0
 "larvae or tadpole",,0,0
 "larvae ref.","larva",0,1
 "larvae, juveniles","larva, juvenile",0,1
+"Larvae, lot of 16",,0,0
+"larvae, lot of 2",,0,0
+"larvae, lot of 3",,0,0
+"larvae, lot of 5",,0,0
+"larvae, lot of 6",,0,0
+"Larvae, lot of 7",,0,0
+"larvae. lot of 7",,0,0
 "larvae/adults",,0,0
 "larvae/young",,0,0
 "larval","larva",0,1
@@ -13070,12 +13218,28 @@ Infertile-1",,0,0
 "live embryos",,0,0
 "live young",,0,0
 "LIVED 3+ YEARS AT MMZ",,0,0
+"Liver tissue",,0,0
+"Liver tissue taken",,0,0
+"Liver tissue Taken, Adult",,0,0
 "Living chick",,0,0
 "living young inside",,0,0
 "Located nest w/ 3 pin-feathered ",,0,0
 "Located nest w/ 3 pin-feathered chicks on 8 April",,0,0
 "Look Fresh",,0,0
 "Loose egg found broken",,0,0
+"LOST",,0,0
+"Lot of 10 larvae",,0,0
+"Lot of 11 larvae",,0,0
+"lot of 16 larvae",,0,0
+"Lot of 21 larvae",,0,0
+"lot of 28 larvae",,0,0
+"Lot of 3 Larvae",,0,0
+"Lot of 5 larvae",,0,0
+"lot of 6 larvae",,0,0
+"Lot of 9 larvae",,0,0
+"lot of Larvae and hatchlings",,0,0
+"lot of six larvae",,0,0
+"lot of three larvae",,0,0
 "low",,0,0
 "lt subad",,0,0
 "LT15; specimen in tact, Nest sit",,0,0
@@ -13135,13 +13299,28 @@ Infertile-1",,0,0
 "male",,0,1
 "Male - 6 months","6 months",0,1
 "Male ?",,0,1
+"Male ?, testes 3mm???",,0,0
 "Male [Adult]","adult",0,1
 "Male [Female ?]",,0,1
+"Male 51 mm SVL",,0,0
 "MALE ADULT",,0,0
 "Male by plumage",,0,1
 "Male incubating about 10 AM",,0,1
 "Male incubating. Eggs missing.",,0,1
+"Male of pair",,0,0
+"Male, 31 mm SVL",,0,0
+"Male, 52 mm SVL, 28 mm tail",,0,0
+"Male, liver tissue collected",,0,0
+"Male, Liver tissue taken",,0,0
+"Male, SVL 319mm, Tail 64 mm",,0,0
+"Male, SVL 436 mm, Tail 157",,0,0
+"Male, SVL 75 mm, Tail 87 mm w/ 2",,0,0
+"Male, SVL=365mm,Tail=31mm",,0,0
 "Male, testes 2 X 3 mm",,0,1
+"Male, Tissue-liver sample",,0,0
+"Male, Tissue-Liver sample taken",,0,0
+"Male, Tissue-scale clip",,0,0
+"Male, Tissue-scale clips",,0,0
 "male?",,0,0
 "Males + Females",,0,1
 "Many eggs, fresh, showing blood,",,0,0
@@ -13216,6 +13395,7 @@ Infertile-1",,0,0
 "Merely started",,0,0
 "merest trace",,0,0
 "Mesusoid + Hydroid",,0,0
+"Metamorph",,0,0
 "METAMORPHIC LARVA",,0,0
 "metamorphosed in August",,0,0
 "metamorphosing",,0,0
@@ -13231,6 +13411,7 @@ Infertile-1",,0,0
 "Minimal or no incubation",,0,0
 "minimum",,0,0
 "mishapen & infertile eggs",,0,0
+"MISSING",,0,0
 "Mixed",,0,0
 "Mixed- 3 fresh",,0,0
 "MIXED CAT.NOS.",,0,0
@@ -13289,6 +13470,7 @@ Infertile-1",,0,0
 "mostly advanced",,0,0
 "Mostly begun",,0,0
 "Mostly Fresh",,0,0
+"Mother to UAZ 35197-35208",,0,0
 "Moulting",,0,0
 "Moulting ?",,0,0
 "much",,0,0
@@ -13943,6 +14125,7 @@ Infertile-1",,0,0
 "not visible",,0,0
 "not well developed (no blood)",,0,0
 "not yet begun",,0,0
+"NOTES",,0,0
 "nothing-deserted",,0,0
 "Noticeable",,0,0
 "notr recorded",,0,0
@@ -14473,6 +14656,7 @@ fresh",,0,0
 "post",,0,0
 "Post larvaeJuveniles","juvenile",0,1
 "Post nupt.",,0,0
+"Post Partum female",,0,0
 "POSTFLEXION LARVA",,0,0
 "Postively fresh",,0,0
 "pouch young",,0,0
@@ -14502,6 +14686,7 @@ fresh",,0,0
 "prob. Fresh",,0,0
 "prob. Imm.",,0,0
 "Prob. very slight",,0,0
+"probable adult female",,0,0
 "probable AHY",,0,0
 "probably  first year",,0,0
 "probably 1/2",,0,0
@@ -14913,6 +15098,7 @@ small embryos",,0,0
 "skel",,0,1
 "skel.",,0,1
 "skeletal elements",,0,1
+"skin tissue sample taken",,0,0
 "Skul not ossified",,0,0
 "Skul ossified.",,0,0
 "Skul100% ossi",,0,0
@@ -16271,6 +16457,7 @@ Started",,0,0
 "Subadult Male","subadult",0,1
 "Sub-adult Male","subadult",0,1
 "SUBADULT MALE PLUMAGE; NO BURSA;",,0,0
+"subadult male, Liver Tissue take",,0,0
 "SUBADULT PLUMAGE",,0,0
 "SUBADULT PLUMAGE (AS IN UF46230)",,0,0
 "SUBADULT PLUMAGE; BURSA 13 X 15 ",,0,0
@@ -16278,6 +16465,7 @@ Started",,0,0
 "SUBADULT PLUMAGE; BURSA NOT FOUN",,0,0
 "SUBADULT PLUMAGE; BURSA NTO FOUN",,0,0
 "SUBADULT PLUMAGE; NO BURSA",,0,0
+"Subadult, liver tissue taken",,0,0
 "SUBADULT, TRANSTION TO DEF. ADUL",,0,0
 "sub-adult/adult?",,0,0
 "Subadult; by skull characters",,0,0
@@ -16308,6 +16496,8 @@ Started",,0,0
 "suspected yearling",,0,0
 "sv. leg",,0,0
 "Sv. legare",,0,0
+"SVL 181 mm, tail 67 mm",,0,0
+"SVL 449 mm, Tail 770 mm, 1979g",,0,0
 "SY",,0,0
 "SY (14-19mo)",,0,0
 "SY (1yr old)",,0,0
@@ -16387,6 +16577,7 @@ Started",,0,0
 "Ten Days",,0,0
 "Ten days.",,0,0
 "Tens days",,0,0
+"Term embryos",,0,0
 "Tern 1/4; Grebe 1/3",,0,0
 "Tern 1/4; Grebe 1/4",,0,0
 "Tested fresh",,0,0
@@ -16486,7 +16677,20 @@ Started",,0,0
 "tiny embryo",,0,0
 "tiny embryos",,0,0
 "TISSUE AND PHOTO ONLY",,0,0
+"Tissue at LSU",,0,0
 "TISSUE SAMPLES IN 95%",,0,0
+"tissue taken (DGM)",,0,0
+"Tissue- ventrolateral scale clip",,0,0
+"Tissue-liver sample",,0,0
+"Tissue-Liver sample taken",,0,0
+"Tissue-liver, blood ASU & UTEP",,0,0
+"Tissue-retrolateral scaleclip ta",,0,0
+"Tissues",,0,0
+"Tissue-scale clip",,0,0
+"Tissue-scale clip taken",,0,0
+"Tissue-scale clips",,0,0
+"Tissue-Tail tip",,0,0
+"Tissue-Tail tip taken",,0,0
 "TL:Br; WCH:103mm; TS:21.3mm; CUL",,0,0
 "to","unknown",0,1
 "To blood",,0,0
@@ -16495,6 +16699,7 @@ Started",,0,0
 "to blood in three & others fresh",,0,0
 "to blood in three & others fresh.",,0,0
 "to blood.",,0,0
+"toadlet",,0,0
 "toadlets",,0,0
 "Tom-",,0,0
 "Too badly incubated",,0,0
@@ -16613,8 +16818,10 @@ Started",,0,0
 "Traces of incubation were barely perceptable",,0,0
 "traces of incubation were very s",,0,0
 "Trans juvenile - adult.",,0,0
+"Transformed or nearly so",,0,0
 "TRANSFORMING",,0,0
 "TRANSFORMING AMMOECET",,0,0
+"Transforming larva",,0,0
 "transitional Juv-basic 2","transitional Juv-basic 2",0,1
 "TRASFORMING",,0,0
 "tres advancee",,0,0
@@ -16768,6 +16975,7 @@ Started",,0,0
 "TY or ATY by plumage",,0,0
 "U","unknown",0,1
 "u.slight",,0,0
+"UAZ egg clutch 3, 1967",,0,0
 "UKN","unknown",0,1
 "unborn",,0,0
 "uncertain",,0,0
@@ -17488,7 +17696,9 @@ Started",,0,0
 "y.g. juven.",,0,0
 "yd",,0,0
 "yearling","yearling",1,1
+"Yearling female",,0,0
 "yearling to ad.","yearling, adult",0,1
+"yearling?",,0,0
 "Yellow-billed Cuckoo highly incu",,0,0
 "yes",,0,1
 "yes (checkmark)",,0,1
