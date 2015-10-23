@@ -79,7 +79,6 @@
 "[?Type]",,0,0
 "[coll in 2000]",,0,0
 "[Co-type]",,0,0
-"[formerly PARA of Leiopython bennettorum, Hoser]",,0,0
 "[Holotype]",,0,0
 "[illeg] Type of D.Orbigny","holotype",0,1
 "[Paratype]",,0,0
@@ -154,6 +153,7 @@
 "Cotype [=Paratype]",,0,0
 "Co-TYPE of Oestrelata nigripennis","syntype",0,1
 "Co-Type specimen","syntype",0,1
+"COTYPE?",,0,0
 "Co-type?",,0,0
 "cotypes",,0,0
 "Co-types",,0,0
@@ -2439,7 +2439,9 @@ Paratype",,0,0
 "NEAR-TOPOTYPE OF SAXICOLA MACULARIA QUOY & GAIMARD",,0,0
 "NEAR-TOPOTYPE; COLLECTED 12 MI SW OF TYPE LOCALITY MOUNT CARMEL",,0,0
 "NEO",,0,0
+"NÉOPARATYPE",,0,0
 "Neotype","neotype",1,1
+"NÉOTYPE",,0,0
 "Neotype of Arctonyx collaris",,0,0
 "NEOTYPE OF ARIZONA LINEATICOLLIS",,0,0
 "NEOTYPE OF BUFO FOWLERI",,0,0

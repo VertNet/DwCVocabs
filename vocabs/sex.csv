@@ -622,7 +622,6 @@ M[F]","unknown",0,1
 "f, juvenile","female",0,1
 "F, M, U","female, male, unknown",0,1
 "F, NESTLING","female",0,1
-"F, PROB","female",0,1
 "F, prob.","female",0,1
 "F, U","female, unknown",0,1
 "F.","female",0,1
@@ -851,6 +850,7 @@ M[F]","unknown",0,1
 "hg","unknown",0,1
 "hona","female",0,1
 "HY male","male",0,1
+"I",,0,1
 "IM","unknown",0,1
 "Im.","unknown",0,1
 "IMF","unknown",0,1
@@ -869,6 +869,7 @@ M[F]","unknown",0,1
 "Immature Female","female",0,1
 "Immature Female ?","in question",0,1
 "Immature Male","male",0,1
+"ind","unknown",0,1
 "Indeterminate","unknown",0,1
 "J","unknown",0,1
 "J?","unknown",0,1
