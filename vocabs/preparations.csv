@@ -13208,6 +13208,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Eggset, U",,0,0
 "Eggset, U; Nest, N",,0,0
 "Eggset, U; Nest, Y",,0,0
+"Eggset, U; Tissue, Y",,0,0
 "eggset, wing","eggs | wing",0,1
 "Eggset, Y",,0,0
 "Eggset, Y; Flat_skin, Y; Skel, Y; Fluid, Y",,0,0
@@ -34047,6 +34048,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Nest, N; Eggset, N",,0,0
 "Nest, N; Eggset, U",,0,0
 "Nest, N; Eggset, Y",,0,0
+"Nest, N; Skin, N",,0,0
 "Nest, N; Skin, N; Eggset, N",,0,0
 "Nest, N; Skin, U; Eggset, N",,0,0
 "nest, none",,0,0
@@ -38364,6 +38366,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "pedal+tooth frags",,0,0
 "Peel of part of Holotype",,0,0
 "Peels",,0,0
+"Pellet, U",,0,0
 "Pellet, Y",,0,0
 "pellets",,0,0
 "pellets | tissue",,0,0
@@ -47057,6 +47060,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel partial - 1","skeleton partial - 1",0,1
 "Skel partial - 1; Skin - 1","skeleton partial - 1 | skin - 1",0,1
 "Skel partial - 6","skeleton partial - 6",0,1
+"Skel partial, N",,0,0
 "Skel partial, U",,0,0
 "Skel partial, Y",,0,0
 "Skel partial, Y; Fluid, U",,0,0
@@ -47323,6 +47327,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel, Y; Syrinx, Y; Skin, Y; Tissue, Y",,0,0
 "Skel, Y; Syrinx, Y; Tissue, U",,0,0
 "Skel, Y; Syrinx, Y; Tissue, U; Flat_skin, U",,0,0
+"Skel, Y; Syrinx, Y; Tissue, U; Flat_skin, Y",,0,0
 "Skel, Y; Syrinx, Y; Tissue, Y",,0,0
 "Skel, Y; Syrinx, Y; Tissue, Y; Flat_skin, Y",,0,0
 "Skel, Y; Syrinx, Y; Tissue, Y; Flat_skin, Y; Wings_tail, Y",,0,0
@@ -47340,6 +47345,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel, Y; Tissue, U; Feather, Y",,0,0
 "Skel, Y; Tissue, U; Flat_skin, N",,0,0
 "Skel, Y; Tissue, U; Flat_skin, U",,0,0
+"Skel, Y; Tissue, U; Flat_skin, Y",,0,0
 "Skel, Y; Tissue, U; Genbank, Y; Genbank, Y",,0,0
 "Skel, Y; Tissue, U; Skin, U",,0,0
 "Skel, Y; Tissue, U; Skin, U; Genbank, Y",,0,0
@@ -47350,6 +47356,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel, Y; Tissue, U; Wings_tail, Y",,0,0
 "Skel, Y; Tissue, Y",,0,0
 "Skel, Y; Tissue, Y; Feather, Y",,0,0
+"Skel, Y; Tissue, Y; Feather, Y; Skin, Y; Wings_tail, Y",,0,0
 "Skel, Y; Tissue, Y; Flat_skin, Y",,0,0
 "Skel, Y; Tissue, Y; Flat_skin, Y; Feather, Y",,0,0
 "Skel, Y; Tissue, Y; Flat_skin, Y; Syrinx, Y",,0,0
@@ -52704,6 +52711,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, N; Skel, Y",,0,0
 "Skin, N; Tissue, U",,0,0
 "Skin, N; Tissue, Y",,0,0
+"Skin, N; Tissue, Y; Skel, Y",,0,0
 "Skin, N; Tissue; Thin section, Y",,0,0
 "skin, nest, eggs",,0,0
 "skin, nest, eggs, Tissue number 20223",,0,0
@@ -53165,6 +53173,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Skin & sex by L W Wing, Y",,0,0
 "Skin, skin and label",,0,0
 "Skin, skin and label, Y",,0,0
+"Skin, skin and label, Y; Skel, Exch",,0,0
 "Skin, skin and sex",,0,0
 "Skin, Skin and sex by , Y",,0,0
 "Skin, Skin and sex by Dale A. Zimmerman.",,0,0
@@ -69715,6 +69724,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Y'",,0,0
 "Skin, Y; Eggset, N",,0,0
 "Skin, Y; Eggset, Y",,0,0
+"Skin, Y; Feather",,0,0
 "Skin, Y; Feather, 1",,0,0
 "Skin, Y; Feather, N",,0,0
 "Skin, Y; Feather, N; Skel, N",,0,0
@@ -69769,6 +69779,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Y; Skel, Sept. 4, 1945, Y",,0,0
 "Skin, Y; Skel, U",,0,0
 "Skin, Y; Skel, Y",,0,0
+"Skin, Y; Skel, Y; Eggset, Y",,0,0
 "Skin, Y; Skel, Y; Feather, N",,0,0
 "Skin, Y; Skel, Y; Skin/toe clip, N",,0,0
 "Skin, Y; Skel, Y; Syrinx, Y; Tissue, Y",,0,0
@@ -73425,6 +73436,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Syrinx, Y; Skel, Y; Tissue, Y; Flat_skin, Y; Wings_tail, Y",,0,0
 "Syrinx, Y; Skel, Y; Tissue, Y; Skin, Y",,0,0
 "Syrinx, Y; Skel, Y; Tissue, Y; Wings_tail, Y",,0,0
+"Syrinx, Y; Skel, Y; Tissue, Y; Wings_tail, Y; Skin, Y",,0,0
 "Syrinx, Y; Skel, Y; Wings_tail, U",,0,0
 "Syrinx, Y; Skel, Y; Wings_tail, Y",,0,0
 "Syrinx, Y; Skin, N; Tissue, Y",,0,0
@@ -73448,6 +73460,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Syrinx, Y; Tissue, U; Skin, Y",,0,0
 "Syrinx, Y; Tissue, U; Skin, Y; Skel, Y",,0,0
 "Syrinx, Y; Tissue, Y",,0,0
+"Syrinx, Y; Tissue, Y; Feather, Y; Flat_skin, Y; Skel, Y",,0,0
 "Syrinx, Y; Tissue, Y; Flat_skin, U; Skel, Y",,0,0
 "Syrinx, Y; Tissue, Y; Flat_skin, Y; Skel, Y; Feather, Y",,0,0
 "Syrinx, Y; Tissue, Y; Fluid, Y",,0,0
@@ -74130,6 +74143,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "THIN SECTION OF MAXILLA",,0,0
 "THIN SECTION OF PALATAL TUSK",,0,0
 "Thin section, Y",,0,0
+"Thin section, Y; Skel partial, Y",,0,0
 "Thin section, Y; Skel, Y",,0,0
 "Thin section, Y; Tissue, Y; Skin, Y",,0,0
 "Thin section, Y; Wings_tail",,0,0
@@ -75287,6 +75301,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue, U; Skel, Y; Skin, Y",,0,0
 "Tissue, U; Skel, Y; Syrinx, Y",,0,0
 "Tissue, U; Skel, Y; Wings_tail, U",,0,0
+"Tissue, U; Skel, Y; Wings_tail, Y",,0,0
 "Tissue, U; Skin, Exch",,0,0
 "Tissue, U; Skin, N",,0,0
 "Tissue, U; Skin, U",,0,0
@@ -75315,6 +75330,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue, U; Skin, Y; Syrinx, Y; Genbank, Y; Genbank, Y; Skel, Y",,0,0
 "Tissue, U; Skin, Y; Syrinx, Y; Skel, Y",,0,0
 "Tissue, U; Skin, Y; Wings_tail, U",,0,0
+"Tissue, U; Skin, Y; Wings_tail, Y",,0,0
 "Tissue, U; Syrinx, Y; Feather, U; Skin, U; Genbank, Y; Genbank, Y; Genbank, Y; Skel, Y",,0,0
 "Tissue, U; Syrinx, Y; Feather, U; Skin, Y; Genbank, Y; Genbank, Y; Genbank, Y; Skel, Y",,0,0
 "Tissue, U; Syrinx, Y; Skel, Y",,0,0
