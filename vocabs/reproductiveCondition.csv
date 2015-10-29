@@ -240,6 +240,7 @@
 "1 emb; CR=30mm",,0,0
 "1 emb; CR-3",,0,0
 "1 embryo",,0,0
+"1 embryo 16mm;",,0,0
 "1 Embryo, 20 mm",,0,0
 "1 embryo, 25mm",,0,0
 "1 Embryo, 28 mm",,0,0
@@ -255,8 +256,14 @@
 "1 embryo, NL, CR (crown-rump length) = 19.9",,0,0
 "1 embryo, NL, CR (crown-rump length) = 6.1",,0,0
 "1 embryo, NL, CR (crown-rump length) =13.5",,0,0
+"1 embryo: 16mm;",,0,0
+"1 embryo: 9mm;",,0,0
+"1 embryo; 12mm;",,0,0
+"1 embryo; 3.5mm;",,0,0
 "1 embryo; NL",,0,0
 "1 embryo?",,0,0
+"1 embryos 12mm;",,0,0
+"1 embryos 13mm;",,0,0
 "1 F emb: cr= 76.3mm *",,0,0
 "1 fetus; CR (crown-rump length) = 41 mm",,0,0
 "1 L emb",,0,0
@@ -335,6 +342,7 @@
 "16mm yolk",,0,0
 "17mm egg in oviduct",,0,0
 "18 kg",,0,0
+"18x10;",,0,0
 "19.5 kg",,0,0
 "193-58-26-5=[>100]",,0,0
 "19x9, 8x6",,0,0
@@ -374,6 +382,9 @@
 "2 emb; CR-4",,0,0
 "2 emb; CR-5",,0,0
 "2 embryos",,0,0
+"2 embryos 37mm;",,0,0
+"2 embryos 6mm long;",,0,0
+"2 embryos right uterus, 1 embryo left uterus;",,0,0
 "2 embryos, 18mm",,0,0
 "2 embryos, 3 mm",,0,0
 "2 embryos, 30 mm",,0,0
@@ -476,10 +487,13 @@
 "2 immature, 1 adult",,0,0
 "2 juveniles and 1 adult",,0,0
 "2 juveniles and 1 adult (received in flesh)",,0,0
+"2 large em;",,0,0
+"2 large embryos;",,0,0
 "2 lg. eggs",,0,0
 "2 mm",,0,0
 "2 pac scars: 1(L)&1(R)",,0,0
 "2 pac scars:1(L),1(R)",,0,0
+"2 partly developed foetuses;",,0,0
 "2 plac scar",,0,0
 "2 plac scar ?",,0,0
 "2 plac scar 1L 1R",,0,0
@@ -556,10 +570,14 @@
 "3 emb; CR-40",,0,0
 "3 emb; CR-5",,0,0
 "3 Embryo",,0,0
+"3 embryo L, 2 embryo R, 3 mm;",,0,0
 "3 embryos",,0,0
+"3 embryos present;",,0,0
+"3 embryos R, 2L; embryos = 22 each;",,0,0
 "3 embryos X 15",,0,0
 "3 embryos, 17 mm in left horn",,0,0
 "3 embryos, 18 mm",,0,0
+"3 embryos;",,0,0
 "3 embs",,0,0
 "3 embs, 12mm",,0,0
 "3 embs, 3mm",,0,0
@@ -662,6 +680,7 @@
 "3 embs; CR=43mm",,0,0
 "3 lg. embryo; not lact.",,0,0
 "3 mm",,0,0
+"3 nearly full-term embryos;",,0,0
 "3 neonateS; mother of ROMM 15755, 15756, 15757",,0,0
 "3 ova, lgst ovum= 1.4mm",,0,0
 "3 pac scars",,0,0
@@ -680,6 +699,7 @@
 "3 scars: left",,0,0
 "3 scars:2(L)&1(R)",,0,0
 "3 unshelled eggs 5x9mm",,0,0
+"3 very small embryos;",,0,0
 "3 X 0; cr = 1 mm",,0,0
 "3 X 16mm",,0,0
 "3 X 2, CR = 10mm",,0,0
@@ -690,6 +710,7 @@
 "3 young; CR-17",,0,0
 "3.3 mm ; no sc. Emb < 1mm",,0,0
 "3.5 By 3.0 mm",,0,0
+"3-17mm embryos;",,0,0
 "32 ova; largest 23X18",,0,0
 "347-114-45-11",,0,0
 "3R, 1L, CR (crown-rump length) =6",,0,0
@@ -733,6 +754,7 @@
 "4 embryo; not lact.",,0,0
 "4 embryos",,0,0
 "4 embryos = 11 mm",,0,0
+"4 embryos near term;",,0,0
 "4 embryos x 12",,0,0
 "4 embryos x 2",,0,0
 "4 embryos, 10mm crown to rump",,0,0
@@ -745,6 +767,9 @@
 "4 embryos, 30mm",,0,0
 "4 embryos, 6-7mm",,0,0
 "4 embryos, 8mm, FPG-18 days",,0,0
+"4 embryos, 8mm;",,0,0
+"4 embryos, very small;",,0,0
+"4 embryos;",,0,0
 "4 embs",,0,0
 "4 embs, 2R, 2L, 3 mm",,0,0
 "4 embs, lact",,0,0
@@ -883,6 +908,7 @@
 "4 small embryos",,0,0
 "4 teats post lac.",,0,0
 "4 undev embs: 3(R)&1(L)",,0,0
+"4 well-developed fetuses;",,0,0
 "4 x 2 mm",,0,0
 "4 yolk-filled follicles",,0,0
 "4 young",,0,0
@@ -935,6 +961,7 @@
 "5 embryos, 8mm",,0,0
 "5 embryos, lactating",,0,0
 "5 embryos, near term",,0,0
+"5 embryos, very small;",,0,0
 "5 embs",,0,0
 "5 embs, 3R, 2L, 5 mm",,0,0
 "5 embs.",,0,0
@@ -1047,6 +1074,7 @@
 "6 embryo x 14,2L,4R",,0,0
 "6 embryos",,0,0
 "6 embryos too small to measure",,0,0
+"6 embryos, 1/2 developed;",,0,0
 "6 embryos, 12mm",,0,0
 "6 embryos, 15mm long",,0,0
 "6 embryos, 18mm",,0,0
@@ -1054,6 +1082,7 @@
 "6 embryos, 3mm",,0,0
 "6 embryos, about 1 week, 4 mammae",,0,0
 "6 embryos: 3 R, 3 L; CR= 2 mm",,0,0
+"6 embryos;",,0,0
 "6 embs",,0,0
 "6 embs, 13 mm",,0,0
 "6 embs/2 R/4 L/cr < 2 mm",,0,0
@@ -1109,6 +1138,7 @@
 "6 scars: 3 R, 3 L",,0,0
 "6 scars: 3lf, 3rt; lact.",,0,0
 "6 scars: 3lf,3rt",,0,0
+"6 small embryos;",,0,0
 "6 undev embs in oviducts",,0,0
 "6 well dev. embs",,0,0
 "6 x 5",,0,0
@@ -1304,6 +1334,7 @@
 "AI","inactive",0,1
 "Alac","lactating",0,1
 "Alces americanus",,0,0
+"along highway in dry pines;",,0,0
 "AM","multiparous",0,1
 "AMI","multiparous, inactive",0,1
 "AML?","lactating?",0,1
@@ -1314,11 +1345,13 @@
 "AN","nulliparous",0,1
 "ANI","inactive",0,1
 "AP","pregnant",0,1
+"apparently lactating;",,0,0
 "APPEARS TO BE FEMALE.",,0,0
 "Apre","pregnant",0,1
 "AT 3x2","unknown",0,1
 "ATA","unknown",0,1
 "ATE","scrotal testicles",0,1
+"baculum 102.1;",,0,0
 "blood in uterus; adult",,0,0
 "born 23 May 1948",,0,0
 "Born 7/18/1971 to UAZ34319",,0,0
@@ -1334,6 +1367,7 @@
 "CANNOT DETERMINE.",,0,0
 "CANNOT SEX, DRY.",,0,0
 "CANNOT SEX.",,0,0
+"carrying new-born young;",,0,0
 "carrying young joey (fem)",,0,0
 "CCNO",,0,0
 "COMMENT: 2 OVARIES? - K.C.PARKES.",,0,0
@@ -1511,6 +1545,9 @@
 "EMB 18 mm","pregnant",0,1
 "emb 1L, 0R",,0,0
 "emb 22x15","pregnant",0,1
+"emb 2R 2 x 1 mm; mammary tissue developed;",,0,0
+"emb 2R, 2L;",,0,0
+"emb 2R, 3L;",,0,0
 "EMB 2x1","pregnant",0,1
 "EMB 3 emb. 1 der, 2 1zq.","pregnant",0,1
 "EMB 3x7","pregnant",0,1
@@ -1524,16 +1561,24 @@
 "emb., cr = 23",,0,0
 "emb., cr = 25",,0,0
 "emb/2R/2L/cr X 30 mm",,0,0
+"emb: 2R + 2L; CR: 1mm;",,0,0
 "Emb:1(R),0(L)",,0,0
 "emb; cr = 11",,0,0
 "emb-1/cr = 14",,0,0
 "emb-1/cr = 20",,0,0
 "Embry-early stage, +/- 4",,0,0
 "Embryo",,0,0
+"embryo ""L"" 1mm;",,0,0
 "embryo (apprx. 4 mos.)",,0,0
 "embryo (apprx. 5 mos.)",,0,0
 "Embryo =15.4",,0,0
+"embryo 1.4 g, 2R 3L;",,0,0
 "embryo 15 X 14",,0,0
+"embryo 17mm;",,0,0
+"Embryo 1R+ 2L CR=9mm;",,0,0
+"embryo 2R 3L, CR 4 mm;",,0,0
+"Embryo 2R+2L CR= 8mm;",,0,0
+"embryo 3R, 2L--12mm;",,0,0
 "embryo of ROMM 19766",,0,0
 "embryo of RROMM 20327",,0,0
 "embryo of RROMM 60455",,0,0
@@ -1543,13 +1588,36 @@
 "embryo= 30",,0,0
 "embryo= 30mm",,0,0
 "embryo= 42",,0,0
+"Embryo= 9mm 2L 2R;",,0,0
 "embryos",,0,0
+"embryos ""L"" 7mm;",,0,0
+"embryos 17mm;",,0,0
+"embryos 18 mm, 3R 2L;",,0,0
 "embryos 1L, 2L",,0,0
+"embryos 2L 1R 23 mm;",,0,0
+"embryos 2L, 1R;",,0,0
+"embryos 2L, 3R;",,0,0
+"embryos 2R, 1L, 16mm each;",,0,0
 "Embryos 2R1L, 12mm",,0,0
 "embryos 3L, 1L",,0,0
+"embryos 3L, 3R;",,0,0
+"embryos 3L;",,0,0
+"Embryos 3R 2L LR= 15mm;",,0,0
+"embryos 5L, 1R;",,0,0
+"embryos 8R 3L, 7 mm;",,0,0
 "embryos R4, L2, all 20 x 14",,0,0
 "embryos, 1 mm (?)",,0,0
 "embryos, 3R, 2L",,0,0
+"embryos: 1 left, 1 right; small;",,0,0
+"embryos: 1 Right, 2 Left; 8mm;",,0,0
+"embryos: 1L; 15mm;",,0,0
+"embryos: 2L, 1R; 19mm;",,0,0
+"embryos: 2L, 1R; 7mm;",,0,0
+"embryos: 2R, 2L; 5mm;",,0,0
+"embryos: 2R, 2L; 9mm;",,0,0
+"embryos: 3L, 2R; 5mm;",,0,0
+"Embryos: 3R, 3L; 16mm;",,0,0
+"embryos;",,0,0
 "embs. 1 X 1, CR = 17mm",,0,0
 "embs. 1LX4R, CRL =  27 mm",,0,0
 "embs. 3LX3R, CRL =  39 mm",,0,0
@@ -1624,6 +1692,7 @@
 "Female full od well developed eggs",,0,0
 "Female Gravid",,0,0
 "Female neonate",,0,0
+"female not lactating;",,0,0
 "Female of pair",,0,0
 "FEMALE OR IMMATURE MALE.",,0,0
 "Female subadult",,0,0
@@ -1665,11 +1734,13 @@
 "Female, with 10 large eggs",,0,0
 "Femalegave birth to 5 live, 2 stillborn",,0,0
 "Female-Gravid",,0,0
+"fetuses R: horn: 15, 15, 11 mm, L: 4 mm;",,0,0
 "FIDE W.S.CLARKE.",,0,0
 "first year subadult",,0,0
 "five embryos",,0,0
 "flacid",,0,0
 "foetus (male), full term",,0,0
+"foetus preserved;",,0,0
 "follicles granular",,0,0
 "follicles minute",,0,0
 "formative","formative",1,1
@@ -1777,6 +1848,7 @@
 "GONADS DECOMPOSED. TWO DUCTS VISIBLE.",,0,0
 "GONADS DECOMPOSED. TWO SIMILAR DUCTS.",,0,0
 "GONADS DECOMPOSED. TWO SIMILAR SIZE DUCTS.",,0,0
+"gonads degraded; mammaries vascularized;",,0,0
 "GONADS DESTROYED",,0,0
 "GONADS DESTROYED BY CAR.",,0,0
 "GONADS DESTROYED BY ZOO AUTOPSY.",,0,0
@@ -1960,6 +2032,7 @@
 "GONADS: TESTES: LEFT BILOBED,12 X 6 & 6 X 5, RIGHT 17 X 6.5 MM, DRAWN.",,0,0
 "GONADS: TESTES: LEFt: BLACK, RIGHT: YELLOWISH.",,0,0
 "GONADS: TESTES: PROBABLY INACCURATE.",,0,0
+"gonads=testis 8 x 4 mm",,0,0
 "gravdi",,0,0
 "gravid",,0,0
 "gravid (100+ mature eggs)",,0,0
@@ -1982,6 +2055,8 @@
 "gravid?",,0,0
 "gravide",,0,0
 "H",,0,1
+"had 2 nearly full-grown young;",,0,0
+"had puppies;",,0,0
 "had suckled",,0,0
 "hatched eggcase in cloaca",,0,0
 "hatching",,0,0
@@ -19649,10 +19724,12 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "immature, t. inguinal",,0,0
 "immature, testes abdominal",,0,0
 "immature, testis 3mm",,0,0
+"immature;",,0,0
 "immature?",,0,0
 "imperforate",,0,0
 "IMPOSSIBLE TO SEX INTERNALLY.",,0,0
 "in breeding condition",,0,0
+"in desert thorn and brush country;",,0,0
 "Inact",,0,0
 "inact.",,0,0
 "inact./ no embryo",,0,0
@@ -19707,6 +19784,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "juvenile; not breeding","juvenile",0,1
 "L",,0,0
 "L  testis = 8 x 4 mm",,0,0
+"L ov 220 mm, R ov 420 mm;",,0,0
 "L testes = 12 x 5 mm",,0,0
 "L testis = 2 x 1 mm",,0,0
 "L testis = 4 X 1 (L X W)",,0,0
@@ -19813,6 +19891,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Lact; pac scars:2(R)&2(R)",,0,0
 "Lact; pac scars:3(R)&2(L)",,0,0
 "Lact;5 pac scars:3(R)&2(L",,0,0
+"lactaing;",,0,0
 "lactando","lactating",0,1
 "lactating","lactating",1,1
 "lactating (0,0)",,0,0
@@ -19820,6 +19899,12 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "lactating ?",,0,0
 "lactating ?; parous",,0,0
 "lactating ?; young female attached",,0,0
+"lactating and gravid;",,0,0
+"Lactating Embryo 2R+2L;",,0,0
+"lactating no embryo;",,0,0
+"Lactating Placental Scar 2R 2L;",,0,0
+"Lactating Placental Scars 2R 3L;",,0,0
+"Lactating Plactential Scars 2R 2L;",,0,0
 "lactating, 2R, 3L embryos",,0,0
 "lactating, 3 embs.",,0,0
 "Lactating, 3 scars, R",,0,0
@@ -19829,14 +19914,22 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "lactating, 8 tits",,0,0
 "lactating, EPG-18 days",,0,0
 "Lactating, no emb",,0,0
+"lactating, no embryo;",,0,0
 "lactating, no embryos",,0,0
 "lactating, no embs",,0,0
 "Lactating, no embs; scars",,0,0
 "lactating, one young clinging to belly",,0,0
 "Lactating, parous",,0,0
+"lactating, placental scar 3R 3L;",,0,0
+"lactating, placental scars 1R 2L;",,0,0
+"lactating, placental scars 2R + 3L;",,0,0
+"lactating, placental scars 2R 2L;",,0,0
+"lactating, placental scars 3L 0R;",,0,0
+"lactating, placental scars 3R + 2L;",,0,0
 "lactating, pregnant",,0,0
 "Lactating, scars","lactating, scars",1,1
 "lactating,m FPG-21 days",,0,0
+"lactating;",,0,0
 "lactating;  4 PLAC SC",,0,0
 "lactating;  MAMMARY TISSUE LIGHT; vagina imperforate; plac scar",,0,0
 "lactating; 1 emb; CR-98",,0,0
@@ -19860,6 +19953,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "lactating; 6 SWELLINGS",,0,0
 "lactating; 6 young",,0,0
 "lactating; 7 plac scar",,0,0
+"lactating; 8 corpora lutea;",,0,0
 "lactating; 8 N",,0,0
 "lactating; 8 NIPPLES",,0,0
 "lactating; 8 plac scar",,0,0
@@ -19883,6 +19977,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "lactating; no emb; 3 plac scar",,0,0
 "lactating; no emb; 8 plac scar",,0,0
 "lactating; no emb; 9 plac scar",,0,0
+"lactating; no embryos;",,0,0
 "lactating; nulliparous",,0,0
 "lactating; nursing",,0,0
 "lactating; OVAR 7L, 7R",,0,0
@@ -19925,6 +20020,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "laid eggs",,0,0
 "lamb",,0,0
 "large",,0,0
+"Large embryo preserved.;",,0,0
 "Large female w/ eggs",,0,0
 "large gonads",,0,0
 "Large mam.",,0,0
@@ -19966,6 +20062,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Larvae, lot of 7",,0,0
 "larvae. lot of 7",,0,0
 "late lac.",,0,0
+"late pregnant, four male fetuses;",,0,0
 "late vitellog follicles",,0,0
 "lct; 1 emb; cr = 7",,0,0
 "LEFT GONADS NOT SEEN.",,0,0
@@ -20175,10 +20272,16 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "mammae 1:2 = 6",,0,0
 "mammae 2+2",,0,0
 "mammae 2p +4",,0,0
+"mammae active;",,0,0
 "mammae enlarged",,0,0
+"mammae enlarged tho' mammary tissue not present;",,0,0
+"mammae enlarged;",,0,0
 "mammae enlarged; had been nursing",,0,0
 "mammae enlarged; Post lactating",,0,0
 "mammae: 1 + 2 = 6",,0,0
+"mammaries enlarged;",,0,0
+"mammary glands active;",,0,0
+"mammary glands not active;",,0,0
 "mammary tissue present",,0,0
 "mammary tissue present; lactating",,0,0
 "mammary tissue present; not lactating",,0,0
@@ -20260,6 +20363,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "NL, 1 embryo",,0,0
 "NL, NP",,0,0
 "NL, NR",,0,0
+"No Data;",,0,0
 "no developing ova",,0,0
 "NO DUCTS VISIBLE.",,0,0
 "no emb","not pregnant",0,1
@@ -20360,6 +20464,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "no embryo, sub-adult",,0,0
 "no embryo, turgid",,0,0
 "no embryo. not lactating",,0,0
+"No embryo;",,0,0
 "no embryos",,0,0
 "no embryos or scars",,0,0
 "no embryos or scars; enlarged nipples",,0,0
@@ -20374,6 +20479,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "No embryos, plac scars",,0,0
 "no embryos, subadult",,0,0
 "No embryos, uterus and nipples enlarged",,0,0
+"no embryos;",,0,0
 "No embrys, vag closed",,0,0
 "no embs","not pregnant",0,1
 "No embs (?)",,0,0
@@ -20445,6 +20551,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "NO plac scar",,0,0
 "no placental scars",,0,0
 "no pouch young",,0,0
+"no pregnancies;",,0,0
 "no preñ, no lac","non-lactating, not pregnant",0,1
 "NO RED ON CROWN.",,0,0
 "no repro data",,0,0
@@ -20516,7 +20623,10 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "not lact.; one lg. embryo",,0,0
 "not lact.; one sm. embryo",,0,0
 "not lactating",,0,0
+"not lactating or pregnant;",,0,0
 "not lactating, no embryos",,0,0
+"Not lactating. Postpartum: large uterus of about 3-4cm diameter, coagulated blood in the uterine lumen;",,0,0
+"not lactating;",,0,0
 "not MOULTING, testes-11X7",,0,0
 "not observed",,0,0
 "not pert, t = 13 X 8 & 15",,0,0
@@ -20524,6 +20634,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "not pert., no emb",,0,0
 "not pert., no emb.",,0,0
 "not preg.",,0,0
+"not pregnant;",,0,0
 "not pregnant; not lactating",,0,0
 "not pregnant; not lactating; HAD SUCKLED young",,0,0
 "not pregnant; not lactating; mammary tissue present",,0,0
@@ -20538,6 +20649,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "not pregnant; not lactating; vagina imperforate",,0,0
 "not pregnant; not lactating; vagina perforate; plac scar",,0,0
 "Not present",,0,0
+"Not recorded;",,0,0
 "not reproductively active",,0,0
 "NOT SEXED, BODY DESSICATED.",,0,0
 "NOTES",,0,0
@@ -20548,20 +20660,25 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "NULLI parous",,0,0
 "Nulliparous",,0,0
 "nulliparous ?",,0,0
+"nulliparous, molting;",,0,0
+"nulliparous;",,0,0
 "nulliparous; 1 PLAC  SC",,0,0
 "nulliparous; lactating",,0,0
 "nulliparous; no emb",,0,0
 "nulliparous; ORIGINAL ID AS A MALE",,0,0
 "nulliparous; pregnant ?",,0,0
+"nulliparous?;",,0,0
 "Nulliparus",,0,0
 "Nurs; 4@48",,0,0
 "nursing","nursing",1,1
 "nursing female, ovaries shrunken",,0,0
 "nursing, no embryos",,0,0
+"nursing;",,0,0
 "O.E.",,0,0
 "O.N.E.",,0,0
 "O.N.E. = 5mm",,0,0
 "O.S.E.",,0,0
+"O.S.E.;",,0,0
 "old female? (antlers?)",,0,0
 "Old Male",,0,0
 "old plac scar; teats worn",,0,0
@@ -20634,6 +20751,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "ova 1mm",,0,0
 "ova 2 mm",,0,0
 "ova 2 mm.",,0,0
+"ova 2 mm;",,0,0
 "ova 3 mm",,0,0
 "ova 3mm, ovary = 5x10mm",,0,0
 "ova ca 1mm",,0,0
@@ -20982,7 +21100,10 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "plac scar-9; lactating",,0,0
 "plac scars",,0,0
 "Plac scars: 2(R)&2(L)",,0,0
+"placenta scars 2R+ 2L;",,0,0
 "placental scars",,0,0
+"Placental scars 2L 1R;",,0,0
+"Placental scars 2R 3L;",,0,0
 "placental scars, 4 recent",,0,0
 "Placental scars: 4rt,3lf",,0,0
 "Placental scars: 4rt,5lf",,0,0
@@ -21005,6 +21126,9 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "post-lactating, 3 scars R",,0,0
 "post-partum",,0,0
 "post-partum scars 2R 3L",,0,0
+"postpartum;",,0,0
+"Postpartum; large uterus L=4 cm, W=3.5 cm, coagulated blood in the uterine lumen;",,0,0
+"pouch yg;",,0,0
 "preg",,0,0
 "Preg ?",,0,0
 "preg, cr=15mm",,0,0
@@ -21028,6 +21152,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "pregnant ?; parous",,0,0
 "pregnant emb.",,0,0
 "pregnant or lactating",,0,0
+"pregnant with 4 feti, 3/4 developed;",,0,0
+"pregnant with 4 fetus, size ~ 2.5 cm;",,0,0
 "pregnant,  1 (?) embryo",,0,0
 "pregnant, ~3 embryos",,0,0
 "Pregnant, 1 embryo",,0,0
@@ -21037,10 +21163,15 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Pregnant, 3 embryos",,0,0
 "pregnant, 3 fetuses",,0,0
 "pregnant, 4 embryos",,0,0
+"pregnant, 5 fetuses;",,0,0
 "Pregnant, 7 embryos",,0,0
 "Pregnant, 8@9",,0,0
 "pregnant, embryos in alc",,0,0
+"Pregnant. 2 fetuses.;",,0,0
+"Pregnant. 4 fetuses.;",,0,0
+"Pregnant. 6 fetuses.;",,0,0
 "pregnant: 4 embryos",,0,0
+"pregnant;",,0,0
 "pregnant; 1 blastocust",,0,0
 "pregnant; 1 emb",,0,0
 "pregnant; 1 emb 0L 1R; CR-18; resorbed emb 1R; 2 plac scar 1L 1R",,0,0
@@ -21394,6 +21525,12 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "pregnant; 4 emb; CR-9.5",,0,0
 "pregnant; 4 emb; lactating",,0,0
 "pregnant; 4 emb; OVULE SIZE 10X7",,0,0
+"pregnant; 4 female fetuses of 6.5 cm of carapace lenght;",,0,0
+"pregnant; 4 fetuses of 6.3 cm of carapace lenght;",,0,0
+"pregnant; 4 fetuses, 9.5 cm carapace lenght;",,0,0
+"pregnant; 4 male fetuses 6 cm in carapace lenght;",,0,0
+"pregnant; 4 male fetuses 8.5 cm of carapace lenght;",,0,0
+"pregnant; 4 male fetuses; 5.5 cm carapace lenght. One fetus partially descendent into the birth canal, amnion intact;",,0,0
 "pregnant; 4 plac scar",,0,0
 "pregnant; 4 swellings",,0,0
 "pregnant; 5 emb",,0,0
@@ -21813,6 +21950,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "pregnant; vagina perforate; emb; 2 R emb; CR-12",,0,0
 "pregnant; with 2 young born in cage",,0,0
 "pregnant; with foetus",,0,0
+"pregnant--4 embryos: 20, 21, 21, 19mm;",,0,0
 "Pren","pregnant",0,1
 "preñ","pregnant",0,1
 "preñ 1 emb 11mm","pregnant",0,1
@@ -21828,6 +21966,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "preñ: 1 emb. 25mm izq","pregnant",0,1
 "preñada","pregnant",0,1
 "Preñada, embrion 23mm","pregnant",0,1
+"presence of mammary tissue;",,0,0
 "PREVIOUSLY MARKED FEMALE.",,0,0
 "PREVIOUSLY MARKED UNKNOWN.",,0,0
 "primi",,0,0
@@ -21843,6 +21982,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "recently given birth to young",,0,0
 "recently lactating",,0,0
 "reporductive tract very small",,0,0
+"reproductive status unknown;",,0,0
 "reputed litter of 13; mate of ROMM 16983; mother of ROMM 16977-16981, 19281-19282",,0,0
 "rest, 11 mm",,0,0
 "rest, 12 mm",,0,0
@@ -21852,8 +21992,10 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "rest, 7 mm",,0,0
 "rest. 15 mm",,0,0
 "Right testis 24 mm",,0,0
+"right testis is 9mm x 7mm;",,0,0
 "RIGHT TESTIS REMOVED IN AUTOPSY.",,0,0
 "ripe egg",,0,0
+"roadside camp;",,0,0
 "rt testis = 1.5mm",,0,0
 "Rt testis = 12x16, epid +",,0,0
 "Rt testis = 13x25, epid +",,0,0
@@ -21869,7 +22011,10 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "scaring, lactating",,0,0
 "scars 1R, 2L",,0,0
 "scars present",,0,0
+"scars, 1R, 3L. mammary glands vascularized. some dorsal molt.;",,0,0
+"scars, 2L, 2R; uteri swollen. mammary glands vascularized. some dorsal molt.;",,0,0
 "scars, 2R + 3L",,0,0
+"scars, 2R, 1L;",,0,0
 "scars, parous, vag. open",,0,0
 "scars: 1(R)&0(L)",,0,0
 "Scars: 1(R)&3(L)",,0,0
@@ -21928,6 +22073,9 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "scrotal, x6",,0,0
 "scrotal, x7",,0,0
 "scrotal?",,0,0
+"scrotum 25mm. Open rolling hills, mixed woodland, some dense brush. Soil loamy. Conditions wet-normal. Trapped in tunnel through 8-10"" grass in grass/brush open area.;",,0,0
+"scrotum 27;",,0,0
+"scrotum 30mm;",,0,0
 "see catalogue",,0,0
 "see comments",,0,0
 "see drawing on label",,0,0
@@ -21951,6 +22099,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "SEX FIDE K.C.PARKES.",,0,0
 "SEX ID FIDE J.A. (SANDY) BARTLE, 1982.",,0,0
 "SEX NOT RELIABLE (K.C.PARKES)",,0,0
+"sex organs quiescent;",,0,0
 "Sex organs small",,0,0
 "sex organs small, nesting",,0,0
 "SEX POSSIBLY FEMALE.",,0,0
@@ -22038,6 +22187,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "small oviduct",,0,0
 "small reporductive organs",,0,0
 "Small testes",,0,0
+"Small uterus;",,0,0
 "small white left gonad",,0,0
 "small, nesting ?",,0,0
 "SPECIMEN GUTTED, UNABLE TO SEX.",,0,0
@@ -22111,12 +22261,23 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T ± 9 mm",,0,0
 "T 10x6","unknown",0,1
 "T 11 x 6",,0,0
+"T 16;",,0,0
+"T 2 mm;",,0,0
+"T 22;",,0,0
 "T 25x1.5","unknown",0,1
 "T 28 x 12",,0,0
+"T 2x1.5;",,0,0
+"T 3.5x2;",,0,0
+"T 30;",,0,0
+"T 31mm;",,0,0
+"T 34;",,0,0
 "T 3x2","unknown",0,1
+"T 4 mm;",,0,0
 "T 4 x 3",,0,0
 "T 4x3","unknown",0,1
+"T 5 mm;",,0,0
 "T 5 x 3",,0,0
+"T 50mm;",,0,0
 "T 7.25","unknown",0,1
 "T 7x4","unknown",0,1
 "T 9x7","unknown",0,1
@@ -22151,17 +22312,43 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "t. scrotal, 11x3",,0,0
 "t. scrotal, 12x8",,0,0
 "T.E.",,0,0
+"T.E.;",,0,0
 "T.M.E.",,0,0
 "T.N.E",,0,0
 "T.N.E.",,0,0
 "t.s. 12 x 16",,0,0
 "T.S.E.",,0,0
 "T<1mm",,0,0
+"T= 1.5x1;",,0,0
+"T= 10x6;",,0,0
 "T= 12X7","unknown",0,1
+"T= 12x7;",,0,0
+"T= 12x8;",,0,0
+"T= 13x6;",,0,0
+"T= 13x8;",,0,0
+"T= 2.0;",,0,0
+"T= 2.5x2;",,0,0
 "T= 22 X 20 mm",,0,0
+"T= 3.5x2;",,0,0
+"T= 3x1.5;",,0,0
+"T= 3x2;",,0,0
+"T= 4.5x2.5;",,0,0
+"T= 4x2;",,0,0
+"T= 4x3;",,0,0
 "T= 5 mm, scrot.",,0,0
+"T= 5.5x3.5;",,0,0
+"T= 5x2;",,0,0
+"T= 5x4;",,0,0
+"T= 6x3;",,0,0
+"T= 6x4;",,0,0
 "T= 8 mm, scrot.",,0,0
+"T= 8x11;",,0,0
+"T= 8x5.5;",,0,0
 "T= 9 mm, scrot.",,0,0
+"T= 9x5.5;",,0,0
+"T= 9x5;",,0,0
+"T= 9x7;",,0,0
+"T= small;",,0,0
 "T=0.5 mm, abdom.",,0,0
 "T=1 mm",,0,0
 "T=1 mm, abdom.",,0,0
@@ -22215,6 +22402,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=10x24",,0,0
 "T=10x5mm",,0,0
 "T=10x6 mm, scr.",,0,0
+"T=10x6;",,0,0
+"T=10x7;",,0,0
 "T=10x7mm",,0,0
 "T=11",,0,0
 "T=11 mm",,0,0
@@ -22233,6 +22422,9 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=11.8 mm",,0,0
 "T=118 mm",,0,0
 "T=11mm",,0,0
+"T=11x5;",,0,0
+"T=11x6.5;",,0,0
+"T=11x7;",,0,0
 "T=12 mm",,0,0
 "T=12 mm, abdom.",,0,0
 "T=12 mm, ing.",,0,0
@@ -22249,12 +22441,16 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=12 x 8 mm, scrot.",,0,0
 "T=12.2 mm",,0,0
 "T=12.5 x 8 mm",,0,0
+"T=12.5x7;",,0,0
 "T=122 mm",,0,0
 "T=123 mm",,0,0
 "T=12mm",,0,0
 "T=12x16",,0,0
+"T=12x6.5;",,0,0
+"T=12x6;",,0,0
 "T=12x6mm, scr",,0,0
 "T=12x7 mm",,0,0
+"T=12x7;",,0,0
 "T=13 mm",,0,0
 "T=13 mm, abdom.",,0,0
 "T=13 mm, scrot.",,0,0
@@ -22418,12 +22614,14 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=20 x 9 mm",,0,0
 "T=20x10mm",,0,0
 "T=20x11mm",,0,0
+"T=20x12;",,0,0
 "T=21 mm",,0,0
 "T=21 mm, abdom.",,0,0
 "T=21 X 11 mm",,0,0
 "T=21 X 21 mm",,0,0
 "T=21(R), 20(L) mm",,0,0
 "T=21mm",,0,0
+"T=21x12;",,0,0
 "T=21x12mm",,0,0
 "T=21x13mm",,0,0
 "T=21x8mm",,0,0
@@ -22469,6 +22667,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=2mm",,0,0
 "T=2mm, abd",,0,0
 "T=2x1 mm",,0,0
+"T=2x1.5;",,0,0
 "T=2x3",,0,0
 "T=3",,0,0
 "T=3 mm",,0,0
@@ -22641,6 +22840,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=5mm, abd",,0,0
 "T=5mm, abd.",,0,0
 "T=5x2mm",,0,0
+"T=5x3.5;",,0,0
 "T=5x4 mm",,0,0
 "T=5x9",,0,0
 "T=6",,0,0
@@ -22682,6 +22882,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=6mm",,0,0
 "T=6mm, abd",,0,0
 "T=6x10",,0,0
+"T=6x10;",,0,0
+"T=6x3;",,0,0
 "T=6x4mm",,0,0
 "T=6x9",,0,0
 "T=7",,0,0
@@ -22742,12 +22944,15 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=8.34 x 16.89 mm",,0,0
 "T=8.5 mm",,0,0
 "T=8.5 x19.3 mm",,0,0
+"T=8.5x12;",,0,0
 "T=8.8 mm",,0,0
 "T=8mm",,0,0
 "T=8mm, abd",,0,0
 "T=8mm: ing.",,0,0
+"T=8x15;",,0,0
 "T=8x3 mm, scrot.",,0,0
 "T=8x4",,0,0
+"T=8x4;",,0,0
 "T=8x4mm",,0,0
 "T=8x5mm",,0,0
 "T=9 mm",,0,0
@@ -22776,6 +22981,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=9.5 mm",,0,0
 "T=9.5 x 5 mm",,0,0
 "T=9.5mm: ing.",,0,0
+"T=9.5x6;",,0,0
 "T=9.6 x 14.8 mm",,0,0
 "T=9.8 mm",,0,0
 "T=9mm",,0,0
@@ -22783,7 +22989,11 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=9mm: ing.",,0,0
 "T=9x11mm",,0,0
 "T=9x16mm",,0,0
+"T=9x3;",,0,0
+"T=9x4.5;",,0,0
+"T=9x4;",,0,0
 "T=9x4mm",,0,0
+"T=9x5;",,0,0
 "T=9x5mm",,0,0
 "T=abdom.",,0,0
 "T=enlarged",,0,0
@@ -22795,6 +23005,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T=small, regressed",,0,0
 "T=very large",,0,0
 "T-10",,0,0
+"T-11x6.5;",,0,0
 "T-12X5",,0,0
 "T-12X7",,0,0
 "T-14",,0,0
@@ -22812,6 +23023,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "T-45X17",,0,0
 "T4x3","unknown",0,1
 "T5","unknown",0,1
+"T5;",,0,0
 "T5mm","unknown",0,1
 "T5x3","unknown",0,1
 "T5x4","unknown",0,1
@@ -22943,7 +23155,11 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testes (L 1x1mm, R 1x1mm)",,0,0
 "Testes (L 7x3mm, R 7x3mm)",,0,0
 "Testes (L 9x3mm, R 7x2mm)",,0,0
+"testes (L) 9 x 4 & 8 x 4 mm;",,0,0
+"testes (L) 90 x 40 & 90 x 80 mm;",,0,0
+"testes (R) 7 mm, (L) 10 mm;",,0,0
 "Testes (R2x1mm, L2x1mm)",,0,0
+"Testes .5mm;",,0,0
 "testes ?",,0,0
 "testes [with diagram on label]",,0,0
 "testes ~ 3x4mm *",,0,0
@@ -23374,59 +23590,105 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testes =9.5",,0,0
 "testes > 1mm dia.",,0,0
 "TESTES 0.15 X 0.08 CM, CREAM.",,0,0
+"testes 0.5 mm;",,0,0
 "testes 1 cm diam.",,0,0
 "testes 1 mm",,0,0
+"testes 1 mm;",,0,0
 "testes 1 x 1",,0,0
 "testes 1 x 2",,0,0
 "testes 1 x 3",,0,0
+"testes 1.5 mm;",,0,0
+"Testes 1.5mm;",,0,0
 "testes 10 mm",,0,0
+"testes 10 mm;",,0,0
 "testes 10 x 6",,0,0
 "testes 10 x 6 mm",,0,0
+"testes 10 x 6 mm;",,0,0
 "testes 10 x 7",,0,0
 "testes 10:10 mm",,0,0
+"Testes 10cm;",,0,0
 "testes 10mm",,0,0
+"testes 10mm;",,0,0
 "testes 10X15",,0,0
 "testes 10x4 mm",,0,0
+"testes 10x4;",,0,0
 "testes 10x5 mm",,0,0
+"testes 10x5;",,0,0
 "testes 10x5mm",,0,0
 "testes 10x6 mm",,0,0
+"testes 10x6;",,0,0
+"Testes 11 mm;",,0,0
 "testes -11 X 7",,0,0
 "testes 11 x 8",,0,0
+"testes 11;",,0,0
+"Testes 11mm;",,0,0
+"testes 11x5;",,0,0
+"testes 11x6.5, descended;",,0,0
 "testes 12 x 25, epid +",,0,0
 "testes 12 X 6",,0,0
+"testes 12 x 6;",,0,0
 "testes 12 x 8",,0,0
+"testes 12 x 9 mm;",,0,0
+"testes 12;",,0,0
 "testes 12mm",,0,0
+"testes 12mm;",,0,0
 "testes 12x5 mm",,0,0
 "testes 12x6 mm",,0,0
+"testes 12x6;",,0,0
 "testes 13 x 8 mm",,0,0
 "testes 13 X 9",,0,0
 "testes 13.6x25.5mm",,0,0
+"testes 13.8 x 8.0;",,0,0
+"testes 13;",,0,0
+"Testes 13mm;",,0,0
 "testes 13x5 mm",,0,0
 "testes 13x7 mm",,0,0
+"testes 14 x 6 mm, 2 g;",,0,0
 "testes 14.5",,0,0
 "testes 14mm, scrotum 23mm",,0,0
+"testes 14mm;",,0,0
 "testes 14x8 mm",,0,0
+"testes 15 mm;",,0,0
+"testes 15mm;",,0,0
+"testes 16 mm;",,0,0
 "testes 16 x 25",,0,0
+"testes 16mm;",,0,0
 "testes 16x7 mm",,0,0
+"testes 17 x 12;",,0,0
+"testes 17;",,0,0
 "testes 17x10 mm",,0,0
 "testes 18 x 34, epid +",,0,0
 "testes 18mm",,0,0
+"testes 19 x 13 mm;",,0,0
 "testes 19mm",,0,0
 "testes 1mm",,0,0
+"Testes 1mm;",,0,0
 "testes 1X1",,0,0
 "testes 1x1.5 mm",,0,0
 "testes 2 mm",,0,0
+"testes 2 mm;",,0,0
 "testes 2 X 1",,0,0
+"testes 2 x 1 mm;",,0,0
 "testes 2 x 2",,0,0
+"testes 2 x 2 mm;",,0,0
 "testes 2 x 3",,0,0
 "testes 2 X 4",,0,0
+"testes 2.5 mm;",,0,0
+"testes 2.5x4;",,0,0
+"testes 20 mm;",,0,0
 "testes 21mm",,0,0
 "testes 22 mm",,0,0
+"testes 22;",,0,0
+"testes 22x10;",,0,0
 "testes 25 x 13",,0,0
 "testes 25 x 15",,0,0
+"testes 25;",,0,0
 "testes 25x11 mm",,0,0
 "testes 25x14mm, epid +",,0,0
+"testes 26;",,0,0
+"testes 26mm;",,0,0
 "testes 28 x 19, epid +",,0,0
+"testes 29;",,0,0
 "testes 2mm",,0,0
 "testes 2x1 mm",,0,0
 "testes 2x2",,0,0
@@ -23436,6 +23698,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes 3 x 1",,0,0
 "testes 3 X 1.5",,0,0
 "testes 3 x 2",,0,0
+"testes 3 x 2 mm;",,0,0
 "testes 3 X 4",,0,0
 "testes 3 x 5",,0,0
 "testes 3 x 6",,0,0
@@ -23445,22 +23708,40 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes 3.2 x 2, epid +",,0,0
 "testes 3.3x8.0mm",,0,0
 "testes 3.4 x 1.8",,0,0
+"testes 3.5 mm;",,0,0
 "testes 3.5 x 2.0",,0,0
+"testes 3.5 x 2.5;",,0,0
+"testes 3.5x2;",,0,0
+"testes 3.5x3;",,0,0
 "testes 3.7 x 2.2",,0,0
 "testes 3.9 x 2.1",,0,0
+"testes 30 mm;",,0,0
+"Testes 30;",,0,0
 "testes 30mm",,0,0
 "testes 30x14 mm",,0,0
 "testes 30x20 mm",,0,0
+"testes 30x20;",,0,0
+"testes 31 mm;",,0,0
+"testes 32;",,0,0
+"testes 32mm; specimen has bacculum;",,0,0
+"testes 35 mm;",,0,0
+"testes 35mm;",,0,0
+"testes 36;",,0,0
+"testes 38;",,0,0
 "testes 3mm",,0,0
+"Testes 3mm;",,0,0
 "testes 3x1 mm",,0,0
+"testes 3x1.5;",,0,0
 "testes 3x2 mm",,0,0
 "testes 3x2mm",,0,0
 "testes 3X3mm",,0,0
 "testes 3X5",,0,0
 "testes 3X6",,0,0
+"testes 4 mm;",,0,0
 "testes 4 X 1.5 mm",,0,0
 "testes 4 X 2",,0,0
 "testes 4 X 3",,0,0
+"testes 4 x 3 mm;",,0,0
 "testes 4 X 5",,0,0
 "testes 4 x 6",,0,0
 "testes 4 x 7",,0,0
@@ -23468,88 +23749,142 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes 4.1 x 2.1",,0,0
 "testes 4.1 x 3.1",,0,0
 "Testes 4.5 mm",,0,0
+"testes 4.5 mm;",,0,0
 "testes 4.5 X 3",,0,0
+"testes 4.5mm;",,0,0
+"testes 4.5x3;",,0,0
 "testes 4.6 x 1.5",,0,0
 "testes 4.9 x 3",,0,0
+"testes 40mm;",,0,0
+"Testes 44;",,0,0
+"Testes 45;",,0,0
+"testes 46;",,0,0
 "testes 4mm",,0,0
 "testes 4x2 mm",,0,0
+"testes 4x2.5;",,0,0
+"testes 4x2;",,0,0
 "testes 4x3 mm",,0,0
+"testes 4x3;",,0,0
+"testes 4x3mm;",,0,0
+"testes 5 mm;",,0,0
 "testes 5 x 2",,0,0
+"testes 5 x 2 mm;",,0,0
 "testes 5 X 3",,0,0
+"testes 5 x 3 mm;",,0,0
+"testes 5 x 3;",,0,0
 "testes 5 x 4",,0,0
 "testes 5 X 5 mm",,0,0
+"testes 5 X 5 mm;",,0,0
 "testes 5 x 6",,0,0
 "testes 5 x 7",,0,0
 "testes 5.1 x 1.5",,0,0
 "testes 5.1 x 2.5",,0,0
 "testes 5.1 x 3.2",,0,0
+"testes 5.5 mm;",,0,0
 "testes 5.9 x 4.2",,0,0
+"testes 5;",,0,0
+"testes 50 mm;",,0,0
 "testes 5mm",,0,0
+"Testes 5mm;",,0,0
 "testes 5X2 mm",,0,0
 "testes 5x3 mm",,0,0
 "testes 5X3mm",,0,0
 "testes 5x4 mm",,0,0
+"testes 5x4;",,0,0
 "testes 5x6.5 mm, undescended",,0,0
 "testes 5X7",,0,0
 "testes 5X9",,0,0
 "testes 6 mm",,0,0
+"testes 6 mm;",,0,0
 "testes 6 x 10",,0,0
 "testes 6 X 11",,0,0
 "testes 6 X 3",,0,0
+"testes 6 x 3 mm;",,0,0
 "testes 6 x 4 mm",,0,0
+"testes 6 x 4 mm;",,0,0
 "testes 6 x 8",,0,0
 "testes 6.1 x 3.5, 6.0 x 3.5",,0,0
 "testes 6.1x 2.6 L, 4.2 x 2.9 R",,0,0
 "testes 6.2 x 3.2",,0,0
 "testes 6.4 x 3.8",,0,0
 "testes 6.4 x 3.9",,0,0
+"Testes 6.5;",,0,0
 "testes 6.7 x 3.6",,0,0
+"testes 6;",,0,0
 "testes 60 X 50 mm",,0,0
+"testes 68mm;",,0,0
 "testes 6mm",,0,0
+"Testes 6mm;",,0,0
 "testes 6X10",,0,0
 "testes 6x12mm",,0,0
 "testes 6x4 mm",,0,0
 "testes 6x6 mm",,0,0
 "testes 6X9",,0,0
+"testes 7 mm;",,0,0
 "testes 7 x 2",,0,0
 "testes 7 x 3",,0,0
+"testes 7 x 3 mm;",,0,0
 "testes 7 X 4",,0,0
+"testes 7 x 4 mm;",,0,0
 "testes 7 X 5",,0,0
+"testes 7 x 5 mm;",,0,0
 "testes 7.2 x 4; 7.2 x 3.4",,0,0
+"testes 72mm;",,0,0
+"testes 77mm;",,0,0
+"Testes 7mm;",,0,0
 "testes 7X10",,0,0
 "testes 7x13mm",,0,0
 "testes 7X14",,0,0
 "testes 7X19",,0,0
 "testes 7x2 mm",,0,0
 "testes 7X3 mm",,0,0
+"testes 7x3;",,0,0
 "testes 7x4 mm",,0,0
+"testes 7x4;",,0,0
+"testes 7x5;",,0,0
 "testes 7x6 mm",,0,0
+"testes 8 mm;",,0,0
 "testes 8 X 10",,0,0
 "testes 8 X 14",,0,0
 "TESTES 8 X 2 MM.",,0,0
 "testes 8 X 4",,0,0
+"testes 8 x 4 mm;",,0,0
 "testes 8 x 4, epid -",,0,0
 "testes 8 x 5",,0,0
+"testes 8 x 5 mm;",,0,0
 "testes 8 x 6",,0,0
 "testes 8 x 6 mm",,0,0
 "testes 8.0 x 4.2",,0,0
 "testes 8.3 x 4.3",,0,0
 "testes- 8.5",,0,0
+"testes 8.5 mm;",,0,0
+"Testes 8.5;",,0,0
+"testes 80 mm;",,0,0
 "testes 8mm",,0,0
+"Testes 8mm;",,0,0
 "testes 8X10",,0,0
 "testes 8X11",,0,0
 "testes 8x4 mm",,0,0
 "testes 8x4mm",,0,0
 "testes 8x5 mm",,0,0
+"testes 8x5;",,0,0
 "testes- 9",,0,0
+"testes 9 mm;",,0,0
 "testes 9 x 5",,0,0
 "testes 9 X 5 mm",,0,0
 "testes 9 x 6",,0,0
+"testes 9 x 6 mm;",,0,0
 "testes 9 x 7",,0,0
+"testes 9.5x6.5mm;",,0,0
+"testes 9;",,0,0
+"testes 90 mm;",,0,0
 "testes 9mm",,0,0
+"Testes 9mm;",,0,0
 "testes 9x4 mm",,0,0
 "testes 9x5 mm",,0,0
+"testes 9x5.5;",,0,0
 "testes 9x6 mm",,0,0
+"testes 9x6;",,0,0
 "testes 9x6mm",,0,0
 "Testes abd.",,0,0
 "testes abd. 1 x 3",,0,0
@@ -23625,6 +23960,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes abdominal; T 10 mm",,0,0
 "testes abdominal; testes-2",,0,0
 "testes about 150mm",,0,0
+"testes about 4mm long;",,0,0
+"testes ca. 4 mm diam (outlines drawn on tag);",,0,0
 "testes coxs",,0,0
 "testes decomposed",,0,0
 "Testes desc., 14x31",,0,0
@@ -23643,6 +23980,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes enlarged and descended, testes-12X7",,0,0
 "testes enlarged, 33mm",,0,0
 "Testes enlarged, not desc",,0,0
+"testes enlarged;",,0,0
 "testes enlarged; 10X5mm",,0,0
 "testes enlgd.",,0,0
 "testes firm, smooth, tan",,0,0
@@ -23668,6 +24006,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes L=9mm, R=11mm",,0,0
 "Testes L1x1mm, R1x1mm",,0,0
 "testes large",,0,0
+"testes large;",,0,0
 "Testes measured during prep 14 x 24 mm",,0,0
 "Testes minute",,0,0
 "testes moderatly enlarged",,0,0
@@ -23675,6 +24014,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testes not descended",,0,0
 "testes not descended, 5x9 mm, epid +",,0,0
 "testes not enlarged",,0,0
+"testes not enlarged;",,0,0
 "testes not found *",,0,0
 "testes not noted",,0,0
 "testes noted",,0,0
@@ -23698,6 +24038,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testes R2x1mm, L2x1mm",,0,0
 "testes rather large",,0,0
 "testes regressed",,0,0
+"testes retracted;",,0,0
 "testes round",,0,0
 "testes scarcely enlarged",,0,0
 "testes scr., 7X13",,0,0
@@ -23716,6 +24057,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testes scrotal x 5",,0,0
 "Testes scrotal, =7",,0,0
 "testes scrotal, 10 X 5",,0,0
+"testes scrotal, 10mm long;",,0,0
+"testes scrotal, 11mm long;",,0,0
 "testes scrotal, 12 x 5",,0,0
 "testes scrotal, 15 x 28",,0,0
 "Testes scrotal, 15x30",,0,0
@@ -23732,6 +24075,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes scrotal: 10.5 X 5",,0,0
 "testes scrotal: 5 x 8",,0,0
 "testes scrotal: 6 X 8 mm",,0,0
+"testes scrotal;",,0,0
+"testes scrotal; 10mm long;",,0,0
 "testes scrotal; T = 5 x 1",,0,0
 "testes scrotal; T = 7 x 4",,0,0
 "testes scrotal; T = 9 x 6",,0,0
@@ -23743,8 +24088,10 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes semiscrotal ?",,0,0
 "testes slightly enlarged",,0,0
 "testes slightly enlarged, white",,0,0
+"testes slightly enlarged;",,0,0
 "Testes small",,0,0
 "testes small black*",,0,0
+"testes small;",,0,0
 "testes smooth, firm, tan",,0,0
 "testes somewhat enlarged",,0,0
 "testes subabdominal",,0,0
@@ -23755,6 +24102,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes undescended 18 x 9",,0,0
 "testes undescended 8 x 6",,0,0
 "testes undescended, 6 x 7",,0,0
+"testes undescended;",,0,0
 "testes undeveloped",,0,0
 "testes very large",,0,0
 "testes visible",,0,0
@@ -23767,6 +24115,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes: 11x8 rt, 15 x 12 lt",,0,0
 "testes: 2 x 1",,0,0
 "testes: 4 x 7",,0,0
+"testes: 4.5 x 3.5;",,0,0
+"testes: 6mm;",,0,0
 "testes: 8 x 10",,0,0
 "testes: 9 x 4",,0,0
 "Testes: Enlarged",,0,0
@@ -23780,6 +24130,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testes: R 14x7mm, L 9x5mm",,0,0
 "testes: R=5x4,L=9x5mm",,0,0
 "testes: R=8x3, L=7x3.5 mm",,0,0
+"testes;",,0,0
 "testes; non-scrotal",,0,0
 "testes; scrotal",,0,0
 "testes? = 1 mm diam, black",,0,0
@@ -24509,6 +24860,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testes-11X8; scrotal; Father of ROMM 97266-97269, FN33569-33572",,0,0
 "testes-11X9",,0,0
 "testes-12",,0,0
+"testes12 mm;",,0,0
 "testes-12.0",,0,0
 "testes-12.5",,0,0
 "testes-12.5; scrotal",,0,0
@@ -25203,6 +25555,10 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testículos escrotados","scrotal testicles",0,1
 "testis (1 only!) 4x2 mm",,0,0
 "testis (1) 6x4 mm",,0,0
+"testis (L) 14 x 11 mm;",,0,0
+"testis (L) 5 x 3 mm. some molt.;",,0,0
+"testis (L) 6 x 4 mm; some molt;",,0,0
+"testis (L) 8 x 4 mm;",,0,0
 "testis = 0.7x1.3mm",,0,0
 "testis = 1.5x1mm",,0,0
 "testis = 10x5mm",,0,0
@@ -25232,44 +25588,69 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testis = 7x6mm",,0,0
 "testis = 8x5mm",,0,0
 "testis = 8x5mm, lgst ova = 2mm",,0,0
+"testis 1 x 1 mm;",,0,0
 "testis 10 mm",,0,0
+"testis 10 x 6 mm;",,0,0
 "testis 10mm",,0,0
 "testis 11 mm",,0,0
+"testis 11 x 7 mm;",,0,0
 "testis 11mm",,0,0
 "testis 11mm,",,0,0
 "testis 12mm",,0,0
+"testis 12mm;",,0,0
+"testis 13;",,0,0
 "testis 13mm",,0,0
 "testis 14.5mm",,0,0
 "testis 14mm",,0,0
+"testis 15 x 3 mm;",,0,0
+"testis 15 x 8 mm;",,0,0
+"testis 15 x 9 mm;",,0,0
 "testis 15mm",,0,0
+"testis 15mm;",,0,0
 "Testis 15x10mm",,0,0
 "testis 16mm",,0,0
+"testis 16mm;",,0,0
 "testis 17 mm",,0,0
 "testis 17 mm, descended",,0,0
 "Testis 17x11mm",,0,0
 "testis 18 mm",,0,0
 "testis 18mm",,0,0
+"testis 19;",,0,0
 "testis 19mm",,0,0
 "testis 1mm",,0,0
+"testis 2 x 1 mm;",,0,0
 "testis 20 mm",,0,0
+"testis 20mm;",,0,0
 "testis 21 mm",,0,0
 "testis 22x6.6",,0,0
+"testis 23X11;",,0,0
+"testis 28;",,0,0
+"testis 29;",,0,0
 "testis 2mm",,0,0
 "testis 2x4",,0,0
+"testis 3 x 1 mm;",,0,0
+"testis 30;",,0,0
+"testis 33;",,0,0
+"testis 36;",,0,0
 "testis 3mm",,0,0
 "testis 3mm, immature",,0,0
 "testis 3mm, undescended",,0,0
 "Testis 3X6",,0,0
 "testis 4 mm",,0,0
+"testis 4 x 3 mm;",,0,0
+"testis 48;",,0,0
 "testis 4mm",,0,0
 "testis 4mm, abdominal",,0,0
 "testis 4mm, immature",,0,0
 "testis 5 mm",,0,0
+"testis 5 mm;",,0,0
+"testis 50;",,0,0
 "testis 5mm",,0,0
 "testis 5mm, abdominal",,0,0
 "testis 6mm",,0,0
 "testis 6mm, abdominal",,0,0
 "testis 6mm, immature",,0,0
+"testis 6mm;",,0,0
 "testis 7 mm",,0,0
 "testis 7mm",,0,0
 "testis 7mm,",,0,0
@@ -25280,6 +25661,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "testis 8mm",,0,0
 "testis 8mm,",,0,0
 "testis 8mm, dark gray",,0,0
+"testis 9 x 5 mm;",,0,0
 "testis 9mm",,0,0
 "testis abdominal",,0,0
 "testis enlarged",,0,0
@@ -25289,8 +25671,12 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Testis scrotal 18x7mm",,0,0
 "testis small",,0,0
 "testis undescended",,0,0
+"testis without epididymus 22;",,0,0
+"testis without epididymus 27;",,0,0
 "testis? = 1mm",,0,0
 "testis= 4x2mm",,0,0
+"testis=12mm;",,0,0
+"testis=8mm;",,0,0
 "testis-epididymis ABSENT",,0,0
 "testis-epididymis WT-14.41",,0,0
 "testres = 0.91x1.5mm",,0,0
@@ -25342,6 +25728,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "turgid uterus, no placental scars",,0,0
 "TWIN OF 33775; sibling of ROMM 33774",,0,0
 "TWIN OF 33776; sibling of ROMM 33774",,0,0
+"two 15mm embryos;",,0,0
 "TWO DUCTS VISIBLE BUT LEFT ONE LARGER, GONADS DECOMPOSED.",,0,0
 "two small testes",,0,0
 "TWOMEY MARKED FEMALE. COMMENT: LARGE, PROBABLY MALE, K.C.PARKES.",,0,0
@@ -25358,6 +25745,8 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "UNDOUBTEDLY MALE, FIDE K.C.PARKES 1957.",,0,0
 "UNKNOWN.",,0,0
 "unshelled egg in oviduct",,0,0
+"Uteri swollen;",,0,0
+"uteri vascularized;",,0,0
 "uterine scarring; enlarged teats",,0,0
 "uterine scars, no embryos",,0,0
 "UTERINE SWELLINGS-2X2",,0,0
@@ -25373,10 +25762,13 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "Uterus enlarged, placental scars",,0,0
 "uterus observed",,0,0
 "UTERUS SMALL",,0,0
+"Uterus small; nulliparous?;",,0,0
 "Uterus swollen",,0,0
+"uterus swollen;",,0,0
 "uterus thickened, no embryos",,0,0
 "uterus threadlike",,0,0
 "UTERUS VERY SMALL",,0,0
+"uterus with 4 embryos saved;",,0,0
 "Vag closed",,0,0
 "Vag closed, parous",,0,0
 "Vag closed, parous-no emb",,0,0
@@ -25485,11 +25877,17 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "w/laid egg",,0,0
 "well-developed embryo",,0,0
 "Winter plumage",,0,0
+"with ""bent"" bacculum;",,0,0
 "with 3 pouch young in AL",,0,0
+"with 4 embryos when killed;",,0,0
 "with 5 pouch young",,0,0
+"with bacculum;",,0,0
 "with egg",,0,0
 "with eggs",,0,0
+"with embryos;",,0,0
 "with ova",,0,0
+"with seven 2mm embryos;",,0,0
+"with skeleton of foetus;",,0,0
 "with two young in pouch",,0,0
 "worn nipples",,0,0
 "xxx","unknown",0,1
@@ -25508,6 +25906,7 @@ TESTES: 4 X 2 MM; BLACK","HOW SEXED: UNMARKED MEANS. TESTES: 4 X 2 MM; BLACK",0,
 "young",,0,0
 "young adult",,0,0
 "young eggs w/yolk",,0,0
+"young in pouch;",,0,0
 "young of moher, not accessed, REM2320",,0,0
 "young OF ROMM 100739, FN33617",,0,0
 "young OF ROMM 100756, FN33600",,0,0

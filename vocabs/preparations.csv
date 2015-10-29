@@ -1518,7 +1518,33 @@
 "10 proximal phalanges",,0,0
 "10 unguals",,0,0
 "10 VERTEBRAE.","vertebrae",0,1
+"10% form -> 70% alc",,0,0
+"10% form -> 70% alc (completly skined, headless)",,0,0
+"10% form -> 70% alc (completly skinned)",,0,0
+"10% form -> 70% alc (completly skinned, headless)",,0,0
+"10% form -> 70% alc (completly skinned, headless, front legs missing)",,0,0
+"10% form -> 70% alc (completly skinned, headless, thorax separated from abodomen)",,0,0
+"10% form -> 70% alc (completly skinned, thorax only)",,0,0
+"10% form -> 70% alc (completly skinned, thorax, abdomen and head separated)",,0,0
+"10% form -> 70% alc (completly skinned; confirm ID)",,0,0
+"10% form -> 70% alc (dissected)",,0,0
+"10% form -> 70% alc (dissected, skinned)",,0,0
+"10% form -> 70% alc (head only)",,0,0
+"10% form -> 70% alc (headless)",,0,0
+"10% form -> 70% alc (headless, skinned)",,0,0
+"10% form -> 70% alc (missing skull)",,0,0
+"10% form -> 70% alc (partially dissected)",,0,0
+"10% form -> 70% alc (rotten, skinned, headless)",,0,0
+"10% form -> 70% alc (skinned)",,0,0
+"10% form -> 70% alc (skinned, dissected)",,0,0
+"10% form -> 70% alc (skinned, headless)",,0,0
+"10% form.->70% alc.",,0,0
+"10% form.->70% alc.; skeleton",,0,0
+"10% form.->70% alc.; skeleton (skull only)",,0,0
+"10% form.->70% alc.; tissue frozen",,0,0
+"10% form.->70% alc.; tissue in EtOH",,0,0
 "10% formalin","10% formalin",1,1
+"10% hex-form.->70% alc.",,0,0
 "100% ETHANOL/ C&S",,0,0
 "100% GLYCERIN",,0,0
 "100% GLYCERIN/ C&S",,0,0
@@ -2116,6 +2142,7 @@
 "70 % EtOH","70% alcohol",0,1
 "70 % EtOH | tissue",,0,0
 "70 % ETOH AND CLEARED AND STAINED",,0,0
+"70% alc.",,0,0
 "70% AND 95% ETHANOL/ 2 SMALL JARS, tissue",,0,0
 "70% AND 95% ETHANOL/ SMALL JAR, tissue",,0,0
 "70% AND 95% ETHANOL/ TWO SMALL JARS, tissue",,0,0
@@ -5497,6 +5524,7 @@
 "angular+frags",,0,0
 "ANGULARS",,0,0
 "Angulars.",,0,0
+"animal track recording",,0,0
 "ankle bone",,0,0
 "ant 1/2 LM/?",,0,0
 "ANT ATLAS VERTEBRA FRAG",,0,0
@@ -6176,6 +6204,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Anteroventral R scapula.",,0,0
 "antler","antler",0,1
 "Antler (abnormal).","antler (abnormal)",0,1
+"antler (antler in velvet, skull cap)",,0,0
 "Antler (base + pedicle, left)",,0,0
 "Antler (base)",,0,0
 "Antler (base) + pedicle",,0,0
@@ -6192,6 +6221,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Antler (fragment)",,0,0
 "Antler (in velvet, sectioned, part)",,0,0
 "Antler (incomplete)",,0,0
+"antler (left antler)",,0,0
 "Antler (left)",,0,0
 "Antler (left, basal part)",,0,0
 "Antler (left, beam and burr)",,0,0
@@ -6204,6 +6234,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Antler (part of tine)",,0,0
 "Antler (part)",,0,0
 "Antler (part, palmated region)",,0,0
+"antler (piece of skull with antlers)",,0,0
 "Antler (right base)",,0,0
 "Antler (right)",,0,0
 "Antler (right, base + beam)",,0,0
@@ -6216,7 +6247,10 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Antler (shed)",,0,0
 "Antler (shed, basal half)",,0,0
 "Antler (shed, basal third)",,0,0
+"antler (skull fragment with antlers)",,0,0
 "Antler (tine)",,0,0
+"antler (two pair of antlers locked together)",,0,0
+"antler (weathered)",,0,0
 "ANTLER BASE","antler base",1,1
 "Antler base + pedicle",,0,0
 "ANTLER FRAG","antler fragment",0,1
@@ -7892,6 +7926,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Carpus?",,0,0
 "CARTILAGE",,0,0
 "CAST","cast",1,1
+"cast (and a duplicate, plaster)",,0,0
+"cast (and duplicates, plaster)",,0,0
+"cast (cast of bifid tooth); skeleton (incomplete) (skeleton included in prep type so specimen shows up in Osteo search. SBH, 8/2008)",,0,0
+"cast (missing)",,0,0
+"cast (plaster)",,0,0
+"cast (plastic, fabricated?)",,0,0
 "Cast (right [left] ramus)",,0,0
 "Cast and model of skull",,0,0
 "Cast cranial + postcranial",,0,0
@@ -8219,6 +8259,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "cast, tooth",,0,0
 "cast, track",,0,0
 "cast, ulna",,0,0
+"cast; cast",,0,0
+"cast; skeleton",,0,0
+"cast; skeleton (incomplete)",,0,0
+"cast; skeleton (skull only)",,0,0
 "Casting",,0,0
 "Castor Gland",,0,0
 "Castoreum bags (2 pairs)",,0,0
@@ -23549,6 +23593,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "frozen to 95% EtOH - 9; 70% EtOH - 12",,0,0
 "frozen to 95% EtOH - 9; 70% EtOH - 16",,0,0
 "frozen to 95% EtOH - 9; 70% EtOH - 4",,0,0
+"frozen whole",,0,0
 "FROZEN, tissue",,0,0
 "frozen: liver; heart; muscle",,0,0
 "frozen: muscle",,0,0
@@ -33126,6 +33171,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "METATASAL",,0,0
 "metcarpal 4",,0,0
 "met'ing juv",,0,0
+"microslide",,0,0
+"microslide; microslide",,0,0
+"microslide; microslide; microslide; microslide",,0,0
+"microslide; microslide; microslide; microslide; microslide",,0,0
+"microslide; microslide; microslide; microslide; microslide; microslide; microslide; microslide",,0,0
 "Microtechnique | Dry",,0,0
 "Microtechnique | Fluid",,0,0
 "Microtechnique | Fluid | Hemipenis",,0,0
@@ -33596,6 +33646,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Model of tooth (molar)",,0,0
 "Model of whole fish",,0,0
 "Model of whole specimen",,0,0
+"model; skeleton",,0,0
 "Modell",,0,0
 "Models of skull + jaws",,0,0
 "Molar",,0,0
@@ -36809,6 +36860,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "PARIETO-SQUAMOSAL FRAG",,0,0
 "paroccipital",,0,0
 "PART","partial skeleton",0,1
+"part (Stored in West Wall Cabinent 7)",,0,0
+"part (Stored in West Wall Cabinet 7)",,0,0
 "part alcoholic only",,0,0
 "part alcoholic only | tissue",,0,0
 "PART BODY SKELETON","partial body skeleton",0,1
@@ -39107,6 +39160,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "photograph, tissue, electric organ discharge recording, fluid",,0,0
 "photograph, tissue, fluid",,0,0
 "photograph; Alcohol - 1",,0,0
+"photographic voucher",,0,0
 "pick up horns","horns",0,1
 "PICKLED EMBRYO","pickled embryo",0,1
 "PICKLED HEAD, LEG, AND WING, REMAINDER AS SKELETON. DRIED BONELESS WING.",,0,0
@@ -47716,9 +47770,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELETON & SKULL",,0,0
 "SKELETON & SKULL FRAGS",,0,0
 "skeleton & wing","skeleton | wing",0,1
+"skeleton (""infant"")",,0,0
+"skeleton (2 boxes)",,0,0
+"skeleton (2010 survey; see notes)",,0,0
 "Skeleton (almost complete)",,0,0
 "Skeleton (articulated)",,0,0
+"skeleton (Bloodhound)",,0,0
 "Skeleton (Body skeleton) (Body skeleton) (Body skeleton)",,0,0
+"skeleton (burried 25 Sep 2015)",,0,0
+"skeleton (cab. 78 drawers 4&5, cab. 79 drawer 1)",,0,0
+"skeleton (carapace only)",,0,0
 "Skeleton (Complete skeleton) (Complete skeleton)",,0,0
 "Skeleton (Complete skeleton) (Complete skeleton) (Complete skeleton)",,0,0
 "Skeleton (Complete skeleton) (Complete skeleton), Skin (Skin and separate spread wing) (Complete skeleton), Skin (Skin and separate spread wing)",,0,0
@@ -47726,27 +47787,193 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton (Complete skeleton), Skin (Flat skin) (Complete skeleton), Skin (Flat skin) (Complete skeleton)",,0,0
 "Skeleton (Complete skeleton), Tissue (Complete skeleton)",,0,0
 "Skeleton (complete)",,0,0
+"skeleton (complete, incl. skull, mandibles)",,0,0
+"skeleton (cranium with horns without sheaths); skeleton (skull only)",,0,0
+"skeleton (damaged); tissue frozen",,0,0
+"skeleton (dirty, partially articulated by dried flesh); cast (Brain Casts cabinet, drawer 4); tissue (dry)",,0,0
+"skeleton (dirty, partially articulated by dried flesh); tissue (dry)",,0,0
+"skeleton (elements are missing)",,0,0
 "Skeleton (Femur only) (Femur only)",,0,0
+"skeleton (former mount, disarticulated)",,0,0
+"skeleton (formerly mounted (some parts still wired))",,0,0
+"skeleton (formerly mounted)",,0,0
+"skeleton (formerly mounted, partially disarticulated)",,0,0
 "Skeleton (fragments) including ribs + hind limb",,0,0
+"skeleton (Great Dane)",,0,0
+"skeleton (head damaged)",,0,0
+"skeleton (in two drawers)",,0,0
+"skeleton (incl. skull)",,0,0
+"skeleton (including skull and mandibles)",,0,0
 "Skeleton (Incomplete skeleton) (Incomplete skeleton) (Incomplete skeleton)",,0,0
 "skeleton (incomplete)",,0,0
+"skeleton (incomplete) (""porpoise pieces"")",,0,0
+"skeleton (incomplete) (1 skull, vertebra;)",,0,0
+"skeleton (incomplete) (20cm-long piece of a tusk)",,0,0
+"skeleton (incomplete) (4 legs, mounted)",,0,0
+"skeleton (incomplete) (baculum)",,0,0
+"skeleton (incomplete) (box of teeth)",,0,0
+"skeleton (incomplete) (cast)",,0,0
+"skeleton (incomplete) (cervical vertebrae only)",,0,0
+"skeleton (incomplete) (Chihuahua)",,0,0
+"skeleton (incomplete) (cranium and 2 leg bones)",,0,0
+"skeleton (incomplete) (cranium only)",,0,0
+"skeleton (incomplete) (cranium with horns)",,0,0
+"skeleton (incomplete) (cranium with horns, sheaths removed); skeleton (skull only)",,0,0
+"skeleton (incomplete) (drawers 2 through 5); skeleton (skull only) (on open shelving)",,0,0
+"skeleton (incomplete) (eight teeth, unrelated)",,0,0
+"skeleton (incomplete) (foot bones)",,0,0
+"skeleton (incomplete) (half lower mandible only)",,0,0
+"skeleton (incomplete) (half lower mandible)",,0,0
+"skeleton (incomplete) (hooves only)",,0,0
+"skeleton (incomplete) (horn sheath)",,0,0
+"skeleton (incomplete) (horn sheeth)",,0,0
+"skeleton (incomplete) (in several boxes)",,0,0
+"skeleton (incomplete) (in two drawers)",,0,0
+"skeleton (incomplete) (includes skull & jaw); tissue frozen (removed while skeleton was rehydrated for prep)",,0,0
+"skeleton (incomplete) (includes skull)",,0,0
+"skeleton (incomplete) (jaw fragment)",,0,0
+"skeleton (incomplete) (jaw of large mammal)",,0,0
+"skeleton (incomplete) (jaw with no teeth)",,0,0
+"skeleton (incomplete) (jaw)",,0,0
+"skeleton (incomplete) (jaw); skeleton (incomplete) (partial skull)",,0,0
+"skeleton (incomplete) (left forelimb)",,0,0
+"skeleton (incomplete) (left limbs, partial)",,0,0
+"skeleton (incomplete) (left lower mandible only)",,0,0
+"skeleton (incomplete) (left upper and lower limb)",,0,0
+"skeleton (incomplete) (limb bones only)",,0,0
+"skeleton (incomplete) (limbs missing)",,0,0
+"skeleton (incomplete) (limbs)",,0,0
+"skeleton (incomplete) (lower mandible only)",,0,0
+"skeleton (incomplete) (lower mandible only, broken)",,0,0
+"skeleton (incomplete) (mandible only)",,0,0
+"skeleton (incomplete) (mandible)",,0,0
+"skeleton (incomplete) (mandibles and horn parts); skeleton (skull only)",,0,0
+"skeleton (incomplete) (mandibles only)",,0,0
+"skeleton (incomplete) (mandibles)",,0,0
+"skeleton (incomplete) (mandibles); skeleton (skull only)",,0,0
+"skeleton (incomplete) (mandibles, very weathered)",,0,0
+"skeleton (incomplete) (maxilla fragments)",,0,0
+"skeleton (incomplete) (missing left limbs); tissue frozen",,0,0
+"skeleton (incomplete) (missing skull)",,0,0
+"skeleton (incomplete) (mounted foreleg)",,0,0
+"skeleton (incomplete) (no mandible)",,0,0
+"skeleton (incomplete) (no skull or mandibles)",,0,0
+"skeleton (incomplete) (no skull)",,0,0
+"skeleton (incomplete) (no skull); tissue frozen",,0,0
+"skeleton (incomplete) (no skull, left arm damaged)",,0,0
+"skeleton (incomplete) (no skull, some poscranial bones)",,0,0
+"skeleton (incomplete) (no skull; partially articulated)",,0,0
+"skeleton (incomplete) (occipital portion of skull with horns in situ)",,0,0
+"skeleton (incomplete) (one horn sheath on, other off but with specimen)",,0,0
+"skeleton (incomplete) (one horn sheath)",,0,0
+"skeleton (incomplete) (one horn, with sawn-off horncore)",,0,0
+"skeleton (incomplete) (one mandible)",,0,0
+"skeleton (incomplete) (one tooth)",,0,0
+"skeleton (incomplete) (one ulna)",,0,0
+"skeleton (incomplete) (one vertebra)",,0,0
+"skeleton (incomplete) (only postcranial)",,0,0
+"skeleton (incomplete) (pair of horns mounted on board)",,0,0
+"skeleton (incomplete) (pair of humeri)",,0,0
+"skeleton (incomplete) (pair of large tusks)",,0,0
+"skeleton (incomplete) (pair of mandibles)",,0,0
+"skeleton (incomplete) (pair of tusks)",,0,0
+"skeleton (incomplete) (partial axial, see notes)",,0,0
+"skeleton (incomplete) (partial lower mandible)",,0,0
+"skeleton (incomplete) (partial right limbs)",,0,0
+"skeleton (incomplete) (partial skull with attached horns)",,0,0
+"skeleton (incomplete) (polydactyl)",,0,0
+"skeleton (incomplete) (portion of mandible)",,0,0
+"skeleton (incomplete) (postcrania)",,0,0
+"skeleton (incomplete) (postcranial elements only)",,0,0
+"skeleton (incomplete) (right fore- and hind limb)",,0,0
+"skeleton (incomplete) (right mandible)",,0,0
+"skeleton (incomplete) (sections of skull); skeleton (skull only) (part of skull with one horn)",,0,0
+"skeleton (incomplete) (see notes tab)",,0,0
+"skeleton (incomplete) (see notes tab); skin, round (see locations notes)",,0,0
+"skeleton (incomplete) (see Notes)",,0,0
+"skeleton (incomplete) (see Notes); skeleton (skull only)",,0,0
+"skeleton (incomplete) (set of tusks, mounted)",,0,0
+"skeleton (incomplete) (single foot bone)",,0,0
+"skeleton (incomplete) (single horn sheath)",,0,0
+"skeleton (incomplete) (single tusk only)",,0,0
+"skeleton (incomplete) (single tusk)",,0,0
+"skeleton (incomplete) (skull & limbs)",,0,0
+"skeleton (incomplete) (skull and femur and baculum)",,0,0
+"skeleton (incomplete) (skull and femur)",,0,0
+"skeleton (incomplete) (skull and mandible); skeleton (incomplete) (monkey teeth with skin on a rawhide string)",,0,0
+"skeleton (incomplete) (skull and mandibles missing)",,0,0
+"skeleton (incomplete) (skull and miscellaneous subcranial bones)",,0,0
+"skeleton (incomplete) (skull and some postcranial elements)",,0,0
+"skeleton (incomplete) (skull broken)",,0,0
+"skeleton (incomplete) (skull cap with horn cores and pair of horn sheaths)",,0,0
+"skeleton (incomplete) (skull cap with horns, fragmented)",,0,0
+"skeleton (incomplete) (skull missing)",,0,0
+"skeleton (incomplete) (skull missing, half lower mandible)",,0,0
+"skeleton (incomplete) (skull sectioned on midline, teeth and fragments also)",,0,0
+"skeleton (incomplete) (skull, both mandibles, one horn sheath, two ""hyoid bones"")",,0,0
+"skeleton (incomplete) (skull, horns)",,0,0
+"skeleton (incomplete) (skull, mandibles, atlas)",,0,0
+"skeleton (incomplete) (skull, pelvic bones, 8 vertebrae, caudal vertebrae)",,0,0
+"skeleton (incomplete) (skull, pelvis, vertebral lumbar); tissue frozen (removed when skeleton was rehydrated for prep)",,0,0
+"skeleton (incomplete) (skull+long bones)",,0,0
+"skeleton (incomplete) (small atlas in glass vial)",,0,0
+"skeleton (incomplete) (small tusk, 10-18 inches)",,0,0
+"skeleton (incomplete) (Stored in West Wall Cabinet 7)",,0,0
+"skeleton (incomplete) (teeth)",,0,0
+"skeleton (incomplete) (three tympanic bullae)",,0,0
+"skeleton (incomplete) (tooth)",,0,0
+"skeleton (incomplete) (tusk cut in half)",,0,0
+"skeleton (incomplete) (tusk only)",,0,0
+"skeleton (incomplete) (tusk)",,0,0
+"skeleton (incomplete) (tusk, see notes)",,0,0
+"skeleton (incomplete) (two teeth)",,0,0
+"skeleton (incomplete) (tympanic bulla)",,0,0
+"skeleton (incomplete) (tympanic bulla?)",,0,0
+"skeleton (incomplete) (vertebrae only)",,0,0
+"skeleton (incomplete) (vertebrae, pelvis)",,0,0
+"skeleton (incomplete) (w/ mandible, atlas, axis)",,0,0
 "Skeleton (incomplete) + carapace",,0,0
 "Skeleton (incomplete) + carapace + plastron",,0,0
+"skeleton (incomplete); cast (of latex; Brain Casts cabinet, drawer 3)",,0,0
+"skeleton (incomplete); skeleton (incomplete)",,0,0
+"skeleton (incomplete); skeleton (see Notes)",,0,0
+"skeleton (incomplete); skeleton (skull only)",,0,0
+"skeleton (incomplete); skin (round) (untanned, folded)",,0,0
+"skeleton (incomplete); skin, round; tissue frozen; tissue frozen",,0,0
+"skeleton (incomplete); tissue (dry)",,0,0
+"skeleton (incomplete); tissue (dry); skeleton (most of skeleton is at WC, in five drawers)",,0,0
+"skeleton (incomplete); tissue frozen",,0,0
 "Skeleton (incomplete, articulated)",,0,0
 "Skeleton (incomplete, partially articulated)",,0,0
 "Skeleton (incomplete, partially cleaned)",,0,0
+"skeleton (left limbs sectioned)",,0,0
 "Skeleton (Leg elements only) (Leg elements only) (Leg elements only)",,0,0
+"skeleton (Mastiff)",,0,0
 "Skeleton (middle part) + forelimbs",,0,0
+"skeleton (missing elements)",,0,0
+"skeleton (missing left forelimb, rt scapula, ribs, skull damaged); tissue frozen",,0,0
+"skeleton (missing one mandible)",,0,0
 "SKELETON (MISSING SKULL AND FEET)",,0,0
 "Skeleton (Mostly complete skeleton) (Mostly complete skeleton)",,0,0
 "Skeleton (Mounted skeleton) (Mounted skeleton)",,0,0
 "Skeleton (Mounted skeleton) (Mounted skeleton) (Mounted skeleton)",,0,0
 "Skeleton (mounted)",,0,0
 "Skeleton (no feet)",,0,0
+"skeleton (no head); tissue frozen",,0,0
 "Skeleton (no jaw), Tissue and Feet",,0,0
 "Skeleton (no jaw), Tissue, Feet and Stomach",,0,0
+"skeleton (no mandibles)",,0,0
+"skeleton (no skull or jaw)",,0,0
+"skeleton (no skull or mandibles)",,0,0
 "Skeleton (no skull)",,0,0
+"skeleton (no skull); tissue frozen",,0,0
+"skeleton (no skull, no feet)",,0,0
+"skeleton (not found at ESC)",,0,0
+"skeleton (not found in ESC)",,0,0
+"skeleton (not found)",,0,0
 "skeleton (one piece plaster cast mounted on wooden plaque)",,0,0
+"skeleton (one skull is broken)",,0,0
+"skeleton (packed in two boxes)",,0,0
 "Skeleton (part mounted)",,0,0
 "Skeleton (part sectioned)",,0,0
 "Skeleton (part)",,0,0
@@ -47796,30 +48023,213 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton (Partial skeleton), Tissue, Skin, Skin (Partial skeleton), Tissue (Partial skeleton)",,0,0
 "Skeleton (Partial skeleton), Tissue, Stomach & contents, other (Partial skeleton), Skin, Tissue, Stomach & contents, other (Partial skeleton), Skin",,0,0
 "Skeleton (Partial skeleton), Tissue, Stomach & contents, other, Skin (Partial skeleton), Tissue, Stomach & contents, other (Partial skeleton), Skin",,0,0
+"skeleton (partial)",,0,0
 "Skeleton (partially articulated)",,0,0
 "Skeleton (partially cleaned)",,0,0
+"skeleton (parts in two drawers)",,0,0
+"skeleton (Parts of the skeleton are in cabinet 6 on the West Wall); skeleton (skull only)",,0,0
+"skeleton (postcranial elements & mandibles); skeleton (skull only)",,0,0
+"skeleton (postcranial skeleton in cabinet); skeleton (skull only); skeleton (incomplete) (mandible only)",,0,0
+"skeleton (postcranial); skeleton (skull only) (mounted)",,0,0
+"skeleton (postcranial, formerly mounted); skeleton (skull only) (skull and mandible)",,0,0
 "Skeleton (Right humerus) (Right humerus)",,0,0
 "Skeleton (Right leg elements removed from skin) (Right leg elements removed from skin)",,0,0
+"skeleton (see notes tab)",,0,0
+"skeleton (see Notes)",,0,0
 "Skeleton (Skeleton & feathers) (Skeleton & feathers)",,0,0
 "Skeleton (Skeleton (missing left wing)) (Skeleton (missing left wing)), Tissue",,0,0
 "Skeleton (Skeleton (missing one leg and one wing)) (Skeleton (missing one leg and one wing)), Tissue",,0,0
 "Skeleton (Skeleton (missing one leg)) (Skeleton (missing one leg)), Tissue",,0,0
+"skeleton (skeleton (partial))",,0,0
 "Skeleton (Skeleton (very broken)), Tissue (Skeleton (very broken))",,0,0
+"skeleton (skeleton in cabinet); skeleton (skull only) (skull on shelf)",,0,0
 "Skeleton (Skeleton) (Skeleton)",,0,0
 "Skeleton (Skeleton) (Skeleton) (Skeleton)",,0,0
 "Skeleton (Skeleton) (Skeleton), Skin (Skeleton), Skin",,0,0
 "Skeleton (Skeleton), Skin (Skeleton), Skin (Skeleton)",,0,0
+"skeleton (skeleton, with mandibles); skeleton (skull only) (skull only)",,0,0
+"skeleton (skin discarded)",,0,0
+"skeleton (skull and forelimbs damaged); reproductive organs in formalin (2 fetuses - jar MAMA.00299); tissue frozen",,0,0
+"skeleton (skull and mandibles returned March 2011)",,0,0
+"skeleton (skull at ESC)",,0,0
+"skeleton (skull broken)",,0,0
+"skeleton (skull damaged); tissue frozen",,0,0
+"skeleton (skull damaged, mandible missing); tissue frozen",,0,0
 "Skeleton (skull in collection, skeleton not found)",,0,0
 "Skeleton (skull in collection, skeleton not found), and tissue",,0,0
+"skeleton (skull in separate box)",,0,0
+"skeleton (skull is broken)",,0,0
+"skeleton (skull on a shelf); skeleton (skull only) (skel in cabinet)",,0,0
+"skeleton (skull only)",,0,0
+"skeleton (skull only) (""bronzed"" and mounted)",,0,0
+"skeleton (skull only) (2009-2010, temporarily at ESC for cleaning)",,0,0
+"skeleton (skull only) (a James Clark mount)",,0,0
+"skeleton (skull only) (and atlas)",,0,0
+"skeleton (skull only) (and baculum)",,0,0
+"skeleton (skull only) (and horn sheaths, no mandibles)",,0,0
+"skeleton (skull only) (and jaw)",,0,0
+"skeleton (skull only) (and jaw, formerly mounted)",,0,0
+"skeleton (skull only) (and jaw; upper incisors chipped)",,0,0
+"skeleton (skull only) (and mandible)",,0,0
+"skeleton (skull only) (and mandibles)",,0,0
+"skeleton (skull only) (and mandibles); cast (of resin; Brain Casts cabinet, drawer 1)",,0,0
+"skeleton (skull only) (and mandibles, with loose teeth in a box)",,0,0
+"skeleton (skull only) (and some manus bones)",,0,0
+"skeleton (skull only) (antlers with partial skull)",,0,0
+"skeleton (skull only) (both skull and cast); cast (Brain Casts cabinet, drawer 4)",,0,0
+"skeleton (skull only) (broken)",,0,0
+"skeleton (skull only) (broken, no jaw)",,0,0
+"skeleton (skull only) (broken, no occipital region)",,0,0
+"skeleton (skull only) (broken, with mandibles)",,0,0
+"skeleton (skull only) (complete skull, mounted on a base)",,0,0
+"skeleton (skull only) (cranium and half lower mandible)",,0,0
+"skeleton (skull only) (cranium only)",,0,0
+"skeleton (skull only) (cranium only, rostrum missing)",,0,0
+"skeleton (skull only) (cranium with horn)",,0,0
+"skeleton (skull only) (cranium with horns)",,0,0
+"skeleton (skull only) (cranium with sawn off horns)",,0,0
+"skeleton (skull only) (cranium with sawn off horns; with lower mandible)",,0,0
+"skeleton (skull only) (cranium, from owl pellet)",,0,0
+"skeleton (skull only) (crushed by car)",,0,0
+"skeleton (skull only) (dirty, w/ skin & hair)",,0,0
+"skeleton (skull only) (empty box)",,0,0
+"skeleton (skull only) (horn sheath)",,0,0
+"skeleton (skull only) (horns and frontlet only)",,0,0
+"skeleton (skull only) (horns with top of cranium)",,0,0
+"skeleton (skull only) (hyoid bones also; skull damaged)",,0,0
+"skeleton (skull only) (includes mandible)",,0,0
+"skeleton (skull only) (includes small box of mixed teeth, shared with MAM.009326)",,0,0
+"skeleton (skull only) (includes small box of mixed teeth, shared with MAM.009327)",,0,0
+"skeleton (skull only) (includes two cervical vertebrae (atlas & axis)); skin in EtOH",,0,0
+"skeleton (skull only) (including broken mandible)",,0,0
+"skeleton (skull only) (including mandible)",,0,0
+"skeleton (skull only) (incomplete (no lower mandible))",,0,0
+"skeleton (skull only) (incomplete (no lower mandibles))",,0,0
+"skeleton (skull only) (incomplete)",,0,0
+"skeleton (skull only) (incomplete; no lower mandibles)",,0,0
+"skeleton (skull only) (incomplete; see notes)",,0,0
+"skeleton (skull only) (jaw only)",,0,0
+"skeleton (skull only) (Jaws only.)",,0,0
+"skeleton (skull only) (left mandible and 1 horn sheath)",,0,0
+"skeleton (skull only) (left mandible only)",,0,0
+"skeleton (skull only) (lower jaw)",,0,0
+"skeleton (skull only) (lower mandible only)",,0,0
+"skeleton (skull only) (malocclusion)",,0,0
+"skeleton (skull only) (mandible too, teeth in a baggie)",,0,0
+"skeleton (skull only) (mandibles in cabinet); skeleton (skull only) (skull on shelf)",,0,0
+"skeleton (skull only) (mandibles only)",,0,0
+"skeleton (skull only) (mandibles); skeleton (skull only) (skull with antlers)",,0,0
+"skeleton (skull only) (missing mandible & left premaxilla)",,0,0
+"skeleton (skull only) (missing mandibles)",,0,0
+"skeleton (skull only) (mounted on base)",,0,0
+"skeleton (skull only) (mounted on board)",,0,0
+"skeleton (skull only) (mounted vertically on a base)",,0,0
+"skeleton (skull only) (mounted)",,0,0
+"skeleton (skull only) (mounted, parts bolted together)",,0,0
+"skeleton (skull only) (no jaw)",,0,0
+"skeleton (skull only) (no jaw, nasal bones missing)",,0,0
+"skeleton (skull only) (no jaw, no tusks)",,0,0
+"skeleton (skull only) (no mamdible)",,0,0
+"skeleton (skull only) (no mandible)",,0,0
+"skeleton (skull only) (no mandibles)",,0,0
+"skeleton (skull only) (not found)",,0,0
+"skeleton (skull only) (not found); skeleton (incomplete)",,0,0
+"skeleton (skull only) (not mandibles)",,0,0
+"skeleton (skull only) (occipital section of skull)",,0,0
+"skeleton (skull only) (on loan to YBAL)",,0,0
+"skeleton (skull only) (one horn only)",,0,0
+"skeleton (skull only) (one horn sheath)",,0,0
+"skeleton (skull only) (one tusk is broken off)",,0,0
+"skeleton (skull only) (partial with tusks)",,0,0
+"skeleton (skull only) (partial)",,0,0
+"skeleton (skull only) (partial, no jaw)",,0,0
+"skeleton (skull only) (partial, with tusks & teeth)",,0,0
+"skeleton (skull only) (repaired with glue)",,0,0
+"skeleton (skull only) (right mandible only)",,0,0
+"skeleton (skull only) (roof of cranium with horns)",,0,0
+"skeleton (skull only) (sectioned skull & mandible)",,0,0
+"skeleton (skull only) (sectioned skull)",,0,0
+"skeleton (skull only) (sectioned)",,0,0
+"skeleton (skull only) (sectioned); skeleton (skull only) (other half in teaching collection?)",,0,0
+"skeleton (skull only) (sectioned, and jaw)",,0,0
+"skeleton (skull only) (sectioned, and with mandibles)",,0,0
+"skeleton (skull only) (SEE NOTES TAB)",,0,0
+"skeleton (skull only) (see notes)",,0,0
+"skeleton (skull only) (single horn)",,0,0
+"skeleton (skull only) (skin exchange to Russia)",,0,0
+"skeleton (skull only) (skul and jaw wired together)",,0,0
+"skeleton (skull only) (skull & horn; mandibles)",,0,0
+"skeleton (skull only) (skull (broken) and mandibles)",,0,0
+"skeleton (skull only) (skull and half lower mandible)",,0,0
+"skeleton (skull only) (skull and jaw wired together)",,0,0
+"skeleton (skull only) (skull and jaw)",,0,0
+"skeleton (skull only) (skull and mandible)",,0,0
+"skeleton (skull only) (skull and mandibles)",,0,0
+"skeleton (skull only) (skull and miscellaneous subcranial bones)",,0,0
+"skeleton (skull only) (skull at ESC for cleaning); skeleton (skull only) (left mandible here)",,0,0
+"skeleton (skull only) (skull broken)",,0,0
+"skeleton (skull only) (skull on shelf); skeleton (skull only) (mandibles in cabinet)",,0,0
 "Skeleton (Skull only) (Skull only)",,0,0
 "Skeleton (Skull only) (Skull only) (Skull only)",,0,0
+"skeleton (skull only) (skull w/ mandibles)",,0,0
+"skeleton (skull only) (skull with horncores)",,0,0
+"skeleton (skull only) (skull with mandibles)",,0,0
+"skeleton (skull only) (skull with mandibles); cast (Brain Casts cabinet, drawer 4)",,0,0
+"skeleton (skull only) (skull with one horn sheath in place and one separate)",,0,0
+"skeleton (skull only) (skull with separate horn sheaths)",,0,0
+"skeleton (skull only) (skull); skeleton (skull only) (mandibles and hyoid)",,0,0
+"skeleton (skull only) (specimen box is empty)",,0,0
+"skeleton (skull only) (Stored in West Wall Cabinet 7)",,0,0
+"skeleton (skull only) (Stored in West Wall in Cabinet 7)",,0,0
+"skeleton (skull only) (teaching collection)",,0,0
+"skeleton (skull only) (teeth)",,0,0
+"skeleton (skull only) (tusk also (single))",,0,0
+"skeleton (skull only) (with antler, no jaw)",,0,0
+"skeleton (skull only) (with antlers)",,0,0
+"skeleton (skull only) (with antlers, no jaw)",,0,0
+"skeleton (skull only) (with complete hornsheaths, no jaw)",,0,0
+"skeleton (skull only) (with horn sheaths intact)",,0,0
+"skeleton (skull only) (with horncores, no jaw)",,0,0
+"skeleton (skull only) (with jaw and loose teeth)",,0,0
+"skeleton (skull only) (with jaw)",,0,0
+"skeleton (skull only) (with mandible containing teeth)",,0,0
+"skeleton (skull only) (with mandibles)",,0,0
+"skeleton (skull only) (with mandibles, and vertebrae C1, C2)",,0,0
+"skeleton (skull only) (with one horn)",,0,0
+"skeleton (skull only) (with one mandible)",,0,0
+"skeleton (skull only) (with right mandible)",,0,0
+"skeleton (skull only); 70% alc.; tissue frozen",,0,0
+"skeleton (skull only); 70% alc.; tissue frozen; tissue (dry) (fur samples at timed intervals)",,0,0
+"skeleton (skull only); cast (Brain Casts cabinet, drawer 4)",,0,0
+"skeleton (skull only); cast (of latex; Brain Cast Cabinet, drawer 3)",,0,0
+"skeleton (skull only); cast (of latex; Brain Casts cabinet, drawer 3)",,0,0
+"skeleton (skull only); cast (of resin)",,0,0
+"skeleton (skull only); cast (of resin; Brain Casts cabinet, drawer 1)",,0,0
+"skeleton (skull only); cast (of resin; Brain Casts cabinet, drawer 2)",,0,0
+"skeleton (skull only); skeleton (incomplete)",,0,0
+"skeleton (skull only); skeleton (incomplete) (mandible on exhibit in Hall of Human Origins)",,0,0
+"skeleton (skull only); skeleton (skull only)",,0,0
+"skeleton (skull only); skeleton (skull only) (skull with mandibles)",,0,0
+"skeleton (skull only); skeleton (Stored in West Wall Cabinet 7)",,0,0
+"skeleton (skull only); skeleton; tissue frozen",,0,0
+"skeleton (skull only); skin (round) (untanned, folded)",,0,0
+"skeleton (skull only); skin, mounted (see Notes)",,0,0
+"skeleton (skull only); skin, round",,0,0
+"skeleton (skull only); skin, round; tissue frozen",,0,0
+"skeleton (skull only); tissue frozen",,0,0
+"skeleton (skull only); tissue frozen; tissue frozen",,0,0
+"skeleton (skull with mandible)",,0,0
 "Skeleton (Skull) (Skull)",,0,0
 "Skeleton (Skull) (Skull) (Skull)",,0,0
 "Skeleton (Skull), Skin (Skull) (Skull), Skin",,0,0
 "Skeleton (Skull), Skin (Skull), Skin (Skull)",,0,0
+"skeleton (skull, spine damaged); tissue frozen",,0,0
 "Skeleton (Skull, sternum) (Skull, sternum)",,0,0
 "Skeleton (Skull, sternum) (Skull, sternum) (Skull, sternum)",,0,0
+"skeleton (Springer Spaniel)",,0,0
 "Skeleton (Sternum) (Sternum) (Sternum)",,0,0
+"skeleton (Stored in West Wall Cabinet 7)",,0,0
+"skeleton (three drawers); skeleton (skull only) (skull only)",,0,0
 "Skeleton (Trunk only) (Trunk only), Skin (Trunk only), Skin",,0,0
 "Skeleton (Trunk only) (Trunk only), Skin, Skin (Trunk only)",,0,0
 "Skeleton (Trunk only), Skin (Trunk only), Skin (Trunk only)",,0,0
@@ -47828,6 +48238,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton (uncleaned)",,0,0
 "Skeleton (Unmounted skeleton) (Unmounted skeleton) (Unmounted skeleton)",,0,0
 "skeleton (vertebrae, caudal fin+first dorsal ray restored)",,0,0
+"skeleton (was painted and formerly mounted)",,0,0
+"skeleton (with skull and jaw)",,0,0
+"skeleton (with skull and mandibles)",,0,0
+"skeleton (with skull and mandibles); skeleton (skull only)",,0,0
+"skeleton (with skull)",,0,0
+"skeleton (with skull, jaw)",,0,0
+"skeleton (without skull); skeleton (skull only) (skull and mandibles)",,0,0
 "SKELETON ?",,0,0
 "skeleton | egg",,0,0
 "skeleton | tissue",,0,0
@@ -47942,10 +48359,49 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton, Leg bones, Skin, Leg bones, Skin, Toe pad sample, Leg bones, Skin, Toe pad sample, Skin",,0,0
 "Skeleton, Leg bones, Skin, Leg bones, Skin, Toe pad sample, Skin, Leg bones, Skin, Toe pad sample",,0,0
 "Skeleton, Leg bones, Skin, Skin, Toe pad sample, Leg bones, Skin, Leg bones, Skin, Toe pad sample",,0,0
+"skeleton, macerated",,0,0
+"skeleton, macerated; skin, tanned (We're assuming it's tanned because there is a tanning number); tissue frozen (Pulled from soft tissue on the skeleton)",,0,0
 "skeleton, mandible",,0,0
 "skeleton, matrix",,0,0
 "Skeleton, Microtechnique, Microtechnique",,0,0
 "Skeleton, missing limbs (mounted, in spirit)",,0,0
+"skeleton, mounted",,0,0
+"skeleton, mounted (baby)",,0,0
+"skeleton, mounted (complete skeleton, no armor)",,0,0
+"skeleton, mounted (complete skeleton, with full armor)",,0,0
+"skeleton, mounted (complete)",,0,0
+"skeleton, mounted (dog, see notes)",,0,0
+"skeleton, mounted (formerly mounted)",,0,0
+"skeleton, mounted (formerly mounted); skeleton (partially disarticulated now)",,0,0
+"skeleton, mounted (formerly mounted, many elements still articulated); skeleton (skull only)",,0,0
+"skeleton, mounted (French Bulldog)",,0,0
+"skeleton, mounted (Gargantua); skin, flat (fragment of skin, finger nails and cartilage)",,0,0
+"skeleton, mounted (greyhound)",,0,0
+"skeleton, mounted (hanging under a branch)",,0,0
+"skeleton, mounted (incomplete)",,0,0
+"skeleton, mounted (mostly disarticulated)",,0,0
+"skeleton, mounted (mounted skeleton on shelf); skeleton (incomplete) (forearms are in cabinet 12)",,0,0
+"skeleton, mounted (no skull)",,0,0
+"skeleton, mounted (no skull, one arm off, but with.)",,0,0
+"skeleton, mounted (no skull, poor condition)",,0,0
+"skeleton, mounted (now partially disarticulated)",,0,0
+"skeleton, mounted (on branch)",,0,0
+"skeleton, mounted (on shelf); skeleton (skull only) (in cabinet)",,0,0
+"skeleton, mounted (painted)",,0,0
+"skeleton, mounted (Papillon)",,0,0
+"skeleton, mounted (partially disarticulated)",,0,0
+"skeleton, mounted (Pomeranian)",,0,0
+"skeleton, mounted (Siberian Husky - ""Togo"")",,0,0
+"skeleton, mounted (skull missing)",,0,0
+"skeleton, mounted (vertebrae mounted on iron bar); skin, mounted; skeleton; skeleton (incomplete) (skull moved to West Campus in vz box 121, vz pallet 26)",,0,0
+"skeleton, mounted (with back and tail armor, but not head armor)",,0,0
+"skeleton, mounted (young individual, with tusk)",,0,0
+"skeleton, mounted (young, climbing a branch)",,0,0
+"skeleton, mounted; microslide (rib 1 (proximal section)); microslide (rib 2 (distal section)); microslide (rib 3 (distal section))",,0,0
+"skeleton, mounted; skeleton (incomplete)",,0,0
+"skeleton, mounted; skeleton (incomplete) (hyoid only)",,0,0
+"skeleton, mounted; skeleton (incomplete) (TUSKS only, and stored in ivory cabinet)",,0,0
+"skeleton, mounted; skeleton (skull only) (skull was removed from KGL 122, now stored in KGL 7, for consideration in Fossil Hall renovation)",,0,0
 "SKELETON, NO SKULL","skeleton",0,1
 "Skeleton, no skull, a few hairs",,0,0
 "SKELETON, OLD ADULT",,0,0
@@ -51330,6 +51786,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELETON/WING/FOOT/FEATHERS","skeleton | wing | foot | feathers",0,1
 "SKELETON/WING/TAIL","skeleton | wing | tail",0,1
 "SKELETON/WING/TAIL/FEATHERS","skeleton | wing | tail | feathers",0,1
+"skeleton; cast (Brain Casts cabinet, drawer 4)",,0,0
+"skeleton; cast (Brain Casts cabinet, drawer 4); skeleton (skull only)",,0,0
+"skeleton; cast (of latex; Brain Casts cabinet, drawer 3)",,0,0
+"skeleton; cast (of resin; Brain Casts cabinet, drawer 1)",,0,0
+"skeleton; cast (of resin; Brain Casts cabinet, drawer 3)",,0,0
 "Skeleton; Flat skin","skeleton | flat skin",0,1
 "skeleton; flight feathers",,0,0
 "Skeleton; Misc.","miscellaneous | skeleton",0,1
@@ -51339,13 +51800,40 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton; No data","skeleton",0,1
 "skeleton; partial",,0,0
 "skeleton; remiges",,0,0
+"skeleton; reproductive organs in formalin (4 fetuses); tissue frozen",,0,0
 "Skeleton; Skeleton","skeleton",0,1
+"skeleton; skeleton (skull only)",,0,0
+"skeleton; skeleton (skull only) (& mandible, 2010 inventory)",,0,0
+"skeleton; skeleton (skull only) (& mandibles, 2010 survey)",,0,0
+"skeleton; skeleton (skull only) (is missing)",,0,0
+"skeleton; skeleton (skull only) (mounted skull & jaw, on shelf)",,0,0
+"skeleton; skeleton (skull only) (mounted, stored on open shelves)",,0,0
+"skeleton; skeleton (skull only) (skull and jaw in Teaching Collection)",,0,0
+"skeleton; skeleton (skull only) (skull and jaw mounted on ethafoam base)",,0,0
+"skeleton; skeleton (skull only) (skull and mandible in Teaching Collection)",,0,0
+"skeleton; skeleton (skull only) (skull mounted on ethafoam)",,0,0
+"skeleton; skeleton (skull only) (skull moved to WC in vz box 121)",,0,0
+"skeleton; skeleton (skull only); skin (round) (untanned, folded)",,0,0
+"skeleton; skeleton (skull only); skin, round (untanned, folded)",,0,0
 "Skeleton; Skin","skeleton | skin",0,1
 "Skeleton; Skin (EtOH)","skeleton | skin (ETOH)",0,1
+"skeleton; skin (round) (untanned, folded)",,0,0
+"skeleton; skin (round) (untanned, folded); skeleton (incomplete) (mandable only)",,0,0
+"skeleton; skin (round); tissue frozen",,0,0
+"skeleton; skin round; tissue frozen",,0,0
 "skeleton; skin sample",,0,0
 "skeleton; skin voucher not available",,0,0
 "Skeleton; Study skin","skeleton | study skin",0,1
 "Skeleton; Tissue",,0,0
+"skeleton; tissue (dry)",,0,0
+"skeleton; tissue frozen",,0,0
+"skeleton; tissue frozen (tissue removed when skeleton was rehydrated for prep)",,0,0
+"skeleton; tissue frozen; skin (round)",,0,0
+"skeleton; tissue frozen; skin, round",,0,0
+"skeleton; tissue frozen; tissue frozen",,0,0
+"skeleton; tissue frozen; tissue frozen; tissue frozen",,0,0
+"skeleton; tissue, frozen",,0,0
+"skeleton; tissue, frozen; skin (round)",,0,0
 "skeleton; tissue; schmoo","schmoo | skeleton | tissue",0,1
 "skeleton; tissue; wing","skeleton | tissue | wing",0,1
 "Skeleton; Whole (EtOH)","skeleton | whole animal (ETOH)",0,1
@@ -51778,6 +52266,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (Primary feathers) (Primary feathers)",,0,0
 "Skin (Retrix; Primary) (Retrix; Primary) (Retrix; Primary)",,0,0
 "skin (round)",,0,0
+"skin (round) (untanned); skeleton (skull only) (see Notes by PFW); skeleton (incomplete)",,0,0
+"skin (round) (untanned, folded)",,0,0
 "skin (round) | cranium (broken)",,0,0
 "skin (round) | cranium (complete)",,0,0
 "skin (round) | mandible (one mandible)",,0,0
@@ -51871,6 +52361,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin (round); mandible (one mandible)",,0,0
 "skin (round); mandible (two mandibles)",,0,0
 "skin (round); mandible (two mandibles), none",,0,0
+"skin (round); skeleton (skull only); tissue frozen",,0,0
+"skin (round); skeleton; tissue frozen",,0,0
 "skin (round); skull (broken)",,0,0
 "skin (round); skull (broken), liver, heart",,0,0
 "skin (round); skull (broken), liver, heart, kidney",,0,0
@@ -51897,6 +52389,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin (round); skull (partial)",,0,0
 "skin (round); skull (partial), none",,0,0
 "skin (round); skull (two mandibles)",,0,0
+"skin (round); tissue, frozen; skeleton",,0,0
 "skin (round); two mandibles (complete)",,0,0
 "skin (round); two mandibles (complete), none",,0,0
 "skin (rug)",,0,0
@@ -52254,6 +52747,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKIN CONTAINING SKULL AND DIGITS IN ALCOHOL, REMAINDER PREPARED AS SKELETON",,0,0
 "Skin Frozen . Freeze dried.",,0,0
 "skin impression",,0,0
+"skin in EtOH",,0,0
 "Skin of foot",,0,0
 "Skin of head + skull with jaw (in skin)",,0,0
 "Skin of head + tongue + rest of the animal. (in spirit)",,0,0
@@ -52289,6 +52783,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin Patch - 1; Skeleton - 11",,0,0
 "Skin Patch - 1; Skull - 1",,0,0
 "Skin Removed",,0,0
+"skin round",,0,0
+"skin round; skeleton",,0,0
+"skin round; skeleton (incomplete); tissue frozen",,0,0
+"skin round; skeleton (skull only)",,0,0
+"skin round; skeleton (skull only); tissue frozen",,0,0
+"skin round; skeleton; tissue frozen",,0,0
 "skin sample",,0,0
 "skin sample, bone sample, tissue",,0,0
 "skin tanned/skel/scalp","scalp | skeleton | tanned skin",0,1
@@ -52620,6 +53120,31 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Feathers, Feathers, Feather shaft sample, Feathers, Feather shaft sample",,0,0
 "SKIN, FEATHERS, SKELETON","feathers | skeleton | skin",0,1
 "skin, femur, skull",,0,0
+"skin, flat",,0,0
+"skin, flat (Borzoi)",,0,0
+"skin, flat (Cairn Terrier)",,0,0
+"skin, flat (champion rough collie El Troubador of Arken)",,0,0
+"skin, flat (frozen); skeleton (skull only)",,0,0
+"skin, flat (head skin only); skeleton (skull only)",,0,0
+"skin, flat (Mastiff)",,0,0
+"skin, flat (prepared as a rug)",,0,0
+"skin, flat (skull inside skin); skeleton (skull only)",,0,0
+"skin, flat (tissue sample at at New York University); skeleton (skull only)",,0,0
+"skin, flat (untanned hide)",,0,0
+"skin, flat (untanned); skeleton (incomplete) (skull missing)",,0,0
+"skin, flat (untanned); skeleton (skull only); skeleton (incomplete)",,0,0
+"skin, flat (untanned, folded)",,0,0
+"skin, flat (untanned, folded); skeleton; skeleton (skull only)",,0,0
+"skin, flat (unusually pale individual); skeleton (skull only)",,0,0
+"skin, flat (Whippet)",,0,0
+"skin, flat; skeleton",,0,0
+"skin, flat; skeleton (incomplete); tissue frozen",,0,0
+"skin, flat; skeleton (skull only)",,0,0
+"skin, flat; skeleton (skull only) (broken)",,0,0
+"skin, flat; skeleton (skull only) (skull inside of pelt)",,0,0
+"skin, flat; skeleton (skull only); tissue frozen",,0,0
+"skin, flat; skeleton; tissue frozen",,0,0
+"skin, flat; skeleton; tissue frozen; 10% form.->70% alc. (partial) (6 fetuses.); embryo/fetus removed: 10% form.->70% alc.",,0,0
 "Skin, Fluid","fluid | skin",0,1
 "Skin, Fluid, Feather samples, Feather samples, Fluid",,0,0
 "Skin, Fluid, Fluid",,0,0
@@ -52696,8 +53221,55 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, measured length",,0,0
 "Skin, measured length, Y",,0,0
 "Skin, mounted",,0,0
+"skin, mounted (2 on a board, one biting a mouse, one balled-up)",,0,0
+"skin, mounted (adult with three babies)",,0,0
+"skin, mounted (cheeks full)",,0,0
+"skin, mounted (damaged, discarded)",,0,0
+"skin, mounted (discarded)",,0,0
+"skin, mounted (front paw on rock)",,0,0
+"skin, mounted (head)",,0,0
+"skin, mounted (head) (discarded)",,0,0
+"skin, mounted (head) (extremely long distal horn)",,0,0
+"skin, mounted (head) (horn sheath cracked)",,0,0
+"skin, mounted (head) (pair of heads mounted on board, male and female)",,0,0
+"skin, mounted (left ear missing)",,0,0
+"skin, mounted (missing 23 Sep 2013); skeleton (was used in E. Sargis course in 2012; missing 23 Sep 2013)",,0,0
+"skin, mounted (mounted on board)",,0,0
+"skin, mounted (mounted on branch on board)",,0,0
+"skin, mounted (mounted on branch)",,0,0
+"skin, mounted (no base)",,0,0
+"skin, mounted (no base, stored lying down)",,0,0
+"skin, mounted (no base, stored lying on side)",,0,0
+"skin, mounted (not found); skeleton (not found)",,0,0
+"skin, mounted (on a base)",,0,0
+"skin, mounted (on a branch)",,0,0
+"skin, mounted (on base)",,0,0
+"skin, mounted (on board, standing)",,0,0
+"skin, mounted (on branch on wooden platform)",,0,0
+"skin, mounted (on branch)",,0,0
+"skin, mounted (on wood base)",,0,0
+"skin, mounted (sitting up)",,0,0
+"skin, mounted (sitting upright, has a base with it, but taken off base)",,0,0
+"skin, mounted (sitting upright, in alert position)",,0,0
+"skin, mounted (sitting, alert, tail curled, young?)",,0,0
+"skin, mounted (standing on all four legs)",,0,0
+"skin, mounted (standing on all fours, on a temporary, boxy base)",,0,0
+"skin, mounted (standing)",,0,0
+"skin, mounted (tail only)",,0,0
+"skin, mounted (the ""skiing"" mount, on long folded wires)",,0,0
+"skin, mounted (tree trunk-esque base)",,0,0
+"skin, mounted (winter coat)",,0,0
+"skin, mounted (winter molt nearly complete)",,0,0
+"skin, mounted (with separate log)",,0,0
+"skin, mounted (young fawn, resting)",,0,0
+"skin, mounted (young individual)",,0,0
 "Skin, Mounted by William Grant, a Vassar Taxidermist.  Taken down and thoroughly washed in Dreft & Ivory flakes Jan 3-4, 1950 (DAZ & LMZ), Y",,0,0
 "Skin, mounted, Y",,0,0
+"skin, mounted; skeleton",,0,0
+"skin, mounted; skeleton (incomplete)",,0,0
+"skin, mounted; skeleton (skull only)",,0,0
+"skin, mounted; skeleton (skull only) (as part of the mount)",,0,0
+"skin, mounted; skeleton (skull only) (including jaw and baculum)",,0,0
 "Skin, Mted by Wm. Richter of Saginaw, Y; Feather, Y",,0,0
 "Skin, Mted by Wm. Richter of Saginaw; Feather",,0,0
 "Skin, My first bird skin, Y",,0,0
@@ -52858,6 +53430,122 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, restored by Donald Magoon, Y",,0,0
 "Skin, Rinsed in water, degreased in stodsol",,0,0
 "Skin, Rinsed in water, degreased in stodsol, Y",,0,0
+"skin, round",,0,0
+"skin, round (1/2 hair off back); skeleton (skull only)",,0,0
+"skin, round (2); skeleton",,0,0
+"skin, round (2); skeleton (skull only)",,0,0
+"skin, round (Alaskan Husky)",,0,0
+"skin, round (Arkansas coonhound)",,0,0
+"skin, round (Bloodhound)",,0,0
+"skin, round (Borzoi, Champion Eristoff O'Valley Farm, AKC 585009)",,0,0
+"skin, round (Boston terrier)",,0,0
+"skin, round (Chow Chow)",,0,0
+"skin, round (Clumber Spaniel)",,0,0
+"skin, round (dried velvet only)",,0,0
+"skin, round (English Springer Spaniel)",,0,0
+"skin, round (euthanized); skeleton (skull only); tissue frozen",,0,0
+"skin, round (exchanged to Russia, 1990); skeleton (skull only)",,0,0
+"skin, round (four mounted feet only)",,0,0
+"skin, round (German shepherd)",,0,0
+"skin, round (head only); skeleton (skull only)",,0,0
+"skin, round (Irish Setter)",,0,0
+"skin, round (Irish wolfhound)",,0,0
+"skin, round (Keeshond, Smokey); skeleton",,0,0
+"skin, round (Kerry Blue Terrier)",,0,0
+"skin, round (Labrador Husky)",,0,0
+"skin, round (Maltese terrier)",,0,0
+"skin, round (Mastiff)",,0,0
+"skin, round (melanistic)",,0,0
+"skin, round (Mexican pitbull dog)",,0,0
+"skin, round (no skull)",,0,0
+"skin, round (no tail); skeleton (skull only)",,0,0
+"skin, round (not found); skeleton (skull only)",,0,0
+"skin, round (Pekingese)",,0,0
+"skin, round (pickled); skeleton (skull only)",,0,0
+"skin, round (Pointer)",,0,0
+"skin, round (right hind leg broken); skeleton (skull only); tissue frozen",,0,0
+"skin, round (salted skin); skeleton",,0,0
+"skin, round (Samoyed)",,0,0
+"skin, round (skin exchanged to Russia, 1990); skeleton (skull only)",,0,0
+"skin, round (skin not found); skeleton (skull only)",,0,0
+"skin, round (skin reversed)",,0,0
+"skin, round (skin reversed); skeleton",,0,0
+"skin, round (skull inside skin - head only); skeleton (skull only)",,0,0
+"skin, round (skull inside skin - mummy); skeleton (skull only)",,0,0
+"skin, round (skull inside skin - skin reversed); skeleton (skull only)",,0,0
+"skin, round (skull inside skin); skeleton (skull only)",,0,0
+"skin, round (skull inside skin); skin, mounted; skeleton (skull only)",,0,0
+"skin, round (skull is within the skin); skeleton (skull only)",,0,0
+"skin, round (Skye Terrier)",,0,0
+"skin, round (Welsh foxhound)",,0,0
+"skin, round (Welsh Terrier)",,0,0
+"skin, round (whole carcass dried)",,0,0
+"skin, round; skeleton",,0,0
+"skin, round; skeleton (2 skulls with the same number)",,0,0
+"skin, round; skeleton (broken)",,0,0
+"skin, round; skeleton (incomplete)",,0,0
+"skin, round; skeleton (incomplete) (connected to skin via Q number)",,0,0
+"skin, round; skeleton (incomplete) (found in osteology)",,0,0
+"skin, round; skeleton (incomplete) (matched to skin by field number)",,0,0
+"skin, round; skeleton (incomplete) (missing skull)",,0,0
+"skin, round; skeleton (incomplete) (no skull)",,0,0
+"skin, round; skeleton (incomplete) (no skull); skeleton (skull only)",,0,0
+"skin, round; skeleton (incomplete) (skull missing)",,0,0
+"skin, round; skeleton (incomplete) (skull, assorted postcranial elements)",,0,0
+"skin, round; skeleton (incomplete); skeleton (skull only)",,0,0
+"skin, round; skeleton (incomplete); tissue frozen",,0,0
+"skin, round; skeleton (incomplete); tissue, frozen",,0,0
+"skin, round; skeleton (match to skin by field number)",,0,0
+"skin, round; skeleton (matched to skin by field number)",,0,0
+"skin, round; skeleton (matched to skin by original catalog number)",,0,0
+"skin, round; skeleton (not found)",,0,0
+"skin, round; skeleton (not found); tissue frozen",,0,0
+"skin, round; skeleton (skull only)",,0,0
+"skin, round; skeleton (skull only) (2)",,0,0
+"skin, round; skeleton (skull only) (and baculum)",,0,0
+"skin, round; skeleton (skull only) (and jaw)",,0,0
+"skin, round; skeleton (skull only) (broken)",,0,0
+"skin, round; skeleton (skull only) (broken, see notes)",,0,0
+"skin, round; skeleton (skull only) (found at West Campus during post-move inventory)",,0,0
+"skin, round; skeleton (skull only) (found in ""problem cabinet"" at West Campus, should be reunited with skin at ESC)",,0,0
+"skin, round; skeleton (skull only) (jaw fragments)",,0,0
+"skin, round; skeleton (skull only) (jaw intact, skull broken)",,0,0
+"skin, round; skeleton (skull only) (matched to skin by field number)",,0,0
+"skin, round; skeleton (skull only) (missing as of 4 oct 2012)",,0,0
+"skin, round; skeleton (skull only) (not found)",,0,0
+"skin, round; skeleton (skull only) (not in ESC)",,0,0
+"skin, round; skeleton (skull only) (Sargis has skull)",,0,0
+"skin, round; skeleton (skull only) (Sargis has the skull); skeleton",,0,0
+"skin, round; skeleton (skull only) (skull and two mandibles)",,0,0
+"skin, round; skeleton (skull only) (skull crushed, only mandible remains)",,0,0
+"skin, round; skeleton (skull only) (skull matched to skin by field number and collector)",,0,0
+"skin, round; skeleton (skull only) (skull with mandibles)",,0,0
+"skin, round; skeleton (skull only); skeleton (incomplete)",,0,0
+"skin, round; skeleton (skull only); skeleton (incomplete) (at west campus)",,0,0
+"skin, round; skeleton (skull only); skeleton (incomplete) (baculum)",,0,0
+"skin, round; skeleton (skull only); skeleton, macerated",,0,0
+"skin, round; skeleton (skull only); skeleton, macerated; tissue (dry)",,0,0
+"skin, round; skeleton (skull only); tissue (dry); skeleton, macerated",,0,0
+"skin, round; skeleton (skull only); tissue frozen",,0,0
+"skin, round; skeleton (tail vertebrae in skin, left hind femur broken); tissue frozen",,0,0
+"skin, round; skeleton (this skel. could also be NS 417 for which skin is missing)",,0,0
+"skin, round; skeleton (this skel. could also belong to NS 409)",,0,0
+"skin, round; skeleton (tissue1); tissue frozen",,0,0
+"skin, round; skeleton, macerated",,0,0
+"skin, round; skeleton, macerated; skeleton (skull only)",,0,0
+"skin, round; skeleton, macerated; skeleton (skull only); tissue (dry)",,0,0
+"skin, round; skeleton, macerated; tissue (dry)",,0,0
+"skin, round; skeleton; reproductive organs in formalin (2 fetuses); tissue frozen",,0,0
+"skin, round; skeleton; skeleton (incomplete)",,0,0
+"skin, round; skeleton; skeleton (skull only) (not found)",,0,0
+"skin, round; skeleton; skeleton, macerated",,0,0
+"skin, round; skeleton; tissue (dry)",,0,0
+"skin, round; skeleton; tissue (dry); tissue (dry)",,0,0
+"skin, round; skeleton; tissue frozen",,0,0
+"skin, round; skeleton; tissue frozen; reproductive organs in formalin (5 fetuses)",,0,0
+"skin, round; skeleton; tissue, frozen",,0,0
+"skin, round; tissue frozen",,0,0
+"skin, round; tissue, frozen",,0,0
 "Skin, secondaries stripped from ulna",,0,0
 "Skin, secondaries stripped from ulna, Y",,0,0
 "SKIN, SELETON","skin | skeleton",0,1
@@ -54196,6 +54884,27 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, T",,0,0
 "Skin, Taken down, scraped, washed in Dreft, soaked in Stodsol",,0,0
 "Skin, Taken down, scraped, washed in Dreft, soaked in Stodsol, Y",,0,0
+"skin, tanned",,0,0
+"skin, tanned (feral); skeleton (skull only)",,0,0
+"skin, tanned (German Shepherd)",,0,0
+"skin, tanned (Great Pyranees); skeleton",,0,0
+"skin, tanned (head and neck only)",,0,0
+"skin, tanned (skull missing)",,0,0
+"skin, tanned (tail separate)",,0,0
+"skin, tanned; part (hooves)",,0,0
+"skin, tanned; skeleton",,0,0
+"skin, tanned; skeleton (found dry in burlap sack and soaked in water); tissue frozen (removed from skelton during rehydration)",,0,0
+"skin, tanned; skeleton (incomplete)",,0,0
+"skin, tanned; skeleton (incomplete) (hooves)",,0,0
+"skin, tanned; skeleton (incomplete) (missing skull)",,0,0
+"skin, tanned; skeleton (skull only)",,0,0
+"skin, tanned; skeleton (skull only) (partial skull and horns)",,0,0
+"skin, tanned; skeleton (skull only) (skull and mandibles)",,0,0
+"skin, tanned; skeleton (skull only) (Skull in good condition, three teeth missing. Mandibles glued at symphysis, three teeth missing. Baggie contains four teeth.)",,0,0
+"skin, tanned; skeleton (skull only) (skull no mandible)",,0,0
+"skin, tanned; skeleton (skull only); photographic voucher",,0,0
+"skin, tanned; skeleton (skull only); skeleton (incomplete)",,0,0
+"skin, tanned; skeleton; tissue (dry) (dried muscle from the skeleton)",,0,0
 "skin, taxidermy mount",,0,0
 "Skin, testes preserved",,0,0
 "Skin, testes preserved in Bouin's",,0,0
@@ -69883,6 +70592,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Y; Wings_tail, Y; Tissue, Y; Syrinx, Y; Skel, Y",,0,0
 "Skin, Ys",,0,0
 "SKIN,SKELETON","skin | skeleton",0,1
+"skin. round; skeleton; tissue, frozen",,0,0
 "skin/--",,0,0
 "Skin/(1984 0112)Skel(1983 1102)",,0,0
 "Skin/(1984 1207)Skel",,0,0
@@ -74717,6 +75427,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue (100% ethanol), Skin (Spread wing) (100% ethanol)",,0,0
 "Tissue (100% ethanol), Skin (Spread wing) (100% ethanol), Skeleton",,0,0
 "Tissue (100% ethanol), Skin (Spread wing), Skeleton (100% ethanol)",,0,0
+"tissue (blood) in buffer",,0,0
+"tissue (blood) in buffer (imported from spreadsheet from W. Piel); tissue (blood) in buffer; tissue (blood) in buffer; tissue (blood) in buffer; tissue (blood) in buffer; tissue (blood) in buffer; tissue (blood) in buffer",,0,0
+"tissue (blood) in buffer; tissue (blood) in buffer; tissue (blood) in buffer; tissue (blood) in buffer",,0,0
 "Tissue (Buffer) (Buffer)",,0,0
 "Tissue (Buffer) (Buffer), Skeleton",,0,0
 "Tissue (Buffer), Skeleton (Buffer)",,0,0
@@ -74778,6 +75491,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue | Microtechnique | Microtechnique | Fluid | Microtechnique",,0,0
 "Tissue | Recording | Fluid",,0,0
 "tissue | tissue",,0,0
+"tissue frozen",,0,0
+"tissue in RNA-Later",,0,0
 "Tissue number 10186",,0,0
 "Tissue number 10585",,0,0
 "Tissue number 10636",,0,0

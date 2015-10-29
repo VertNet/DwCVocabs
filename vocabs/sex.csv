@@ -728,6 +728,7 @@ M[F]","unknown",0,1
 "Female by plumage","female",0,1
 "Female eggs N=11","female",0,1
 "Female eggs N=15","female",0,1
+"female female","female",0,1
 "Female full od well developed eg","female",0,1
 "Female gravid","female",0,1
 "Female neonate","female",0,1
@@ -1164,6 +1165,7 @@ M[F]","unknown",0,1
 "Male br.","male",0,1
 "Male by plumage","male",0,1
 "Male Female","female | male",0,1
+"male male","male",0,1
 "Male of pair","male",0,1
 "Male(?)","in question",0,1
 "male(s) & female(s)-certain","female | male",0,1
@@ -1318,12 +1320,14 @@ M[F]","unknown",0,1
 "uncertain","unknown",0,1
 "underlined M","male",0,1
 "Underside of tail red, belly and",,0,1
+"undeterminable","unknown",0,1
 "undetermined","unknown",0,1
 "unk","unknown",0,1
 "unk.","unknown",0,1
 "unknowable","unknown",0,1
 "Unknowm","unknown",0,1
 "unknown","unknown",1,1
+"unknown female","female",0,1
 "unknown sex","unknown",0,1
 "unknown; SEE ER","unknown",0,1
 "Unknwon","unknown",0,1
