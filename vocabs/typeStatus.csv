@@ -153,6 +153,7 @@
 "Cotype [=Paratype]",,0,0
 "Co-TYPE of Oestrelata nigripennis","syntype",0,1
 "Co-Type specimen","syntype",0,1
+"Cotype, Syntype",,0,0
 "COTYPE?",,0,0
 "Co-type?",,0,0
 "cotypes",,0,0
@@ -189,6 +190,7 @@
 "from Type Locality",,0,0
 "G",,0,0
 "G.incrassatus and genus  Sphoerocephalus",,0,0
+"Genotype, Holotype",,0,0
 "good specimen",,0,0
 "H","holotype",0,1
 "hard to see",,0,0
@@ -2341,6 +2343,9 @@ Paralectotype",,0,0
 "Holotype
 Paratype",,0,0
 "Holotype, NOTES",,0,0
+"Holotype, Paratype",,0,0
+"Holotype, Paratype, Type",,0,0
+"Holotype, Type",,0,0
 "Holotype.",,0,0
 "Holotype; Holotype",,0,0
 "Holotype; Holotype; Holotype",,0,0
@@ -3999,6 +4004,7 @@ Paratype
 Paratype
 Paratype",,0,0
 "Paratype, NOTES",,0,0
+"Paratype, Type",,0,0
 "Paratype.",,0,0
 "paratype?",,0,0
 "Paratypes","paratype",0,1

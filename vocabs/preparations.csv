@@ -24229,6 +24229,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "hide",,0,0
 "Hide (17 inches x 16 inches)",,0,0
 "Hide (8 inches x 14 inches)",,0,0
+"hide (dry)",,0,0
+"hide (dry); other (unknown)",,0,0
+"hide (dry); skeleton (dry); skeleton (unknown)",,0,0
+"hide (dry); tissue (dry); skeleton (dry) sample",,0,0
+"hide (dry); tissue (ethanol); skeleton (dry)",,0,0
+"hide (dry); tissue (unknown); skeleton (dry)",,0,0
 "hide, skeleton",,0,0
 "hide, skull",,0,0
 "hide, skull, pelvis",,0,0
@@ -35123,6 +35129,21 @@ R PERIPHERALS 2 - 3.",,0,0
 "OT* - 1",,0,0
 "other","other",1,1
 "Other - 1",,0,0
+"other (cast)",,0,0
+"other (cleared and stained)",,0,0
+"other (dry)",,0,0
+"other (dry); tissue (ethanol); skeleton (dry)",,0,0
+"other (ethanol)",,0,0
+"other (ethanol); other (unknown); skeleton (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol)",,0,0
+"other (ethanol); skeleton (dry); hide (dry)",,0,0
+"other (ethanol); skeleton (dry); other (ethanol)",,0,0
+"other (ethanol); tissue (ethanol); whole animal (ethanol)",,0,0
+"other (mounted)",,0,0
+"other (plaster cast)",,0,0
+"other (unknown)",,0,0
+"other (unknown); other (unknown)",,0,0
+"other (unknown); skeleton (dry); hide (dry)",,0,0
+"other (unknown); tissue (ethanol); skeleton (dry); other (unknown)",,0,0
 "Other | 0",,0,0
 "Other | 7358",,0,0
 "other | tissue",,0,0
@@ -47780,6 +47801,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skeleton (burried 25 Sep 2015)",,0,0
 "skeleton (cab. 78 drawers 4&5, cab. 79 drawer 1)",,0,0
 "skeleton (carapace only)",,0,0
+"skeleton (cleared and stained)",,0,0
 "Skeleton (Complete skeleton) (Complete skeleton)",,0,0
 "Skeleton (Complete skeleton) (Complete skeleton) (Complete skeleton)",,0,0
 "Skeleton (Complete skeleton) (Complete skeleton), Skin (Skin and separate spread wing) (Complete skeleton), Skin (Skin and separate spread wing)",,0,0
@@ -47792,12 +47814,38 @@ R PERIPHERALS 2 - 3.",,0,0
 "skeleton (damaged); tissue frozen",,0,0
 "skeleton (dirty, partially articulated by dried flesh); cast (Brain Casts cabinet, drawer 4); tissue (dry)",,0,0
 "skeleton (dirty, partially articulated by dried flesh); tissue (dry)",,0,0
+"skeleton (dry)",,0,0
+"skeleton (dry); hide (dry)",,0,0
+"skeleton (dry); hide (dry); tissue (dry); skeleton (dry) sample",,0,0
+"skeleton (dry); hide (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (eth",,0,0
+"skeleton (dry); hide (mounted)",,0,0
+"skeleton (dry); other (cast)",,0,0
+"skeleton (dry); other (ethanol)",,0,0
+"skeleton (dry); other (unknown)",,0,0
+"skeleton (dry); skeleton (cast)",,0,0
+"skeleton (dry); skeleton (dry)",,0,0
+"skeleton (dry); skeleton (dry) sample",,0,0
+"skeleton (dry); tissue (dry); skeleton (dry) sample",,0,0
+"skeleton (dry); tissue (dry); tissue (dry) sample",,0,0
+"skeleton (dry); tissue (ethanol); hide (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol)",,0,0
+"skeleton (dry); tissue (ethanol); hide (dry); tissue (ethanol); tissue (unknown); tissue (ethanol)",,0,0
+"skeleton (dry); tissue (ethanol); tissue (ethanol); hide (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol)",,0,0
+"skeleton (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol)",,0,0
+"skeleton (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); hide (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol)",,0,0
+"skeleton (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol)",,0,0
+"skeleton (dry); tissue (frozen: -20°C); tissue (frozen: -20°C)",,0,0
+"skeleton (dry); tissue (RNAlater); hide (dry); tissue (95% ethanol); tissue (95% ethanol)",,0,0
+"skeleton (dry); whole animal (dry)",,0,0
+"skeleton (dry); whole animal (ethanol)",,0,0
 "skeleton (elements are missing)",,0,0
+"skeleton (ethanol)",,0,0
+"skeleton (ethanol); whole animal (ethanol)",,0,0
 "Skeleton (Femur only) (Femur only)",,0,0
 "skeleton (former mount, disarticulated)",,0,0
 "skeleton (formerly mounted (some parts still wired))",,0,0
 "skeleton (formerly mounted)",,0,0
 "skeleton (formerly mounted, partially disarticulated)",,0,0
+"skeleton (fossil)",,0,0
 "Skeleton (fragments) including ribs + hind limb",,0,0
 "skeleton (Great Dane)",,0,0
 "skeleton (head damaged)",,0,0
@@ -47958,6 +48006,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton (Mounted skeleton) (Mounted skeleton)",,0,0
 "Skeleton (Mounted skeleton) (Mounted skeleton) (Mounted skeleton)",,0,0
 "Skeleton (mounted)",,0,0
+"skeleton (mounted); skeleton (unknown)",,0,0
 "Skeleton (no feet)",,0,0
 "skeleton (no head); tissue frozen",,0,0
 "Skeleton (no jaw), Tissue and Feet",,0,0
@@ -48229,6 +48278,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skeleton (Springer Spaniel)",,0,0
 "Skeleton (Sternum) (Sternum) (Sternum)",,0,0
 "skeleton (Stored in West Wall Cabinet 7)",,0,0
+"skeleton (subfossil)",,0,0
 "skeleton (three drawers); skeleton (skull only) (skull only)",,0,0
 "Skeleton (Trunk only) (Trunk only), Skin (Trunk only), Skin",,0,0
 "Skeleton (Trunk only) (Trunk only), Skin, Skin (Trunk only)",,0,0
@@ -48236,6 +48286,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton (Trunk skeleton) (Trunk skeleton)",,0,0
 "Skeleton (Trunk skeleton) (Trunk skeleton) (Trunk skeleton)",,0,0
 "Skeleton (uncleaned)",,0,0
+"skeleton (unknown)",,0,0
 "Skeleton (Unmounted skeleton) (Unmounted skeleton) (Unmounted skeleton)",,0,0
 "skeleton (vertebrae, caudal fin+first dorsal ray restored)",,0,0
 "skeleton (was painted and formerly mounted)",,0,0
@@ -52087,6 +52138,48 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (cased mount)",,0,0
 "Skin (damaged) + skull with jaw (in skin)",,0,0
 "SKIN (DRY)","skin",0,1
+"skin (dry) sample; skin (dry) sample; tissue (dry); hide (dry); skeleton (dry)",,0,0
+"skin (dry); hide (dry)",,0,0
+"skin (dry); other (dry)",,0,0
+"skin (dry); other (ethanol)",,0,0
+"skin (dry); other (ethanol); skeleton (dry); other (ethanol)",,0,0
+"skin (dry); other (ethanol); skeleton (dry); other (unknown)",,0,0
+"skin (dry); other (unknown)",,0,0
+"skin (dry); skeleton (dry)",,0,0
+"skin (dry); skeleton (dry) sample",,0,0
+"skin (dry); skeleton (dry); DNA (frozen: 4°C); tissue (frozen: -20°C); tissue (ethanol); tissue (ethanol); tissue (ethanol); DNA (frozen: 4°C) sample",,0,0
+"skin (dry); skeleton (dry); hide (dry)",,0,0
+"skin (dry); skeleton (dry); other (cast)",,0,0
+"skin (dry); skeleton (dry); other (ethanol)",,0,0
+"skin (dry); skeleton (dry); other (unknown)",,0,0
+"skin (dry); skeleton (dry); skeleton (dry) sample",,0,0
+"skin (dry); skeleton (dry); tissue (ethanol); other (ethanol)",,0,0
+"skin (dry); skeleton (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); other (ethanol); tissue (ethanol)",,0,0
+"skin (dry); skeleton (dry); whole animal (ethanol)",,0,0
+"skin (dry); skeleton (subfossil)",,0,0
+"skin (dry); skin (dry)",,0,0
+"skin (dry); skin (dry) sample",,0,0
+"skin (dry); skin (dry) sample; skeleton (dry)",,0,0
+"skin (dry); skin (dry) sample; skeleton (dry); skeleton (dry) sample",,0,0
+"skin (dry); tissue (95% ethanol); skeleton (dry)",,0,0
+"skin (dry); tissue (95% ethanol); whole animal (ethanol)",,0,0
+"skin (dry); tissue (dry); skeleton (dry); skeleton (dry) sample",,0,0
+"skin (dry); tissue (ethanol)",,0,0
+"skin (dry); tissue (ethanol); other (ethanol)",,0,0
+"skin (dry); tissue (ethanol); skeleton (dry)",,0,0
+"skin (dry); tissue (ethanol); skeleton (dry); other (unknown); other (ethanol)",,0,0
+"skin (dry); tissue (ethanol); tissue (ethanol); skeleton (dry)",,0,0
+"skin (dry); tissue (ethanol); tissue (ethanol); skeleton (dry); tissue (ethanol)",,0,0
+"skin (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); other (ethanol); skeleton (dry)",,0,0
+"skin (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); skeleton (dry); tissue (ethanol)",,0,0
+"skin (dry); tissue (frozen: -20°C)",,0,0
+"skin (dry); tissue (frozen: -20°C); skeleton (dry)",,0,0
+"skin (dry); tissue (frozen: -20°C); skeleton (dry); tissue (frozen: -20°C) sample",,0,0
+"skin (dry); tissue (frozen: -20°C); tissue (frozen: -20°C); skeleton (dry)",,0,0
+"skin (dry); tissue (frozen: -20°C); tissue (frozen: -20°C); tissue (frozen: -20°C)",,0,0
+"skin (dry); tissue (unknown); skeleton (dry)",,0,0
+"skin (dry); whole animal (ethanol)",,0,0
+"skin (ethanol)",,0,0
 "Skin (EtOH)","skin (ETOH)",0,1
 "Skin (EtOH) - 1",,0,0
 "Skin (face, right side)",,0,0
@@ -52212,6 +52305,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (mounted) + skull with jaw + skeleton (part mounted)",,0,0
 "Skin (mounted) + skull with jaw + skeleton (removed from skin)",,0,0
 "Skin (mounted) + skull with jaw + skeleton (skull in skin + ? foot bones)",,0,0
+"skin (mounted); other (unknown)",,0,0
+"skin (mounted); skeleton (dry)",,0,0
+"skin (mounted); skin (dry)",,0,0
+"skin (mounted); whole animal (ethanol)",,0,0
 "Skin (mounted)+ skull with jaw (in skin)",,0,0
 "Skin (mounted, damaged) + skull with jaw (removed from skin)",,0,0
 "Skin (mounted, in retracted position)",,0,0
@@ -52518,6 +52615,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin (tanned) | skull | skeleton",,0,0
 "skin (two feet and tail) | two wings",,0,0
 "skin (two feet and tail), wings",,0,0
+"skin (unknown)",,0,0
 "Skin (unmounted)",,0,0
 "Skin (un-mounted)",,0,0
 "Skin (un-mounted) + skull (in skin)",,0,0
@@ -71148,7 +71246,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull (broken), muscle, liver, heart, kidney",,0,0
 "skull (broken), none",,0,0
 "Skull (cap + pedicle)",,0,0
+"skull (cast)",,0,0
 "skull (cast) and mold",,0,0
+"skull (cast); skin (dry); skeleton (dry)",,0,0
+"skull (cast); whole animal (ethanol)",,0,0
 "skull (complete)",,0,0
 "skull (complete) | foreleg with bone, chest cavity contents",,0,0
 "skull (complete) | hing leg with bone, liver, heart",,0,0
@@ -71229,9 +71330,125 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull (dissected)",,0,0
 "SKULL (DRY)","skull",0,1
 "SKULL (DRY), tissue","skull | tissue",0,1
+"skull (dry); hide (dry)",,0,0
+"skull (dry); hide (dry); hide (dry)",,0,0
+"skull (dry); hide (dry); hide (dry) sample",,0,0
+"skull (dry); hide (dry); other (cast)",,0,0
+"skull (dry); hide (dry); other (ethanol)",,0,0
+"skull (dry); hide (dry); other (unknown)",,0,0
+"skull (dry); hide (dry); skeleton (dry); hide (dry) sample",,0,0
+"skull (dry); hide (dry); skeleton (dry); skeleton (dry) sample",,0,0
+"skull (dry); hide (dry); skeleton (dry); tissue (dry); tissue (dry) sample",,0,0
+"skull (dry); hide (dry); tissue (dry); skeleton (dry) sample",,0,0
+"skull (dry); hide (dry); tissue (dry); tissue (dry) sample",,0,0
+"skull (dry); hide (dry); tissue (ethanol); skeleton (dry); tissue (ethanol)",,0,0
+"skull (dry); hide (dry); tissue (frozen: -20°C); skeleton (dry); tissue (frozen: -20°C)",,0,0
+"skull (dry); other (cast)",,0,0
+"skull (dry); other (ethanol)",,0,0
+"skull (dry); other (mounted)",,0,0
+"skull (dry); other (unknown)",,0,0
+"skull (dry); skeleton (dry)",,0,0
+"skull (dry); skeleton (dry); hide (dry)",,0,0
+"skull (dry); skeleton (dry); hide (dry); other (ethanol)",,0,0
+"skull (dry); skeleton (dry); hide (dry); skeleton (dry) sample; skeleton (dry) sample",,0,0
+"skull (dry); skeleton (dry); other (ethanol)",,0,0
+"skull (dry); skeleton (dry); other (unknown)",,0,0
+"skull (dry); skeleton (dry); skeleton (dry)",,0,0
+"skull (dry); skeleton (dry); skeleton (dry) sample",,0,0
+"skull (dry); skeleton (dry); skeleton (dry) sample; skeleton (dry) sample",,0,0
+"skull (dry); skeleton (dry); skeleton (dry) sample; skeleton (dry) sample; skeleton (dry) sample",,0,0
+"skull (dry); skeleton (dry); tissue (dry); tissue (dry) sample",,0,0
+"skull (dry); skeleton (dry); tissue (ethanol); other (unknown)",,0,0
+"skull (dry); skeleton (dry); whole animal (ethanol)",,0,0
+"skull (dry); skeleton (unknown)",,0,0
+"skull (dry); skeleton (unknown); hide (dry)",,0,0
+"skull (dry); skin (dry)",,0,0
+"skull (dry); skin (dry); hide (dry)",,0,0
+"skull (dry); skin (dry); other (cast)",,0,0
+"skull (dry); skin (dry); other (cast); tissue (ethanol)",,0,0
+"skull (dry); skin (dry); other (ethanol)",,0,0
+"skull (dry); skin (dry); other (ethanol); other (ethanol)",,0,0
+"skull (dry); skin (dry); other (ethanol); skeleton (dry)",,0,0
+"skull (dry); skin (dry); other (ethanol); skeleton (unknown)",,0,0
+"skull (dry); skin (dry); other (unknown)",,0,0
+"skull (dry); skin (dry); other (unknown); skeleton (dry)",,0,0
+"skull (dry); skin (dry); other (unknown); tissue (ethanol)",,0,0
+"skull (dry); skin (dry); skeleton (dry)",,0,0
+"skull (dry); skin (dry); skeleton (dry); hide (dry)",,0,0
+"skull (dry); skin (dry); skeleton (dry); skeleton (dry) sample",,0,0
+"skull (dry); skin (dry); skeleton (dry); skeleton (dry) sample; skeleton (dry) sample",,0,0
+"skull (dry); skin (dry); skeleton (dry); tissue (ethanol)",,0,0
+"skull (dry); skin (dry); skeleton (dry); tissue (ethanol); other (unknown)",,0,0
+"skull (dry); skin (dry); skeleton (dry); tissue (frozen: -20°C)",,0,0
+"skull (dry); skin (dry); skeleton (unknown)",,0,0
+"skull (dry); skin (dry); skin (dry)",,0,0
+"skull (dry); skin (dry); skin (dry) sample",,0,0
+"skull (dry); skin (dry); skin (dry) sample; skeleton (dry)",,0,0
+"skull (dry); skin (dry); skin (dry) sample; skeleton (dry); skeleton (dry) sample",,0,0
+"skull (dry); skin (dry); skin (dry) sample; whole animal (ethanol)",,0,0
+"skull (dry); skin (dry); skin (mounted); skeleton (dry)",,0,0
+"skull (dry); skin (dry); skin (mounted); skeleton (dry); skeleton (dry) sample",,0,0
+"skull (dry); skin (dry); tissue (dry); tissue (dry) sample",,0,0
+"skull (dry); skin (dry); tissue (ethanol)",,0,0
+"skull (dry); skin (dry); tissue (ethanol); skeleton (dry); tissue (ethanol); whole animal (ethanol)",,0,0
+"skull (dry); skin (dry); tissue (ethanol); tissue (ethanol)",,0,0
+"skull (dry); skin (dry); tissue (ethanol); tissue (ethanol); skeleton (dry)",,0,0
+"skull (dry); skin (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol)",,0,0
+"skull (dry); skin (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); skeleton (dry)",,0,0
+"skull (dry); skin (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); skeleton (dry); tissue (ethanol)",,0,0
+"skull (dry); skin (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); skeleton (dry); tissue (ethanol)",,0,0
+"skull (dry); skin (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); skeleton (dry); tissue (ethanol)",,0,0
+"skull (dry); skin (dry); tissue (frozen: -20°C); hide (dry); skeleton (dry)",,0,0
+"skull (dry); skin (dry); tissue (frozen: -20°C); tissue (frozen: -20°C); skeleton (dry)",,0,0
+"skull (dry); skin (dry); tissue (frozen: -20°C); tissue (frozen: -20°C); tissue (ethanol); skeleton (dry)",,0,0
+"skull (dry); skin (dry); tissue (frozen: -20°C); tissue (frozen: -20°C); tissue (frozen: -20°C); skeleton (dry)",,0,0
+"skull (dry); skin (dry); tissue (frozen: -20°C); tissue (frozen: -20°C); tissue (frozen: -20°C); tissue (frozen: -20°C); skeleton (dry); tissue (frozen: -20°C)",,0,0
+"skull (dry); skin (dry); whole animal (ethanol)",,0,0
+"skull (dry); skin (dry); whole animal (ethanol); skeleton (dry)",,0,0
+"skull (dry); skin (ethanol)",,0,0
+"skull (dry); skin (mounted)",,0,0
+"skull (dry); skin (mounted); other (unknown)",,0,0
+"skull (dry); skin (mounted); skeleton (dry)",,0,0
+"skull (dry); skin (mounted); skeleton (dry); skeleton (dry) sample",,0,0
+"skull (dry); skin (mounted); skin (dry)",,0,0
+"skull (dry); skull (cast)",,0,0
+"skull (dry); skull (dry)",,0,0
+"skull (dry); skull (dry) sample",,0,0
+"skull (dry); skull (dry) sample; hide (dry)",,0,0
+"skull (dry); skull (dry) sample; skeleton (unknown)",,0,0
+"skull (dry); skull (dry) sample; skin (dry)",,0,0
+"skull (dry); skull (dry) sample; whole animal (ethanol)",,0,0
+"skull (dry); skull (dry); skeleton (dry)",,0,0
+"skull (dry); skull (dry); skeleton (dry); tissue (ethanol)",,0,0
+"skull (dry); skull (dry); skin (dry); skeleton (dry)",,0,0
+"skull (dry); skull (dry); skin (dry); whole animal (ethanol)",,0,0
+"skull (dry); skull (dry); skull (dry)",,0,0
+"skull (dry); skull (dry); whole animal (ethanol)",,0,0
+"skull (dry); skull (unknown)",,0,0
+"skull (dry); tissue (ethanol)",,0,0
+"skull (dry); tissue (ethanol); hide (dry)",,0,0
+"skull (dry); tissue (ethanol); hide (dry); skeleton (dry)",,0,0
+"skull (dry); tissue (ethanol); hide (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol)",,0,0
+"skull (dry); tissue (ethanol); skeleton (dry)",,0,0
+"skull (dry); tissue (ethanol); tissue (ethanol); skeleton (dry)",,0,0
+"skull (dry); tissue (ethanol); tissue (ethanol); skeleton (dry); tissue (ethanol)",,0,0
+"skull (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); skeleton (dry); tissue (ethanol)",,0,0
+"skull (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (frozen: -20°C); tissue (frozen: -20°C); tissue (frozen: -20°C); tissue (",,0,0
+"skull (dry); tissue (ethanol); tissue (ethanol); whole animal (ethanol)",,0,0
+"skull (dry); tissue (ethanol); tissue (ethanol); whole animal (ethanol); tissue (ethanol)",,0,0
+"skull (dry); tissue (ethanol); whole animal (ethanol)",,0,0
+"skull (dry); tissue (frozen: -20°C)",,0,0
+"skull (dry); tissue (frozen: -20°C); hide (dry); skeleton (dry)",,0,0
+"skull (dry); tissue (frozen: -20°C); skeleton (dry)",,0,0
+"skull (dry); tissue (frozen: -20°C); tissue (ethanol); skeleton (dry)",,0,0
+"skull (dry); whole animal (ethanol)",,0,0
+"skull (dry); whole animal (ethanol); other (dry)",,0,0
+"skull (dry); whole animal (ethanol); other (ethanol)",,0,0
+"skull (dry); whole animal (ethanol); other (unknown)",,0,0
 "Skull (ear bone only) with jaw",,0,0
 "Skull (ear region)",,0,0
 "Skull (elements)",,0,0
+"skull (ethanol)",,0,0
 "Skull (exoccipital)",,0,0
 "Skull ('exoccipital')",,0,0
 "Skull (face + brain case)",,0,0
@@ -71437,6 +71654,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull (mounted) with jaw",,0,0
 "Skull (mounted) with jaw (unmounted)",,0,0
 "Skull (mounted) with jaw + skeleton",,0,0
+"skull (mounted); hide (dry)",,0,0
 "Skull (mounted, disarticulated)",,0,0
 "Skull (mounted, in spirit)",,0,0
 "Skull (nasal, right)",,0,0
@@ -71617,10 +71835,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skull (squamosal)",,0,0
 "Skull (squamosal, part)",,0,0
 "Skull (squamosals)",,0,0
+"skull (subfossil)",,0,0
+"skull (subfossil); skin (dry)",,0,0
 "Skull (teeth missing) with jaw",,0,0
 "Skull (teeth missing) with jaw (left ramus)",,0,0
 "skull (two mandibles)",,0,0
 "skull (two mandibles), none",,0,0
+"skull (unknown)",,0,0
+"skull (unknown); skin (dry)",,0,0
+"skull (unknown); skull (dry); skin (dry)",,0,0
 "Skull (unprepared)",,0,0
 "Skull (unprepared) + postcranial elements",,0,0
 "Skull (unprepared) + vertebrae + ribs",,0,0
@@ -75427,6 +75650,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue (100% ethanol), Skin (Spread wing) (100% ethanol)",,0,0
 "Tissue (100% ethanol), Skin (Spread wing) (100% ethanol), Skeleton",,0,0
 "Tissue (100% ethanol), Skin (Spread wing), Skeleton (100% ethanol)",,0,0
+"tissue (95% ethanol); skeleton (dry)",,0,0
 "tissue (blood) in buffer",,0,0
 "tissue (blood) in buffer (imported from spreadsheet from W. Piel); tissue (blood) in buffer; tissue (blood) in buffer; tissue (blood) in buffer; tissue (blood) in buffer; tissue (blood) in buffer; tissue (blood) in buffer",,0,0
 "tissue (blood) in buffer; tissue (blood) in buffer; tissue (blood) in buffer; tissue (blood) in buffer",,0,0
@@ -75451,11 +75675,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue (DMSO/EDTA Buffer), Skeleton (DMSO/EDTA Buffer), Skeleton (DMSO/EDTA Buffer)",,0,0
 "Tissue (DMSO/EDTA Buffer), Skeleton (Partial skeleton), Skin (DMSO/EDTA Buffer)",,0,0
 "Tissue (DMSO/EDTA Buffer), Skin (DMSO/EDTA Buffer)",,0,0
+"tissue (ethanol)",,0,0
 "Tissue (Ethanol) (Ethanol)",,0,0
 "Tissue (Ethanol) (Ethanol), Skeleton",,0,0
 "Tissue (Ethanol) (Ethanol), Skin",,0,0
 "Tissue (Ethanol), Skeleton (Ethanol)",,0,0
 "Tissue (Ethanol), Skin (Ethanol)",,0,0
+"tissue (ethanol); hide (dry)",,0,0
+"tissue (ethanol); skeleton (dry)",,0,0
+"tissue (ethanol); tissue (frozen: -20°C); tissue (ethanol); tissue (ethanol); hide (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol)",,0,0
+"tissue (ethanol); whole animal (ethanol)",,0,0
+"tissue (frozen: -20°C); hide (dry)",,0,0
+"tissue (frozen: -20°C); skeleton (dry)",,0,0
 "Tissue (Liquid Nitrogen) (Liquid Nitrogen)",,0,0
 "Tissue (Liquid Nitrogen) (Liquid Nitrogen), Skeleton",,0,0
 "Tissue (Liquid Nitrogen), Skeleton (Liquid Nitrogen)",,0,0
@@ -75465,6 +75696,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue (LN2), Skeleton (LN2)",,0,0
 "Tissue (No Medium) (No Medium)",,0,0
 "Tissue (SDS buffer) (SDS buffer) (SDS buffer)",,0,0
+"tissue (unknown); skeleton (dry)",,0,0
 "tissue ,feathers","feathers | tissue",0,1
 "tissue ,feathers ,Skel","feathers | skeleton | tissue",0,1
 "tissue ,feathers ,Skel ,wing","feathers | skeleton | tissue | wing",0,1
@@ -78224,6 +78456,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "Whole (Formalin) - 1",,0,0
 "Whole +  part dissection + heads (in spirit)",,0,0
 "Whole animal",,0,0
+"whole animal (cleared and stained)",,0,0
+"whole animal (dry)",,0,0
+"whole animal (ethanol)",,0,0
+"whole animal (ethanol); other (ethanol)",,0,0
+"whole animal (ethanol); other (unknown)",,0,0
+"whole animal (ethanol); skeleton (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol)",,0,0
+"whole animal (ethanol); tissue (ethanol); hide (dry)",,0,0
+"whole animal (ethanol); tissue (ethanol); skeleton (dry)",,0,0
+"whole animal (ethanol); tissue (ethanol); tissue (ethanol); skeleton (dry)",,0,0
 "whole animal in plexiglass block",,0,0
 "whole bird","whole animal",0,1
 "Whole bird -- freeze dried",,0,0

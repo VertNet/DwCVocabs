@@ -834,6 +834,7 @@
 "ARGENTINA OR URAGUAY",,0,1
 "Argentina or Uruguay",,0,1
 "Argentina/Chile",,0,1
+"Argentina/Patagonia","AR",0,1
 "Argentina? or Colombia?",,0,1
 "Argentine","AR",0,1
 "Argentine Rep","AR",0,1
@@ -1446,6 +1447,7 @@
 "British New Guinea","PG",0,1
 "British New Guinea ?","PG",0,1
 "British North Borneo","MY",0,1
+"British North Borneo, Borneo","MY",0,1
 "British Overseas Territory",,0,1
 "British Papua","PG",0,1
 "British Samoa","WS",0,1
@@ -1465,6 +1467,7 @@
 "Br't. Guiana","GY",0,1
 "Brunei","BN",0,1
 "Brunei Darussalam","BN",0,1
+"Brunei Darussalam?","BN",0,1
 "Buchara","UZ",0,1
 "Bueno[Argentina]","AR",0,1
 "Buffalo Zoo","US",0,1
@@ -1834,6 +1837,8 @@
 "'China'","CN",0,1
 "China (?)","CN",0,1
 "CHINA (BY INFERENCE)","CN",0,1
+"China (French IndoChina)","CN",0,1
+"China (French Indo-China)","CN",0,1
 "China / India",,0,1
 "China ?","CN",0,1
 "China or Japan ?",,0,1
@@ -2130,9 +2135,11 @@
 "Democratic  ; Democratic Republic of the Congo","CD",0,1
 "Democratic Republic of Congo","CD",0,1
 "Democratic Republic of Congo / Rwanda",,0,1
+"Democratic Republic of Congo/Tanzania",,0,1
 "Democratic Republic of Congo=Zaire","CD",0,1
 "Democratic Republic of the Congo","CD",1,1
 "Democratic Republic of the Congo  ; Congo Belge","CD",0,1
+"Democratic Republic of the Congo?","CD",0,1
 "DEMOCRATIC YEMEN","YE",0,1
 "DEN","DK",0,1
 "DENM","DK",0,1
@@ -2180,6 +2187,8 @@
 "Duke of York Is.","PG",0,1
 "Duke of York Island","PG",0,1
 "Dutch Antilles",,0,1
+"Dutch Borneo","ID",0,1
+"Dutch Borneo, Borneo","ID",0,1
 "Dutch Coast; North Sea","NL",0,1
 "Dutch E. Indies","ID",0,1
 "Dutch East Africa",,0,1
@@ -2505,6 +2514,7 @@
 "ELSAL","SV",0,1
 "ElSalvador","SV",0,1
 "ELSALVATOR","SV",0,1
+"Embu (British East Africa)","KE",0,1
 "Eng","GB",0,1
 "Eng.","GB",0,1
 "Engano I.","ID",0,1
@@ -2546,6 +2556,7 @@
 "Ethiopia-Eritrea",,0,1
 "Ethiopian-Kenya border",,0,1
 "Ethiopie","ET",0,1
+"Ethiopis (British East Africa)","ET",0,1
 "Euador","EC",0,1
 "Euphrates",,0,1
 "Eurasia",,0,1
@@ -2875,6 +2886,7 @@
 "Gold Coast Hinterland","GH",0,1
 "Gold Coast Hunterland ?","GH",0,1
 "Gold Coast, Africa","GH",0,1
+"Gold Coast, Ghana","GH",0,1
 "Gold Coast?","GH",0,1
 "Goodenough I.","PG",0,1
 "Goodenough Is.","PG",0,1
@@ -3477,6 +3489,7 @@
 "L. Egypt","EG",0,1
 "L.A.",,0,1
 "LA","US",0,1
+"La Vega","DO",0,1
 "LAB",,0,1
 "Lab Born",,0,1
 "Lab Born Hybrid",,0,1
@@ -3495,6 +3508,7 @@
 "Lapac I.","ID",0,1
 "LAPLA ND",,0,1
 "Lapland",,0,1
+"Lapland/Norway","NO",0,1
 "LAPPLAND",,0,1
 "Larat I.","ID",0,1
 "Lativa","LV",0,1
@@ -3713,6 +3727,7 @@
 "Malaysia [Thailand]",,0,1
 "MALAYSIA TIMOR","MY",0,1
 "Malaysia W.","MY",0,1
+"Malaysia/Thailand",,0,1
 "Malaysia; [Thailand]",,0,1
 "Malaysia?","MY",0,1
 "Malaysia@","MY",0,1
@@ -4525,6 +4540,7 @@
 "New Guin.",,0,1
 "NEW GUINEA",,0,1
 "New Guinea (4000')",,0,1
+"New Guinea (British New Guinea)","PG",0,1
 "New Guinea (Crandall 1929)",,0,1
 "New Guinea ?",,0,1
 "New Guinea [?]",,0,1
@@ -4985,6 +5001,7 @@
 "Palestine, Egypt","EG",0,1
 "Palestine, Jordan","JO",0,1
 "Palestine, Lebanon","LB",0,1
+"Palestine/Syria",,0,1
 "Palestine; [Israel?]",,0,1
 "Palestine?","PS",0,1
 "Palestinian National Authority","PS",0,1
@@ -5318,6 +5335,7 @@
 "Republic of the Philippines","PH",0,1
 "Republic of the Phillipines","PH",0,1
 "Republic of Trinidad and Tobago","TT",0,1
+"Republic of Trinidad and Tobago?","TT",0,1
 "República Cooperativa de Guyana","GY",0,1
 "República de Chad","TD",0,1
 "República de Sudán","SD",0,1
@@ -5399,6 +5417,7 @@
 "Russia Far East","RU",0,1
 "Russia or Mongolia",,0,1
 "Russia, Finland",,0,1
+"Russia/Kazakhstan",,0,1
 "Russia; Rossiya","RU",0,1
 "Russian  Federation","RU",0,1
 "Russian Altai","RU",0,1
@@ -5886,6 +5905,7 @@
 "Sahara Occidental","EH",0,1
 "Sahara of Algeria","DZ",0,1
 "Saint Barthelemy","BL",0,1
+"Saint Barthélemy","BL",0,1
 "Saint Christopher-Nevis","KN",0,1
 "Saint Domingo","DO",0,1
 "Saint Eustatius","BQ",0,1
@@ -5988,6 +6008,7 @@
 "Saudi  Arabia","SA",0,1
 "Saudi Arab","SA",0,1
 "Saudi Arabia","SA",1,1
+"Saudi Arabia (Arabia)","SA",0,1
 "Saudia Arabia","SA",0,1
 "Savage I. = Niue I.","NU",0,1
 "Savannah near Panama","PA",0,1
@@ -6038,6 +6059,7 @@
 "Sengal","SN",0,1
 "Serbia","RS",1,1
 "Serbia and Montenegro",,0,1
+"Serbia/Montenegro",,0,1
 "Serbia?","RS",0,1
 "Serdinia","IT",0,1
 "Sermatta I.","ID",0,1
@@ -6087,6 +6109,7 @@
 "Siam ?","TH",0,1
 "Siam Pen.","TH",0,1
 "Siam, Malay Peninsula","TH",0,1
+"Siam, Thailand","TH",0,1
 "Siam;Thailand","TH",0,1
 "Siam?","TH",0,1
 "Siamese - Malay Peninsula","TH",0,1
@@ -6156,6 +6179,7 @@
 "So. Ireland","IE",0,1
 "So. Mexico","MX",0,1
 "So. Morocco","MA",0,1
+"So. New Guinea",,0,1
 "So. Nigeria","NG",0,1
 "So. Palestine","PS",0,1
 "So. Peru","PE",0,1
@@ -6218,6 +6242,7 @@
 "Somaliland ?","SO",0,1
 "Somaliland Somalia","SO",0,1
 "Somaliland?","SO",0,1
+"Somililand","SO",0,1
 "Somliland","SO",0,1
 "Soroti","UG",0,1
 "Soudan","SD",0,1
@@ -6232,6 +6257,7 @@
 "'South Africa""","ZA",0,1
 "South Africa.","ZA",0,1
 "South Africa/Kenya",,0,1
+"South Africa/Swaziland",,0,1
 "South Africa; Swaziland","ZA",0,1
 "South Africa; W.O.","ZA",0,1
 "South Africa?","ZA",0,1
@@ -6538,6 +6564,7 @@
 "Sula Mangoli","ID",0,1
 "Sula-Celebes Is.","ID",0,1
 "Sulawesi","ID",0,1
+"Sulawesi (Celebes)","ID",0,1
 "Sulu I","ID",0,1
 "Sulu I.","ID",0,1
 "Sulu Is","ID",0,1
@@ -6573,8 +6600,10 @@
 "SURI","SR",0,1
 "SURINAM","SR",0,1
 "'Surinam'","SR",0,1
+"Surinam (?)","SR",0,1
 "Surinam (probably)","SR",0,1
 "Surinam/Venezuela",,0,1
+"Surinam?","SR",0,1
 "Surinam-D. Guiana","SR",0,1
 "Surinam-D.Guiana","SR",0,1
 "Suriname","SR",1,1
@@ -6732,6 +6761,7 @@
 "Thai","TH",0,1
 "Thailand","TH",1,1
 "'Thailand'","TH",0,1
+"Thailand (French Indo-China)","TH",0,1
 "THAILAND (PROB.","TH",0,1
 "THAILAND (PROB.)","TH",0,1
 "Thailand (Siam)","TH",0,1
@@ -6749,6 +6779,7 @@
 "Tiandu I.",,0,1
 "Tiandu Is.",,0,1
 "Tibet","CN",0,1
+"Tibet?","CN",0,1
 "Tierra del Fuego",,0,1
 "Tim","ID",0,1
 "Timor","ID",0,1
@@ -6892,8 +6923,9 @@
 "Tunusia","TN",0,1
 "Turkestan",,0,1
 "Turkestan ?",,0,1
-"Turkestan [Kazakhstan]",,0,1
-"Turkestan; [Kazakhstan]",,0,1
+"Turkestan [Kazakhstan]","KZ",0,1
+"Turkestan, East Turkestan",,0,1
+"Turkestan; [Kazakhstan]","KZ",0,1
 "Turkestan?",,0,1
 "Turkeston",,0,1
 "Turkey","TR",1,1
@@ -6902,6 +6934,7 @@
 "Turkey E.","TR",0,1
 "Turkey S.","TR",0,1
 "Turkey, North","TR",0,1
+"Turkistan",,0,1
 "Turkmenia","TM",0,1
 "Turkmenist","TM",0,1
 "Turkmenistan","TM",1,1
@@ -7001,6 +7034,7 @@
 "United Sta ; United States","US",0,1
 "United States","US",1,1
 "United States  of America","US",0,1
+"United States (?)","US",0,1
 "United States [U.S.A.]","US",0,1
 "United States America","US",0,1
 "United States Minor Outlying Islands","UM",1,1
@@ -7012,6 +7046,7 @@
 "'United States of America' [U.S.A.]","US",0,1
 "United States of Amerika","US",0,1
 "United States Virgin Islands","VI",0,1
+"United States/Canada",,0,1
 "United States-Mexico",,0,1
 "unk",,0,1
 "UNKNOWN",,0,1
@@ -7155,6 +7190,7 @@
 "Virgin Islands (British)","VG",0,1
 "Virgin Islands (U.S.)","VI",0,1
 "Virgin Islands ?",,0,1
+"Virgin Islands of the United States","VI",0,1
 "VIRGIN ISLANDS, BRITISH","VG",0,1
 "Virgin Islands, St. Thomas","VI",0,1
 "Virgin Islands, U.S.","VI",1,1

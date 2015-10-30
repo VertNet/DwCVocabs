@@ -711,6 +711,7 @@ M[F]","unknown",0,1
 "female (see notes)","female",0,1
 "female (subsequently considered ","female",0,1
 "female (subsequently sexed as)","female",0,1
+"female , female","female",0,1
 "Female ?","in question",0,1
 "Female [?]","in question",0,1
 "Female [= Male ?]","in question",0,1
@@ -1153,6 +1154,7 @@ M[F]","unknown",0,1
 "male (see note)","male",0,1
 "male (see notes)","male",0,1
 "male (summer)","male",0,1
+"male , male","male",0,1
 "Male ?","in question",0,1
 "Male ?, testes 3mm???","male",0,1
 "Male [?]","in question",0,1
@@ -1232,6 +1234,7 @@ M[F]","unknown",0,1
 "no sex given","unknown",0,1
 "None",,0,1
 "not found","unknown",0,1
+"not recorded","unknown",0,1
 "not sexed","unknown",0,1
 "NOTES",,0,1
 "NR","unknown",0,1
@@ -1327,6 +1330,9 @@ M[F]","unknown",0,1
 "unknowable","unknown",0,1
 "Unknowm","unknown",0,1
 "unknown","unknown",1,1
+"unknown , female ?",,0,1
+"unknown , male",,0,1
+"unknown , unknown","unknown",0,1
 "unknown female","female",0,1
 "unknown sex","unknown",0,1
 "unknown; SEE ER","unknown",0,1
