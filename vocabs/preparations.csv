@@ -29,6 +29,7 @@
 """dist. art. radius-ulna"" from card cat.",,0,0
 """distal articular radius+ulna"" from card cat.",,0,0
 """fissure fills""",,0,0
+"""hairy"" morph",,0,0
 """horns"" only",,0,0
 """lot of leg bones""",,0,0
 """Mount, Blood""","mount | blood",0,1
@@ -75,6 +76,7 @@
 "(mounted, in glycerine)",,0,0
 "(mounted, in glycerol)",,0,0
 "(mounted, in spirit)",,0,0
+"(originally EMUS)",,0,0
 "(part mounted)",,0,0
 "*paleo: humerus fragment (see Comments)",,0,0
 "*paleo: humerus fragment (see Comments) | tissue",,0,0
@@ -1069,6 +1071,7 @@
 "??podial",,0,0
 "??podial frag",,0,0
 "??ulna frag",,0,0
+"?Anevrina",,0,0
 "?assoc isol teeth (18)",,0,0
 "?assoc Lp/4, Rm/2-3",,0,0
 "?assoc Mx/ and m/x",,0,0
@@ -1090,6 +1093,7 @@
 "?carpal elements",,0,0
 "?cervical",,0,0
 "?cheek tooth frag",,0,0
+"?Conicera",,0,0
 "?Coprolite",,0,0
 "?cranial frag w/ ?condyle",,0,0
 "?cranial fragment",,0,0
@@ -1114,6 +1118,7 @@
 "?fibula frag",,0,0
 "?humerus fragment",,0,0
 "?hyomandibula",,0,0
+"?Hypoceridites",,0,0
 "?incisor",,0,0
 "?incisor root",,0,0
 "?incisor root frag",,0,0
@@ -1164,6 +1169,7 @@
 "?phalanx",,0,0
 "?phalanx frag",,0,0
 "?pisiform",,0,0
+"?Plectanocnema",,0,0
 "?podial",,0,0
 "?podial frag",,0,0
 "?postorbital",,0,0
@@ -1211,6 +1217,7 @@
 "[alc?]",,0,0
 "[alcoholic] NOT FOUND IN COLLECTION MAY08",,0,0
 "[Bones (postcranial)]",,0,0
+"[coll in 2000]",,0,0
 "[complete skel] NOT FOUND IN COLLECTION MAY08",,0,0
 "[coracoid, forelimbs, scales]",,0,0
 "[Cranial + postcranial + cast]",,0,0
@@ -1272,6 +1279,7 @@
 "+SKO","skull",0,1
 "+SKO +T","skull | tissue",0,1
 "+SKO+T","skull | tissue",0,1
+"0",,0,0
 "1",,0,0
 "1 - 70% ETHANOL; 1 - DRY",,0,0
 "1 - 70% ETHANOL; 1 - GLYCERIN",,0,0
@@ -1690,6 +1698,7 @@
 "2 eggshells",,0,0
 "2 eggshells | tissue",,0,0
 "2 entoplastra+1 epiplastron",,0,0
+"2 females",,0,0
 "2 frags",,0,0
 "2 furcula fragments",,0,0
 "2 furcula fragments | tissue",,0,0
@@ -1701,6 +1710,8 @@
 "2 HUMERI,HEAD OF CORACOID",,0,0
 "2 I1/.",,0,0
 "2 incisors",,0,0
+"2 individuals",,0,0
+"2 individuals in this piece",,0,0
 "2 isol teeth",,0,0
 "2 jaw frags",,0,0
 "2 jaws",,0,0
@@ -1771,6 +1782,7 @@
 "2 small boxes of small bone frags",,0,0
 "2 SMALL JARS, 95% ETHANOL AND 70% ETHANOL, tissue",,0,0
 "2 SMALL JARS/ 1 70% ETHANOL/ 1 95% ETHANOL, tissue",,0,0
+"2 specimens in piece",,0,0
 "2 spine frags",,0,0
 "2 spread wings and 2 dried feet only",,0,0
 "2 spread wings and 2 dried feet only | tissue",,0,0
@@ -1917,6 +1929,7 @@
 "3 PHALANGES",,0,0
 "3 PHALANGES,3 METAPODIALS,ASTRAGALUS",,0,0
 "3 phalanx",,0,0
+"3 phorid larvae",,0,0
 "3 pieces + tube (in spirit)",,0,0
 "3 podials",,0,0
 "3 proximal phalanges",,0,0
@@ -1925,7 +1938,9 @@
 "3 radius fragments",,0,0
 "3 radius fragments | tissue",,0,0
 "3 Skull onlys",,0,0
+"3 specimens",,0,0
 "3 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
+"3 specimens; amber cloudy",,0,0
 "3 tadpoles",,0,0
 "3 tadpoles only",,0,0
 "3 teeth",,0,0
@@ -2005,6 +2020,8 @@
 "4 fragments ulna.","ulna fragments",0,1
 "4 Frags",,0,0
 "4 I",,0,0
+"4 individuals",,0,0
+"4 individuals in this piece",,0,0
 "4 isolated teeth",,0,0
 "4 jaw frags",,0,0
 "4 jaws",,0,0
@@ -2023,6 +2040,7 @@
 "4 scapula fragments",,0,0
 "4 scapula fragments | tissue",,0,0
 "4 Skull/ Vertebral Frags",,0,0
+"4 specimens",,0,0
 "4 tadpoles",,0,0
 "4 tadpoles only",,0,0
 "4 TEETH,I,P2/,2 M",,0,0
@@ -3718,6 +3736,7 @@
 "acromium, scapula-coracoid",,0,0
 "adult jaw",,0,0
 "adult left hypoplastron",,0,0
+"aenig. long costa",,0,0
 "Air bladder + alimentary canal (in spirit)",,0,0
 "akin (round) | skull (complete)",,0,0
 "akin (round); skull (complete)",,0,0
@@ -5491,7 +5510,10 @@
 "Almost complete",,0,0
 "Almost complete (mounted)",,0,0
 "Alocholic",,0,0
+"also 1 male primitive phorid",,0,0
 "also coprolites",,0,0
+"also female Dohrniphora",,0,0
+"also has m & f Puliciphora",,0,0
 "altas vertebra",,0,0
 "alular phalanx",,0,0
 "alular phalanx | tissue",,0,0
@@ -6699,6 +6721,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Atlas.","atlas",0,1
 "ATLAS+AXIS",,0,0
 "ATLASES",,0,0
+"attacking host",,0,0
 "AUDITORY AREA",,0,0
 "AUDITORY BULLA",,0,0
 "AUDITORY BULLA & FRAG SQUAMOSAL L",,0,0
@@ -6905,6 +6928,8 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Baleen plate","baleen plate",1,1
 "baleen/skin/ectoparasites",,0,0
 "Balsam",,0,0
+"Baltic amber",,0,0
+"Baltic amber; 2 black flies",,0,0
 "BARREL",,0,0
 "BARREL, tissue",,0,0
 "BASAL PART OF SKULL",,0,0
@@ -6994,6 +7019,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Beak/Jaw - 1",,0,0
 "Beak; leg; feathers (stomach contents of an Otus kennicottii)",,0,0
 "beak; sternum",,0,0
+"beautiful specimen",,0,0
 "Beaver stick",,0,0
 "Benpansar",,0,0
 "BILL",,0,0
@@ -7052,6 +7078,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "body skel/tissue | tissue",,0,0
 "body skeleton",,0,0
 "BODY SKELETON ONLY","body skeleton",0,1
+"body used for molecular",,0,0
 "Body with tail (nearly complete)",,0,0
 "Body, portion (in spirit)",,0,0
 "Body/Skel",,0,0
@@ -8852,7 +8879,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "coastal",,0,0
 "coastal 1 fragment",,0,0
 "Coastal plate.",,0,0
+"coated SEM specimen",,0,0
 "Coecum, dissected (in spirit)",,0,0
+"coll 2001",,0,0
+"coll in 2000",,0,0
+"coll in 2000, PT",,0,0
+"coll in 2000; PT",,0,0
+"coll. 2002",,0,0
+"collecting in 2002",,0,0
 "COM (DRY)","whole animal",0,1
 "comp skel",,0,0
 "comp skel | tissue",,0,0
@@ -9020,6 +9054,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Condyle metapodial.",,0,0
 "Condyloid process of dentary.",,0,0
 "CONDYLOID PROCESS R",,0,0
+"Conicera-like",,0,0
 "conjoined anterior portions of l+r dentaries (contain all incisors, l c1",,0,0
 "conjoined anterior portions of l+r dentaries (contain four fragmentary incisors",,0,0
 "conjoined anterior portions of l+r dentaries (contain l+r i2-3, c1, p1-4",,0,0
@@ -9029,6 +9064,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "cool squamates, misc bone",,0,0
 "Coosified PH I and II, digit I.",,0,0
 "Coossified PH I and II, digit 1.",,0,0
+"copal specimen",,0,0
+"copal, several individuals",,0,0
+"copal; several individuals",,0,0
 "coprolite",,0,0
 "Coprolite (fragment)",,0,0
 "Coprolite ?",,0,0
@@ -9813,6 +9851,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "damaged canine",,0,0
 "damaged incisor",,0,0
 "damaged tooth",,0,0
+"damaged, headless",,0,0
 "DAMAGED; 70% ETHANOL",,0,0
 "DC",,0,0
 "DC/",,0,0
@@ -12632,6 +12671,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "dMx/ frag.",,0,0
 "dnetary with p2-m2",,0,0
 "dome and latex endocast",,0,0
+"Dominican amber",,0,0
+"Dominican amber, f with eggs",,0,0
+"Dominican amber; ?chloropid",,0,0
+"Dominican amber; 3 m ants",,0,0
+"Dominican amber; m Megaselia",,0,0
+"Dominican amber; sciarid,cecid",,0,0
 "dors centrum",,0,0
 "DORS SKULL",,0,0
 "dors vert",,0,0
@@ -13442,6 +13487,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Endoparasites; Ectoparasites; Chromosomes; Tissue; Unknown - 1",,0,0
 "enest","nest",0,1
 "enest, tissue",,0,0
+"enormous specimen",,0,0
 "Entepicondylar area R humerus.",,0,0
 "Entire - 1",,0,0
 "entocuneiform",,0,0
@@ -20271,6 +20317,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "EtOH/Skeleton - 1","skeleton in alcohol",0,1
 "EUTHERIA",,0,0
 "EUTOPLASTRON",,0,0
+"excellent specimen",,0,0
 "Exchange - 1",,0,0
 "exoccipita, basioccipital, neaural arch halves",,0,0
 "EXOCCIPITAL",,0,0
@@ -22859,6 +22906,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "fore+hind limb elements, pelvis, scapula, assoc.",,0,0
 "Forefoot + casts",,0,0
 "forefoot, juvenile, associated/articulated",,0,0
+"foreleg SEM",,0,0
 "FORELIMB",,0,0
 "forelimb (dry) | muscle (95% ethanol)",,0,0
 "Fore-limb (left, articulated)",,0,0
@@ -22944,6 +22992,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "formalin, tissue",,0,0
 "Formalinfix",,0,0
 "Formalinfix.",,0,0
+"formerly sp. 31",,0,0
 "Formol till Alk",,0,0
 "FOSSETTE",,0,0
 "Fossette area of upper cheek tooth.",,0,0
@@ -22953,6 +23002,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Four foetuses attached to one placenta (in spirit)",,0,0
 "FOUR FRAGMENTS OF SHELL.",,0,0
 "four I",,0,0
+"four individuals in this piece",,0,0
 "four isolated cheek teeth",,0,0
 "four isolated teeth",,0,0
 "four jaws",,0,0
@@ -22960,6 +23010,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "four molars",,0,0
 "FOUR PHALANGES.",,0,0
 "FOUR RIBS.",,0,0
+"four specimens",,0,0
 "FOUR VERTEBRAE.","vertebrae - 4",0,1
 "FP","partial skeleton | flat skin",0,1
 "FP | tissue","partial skeleton | flat skin | tissue",0,1
@@ -23890,6 +23941,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "GLYCEROL/ SMALL JAR",,0,0
 "gnawed bone",,0,0
 "Gone - 1",,0,0
+"good specimen",,0,0
 "GOOD**/70% ETHANOL",,0,0
 "GOOD*/70% ETHANOL",,0,0
 "GOOD*/70% ETHANOL; LARGE JAR",,0,0
@@ -24059,6 +24111,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Hand (in spirit)",,0,0
 "Hand and arm (in spirit)",,0,0
 "Hands and feet (in spirit)",,0,0
+"hard to see",,0,0
 "hatchling costal",,0,0
 "HATCHLING SPECIMENS IN ALCOHOL AND EGG SHELLS","egg shells | hatchlings in alcohol",0,1
 "Hazelnuts",,0,0
@@ -24264,6 +24317,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Hind Foot Bones - 1",,0,0
 "Hind foot showing spur (mounted, in spirit)",,0,0
 "Hind leg (right)",,0,0
+"hind leg SEM",,0,0
 "HIND LIMB",,0,0
 "Hind limb (incomplete)",,0,0
 "Hind limb (left)",,0,0
@@ -24389,10 +24443,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "HORNS O.","horns",0,1
 "Horns only",,0,0
 "Hörselgång",,0,0
+"host Plebeia sp.  6, PT",,0,0
 "HP","shmoo | partial skeleton",0,1
 "HP | tissue","partial skeleton | shmoo | tissue",0,1
 "HPOSTLIMB BONE+VERTEBRA",,0,0
 "HT","head | skin | tail",0,1
+"HT, Baltic amber",,0,0
+"HT, on slide",,0,0
+"HT; beautiful specimen",,0,0
+"HT; was never deposited in CNC",,0,0
 "HUMERAE",,0,0
 "Humeral end L coracoid.",,0,0
 "Humeral end L scapula",,0,0
@@ -25086,6 +25145,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "impression, mandible",,0,0
 "in 2 pieces",,0,0
 "in alcohol",,0,0
+"in copula pair, PT",,0,0
+"in drawer in main collection",,0,0
 "in lungfish burrows",,0,0
 "in nodules",,0,0
 "inciscor",,0,0
@@ -29483,6 +29544,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "large bones, vertebrae",,0,0
 "large calc frag",,0,0
 "large incisor frag",,0,0
+"large individual",,0,0
+"large individual, Baltic amber",,0,0
 "Large intestine (in spirit)",,0,0
 "LARGE JAR",,0,0
 "large left pelvic complex",,0,0
@@ -30401,6 +30464,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Li2, Lc, Lp3-4, Lm1; Ri2, Rc",,0,0
 "LI2/",,0,0
 "Life History - 1",,0,0
+"like 208723",,0,0
 "LIMB",,0,0
 "Limb + foot bones",,0,0
 "Limb + foot bones (incomplete)",,0,0
@@ -30651,6 +30715,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "LO","other prep | complete skeleton",0,1
 "LO | tissue","other prep | complete skeleton | tissue",0,1
 "Loaned - 1",,0,0
+"loaned to Disney 19.xi.2001",,0,0
+"loaned to Disney, 2002",,0,0
+"loaned to Disney; setose Rs",,0,0
 "loer premolar",,0,0
 "long bone",,0,0
 "long bone epiphyses",,0,0
@@ -30668,6 +30735,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Long bones",,0,0
 "Long bones + scapulae + pelvis",,0,0
 "long frags",,0,0
+"long mouthparts",,0,0
 "longbone",,0,0
 "Long-bone (sectioned)",,0,0
 "longbone shaft frag",,0,0
@@ -30890,6 +30958,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "L-SEC SERIAL (MICROSLIDE)","L-section serial (microslide)",0,1
 "lst premolar",,0,0
 "lst upper premolar (P1)",,0,0
+"LT",,0,0
 "LT /M1",,0,0
 "lt ?m1",,0,0
 "lt ?m2",,0,0
@@ -31756,6 +31825,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "MANUS+CARPALS",,0,0
 "Many bones",,0,0
 "many cheek tooth+other fragments",,0,0
+"many specimens, 3 spp.",,0,0
 "many teeth",,0,0
 "many teeth+tooth fragments, including l dP4, M1-2, p2, r dP2-4",,0,0
 "MARGINAL",,0,0
@@ -33685,6 +33755,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "model; skeleton",,0,0
 "Modell",,0,0
 "Models of skull + jaws",,0,0
+"mol.vouch. 22.xii.03-139;slide",,0,0
+"Mol.Voucher 12.iv.05-238",,0,0
 "Molar",,0,0
 "molar (3).",,0,0
 "Molar (4); L maxilla M1/ M3/.",,0,0
@@ -33748,6 +33820,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Molars.",,0,0
 "MOLARS/",,0,0
 "MOLARS/,PREMOLARS/",,0,0
+"Molec. voucher 28.iii.05-225",,0,0
+"molecular specimen",,0,0
+"molecular specimen, on slide",,0,0
+"molecular voucher",,0,0
+"molecular voucher 10.v.04-175",,0,0
+"molecular voucher 9.x.02-74",,0,0
+"molecular voucher Vest. sp. 2",,0,0
+"molecular voucher Vest. sp.1",,0,0
 "more than one individual, skulls, fragments",,0,0
 "MOST OF COSTAL EXCEPT ONE MARGIN AND LATERAL EDGE.",,0,0
 "MOST OF DORSAL LIMB OF SCAPULA; LITTLE OF HORIZONTAL LIMB.",,0,0
@@ -34008,6 +34088,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "N=8 70% ETHANOL; N=6 C&S",,0,0
 "n1",,0,0
 "Nail-galls (mounted, in spirit)",,0,0
+"narrow frons ?Phora",,0,0
 "NASAL",,0,0
 "Nasal (right) + prefrontal (articulated) + vertebra (anterior caudal)",,0,0
 "Nasal + jugal + femur (end)",,0,0
@@ -34272,6 +34353,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "neurocranial endocast",,0,0
 "neurocranium",,0,0
 "NEUROCRANIUM FROZEN; TISSUES 95% ETOH",,0,0
+"new aenig. genus",,0,0
 "nine isolated cheek teeth, maxillary frag w M",,0,0
 "nineteen isolated cheek teeth",,0,0
 "Nine-tenths L ulna.",,0,0
@@ -34405,6 +34487,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "numerous vertebrae",,0,0
 "o","other prep",0,1
 "O | tissue","other prep | tissue",0,1
+"obscured",,0,0
+"obscured specimen",,0,0
+"obscured, can't see much",,0,0
 "OCCIPITAL",,0,0
 "Occipital and Vertebra",,0,0
 "OCCIPITAL COMPLEX",,0,0
@@ -34458,6 +34543,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "OLECRANON",,0,0
 "OLECRANON OF ULNA",,0,0
 "Olfactory organ, dissected (in spirit)",,0,0
+"on slide",,0,0
 "One bissected (mounted)",,0,0
 "One cervical vertebrae",,0,0
 "One costal, 5 limb fragments",,0,0
@@ -35613,6 +35699,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "paddle",,0,0
 "Paddle (disarticulated)",,0,0
 "PADDLE,PECTORAL GIRDLE",,0,0
+"pair",,0,0
 "Pair dentaries R p/3 p/4 p/1, L c/1 p/3 m/1.",,0,0
 "Pair dentary R i/1, R and L i/2 i/3 p/2 p/3 p/4 m/1 m/2 m3/",,0,0
 "Pair dentary.",,0,0
@@ -36870,6 +36957,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Parasites - 7; Wing Punch - 1",,0,0
 "Parasites - 8; Wing Punch - 1",,0,0
 "Parasites - 9; Wing Punch - 1",,0,0
+"parasitoid",,0,0
 "PARASPEHENOID",,0,0
 "Parasphenoid",,0,0
 "PARASPHENOID FRAG",,0,0
@@ -39442,6 +39530,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Pleurocentrum + intercentrum",,0,0
 "Plevis",,0,0
 "Pln-fragm.",,0,0
+"PLT",,0,0
+"PLT, retained",,0,0
 "Plumage - 1",,0,0
 "plural rib",,0,0
 "PM",,0,0
@@ -39537,6 +39627,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "podials+tooth frags",,0,0
 "Polished section",,0,0
 "Poor condition (in spirit)",,0,0
+"poor specimen",,0,0
 "POOR*/70% ETHANOL",,0,0
 "POOR*; DISSECTED**/70% ETHANOL",,0,0
 "POOR/70% ETHANOL; DISCARDED*",,0,0
@@ -39714,6 +39805,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Portions of the right side (in spirit)",,0,0
 "Portions R humerus, R femur, radius.",,0,0
 "possible upper incisor fragment",,0,0
+"possibly a diff sp.",,0,0
+"possibly a new genus",,0,0
 "POST",,0,0
 "post 1/2 dentary",,0,0
 "post 1/3 RM/3",,0,0
@@ -40634,6 +40727,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Primary",,0,0
 "Primary feather",,0,0
 "prismatic cartilage fragment",,0,0
+"prob Hypoceridites",,0,0
 "Probably fragment costal.",,0,0
 "Proboscis, sectioned (in spirit)",,0,0
 "PROCESSUS BRACHIALIS FRAG",,0,0
@@ -41520,8 +41614,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "PS - 1",,0,0
 "PS* - 1",,0,0
 "PS0",,0,0
+"PT",,0,0
 "pt skull",,0,0
+"PT""different behavior"" species",,0,0
+"PT, body used for molecular",,0,0
+"PT, genitalia vial only",,0,0
+"PT, on slide",,0,0
 "pt. skull",,0,0
+"PT; in copula pair",,0,0
+"PT; specimen lost",,0,0
 "PTEROTIC",,0,0
 "PTEROTICS",,0,0
 "PTERYGIPHORES,VERTEBRAE",,0,0
@@ -45301,6 +45402,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Respiratory organ (in spirit)",,0,0
 "Restoration",,0,0
 "RESTORATION OF HEAD",,0,0
+"retained",,0,0
+"retained from loan # 882",,0,0
+"retained from MZSP loan",,0,0
 "Reträttnät",,0,0
 "Reträttnät Mont",,0,0
 "RF foot/partial skin",,0,0
@@ -46675,6 +46779,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SCUTE PARTIAL",,0,0
 "scute, vertebra",,0,0
 "Scute.",,0,0
+"scutellar setae like Beckerina",,0,0
 "Scutes",,0,0
 "Scutes (4, dorsal)",,0,0
 "Scutes (dorsal)",,0,0
@@ -46744,6 +46849,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "sehll frag",,0,0
 "SELETON, WING, FEATHERS","skeleton | wing | feathers",0,1
 "SEM","stub for scanning electron microscope",0,1
+"SEM hind leg",,0,0
+"sem specimen",,0,0
 "SEMILUNAR",,0,0
 "Semilunar (left)",,0,0
 "Semilunar (right)",,0,0
@@ -46753,6 +46860,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Septomaxilla",,0,0
 "septosphenoid",,0,0
 "series of articulated centra",,0,0
+"series of setae on hind tibia",,0,0
 "sesamoid",,0,0
 "SESAMOID ?",,0,0
 "sesamoid bone",,0,0
@@ -46774,10 +46882,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "several associated himlimb elements",,0,0
 "Several bones",,0,0
 "SEVERAL CERVICAL VERTEBRA","cervical vertebrae",0,1
+"several individuals",,0,0
 "several limb fragments",,0,0
 "several nodules, misc",,0,0
 "several partial maxillae+dentaries",,0,0
 "Several pieces (mounted, in spirit)",,0,0
+"several specimens",,0,0
 "SH","shell",0,1
 "SHAFT & DIST TIBIA",,0,0
 "Shaft (fragment)",,0,0
@@ -47029,6 +47139,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "sisl","sisl",0,1
 "six incisors",,0,0
 "six mandibles w cheek teeth, 1 isolated cheek tooth",,0,0
+"six specimens",,0,0
 "SIX UNDET. PIECES.",,0,0
 "sk","skull",0,1
 "SK - 1",,0,0
@@ -73731,6 +73842,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "SLICE THROUGH NECK OF SCAPULA.",,0,0
 "slide ,Skel","skeleton | slide",0,1
 "slide ,wing ,Skel","skeleton | slide | wing",0,1
+"slide mounted",,0,0
+"slide mounted by Disney",,0,0
 "slide, electric organ discharge recording, fluid",,0,0
 "slide, fluid",,0,0
 "slide, fluid, electric organ discharge recording, tissue",,0,0
@@ -73757,6 +73870,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Small turtle, coprolite",,0,0
 "small vertebra",,0,0
 "small zygapophysis frag",,0,0
+"small, weird",,0,0
 "sn","skeleton",0,1
 "SN     292",,0,0
 "SN     293",,0,0
@@ -73902,6 +74016,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SPECIMEN IN ALCOHOL.",,0,0
 "SPECIMEN IN FLUID","fluid specimen",0,1
 "SPECIMEN IN FORMALIN","specimen in formalin",0,1
+"specimen lost",,0,0
 "SPECIMEN8 S IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
 "SPECIMENS IN ALCOHOL","specimens in alcohol",0,1
 "SPECIMENS IN ALCOHOL, 1 CLEARED AND STAINED","specimens in alcohol | one cleared and stained",0,1
@@ -74178,6 +74293,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Stomach, trachea & bronchi, heart, kidney, bladder, penis (in spirit)",,0,0
 "STORED ONLY IN 95% ETOH, tissue",,0,0
 "STORED ONLY IN 95% ETOH/ SMALL JAR, tissue",,0,0
+"strange genitalia",,0,0
 "streamworn vertebra",,0,0
 "Struphuvud",,0,0
 "STUDY","study skin",0,1
@@ -74326,6 +74442,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SURANGULAR,TEETH",,0,0
 "SURANGULARS",,0,0
 "swim track",,0,0
+"swollen costa",,0,0
 "symphyseal region of dentaries",,0,0
 "SYMPHYSEAL TOOTH",,0,0
 "SYMPHYSIAL TOOTH",,0,0
@@ -75160,6 +75277,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "teeth+vertebrae",,0,0
 "TEMPORAL & AUDITORY AREA FRAG L",,0,0
 "TEMPORAL CF",,0,0
+"teneral? id questionable",,0,0
 "TERMINAL CAUDAL VERTEBRA",,0,0
 "TERMINAL CAUDAL VERTEBRAE (DRY)","terminal caudal vertebrae",0,1
 "TERMINAL PEDAL PHALANX",,0,0
@@ -75194,6 +75312,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Thin section; Tissue; Skin",,0,0
 "Thin section; Tissue; Skin; Skel; Wings_tail",,0,0
 "Thin section; Wings_tail",,0,0
+"thin tibial setae",,0,0
 "third cervical vertebra frag",,0,0
 "thirty-three isolated cheek teeth",,0,0
 "thirty-two isolated cheek teeth",,0,0
@@ -77277,6 +77396,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Two fused sacral vertebrae.",,0,0
 "two incisors",,0,0
 "Two incisors, probably deciduous.",,0,0
+"two individuals in this piece",,0,0
 "two intercentra+fused intercalated hemicentrum",,0,0
 "two isolated cheek teeth",,0,0
 "two lower cheek teeth+tooth fragments",,0,0
@@ -77306,6 +77426,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "TWO SEGMENTS OF SCAPULA (WHICH FIT TOGETHER), CA. ONE AND ONE-QUARTER INCH WIDE.",,0,0
 "TWO SKULL ELEMENTS.",,0,0
 "Two skulls",,0,0
+"two specimens in piece",,0,0
 "two spine fragments and a half tooth",,0,0
 "Two thoracic vertebrae",,0,0
 "two tibiae + bone frags",,0,0
