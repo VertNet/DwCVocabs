@@ -34755,6 +34755,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: 15% formalin",,0,0
 "originally: 1inj. Pure form,10% forma",,0,0
 "originally: 1mj. Pure form, 10% forma",,0,0
+"originally: 1st in ETOH",,0,0
 "originally: 20% Form.",,0,0
 "originally: 20% formalin",,0,0
 "originally: 3% formalin",,0,0
@@ -34805,6 +34806,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: 70% EtOH; preservation: osteo",,0,0
 "originally: 70% Isopropanol",,0,0
 "originally: 70% Isopropyl Alcohol",,0,0
+"originally: 75% ETOH",,0,0
 "originally: 8% formalin",,0,0
 "originally: 90% denat alcoh.",,0,0
 "originally: 90% ETOH; preservation: 70% ETOH",,0,0
@@ -34901,6 +34903,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: Formaline",,0,0
 "originally: Formol",,0,0
 "originally: forzen, then 10% formalin",,0,0
+"originally: fossil otolith",,0,0
+"originally: Fossil Otoliths",,0,0
 "originally: Freeze",,0,0
 "originally: Freeze & formalin",,0,0
 "originally: freeze & formalin; preservation: formalin",,0,0
@@ -35012,6 +35016,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: frozen? then formalin?",,0,0
 "originally: frozen?; preservation: ETOH, Osteo",,0,0
 "originally: frozen?; preservation: parts",,0,0
+"originally: frozen?; preservation: Ultra-cold freezer | tissue",,0,0
 "originally: frozen--10% form",,0,0
 "originally: Frozen-10% form.",,0,0
 "originally: Frozen--10% form.",,0,0
@@ -35060,6 +35065,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "originally: OH - Form.",,0,0
 "originally: on ice/10 formalin",,0,0
 "originally: Orig. 95% ethanol",,0,0
+"originally: otolith",,0,0
+"originally: otoliths",,0,0
+"originally: Photographs only",,0,0
 "originally: Refrig. & 10% formalin",,0,0
 "originally: refrigerated; preservation: Osteo.",,0,0
 "originally: same as W52-207",,0,0
@@ -40698,6 +40706,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "preservation: fossil otoliths","fossil otoliths",0,1
 "preservation: frozen","frozen",0,1
 "preservation: l",,0,0
+"preservation: on dry ice and etoh",,0,0
 "preservation: One C&S","cleared and stained",0,1
 "preservation: Osteo","osteo",0,1
 "preservation: Osteo C & S","cleared and stained | osteo",0,1
