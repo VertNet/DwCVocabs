@@ -4915,6 +4915,7 @@
 "Choropipo",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Chorospingus","Chlorospingus","Thraupidae","Passeriformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus misspelled.",0
 "Choroxiphia","Chiroxiphia","Pipridae","Passeriformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus misspelled.",0
+"Chorus frog","Pseudacris","Hylidae","Anura","Amphibia","Chordata","Animalia",,0,1,"Genus is a common name.",0
 "Chotorbea",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Chotorea",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Chotorhea",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
@@ -7646,6 +7647,7 @@
 "Elanura","Triglops","Cottidae","Scorpaeniformes","Actinopterygii","Chordata","Animalia","Froese, R. and D. Pauly. Editors. 2012. FishBase.",0,1,"Genus is a synonym.",0
 "Elanus","Elanus","Accipitridae","Accipitriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "ELAPHE","Elaphe","Colubridae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
+"Elaphe or lampropeltis",,"Colubridae","Serpentes","Reptilia","Chordata","Animalia",,0,1,"Genus contains two genera.",0
 "Elaphodus","Elaphodus","Cervidae","Artiodactyla","Mammalia","Chordata","Animalia","ITIS",1,1,,0
 "Elaphrornis","Elaphrornis","Sylviidae","Passeriformes","Aves","Chordata","Animalia","Avibase",1,1,,0
 "Elaphurus","Elaphurus","Cervidae","Artiodactyla","Mammalia","Chordata","Animalia","ITIS",1,1,,0
@@ -8691,6 +8693,7 @@
 "Fojia","Fojia","Scincidae","Squamata","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: May 2012",1,1,,0
 "Fomicivora","Formicivora","Thamnophilidae","Passeriformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus misspelled.",0
 "Fondia","Foudia","Ploceidae","Passeriformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus misspelled.",0
+"Forbesichthyes","Forbesichthys","Amblyopsidae","Percopsiformes","Actinopterygii","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: 2015",0,1,,0
 "Forbesichthyes (chologaster)","Forbesichthys","Amblyopsidae","Percopsiformes","Actinopterygii","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: 2015",0,1,"Genus contains a synonym.",0
 "FORBESICHTHYS","Forbesichthys","Amblyopsidae","Percopsiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "FORCIPIGER","Forcipiger","Chaetodontidae","Perciformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
@@ -8748,6 +8751,7 @@
 "Fregilupus","Fregilupus","Sturnidae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Fregilus","Pyrrhocorax","Corvidae","Passeriformes","Aves","Chordata","Animalia","Handbook of the birds of the world",0,1,"Genus is a synonym.",0
 "Fregodroma","Fregetta","Oceanitidae","Procellariiformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus is a synonym.",0
+"Freshwater turtle",,"Emydidae","Testudines","Reptilia","Chordata","Animalia",,0,1,"Genus is a common name for a broad taxonomic category.",0
 "Fringalanda","Leucosticte","Fringillidae","Passeriformes","Aves","Chordata","Animalia","Handbook of the birds of the world",0,1,"Genus is a misspelled synonym.",0
 "Fringilauda",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Fringilla","Fringilla","Fringillidae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
@@ -9011,6 +9015,7 @@
 "Gen ",,,,,,,,0,1,"Not a genus.",0
 "Gen. ",,,,,,,,0,1,"Not a genus.",0
 "Gen. indet.",,,,,,,,0,1,"Not a genus.",0
+"Gen. sp.",,"Echimyidae","Rodentia","Mammalia","Chordata","Animalia",,0,1,"Genus contains identification qualifiers.",0
 "Gen. spiny rat",,"Echimyidae","Rodentia","Mammalia","Chordata","Animalia",,0,1,"Genus is a common name for a family.",0
 "Gen. undet.",,,,,,,,0,1,"Not a genus.",0
 "GENETTA","Genetta","Viverridae","Carnivora","Mammalia","Chordata","Animalia","ITIS",1,1,,0
@@ -10218,6 +10223,7 @@
 "Herpetocetus","Herpetocetus","Cetotheriidae","Cetacea","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Herpetodryas","Herpetodryas","Colubridae","Squamata","Reptilia","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,,0
 "Herpetoichthys","Herpetoichthys","Ophichthidae","Anguilliformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
+"Herpeton","Erpeton","Colubridae","Serpentes","Reptilia","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,"Genus is a synonym.",0
 "Herpetosuchus","Erpetosuchus","Erpetosuchidae","Archosauria","Reptilia","Chordata","Animalia","Paleobiology Database",0,1,"Genus is a synonym.",0
 "Herpetotheres","Herpetotheres","Falconidae","Falconiformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Herpetotherium","Herpetotherium","Didelphidae","Didelphimorphia","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
@@ -21402,6 +21408,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Scytolopus","Scytalopus","Rhinocryptidae","Passeriformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus misspelled.",0
 "Sea horse",,"Syngnathidae","Syngnathiformes","Actinopterygii","Chordata","Animalia",,0,1,"Genus is a common name.",0
 "Sea snake",,"Elapidae","Squamata","Reptilia","Chordata","Animalia",,0,1,"Genus is a common name for a subfamily.",0
+"Sea turtle",,"Cheloniidae","Testudines","Reptilia","Chordata","Animalia",,0,1,"Genus is a common name for a superfamily.",0
 "Seal",,,"Carnivora","Mammalia","Chordata","Animalia",,0,1,"Genus is a common name.",0
 "Searsia","Searsia","Platytroctidae","Osmeriformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Searsiidae",,"Platytroctidae","Osmeriformes","Actinopterygii","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: May 2012",0,1,"Genus is a synonym for a family.",0
