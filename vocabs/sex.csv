@@ -681,6 +681,7 @@ M[F]","unknown",0,1
 "FEMAL","female",0,1
 "FEMALAE","female",0,1
 "female","female",1,1
+"Female","female",0,1
 "female (? - see note)/male (? - ","unknown",0,1
 "Female (?)","in question",0,1
 "female (?, see note)","female",0,1
@@ -1130,6 +1131,7 @@ M[F]","unknown",0,1
 "macho test 8x4","male",0,1
 "macho test esc","male",0,1
 "male","male",1,1
+"Male","male",0,1
 "Male - 6 months","male",0,1
 "MALE  M","male",0,1
 "male & female","female | male",0,1
