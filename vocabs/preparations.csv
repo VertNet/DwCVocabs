@@ -13638,6 +13638,59 @@ R PERIPHERALS 2 - 3.",,0,0
 "Ethanol - 89",,0,0
 "Ethanol - 9",,0,0
 "ETHANOL/ SMALL JAR, tissue",,0,0
+"Ethanol/Alcohol - 1",,0,0
+"Ethanol/Alcohol - 10",,0,0
+"Ethanol/Alcohol - 11",,0,0
+"Ethanol/Alcohol - 110",,0,0
+"Ethanol/Alcohol - 118",,0,0
+"Ethanol/Alcohol - 12",,0,0
+"Ethanol/Alcohol - 127",,0,0
+"Ethanol/Alcohol - 13",,0,0
+"Ethanol/Alcohol - 130",,0,0
+"Ethanol/Alcohol - 131",,0,0
+"Ethanol/Alcohol - 14",,0,0
+"Ethanol/Alcohol - 143",,0,0
+"Ethanol/Alcohol - 154",,0,0
+"Ethanol/Alcohol - 17",,0,0
+"Ethanol/Alcohol - 171",,0,0
+"Ethanol/Alcohol - 18",,0,0
+"Ethanol/Alcohol - 19",,0,0
+"Ethanol/Alcohol - 190",,0,0
+"Ethanol/Alcohol - 2",,0,0
+"Ethanol/Alcohol - 20",,0,0
+"Ethanol/Alcohol - 200",,0,0
+"Ethanol/Alcohol - 21",,0,0
+"Ethanol/Alcohol - 216",,0,0
+"Ethanol/Alcohol - 22",,0,0
+"Ethanol/Alcohol - 23",,0,0
+"Ethanol/Alcohol - 24",,0,0
+"Ethanol/Alcohol - 269",,0,0
+"Ethanol/Alcohol - 27",,0,0
+"Ethanol/Alcohol - 278",,0,0
+"Ethanol/Alcohol - 28",,0,0
+"Ethanol/Alcohol - 295",,0,0
+"Ethanol/Alcohol - 3",,0,0
+"Ethanol/Alcohol - 31",,0,0
+"Ethanol/Alcohol - 32",,0,0
+"Ethanol/Alcohol - 34",,0,0
+"Ethanol/Alcohol - 35",,0,0
+"Ethanol/Alcohol - 355",,0,0
+"Ethanol/Alcohol - 4",,0,0
+"Ethanol/Alcohol - 44",,0,0
+"Ethanol/Alcohol - 45",,0,0
+"Ethanol/Alcohol - 479",,0,0
+"Ethanol/Alcohol - 5",,0,0
+"Ethanol/Alcohol - 50",,0,0
+"Ethanol/Alcohol - 59",,0,0
+"Ethanol/Alcohol - 6",,0,0
+"Ethanol/Alcohol - 7",,0,0
+"Ethanol/Alcohol - 78",,0,0
+"Ethanol/Alcohol - 8",,0,0
+"Ethanol/Alcohol - 80",,0,0
+"Ethanol/Alcohol - 81",,0,0
+"Ethanol/Alcohol - 87",,0,0
+"Ethanol/Alcohol - 89",,0,0
+"Ethanol/Alcohol - 9",,0,0
 "ETHMOID",,0,0
 "EtOH","alcoholic",0,1
 "EtOH - 1","alcoholic",0,1
@@ -26171,6 +26224,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "jaw; pieces in matrix",,0,0
 "jaw+tooth frags",,0,0
 "jaws",,0,0
+"Jaws - 1",,0,0
 "Jaws (anterior portion) + teeth",,0,0
 "Jaws (fragments) + teeth",,0,0
 "Jaws (horn covering, upper + lower)",,0,0
@@ -30390,6 +30444,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Leg Bone - 1",,0,0
 "leg bones",,0,0
 "Leg Bones - 1",,0,0
+"Leg Bones - 2",,0,0
 "Leg muscles (in spirit)",,0,0
 "Leg muscles, dissected (in spirit)",,0,0
 "leg, skull",,0,0
@@ -45562,6 +45617,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "ribfragment",,0,0
 "Ribs",,0,0
 "Ribs - 1",,0,0
+"Ribs - 9",,0,0
 "Ribs (7 assorted)",,0,0
 "Ribs (left)",,0,0
 "Ribs (right)",,0,0
@@ -47932,6 +47988,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "skeleton","skeleton",1,1
 "Skeleton - 0",,0,0
 "Skeleton - 1","skeleton",0,1
+"Skeleton - 1; Alcohol/Ethanol - 2",,0,0
+"Skeleton - 1; Alcohol/Ethanol - 4",,0,0
 "Skeleton - 1; Ancillary Material - 1",,0,0
 "Skeleton - 1; Baleen",,0,0
 "Skeleton - 1; Baleen - 1",,0,0
@@ -52134,6 +52192,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin  + alc stomach | tissue",,0,0
 "Skin - 0",,0,0
 "Skin - 1","skin - 1",0,1
+"Skin - 1; Alcohol/Ethanol - 2",,0,0
 "Skin - 1; Baculum - 1",,0,0
 "Skin - 1; Eggset - 1","skin - 1 | eggset - 1",0,1
 "Skin - 1; Feather - 1","skin - 1 | feather - 1",0,1
@@ -52269,6 +52328,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin & mandible only",,0,0
 "SKIN & PARTIAL SKEL.","skin | partial skeleton",0,1
 "skin & partial skeleton","skin | partial skeleton",0,1
+"Skin & partial skeleton - 1; Alcohol/Ethanol - 1",,0,0
 "SKIN & PARTIAL SKULL","skin | partial skull",0,1
 "SKIN & PORTION OF DENTARY","skin | partial dentary",0,1
 "skin & skel",,0,0
@@ -78363,6 +78423,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "VERTEBRA,VERTEBRA FRAG",,0,0
 "Vertebra.","vertebra",0,1
 "vertebra/jaw",,0,0
+"Vertebra/Vertebrae - 1",,0,0
+"Vertebra/Vertebrae - 5",,0,0
+"Vertebra/Vertebrae - 6",,0,0
 "vertebra?",,0,0
 "VERTEBRA+BONES",,0,0
 "vertebra+limb bone frag",,0,0
