@@ -76,6 +76,7 @@ Georeferencing Quick Reference Guide Version 2012-10-08",,0,1
 "Energy, Mine and Natural Resources Canada 1:50,000","not recorded",0,1
 "Energy, Mines and Resources Canada, Series A751, Westport, 31C09, 1:50,000, Edition 6, 1994","not recorded",0,1
 "eoreferencing Quick Reference Guide Version 2012-10-08","Georeferencing Quick Reference Guide Version 2012-10-08",0,1
+"estimation",,0,1
 "extent .25 mi, WGS84, Google Maos","not recorded",0,1
 "extent .25 mi, WGS84, Google Maps","not recorded",0,1
 "field notes","not recorded",0,1
@@ -180,6 +181,8 @@ Version 2012-10-08","Georeferencing Quick Reference Guide Version 2012-10-08",0,
 "GPS293, extent .05 mi, WGS84","not recorded",0,1
 "Graphical Locator site, TRS to Lat/long; Willamette Meridian","not recorded",0,1
 "GTOPO30; non-USGS map 1:1000000","not recorded",0,1
+"GW-84",,0,1
+"GWS-84",,0,1
 "handheld GPS (NAD27)","not recorded",0,1
 "handheld GPS (WGS84)","not recorded",0,1
 "HerNet","VertNet Georeferencing Guidelines",0,1
@@ -310,9 +313,11 @@ MaNIS/HerpNET/ORNIS Georeferencing Guidelines","VertNet Georeferencing Guideline
 "UTM",,0,1
 "VertNET","VertNet Georeferencing Guidelines",0,1
 "VertNet Georeferencing Guidelines, GBIF Best Practices","VertNet Georeferencing Guidelines",0,1
+"WGS",,0,1
 "WGS 1984","not recorded",0,1
 "WGS 84","not recorded",0,1
 "WGS- 84","not recorded",0,1
+"WGS 94",,0,1
 "WGS_84","not recorded",0,1
 "WGS84","not recorded",0,1
 "WGS-84","not recorded",0,1

@@ -3800,8 +3800,12 @@
 "Alcohol - 1",,0,0
 "Alcohol - 1; Photo",,0,0
 "Alcohol - 1; Photo - 1",,0,0
+"Alcohol - 1; Photograph",,0,0
 "Alcohol - 1; photograph - 1",,0,0
+"Alcohol - 1; Photograph - 2",,0,0
 "Alcohol - 1; photograph - 3",,0,0
+"Alcohol - 1; Photograph - 4",,0,0
+"Alcohol - 1; Photograph - 5",,0,0
 "Alcohol - 10",,0,0
 "Alcohol - 11",,0,0
 "Alcohol - 12",,0,0
@@ -3855,6 +3859,8 @@
 "Alcohol/Ethanol - 4",,0,0
 "Alcohol/Ethanol - 49",,0,0
 "Alcohol; Photo",,0,0
+"Alcohol; Photograph",,0,0
+"Alcohol; Photograph - 2",,0,0
 "alcoholc",,0,0
 "AlcoholDry",,0,0
 "alcoholi",,0,0
@@ -34608,6 +34614,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Oesophagus + stomach + part of the intestine + liver + pancreas (in spirit)",,0,0
 "Oesophagus, stomach etc. (in spirit)",,0,0
 "Oesophagus, stomach, gizzard, etc. (in spirit)",,0,0
+"OK",,0,0
 "OK  - 1",,0,0
 "OK - 1",,0,0
 "OK - 1; OK - 1",,0,0
@@ -39373,9 +39380,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Photo; Alcohol",,0,0
 "photograph",,0,0
 "photograph - 1",,0,0
+"Photograph - 1; Alcohol",,0,0
 "photograph - 1; Alcohol - 1",,0,0
+"Photograph - 1; Dried",,0,0
+"Photograph - 10",,0,0
 "photograph - 2",,0,0
 "photograph - 3",,0,0
+"Photograph - 4",,0,0
 "photograph - 5",,0,0
 "Photograph (35mm transparencies)",,0,0
 "Photograph (35mm transparency + print)",,0,0
@@ -39396,6 +39407,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "photograph, tissue, dry skeleton",,0,0
 "photograph, tissue, electric organ discharge recording, fluid",,0,0
 "photograph, tissue, fluid",,0,0
+"Photograph; Alcohol",,0,0
 "photograph; Alcohol - 1",,0,0
 "photographic voucher",,0,0
 "pick up horns","horns",0,1

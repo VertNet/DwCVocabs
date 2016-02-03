@@ -403,6 +403,7 @@
 "Actinodon","Actinodon","Eryopidae","Temnospondyli","Amphibia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Actinodura","Actinodura","Sylviidae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Actinolepis","Actinolepis","Actinolepidae","Arthrodiriformes","Placodermi","Chordata","Animalia","Paleobiology Database",1,1,,0
+"Actinomys","Actinemys","Emydidae","Testudines","Reptilia","Chordata","Animalia","ITIS",0,1,"Genus misspelled.",0
 "Actinomys marmorata","Emys","Emydidae","Testudines","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus is a synonym for a species.",0
 "Actinopterygii",,,,"Actinopterygii","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: May 2012",0,1,"Genus is a class.",0
 "Actinura","Actinodura","Sylviidae","Passeriformes","Aves","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,"Genus is a synonym.",0
@@ -2090,6 +2091,10 @@
 "Aspidosaurus","Aspidosaurus","Dissorophidae","Temnospondyli","Amphibia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Aspidoscelis","Aspidoscelis","Teiidae","Squamata","Reptilia","Chordata","Animalia","The Reptile Database",1,1,,0
 "Aspidoscelis (large)","Aspidoscelis","Teiidae","Squamata","Reptilia","Chordata","Animalia","The Reptile Database",0,1,"Genus not found.",0
+"Aspidoscelis gularis octolineatus",,"Teiidae","Squamata","Reptilia","Chordata","Animalia",,0,1,"Genus is a subsecies.",0
+"Aspidoscelis sexlineatus",,"Teiidae","Squamata","Reptilia","Chordata","Animalia",,0,1,"Genus is a species.",0
+"Aspidoscelis sexlineatus sexlineatus",,"Teiidae","Squamata","Reptilia","Chordata","Animalia",,0,1,"Genus is a subsecies.",0
+"Aspidoscelis tigris",,"Teiidae","Squamata","Reptilia","Chordata","Animalia",,0,1,"Genus is a species.",0
 "ASPIDOSCELIS
 ","Aspidoscelis","Teiidae","Squamata","Reptilia","Chordata","Animalia","The Reptile Database",0,1,"Genus misspelled.",0
 "ASPIDOSCELIS","Aspidoscelis","Teiidae","Squamata","Reptilia","Chordata","Animalia","The Reptile Database",0,1,"Genus misspelled.",0
@@ -13847,6 +13852,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Micorhopias","Microrhopias","Thamnophilidae","Passeriformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus misspelled.",0
 "Micoureus","Micoureus","Didelphidae","Didelphimorphia","Mammalia","Chordata","Animalia","ITIS",1,1,,0
 "MICRABLEPHARUS","Micrablepharus","Gymnophthalmidae","Squamata","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: May 2012",1,1,,0
+"Micrablephaurus","Micrablepharus","Gymnophthalmidae","Squamata","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: 2015",0,1,"Genus misspelled.",0
 "Micralcyone",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Micralestes","Micralestes","Alestiidae","Characiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Micranous",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
@@ -19546,6 +19552,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Pseudodistira","Acalyptophis","Hydrophiidae","Squamata","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",0,1,"Genus is a synonym.",0
 "Pseudodoras","Oxydoras","Doradidae","Siluriformes","Actinopterygii","Chordata","Animalia","Froese, R. and D. Pauly. Editors. 2012. FishBase.",0,1,"Genus is a synonym.",0
 "Pseudoelaphe","Pseudoelaps","Elapidae","Squamata","Reptilia","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,"Genus is a synonym.",0
+"Pseudoemoia","Pseudemoia","Scincidae","Squamata","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: 2015",0,1,"Genus misspelled.",0
 "PSEUDOERYX","Pseudoeryx","Colubridae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
 "Pseudoetringus","Pseudoetringus","Clupeidae","Clupeiformes","Actinopterygii","Chordata","Animalia","David, 1946",0,1,,0
 "PSEUDOEURYCEA","Pseudoeurycea","Plethodontidae","Caudata","Amphibia","Chordata","Animalia","AmphibiaWeb 2014-04-11",1,1,,0
