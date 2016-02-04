@@ -1280,6 +1280,8 @@
 "+SKO +T","skull | tissue",0,1
 "+SKO+T","skull | tissue",0,1
 "0",,0,0
+"0 in 70% EtOH",,0,0
+"0 in 70% EtOH; 1 in skeleton",,0,0
 "1",,0,0
 "1 - 70% ETHANOL; 1 - DRY",,0,0
 "1 - 70% ETHANOL; 1 - GLYCERIN",,0,0
@@ -1326,6 +1328,22 @@
 "1 hair",,0,0
 "1 hair ball only",,0,0
 "1 hatchling + egg shell only",,0,0
+"1 in 70% EtOH",,0,0
+"1 in 70% EtOH; 1 in 95% EtOH",,0,0
+"1 in 70% EtOH; 1 in C&S",,0,0
+"1 in 70% EtOH; 1 in skeleton",,0,0
+"1 in 70% EtOH; 2 in 95% EtOH",,0,0
+"1 in 70% EtOH; 2 in 95% EtOH; 1 in C&S",,0,0
+"1 in 70% EtOH; 2 in C&S",,0,0
+"1 in 70% EtOH; 3 in 95% EtOH",,0,0
+"1 in 70% EtOH; 4 in 95% EtOH",,0,0
+"1 in 70% EtOH; 5 in 95% EtOH",,0,0
+"1 in 70% EtOH; 6 in 95% EtOH",,0,0
+"1 in 70% EtOH; 7 in 95% EtOH",,0,0
+"1 in 70% EtOH; 9 in 95% EtOH",,0,0
+"1 in 95% EtOH",,0,0
+"1 in C&S",,0,0
+"1 in skeleton",,0,0
 "1 juv frog, 1 tadpole, 3 met'ing juvs",,0,0
 "1 L and 1 R upper cheektooth.",,0,0
 "1 L metacarpal.",,0,0
@@ -1521,6 +1539,11 @@
 "10 eggs",,0,0
 "10 eggs | tissue",,0,0
 "10 FRAGMENTS OF SHELL.","shell fragments",0,1
+"10 in 70% EtOH",,0,0
+"10 in 70% EtOH; 1 in 95% EtOH",,0,0
+"10 in 70% EtOH; 1 in C&S",,0,0
+"10 in 70% EtOH; 2 in C&S",,0,0
+"10 in 70% EtOH; 8 in 95% EtOH",,0,0
 "10 incisors",,0,0
 "10 M2/",,0,0
 "10 proximal phalanges",,0,0
@@ -1553,6 +1576,7 @@
 "10% form.->70% alc.; tissue in EtOH",,0,0
 "10% formalin","10% formalin",1,1
 "10% hex-form.->70% alc.",,0,0
+"100 in 70% EtOH",,0,0
 "100% ETHANOL/ C&S",,0,0
 "100% GLYCERIN",,0,0
 "100% GLYCERIN/ C&S",,0,0
@@ -1561,22 +1585,66 @@
 "100% GLYCEROL/ C&S",,0,0
 "100% GLYCEROL/ SMALL JAR",,0,0
 "100% GLYCEROL/ SMALL JAR (C&S)",,0,0
+"1006 in 70% EtOH",,0,0
+"101 in 70% EtOH",,0,0
+"102 in 70% EtOH",,0,0
+"103 in 70% EtOH",,0,0
+"1031 in 70% EtOH",,0,0
+"104 in 70% EtOH",,0,0
+"104 in 70% EtOH; 5 in 95% EtOH",,0,0
+"105 in 70% EtOH",,0,0
+"106 in 70% EtOH",,0,0
 "106 tadpoles",,0,0
+"107 in 70% EtOH",,0,0
+"1074 in 70% EtOH",,0,0
+"108 in 70% EtOH",,0,0
+"108 in 70% EtOH; 11 in 95% EtOH",,0,0
+"109 in 70% EtOH",,0,0
+"109 in 70% EtOH; 5 in C&S",,0,0
 "11 eggs",,0,0
 "11 eggs | tissue",,0,0
+"11 in 70% EtOH",,0,0
+"11 in 70% EtOH; 1 in C&S",,0,0
+"11 in 70% EtOH; 1 in skeleton",,0,0
+"11 in 70% EtOH; 11 in 95% EtOH",,0,0
+"11 in 70% EtOH; 2 in 95% EtOH",,0,0
+"11 in 70% EtOH; 2 in C&S",,0,0
+"11 in 70% EtOH; 3 in C&S",,0,0
+"11 in 70% EtOH; 4 in C&S",,0,0
 "11 radia frags",,0,0
 "11 SPECIMENS IN ALCOHOL, 1 SKELETON",,0,0
 "11 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
 "11 tadpoles only",,0,0
 "11 teeth",,0,0
 "11 VERTEBRAE (DRY)","11 vertebrae",0,1
+"110 in 70% EtOH",,0,0
+"111 in 70% EtOH",,0,0
+"112 in 70% EtOH",,0,0
+"113 in 70% EtOH",,0,0
 "113 metapodial frags",,0,0
+"114 in 70% EtOH",,0,0
+"115 in 70% EtOH",,0,0
 "1150 m",,0,0
+"116 in 70% EtOH",,0,0
 "1161 m",,0,0
 "1162 m",,0,0
+"117 in 70% EtOH",,0,0
+"117 in 70% EtOH; 5 in 95% EtOH",,0,0
+"118 in 70% EtOH",,0,0
+"119 in 70% EtOH",,0,0
 "11th peripheral",,0,0
 "12 alcoholic juvs",,0,0
 "12 calcanea",,0,0
+"12 in 70% EtOH",,0,0
+"12 in 70% EtOH; 1 in skeleton",,0,0
+"12 in 70% EtOH; 2 in C&S",,0,0
+"12 in 70% EtOH; 2 in skeleton",,0,0
+"12 in 70% EtOH; 3 in 95% EtOH",,0,0
+"12 in 70% EtOH; 3 in C&S",,0,0
+"12 in 70% EtOH; 4 in C&S",,0,0
+"12 in 70% EtOH; 5 in 95% EtOH",,0,0
+"12 in 70% EtOH; 6 in 95% EtOH",,0,0
+"12 in 70% EtOH; 7 in 95% EtOH",,0,0
 "12 Mx/",,0,0
 "12 partial or whole dentary, 5 maxilla, 2 isolated molar.",,0,0
 "12 rib fragments",,0,0
@@ -1585,12 +1653,30 @@
 "12 tadpoles",,0,0
 "12 tadpoles & 4 met'ing juvs",,0,0
 "12 VERTEBRAE (DRY)","12 vertebrae",0,1
+"120 in 70% EtOH",,0,0
+"121 in 70% EtOH",,0,0
+"122 in 70% EtOH",,0,0
+"123 in 70% EtOH",,0,0
+"124 in 70% EtOH",,0,0
+"125 in 70% EtOH",,0,0
+"126 in 70% EtOH",,0,0
+"127 in 70% EtOH",,0,0
+"128 in 70% EtOH",,0,0
 "129 alcoholic tadpoles",,0,0
+"129 in 70% EtOH",,0,0
 "13 bone fragments",,0,0
 "13 bone fragments | tissue",,0,0
 "13 CHEEK TEETH",,0,0
 "13 eggs",,0,0
 "13 eggs | tissue",,0,0
+"13 in 70% EtOH",,0,0
+"13 in 70% EtOH; 1 in skeleton",,0,0
+"13 in 70% EtOH; 2 in 95% EtOH",,0,0
+"13 in 70% EtOH; 2 in C&S",,0,0
+"13 in 70% EtOH; 3 in 95% EtOH",,0,0
+"13 in 70% EtOH; 3 in C&S",,0,0
+"13 in 70% EtOH; 4 in C&S",,0,0
+"13 in 95% EtOH",,0,0
 "13 isolated cheek teeth",,0,0
 "13 left acrocoracoid tips",,0,0
 "13 m",,0,0
@@ -1601,15 +1687,51 @@
 "13 tadpoles",,0,0
 "13+/- bone fragments",,0,0
 "13+/- bone fragments | tissue",,0,0
+"130 in 70% EtOH",,0,0
+"131 in 70% EtOH",,0,0
+"132 in 70% EtOH",,0,0
+"133 in 70% EtOH",,0,0
+"134 in 70% EtOH",,0,0
+"135 in 70% EtOH",,0,0
+"137 in 70% EtOH",,0,0
+"138 in 70% EtOH",,0,0
+"139 in 70% EtOH",,0,0
 "14 eggshell fragments",,0,0
 "14 eggshell fragments | tissue",,0,0
 "14 Frags with Articular Surfaces",,0,0
+"14 in 70% EtOH",,0,0
+"14 in 70% EtOH; 1 in 95% EtOH",,0,0
+"14 in 70% EtOH; 11 in 95% EtOH",,0,0
+"14 in 70% EtOH; 2 in 95% EtOH",,0,0
+"14 in 70% EtOH; 2 in C&S",,0,0
+"14 in 70% EtOH; 3 in C&S",,0,0
+"14 in 70% EtOH; 5 in 95% EtOH",,0,0
+"14 in 70% EtOH; 5 in C&S",,0,0
 "14 m",,0,0
 "14 Max Frg.",,0,0
 "14 RM3/",,0,0
 "14 SPECIMENS IN ALCOHOL, 1 SKELETON",,0,0
 "14 VERTEBRAE (DRY)","14 vertebrae",0,1
+"140 in 70% EtOH",,0,0
+"140 in 70% EtOH; 2 in C&S",,0,0
+"141 in 70% EtOH",,0,0
+"142 in 70% EtOH",,0,0
+"143 in 70% EtOH",,0,0
+"143 in 70% EtOH; 2 in C&S",,0,0
+"1437 in 70% EtOH",,0,0
+"144 in 70% EtOH",,0,0
+"145 in 70% EtOH",,0,0
+"146 in 70% EtOH",,0,0
+"147 in 70% EtOH",,0,0
+"148 in 70% EtOH",,0,0
+"149 in 70% EtOH",,0,0
 "15 FIXED/PRESERVED 95% ETOH, tissue",,0,0
+"15 in 70% EtOH",,0,0
+"15 in 70% EtOH; 1 in 95% EtOH",,0,0
+"15 in 70% EtOH; 2 in 95% EtOH",,0,0
+"15 in 70% EtOH; 2 in C&S",,0,0
+"15 in 70% EtOH; 3 in 95% EtOH",,0,0
+"15 in 70% EtOH; 5 in C&S",,0,0
 "15 medial phalanges",,0,0
 "15 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
 "15 tadpoles",,0,0
@@ -1617,22 +1739,101 @@
 "15 VERTEBRAE",,0,0
 "15 VERTEBRAE (DRY)","15 vertebrae",0,1
 "15+/- tadpoles",,0,0
+"150 in 70% EtOH",,0,0
+"150 in 70% EtOH; 5 in C&S",,0,0
+"151 in 70% EtOH",,0,0
+"152 in 70% EtOH",,0,0
+"152 in 70% EtOH; 5 in 95% EtOH",,0,0
+"153 in 70% EtOH",,0,0
+"154 in 70% EtOH",,0,0
+"155 in 70% EtOH",,0,0
+"156 in 70% EtOH",,0,0
+"157 in 70% EtOH",,0,0
+"158 in 70% EtOH",,0,0
+"159 in 70% EtOH",,0,0
 "16",,0,0
+"16 in 70% EtOH",,0,0
+"16 in 70% EtOH; 1 in 95% EtOH",,0,0
+"16 in 70% EtOH; 2 in C&S",,0,0
+"16 in 70% EtOH; 3 in C&S",,0,0
+"16 in 70% EtOH; 4 in C&S",,0,0
+"16 in 70% EtOH; 6 in 95% EtOH",,0,0
 "16 m",,0,0
 "16 right + 11 left mandibles, 3 maxillae",,0,0
 "16+/- bone fragments",,0,0
 "16+/- bone fragments | tissue",,0,0
+"160 in 70% EtOH",,0,0
+"161 in 70% EtOH",,0,0
+"162 in 70% EtOH",,0,0
+"163 in 70% EtOH",,0,0
+"164 in 70% EtOH",,0,0
+"165 in 70% EtOH",,0,0
+"166 in 70% EtOH",,0,0
+"167 in 70% EtOH",,0,0
+"168 in 70% EtOH",,0,0
+"169 in 70% EtOH",,0,0
 "17 eggs only",,0,0
 "17 eggs only | tissue",,0,0
+"17 in 70% EtOH",,0,0
+"17 in 70% EtOH; 2 in C&S",,0,0
+"17 in 70% EtOH; 3 in C&S",,0,0
+"17 in 70% EtOH; 4 in 95% EtOH",,0,0
+"17 in 70% EtOH; 7 in 95% EtOH",,0,0
 "17 parietal (8.5 fused parietal), 17 frontal (8.5 fused frontal), 3 squamosal, 10 dentary, 6 maxilla, 2 crania.",,0,0
 "17 ungual phalanges",,0,0
+"170 in 70% EtOH",,0,0
+"171 in 70% EtOH",,0,0
+"172 in 70% EtOH",,0,0
+"173 in 70% EtOH",,0,0
+"174 in 70% EtOH",,0,0
+"175 in 70% EtOH",,0,0
+"176 in 70% EtOH",,0,0
+"177 in 70% EtOH",,0,0
+"177 in 70% EtOH; 5 in C&S",,0,0
+"179 in 70% EtOH",,0,0
 "18 astragali",,0,0
 "18 Feathers",,0,0
+"18 in 70% EtOH",,0,0
+"18 in 70% EtOH; 1 in 95% EtOH",,0,0
+"18 in 70% EtOH; 1 in C&S",,0,0
+"18 in 70% EtOH; 17 in 95% EtOH",,0,0
+"18 in 70% EtOH; 2 in C&S",,0,0
+"18 in 70% EtOH; 3 in 95% EtOH",,0,0
+"18 in 70% EtOH; 3 in C&S",,0,0
+"18 in 70% EtOH; 4 in C&S",,0,0
+"18 in 70% EtOH; 7 in 95% EtOH",,0,0
+"18 in 95% EtOH",,0,0
 "18 vertebrae, some fragments",,0,0
+"180 in 70% EtOH",,0,0
+"181 in 70% EtOH",,0,0
+"182 in 70% EtOH",,0,0
+"183 in 70% EtOH",,0,0
+"184 in 70% EtOH",,0,0
+"185 in 70% EtOH",,0,0
+"186 in 70% EtOH",,0,0
+"187 in 70% EtOH",,0,0
+"188 in 70% EtOH",,0,0
+"189 in 70% EtOH",,0,0
 "19 astragali/calcanea",,0,0
 "19 bone frags, <6cm",,0,0
 "19 cross-sectioned I on slides",,0,0
+"19 in 70% EtOH",,0,0
+"19 in 70% EtOH; 2 in 95% EtOH",,0,0
+"19 in 70% EtOH; 2 in C&S",,0,0
+"19 in 70% EtOH; 3 in 95% EtOH",,0,0
+"19 in 70% EtOH; 3 in C&S",,0,0
+"19 in 70% EtOH; 4 in C&S",,0,0
 "19 M/x",,0,0
+"190 in 70% EtOH",,0,0
+"191 in 70% EtOH",,0,0
+"192 in 70% EtOH",,0,0
+"193 in 70% EtOH",,0,0
+"194 in 70% EtOH",,0,0
+"195 in 70% EtOH",,0,0
+"196 in 70% EtOH",,0,0
+"197 in 70% EtOH",,0,0
+"198 in 70% EtOH",,0,0
+"199 in 70% EtOH",,0,0
 "1lot of 14 tadpoles",,0,0
 "1st & 2nd phalanges",,0,0
 "1st costal",,0,0
@@ -1709,6 +1910,19 @@
 "2 humeri, carpometacarpus, coracoid",,0,0
 "2 HUMERI,HEAD OF CORACOID",,0,0
 "2 I1/.",,0,0
+"2 in 70% EtOH",,0,0
+"2 in 70% EtOH; 1 in 95% EtOH",,0,0
+"2 in 70% EtOH; 1 in C&S",,0,0
+"2 in 70% EtOH; 1 in skeleton",,0,0
+"2 in 70% EtOH; 12 in 95% EtOH",,0,0
+"2 in 70% EtOH; 19 in 95% EtOH",,0,0
+"2 in 70% EtOH; 2 in 95% EtOH",,0,0
+"2 in 70% EtOH; 2 in C&S",,0,0
+"2 in 70% EtOH; 3 in 95% EtOH",,0,0
+"2 in 70% EtOH; 5 in 95% EtOH",,0,0
+"2 in 95% EtOH",,0,0
+"2 in C&S",,0,0
+"2 in skeleton",,0,0
 "2 incisors",,0,0
 "2 individuals",,0,0
 "2 individuals in this piece",,0,0
@@ -1846,23 +2060,147 @@
 "2/3 R CORACOID.","right coracoid",0,1
 "2:00 PM",,0,0
 "20 alc pouch young only",,0,0
+"20 in 70% EtOH",,0,0
+"20 in 70% EtOH; 2 in 95% EtOH",,0,0
+"20 in 70% EtOH; 2 in C&S",,0,0
+"20 in 70% EtOH; 3 in C&S",,0,0
+"20 in 70% EtOH; 4 in 95% EtOH",,0,0
+"20 in 70% EtOH; 7 in C&S",,0,0
 "20 teeth, 3 fragments dentary, 1 fragment maxilla.",,0,0
+"200 in 70% EtOH",,0,0
+"201 in 70% EtOH",,0,0
+"202 in 70% EtOH",,0,0
+"203 in 70% EtOH",,0,0
+"204 in 70% EtOH",,0,0
+"207 in 70% EtOH",,0,0
+"208 in 70% EtOH",,0,0
 "21 - 70% ETHANOL; 4 - DRY",,0,0
 "21 carapace frags",,0,0
+"21 in 70% EtOH",,0,0
+"21 in 70% EtOH; 1 in 95% EtOH",,0,0
+"21 in 70% EtOH; 1 in C&S",,0,0
+"21 in 70% EtOH; 2 in C&S",,0,0
+"21 in 70% EtOH; 3 in C&S",,0,0
+"21 in 70% EtOH; 5 in 95% EtOH",,0,0
 "21 isolated teeth",,0,0
 "21 mandibular frags.",,0,0
+"210 in 70% EtOH",,0,0
+"211 in 70% EtOH",,0,0
+"212 in 70% EtOH",,0,0
+"212 in 70% EtOH; 10 in C&S",,0,0
+"213 in 70% EtOH",,0,0
+"214 in 70% EtOH",,0,0
+"215 in 70% EtOH",,0,0
+"216 in 70% EtOH",,0,0
+"217 in 70% EtOH",,0,0
+"218 in 70% EtOH",,0,0
+"219 in 70% EtOH",,0,0
+"22 in 70% EtOH",,0,0
+"22 in 70% EtOH; 3 in C&S",,0,0
+"22 in 70% EtOH; 4 in C&S",,0,0
 "22 incisors, & mandibular frags.",,0,0
+"220 in 70% EtOH",,0,0
+"2212 in 70% EtOH",,0,0
+"222 in 70% EtOH",,0,0
+"224 in 70% EtOH",,0,0
+"225 in 70% EtOH",,0,0
+"227 in 70% EtOH",,0,0
+"229 in 70% EtOH",,0,0
 "23 IN 70% ETHANOL, 5 CLEARED AND STAINED",,0,0
+"23 in 70% EtOH",,0,0
+"23 in 70% EtOH; 16 in 95% EtOH",,0,0
+"23 in 70% EtOH; 2 in C&S",,0,0
+"23 in 70% EtOH; 4 in 95% EtOH",,0,0
 "23 m",,0,0
+"231 in 70% EtOH",,0,0
+"232 in 70% EtOH",,0,0
+"233 in 70% EtOH",,0,0
+"234 in 70% EtOH",,0,0
+"235 in 70% EtOH",,0,0
+"236 in 70% EtOH",,0,0
+"237 in 70% EtOH",,0,0
+"239 in 70% EtOH",,0,0
+"24 in 70% EtOH",,0,0
+"24 in 70% EtOH; 1 in 95% EtOH",,0,0
+"24 in 70% EtOH; 2 in C&S",,0,0
+"24 in 70% EtOH; 3 in 95% EtOH",,0,0
+"24 in 70% EtOH; 5 in C&S",,0,0
 "24 incisors",,0,0
+"240 in 70% EtOH",,0,0
+"241 in 70% EtOH",,0,0
+"242 in 70% EtOH",,0,0
+"243 in 70% EtOH",,0,0
+"244 in 70% EtOH",,0,0
+"245 in 70% EtOH",,0,0
+"247 in 70% EtOH",,0,0
+"248 in 70% EtOH",,0,0
+"25 in 70% EtOH",,0,0
+"25 in 70% EtOH; 1 in skeleton",,0,0
+"25 in 70% EtOH; 11 in 95% EtOH",,0,0
+"25 in 70% EtOH; 3 in C&S",,0,0
+"25 in 70% EtOH; 38 in 95% EtOH",,0,0
+"25 in 70% EtOH; 5 in C&S",,0,0
 "25 medial phalanges",,0,0
 "25 tadpoles & met'ing juvs",,0,0
+"250 in 70% EtOH",,0,0
+"251 in 70% EtOH",,0,0
+"254 in 70% EtOH",,0,0
+"255 in 70% EtOH",,0,0
+"256 in 70% EtOH",,0,0
+"257 in 70% EtOH",,0,0
+"258 in 70% EtOH",,0,0
+"26 in 70% EtOH",,0,0
+"26 in 70% EtOH; 1 in 95% EtOH",,0,0
+"26 in 70% EtOH; 2 in C&S",,0,0
+"26 in 70% EtOH; 7 in 95% EtOH",,0,0
 "26 phalanges",,0,0
 "26 teeth/partial mandibles/tissue | tissue",,0,0
+"260 in 70% EtOH",,0,0
+"261 in 70% EtOH",,0,0
+"262 in 70% EtOH",,0,0
+"263 in 70% EtOH",,0,0
+"265 in 70% EtOH",,0,0
+"267 in 70% EtOH",,0,0
+"269 in 70% EtOH",,0,0
+"27 in 70% EtOH",,0,0
+"27 in 70% EtOH; 5 in 95% EtOH",,0,0
+"27 in 70% EtOH; 5 in C&S",,0,0
+"27 in 70% EtOH; 7 in 95% EtOH",,0,0
+"27 in 70% EtOH; 9 in 95% EtOH",,0,0
 "27 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
+"270 in 70% EtOH",,0,0
 "2-70% ETHANOL; 1-GLYCEROL",,0,0
+"273 in 70% EtOH",,0,0
+"274 in 70% EtOH",,0,0
+"276 in 70% EtOH",,0,0
+"277 in 70% EtOH",,0,0
+"278 in 70% EtOH",,0,0
+"28 in 70% EtOH",,0,0
+"28 in 70% EtOH; 11 in 95% EtOH",,0,0
+"28 in 70% EtOH; 2 in 95% EtOH",,0,0
+"28 in 70% EtOH; 2 in C&S",,0,0
+"281 in 70% EtOH",,0,0
+"283 in 70% EtOH",,0,0
+"284 in 70% EtOH",,0,0
+"286 in 70% EtOH",,0,0
+"287 in 70% EtOH",,0,0
+"288 in 70% EtOH",,0,0
+"29 in 70% EtOH",,0,0
+"29 in 70% EtOH; 1 in 95% EtOH",,0,0
+"29 in 70% EtOH; 1 in C&S",,0,0
+"29 in 70% EtOH; 4 in 95% EtOH",,0,0
+"29 in 95% EtOH",,0,0
 "29 incisors",,0,0
 "29 podials",,0,0
+"290 in 70% EtOH",,0,0
+"291 in 70% EtOH",,0,0
+"292 in 70% EtOH",,0,0
+"293 in 70% EtOH",,0,0
+"294 in 70% EtOH",,0,0
+"295 in 70% EtOH",,0,0
+"296 in 70% EtOH",,0,0
+"297 in 70% EtOH",,0,0
+"299 in 70% EtOH",,0,0
 "2L DENTARIES,R MAXILLA",,0,0
 "2nd lateral phalanx",,0,0
 "2nd peripheral",,0,0
@@ -1907,6 +2245,18 @@
 "3 fused metapodials",,0,0
 "3 humeri frags + 1 coracoid",,0,0
 "3 HUMERI,ULNA,TIBIOTARSUS,CORACOID",,0,0
+"3 in 70% EtOH",,0,0
+"3 in 70% EtOH; 1 in 95% EtOH",,0,0
+"3 in 70% EtOH; 1 in C&S",,0,0
+"3 in 70% EtOH; 1 in C&S; 1 in skeleton",,0,0
+"3 in 70% EtOH; 1 in skeleton",,0,0
+"3 in 70% EtOH; 2 in 95% EtOH",,0,0
+"3 in 70% EtOH; 2 in C&S",,0,0
+"3 in 70% EtOH; 30 in 95% EtOH",,0,0
+"3 in 70% EtOH; 6 in 95% EtOH",,0,0
+"3 in 70% EtOH; 7 in 95% EtOH",,0,0
+"3 in 95% EtOH",,0,0
+"3 in C&S",,0,0
 "3 L innominates, 2 R innominates.",,0,0
 "3 lateral proximal phalanges",,0,0
 "3 lumbar vertebrae.","lumbar vertebrae",0,1
@@ -1976,24 +2326,104 @@
 "3 vertebrae | tissue",,0,0
 "3% FORMALIN",,0,0
 "3%FORMALIN",,0,0
+"30 in 70% EtOH",,0,0
+"30 in 70% EtOH; 3 in C&S",,0,0
+"30 in 70% EtOH; 4 in C&S",,0,0
+"30 in 70% EtOH; 5 in C&S",,0,0
 "30 medial phalanges",,0,0
 "30 podials",,0,0
 "30+/- tracheal rings",,0,0
 "30+/- tracheal rings | tissue",,0,0
+"300 in 70% EtOH",,0,0
+"303 in 70% EtOH",,0,0
+"304 in 70% EtOH",,0,0
+"306 in 70% EtOH",,0,0
+"307 in 70% EtOH",,0,0
+"308 in 70% EtOH",,0,0
+"309 in 70% EtOH",,0,0
+"31 in 70% EtOH",,0,0
+"31 in 70% EtOH; 2 in C&S",,0,0
+"31 in 70% EtOH; 5 in C&S",,0,0
 "31 proximal phalanges",,0,0
+"311 in 70% EtOH",,0,0
+"312 in 70% EtOH",,0,0
+"313 in 70% EtOH",,0,0
+"316 in 70% EtOH",,0,0
+"318 in 70% EtOH",,0,0
+"319 in 70% EtOH",,0,0
 "32",,0,0
 "32 eggs only",,0,0
 "32 eggs only | tissue",,0,0
+"32 in 70% EtOH",,0,0
+"32 in 70% EtOH; 2 in 95% EtOH",,0,0
+"32 in 70% EtOH; 2 in C&S",,0,0
 "32 SPECIMENS IN ALCOHOL, 1 SKULL",,0,0
 "32 tadpoles",,0,0
+"320 in 70% EtOH",,0,0
+"320 in 70% EtOH; 1 in C&S",,0,0
+"321 in 70% EtOH",,0,0
+"322 in 70% EtOH",,0,0
+"323 in 70% EtOH",,0,0
+"324 in 70% EtOH",,0,0
+"325 in 70% EtOH",,0,0
+"327 in 70% EtOH",,0,0
+"328 in 70% EtOH",,0,0
 "33",,0,1
 "33 /M",,0,0
+"33 in 70% EtOH",,0,0
+"33 in 70% EtOH; 3 in C&S",,0,0
 "33 incisors",,0,0
+"331 in 70% EtOH",,0,0
+"332 in 70% EtOH",,0,0
+"334 in 70% EtOH",,0,0
+"337 in 70% EtOH",,0,0
+"338 in 70% EtOH",,0,0
+"339 in 70% EtOH",,0,0
+"34 in 70% EtOH",,0,0
+"34 in 70% EtOH; 1 in C&S",,0,0
+"34 in 70% EtOH; 7 in 95% EtOH",,0,0
 "34 M/",,0,0
 "34 SPECIMENS IN ALCOHOL, 1 SKELETON",,0,0
+"344 in 70% EtOH; 5 in C&S",,0,0
+"347 in 70% EtOH",,0,0
+"349 in 70% EtOH",,0,0
+"35 in 70% EtOH",,0,0
+"35 in 70% EtOH; 5 in C&S",,0,0
+"35 in 70% EtOH; 8 in 95% EtOH",,0,0
 "35 tadpoles",,0,0
+"350 in 70% EtOH",,0,0
+"351 in 70% EtOH",,0,0
+"352 in 70% EtOH",,0,0
+"353 in 70% EtOH",,0,0
+"354 in 70% EtOH",,0,0
+"354 in 70% EtOH; 7 in 95% EtOH",,0,0
+"355 in 70% EtOH",,0,0
+"356 in 70% EtOH",,0,0
 "36 calcanea",,0,0
+"36 in 70% EtOH",,0,0
+"36 in 70% EtOH; 5 in 95% EtOH",,0,0
+"360 in 70% EtOH",,0,0
+"365 in 70% EtOH",,0,0
+"367 in 70% EtOH",,0,0
+"37 in 70% EtOH",,0,0
+"37 in 70% EtOH; 2 in C&S",,0,0
+"37 in 70% EtOH; 3 in 95% EtOH",,0,0
+"370 in 70% EtOH",,0,0
+"373 in 70% EtOH",,0,0
+"374 in 70% EtOH",,0,0
+"376 in 70% EtOH",,0,0
+"377 in 70% EtOH",,0,0
+"379 in 70% EtOH",,0,0
+"38 in 70% EtOH",,0,0
+"38 in 70% EtOH; 3 in C&S",,0,0
+"381 in 70% EtOH",,0,0
+"382 in 70% EtOH",,0,0
+"388 in 70% EtOH",,0,0
+"389 in 70% EtOH",,0,0
+"39 in 70% EtOH",,0,0
+"391 in 70% EtOH",,0,0
 "3960",,0,1
+"398 in 70% EtOH",,0,0
 "3I?,C,/L M3,I FRAG,/M3,R P/,2/R P,/L P",,0,0
 "3M/,3/M",,0,0
 "3M/3",,0,0
@@ -2020,6 +2450,14 @@
 "4 fragments ulna.","ulna fragments",0,1
 "4 Frags",,0,0
 "4 I",,0,0
+"4 in 70% EtOH",,0,0
+"4 in 70% EtOH; 1 in 95% EtOH",,0,0
+"4 in 70% EtOH; 1 in C&S",,0,0
+"4 in 70% EtOH; 1 in skeleton",,0,0
+"4 in 70% EtOH; 2 in 95% EtOH",,0,0
+"4 in 70% EtOH; 2 in C&S",,0,0
+"4 in 70% EtOH; 3 in 95% EtOH",,0,0
+"4 in 95% EtOH",,0,0
 "4 individuals",,0,0
 "4 individuals in this piece",,0,0
 "4 isolated teeth",,0,0
@@ -2049,12 +2487,65 @@
 "4 vertebra.","vertebrae",0,1
 "4 VERTEBRAE (DRY)","4 vertebrae",0,1
 "4 VERTEBRAE.  IMM.","vertebrae",0,1
+"40 in 70% EtOH",,0,0
+"40 in 70% EtOH; 1 in 95% EtOH",,0,0
+"40 in 70% EtOH; 5 in C&S",,0,0
+"400 in 70% EtOH",,0,0
+"402 in 70% EtOH",,0,0
+"404 in 70% EtOH",,0,0
+"406 in 70% EtOH",,0,0
+"408 in 70% EtOH",,0,0
+"41 in 70% EtOH",,0,0
+"41 in 70% EtOH; 1 in 95% EtOH",,0,0
+"41 in 70% EtOH; 5 in C&S",,0,0
 "41 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
+"412 in 70% EtOH",,0,0
+"413 in 70% EtOH",,0,0
+"414 in 70% EtOH",,0,0
+"415 in 70% EtOH",,0,0
 "42 eggs",,0,0
 "42 eggs | tissue",,0,0
+"42 in 70% EtOH",,0,0
 "42 SPECIMENS IN ALCOHOL, 1 SKELETON",,0,0
+"421 in 70% EtOH",,0,0
+"422 in 70% EtOH",,0,0
+"425 in 70% EtOH",,0,0
+"428 in 70% EtOH",,0,0
+"43 in 70% EtOH",,0,0
+"43 in 70% EtOH; 1 in 95% EtOH",,0,0
+"43 in 70% EtOH; 4 in C&S",,0,0
+"43 in 70% EtOH; 9 in 95% EtOH",,0,0
+"430 in 70% EtOH",,0,0
+"44 in 70% EtOH",,0,0
+"440 in 70% EtOH",,0,0
+"441 in 70% EtOH",,0,0
+"442 in 70% EtOH",,0,0
+"446 in 70% EtOH",,0,0
+"447 in 70% EtOH",,0,0
+"448 in 70% EtOH",,0,0
+"449 in 70% EtOH",,0,0
+"45 in 70% EtOH",,0,0
+"450 in 70% EtOH",,0,0
+"451 in 70% EtOH",,0,0
+"452 in 70% EtOH",,0,0
+"453 in 70% EtOH",,0,0
+"459 in 70% EtOH",,0,0
 "46 Frags",,0,0
+"46 in 70% EtOH",,0,0
+"47 in 70% EtOH",,0,0
+"47 in 70% EtOH; 1 in 95% EtOH",,0,0
+"472 in 70% EtOH",,0,0
+"477 in 70% EtOH",,0,0
+"48 in 70% EtOH",,0,0
+"48 in 70% EtOH; 1 in 95% EtOH",,0,0
 "48 metapodials",,0,0
+"486 in 70% EtOH",,0,0
+"49 in 70% EtOH",,0,0
+"49 in 70% EtOH; 4 in 95% EtOH",,0,0
+"491 in 70% EtOH",,0,0
+"493 in 70% EtOH",,0,0
+"497 in 70% EtOH",,0,0
+"499 in 70% EtOH",,0,0
 "4m",,0,0
 "4th premolar",,0,0
 "4th premolar fragment",,0,0
@@ -2077,6 +2568,20 @@
 "5 FOOTBONES",,0,0
 "5 fragments cheek tooth.",,0,0
 "5 fragments cheekteeth.","cheekteeth fragments",0,1
+"5 in 70% EtOH",,0,0
+"5 in 70% EtOH; 1 in 95% EtOH",,0,0
+"5 in 70% EtOH; 1 in C&S",,0,0
+"5 in 70% EtOH; 1 in skeleton",,0,0
+"5 in 70% EtOH; 1 in skeleton; 1 in C&S",,0,0
+"5 in 70% EtOH; 17 in 95% EtOH",,0,0
+"5 in 70% EtOH; 2 in 95% EtOH",,0,0
+"5 in 70% EtOH; 2 in C&S",,0,0
+"5 in 70% EtOH; 2 in skeleton; 2 in C&S",,0,0
+"5 in 70% EtOH; 3 in 95% EtOH",,0,0
+"5 in 70% EtOH; 3 in C&S",,0,0
+"5 in 70% EtOH; 4 in 95% EtOH",,0,0
+"5 in 70% EtOH; 6 in 95% EtOH",,0,0
+"5 in 95% EtOH",,0,0
 "5 incompl skulls,8L+7R dentaries,2 femora,3 humeri,4 radii, 2 ulnae,tibia, innominate",,0,0
 "5 m",,0,0
 "5 nests only",,0,0
@@ -2093,10 +2598,43 @@
 "5 VERTEBRAE.","vertebrae",0,1
 "5% FORM",,0,0
 "5% formalin","5% formalin",1,1
+"50 in 70% EtOH",,0,0
+"50 in 70% EtOH; 4 in 95% EtOH",,0,0
 "50 phalanges",,0,0
 "50% Isopropanol",,0,0
 "50% ISOPROPYL",,0,0
+"500 in 70% EtOH",,0,0
+"502 in 70% EtOH",,0,0
+"507 in 70% EtOH",,0,0
+"51 in 70% EtOH",,0,0
+"51 in 70% EtOH; 2 in C&S",,0,0
+"510 in 70% EtOH",,0,0
+"513 in 70% EtOH",,0,0
+"52 in 70% EtOH",,0,0
+"52 in 70% EtOH; 5 in 95% EtOH",,0,0
+"53 in 70% EtOH",,0,0
+"53 in 70% EtOH; 2 in C&S",,0,0
+"536 in 70% EtOH",,0,0
+"54 in 70% EtOH",,0,0
+"55 in 70% EtOH",,0,0
+"55 in 70% EtOH; 1 in 95% EtOH",,0,0
+"55 in 70% EtOH; 10 in 95% EtOH",,0,0
+"55 in 70% EtOH; 2 in C&S",,0,0
+"552 in 70% EtOH",,0,0
+"553 in 70% EtOH",,0,0
+"556 in 70% EtOH",,0,0
+"56 in 70% EtOH",,0,0
 "56,71",,0,0
+"562 in 70% EtOH",,0,0
+"565 in 70% EtOH",,0,0
+"57 in 70% EtOH",,0,0
+"571 in 70% EtOH",,0,0
+"58 in 70% EtOH",,0,0
+"58 in 70% EtOH; 24 in 95% EtOH",,0,0
+"58 in 70% EtOH; 8 in 95% EtOH",,0,0
+"585 in 70% EtOH",,0,0
+"59 in 70% EtOH",,0,0
+"590 in 70% EtOH",,0,0
 "5EGGS","eggs",0,1
 "6 astragali",,0,0
 "6 bone fragments",,0,0
@@ -2106,6 +2644,17 @@
 "6 DISTAL HUMERI",,0,0
 "6 eggs",,0,0
 "6 eggs | tissue",,0,0
+"6 in 70% EtOH",,0,0
+"6 in 70% EtOH; 1 in 95% EtOH",,0,0
+"6 in 70% EtOH; 1 in C&S",,0,0
+"6 in 70% EtOH; 1 in skeleton",,0,0
+"6 in 70% EtOH; 2 in 95% EtOH",,0,0
+"6 in 70% EtOH; 2 in C&S",,0,0
+"6 in 70% EtOH; 3 in 95% EtOH",,0,0
+"6 in 70% EtOH; 3 in C&S",,0,0
+"6 in 70% EtOH; 4 in C&S",,0,0
+"6 in 95% EtOH",,0,0
+"6 in C&S",,0,0
 "6 LM3/",,0,0
 "6 m",,0,0
 "6 pedal phalanges",,0,0
@@ -2120,10 +2669,33 @@
 "6 vertebra | tissue",,0,0
 "6 vertebrae",,0,0
 "6 VERTEBRAE (DRY)","6 vertebrae",0,1
+"60 in 70% EtOH",,0,0
+"600 in 70% EtOH",,0,0
+"61 in 70% EtOH",,0,0
+"61 in 70% EtOH; 10 in C&S",,0,0
+"617 in 70% EtOH",,0,0
+"62 in 70% EtOH",,0,0
+"624 in 70% EtOH",,0,0
+"63 in 70% EtOH",,0,0
+"63 in 70% EtOH; 5 in C&S",,0,0
 "63 m",,0,0
 "64",,0,0
+"64 in 70% EtOH",,0,0
+"64 in 70% EtOH; 10 in C&S",,0,0
+"643 in 70% EtOH",,0,0
 "64539",,0,0
+"65 in 70% EtOH",,0,0
+"65 in 70% EtOH; 6 in C&S",,0,0
+"650 in 70% EtOH",,0,0
+"658 in 70% EtOH",,0,0
+"66 in 70% EtOH",,0,0
 "6699",,0,1
+"67 in 70% EtOH",,0,0
+"675 in 70% EtOH",,0,0
+"68 in 70% EtOH",,0,0
+"68 in 70% EtOH; 10 in C&S",,0,0
+"69 in 70% EtOH",,0,0
+"69 in 70% EtOH; 2 in 95% EtOH; 2 in C&S",,0,0
 "6th cervical vertebra",,0,0
 "7 - 70% ETHANOL; 2 - DRY",,0,0
 "7 alc eggs*",,0,0
@@ -2131,6 +2703,15 @@
 "7 eggs",,0,0
 "7 eggs | tissue",,0,0
 "7 general trunk vertebrae",,0,0
+"7 in 70% EtOH",,0,0
+"7 in 70% EtOH; 1 in 95% EtOH",,0,0
+"7 in 70% EtOH; 1 in C&S",,0,0
+"7 in 70% EtOH; 1 in skeleton",,0,0
+"7 in 70% EtOH; 2 in 95% EtOH",,0,0
+"7 in 70% EtOH; 2 in C&S",,0,0
+"7 in 70% EtOH; 3 in C&S",,0,0
+"7 in 95% EtOH",,0,0
+"7 in C&S",,0,0
 "7 long bone frags, >6cm, <13 cm",,0,0
 "7 phalanges",,0,0
 "7 sternum fragments",,0,0
@@ -2163,6 +2744,7 @@
 "70 % EtOH","70% alcohol",0,1
 "70 % EtOH | tissue",,0,0
 "70 % ETOH AND CLEARED AND STAINED",,0,0
+"70 in 70% EtOH",,0,0
 "70% alc.",,0,0
 "70% AND 95% ETHANOL/ 2 SMALL JARS, tissue",,0,0
 "70% AND 95% ETHANOL/ SMALL JAR, tissue",,0,0
@@ -3425,14 +4007,34 @@
 "70%EtOH | tissue",,0,0
 "70& EtOH","70% alcohol",0,1
 "70& EtOH | tissue",,0,0
+"700 in 70% EtOH",,0,0
+"702 in 70% EtOH",,0,0
+"71 in 70% EtOH",,0,0
+"71 in 70% EtOH; 2 in C&S",,0,0
+"72 in 70% EtOH",,0,0
+"72 in 70% EtOH; 2 in C&S",,0,0
+"727 in 70% EtOH",,0,0
+"73 in 70% EtOH",,0,0
 "74 carpals and tarsals",,0,0
+"74 in 70% EtOH",,0,0
+"74 in 70% EtOH; 1 in 95% EtOH",,0,0
 "74 UNDET.","undetermined",0,1
+"749 in 70% EtOH",,0,0
 "75 Frags",,0,0
+"75 in 70% EtOH",,0,0
 "75% ETOH",,0,0
 "75% ETOH+",,0,0
 "75% L astragalus.",,0,0
+"76 in 70% EtOH",,0,0
 "76 m",,0,0
+"7612 in 70% EtOH",,0,0
+"762 in 70% EtOH",,0,0
+"77 in 70% EtOH",,0,0
+"77 in 70% EtOH; 5 in C&S",,0,0
+"78 in 70% EtOH",,0,0
+"781 in 70% EtOH",,0,0
 "79 FIXED/PRESERVED IN 95% ETHANOL, tissue",,0,0
+"79 in 70% EtOH",,0,0
 "7O% ETHANOL",,0,0
 "7O% ETHANOL/ AGRI-BIN 4",,0,0
 "7O% ETHANOL/ TANK 61",,0,0
@@ -3449,6 +4051,17 @@
 "8 eggs",,0,0
 "8 eggs | tissue",,0,0
 "8 Feathers",,0,0
+"8 in 70% EtOH",,0,0
+"8 in 70% EtOH; 1 in 95% EtOH",,0,0
+"8 in 70% EtOH; 1 in C&S",,0,0
+"8 in 70% EtOH; 1 in skeleton",,0,0
+"8 in 70% EtOH; 15 in 95% EtOH",,0,0
+"8 in 70% EtOH; 2 in 95% EtOH",,0,0
+"8 in 70% EtOH; 2 in C&S",,0,0
+"8 in 70% EtOH; 3 in 95% EtOH",,0,0
+"8 in 70% EtOH; 3 in C&S",,0,0
+"8 in 70% EtOH; 5 in 95% EtOH",,0,0
+"8 in 95% EtOH",,0,0
 "8 m",,0,0
 "8 podials",,0,0
 "8 right acrocoracoid tips",,0,0
@@ -3458,7 +4071,24 @@
 "8 teeth",,0,0
 "8 TEETH/",,0,0
 "8 VERTEBRAE,RIB,SCAPHOLUNAR,METATARSAL 3,5,/R P4, P",,0,0
+"80 in 70% EtOH",,0,0
+"81 in 70% EtOH",,0,0
+"811 in 70% EtOH",,0,0
+"82 in 70% EtOH",,0,0
+"82 in 70% EtOH; 2 in C&S",,0,0
+"824 in 70% EtOH",,0,0
 "825 m",,0,0
+"83 in 70% EtOH",,0,0
+"84 in 70% EtOH",,0,0
+"842 in 70% EtOH",,0,0
+"85 in 70% EtOH",,0,0
+"856 in 70% EtOH",,0,0
+"86 in 70% EtOH",,0,0
+"869 in 70% EtOH",,0,0
+"87 in 70% EtOH",,0,0
+"87 in 70% EtOH; 4 in 95% EtOH",,0,0
+"88 in 70% EtOH",,0,0
+"89 in 70% EtOH",,0,0
 "8th neural",,0,0
 "9 - 70% ETHANOL; 5 - DRY",,0,0
 "9 bone Frags",,0,0
@@ -3466,6 +4096,16 @@
 "9 eggs",,0,0
 "9 eggs | tissue",,0,0
 "9 embryonic frogs",,0,0
+"9 in 70% EtOH",,0,0
+"9 in 70% EtOH; 1 in 95% EtOH",,0,0
+"9 in 70% EtOH; 1 in C&S",,0,0
+"9 in 70% EtOH; 1 in skeleton",,0,0
+"9 in 70% EtOH; 2 in 95% EtOH",,0,0
+"9 in 70% EtOH; 2 in C&S",,0,0
+"9 in 70% EtOH; 3 in 95% EtOH",,0,0
+"9 in 70% EtOH; 3 in C&S",,0,0
+"9 in 70% EtOH; 7 in 95% EtOH",,0,0
+"9 in 70% EtOH; 8 in 95% EtOH",,0,0
 "9 m",,0,0
 "9 medial phalanges",,0,0
 "9 periperals",,0,0
@@ -3477,9 +4117,19 @@
 "9 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED",,0,0
 "9 vertebrae",,0,0
 "9/10 L dentary p3 p4 m1 m2 m3; 2/3 R dentary i1 p3 p4 m1 m2",,0,0
+"90 in 70% EtOH",,0,0
+"90 in 70% EtOH; 10 in C&S",,0,0
+"90 in 70% EtOH; 5 in C&S",,0,0
+"91 in 70% EtOH",,0,0
+"91 in 70% EtOH; 2 in C&S",,0,0
+"92 in 70% EtOH",,0,0
+"93 in 70% EtOH",,0,0
+"94 in 70% EtOH",,0,0
+"94 in 70% EtOH; 2 in C&S",,0,0
 "95 % ETHANOL, tissue",,0,0
 "95 % ETHANOL/ SMALL JAR, tissue",,0,0
 "95 % ETHANOL/ WHOLE SPECIMEN, tissue",,0,0
+"95 in 70% EtOH",,0,0
 "95% ETHANOL, tissue",,0,0
 "95% ETHANOL/ 1 GALLON JAR, tissue",,0,0
 "95% ETHANOL/ 2 SMALL VIALS, tissue",,0,0
@@ -3696,6 +4346,14 @@
 "95% ETOH | tissue",,0,0
 "95% ETOH, tissue",,0,0
 "950 m",,0,0
+"96 in 70% EtOH",,0,0
+"960 in 70% EtOH",,0,0
+"97 in 70% EtOH",,0,0
+"98 in 70% EtOH",,0,0
+"989 in 70% EtOH",,0,0
+"99 in 70% EtOH",,0,0
+"99 in 70% EtOH; 2 in 95% EtOH",,0,0
+"99 in 70% EtOH; 2 in C&S",,0,0
 "99% ETHANOL/ SMALL JAR, tissue",,0,0
 "A - partial r maxilla w C-M3; B- l P/4",,0,0
 "A - r p4; B-r dentary w p4-m1",,0,0
@@ -25218,6 +25876,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Impression, includes limbs + ribs + cast",,0,0
 "impression, mandible",,0,0
 "in 2 pieces",,0,0
+"in 70% EtOH",,0,0
 "in alcohol",,0,0
 "in copula pair, PT",,0,0
 "in drawer in main collection",,0,0
