@@ -52,11 +52,13 @@
 """im""","immature",0,1
 """im""[ad?]","immature",0,1
 """IM.""",,0,0
+"""immature"" on tag; Adult",,0,0
 """incub.""","incubated",0,1
 """incubated eggs""","incubated",0,1
 """incubated""","incubated",1,1
 """just sat on""",,0,0
 """juv""","juvenile",0,1
+"""juv. By plumage""",,0,0
 """Juv.""","juvenile",0,1
 """Juv."" First winter of Juv.","juvenile",0,1
 """Known"" 8 days",,0,0
@@ -514,6 +516,7 @@
 "[Yg.]",,0,0
 "[yg]",,0,0
 "[Young]",,0,0
+"\",,0,0
 "_",,0,0
 "`",,0,0
 "{½ Ad.]",,0,0
@@ -539,6 +542,7 @@
 "< 1K",,0,0
 "< 2 days",,0,0
 "< 31 hours",,0,0
+"< 9 months",,0,0
 "<1 yr",,0,0
 "<12 år",,0,0
 "<1yr",,0,0
@@ -711,6 +715,7 @@
 "1 adult, 2 juveniles",,0,0
 "1 adult, 2 larvae",,0,0
 "1 adult, 3 juveniles",,0,0
+"1 adult, 3 subadults",,0,0
 "1 adult, 4 juveniles",,0,0
 "1 adult, 8 immature adults, 5 ju",,0,0
 "1 ADULT; 18 JUVENILE",,0,0
@@ -775,6 +780,7 @@
 "1 Day incubated",,0,0
 "1 day Nest held 3 eggs May 19",,0,0
 "1 day old","1 day old",0,1
+"1 day old; Downy chick",,0,0
 "1 day, 2 eggs in nest on the 24t",,0,0
 "1 day, a little blood",,0,0
 "1 day. Nest held 3 eggs May 19",,0,0
@@ -1091,10 +1097,12 @@
 "1 Hatching + 1 Addled",,0,0
 "1 hatching, 1 ready to hatch, 1 ",,0,0
 "1 hatching, 1 ready to hatch, 1 addled",,0,0
+"1 hatchling",,0,0
 "1- heavy 1-partly",,0,0
 "1 Heavy, 4 addled",,0,0
 "1 host egg pecked and stuck to l",,0,0
 "1 host slightly incubated, 1 hos",,0,0
+"1 HOUR OLD",,0,0
 "1 immature",,0,0
 "1 inc; 4 rotten",,0,0
 "1 incubated (2 young)",,0,0
@@ -1168,6 +1176,7 @@ begun",,0,0
 "1 juvenile with eggs",,0,0
 "1 JUVENILE, 1 EGG CAS",,0,0
 "1 juvenile, 2 adult, 1 small",,0,0
+"1 juvenile, 2 adults",,0,0
 "1 JUVENILE; 1 ADULT",,0,0
 "1 JUVENILE; 2 ADULT",,0,0
 "1 JUVENILE; 4 ADULT",,0,0
@@ -1400,6 +1409,7 @@ begun",,0,0
 "1 y",,0,0
 "1 y.",,0,0
 "1 year",,0,0
+"1 year old; Adult",,0,0
 "1 yg.","yearling",0,1
 "1 young & 1 egg",,0,0
 "1 young (3-4 days old) and 1 cle",,0,0
@@ -1678,6 +1688,7 @@ begun",,0,0
 "10 days post laying",,0,0
 "10 days, 1 infertile",,0,0
 "10 days, runt-addled",,0,0
+"10 days; Downy chick",,0,0
 "10 hatched, 1 broken",,0,0
 "10 j.",,0,0
 "10 jours",,0,0
@@ -1707,8 +1718,11 @@ begun",,0,0
 "10% to 40%",,0,0
 "10%-15% develop embryo",,0,0
 "10%-20% developed embryo",,0,0
+"10.5 weeks; Immature",,0,0
 "10/12",,0,0
 "10+/- days",,0,0
+"100 %",,0,0
+"100%",,0,0
 "100% oss",,0,0
 "100% ossified",,0,0
 "10-12 days",,0,0
@@ -1733,12 +1747,15 @@ begun",,0,0
 "11 days",,0,0
 "11 days of incubation",,0,0
 "11 days post-laying",,0,0
+"11 days; Downy chick",,0,0
 "11 juveniles",,0,0
 "11 large embryos, 1 medium embry",,0,0
 "11 large embryos, 1 medium embryo",,0,0
 "11 moderate, 3 fresh",,0,0
 "11 months",,0,0
 "11 MONTHS OLD",,0,0
+"11 MONTHS OLD, BASED ON BANDING",,0,0
+"11 MONTHS OLD, BASED ON BANDING;",,0,0
 "11 years",,0,0
 "11 yr",,0,0
 "11.5 days of incubation",,0,0
@@ -1780,6 +1797,7 @@ begun",,0,0
 "1-2 DAYS POST-FLEDGLING; SKULL 0",,0,0
 "12 days post-laying",,0,0
 "12 days, 10 days, 8 days",,0,0
+"1-2 days; Downy chick",,0,0
 "12 Eggs Bloodshot",,0,0
 "1-2 eggs starting",,0,0
 "12 far advanced; 7 fresh",,0,0
@@ -1797,6 +1815,7 @@ begun",,0,0
 "1-2 to pipped",,0,0
 "1-2 weeks",,0,0
 "12 years",,0,0
+"12 years old",,0,0
 "12 yr",,0,0
 "1-2 yr",,0,0
 "12 yrs",,0,0
@@ -1830,6 +1849,7 @@ begun",,0,0
 "1-3 to 1-2",,0,0
 "13 to 14 days",,0,0
 "13 wks",,0,0
+"13 years old",,0,0
 "13 yr.",,0,0
 "13.5 days of incubation",,0,0
 "13+ years",,0,0
@@ -1897,6 +1917,7 @@ begun",,0,0
 "15 days, 1 egg fresh",,0,0
 "15 days, 1 rotten",,0,0
 "15 days.",,0,0
+"15 days; Downy chick",,0,0
 "15 jours",,0,0
 "15 JUVENILE, 24 ADULT",,0,0
 "15 larvae in tube",,0,0
@@ -2029,6 +2050,7 @@ begun",,0,0
 "1ST BASIC PLUM.; BURSA 16 X 10 M",,0,0
 "1st clutch frag- broke in nest. ",,0,0
 "1st clutch frag- broke in nest. Also, 1 addled egg",,0,0
+"1st cycle",,0,0
 "1ST CYCLE; BURSA 15 X 15 MM",,0,0
 "1st egg April 1, set taken Apr. ",,0,0
 "1st egg layed 28th, 2nd layed 29",,0,0
@@ -2043,10 +2065,17 @@ begun",,0,0
 "1st y",,0,0
 "1st y.",,0,0
 "1st year",,0,0
+"1st year bird",,0,0
+"1st year bird; Immature",,0,0
 "1st Year Female","first year",0,1
 "1st Year Male","first year",0,1
+"1ST YEAR SKIN",,0,0
+"1st year skull",,0,0
+"1st year skull /snco",,0,0
+"1st year/snco",,0,0
 "1st yr",,0,0
 "1st yr.",,0,0
+"1st yr. Male",,0,0
 "1st yr.?",,0,0
 "1st yr?",,0,0
 "1st.",,0,0
@@ -2108,6 +2137,7 @@ begun",,0,0
 "2 ADULT; 38 JUVENILE",,0,0
 "2 ADULT; 63 LARVA",,0,0
 "2 adults",,0,0
+"2 adults, 1 juvenile",,0,0
 "2 adults, 2 small",,0,0
 "2 adults, 3 juveniles",,0,0
 "2 adv. 2 infertile",,0,0
@@ -2183,6 +2213,7 @@ begun",,0,0
 "2 days definitely slightly inc. ",,0,0
 "2 days incubated",,0,0
 "2 days old",,0,0
+"2 days old; Downy chick",,0,0
 "2 days on last egg",,0,0
 "2 days or so",,0,0
 "2 days, 1 fresh",,0,0
@@ -2398,6 +2429,7 @@ begun",,0,0
 "2 host infertile, 2 host full in",,0,0
 "2 host slight, 1 host addled, al",,0,0
 "2 host slight, 2 host and cowbir",,0,0
+"2 HOURS OLD",,0,0
 "2 immature",,0,0
 "2 incubated 5 days, 2 rotten",,0,0
 "2 incubated eggs",,0,0
@@ -2614,9 +2646,11 @@ begun",,0,0
 "2 very small embryos, 2 trace of",,0,0
 "2 very well advanced, 2 fresher",,0,0
 "2 weeks",,0,0
+"2 WEEKS AND ABOUT 4 days old",,0,0
 "2 weeks and large dead embryo in",,0,0
 "2 weeks old",,0,0
 "2 weeks, 1 addled",,0,0
+"2 weeks-chick",,0,0
 "2 well begun, 1 infertile",,0,0
 "2 well begun, 1 runt infertile",,0,0
 "2 well formed embryos, 4 fresh",,0,0
@@ -2631,6 +2665,7 @@ begun",,0,0
 "2 wk. nestling",,0,0
 "2 y",,0,0
 "2 years",,0,0
+"2 YEARS OLD",,0,0
 "2 young",,0,0
 "2 young - 1 egg",,0,0
 "2 young + 1 egg",,0,0
@@ -2776,6 +2811,7 @@ begun",,0,0
 "22 days",,0,0
 "22 days of incubation",,0,0
 "22 days old",,0,0
+"22 days; Downy chick",,0,0
 "2200-01 moderate",,0,0
 "2202 advanced; 2204 advanced-fea",,0,0
 "2202 advanced; 2204 advanced-feathered; 2205 advan",,0,0
@@ -2797,6 +2833,7 @@ begun",,0,0
 "23 days",,0,0
 "2-3 Days",,0,0
 "23 days of incubation",,0,0
+"23 months",,0,0
 "23 mos.",,0,0
 "2-3 week incubation ; abandoned",,0,0
 "2-3 weeks",,0,0
@@ -2905,6 +2942,7 @@ begun",,0,0
 "27 EMBRYO, 2 EGG CASE",,0,0
 "27 JUVENILES, 1 ADULT",,0,0
 "27 larvae",,0,0
+"27 years",,0,0
 "27 yr  3 mo",,0,0
 "2700 moderate",,0,0
 "2703 advanced-feathered",,0,0
@@ -2914,6 +2952,8 @@ begun",,0,0
 "28 days of incubation",,0,0
 "28 days old",,0,0
 "28 days old.",,0,0
+"28 months; Immature",,0,0
+"28 years",,0,0
 "2848 slight",,0,0
 "2853 slight-moderate",,0,0
 "2856 slight",,0,0
@@ -2925,6 +2965,7 @@ begun",,0,0
 "29 ADULT; 51 JUVENILE",,0,0
 "29 days",,0,0
 "29 days of incubation",,0,0
+"29 days; Downy chick",,0,0
 "29 tadpoles",,0,0
 "2922 fresh",,0,0
 "29K",,0,0
@@ -3007,6 +3048,7 @@ begun",,0,0
 "3 adults, 2 juveniles",,0,0
 "3 adults, 6 juveniles",,0,0
 "3 ADULTS, 8 LARVAE",,0,0
+"3 adults, female w/young",,0,0
 "3 adults, plus eggs",,0,0
 "3 advanced, 1 addled",,0,0
 "3 advanced, 1 fresh",,0,0
@@ -3353,6 +3395,7 @@ begun",,0,0
 "3 yr. ?",,0,0
 "3 yrs",,0,0
 "3 yrs  8 mos",,0,0
+"3 yrs, 11 months old",,0,0
 "3, fresh; 1, slight trace of blo",,0,0
 "3, inc - 1 fresh",,0,0
 "3.5 years",,0,0
@@ -3433,6 +3476,7 @@ begun",,0,0
 "3329 no development; 3330 very s",,0,0
 "3329 no development; 3330 very slight",,0,0
 "3-4 advanced",,0,0
+"34 days",,0,0
 "3-4 days",,0,0
 "3-4 days before hatching",,0,0
 "3-4 days incubated",,0,0
@@ -3553,6 +3597,7 @@ begun",,0,0
 "4 days sat",,0,0
 "4 days, 1 infertile",,0,0
 "4 days; 1 addled.",,0,0
+"4 days; Downy chick",,0,0
 "4 days-equal",,0,0
 "4 dev. With membranes, 4 broken,",,0,0
 "4 dev. With membranes, 4 broken, 1 with dead chick",,0,0
@@ -3652,6 +3697,7 @@ begun",,0,0
 "4 larvae",,0,0
 "4 months",,0,0
 "4 months old","4 months old",0,1
+"4 months; Immature",,0,0
 "4 of phoebe slight, 1 addled; co",,0,0
 "4 or 4 days",,0,0
 "4 Or 5 Days",,0,0
@@ -3828,6 +3874,7 @@ begun",,0,0
 "4-7 days",,0,0
 "4-8 år",,0,0
 "4-8 days",,0,0
+"48 days; Immature",,0,0
 "48 months",,0,0
 "4809 moderate",,0,0
 "4812 moderate",,0,0
@@ -3921,6 +3968,8 @@ begun",,0,0
 "5 K+",,0,0
 "5 larvae",,0,0
 "5 months",,0,0
+"5 months old",,0,0
+"5 months old, 4 days old",,0,0
 "5 newly hatched young and 1 egg",,0,0
 "5 one-half; 1 infertile",,0,0
 "5 or 6 days",,0,0
@@ -3947,6 +3996,7 @@ begun",,0,0
 "5 trace embryos, 1 unfertile",,0,0
 "5 we",,0,0
 "5 wks (est.)",,0,0
+"5 years old",,0,0
 "5 young + 1 egg (1-2.5 weeks old",,0,0
 "5 young + 1 egg (1-2.5 weeks old)",,0,0
 "5 young + 1 egg 3 weeks +",,0,0
@@ -4026,12 +4076,14 @@ begun",,0,0
 "6 days of incubation",,0,0
 "6 days.",,0,0
 "6 days: 1 infertile",,0,0
+"6 days; Downy chick",,0,0
 "6 eggs fresh, 1 showing blood",,0,0
 "6 fresh",,0,0
 "6 fresh, 2 showing blood",,0,0
 "6 fresh, 4 well begun",,0,0
 "6 hatched and 6 broken with deve",,0,0
 "6 hatched and 6 broken with developed membranes",,0,0
+"6 HOURS OLD",,0,0
 "6 incubating",,0,0
 "6 infertile; 5 formed embryos",,0,0
 "6 j.",,0,0
@@ -4057,6 +4109,7 @@ begun",,0,0
 "6 young + 2 other good eggs.",,0,0
 "6 yr",,0,0
 "6 yrs",,0,0
+"6.5 weeks; Immature",,0,0
 "6.5 yrs",,0,0
 "6/10",,0,0
 "6/7 days",,0,0
@@ -4068,6 +4121,7 @@ begun",,0,0
 "6-10 days",,0,0
 "6-12 mån",,0,0
 "66 ADULT; 33 JUVENILE",,0,0
+"66 hours; Downy chick",,0,0
 "6-6-6",,0,0
 "6-7 Days",,0,0
 "6-7 days incub.",,0,0
@@ -4098,6 +4152,7 @@ begun",,0,0
 "7 days incubation, 2 eggs plus fragments",,0,0
 "7 Days Or So",,0,0
 "7 days post laying",,0,0
+"7 days; Downy chick",,0,0
 "7 eggs, 1 taken",,0,0
 "7 EWN",,0,0
 "7 fresh, 1 slight",,0,0
@@ -4109,11 +4164,13 @@ begun",,0,0
 "7 larva",,0,0
 "7 larvae",,0,0
 "7 mo",,0,0
+"7 months old, 5 days old",,0,0
 "7 or 8 days",,0,0
 "7 to 10 days",,0,0
 "7 to 8 days",,0,0
 "7 to 9 days",,0,0
 "7 years",,0,0
+"7 years old",,0,0
 "7 yr",,0,0
 "7 yr, 3 mo",,0,0
 "7 yrs",,0,0
@@ -4144,6 +4201,7 @@ begun",,0,0
 "8 ADULT; 5 JUVENILE",,0,0
 "8 ADULT; 6 JUVENILE",,0,0
 "8 adults",,0,0
+"8 adults, 3 jueniles",,0,0
 "8 days",,0,0
 "8 days (?)",,0,0
 "8 Days Advanced",,0,0
@@ -4155,6 +4213,7 @@ begun",,0,0
 "8 days post-laying",,0,0
 "8 days; 1 addled",,0,0
 "8 days; 1 egg one half",,0,0
+"8 days; Downy chick",,0,0
 "8 eggs badly inc. (lost); 8 eggs",,0,0
 "8 eggs badly inc. (lost); 8 eggs fresh (saved)",,0,0
 "8 eggs-fresh, 4 eggs-stale",,0,0
@@ -4179,6 +4238,7 @@ begun",,0,0
 "8 To 12 Days",,0,0
 "8 To 9 Days",,0,0
 "8 years",,0,0
+"8 young, 1 adult",,0,0
 "8 yr",,0,0
 "8 yrs  8 mos",,0,0
 "80%",,0,0
@@ -4228,6 +4288,7 @@ begun",,0,0
 "90",,0,0
 "90 % ossified",,0,0
 "90 Day Old Chick",,0,0
+"90%",,0,0
 "90% ossified",,0,0
 "90-133 addled; unnumbered broken",,0,0
 "90-133 addled; unnumbered broken egg from wild; fr",,0,0
@@ -4528,6 +4589,7 @@ b= ",,0,0
 "About 2 days old",,0,0
 "about 2 days started",,0,0
 "about 2 days; yolks were bloody",,0,0
+"ABOUT 2 MONTHS OLD",,0,0
 "about 2 or 3 days",,0,0
 "About 2 to 4 days",,0,0
 "About 2 to 5 days",,0,0
@@ -4554,6 +4616,7 @@ b= ",,0,0
 "about 24 hours",,0,0
 "About 25%",,0,0
 "about 27 days",,0,0
+"ABOUT 278 DAYS OLD",,0,0
 "About 3 Days",,0,0
 "about 3 days Adv",,0,0
 "About 3 days advanced",,0,0
@@ -4782,6 +4845,7 @@ ACC: 20",,0,0
 "Ad aged",,0,0
 "Ad Breeding SNFO",,0,0
 "ad by plum",,0,0
+"ad male by plumage",,0,0
 "ad or juv",,0,0
 "ad OS  SNFO",,0,0
 "Ad SFO",,0,0
@@ -4789,6 +4853,7 @@ ACC: 20",,0,0
 "Ad SFO  O.E.",,0,0
 "ad SFO  os",,0,0
 "Ad SFO/breeding",,0,0
+"ad sk",,0,0
 "ad Skull 90% issufued",,0,0
 "ad skull 90% ossified",,0,0
 "Ad skull fully ossified",,0,0
@@ -4810,6 +4875,7 @@ ACC: 20",,0,0
 "Ad. br.",,0,0
 "ad. but young",,0,0
 "Ad. egg in 5 days",,0,0
+"ad. Male by plumage",,0,0
 "Ad. moulting",,0,0
 "Ad. SFO",,0,0
 "ad. skull fully ossified",,0,0
@@ -4944,14 +5010,18 @@ ACC: 20",,0,0
 "adt",,0,0
 "aduilt",,0,0
 "adukt",,0,0
+"ADUL",,0,0
 "Adul; skull oss.",,0,0
 "adul;t",,0,0
 "ADULKT; NO BIRSA",,0,0
 "Adullt",,0,0
+"adullt ?",,0,0
 "adulr","adult",0,1
 "adult","adult",1,1
 "Àdult","adult",0,1
 "adult  ""appearing"" (sic)",,0,0
+"adult - aged by wing tip",,0,0
+"adult  no bursa",,0,0
 "Adult - ossified skull",,0,0
 "Adult  skull 100% oss",,0,0
 "ADULT & JUVENILE",,0,0
@@ -5030,12 +5100,15 @@ ACC: 20",,0,0
 "adult 6 yrs","adult",0,1
 "adult adult",,0,0
 "ADULT AND JUVENILE",,0,0
+"adult based on plumage",,0,0
 "Adult based on plummage",,0,0
 "ADULT BASIC PLUMAGE",,0,0
 "ADULT BASIC PLUMAGE; NO BURSA",,0,0
 "Adult breeding","adult",0,1
 "ADULT- BREEDING","adult",0,1
 "ADULT BREEDING PLUMAGE; NO BURSA",,0,0
+"ADULT BUT SMALL",,0,0
+"ADULT BUT SMALL, SKULL OSSIFIED",,0,0
 "Adult by penis, testes",,0,0
 "Adult by plumage",,0,0
 "Adult by skull",,0,0
@@ -5097,6 +5170,7 @@ ACC: 20",,0,0
 "ADULT PLUMAGE; NO BURSA",,0,0
 "ADULT PLUMAGE; NO BURSA; SKULL 1",,0,0
 "ADULT PLUMAGE; NPO BURSA",,0,0
+"Adult Post Breeding",,0,0
 "Adult post-breeding",,0,0
 "adult post-breeding, skull ossif",,0,0
 "adult post-breeding, skull ossified",,0,0
@@ -5118,6 +5192,7 @@ ACC: 20",,0,0
 "Adult SVL 312mm,Tail 144mm",,0,0
 "Adult tail clip tissue",,0,0
 "Adult tail tissue clip",,0,0
+"adult w/ 3 embryos",,0,0
 "Adult winter",,0,0
 "adult with 4 young in-uteri",,0,0
 "Adult with tail clip tissue",,0,0
@@ -5127,6 +5202,7 @@ ACC: 20",,0,0
 "adult(s) and juvenile(s)",,0,0
 "Adult*",,0,0
 "ADULT**",,0,0
+"ADULT,",,0,0
 "Adult,  skull oss.",,0,0
 "Adult,  SVL 216 mm, tail 20 mm, ",,0,0
 "Adult,  SVL 235 mm, tail 30 mm, ",,0,0
@@ -5142,6 +5218,8 @@ ACC: 20",,0,0
 "adult, eggs",,0,0
 "Adult, female?",,0,0
 "Adult, female? (short tail; did ",,0,0
+"ADULT, FIRST YEAR",,0,0
+"ADULT, FIRST YEAR BIRD",,0,0
 "ADULT, GRAVID FEMALE;",,0,0
 "ADULT, JUVENILE",,0,0
 "Adult, Liver Tissue",,0,0
@@ -5151,8 +5229,10 @@ ACC: 20",,0,0
 "adult, post breeding",,0,0
 "Adult, post-breeding",,0,0
 "Adult, skin clip tissue taken",,0,0
+"ADULT, SKULL",,0,0
 "Adult, skull 100 % ossified",,0,0
 "Adult, skull 100% ossified",,0,0
+"ADULT, SKULL COMPLETELY OSSIFIED",,0,0
 "adult, skull fully ossifed",,0,0
 "Adult, skull fully ossifed.",,0,0
 "adult, skull fully ossified",,0,0
@@ -5202,6 +5282,7 @@ ACC: 20",,0,0
 "ADULT: 2 MALE, 2 FEMA",,0,0
 "ADULT: 5 MALE, 5 FEMA",,0,0
 "ADULT: 5 MALE, 8 FEMA",,0,0
+"ADULT;",,0,0
 "adult;  > 9 yr",,0,0
 "adult; > 14 yr",,0,0
 "adult; > 5 yr",,0,0
@@ -5425,6 +5506,7 @@ ACC: 20",,0,0
 "adult; 18 day",,0,0
 "adult; 18 mo",,0,0
 "adult; 18 mo 4 day",,0,0
+"adult; 18 years old",,0,0
 "adult; 18 yr",,0,0
 "adult; 18 yr 0 mo 28 day",,0,0
 "adult; 18 yr 9 mo 9 day",,0,0
@@ -5664,6 +5746,7 @@ ACC: 20",,0,0
 "adult; 4.5 yr",,0,0
 "adult; 4.5 yr ?",,0,0
 "adult; 40 day",,0,0
+"adult; 40+ years",,0,0
 "adult; 400 day",,0,0
 "adult; 402 day",,0,0
 "adult; 404 C day",,0,0
@@ -5878,6 +5961,7 @@ ACC: 20",,0,0
 "adult; 98 day",,0,0
 "adult; 99 day",,0,0
 "adult; 995 day",,0,0
+"adult; Adult",,0,0
 "adult; age unknown",,0,0
 "ADULT; ALT PLUMAGE; NO BURSA",,0,0
 "ADULT; ALTERNATE PPLUMAGE; NO BU",,0,0
@@ -5895,6 +5979,7 @@ ACC: 20",,0,0
 "adult; cementum-7",,0,0
 "adult; cementum-8",,0,0
 "adult; cementum-9",,0,0
+"adult; dark morph",,0,0
 "Adult; Egg",,0,0
 "adult; embryo",,0,0
 "ADULT; FEMALE",,0,0
@@ -5923,6 +6008,7 @@ ACC: 20",,0,0
 "Adult; skull  oss.",,0,0
 "Adult; skull 100% oss.",,0,0
 "Adult; skull completely oss.",,0,0
+"ADULT; SKULL COMPLETELY OSSIFIED",,0,0
 "Adult; skull double",,0,0
 "Adult; skull fully oss.",,0,0
 "adult; skull fully ossified",,0,0
@@ -5937,7 +6023,9 @@ ACC: 20",,0,0
 "Adult`",,0,0
 "adult+young",,0,0
 "adult11.1 g",,0,0
+"ADULTby plumage",,0,0
 "Adultl",,0,0
+"ADULTRSC",,0,0
 "ADULTS",,0,0
 "ADULTS & AMMOCETES",,0,0
 "Adults + Egg",,0,0
@@ -6335,6 +6423,7 @@ perhaps one half",,0,0
 "All badly",,0,0
 "All begun",,0,0
 "All Begun In Incubation",,0,0
+"all black plumage",,0,0
 "all but one infertile, 1 heavily",,0,0
 "all but one infertile, 1 heavily incubated (broken",,0,0
 "all chipped",,0,0
@@ -6519,6 +6608,7 @@ warbler's dent",,0,0
 "Almost ready to hatch. Nest cont",,0,0
 "Almost ready to hatch. Nest contained 1 young",,0,0
 "Almost ready to hatch. Nest contained 3 young.",,0,0
+"almost sco",,0,0
 "Almost to hatch",,0,0
 "Almost to hatching",,0,0
 "Almost two days",,0,0
@@ -6569,6 +6659,7 @@ warbler's dent",,0,0
 "APPROX. 16-18 DAYS OLD; BURSA 10",,0,0
 "approx. 2 yrs",,0,0
 "Approx: 10 days",,0,0
+"APPROXIMATE AGE 60 DAYS",,0,0
 "Approximately 1/2-3/4",,0,0
 "Approximately 1/3 incubated",,0,0
 "approximately 7 days",,0,0
@@ -6583,8 +6674,10 @@ warbler's dent",,0,0
 "AST",,0,0
 "ASY","adult",0,1
 "ASY (Ad)",,0,0
+"ASY (by rectrices)",,0,0
 "ASY (possibly TY/4Y)",,0,0
 "ASY [BURSA 15 X 3 MM INCORRECT -",,0,0
+"ASY bu pp coverts",,0,0
 "ASY by bill measurements",,0,0
 "ASY by plumage",,0,0
 "ASY BY PLUMAGE; NO BURSA; SKULL ",,0,0
@@ -6676,6 +6769,7 @@ c= small embryo",,0,0
 "Barley begun",,0,0
 "Barley commenced",,0,0
 "barley started",,0,0
+"BASAL 1/2 TAIL WHITE, INNER WEB ",,0,0
 "Basic 2","Basic 2",0,1
 "Basic 4","Basic 4",0,1
 "BATCHED CA. JANUARY 2001",,0,0
@@ -7086,6 +7180,7 @@ Trace.",,0,0
 "Breeding","adult",0,1
 "breeding 2 yrs. old",,0,0
 "Breeding Adult","adult",0,1
+"BREEDING ADULT FEMALE",,0,0
 "breeding males",,0,0
 "BREEDING PLUMAGE; NO BURSA",,0,0
 "broke in nest",,0,0
@@ -7168,6 +7263,7 @@ Trace.",,0,0
 "BURSA 10 X 5 MM",,0,0
 "BURSA 10 X 5 MM, SKULL 100% PNEU",,0,0
 "BURSA 10 X 5 MM;",,0,0
+"BURSA 10 X 5.5 MM",,0,0
 "BURSA 10 X 6 MM",,0,0
 "BURSA 10 X 6 MM;",,0,0
 "BURSA 10 X 6 MM; SKULL 100% OSS.",,0,0
@@ -7297,6 +7393,7 @@ Trace.",,0,0
 "BURSA 16 X 15 MM",,0,0
 "BURSA 16 X 24 MM;",,0,0
 "BURSA 16 X 3 MM",,0,0
+"BURSA 16 X 3 MM, VESTIGAL",,0,0
 "BURSA 16 X 4 MM",,0,0
 "BURSA 16 X 4 MM [NOT LIKELY - AW",,0,0
 "BURSA 16 X 5 MM; SKULL 100% OSS.",,0,0
@@ -7367,6 +7464,7 @@ Trace.",,0,0
 "BURSA 2 X 5 MM",,0,0
 "BURSA 2.5 X 1.5 MM;",,0,0
 "BURSA 2.5 X 2 MM; SKULL 95% OSS.",,0,0
+"BURSA 20 MM",,0,0
 "BURSA 20 X 1  MM;",,0,0
 "BURSA 20 X 10 MM",,0,0
 "BURSA 20 X 10 MM;",,0,0
@@ -7377,6 +7475,7 @@ Trace.",,0,0
 "BURSA 20 X 17 MM",,0,0
 "BURSA 20 X 18 MM",,0,0
 "BURSA 20 X 20 MM, THIN-WALLED;",,0,0
+"BURSA 20 X 21 MM",,0,0
 "BURSA 20 X 4 MM.",,0,0
 "BURSA 20 X 5 MM",,0,0
 "BURSA 20 X 6 MM",,0,0
@@ -7472,6 +7571,7 @@ Trace.",,0,0
 "BURSA 30 X 15 MM;",,0,0
 "BURSA 30 X 30 MM",,0,0
 "BURSA 30 X 6 MM",,0,0
+"BURSA 32 X 13 MM",,0,0
 "BURSA 32 X 14 MM",,0,0
 "BURSA 35 x 15 MM;",,0,0
 "BURSA 35 X 8 MM",,0,0
@@ -7489,6 +7589,7 @@ Trace.",,0,0
 "BURSA 4 X 2 MM; SKULL 15% OSS.",,0,0
 "BURSA 4 X 2 MM; SKULL 25% OSS.",,0,0
 "BURSA 4 X 2 MM; SKULL 75% OSS.",,0,0
+"bursa 4 x 2.5 mm",,0,0
 "BURSA 4 X 20 MM",,0,0
 "BURSA 4 X 20 MM.",,0,0
 "BURSA 4 X 3 MM",,0,0
@@ -7794,6 +7895,7 @@ Trace.",,0,0
 "BURSA NTO FOUND; SKULL 40% OSS.",,0,0
 "BURSA NTO FOUND; SKULL 5% OSS.",,0,0
 "BURSA PRESENT, NOT MEASURED",,0,0
+"bursa present; immature",,0,0
 "BURSA ROTTED",,0,0
 "BURSA SMALL, SKULL 10% PNEUM",,0,0
 "BURSA THIN, 8 X 8 MM",,0,0
@@ -7813,12 +7915,24 @@ Trace.",,0,0
 "c/2",,0,0
 "c/3x",,0,0
 "ca 0.2 mm embryo",,0,0
+"ca 12 hours; Downy chick",,0,0
 "CA 19 YEARS OLD AT DEATH",,0,0
+"ca 2 months",,0,0
+"ca 2 months; Immature",,0,0
 "ca 31day",,0,0
+"ca 36 hours; Downy chick",,0,0
+"ca 4.5 months; Immature",,0,0
+"ca 60 hours; Downy chick",,0,0
+"ca 66 days; Immature",,0,0
+"ca 80 hours; Downy chick",,0,0
+"ca 85 hours; Downy chick",,0,0
+"ca. 1 week old",,0,0
 "Ca. 1/4",,0,0
 "ca. 10 days",,0,0
 "ca. 14 weeks old",,0,0
 "ca. 1mm embryo",,0,0
+"ca. 2 years old",,0,0
+"ca. 33 days; Immature",,0,0
 "CA. 34 YEARS OLD",,0,0
 "ca. 6 days",,0,0
 "Ca-3 days",,0,0
@@ -7925,6 +8039,7 @@ Trace.",,0,0
 "Chick feathered; rotted out",,0,0
 "chick forming",,0,0
 "chick hatched; shells saved",,0,0
+"chick in nest",,0,0
 "Chick Juv.",,0,0
 "CHICK MOLTING INTO FIRST BASIC; ",,0,0
 "Chick one day old",,0,0
@@ -7941,6 +8056,9 @@ Trace.",,0,0
 "Chick.",,0,0
 "CHICK/FLEDGLING; SKULL 5% OSS.; ",,0,0
 "Chick; 12 days old",,0,0
+"chick; 2 days old",,0,0
+"chick; 3 days old",,0,0
+"chick; 4 days old",,0,0
 "Chick; 5 days old",,0,0
 "CHICK; BURSA 10 X 9 MM",,0,0
 "CHICK; BURSA 13 X 5 MM",,0,0
@@ -8249,6 +8367,7 @@ Trace.",,0,0
 "DEFINITIVE BASIC PLUMAGE; NO BUR",,0,0
 "DEFINITIVE PLUMAGE",,0,0
 "DEFINITIVE PLUMAGE AND COLORATIO",,0,0
+"definitive plumage male",,0,0
 "DEFINITIVE PLUMAGE; NO BURSA; SK",,0,0
 "DEFINITIVE PLUMAGE; SEEMINGLY TR",,0,0
 "Definitive sub-adult",,0,0
@@ -8307,6 +8426,7 @@ Trace.",,0,0
 "DM",,0,0
 "DNY",,0,0
 "don't know yet",,0,0
+"DOUBLE LAYERED SKULL",,0,0
 "dourny Juv. [illeg.]",,0,0
 "Down forming on embryos",,0,0
 "Down Started",,0,0
@@ -8315,13 +8435,21 @@ Trace.",,0,0
 "downy","chick",0,1
 "downy chick","chick",0,1
 "DOWNY CHICK;  BURSA 5 X 4 MM; SK",,0,0
+"downy chick; 1 week old",,0,0
+"downy chick; 1.5 weeks old",,0,0
+"downy chick; 1-2 day old nestlin",,0,0
+"downy chick; 2 days old",,0,0
+"downy chick; 2 weeks old",,0,0
 "DOWNY CHICK; BURSA 3 X 2 MM",,0,0
 "DOWNY CHICK; BURSA 4 X 3 MM",,0,0
 "DOWNY CHICK; BURSA 6 X 5 MM",,0,0
 "DOWNY CHICK; BURSA 6 X 6 MM; SKU",,0,0
 "DOWNY CHICK; BURSA 7 X 2 MM, SKU",,0,0
 "DOWNY CHICK; BURSA NOT FOUND; SK",,0,0
+"downy chick; ca. 1 week old",,0,0
+"downy chick; extracted from egg",,0,0
 "DOWNY CHICK; SKULL 5% OSS.; BURS",,0,0
+"downy duckling",,0,0
 "downy juv",,0,0
 "downy Juv.",,0,0
 "Downy nestling",,0,0
@@ -8332,6 +8460,7 @@ Trace.",,0,0
 "downy young","chick",0,1
 "Downy Young [Sex ?]","downy young",0,1
 "DOWNY YOUNG; BURSA NOT FOUND",,0,0
+"DOWNY YOUNG; STATE 2",,0,0
 "downy-Juv.",,0,0
 "Dried",,0,0
 "Dried egg",,0,0
@@ -8343,6 +8472,7 @@ Trace.",,0,0
 "Dry--all very large embryos",,0,0
 "Dry--no visible development",,0,0
 "Duckling",,0,0
+"dull black plumage",,0,0
 "Dumped",,0,0
 "Dumped egg",,0,0
 "Dwy.",,0,0
@@ -9278,6 +9408,7 @@ Trace.",,0,0
 "Female, with 10 large eggs",,0,0
 "Femalegave birth to 5 live, 2 st",,0,0
 "Female-Gravid",,0,0
+"female-likeplumage",,0,0
 "FEMALES",,0,0
 "fersh",,0,0
 "Fertile",,0,0
@@ -9299,6 +9430,7 @@ Trace.",,0,0
 "fetal",,0,0
 "Fethered Embryos","feathered embryos",0,1
 "Fetus","fetus",1,1
+"few black feathers on green thro",,0,0
 "Few days",,0,0
 "few days - 1/3",,0,0
 "Few days advanced",,0,0
@@ -9337,10 +9469,18 @@ Trace.",,0,0
 "first winter",,0,0
 "FIRST WINTER PLUMAGE; SKULL 30% ",,0,0
 "first year","juvenile",0,1
+"FIRST YEAR ADULT",,0,0
+"FIRST YEAR BIRD, SKULL 6/7 OSSIF",,0,0
+"FIRST YEAR BIRD, SKULL COMPLETEL",,0,0
 "First Year Male","first year",0,1
 "first year plumage",,0,0
 "first year subadult",,0,0
+"FIRST YEAR, SKULL COMPLETELY OSS",,0,0
+"FIRST YEAR, SKULL NOT COMPLETELY",,0,0
+"first year?",,0,0
 "FIRST-CYCLE, BURSA 6 X 3 MM",,0,0
+"first-year",,0,0
+"first-year; Immature",,0,0
 "five",,0,0
 "Five 1/4, Three1/3, Five 1/2",,0,0
 "Five Days",,0,0
@@ -9369,6 +9509,7 @@ Trace.",,0,0
 "Fled.",,0,0
 "fledg",,0,0
 "Fledg.",,0,0
+"fledge young",,0,0
 "fledged",,0,0
 "Fledged 1 Young",,0,0
 "fledged 2 or 3 young",,0,0
@@ -9382,8 +9523,10 @@ Trace.",,0,0
 "Fledged at least 2 young in 1978",,0,0
 "Fledged at least 2 young in 1978.",,0,0
 "Fledged chick",,0,0
+"fledged juvenile",,0,0
 "Fledged Young",,0,0
 "fledgeling","fledgling",0,1
+"fledging",,0,0
 "fledgl.",,0,0
 "fledgling","fledgling",1,1
 "FLEDGLING ; BURSA NOT FOUND",,0,0
@@ -9391,6 +9534,7 @@ Trace.",,0,0
 "Fledgling [Sex ?]","fledgling",0,1
 "Fledgling Female","fledgling",0,1
 "Fledgling Male","fledgling",0,1
+"FLEDGLING, SKULL NOT OSSIFIED",,0,0
 "FLEDGLING/JUV PLUMAGE; BURSA 10 ",,0,0
 "FLEDGLING/NESTLING; BURSA 5 X 4 ",,0,0
 "FLEDGLING; BURSA 10  X 6 MM",,0,0
@@ -9432,6 +9576,7 @@ Trace.",,0,0
 "FLEDGLING; BURSA NOT FOUND",,0,0
 "FLEDGLING; BURSA NOT FOUND;",,0,0
 "FLEDGLING; BURSA NOT FOUND; SKUL",,0,0
+"fledgling; Immature",,0,0
 "Fledgling?",,0,0
 "Fledglings left nest 3 days prio",,0,0
 "Fledglings left nest 3 days prior",,0,0
@@ -9451,6 +9596,7 @@ Trace.",,0,0
 "foetus; 0 day",,0,0
 "for adv.",,0,0
 "for advanced",,0,0
+"FOR KANSAS",,0,0
 "formed",,0,0
 "formed embryo",,0,0
 "formed embryos",,0,0
@@ -10594,6 +10740,7 @@ Sowing blood-1",,0,0
 "had began and progressed 2 or 3 days",,0,0
 "Had Begun In Some Eggs",,0,0
 "had just begun",,0,0
+"had just fledged",,0,0
 "had just started",,0,0
 "had prgressed 4 to 6 days",,0,0
 "had started",,0,0
@@ -10985,6 +11132,9 @@ Sowing blood-1",,0,0
 "HY BY PLUAMGE; BURSA NOT FOUND",,0,0
 "HY by plumage",,0,0
 "HY by skull",,0,0
+"HY imm",,0,0
+"HY imm ?",,0,0
+"HY imm.",,0,0
 "HY juv.",,0,0
 "HY PLUAMGE; BURSA NOT FOUND",,0,0
 "HY PLUMAGE; BURSA NOT FOUND",,0,0
@@ -11365,14 +11515,19 @@ Sowing blood-1",,0,0
 "imm *",,0,0
 "Imm ?",,0,0
 "imm 2nd year",,0,0
+"imm based on very short bill len",,0,0
 "imm by plum",,0,0
 "Imm by plumage",,0,0
+"imm plumage",,0,0
 "imm SNFO","immature",0,0
 "imm*",,0,0
 "IMM, (FEMALE PLUMAGE); NO BURSA;",,0,0
+"imm, bursa 15 x 10 mm",,0,0
+"IMM, BY PLUMAGE",,0,0
 "imm, chick",,0,0
 "imm, HY or SY",,0,0
 "imm.","immature",0,1
+"imm.  Imm.",,0,0
 "Imm. (?)",,0,0
 "Imm. ?",,0,0
 "Imm. 1 day old",,0,0
@@ -11381,6 +11536,7 @@ Sowing blood-1",,0,0
 "Imm. 3 days old",,0,0
 "Imm. 5 days old",,0,0
 "imm. 6 days",,0,0
+"IMM. BY PLUMAGE",,0,0
 "imm. by skull","immature",0,0
 "Imm. Nestling",,0,0
 "Imm. Nestling #1",,0,0
@@ -11394,10 +11550,17 @@ Sowing blood-1",,0,0
 "IMM/ADULT; SKULL 50% OSS; NO BUR",,0,0
 "IMM/JUV",,0,0
 "IMM/JUV; LARGE BURSA,",,0,0
+"imm; 11-12 months old",,0,0
+"imm; female-like plumage",,0,0
+"imm; no male plumage characters",,0,0
+"imm; patches of black in yellow-",,0,0
 "Imm?",,0,0
+"imm? (lips present, low oss.)",,0,0
 "immarture",,0,0
 "Immat.",,0,0
+"Immataure",,0,0
 "immatue",,0,0
+"IMMATUR",,0,0
 "immature","immature",1,1
 "immature - hatch year unknown (s",,0,0
 "IMMATURE (""FEMALE"") PLUMAGE; BUR",,0,0
@@ -11489,17 +11652,20 @@ Sowing blood-1",,0,0
 "IMMATURE ; SKULL SOFT",,0,0
 "IMMATURE ; SKULL Y3 OSS",,0,0
 "Immature ?","immature",0,1
+"immature [?]",,0,0
 "Immature [= Fledgling] Male","fledgling",0,1
 "Immature [Female ?]","immature",0,1
 "Immature [Male ?]","immature",0,1
 "Immature [Sex ?]","immature",0,1
 "Immature by plumage","immature",0,1
+"immature feathers in crown",,0,0
 "Immature Female","immature",0,1
 "Immature Female ?","immature",0,1
 "IMMATURE FEMALE PLUMAGE; BURSA N",,0,0
 "Immature Male","immature",0,1
 "immature or female",,0,0
 "IMMATURE PLUMAGE",,0,0
+"IMMATURE PLUMAGE; BROWN HEAD",,0,0
 "IMMATURE PLUMAGE; BURSA 13 X 6 M",,0,0
 "IMMATURE PLUMAGE; BURSA 22 X 18 ",,0,0
 "IMMATURE PLUMAGE; NO BURSA",,0,0
@@ -11511,16 +11677,31 @@ Sowing blood-1",,0,0
 "Immature skull unossified","immature",0,1
 "Immature SNO","immature",0,1
 "Immature to sub adult",,0,1
+"immature yolk still attached",,0,0
 "Immature(?); skull 50% oss.","immature",0,1
 "Immature(?); skull almost comple","immature",0,1
 "Immature(?); skull almost completely oss.","immature",0,1
+"IMMATURE,",,0,0
+"IMMATURE, 1st year",,0,0
 "Immature, autumn",,0,0
 "Immature, Autumn [Winter]",,0,0
+"immature, bursa 10 x 7 mm",,0,0
+"immature, bursa 4 x 2 mm",,0,0
 "Immature, Hatched 23 May, 1950",,0,0
 "immature, skull 10% ossified","immature",0,1
 "Immature, skull 20% oss.","immature",0,1
+"IMMATURE, SKULL COMPLETELY OSSIF",,0,0
+"IMMATURE, SKULL COMPLETELY UNOSS",,0,0
+"IMMATURE, SKULL INCOMPLETELY OSS",,0,0
+"IMMATURE, SKULL NOT",,0,0
+"IMMATURE, SKULL NOT COMPLETELY O",,0,0
 "immature, skull not ossified","immature",0,1
+"IMMATURE, SKULL OSSIFIED",,0,0
 "Immature, skull ossified 50%","immature",0,1
+"IMMATURE, SKULL PARTIALLY OSSIFI",,0,0
+"IMMATURE, SKULL PARTLY OSSIFIED",,0,0
+"IMMATURE, SKULL SEMI-HARDENED",,0,0
+"IMMATURE, SKULL UNOSSIFIED",,0,0
 "Immature, skull windows","immature",0,1
 "IMMATURE.","immature",0,1
 "Immature. Skull 50% oss.","immature",0,1
@@ -11528,6 +11709,10 @@ Sowing blood-1",,0,0
 "immature/juvenile",,0,0
 "Immature/skull oss.","immature",0,1
 "Immature/skull unossified","immature",0,1
+"IMMATURE;",,0,0
+"immature; female-llike plumage",,0,0
+"immature; Immature",,0,0
+"immature; in female-like plumage",,0,0
 "immature; large skull windows","immature",0,1
 "Immature; oss. Incomplete","immature",0,1
 "Immature; skull <50% oss.","immature",0,1
@@ -11544,8 +11729,10 @@ Sowing blood-1",,0,0
 "Immature; skull 95% oss.","immature",0,1
 "Immature; skull 95%oss.","immature",0,1
 "Immature; skull ca. 1/3 oss.","immature",0,1
+"IMMATURE; SKULL INCOMPLETELY OSS",,0,0
 "Immature; skull less than 50% os","immature",0,1
 "Immature; skull less than 50% oss.","immature",0,1
+"IMMATURE; SKULL NOT COMPLETELY O",,0,0
 "Immature; skull not oss.","immature",0,1
 "Immature; skull oss.","immature",0,1
 "Immature; skull oss. Incomplete","immature",0,1
@@ -11554,6 +11741,7 @@ Sowing blood-1",,0,0
 "Immature; skull partly oss","immature",0,1
 "Immature; skull partly oss.","immature",0,1
 "immature; skull unossified","immature",0,1
+"immature; streaked plumage",,0,0
 "immature?","immature",0,1
 "immature? skull single","immature",0,1
 "Immatures + Adults",,0,0
@@ -11565,17 +11753,24 @@ Sowing blood-1",,0,0
 "IN",,0,0
 "in 1 fresh, in 4 well started",,0,0
 "in a trace",,0,0
+"in adult-like plumage",,0,0
 "In all had incubation started bu",,0,0
 "In all had incubation started but only in one was ",,0,0
 "in all stages",,0,0
 "in all stages - 2 eggs fresh, 2 ",,0,0
+"in alternate plumage",,0,0
+"in definitive plumage",,0,0
 "In different stages",,0,0
 "in different stages from turned ",,0,0
 "In different stages.",,0,0
+"in female-like plumage",,0,0
+"in female-like plumage!",,0,0
 "in first stages",,0,0
+"in juvenile plumage",,0,0
 "In nest with young",,0,0
 "In nest; cracked-dead-slight; yo",,0,0
 "In nest; cracked-dead-slight; yolk and albumen dri",,0,0
+"in oon-definitive plumage",,0,0
 "in part of set",,0,0
 "in the First Stage",,0,0
 "In the oviduct",,0,0
@@ -11776,6 +11971,8 @@ Sowing blood-1",,0,0
 "Infetile",,0,0
 "Information not given",,0,0
 "initiated",,0,0
+"inm",,0,0
+"inm, skull simple except occiput",,0,0
 "inncubated",,0,0
 "Intact fertile egg; yolk intact",,0,0
 "Intact unhatched fertile egg; fe",,0,0
@@ -11927,9 +12124,11 @@ Sowing blood-1",,0,0
 "Just commenced.",,0,0
 "just commencing",,0,0
 "just complete",,0,0
+"just fledged",,0,0
 "just hatched",,0,0
 "just hatched or nearly hatched",,0,0
 "just hatched, down wet",,0,0
+"JUST HATCHED; Downy chick",,0,0
 "just hatching",,0,0
 "Just laid",,0,0
 "just laid, very fresh old bird r",,0,0
@@ -12013,6 +12212,8 @@ Sowing blood-1",,0,0
 "juv, HY",,0,0
 "Juv.","juvenile",0,1
 "Juv. - 1 yr.",,0,0
+"juv. - heavy spotted",,0,0
+"juv. - reddish-brown neck",,0,0
 "Juv. (?)",,0,0
 "Juv. (1st winter)",,0,0
 "Juv. ?",,0,0
@@ -12033,6 +12234,7 @@ Sowing blood-1",,0,0
 "Juv. 3 yr.",,0,0
 "Juv. 4 days old",,0,0
 "Juv. 7 days old",,0,0
+"juv. By plumage",,0,0
 "Juv. Estimated 10 days old",,0,0
 "Juv. Estimated 2 days old",,0,0
 "Juv. Estimated 3 days old",,0,0
@@ -12044,10 +12246,12 @@ Sowing blood-1",,0,0
 "Juv. new hatched",,0,0
 "juv. of year",,0,0
 "JUV. PLUAMGE; BURSA 3 X 4 MM; SK",,0,0
+"juv. Plumage",,0,0
 "JUV. PLUMAGE; BURSA 12 X 8 MM",,0,0
 "JUV. PLUMAGE; BURSA 7 X 3 MM",,0,0
 "JUV. PLUMAGE; BURSA 7 X 6 MM",,0,0
 "Juv. SNO","juvenile",0,1
+"juv. That had just fledged",,0,0
 "juv. to small ad.","juvenile, young adult",0,1
 "juv.!",,0,0
 "juv., 2 wks. old",,0,0
@@ -12055,6 +12259,7 @@ Sowing blood-1",,0,0
 "JUV.; BURSA 5 X 6 MM",,0,0
 "JUV.; BURSA 7 X 5 MM",,0,0
 "JUV.; BURSA 7 X 7 MM; SKULL 10% ",,0,0
+"juv.; Immature",,0,0
 "Juv.?",,0,0
 "juv/ subad",,0,0
 "juv/ad",,0,0
@@ -12114,6 +12319,7 @@ Sowing blood-1",,0,0
 "JUV; BURSA NOT FOUND",,0,0
 "JUV; BURSA NOT FOUND; SKULL 35% ",,0,0
 "JUV; BURSA THIN-WALLED, 5 X 8 MM",,0,0
+"juv; Immature",,0,0
 "juv; nestling",,0,0
 "juv; young of the year",,0,0
 "juv?",,0,0
@@ -12121,6 +12327,7 @@ Sowing blood-1",,0,0
 "juv[?]*",,0,0
 "Juvehile",,0,0
 "JUVELINE",,0,0
+"JUVENAL",,0,0
 "JUVENAL PLUMAGE",,0,0
 "JUVENAL PLUMAGE; BURSA 10 MM DIA",,0,0
 "JUVENAL PLUMAGE; BURSA 7 MM DIAM",,0,0
@@ -12254,6 +12461,9 @@ Sowing blood-1",,0,0
 "Juvenile 1 segment + button",,0,0
 "Juvenile 2nd winter","juvenile",0,1
 "juvenile and larva",,0,0
+"JUVENILE ATTENDED BY PARENTS",,0,0
+"juvenile by bill length and plum",,0,0
+"JUVENILE BY PLUMAGE",,0,0
 "JUVENILE FEMALE","juvenile",0,1
 "JUVENILE FEMALES",,0,0
 "juvenile frog",,0,0
@@ -12270,19 +12480,27 @@ Sowing blood-1",,0,0
 "Juvenile with tail clip tissue",,0,0
 "Juvenile with tissue",,0,0
 "juvenile(s)",,0,0
+"JUVENILE,",,0,0
 "JUVENILE,  ADULT",,0,0
 "juvenile, 1/3 ossification","juvenile",0,1
 "Juvenile, 60% oss.","juvenile",0,1
 "Juvenile, 66 cm SVL,  89g",,0,0
 "Juvenile, about 1/4 full size","juvenile",0,1
 "JUVENILE, ADULT",,0,0
+"JUVENILE, BY PLUMAGE",,0,0
 "juvenile, lerss then 1 yr",,0,0
 "Juvenile, liver tissue taken",,0,0
+"JUVENILE, MORE OR LESS 16 days o",,0,0
 "juvenile, skull ~1/2 ossified","juvenile",0,1
 "juvenile, skull 5% ossified","juvenile",0,1
+"JUVENILE, SKULL NOT COMPLETELY O",,0,0
+"JUVENILE, SKULL NOT COMPLETELY P",,0,0
 "juvenile, skull not fully ossifi","juvenile",0,1
 "juvenile, skull not fully ossified","juvenile",0,1
 "juvenile, skull not ossified","juvenile",0,1
+"JUVENILE, SKULL PARTIALLY OSSIFI",,0,0
+"JUVENILE, SKULL SMASHED",,0,0
+"JUVENILE, SKULL UNOSSIFIED",,0,0
 "Juvenile, SVL 395 mm, tail 58 mm",,0,0
 "Juvenile, SVL 415 mm",,0,0
 "Juvenile, SVL 662 mm, Tail 239 m",,0,0
@@ -12382,6 +12600,7 @@ Sowing blood-1",,0,0
 "juvenile; cementum-0",,0,0
 "juvenile; cementum-1",,0,0
 "Juvenile; fledgling",,0,0
+"juvenile; Immature",,0,0
 "juvenile; LT 1 yr",,0,0
 "juvenile; Rudd's age class 31",,0,0
 "juvenile; Rudd's age class 31-",,0,0
@@ -12390,6 +12609,7 @@ Sowing blood-1",,0,0
 "juvenile; Rudd's age class 32-",,0,0
 "juvenile; Rudd's age class 32+",,0,0
 "Juvenile; skull 35% to 40% ossif",,0,0
+"JUVENILE; SKULL NOT COMPLETELY O",,0,0
 "Juvenile; skull not fully oss.","juvenile",0,1
 "Juvenile; skull not oss.","juvenile",0,1
 "juvenile?","juvenile",0,1
@@ -12403,6 +12623,7 @@ Sowing blood-1",,0,0
 "Juvinile","juvenile",0,1
 "Juvnile","juvenile",0,1
 "JV","juvenile",0,1
+"jv.",,0,0
 "JV; BURSA 2 X 2 MM; SKULL 0% OSS",,0,0
 "JX",,0,0
 "JZ",,0,0
@@ -13207,8 +13428,10 @@ Infertile-1",,0,0
 "larve","larva",0,1
 "Last",,0,0
 "Last 4 chicks left nest on 16th.",,0,0
+"late embryo",,0,0
 "LATE FLEXION LARVA",,0,0
 "Late July-late August",,0,0
+"late snco",,0,0
 "Late Stage Embryo",,0,0
 "Layer A; surface",,0,0
 "Laying",,0,0
@@ -13231,8 +13454,10 @@ Infertile-1",,0,0
 "less than a week",,0,0
 "Less than a week.",,0,0
 "Less than half",,0,0
+"LESS THAN ONE DAY OLD; Downy chi",,0,0
 "Less than one-quarter",,0,0
 "Less then a week",,0,0
+"LETELY OSSIFIED",,0,0
 "Ligere",,0,0
 "Light",,0,0
 "Light colored egg fresh; dark co",,0,0
@@ -13284,6 +13509,7 @@ Infertile-1",,0,0
 "LT15; specimen in tact, Nest sit",,0,0
 "LT15; specimen in tact, Nest site in 6 exclosure",,0,0
 "LV","larva",0,1
+"LY OSSIFIED",,0,0
 "M","unknown",0,1
 "M (BASED ON PLUMAGE)","unknown",0,1
 "M [Ad]",,0,0
@@ -13344,6 +13570,7 @@ Infertile-1",,0,0
 "Male 51 mm SVL",,0,0
 "MALE ADULT",,0,0
 "Male by plumage",,0,1
+"male in transitional plumage",,0,0
 "Male incubating about 10 AM",,0,1
 "Male incubating. Eggs missing.",,0,1
 "Male of pair",,0,0
@@ -13373,6 +13600,7 @@ Infertile-1",,0,0
 "MATURE MALE",,0,0
 "May",,0,0
 "May be immature or changing male",,0,0
+"MAY BE SUBADULT",,0,0
 "May have collected before clutch",,0,0
 "May have collected before clutch complete",,0,0
 "meaty",,0,0
@@ -13550,6 +13778,7 @@ Infertile-1",,0,0
 "natal cub",,0,0
 "NB",,0,0
 "ND","unknown",0,1
+"near breeding; Adult",,0,0
 "near complete",,0,0
 "near completion",,0,0
 "near fresh",,0,0
@@ -13614,6 +13843,7 @@ Infertile-1",,0,0
 "nearly started",,0,0
 "nearly to hatch",,0,0
 "nearlyone-half",,0,0
+"nearst adult",,0,0
 "neck of embryos formed",,0,0
 "Needs translatioin",,0,0
 "Nelt.",,0,0
@@ -13723,7 +13953,10 @@ Infertile-1",,0,0
 "Nestling Female","nestling",0,1
 "Nestling fledged",,0,0
 "Nestling Male","nestling",0,1
+"nestling or just fledged",,0,0
 "nestling(s)",,0,0
+"NESTLING,",,0,0
+"nestling, 8 days old",,0,0
 "NESTLING/FLEDGLING PLUMAGE; BURS",,0,0
 "NESTLING/FLEDGLING; BURSA 7 X 6 ",,0,0
 "NESTLING/SMALL FLEDGLING; BURSA ",,0,0
@@ -13737,6 +13970,7 @@ Infertile-1",,0,0
 "NESTLING; BURSA 7 X 6 MM",,0,0
 "NESTLING; BURSA CA. 6 X 3 MM",,0,0
 "NESTLING; BURSA NOT FOUND",,0,0
+"nestling; Immature",,0,0
 "Nestling; skull not oss.",,0,0
 "nestlings","nestling",0,1
 "Nestlings [Sex ?]","nestlings",0,1
@@ -14016,6 +14250,7 @@ Infertile-1",,0,0
 "no.",,0,0
 "Nof recorded",,0,0
 "Noi fertile",,0,0
+"non definitive plumage",,0,0
 "non feconde",,0,0
 "non incubated",,0,0
 "non vides",,0,0
@@ -14079,6 +14314,7 @@ Infertile-1",,0,0
 "Not Commenced",,0,0
 "not commensed",,0,0
 "not complete",,0,0
+"not determined",,0,0
 "Not entered",,0,0
 "Not even, but not advanced",,0,0
 "Not far advanced",,0,0
@@ -14097,6 +14333,7 @@ Infertile-1",,0,0
 "not heavy or holes would be larg",,0,0
 "not heavy or holes would be larger. He blew fresh ",,0,0
 "Not heavy; one dented",,0,0
+"not in definitive plumage",,0,0
 "not incubated",,0,0
 "not indicared",,0,0
 "not indicated",,0,0
@@ -14495,6 +14732,7 @@ Infertile-1",,0,0
 "One Whole egg; Pair failed at fu",,0,0
 "One Whole egg; Pair failed at full term incubation",,0,0
 "One with very large embryo",,0,0
+"ONE YEAR OLD",,0,0
 "One young ""pipped""",,0,0
 "One young hatched in wild",,0,0
 "One young hatched in wild (recyc",,0,0
@@ -14681,6 +14919,11 @@ Infertile-1",,0,0
 "Pipped; ready to hatch",,0,0
 "pipping",,0,0
 "pipping!!",,0,0
+"plumage as in RGM 1096",,0,0
+"plumage as in RGM 998",,0,0
+"plumage in transition",,0,0
+"plumage like RGM 986",,0,0
+"plumage same as RGM 981",,0,0
 "plumb fresh",,0,0
 "Plus Fragments",,0,0
 "porte",,0,0
@@ -14694,8 +14937,10 @@ fresh",,0,0
 "possible adult(s)",,0,0
 "Possible around 24 May 93",,0,0
 "possible juvenile(s)",,0,0
+"POSSIBLY A SECOND YEAR BIRD",,0,0
 "POSSIBLY ADULT","adult",0,1
 "Possibly crushed egg",,0,0
+"possibly female",,0,0
 "POSSIBLY IMMATURE","immature",0,1
 "Possibly incubation had not comm",,0,0
 "Possibly incubation had not commenced, but eggs we",,0,0
@@ -14755,9 +15000,11 @@ fresh",,0,0
 "Probably hatched",,0,0
 "Probably heavy",,0,0
 "Probably immature","immature",0,1
+"PROBABLY IMMATURE, SKULL NOT COM",,0,0
 "probably incomplete",,0,0
 "probably just begun",,0,0
 "PROBABLY JUVENILE","juvenile",0,1
+"PROBABLY ONE YEAR OLD",,0,0
 "PROBABLY SECOND YEAR","second year",0,1
 "Probably slight",,0,0
 "Probably sub-adult",,0,0
@@ -14813,6 +15060,7 @@ fresh",,0,0
 "PWSEGG15; eggshell section (fragments)",,0,0
 "PWSEGG16; eggshell section (Frag",,0,0
 "PWSEGG16; eggshell section (Fragments)",,0,0
+"q",,0,0
 "Quarter",,0,0
 "quit fresh",,0,0
 "Quite ""gebrutet""",,0,0
@@ -14935,12 +15183,22 @@ fresh",,0,0
 "SB",,0,0
 "Scant",,0,0
 "scarcely begun",,0,0
+"sco",,0,0
+"sco (doutbful)",,0,0
+"sco ?",,0,0
+"sco R.K.S.",,0,0
+"sco/ skull single",,0,0
+"sco/bill black",,0,0
+"sco/bill light in color",,0,0
+"sco?",,0,0
 "Secod year",,0,0
 "Second summer",,0,0
 "Second winter",,0,0
+"SECOND WINTER PLUMAGE",,0,0
 "SECOND WINTER; BURSA 14 X 9 MM",,0,0
 "Second year","Second year",1,1
 "second year (SY)",,0,0
+"SECOND YEAR BIRD",,0,0
 "second yr",,0,0
 "secondary incubation",,0,0
 "See card",,0,0
@@ -15144,6 +15402,7 @@ small embryos",,0,0
 "six fresh one ten days",,0,0
 "six fresh, two advanced",,0,0
 "sixteen days old.",,0,0
+"SK. 10 %",,0,0
 "skel",,0,1
 "skel.",,0,1
 "skeletal elements",,0,1
@@ -15188,13 +15447,16 @@ small embryos",,0,0
 "SKULL 0% OSS; BURSA FLESHY, 6 X ",,0,0
 "SKULL 0% OSS; BURSA NOT FOUND;",,0,0
 "SKULL 0% OSS; NO BURSA",,0,0
+"SKULL 0% OSSIFIED",,0,0
 "SKULL 1% OSS.; NO BURSA",,0,0
 "Skull 1/2 oss",,0,0
 "skull 1/2 ossified",,0,0
 "Skull 1/3 ossified",,0,0
 "skull 1/4 ossified",,0,0
+"SKULL 1/5 OSSIFIED",,0,0
 "SKULL 10 % OSS",,0,0
 "SKULL 10 % OSS; BURSA CA 2 X 2 M",,0,0
+"SKULL 10 % OSSIFIED",,0,0
 "Skull 10% oss",,0,0
 "SKULL -10% OSS",,0,0
 "SKULL 10% OSS.",,0,0
@@ -15233,6 +15495,7 @@ small embryos",,0,0
 "Skull 100% oss",,0,0
 "SKULL 100% OSS,",,0,0
 "Skull 100% oss.",,0,0
+"SKULL 100% OSS., NO BURSA",,0,0
 "SKULL 100% OSS.;",,0,0
 "SKULL 100% OSS.; ADULT ALTERNATE",,0,0
 "SKULL 100% OSS.; BURSA NOT FOUND",,0,0
@@ -15284,6 +15547,7 @@ small embryos",,0,0
 "Skull 100% ossified, over 2 years old",,0,0
 "Skull 100% ossified.",,0,0
 "SKULL 100% PNEUM",,0,0
+"SKULL 100% PNEUMATIZED",,0,0
 "SKULL 100% PNEUMATIZED; NO BURSA",,0,0
 "Skull 100% pssofoed",,0,0
 "Skull 100& oss.",,0,0
@@ -15331,6 +15595,7 @@ small embryos",,0,0
 "SKULL 25% OSS; BURSA THIN-WALLED",,0,0
 "SKULL 25% OSS; NO BURSA",,0,0
 "skull 25% ossified",,0,0
+"SKULL 3/4 OSSIFIED, ADULT",,0,0
 "SKULL 30% OSS; BURSA 3 X 4 MM;",,0,0
 "SKULL 30% OSS; BURSA FLESHY, 5 X",,0,0
 "SKULL 30% OSS; NO BURSA",,0,0
@@ -15339,6 +15604,7 @@ small embryos",,0,0
 "SKULL 35% OSS.",,0,0
 "Skull 35% ossified",,0,0
 "SKULL 40 % OSS",,0,0
+"SKULL 40 % OSS.",,0,0
 "SKULL 40% OSS",,0,0
 "SKULL 40% OSS; BURSA 8 X 10 MM, ",,0,0
 "SKULL 40% OSS; HUGE BURSA,",,0,0
@@ -15349,6 +15615,7 @@ small embryos",,0,0
 "SKULL 5 % OSS; BURSA 3 X 3 MM;",,0,0
 "SKULL 5 % OSS; BURSA 6 X 4 MM;",,0,0
 "SKULL 5 % OSS; NO BURSA",,0,0
+"SKULL 5 % OSSIFIED",,0,0
 "Skull 5% oss",,0,0
 "SKULL 5% OSS.; NO BURSA",,0,0
 "SKULL 5% OSS; BURSA 1 X 1 MM;",,0,0
@@ -15373,6 +15640,7 @@ small embryos",,0,0
 "SKULL 5% OSS; NO BURSA",,0,0
 "Skull 5% ossified",,0,0
 "Skull 5% ossified.",,0,0
+"SKULL 50 %",,0,0
 "SKULL 50 % OSS; BURSA NOT FOUND;",,0,0
 "SKULL 50 % OSS; NO BURSA",,0,0
 "Skull 50%",,0,0
@@ -15426,6 +15694,7 @@ small embryos",,0,0
 "skull 70% ossified",,0,0
 "Skull 70% ossified.",,0,0
 "Skull 70% pneumatized",,0,0
+"SKULL 75 % OSS.",,0,0
 "SKULL 75 % OSS; BURSA 3 X 2 MM;",,0,0
 "SKULL 75 % OSS; BURSA 4 X 3 MM;",,0,0
 "SKULL 75 % OSS; BURSA 4 X 3 MML",,0,0
@@ -15499,6 +15768,9 @@ small embryos",,0,0
 "skull 95% ossified",,0,0
 "Skull 97% ossified",,0,0
 "skull about 5% ossified",,0,0
+"SKULL ABOUT HALF DOUBLE LAYERED",,0,0
+"SKULL ADULT",,0,0
+"SKULL ALMOST COMPLETELY OSSIFIED",,0,0
 "SKULL CA 0% PNEUM",,0,0
 "SKULL CA 25% PNEUM",,0,0
 "SKULL CA 50% OSS; BURSA 5 X 3 MM",,0,0
@@ -15520,6 +15792,7 @@ small embryos",,0,0
 "SKULL CA.0% PNEUM",,0,0
 "SKULL CA.20% PNEUM",,0,0
 "SKULL CA.75% PNEUM",,0,0
+"SKULL CLEAR",,0,0
 "Skull closed",,0,0
 "Skull comletely ossified",,0,0
 "SKULL COMP. OSS",,0,0
@@ -15534,6 +15807,7 @@ small embryos",,0,0
 "Skull completely (?)",,0,0
 "SKULL COMPLETELY OSS",,0,0
 "skull completely ossified",,0,0
+"SKULL COMPLETELY OSSIFIED?",,0,0
 "SKULL COMPLETELY PNEUM",,0,0
 "Skull completely pneum.",,0,0
 "Skull completely pneumatixed",,0,0
@@ -15543,12 +15817,17 @@ small embryos",,0,0
 "SKULL DESTROYED",,0,0
 "Skull double",,0,0
 "Skull double (ossified)",,0,0
+"SKULL DOUBLE LAYERED",,0,0
 "skull doubled",,0,0
+"SKULL ENTIRELY GRANULAR BUT WITH",,0,0
 "skull few ossifed (sic)",,0,0
 "Skull few ossified",,0,0
 "skull few ossified (sic)",,0,0
 "Skull few ossified.",,0,0
+"SKULL FOUND TO BE OSSIFIED BY X-",,0,0
 "SKULL FULL PNEUM",,0,0
+"SKULL FULLY GRANULAR",,0,0
+"SKULL FULLY GRANULAR BUT WITH TR",,0,0
 "Skull fully oss",,0,0
 "Skull fully oss.",,0,0
 "skull fully ossifed",,0,0
@@ -15566,6 +15845,7 @@ small embryos",,0,0
 "SKULL FULLY PNEUM; BURSA NOT APP",,0,0
 "SKULL FULLY PNEUM; BURSA.",,0,0
 "skull fully pneumatized",,0,0
+"SKULL GRANULATED AT BASE",,0,0
 "SKULL HALF OSS",,0,0
 "Skull half ossified",,0,0
 "skull hard",,0,0
@@ -15582,25 +15862,35 @@ small embryos",,0,0
 "skull incompletely ossified",,0,0
 "Skull incompletely ossified.",,0,0
 "SKULL INCOMPLETELY PNEUMATIZED",,0,0
+"SKULL JUST STARTING TO OSSIFY PO",,0,0
 "Skull layer",,0,0
 "skull less than 30% ossified",,0,0
 "skull less than 5% ossified",,0,0
 "Skull lightly ossified",,0,0
 "Skull lssified",,0,0
 "SKULL MOSTLY DESTROYED, < 50% OS",,0,0
+"SKULL NEARLY OSSIFIED",,0,0
 "SKULL NO OSS; BURSA 89 X 6 MM ;",,0,0
 "skull no pneumatization",,0,0
 "skull no pnuematization",,0,0
+"SKULL NOT",,0,0
 "Skull not at all ossified",,0,0
 "Skull not closed",,0,0
 "SKULL NOT COMPL OSS",,0,0
 "SKULL NOT COMPLETELY OSS",,0,0
 "Skull not completely ossified",,0,0
+"SKULL NOT COMPLETELY OSSIFIED, F",,0,0
+"SKULL NOT COMPLETELY OSSIFIED, P",,0,0
+"SKULL NOT COMPLETELY OSSIFIED, S",,0,0
 "Skull not completely ossified.",,0,0
+"SKULL NOT COMPLETELY OSSIFIED; J",,0,0
+"SKULL NOT COMPLETELY OSSIFIED?",,0,0
+"SKULL NOT COMPLETELY PNEUMATICIZ",,0,0
 "SKULL NOT FULLY OSS",,0,0
 "skull not fully ossified",,0,0
 "Skull not fully ossified.",,0,0
 "Skull not fully ossified; first ",,0,0
+"skull not granular",,0,0
 "Skull not oss",,0,0
 "Skull not oss.",,0,0
 "Skull not oss. Large 184 mm",,0,0
@@ -15637,6 +15927,8 @@ small embryos",,0,0
 "skull ossified 100%",,0,0
 "skull ossified 30%",,0,0
 "Skull ossified 80%",,0,0
+"SKULL OSSIFIED, ADULT",,0,0
+"SKULL OSSIFIED, IMMATURE",,0,0
 "Skull ossified.",,0,0
 "Skull ossified. Ad",,0,0
 "Skull ossified;",,0,0
@@ -15655,13 +15947,18 @@ small embryos",,0,0
 "Skull partly pssofoed",,0,0
 "SKULL PNEUM",,0,0
 "SKULL PNEUMATIZED",,0,0
+"SKULL PROBABLY COMPLETELY OSSIFI",,0,0
+"SKULL PROBABLY GRANULAR",,0,0
+"SKULL PROBABLY NOT COMPLETELY OS",,0,0
 "Skull shot",,0,0
 "skull single",,0,0
 "Skull SNO Large 183 mm",,0,0
 "Skull SNOss Large 185 mm",,0,0
 "skull soft",,0,0
+"SKULL SUTURES CLOSED",,0,0
 "Skull trace",,0,0
 "Skull trace ossified",,0,0
+"SKULL UNOSS., BURSA 5 X 4 MM, FI",,0,0
 "skull unossified",,0,0
 "SKULL UNPNEUM",,0,0
 "SKULL UNPNEUMATIZED",,0,0
@@ -15671,9 +15968,11 @@ small embryos",,0,0
 "Skull well ossified",,0,0
 "Skull window",,0,0
 "Skull windows",,0,0
+"SKULL WINDOWS 9.2 X 9.5 MM, IMMA",,0,0
 "Skull windows across anterior",,0,0
 "skull windows present",,0,0
 "Skull windows.",,0,0
+"SKULL WITH SMALL CLEAR AREAS",,0,0
 "Skull: oss.",,0,0
 "SKULL_0% PNEUM",,0,0
 "SKULL>75% OSS; BURSA  2 X 1 MM;",,0,0
@@ -16194,6 +16493,17 @@ large embryos:",,0,0
 "small-med embryos",,0,0
 "smashed, small embryo",,0,0
 "Smull windows",,0,0
+"snco",,0,0
+"snco ?",,0,0
+"snco late",,0,0
+"snco, nearly complete",,0,0
+"snco, not ossified anteriorly",,0,0
+"snco, skull nearly open",,0,0
+"snco/ 1st year skull",,0,0
+"snco/base of bill bright yellow",,0,0
+"snco/bill black",,0,0
+"snco; Adult",,0,0
+"snco?",,0,0
 "SNFO",,0,0
 "SNFO 1 st winter",,0,0
 "SNFO ad",,0,0
@@ -16450,6 +16760,8 @@ Started",,0,0
 "sub ad.",,0,0
 "sub adult",,0,0
 "SUB ADULT [SY?] ; NO BURSA",,0,0
+"SUB ADULT BY PLUMAGE",,0,0
+"SUB ADULT,",,0,0
 "Sub Adult?","subadult",0,1
 "sub(?)adult",,0,0
 "sub.",,0,0
@@ -16503,6 +16815,7 @@ Started",,0,0
 "Sub-Adult [Male ?]","subadult",0,1
 "Sub-adult [Sex ?]","subadult",0,1
 "subadult \ adult",,0,0
+"SUBADULT BY PLUMAGE",,0,0
 "Subadult Female","subadult",0,1
 "Sub-adult Female","subadult",0,1
 "subadult juvenile",,0,0
@@ -16518,11 +16831,15 @@ Started",,0,0
 "SUBADULT PLUMAGE; BURSA NTO FOUN",,0,0
 "SUBADULT PLUMAGE; NO BURSA",,0,0
 "subadult subadult",,0,0
+"SUBADULT,",,0,0
 "Subadult, liver tissue taken",,0,0
+"SUBADULT, SKULL OSSIFIED",,0,0
 "SUBADULT, TRANSTION TO DEF. ADUL",,0,0
 "sub-adult/adult?",,0,0
+"subadult; 1st yr. ?",,0,0
 "Subadult; by skull characters",,0,0
 "Subadult; ca 1.5 yr",,0,0
+"subadult; Immature",,0,0
 "SUBADULT; NO BURSA",,0,0
 "SUB-ADULT; NO BURSA",,0,0
 "Sub-adult; skull not completely ",,0,0
@@ -16538,6 +16855,7 @@ Started",,0,0
 "SUB-DEFINITIVE PLUMAGE; NO BURSA",,0,0
 "SUBSADULT PLUMAGE (TAIL DARK); B",,0,0
 "Successful",,0,0
+"suco",,0,0
 "Suggestion",,0,0
 "suggestion of embryos",,0,0
 "Suggestion seen in 2 & fresh",,0,0
@@ -16559,6 +16877,8 @@ Started",,0,0
 "SY (BY PLUMAGE); NO BURSA",,0,0
 "SY ?",,0,0
 "SY by plumage",,0,0
+"SY imm",,0,0
+"SY or TY imm",,0,0
 "SY/TY",,0,0
 "SY/TY; BURSA 5 X 3 MM",,0,0
 "SY/TY; BURSA 7 X 5 MM",,0,0
@@ -16606,6 +16926,7 @@ Started",,0,0
 "SY? NO BURSA",,0,0
 "SY? SUB-ADULT PLUMAGE; NO BURSA",,0,0
 "SYM","SYM",0,1
+"t",,0,0
 "t.e.",,0,0
 "T.h.",,0,0
 "T37NR22ES3",,0,0
@@ -16636,6 +16957,8 @@ Started",,0,0
 "Tern 1/4; Grebe 1/4",,0,0
 "Tested fresh",,0,0
 "Tested fresh, but they lied.",,0,0
+"Testes 1 x 1 mm",,0,0
+"TESTES 3 X 8 MM",,0,0
 "TESTES BLACK, 2 X 1 MM",,0,0
 "Th",,0,0
 "The egg was dented when picked u",,0,0
@@ -16657,6 +16980,7 @@ Started",,0,0
 "Third summer",,0,0
 "Third winter",,0,0
 "THIRD YEAR","third year",1,1
+"Third year (plumage)",,0,0
 "Third.",,0,0
 "This egg lay about 35cm outside ",,0,0
 "This egg lay about 35cm outside of scrape which co",,0,0
@@ -16876,7 +17200,10 @@ Started",,0,0
 "TRANSFORMING",,0,0
 "TRANSFORMING AMMOECET",,0,0
 "Transforming larva",,0,0
+"transition from juv. to adult",,0,0
+"transition to adult male",,0,0
 "transitional Juv-basic 2","transitional Juv-basic 2",0,1
+"transitional plumage",,0,0
 "TRASFORMING",,0,0
 "tres advancee",,0,0
 "tres incubes",,0,0
@@ -16982,6 +17309,7 @@ Started",,0,0
 "Two slight; 2 infertile",,0,0
 "Two slight; two advanced",,0,0
 "Two slightly; 1 badly incubated",,0,0
+"TWO SMALL SKULL WINDOWS",,0,0
 "two third",,0,0
 "two thirds",,0,0
 "Two Thirds Advanced",,0,0
@@ -17072,6 +17400,8 @@ Started",,0,0
 "Unknown; from prior year",,0,0
 "Unknown; specimens dried",,0,0
 "Unkown","unknown",0,1
+"unossified",,0,0
+"unossified; Immature",,0,0
 "Unpaired female",,0,0
 "unsorted",,0,0
 "Unsuccessful",,0,0
@@ -17285,6 +17615,7 @@ Started",,0,0
 "very large embryos, almost ready to hatch",,0,0
 "Very large embryos, infertile",,0,0
 "Very large feathered embryos",,0,0
+"very late snco",,0,0
 "very light",,0,0
 "very little",,0,0
 "very mixed",,0,0
@@ -17377,6 +17708,7 @@ Started",,0,0
 "Very well incubated",,0,0
 "Very young",,0,0
 "Very young *",,0,0
+"VERY YOUNG WHEN COLLECTED IN DEC",,0,0
 "viable embryo",,0,0
 "viable embryo; 1/3 developed",,0,0
 "Vide embryos (?)",,0,0
@@ -17747,6 +18079,7 @@ Started",,0,0
 "X  7/6",,0,0
 "X130 Fresh, others broken",,0,0
 "XXX","unknown",0,1
+"Y OSSIFIED",,0,0
 "y.g. juven.",,0,0
 "yd",,0,0
 "yearling","yearling",1,1
@@ -17812,6 +18145,7 @@ Started",,0,0
 "young new born",,0,0
 "young newborn",,0,0
 "Young Observed",,0,0
+"YOUNG OF THE YEAR",,0,0
 "young of year",,0,0
 "young stillborn",,0,0
 "young young",,0,0

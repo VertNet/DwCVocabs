@@ -115,8 +115,12 @@ M[F]","unknown",0,1
 "(Male)","male",0,1
 "(Male)?","in question",0,1
 "(N)","unknown",0,1
+"(not determined)","unknown",0,1
+"(not determined), juvenile","unknown",0,1
 "(Sex Unknown)","unknown",0,1
 "(sex?)","in question",0,1
+"(undetermined)","unknown",0,1
+"(undetermined), juvenile","unknown",0,1
 "(unsexed)","unknown",0,1
 "*","unknown",0,1
 "--*","unknown",0,1
@@ -143,6 +147,7 @@ M[F]","unknown",0,1
 "? F","in question",0,1
 "? IMM","unknown",0,1
 "? JUV","in question",0,1
+"? juv.","unknown",0,1
 "? M","in question",0,1
 "? M.","in question",0,1
 "?*","in question",0,1
@@ -497,6 +502,7 @@ M[F]","unknown",0,1
 "Brown nuptial pads, throat yello",,0,1
 "brown nuptial pads, yellow throa",,0,1
 "captive for ca 1 year",,0,1
+"cat. says M, label says M; mount","male",0,1
 "Cochise",,0,1
 "D","unknown",0,1
 "dark phase",,0,1
@@ -509,6 +515,7 @@ M[F]","unknown",0,1
 "dorsum olive with scattered brow",,0,1
 "downy","unknown",0,1
 "Downy Young [Sex ?]","in question",0,1
+"EGG",,0,1
 "Egg masses",,0,1
 "Eggs",,0,1
 "EMB 1 emb. 18mm","female",0,1
@@ -517,15 +524,25 @@ M[F]","unknown",0,1
 "F","female",0,1
 "F-","female",0,1
 "F  [=M]","unknown",0,1
+"F  [F struck through]","female",0,1
+"F  juvenile","female",0,1
 "F !","female",0,1
+"F & 2 juv.","female",0,1
 "F (? M)","in question",0,1
 "F (?)","in question",0,1
 "F (=?)","in question",0,1
 "F (=M)","unknown",0,1
+"F (1st year)","female",0,1
 "F (by dissection)","female",0,1
+"F (cat. lists as F juv.)","female",0,1
+"F (cat. says none, looks like F)","female",0,1
+"F (cataloged M)","female",0,1
+"F (dark)","female",0,1
+"F (light)","female",0,1
 "F (M ?)","in question",0,1
 "F (M juv.)","unknown",0,1
 "F (M)","unknown",0,1
+"F (originally cataloged as F)","female",0,1
 "F (with curved line resting on t","female",0,1
 "F )?)","in question",0,1
 "F *","female",0,1
@@ -551,6 +568,7 @@ M[F]","unknown",0,1
 "F [=M?]","in question",0,1
 "F [=M]","unknown",0,1
 "'F' [=M]","unknown",0,1
+"F [01710 cataloged as M, 35517 a","female",0,1
 "F [F M]","unknown",0,1
 "F [F]","female",0,1
 "F [illeg.]","female",0,1
@@ -558,11 +576,13 @@ M[F]","unknown",0,1
 "f [juvenile]","female",0,1
 "F [likely a M]","male",0,1
 "F [M ?]","in question",0,1
+"F [M listed on tag]","female",0,1
 "F [M!]","unknown",0,1
 "F [M?]","in question",0,1
 "F [M]","unknown",0,1
 "'F' [M]","unknown",0,1
 "F [M] ?","in question",0,1
+"F [M] CHECK","female",0,1
 "F [M]!","unknown",0,1
 "F [M=]","unknown",0,1
 "F [perhaps M ?]","in question",0,1
@@ -578,6 +598,7 @@ M[F]","unknown",0,1
 "F =M ?","in question",0,1
 "F AD","female",0,1
 "F Adu.","female",0,1
+"F adult","female",0,1
 "F AHY","female",0,1
 "F br","female",0,1
 "F br.","female",0,1
@@ -585,12 +606,17 @@ M[F]","unknown",0,1
 "F by dissection","female",0,1
 "F F","female",0,1
 "F IMM","female",0,1
+"F imm.","female",0,1
 "F JUV","female",0,1
 "F JUV.","female",0,1
+"F juv. winter phase","female",0,1
+"F juv.nestl","female",0,1
 "F JUV?","in question",0,1
+"F juvenile","female",0,1
 "F M","female | male",0,1
 "F M ?","in question",0,1
 "F mate of #358","female",0,1
+"F nestling","female",0,1
 "F o.n.e.","female",0,1
 "F o.s.e.","female",0,1
 "F or (M juv)","unknown",0,1
@@ -615,9 +641,11 @@ M[F]","unknown",0,1
 "F(M)","unknown",0,1
 "F(M?)","in question",0,1
 "F*","female",0,1
+"F, ""juv""","female",0,1
 "f, adult","female",0,1
 "F, ägg","female",0,1
 "F, by dissection","female",0,1
+"F, imm.","female",0,1
 "f, immature","female",0,1
 "f, juvenile","female",0,1
 "F, M, U","female, male, unknown",0,1
@@ -636,13 +664,16 @@ M[F]","unknown",0,1
 "F/M","unknown",0,1
 "F/NESTLING","female",0,1
 "F; confirmed by dissection","female",0,1
+"F; imm.","female",0,1
 "F?","in question",0,1
 "F-?","in question",0,1
 "F? M juv","in question",0,1
+"F? M? [M]",,0,1
 "F?(M juv)","in question",0,1
 "F?(M)","in question",0,1
 "F?)","in question",0,1
 "F?*","in question",0,1
+"F?, imm.","female",0,1
 "F?, juv","in question",0,1
 "F?/AD","in question",0,1
 "F?/FLEDGLING","in question",0,1
@@ -650,6 +681,7 @@ M[F]","unknown",0,1
 "F??","in question",0,1
 "F?[=M]","in question",0,1
 "F?[M]","in question",0,1
+"F?adult-short tusks","female",0,1
 "F?M","in question",0,1
 "F[* with ? below *]","in question",0,1
 "F[?]","in question",0,1
@@ -770,6 +802,7 @@ M[F]","unknown",0,1
 "Female, gravid","female",0,1
 "Female, gravid w/ 42 eggs","female",0,1
 "Female, laid 27 eggs Aug 24, 198","female",0,1
+"female, male","female, male",1,1
 "Female, nest","female",0,1
 "Female, ova 5mm","female",0,1
 "Female, ova enlarged","female",0,1
@@ -848,6 +881,7 @@ M[F]","unknown",0,1
 "hembra no lac","female",0,1
 "hembra preg 2-2 emb 15mm","female",0,1
 "hembra SA","female",0,1
+"HERMAPHRODI","hermaphrodite",0,1
 "hermaphrodite","hermaphrodite",1,1
 "hg","unknown",0,1
 "hona","female",0,1
@@ -858,8 +892,12 @@ M[F]","unknown",0,1
 "IMF","unknown",0,1
 "IMM","unknown",0,1
 "IMM ?","unknown",0,1
+"imm F","female",0,1
 "imm.",,0,1
+"Imm. (cat. lists M adult)","male",0,1
+"imm. F","female",0,1
 "IMM. FEMALE?","in question",0,1
+"imm.?","unknown",0,1
 "IMM?","unknown",0,1
 "immature",,0,1
 "Immature (HY) Female","female",0,1
@@ -871,6 +909,8 @@ M[F]","unknown",0,1
 "Immature Female","female",0,1
 "Immature Female ?","in question",0,1
 "Immature Male","male",0,1
+"immature Male, juvenile (calf)","male",0,1
+"immature, nestling",,0,1
 "ind","unknown",0,1
 "Indeterminate","unknown",0,1
 "J","unknown",0,1
@@ -881,7 +921,10 @@ M[F]","unknown",0,1
 "juv","unknown",0,1
 "JUV ?","unknown",0,1
 "juv.","unknown",0,1
+"Juv. (cat. lists as F pul)","female",0,1
+"Juv. Nestling",,0,1
 "JUV.?","unknown",0,1
+"juv.nestln",,0,1
 "JUV?","unknown",0,1
 "Juvenil","unknown",0,1
 "juvenile","unknown",0,1
@@ -953,9 +996,12 @@ M[F]","unknown",0,1
 "M-","male",0,1
 "'M '","male",0,1
 "M -","male",0,1
+"M  juvenile","male",0,1
+"M - the symbol is upside down","male",0,1
 "M !","male",0,1
 "M ! F","unknown",0,1
 "M ""hor""","male",0,1
+"M & F","male, female",0,1
 "M (?)","in question",0,1
 "M (?) (M)","in question",0,1
 "M (=F ?)","in question",0,1
@@ -964,11 +1010,16 @@ M[F]","unknown",0,1
 "M (by dissection)","male",0,1
 "m (by plumage)","male",0,1
 "M (castrate)","male",0,1
+"M (cat lists as F, looks like M ","male",0,1
+"M (dark)","male",0,1
 "M (F ?)","in question",0,1
 "M (F!)","unknown",0,1
 "M (F(","unknown",0,1
 "M (F)","unknown",0,1
+"M (imm.?)","male",0,1
 "M (info from tissue tube)","male",0,1
+"M (juv.)","male",0,1
+"M (light)","male",0,1
 "M ?","in question",0,1
 "M ? (F)","in question",0,1
 "M ? [=F]","in question",0,1
@@ -980,6 +1031,7 @@ M[F]","unknown",0,1
 "M ? =[F]","in question",0,1
 "M ? F","in question",0,1
 "M ? F ?","in question",0,1
+"M -? orig. SUI tag bears dual ma","male",0,1
 "M ??","in question",0,1
 "M ?[=F]","in question",0,1
 "M ?[F]","in question",0,1
@@ -994,6 +1046,7 @@ M[F]","unknown",0,1
 "M [apparantly F]","unknown",0,1
 "M [by plumage","male",0,1
 "M [by plumage]","male",0,1
+"M [cataloged as F]","male",0,1
 "M [F ?]","in question",0,1
 "M [F!]","unknown",0,1
 "M [F?]","in question",0,1
@@ -1002,19 +1055,24 @@ M[F]","unknown",0,1
 "M [F]!","unknown",0,1
 "M [illeg. ?]","in question",0,1
 "M [illeg]","male",0,1
+"M [listed in Catalog as F]","male",0,1
 "M [M]","male",0,1
 "M [on coll label]","male",0,1
 "M [or F]","unknown",0,1
+"M [orig. cataloged as F]","male",0,1
 "M [perhaps a F]","in question",0,1
 "M [perhaps F?]","in question",0,1
 "M [prob. a F]","female",0,1
 "M [prob. F]","female",0,1
+"M [tag: ""sed M""?]","male",0,1
 "M +","male",0,1
 "M + U","male, unknown",0,1
 "M ++","male",0,1
 "M = [F]","unknown",0,1
 "M = F","unknown",0,1
 "M AD","male",0,1
+"M adolescent","male",0,1
+"M adult","male",0,1
 "M br","male",0,1
 "M br.","male",0,1
 "M by call [?]","male",0,1
@@ -1025,7 +1083,18 @@ M[F]","unknown",0,1
 "M ext.","male",0,1
 "M F","unknown",0,1
 "m g","male",0,1
+"M im.","male",0,1
+"M imm","male",0,1
+"M imm.","male",0,1
+"M imm.?","male",0,1
+"M immature","male",0,1
 "M JUV","male",0,1
+"M juv.","male",0,1
+"M juv. (fledgling)","male",0,1
+"M juv. [adolescent]","male",0,1
+"M juv.?","male",0,1
+"M juv.nestl","male",0,1
+"M juvenile","male",0,1
 "M M","male",0,1
 "M mate of # 357","male",0,1
 "M NESTLING","male",0,1
@@ -1043,6 +1112,9 @@ M[F]","unknown",0,1
 "M Yg","male",0,1
 "M Yg,","male",0,1
 "M yng","male",0,1
+"M young","male",0,1
+"M
+","male",0,1
 "M!","male",0,1
 "M(?)","in question",0,1
 "m(?), adult","in question",0,1
@@ -1053,12 +1125,16 @@ M[F]","unknown",0,1
 "M(i.e. upside down ""F"")","unknown",0,1
 "M*","male",0,1
 "M* with [?] written in pencil af","in question",0,1
+"M, 1st year","male",0,1
 "m, 2nd-year","male",0,1
 "m, adult","male",0,1
 "M, by dissection","male",0,1
+"M, imm.","male",0,1
 "m, immature","male",0,1
 "M, JUV","male",0,1
+"M, juv.","male",0,1
 "m, juvenile","male",0,1
+"M, juvenile?","male",0,1
 "M,F","unknown",0,1
 "M.","male",0,1
 "m. adult","male",0,1
@@ -1071,9 +1147,13 @@ M[F]","unknown",0,1
 "M/juvenile","male",0,1
 "M/NESTLING","male",0,1
 "M; confirmed by dissection","male",0,1
+"M; imm.","male",0,1
 "M?","in question",0,1
 "M-?","in question",0,1
+"M? (indicated on mount)","male",0,1
 "M? *","in question",0,1
+"M? adult-long tusks","male",0,1
+"M? juvenile","male",0,1
 "M? or M","in question",0,1
 "M?(F)","in question",0,1
 "M?(Fjuv.)","in question",0,1
@@ -1209,10 +1289,13 @@ M[F]","unknown",0,1
 "MISSING",,0,1
 "missing tail and legs",,0,1
 "Mixed Sexes","female | male",0,1
+"M-juv.","male",0,1
+"M--looks F 4/2011ceo","male",0,1
 "MM","male",0,1
 "Mm.","male",0,1
 "Mn","male",0,1
 "Mn.","male",0,1
+"mo data","unknown",0,1
 "Mother to UAZ 35197-35208","female",0,1
 "N","unknown",0,1
 "n.s.","unknown",0,1
@@ -1220,6 +1303,7 @@ M[F]","unknown",0,1
 "N/A","unknown",0,1
 "NA","unknown",0,1
 "Neonate",,0,1
+"Nest. juv.",,0,1
 "Nesting Colony",,0,1
 "Nestling [Female ?]","in question",0,1
 "Nestling [Sex ?]","in question",0,1
@@ -1233,12 +1317,15 @@ M[F]","unknown",0,1
 "no sex","unknown",0,1
 "no sex given","unknown",0,1
 "None",,0,1
+"not determined","unknown",0,1
 "not found","unknown",0,1
+"not listed","unknown",0,1
 "not recorded","unknown",0,1
 "not sexed","unknown",0,1
 "NOTES",,0,1
 "NR","unknown",0,1
 "O","unknown",0,1
+"O (CMJ catalog lists as undeterm","unknown",0,1
 "o ?","in question",0,1
 "O.B","unknown",0,1
 "o/p","unknown",0,1
@@ -1287,7 +1374,9 @@ M[F]","unknown",0,1
 "SVL 181 mm, tail 67 mm",,0,1
 "SVL 449 mm, Tail 770 mm, 1979g",,0,1
 "Tadpoles","unknown",0,1
+"tagged M, bag note and orig. d/b","male",0,1
 "Term embryos",,0,1
+"testes","male",0,1
 "throat balck, belly salt and pep",,0,1
 "throat black; white line from ti",,0,1
 "throat white",,0,1
@@ -1346,6 +1435,7 @@ M[F]","unknown",0,1
 "Ventral scales powder blue; whit",,0,1
 "ventral scales yellowish-cream w",,0,1
 "Ventrals white & powder blue on ",,0,1
+"winter phase",,0,1
 "with light turquoise dorsal spec",,0,1
 "X",,0,1
 "xxx","unknown",0,1
