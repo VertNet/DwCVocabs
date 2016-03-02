@@ -18,6 +18,7 @@
 " fresh",,0,0
 " fresh - commenced",,0,0
 " fresh, begun",,0,0
+" HY",,0,0
 " HY; BURSA 3.5 X 2.5 MM",,0,0
 " Immature","immature",0,1
 " NO BURSA; SKULL 100% OSS.",,0,0
@@ -252,6 +253,7 @@
 "#'s 1,2,4,5 and 6 small embryos, 3 fresh",,0,0
 "#'s1,2,4 Showing blood, #3 fresh",,0,0
 "(?)",,0,0
+"(?)juv.",,0,0
 "(1 broken) Fresh",,0,0
 "(1 yr.)",,0,0
 "(1) day old",,0,0
@@ -300,8 +302,11 @@
 "(j?)","juvenile",0,1
 "(Jh)","juvenile",0,1
 "(juv)","juvenile",0,1
+"(juv)?",,0,0
 "(Juv. ?)","juvenile",0,1
 "(Juv.)","juvenile",0,1
+"(juv.)?",,0,0
+"(juv.?)",,0,0
 "(juv?)","juvenile",0,1
 "(juvenal X 1st winter)","juvenile",0,1
 "(laying)","adult",0,1
@@ -353,6 +358,7 @@
 "??","unknown",0,1
 "?Ad",,0,0
 "?Adult",,0,0
+"?im",,0,0
 "?Juvenile",,0,0
 "?Young",,0,0
 "@ 8 days",,0,0
@@ -399,6 +405,7 @@
 "[aestiv.]",,0,0
 "[Age ?] [Sex ?]","unknown",0,1
 "[Age ?] Male","unknown",0,1
+"[AHY]",,0,0
 "[Albino]",,0,0
 "[app. a dull Ad.]",,0,0
 "[Autumn or Immature]",,0,0
@@ -417,6 +424,7 @@
 "[Foetus]",,0,0
 "[head only]",,0,0
 "[hepatic]",,0,0
+"[HY]",,0,0
 "[illeg]?",,0,0
 "[im - ad]",,0,0
 "[Im.",,0,0
@@ -613,6 +621,7 @@
 "0-3 Days",,0,0
 "0-4 days",,0,0
 "0-4 veckor",,0,0
+"06may1947",,0,0
 "0-b-b",,0,0
 "0-b-b-I",,0,0
 "½ Ad. 2nd yr.",,0,0
@@ -1103,6 +1112,7 @@
 "1 host egg pecked and stuck to l",,0,0
 "1 host slightly incubated, 1 hos",,0,0
 "1 HOUR OLD",,0,0
+"1 hr.",,0,0
 "1 immature",,0,0
 "1 inc; 4 rotten",,0,0
 "1 incubated (2 young)",,0,0
@@ -1873,6 +1883,7 @@ begun",,0,0
 "1387-88 fresh; 1389 very slight",,0,0
 "1390-91 fresh; 1392 very slight;",,0,0
 "1390-91 fresh; 1392 very slight; 1393 slight and d",,0,0
+"13days",,0,0
 "14",,0,0
 "14 Days",,0,0
 "1-4 days",,0,0
@@ -1907,6 +1918,8 @@ begun",,0,0
 "1457-58 fresh; 1459 slight",,0,0
 "14D",,0,0
 "14day min.",,0,0
+"14days",,0,0
+"14th calendar year",,0,0
 "15",,0,0
 "15 ADULT; 7 JUVENILE",,0,0
 "15 adults",,0,0
@@ -2076,6 +2089,7 @@ begun",,0,0
 "1st yr",,0,0
 "1st yr.",,0,0
 "1st yr. Male",,0,0
+"1st yr. Spr",,0,0
 "1st yr.?",,0,0
 "1st yr?",,0,0
 "1st.",,0,0
@@ -2775,6 +2789,7 @@ begun",,0,0
 "2036-37 moderate",,0,0
 "2046 moderate",,0,0
 "20K",,0,0
+"20Y",,0,0
 "2½ yr. ? Ad.",,0,0
 "21",,0,0
 "21 ADULT; 3 JUVENILE",,0,0
@@ -2859,6 +2874,8 @@ begun",,0,0
 "24 days old",,0,0
 "24 hours",,0,0
 "24 hours - fresh",,0,0
+"24 hrs",,0,0
+"24 hrs.",,0,0
 "24 months",,0,0
 "2-4 wks",,0,0
 "24.7 g",,0,0
@@ -3272,6 +3289,7 @@ begun",,0,0
 "3 medium",,0,0
 "3 moderate embryos, 1 infertile",,0,0
 "3 moderate, 2 infertile",,0,0
+"3 mos approx.",,0,0
 "3 Nestlings Fledged",,0,0
 "3 Newly Hatched + 1 Addled Eggs",,0,0
 "3 none, 1 blood",,0,0
@@ -3524,6 +3542,7 @@ begun",,0,0
 "3795 slight",,0,0
 "38 ADULT; 10 JUVENILE",,0,0
 "38 ADULT; 16 JUVENILE",,0,0
+"38 days",,0,0
 "38.",,0,0
 "3873 depredated",,0,0
 "3875, 3877 fresh",,0,0
@@ -3821,7 +3840,9 @@ begun",,0,0
 "4345-46 slight",,0,0
 "43g",,0,0
 "44 larvae",,0,0
+"44 or 45 days",,0,0
 "4-4-4",,0,0
+"44-45 days",,0,0
 "4-4-4-6",,0,0
 "4447 very slight; 4448 slight; 4",,0,0
 "4447 very slight; 4448 slight; 4449 slight-dead/de",,0,0
@@ -3875,6 +3896,7 @@ begun",,0,0
 "4-8 år",,0,0
 "4-8 days",,0,0
 "48 days; Immature",,0,0
+"48 hrs.",,0,0
 "48 months",,0,0
 "4809 moderate",,0,0
 "4812 moderate",,0,0
@@ -3931,6 +3953,7 @@ begun",,0,0
 "5 days exactly",,0,0
 "5 days incubated",,0,0
 "5 days incubatedd",,0,0
+"5 days old",,0,0
 "5 days on last (2nd) egg",,0,0
 "5 days post laying",,0,0
 "5 days, 2 infertile",,0,0
@@ -4054,6 +4077,7 @@ begun",,0,0
 "5K",,0,0
 "5K+",,0,0
 "5to 6 days",,0,0
+"5Y",,0,0
 "5yrs",,0,0
 "6",,0,0
 "6 - 9 days",,0,0
@@ -4247,6 +4271,7 @@ begun",,0,0
 "8-10 days advanced",,0,0
 "8-10 jours",,0,0
 "8-10 mos.",,0,0
+"8-10 wks. old",,0,0
 "8-12 days",,0,0
 "83 d",,0,0
 "88",,0,0
@@ -4886,6 +4911,7 @@ ACC: 20",,0,0
 "Ad.*",,0,0
 "ad.?",,0,0
 "Ad.Ad.",,0,0
+"ad/",,0,0
 "Ad/ ?",,0,0
 "ad/sa",,0,0
 "ad:",,0,0
@@ -6720,6 +6746,7 @@ warbler's dent",,0,0
 "Av.",,0,0
 "Avanced",,0,0
 "Avout 1/3 advanced",,0,0
+"AY",,0,0
 "AYY",,0,0
 "b",,0,0
 "B (?)",,0,0
@@ -8428,6 +8455,7 @@ Trace.",,0,0
 "don't know yet",,0,0
 "DOUBLE LAYERED SKULL",,0,0
 "dourny Juv. [illeg.]",,0,0
+"Down",,0,0
 "Down forming on embryos",,0,0
 "Down Started",,0,0
 "downey Juv.",,0,0
@@ -11070,6 +11098,7 @@ Sowing blood-1",,0,0
 "hembra SA","subadult",0,1
 "hemipenes",,0,0
 "HEN PLUMAGE; BURSA NOT FOUND (DA",,0,0
+"HI",,0,0
 "high",,0,0
 "high degree",,0,0
 "Highly",,0,0
@@ -11486,15 +11515,18 @@ Sowing blood-1",,0,0
 "Illegible (see card)",,0,1
 "illegible or not recorded",,0,0
 "Im","immature",0,1
+"im (?)",,0,0
 "im (HY)",,0,0
 "IM (SY)",,0,0
 "Im ?",,0,0
+"im(?)",,0,0
 "Im.",,0,0
 "Im. ?",,0,0
 "Im. [=Juv.]",,0,0
 "Im. 1 yr.",,0,0
 "Im. 2 yr.",,0,0
 "im.(?)",,0,0
+"im..",,0,0
 "im.?",,0,0
 "im?",,0,0
 "IMM","immature",0,1
@@ -12254,6 +12286,7 @@ Sowing blood-1",,0,0
 "juv. That had just fledged",,0,0
 "juv. to small ad.","juvenile, young adult",0,1
 "juv.!",,0,0
+"juv.(?)",,0,0
 "juv., 2 wks. old",,0,0
 "JUV./SY PLUMAGE; BURSA 11 X 8 MM",,0,0
 "JUV.; BURSA 5 X 6 MM",,0,0
@@ -16948,6 +16981,7 @@ Started",,0,0
 "taken place",,0,0
 "Taken when bird began to sit",,0,0
 "taking place",,0,0
+"TE.",,0,0
 "ten - twelve days",,0,0
 "Ten Days",,0,0
 "Ten days.",,0,0
@@ -17070,6 +17104,7 @@ Started",,0,0
 "Tissue-Tail tip",,0,0
 "Tissue-Tail tip taken",,0,0
 "TL:Br; WCH:103mm; TS:21.3mm; CUL",,0,0
+"TNE",,0,0
 "to","unknown",0,1
 "To blood",,0,0
 "To blood in all",,0,0
@@ -18100,6 +18135,7 @@ Started",,0,0
 "yg.",,0,0
 "Yg. ?",,0,0
 "Yg:still suckling.",,0,0
+"yng",,0,0
 "yng adult",,0,0
 "yng.",,0,0
 "Yolk adhering to shell",,0,0

@@ -7,6 +7,7 @@
 " 70% EtOH","70% alcohol",0,1
 " 70% ETOH + C&S",,0,0
 " Ca. half tibiofibula.",,0,0
+" complete skeleton, tissue",,0,0
 " L","complete skeleton",0,1
 " L | tissue","complete skeleton | tissue",0,1
 " N","round skin",0,1
@@ -1027,6 +1028,7 @@
 "/TOOTH,TOOTH FRAGS",,0,0
 "/TOOTH,TOOTH/",,0,0
 "/TUSK",,0,0
+";",,0,0
 "?","unknown",0,1
 "? - 1",,0,0
 "? | alcoholic | skeleton",,0,0
@@ -1244,6 +1246,7 @@
 "[Radio-ulna]",,0,0
 "[Scapula (spine fragment?)]",,0,0
 "[scapulo-coracoid]",,0,0
+"[skin, tissue]",,0,0
 "[Skull + post-cranial]",,0,0
 "[Skull fragment?]",,0,0
 "[skull only] NOT FOUND IN COLLECTION MAY 08",,0,0
@@ -2216,6 +2219,7 @@
 "2nd. phalanx",,0,0
 "2R DENTARY FRAGS, FRAG L DENTARY",,0,0
 "2R P/,3L M/,2R M/,2/R M,/R M3",,0,0
+"3",,0,0
 "3 - 70% ETHANOL; 1 - DRY",,0,0
 "3 alc emb",,0,0
 "3 alc emb | tissue",,0,0
@@ -2675,6 +2679,7 @@
 "600 in 70% EtOH",,0,0
 "61 in 70% EtOH",,0,0
 "61 in 70% EtOH; 10 in C&S",,0,0
+"61597",,0,0
 "617 in 70% EtOH",,0,0
 "62 in 70% EtOH",,0,0
 "624 in 70% EtOH",,0,0
@@ -7915,6 +7920,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "BONES,TOOTH",,0,0
 "BONES,VERTEBRA",,0,0
 "Boreträtt",,0,0
+"both wings/tissue saved",,0,0
 "bottom jaw frag w/ m2",,0,0
 "bottom left carnassial",,0,0
 "bottom left jaw frag w/ carnassial",,0,0
@@ -9601,6 +9607,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "COMPL & INCOMPL LWR CHEEK TEETH",,0,0
 "compl R lwr mand+ L dentary",,0,0
 "compl skeleton",,0,0
+"complete",,0,0
 "complete  skel",,0,0
 "complete  skel | tissue",,0,0
 "complete  skeleton",,0,0
@@ -9691,10 +9698,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete skel; alc. gut | tissue",,0,0
 "complete skel; alc. gut,uterus | tissue",,0,0
 "complete skel; alc. skin",,0,0
+"complete skeletion, tissue",,0,0
 "complete skeleton",,0,0
 "complete skeleton - 1","complete skeleton - 1",0,1
 "complete skeleton & other",,0,0
 "complete skeleton & other | tissue",,0,0
+"complete skeleton (see remarks)",,0,0
 "complete skeleton | tissue",,0,0
 "complete skeleton + 6 alc eggs",,0,0
 "Complete skeleton only","complete skeleton",0,1
@@ -9702,6 +9711,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete skeleton, alcoholic, skin",,0,0
 "complete skeleton, baculum",,0,0
 "complete skeleton, complete skeleton",,0,0
+"complete skeleton, ectos, tissue saved",,0,0
 "complete skeleton, flat skin",,0,0
 "complete skeleton, flat skin, tissue",,0,0
 "complete skeleton, flat skin, tissue, wing",,0,0
@@ -9718,10 +9728,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete skeleton, skull",,0,0
 "complete skeleton, skull, other",,0,0
 "complete skeleton, skull, skin",,0,0
+"complete skeleton, tisseu",,0,0
 "complete skeleton, tissue",,0,0
 "complete skeleton, tissue - 1","complete skeleton | tissue - 1",0,1
+"complete skeleton, tissue saved",,0,0
 "complete skeleton, tissue, alcoholic",,0,0
+"complete skeleton, tissue, ecto",,0,0
+"complete skeleton, tissue, ectoparasites saved",,0,0
 "complete skeleton, tissue, flat skin",,0,0
+"complete skeleton, tissue, liver",,0,0
 "complete skeleton, tissue, other",,0,0
 "complete skeleton, tissue, skin",,0,0
 "complete skeleton, tissue, tissue",,0,0
@@ -9731,7 +9746,19 @@ R PERIPHERALS 2 - 3.",,0,0
 "complete skeleton, wing, other",,0,0
 "complete skeleton, wing, tissue",,0,0
 "complete skeleton, wing, tissue, flat skin",,0,0
+"complete skeleton,tissue",,0,0
+"complete skeleton/ tissue",,0,0
+"complete skeleton/sing/tissue saved",,0,0
+"complete skeleton/stom/tissue",,0,0
+"complete skeleton/stomach/tissue",,0,0
+"complete skeleton/tissue",,0,0
 "complete skeleton/tissue | tissue",,0,0
+"complete skeleton/tissue saved",,0,0
+"complete skeleton/wing/tissue",,0,0
+"complete skeleton/wing/tissue saved",,0,0
+"complete skeleton;",,0,0
+"complete skeleton; tissue",,0,0
+"Complete skelton/wing/tissue saved",,0,0
 "complete skull with partial dentary and petrotympanics",,0,0
 "Complete upper and lower dentition.",,0,0
 "complete/partial skull",,0,0
@@ -21498,6 +21525,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FEMUR NO EPIPHYSES L",,0,0
 "FEMUR NO HEAD L",,0,0
 "FEMUR ONE-THIRD PROX R",,0,0
+"femur only, mounted",,0,0
 "FEMUR OR HUMERUS",,0,0
 "FEMUR PART",,0,0
 "FEMUR PARTIAL SHAFT",,0,0
@@ -23580,6 +23608,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid, Y; Tissue, Y",,0,0
 "Fluid, Y; Tissue, Y; Syrinx, Y",,0,0
 "Fluid, Y; Wings_tail, Y",,0,0
+"fluid/tissue",,0,0
+"fluid/tissue/ectoparasites",,0,0
 "Fluid; Feather",,0,0
 "Fluid; Feather; Flat_skin; Feather",,0,0
 "Fluid; Feather; Flat_skin; Fluid",,0,0
@@ -26269,7 +26299,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "incomplete R+L dentary",,0,0
 "Incomplete shell",,0,0
 "INCOMPLETE SKELETON",,0,0
+"incomplete skeleton (skull only)",,0,0
 "Incomplete Skeleton only",,0,0
+"incomplete skeleton/ectoparasite/tissue",,0,0
 "INCOMPLETE SKULL",,0,0
 "Incomplete specimen (mounted, in spirit)",,0,0
 "Incomplete specimen (sectioned, in spirit)",,0,0
@@ -27119,6 +27151,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Kidneys + arteries + veins (in spirit)",,0,0
 "Kidneys etc. (in spirit)",,0,0
 "Kidneys, etc. (in spirit)",,0,0
+"king/wing/tissue/stomach saved",,0,0
 "KK",,0,0
 "KK | tissue",,0,0
 "Knee and ankle",,0,0
@@ -34149,6 +34182,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "midshaft humerus",,0,0
 "midshaft tibia",,0,0
 "MID-TRUNK VERTEBRA",,0,0
+"Mil",,0,0
 "MILK TEETH",,0,0
 "misc","miscellaneous",0,1
 "Misc - 1","miscellaneous",0,1
@@ -34673,6 +34707,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Mount/Skeleton","mount | skeleton",0,1
 "Mount/skull","mount | skull",0,1
 "Mount/skull/baculum/tissue","baculum | mount | skull | tissue",0,1
+"Mount/tissue",,0,0
 "mount; blood","blood | mount",0,1
 "mount?","mount",0,1
 "mount? - 1",,0,0
@@ -34888,6 +34923,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Mx/, left",,0,0
 "N","round skin",0,1
 "N | tissue","round skin | tissue",0,1
+"N/A",,0,0
 "N=1 70% ETHANOL/ SMALL JAR; N=1 CLEARED AND STAINED",,0,0
 "N=1 IN 95% ETHANOL/ SMALL JAR, N=1 IN 70% ETHANOL/ SMALL JAR, tissue",,0,0
 "N=2 IN 70% ETHANOL/ SMALL JAR; N=1 CLEARED AND STAINED",,0,0
@@ -35219,6 +35255,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "NON-FORMALIN FIXED--STORED IN 70% ETHANOL, tissue",,0,0
 "NOT GIVEN",,0,0
 "Not Mounted",,0,0
+"not provided",,0,0
 "NOT RECORDED",,0,0
 "Not recorded.",,0,0
 "not saved",,0,0
@@ -39071,6 +39108,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PARTIAL SKELETON (LACKS ANT. F","partial skeleton",0,1
 "partial skeleton (muscle); other (surrogate puppet)",,0,0
 "Partial Skeleton (no skull)",,0,0
+"partial skeleton (skull missing)",,0,0
 "partial skeleton [card catalog]; >1 indiv or taxon",,0,0
 "PARTIAL SKELETON | tissue",,0,0
 "Partial Skeleton + 2 Wings + Tail",,0,0
@@ -39110,6 +39148,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skeleton, juvenile",,0,0
 "partial skeleton, juvenile, in concretion",,0,0
 "Partial Skeleton, missing Skull",,0,0
+"partial skeleton, no skull",,0,0
 "partial skeleton, other",,0,0
 "partial skeleton, part and counterpart",,0,0
 "partial skeleton, partial jaw in matrix",,0,0
@@ -39124,6 +39163,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skeleton, skull",,0,0
 "Partial skeleton, skull and a few hairs",,0,0
 "partial skeleton, skull missing (mostly digested)",,0,0
+"partial skeleton, skull only",,0,0
 "partial skeleton, skull, baculum",,0,0
 "partial skeleton, skull, complete skeleton",,0,0
 "partial skeleton, skull, other",,0,0
@@ -39132,6 +39172,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skeleton, tail, wing","partial skeleton | tail | wing",0,1
 "PARTIAL SKELETON, tissue","partial skeleton | tissue",0,1
 "Partial Skeleton, Tissue (2) and Feet, skin",,0,0
+"partial skeleton, tissue, rectrices",,0,0
 "partial skeleton, tissue, round skin",,0,0
 "partial skeleton, tissue, round skin, wing",,0,0
 "partial skeleton, tissue, wing","partial skeleton | tissue | wing",0,1
@@ -39146,6 +39187,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Partial skeleton; flat skin","partial skeleton | flat skin",0,1
 "partial skeleton; head; foot; frozen: heart, muscle",,0,0
 "partial skeleton; jaws, skull frag, limb frags",,0,0
+"partial skeleton; skull on loan to exhibits",,0,0
 "Partial skeleton; tail","partial skeleton | tail",0,1
 "Partial skeleton; tail; tissue; wing","partial skeleton | tail | tissue | wing",0,1
 "Partial skeleton; tissue; flat skin","partial skeleton | flat skin | tissue",0,1
@@ -47106,9 +47148,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "round skin, wing, tissue - 1; round skin, wing, tissue - 1","round skin | tissue - 1 | wing",0,1
 "round skin, wing, tissue, partial skeleton",,0,0
 "round skin, wing, tissue, tissue",,0,0
+"round skin/wing/tissue saved",,0,0
 "round wing","round skin | wing",0,1
 "round wing | tissue",,0,0
 "round wing, tissue","round wing | tissue",0,1
+"round wing/skin/tissue saved",,0,0
 "round, tissue","round skin | tissue",0,1
 "round/egg set","egg set | round skin",0,1
 "round/egg set, tissue",,0,0
@@ -47983,6 +48027,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Side Skin + Skeleton",,0,0
 "sighting",,1,1
 "silicone mold of carapace",,0,0
+"Sin/wing/tissue",,0,0
 "single horn apparently - 1",,0,0
 "Single plate",,0,0
 "sisl","sisl",0,1
@@ -48003,6 +48048,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SK +T","skeleton | skin | tissue",0,1
 "SK* - 1",,0,0
 "SK, tissue","skull | tissue",0,1
+"sk/wg/tiss/stom saved",,0,0
 "Skal",,0,0
 "Skal, skulpt.",,0,0
 "ske/wing","skeleton | wing",0,1
@@ -52856,6 +52902,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELETON,SKULL",,0,0
 "SKELETON,SKULL,INCOMPL DENTARY",,0,0
 "SKELETON/ GILLS IN TANK 68, tissue",,0,0
+"skeleton/ tissue",,0,0
 "Skeleton/C&S","skeleton | cleared and stained",0,1
 "Skeleton/crown skin",,0,0
 "SKELETON/FEATHERS","skeleton | feathers",0,1
@@ -52869,11 +52916,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELETON/SKIN/WING/FEATHERS","skeleton | skin | wing | feathers",0,1
 "Skeleton/tissue",,0,0
 "skeleton/tissue | tissue",,0,0
+"skeleton/tissue saved",,0,0
+"skeleton/tissue/ectos",,0,0
+"skeleton/tissue/feathers",,0,0
 "SKELETON/WING","skeleton | wing",0,1
+"skeleton/wing/ectos/tissue saved",,0,0
 "SKELETON/WING/FEATHERS","skeleton | wing | feathers",0,1
 "SKELETON/WING/FOOT/FEATHERS","skeleton | wing | foot | feathers",0,1
+"skeleton/wing/stom/tissue saved",,0,0
 "SKELETON/WING/TAIL","skeleton | wing | tail",0,1
 "SKELETON/WING/TAIL/FEATHERS","skeleton | wing | tail | feathers",0,1
+"skeleton/wing/tissue",,0,0
+"skeleton/wing/tissue saved",,0,0
 "skeleton: cranium",,0,0
 "skeleton: cranium (not with 10875)",,0,0
 "skeleton: frontal bone",,0,0
@@ -52942,6 +52996,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELETON+LIMB BONE",,0,0
 "SKELETON+SKULL",,0,0
 "Skeleton+Wing","skeleton | wing",0,1
+"skeletonized/wing/tissue saved",,0,0
 "skeletons",,0,0
 "Skeletons (parts) + carapace",,0,0
 "Skeletons, incomplete (in spirit)",,0,0
@@ -52961,6 +53016,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKELTON, WING, FEATHERS","skeleton | wing | feathers",0,1
 "SKELTON, WING, TAIL","skeleton | wing | tail",0,1
 "SKELTON/WING","skeleton | wing",0,1
+"skelton/wing/tissue saved",,0,0
 "skin","skin",1,1
 "Skin'","skin",0,1
 "skin  (pelt)",,0,0
@@ -53739,6 +53795,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin ,Skel","skeleton | skin",0,1
 "Skin ,tissue","skin | tissue",0,1
 "Skin ,wing ,Skel","skeleton | skin | wing",0,1
+"skin / wing/ tissue saved",,0,0
+"skin / wing/ tissue/ stom saved",,0,0
 "skin ?",,0,0
 "Skin [+ Trunk Skeleton ?]",,0,0
 "skin | skin | skull",,0,0
@@ -53989,6 +54047,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin round; skeleton; tissue frozen",,0,0
 "skin sample",,0,0
 "skin sample, bone sample, tissue",,0,0
+"skin saved",,0,0
 "skin tanned/skel/scalp","scalp | skeleton | tanned skin",0,1
 "skin to Skin 23883",,0,0
 "Skin to Skull #23930",,0,0
@@ -71421,6 +71480,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, Tissue number Y",,0,0
 "skin, Tissue number Y at LSU",,0,0
 "skin, Tissue number Y at Univ. Georgia",,0,0
+"skin, tissue saved",,0,0
 "Skin, tissue T-195; Tissue, tissue T-195",,0,0
 "Skin, tissue T-343; Tissue, tissue T-343",,0,0
 "Skin, tissue T-99; Tissue, tissue T-99",,0,0
@@ -71682,6 +71742,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, wing, and skeleton","skin | wing | skeleton",0,1
 "skin, wing, DNA & partial skeleton","DNA | partial skeleton | skin | wing",0,1
 "SKIN, WING, SKELETON","skin | wing | skeleton",0,1
+"skin, wing, stom, tissue saved",,0,0
+"skin, wing, tiss, stom",,0,0
+"skin, wing, tiss, stom saved",,0,0
+"skin, wing, tissue",,0,0
+"skin, wing, tissue saved",,0,0
+"skin, wing, tissue, stom",,0,0
+"skin, wing, tissue, stom saved",,0,0
 "Skin, wings removed, body washed, wings replaced, skin made up",,0,0
 "Skin, wings removed, body washed, wings replaced, skin made up, Y",,0,0
 "Skin, wings sewed together and left leg glued on. Jan. '51",,0,0
@@ -71733,6 +71800,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, wingspread, Tissue number 9313",,0,0
 "skin, wingspread, Tissue number 9384",,0,0
 "skin, wingspread, Tissue number 9743 at Smithsonian",,0,0
+"skin, wwing, tiss, stom saved",,0,0
 "Skin, Y",,0,0
 "Skin, Y'",,0,0
 "Skin, Y; Eggset, N",,0,0
@@ -71896,8 +71964,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Y; Wings_tail, Y; Tissue, Y; Syrinx, Y; Skel, Y",,0,0
 "Skin, Ys",,0,0
 "SKIN,SKELETON","skin | skeleton",0,1
+"skin,wing, tiss, stom saved",,0,0
+"skin,wing, tissue saved",,0,0
+"skin,wing,ectoparasites, tissue, stom saved",,0,0
 "skin. round; skeleton; tissue, frozen",,0,0
+"skin.wing/tissue saved",,0,0
 "skin/--",,0,0
+"skin/ wing/ tissue",,0,0
+"skin/ wing/ tissue saved",,0,0
+"skin/ wing/stom/tissue saved",,0,0
 "Skin/(1984 0112)Skel(1983 1102)",,0,0
 "Skin/(1984 1207)Skel",,0,0
 "skin//skull/skeleton/tissue | tissue",,0,0
@@ -71931,6 +72006,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin/partial skel/tissue | tissue",,0,0
 "skin/partial skeleton",,0,0
 "skin/partial skull",,0,0
+"skin/qing/tissue saved",,0,0
+"skin/R. wing/tissue saved (1 wing broken, discarded)",,0,0
 "skin/skel","skeleton | skin",0,1
 "skin/skel fragments","skeleton fragments | skin",0,1
 "Skin/Skel(1981 0202)",,0,0
@@ -72002,6 +72079,16 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin/skull/tissue",,0,0
 "skin/skull/tissue | tissue",,0,0
 "skin/skull?","skin | skull",0,1
+"skin/stom/tissue saved",,0,0
+"Skin/Tissue",,0,0
+"skin/tissue saved",,0,0
+"skin/tissue/ectoparasites",,0,0
+"skin/tissue/sing",,0,0
+"skin/tissue/stom/ectoparasites",,0,0
+"skin/tissue/wing",,0,0
+"skin/tissue/wing saved",,0,0
+"skin/tissue?",,0,0
+"skin/tissued",,0,0
 "Skin/toe clip - 1; Feather - 1","feather - 1",0,1
 "Skin/toe clip - 1; Feather - 1; Skin - 1","feather - 1 | skin - 1",0,1
 "Skin/toe clip - 1; Flat_skin - 1","flat skin - 1",0,1
@@ -72049,8 +72136,80 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin/whole skeleton? - 1",,0,0
 "skin/wing","skin | wing",0,1
 "skin/wing | tissue",,0,0
+"skin/wing saved",,0,0
+"skin/wing tissue save",,0,0
+"skin/wing tissue saved",,0,0
 "skin/wing, tissue","skin | tissue | wing",0,1
+"skin/wing/ tissue saved",,0,0
+"skin/wing/ecotparasites/tissue saved",,0,0
+"skin/wing/ectoparasites/tissue saved",,0,0
+"skin/wing/ectos/stom/tissue saved",,0,0
+"skin/wing/ectos/tissue saved",,0,0
 "SKIN/WING/SKELETON","skin | wing | skeleton",0,1
+"skin/wing/sont/tissue saved",,0,0
+"skin/wing/stom",,0,0
+"skin/wing/stom/ecots/tissue saved",,0,0
+"skin/wing/stom/ecto/tissue",,0,0
+"skin/wing/stom/ecto/tissue saved",,0,0
+"skin/wing/stom/ectos/ tissue saved",,0,0
+"skin/wing/stom/ectos/song/tissue",,0,0
+"skin/wing/stom/ectos/tissue",,0,0
+"skin/wing/stom/ectos/tissue saved",,0,0
+"skin/wing/stom/live/tissue saved",,0,0
+"skin/wing/stom/liver/ecots/tissue saved",,0,0
+"skin/wing/stom/liver/ectos/trachea/song/tissue",,0,0
+"skin/wing/stom/liver/ectos/trachea/tissue",,0,0
+"skin/wing/stom/liver/song/tissue",,0,0
+"skin/wing/stom/liver/tissue",,0,0
+"skin/wing/stom/liver/tissue saved",,0,0
+"skin/wing/stom/liver/trachea/ectos/song/tissue",,0,0
+"skin/wing/stom/liver/trachea/song/ectos/tissue",,0,0
+"skin/wing/stom/liver/trachea/song/tissue",,0,0
+"skin/wing/stom/liver/trachea/tissue",,0,0
+"skin/wing/stom/song/tissue",,0,0
+"skin/wing/stom/tissue",,0,0
+"Skin/Wing/Stom/Tissue saved",,0,0
+"Skin/Wing/Stom/Tissue saved.",,0,0
+"skin/wing/stom/tissue/ectos",,0,0
+"skin/wing/stom/tissue/trachea saved",,0,0
+"skin/wing/stom/trachea/ecto/tissue saved",,0,0
+"skin/wing/stom/trachea/liver/tissue",,0,0
+"skin/wing/stom/trachea/tissue saved",,0,0
+"skin/wing/stom/tussie saved",,0,0
+"skin/wing/stomach/tissue saved",,0,0
+"skin/wing/tiss/ stom saved",,0,0
+"skin/wing/tiss/stom",,0,0
+"skin/wing/tiss/stom measured",,0,0
+"skin/wing/tiss/stom saved",,0,0
+"skin/wing/tissue",,0,0
+"Skin/Wing/Tissue Issued",,0,0
+"skin/wing/tissue savd",,0,0
+"Skin/Wing/Tissue Save",,0,0
+"skin/wing/tissue saved",,0,0
+"skin/wing/tissue saved (see remarks)",,0,0
+"Skin/Wing/Tissue saved.",,0,0
+"skin/wing/tissue saved; skin washed",,0,0
+"skin/wing/tissue stom saved",,0,0
+"skin/wing/tissue(Pec/Ht) saved",,0,0
+"skin/wing/tissue/ectoparasites",,0,0
+"skin/wing/tissue/ectoparasites saved",,0,0
+"skin/wing/tissue/ectos saved",,0,0
+"skin/wing/tissue/egg saved",,0,0
+"skin/wing/tissue/respiratory tract saved",,0,0
+"Skin/wing/tissue/stom",,0,0
+"skin/wing/tissue/stom saved",,0,0
+"skin/wing/tissue/stom/ectos saved",,0,0
+"skin/wing/tissue/stomach saved",,0,0
+"skin/wing/tissue/stomach/saved",,0,0
+"skin/wing/tissue: Pec/?/liver",,0,0
+"skin/wing/tissued saved",,0,0
+"skin/wing/tissues",,0,0
+"skin/wing/tissues/stom saved",,0,0
+"skin/wing/trachea/tissue",,0,0
+"skin/winged/tissue saved",,0,0
+"skin/wingstom/tissue saved",,0,0
+"skin/wong/stom/tissue saved",,0,0
+"skin/wtom/tissue",,0,0
 "skin;  (L. wing)",,0,0
 "skin; ""Not cured with arsenic""",,0,0
 "skin; (2 wings only)",,0,0
@@ -72304,10 +72463,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin?",,0,0
 "skin? EtOH - 1",,0,0
 "SKIN\BODY SKELETON","skin | body skeleton",0,1
+"skin\wing\tissue saved",,0,0
 "Skin+Dry Skeleton",,0,0
 "Skin+Wing","skin | wing",0,1
 "skin+wing+partial skel.+DNA (muscle only)","DNA (muscle) | partial skeleton | skin | wing",0,1
 "SkinDiscarded",,0,0
+"sking, wing, tiss, stom saved",,0,0
+"sking, wing, tissue, stom saved",,0,0
+"sking/wing/tissue saved",,0,0
 "SKINK/SKELETON/FEATHERS","feathers | skeleton | skin",0,1
 "Skinn/--",,0,0
 "Skin-old",,0,0
@@ -72320,6 +72483,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin-semi",,0,0
 "SkinU",,0,0
 "SkinY",,0,0
+"skn/wing/tissue saved",,0,0
 "SKNOWN) 36.156.6",,0,0
 "SKNOWN) 36.156.7",,0,0
 "SKNOWN) 64.37.1",,0,0
@@ -75459,6 +75623,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Stjärttag",,0,0
 "STOCK,C.",,0,0
 "STOCKARDS",,0,0
+"stom/tissue/wing saved",,0,0
 "stom; skel; tissue; Round Skin","skeleton | round skin | stomach | tissue",0,1
 "stom; skel; tissue; schmoo","schmoo | skeleton | stomach | tissue",0,1
 "Stomach (dried)",,0,0
@@ -75958,6 +76123,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tail (mounted)",,0,0
 "Tail (mounted, in spirit)",,0,0
 "Tail + vertebrae (posterior)",,0,0
+"tail and 1 foot only",,0,0
 "Tail and Body ""shell""",,0,0
 "tail bone",,0,0
 "tail club",,0,0
@@ -77233,6 +77399,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "tissue only",,0,0
 "tissue only (ALL TISSUE SENT TO SCHWARTZ) | tissue",,0,0
 "tissue only | tissue",,0,0
+"tissue only.",,0,0
 "tissue only; SKELETON TO T.C. | tissue",,0,0
 "Tissue Sample",,0,0
 "TISSUE SAMPLE IN BRINE, tissue",,0,0
@@ -77862,8 +78029,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue, Y; Wings_tail, Y; Skel, Y; Skin, Y",,0,0
 "Tissue, Y; Wings_tail, Y; Skel, Y; Syrinx, Y",,0,0
 "Tissue, Y; Wings_tail, Y; Syrinx, Y; Skel, Y",,0,0
+"tissue/fluid",,0,0
+"tissue/skeleton saved",,0,0
 "tissue/wing",,0,0
 "tissue/wing | tissue",,0,0
+"tissue/wing saved",,0,0
 "tissue/wing, tissue",,0,0
 "Tissue; Eggset",,0,0
 "Tissue; Eggset; Fluid",,0,0
@@ -80061,6 +80231,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "whole; wet; possible future permanent loan",,0,0
 "whole; wet; skull",,0,0
 "whole; wet; skull; skeleton",,0,0
+"win/tissue saved",,0,0
 "wind & tail & skeleton","skeleton | tail | wing",0,1
 "wing","wing",1,1
 "wing - 1; No data - 1",,0,0
@@ -80124,6 +80295,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Wing Punch - 1; Parasites",,0,0
 "Wing Punch - 1; Parasites - 1",,0,0
 "Wing Punch - 2",,0,0
+"wing tissue saved",,0,0
 "wing, alcoholic",,0,0
 "wing, alcoholic, tissue",,0,0
 "wing, cleared and stained, tissue",,0,0
@@ -80167,6 +80339,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing, tailtissue",,0,0
 "wing, tissue","tissue | wing",0,1
 "wing, tissue - 1","tissue - 1 | wing",0,1
+"wing, tissue saved",,0,0
 "wing, tissue, alcoholic",,0,0
 "wing, tissue, complete skeleton",,0,0
 "wing, tissue, flat skin, partial skeleton",,0,0
@@ -80179,10 +80352,23 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing, tissue, tissue, alcoholic",,0,0
 "wing, trachea, tissue, round skin, skeleton - 1","skeleton - 1 | round skin | tissue | trachea | wing",0,1
 "wing, wing",,0,0
+"wing/complete skeleton saved",,0,0
+"wing/ectos/stom/tissue saved",,0,0
 "wing/feet","feet | wing",0,1
 "wing/primaries SIA","wing",0,1
+"wing/skel/tissue saved",,0,0
 "WING/SKELETON","skeleton, wing",0,1
+"wing/skeleton/ tissue saved",,0,0
+"wing/skeleton/tissue",,0,0
+"wing/skeleton/tissue saved",,0,0
+"wing/skin saved",,0,0
+"wing/skin/tissue",,0,0
+"wing/skin/tissue saved",,0,0
 "wing/skull/body skel",,0,0
+"wing/stom/ectos/tissue saved",,0,0
+"wing/stom/tissue",,0,0
+"wing/stom/tissue saved",,0,0
+"wing/stom/trachea/tissue saved",,0,0
 "wing/tail","tail | wing",0,1
 "wing/tail | tissue",,0,0
 "wing/tail, tissue","tail | tissue | wing",0,1
@@ -80191,8 +80377,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing/tail/part skel","partial skeleton | tail | wing",0,1
 "wing/tail/skel","skeleton | tail | wing",0,1
 "wing/tail/skel/foot","foot | skeleton | tail | wing",0,1
+"wing/tail/stom/tissue saved",,0,0
+"wing/tissue",,0,0
 "wing/tissue | tissue",,0,0
+"wing/tissue saved",,0,0
+"Wing/Tissue saved.",,0,0
 "wing/tissue, tissue",,0,0
+"wing/tissue/skeleton",,0,0
+"wing/tissue/skeleton saved",,0,0
+"wing/tissue/stom saved",,0,0
 "wing; flat skin","flat skin | wing",0,1
 "wing; foot",,0,0
 "wing; frozen: liver; heart; muscle",,0,0
