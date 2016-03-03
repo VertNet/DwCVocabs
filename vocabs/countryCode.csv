@@ -3934,6 +3934,7 @@
 "Md.","US",0,1
 "ME","US",0,1
 "Mediterranean",,0,1
+"Mediterranean Sea",,0,1
 "Melanesia",,0,1
 "MELAYSIA","MY",0,1
 "Melchior Islands",,0,1
@@ -6677,6 +6678,7 @@
 "St. Kilda","GB",0,1
 "St. Kilda I.","GB",0,1
 "St. Kitts","KN",0,1
+"St. KittsNevis","KN",0,1
 "St. Lucia","LC",0,1
 "St. Lucia; [West Indies]","LC",0,1
 "St. Lucia; West Indies","LC",0,1
@@ -7103,6 +7105,7 @@
 "Turkestan?",,0,1
 "Turkeston",,0,1
 "Turkey","TR",1,1
+"Turkey (Europe)","TR",0,1
 "Turkey ; Türkiye","TR",0,1
 "Turkey ?","TR",0,1
 "Turkey E.","TR",0,1

@@ -1176,6 +1176,7 @@
 "Amphicyon","Amphicyon","Canidae","Carnivora","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "AMPHIESMA","Amphiesma","Colubridae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
 "AMPHIGLOSSUS","Amphiglossus","Scincidae","Squamata","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: May 2012",1,1,,0
+"Amphignathodon","Gastrotheca","Hemiphractidae","Anura","Amphibia","Chordata","Animalia","ITIS",0,1,"Genus is a synonym.",0
 "Amphilais","Amphilais","Sylviidae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Amphilemur","Amphilemur","Amphilemuridae","Insectivora","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Amphilius","Amphilius","Amphiliidae","Siluriformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
@@ -1564,6 +1565,7 @@
 "Antilope","Antilope","Bovidae","Artiodactyla","Mammalia","Chordata","Animalia","ITIS",1,1,,0
 "Antilope]",,"Bovidae","Artiodactyla","Mammalia","Chordata","Animalia",,0,1,"Genus contains punctuation.",0
 "Antilophia","Antilophia","Pipridae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
+"Antilophis","Antillophis","Colubridae","Squamata","Reptilia","Chordata","Animalia","ITIS",0,1,"Genus misspelled.",0
 "Antilopinae",,"Bovidae","Artiodactyla","Mammalia","Chordata","Animalia",,0,1,"Genus is a subfamily.",0
 "Antimora","Antimora","Moridae","Gadiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Antipodocottus","Antipodocottus","Cottidae","Scorpaeniformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
@@ -8021,6 +8023,7 @@
 "Enostoma",,,,,"Chordata","Animalia",,0,1,"Genus not found.",0
 "ENSATINA","Ensatina","Plethodontidae","Caudata","Amphibia","Chordata","Animalia","AmphibiaWeb 2014-04-11",1,1,,0
 "Ensifera","Ensifera","Trochilidae","Apodiformes","Aves","Chordata","Animalia","ITIS",1,1,,0
+"Entechinus","Entechinus","Colubridae","Squamata","Reptilia","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,,0
 "Entelodon","Entelodon","Entelodontidae","Artiodactyla","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Entelurus","Entelurus","Syngnathidae","Gasterosteiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Enthacus","Erithacus","Turdidae","Passeriformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus misspelled.",0
@@ -12275,6 +12278,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Lepidoblennius","Lepidoblennius","Tripterygiidae","Perciformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Lepidoblepharis","Lepidoblepharis","Sphaerodactylidae","Squamata","Reptilia","Chordata","Animalia","ITIS",1,1,,0
 "Lepidoblepharon","Lepidoblepharon","Citharidae","Pleuronectiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
+"Lepidoblepharus","Lepidoblepharis","Gekkonidae","Squamata","Reptilia","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,,0
 "Lepidocalaptes","Lepidocolaptes","Furnariidae","Passeriformes","Aves","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: 2015",0,1,"Genus misspelled.",0
 "Lepidocaptes",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Lepidocephalichthys","Lepidocephalichthys","Cobitidae","Cypriniformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
@@ -18345,6 +18349,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Phytosaurus","Phytosaurus","Phytosauridae","Phytosauria","Reptilia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Phytotoma","Phytotoma","Cotingidae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Phyxicephalus","Pyxicephalus","Pyxicephalidae","Anura","Amphibia","Chordata","Animalia","Amphibian Species of the World 6.0",0,1,"Genus misspelled.",0
+"Phyzelaphryne","Phyzelaphryne","Eleutherodactylidae","Anura","Amphibia","Chordata","Animalia","ITIS",1,1,,0
 "Piabina","Piabina","Characidae","Characiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Piabucina","Piabucina","Lebiasinidae","Characiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Piabucus","Piabucus","Characidae","Characiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
