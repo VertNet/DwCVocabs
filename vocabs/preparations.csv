@@ -1286,6 +1286,7 @@
 "0",,0,0
 "0 in 70% EtOH",,0,0
 "0 in 70% EtOH; 1 in skeleton",,0,0
+"0°C Freezer",,0,0
 "0°C Freezer Tissue",,0,0
 "1",,0,0
 "1 - 70% ETHANOL; 1 - DRY",,0,0
@@ -2217,6 +2218,7 @@
 "2nd rear phalanx",,0,0
 "2nd, 3rd, 4th sacral vertebrae, fused.",,0,0
 "2nd. phalanx",,0,0
+"2-phenoxyethanol 222",,0,0
 "2R DENTARY FRAGS, FRAG L DENTARY",,0,0
 "2R P/,3L M/,2R M/,2/R M,/R M3",,0,0
 "3",,0,0
@@ -4014,6 +4016,7 @@
 "70%EtOH | tissue",,0,0
 "70& EtOH","70% alcohol",0,1
 "70& EtOH | tissue",,0,0
+"-70°C Freezer",,0,0
 "-70°C Freezer Tissue",,0,0
 "700 in 70% EtOH",,0,0
 "702 in 70% EtOH",,0,0
@@ -8005,6 +8008,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "BS | skeleton",,0,0
 "BS | skeleton | tissue",,0,0
 "buccal r P4",,0,0
+"Buffer",,0,0
 "Bukplåt",,0,0
 "bulk lot",,0,0
 "bulk lot of teeth",,0,0
@@ -12525,6 +12529,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "DERMOSPHENOTIC",,0,0
 "Dertrum",,0,0
 "DESICCATED/DRY JAR",,0,0
+"Destructive sample",,0,0
 "Destructive Tissue",,0,0
 "DHEEK TOOTH FRAG",,0,0
 "DI",,0,0
@@ -13800,6 +13805,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Dry burk",,0,0
 "Dry Egg",,0,0
 "Dry eggshells","dry eggshells",0,1
+"Dry Ice",,0,0
 "Dry Ice Tissue",,0,0
 "DRY JAR",,0,0
 "Dry låda",,0,0
@@ -31532,6 +31538,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "LIMBS VERTEBRAE (DRY)","limbs | vertebrae",0,1
 "LIMBS+PELVIS",,0,0
 "lingual half of RM1/",,0,0
+"Liquid Nitreogen",,0,0
+"Liquid Nitrogen",,0,0
 "Liquid Nitrogen Tissue",,0,0
 "líquido","fluid",0,1
 "líquido, cráneo","fluid | skull",0,1
@@ -40272,6 +40280,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "pharyngeal tooth plate",,0,0
 "PHARYNGEAL,PHARYNGEAL TOOTH,SKULL BONES",,0,0
 "PHARYNGEALS",,0,0
+"Phenoxyethanol",,0,0
 "PHLANGES",,0,0
 "Photo",,0,0
 "Photo - 1",,0,0
@@ -80197,6 +80206,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Webarian ossicles (in spirit)",,0,0
 "Weberian apparatus",,0,0
 "well-preserved atlas",,0,0
+"Wet Ice",,0,0
 "Wet Preserved in EtOH",,0,0
 "wet; whole",,0,0
 "wet; whole; skull",,0,0
