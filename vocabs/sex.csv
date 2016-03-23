@@ -820,6 +820,7 @@ M[F]","unknown",0,1
 "Female-Gravid","female",0,1
 "females","female",0,1
 "FEMAMLE","female",0,1
+"femenino","female",0,1
 "FF","female",0,1
 "FG","unknown",0,1
 "First Year Male","male",0,1
@@ -861,6 +862,7 @@ M[F]","unknown",0,1
 "hatching",,0,1
 "Hatchling",,0,1
 "Hatchling, Liver tissue taken",,0,1
+"hemba","female",0,1
 "hembra","female",0,1
 "hembra 2 pares ma","female",0,1
 "hembra A","female",0,1
@@ -881,6 +883,7 @@ M[F]","unknown",0,1
 "hembra no lac","female",0,1
 "hembra preg 2-2 emb 15mm","female",0,1
 "hembra SA","female",0,1
+"hembra?","female",0,1
 "HERMAPHRODI","hermaphrodite",0,1
 "hermaphrodite","hermaphrodite",1,1
 "hg","unknown",0,1
@@ -912,6 +915,8 @@ M[F]","unknown",0,1
 "immature Male, juvenile (calf)","male",0,1
 "immature, nestling",,0,1
 "ind","unknown",0,1
+"indet.","unknown",0,1
+"indeterminado","unknown",0,1
 "Indeterminate","unknown",0,1
 "J","unknown",0,1
 "J?","unknown",0,1
@@ -1193,6 +1198,7 @@ M[F]","unknown",0,1
 "macho ad Tes 7x4","male",0,1
 "macho ad test 9x5","male",0,1
 "macho inm","male",0,1
+"macho inmad.","male",0,1
 "Macho J","male",0,1
 "macho juv","male",0,1
 "macho juv test 5x3","male",0,1
@@ -1209,6 +1215,7 @@ M[F]","unknown",0,1
 "macho test 5x4","male",0,1
 "macho test 8x4","male",0,1
 "macho test esc","male",0,1
+"macho?","in question",0,1
 "male","male",1,1
 "Male - 6 months","male",0,1
 "MALE  M","male",0,1
@@ -1355,6 +1362,7 @@ M[F]","unknown",0,1
 "Sex ? - Male plumage","in question",0,1
 "Sex Unknown","unknown",0,1
 "Sex?","in question",0,1
+"sin datos","unknown",0,1
 "skin tissue sample taken",,0,1
 "Stomach contents: Leaf cutter an",,0,1
 "Striped",,0,1

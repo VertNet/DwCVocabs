@@ -6046,11 +6046,14 @@ ACC: 20",,0,0
 "adult; very old",,0,0
 "adult; young",,0,0
 "adult?","adult",0,1
-"Adult`",,0,0
+"Adult`","adult",0,1
 "adult+young",,0,0
-"adult11.1 g",,0,0
-"ADULTby plumage",,0,0
-"Adultl",,0,0
+"adult11.1 g","adult",0,1
+"adulta","adult",0,1
+"ADULTby plumage","adult",0,1
+"Adultl","adult",0,1
+"adulto","adult",0,1
+"adulto; en muda","adult, in molt",0,1
 "ADULTRSC",,0,0
 "ADULTS",,0,0
 "ADULTS & AMMOCETES",,0,0
@@ -12366,9 +12369,10 @@ Sowing blood-1",,0,0
 "JUVENAL PLUMAGE; BURSA 7 MM DIAM",,0,0
 "JUVENAL PLUMAGE; SKULL 0% OSS.; ",,0,0
 "Juvenil","juvenile",0,1
+"juvenil, en muda","juvenile, in molt",0,1
 "Juvenil;e","juvenile",0,1
 "juvenile","juvenile",1,1
-"juvenile  (?)",,0,0
+"juvenile  (?)","juvenile",0,1
 "juvenile - Basic 2","juvenile",0,1
 "juvenile - fledgling",,0,0
 "JUVENILE & ADULT",,0,0
