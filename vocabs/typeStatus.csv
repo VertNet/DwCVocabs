@@ -84,6 +84,9 @@
 "21 Oct 2004",,0,1
 "A","allotype",0,1
 "A type","holotype",0,1
+"A. helice cited",,0,0
+"A. m.-n. sp. paratype, cited; A. h.-cited; P. l.-cited",,0,0
+"A. m.-paratype, figured and cited; A. h.-cited",,0,0
 "Abronia",,0,1
 "allotype","allotype",1,1
 "ALLOTYPE OF DEIROCHELYS RETICULARIA CHRYSEA",,0,0
@@ -96,6 +99,7 @@
 "ALLOTYPE OF TRITURUS PERSTRIATUS",,0,0
 "authentic",,0,0
 "authentic material",,0,0
+"C.-n. sp. paratype; figured and cited; A.-cited",,0,0
 "Cast of Figured Specimen",,0,0
 "Cast of holotype",,0,0
 "Cast of lectotype",,0,0
@@ -106,6 +110,7 @@
 "Cited",,0,0
 "Cited; Cited; Cited",,0,0
 "Cited; Holotype",,0,0
+"cited-H. and A.; figured and cited-P; both n. comb.",,0,0
 "Co - Type","syntype",0,1
 "Co TYPE","syntype",0,1
 "Cotype","cotype",1,1
@@ -126,6 +131,7 @@
 "DUPICADO BPI, LIL",,0,0
 "DUPLICADO BPI",,0,0
 "DUPLICADO LIL",,0,0
+"ecotype (from Oberlin label)",,0,0
 "epitype","epitype",1,1
 "ex Holotype","holotype",0,1
 "ex MS Holotype","holotype",0,1
@@ -133,6 +139,9 @@
 "ex Paratype","paratype",0,1
 "FIG",,0,0
 "Figured",,0,0
+"figured and cited",,0,0
+"figured and cited (8946A)",,0,0
+"figured, hypotype",,0,0
 "Figured; Cited",,0,0
 "Figured; Figured",,0,0
 "from Type Locality",,0,0
@@ -2292,11 +2301,15 @@ Paratype",,0,0
 "Holotype, Paratype, Type",,0,0
 "Holotype, Type",,0,0
 "Holotype.",,0,0
+"holotype; cited",,0,0
+"holotype; figured",,0,0
 "Holotype; Holotype",,0,0
 "Holotype; Holotype; Holotype",,0,0
 "Holotype; Holotype; Holotype; Holotype",,0,0
 "holotype?",,0,0
 "HOLOTYPE+PARATYPES OF ANOLIS CRISTATELLUS WILEYI",,0,0
+"holotype-A; paratype-C; figured and cited",,0,0
+"holotype-P; figured and cited-H",,0,0
 "holoype?",,0,0
 "Holoytpe of Amphispiza belli xerophilus",,0,0
 "homeotype",,0,0
@@ -2304,6 +2317,8 @@ Paratype",,0,0
 "homotype",,0,0
 "Hypoparatype",,0,0
 "Hypotype",,0,0
+"hypotype; cited",,0,0
+"hypotype; figured and cited",,0,0
 "hypotypes",,0,0
 "iguana",,0,1
 "isolectotype","isolectotype",1,1
@@ -2359,6 +2374,15 @@ Paratype",,0,0
 "microslide of type",,0,0
 "MS Holotype",,0,0
 "MS Type",,0,0
+"n. comb.; cited",,0,0
+"n. comb.; figured and cited",,0,0
+"n. gen. n. sp. holotype; figured and cited",,0,0
+"n. gen. n. sp. paratype; cited",,0,0
+"n. sp. holotype; figured and cited",,0,0
+"n. sp. paratype; cited",,0,0
+"n. sp. paratype; figured and cited",,0,0
+"n. sp. paratype-A. m.; cited-A. h.",,0,0
+"n. sp.; cited",,0,0
 "near Holotype locality",,0,0
 "near Topotype",,0,0
 "NEAR TOPOTYPE OF OTOCORYS NIGRIFRONS PRZEWALSKI",,0,0
@@ -2368,6 +2392,7 @@ Paratype",,0,0
 "NÉOPARATYPE",,0,0
 "Neotype","neotype",1,1
 "NÉOTYPE",,0,0
+"neotype (Frye and Feldmann)",,0,0
 "Neotype of Arctonyx collaris",,0,0
 "NEOTYPE OF ARIZONA LINEATICOLLIS",,0,0
 "NEOTYPE OF BUFO FOWLERI",,0,0
@@ -2394,6 +2419,8 @@ Neotype",,0,0
 "One of the TYPE","holotype",0,1
 "Original material",,0,1
 "P","paratype",0,1
+"P. s. l. burkei -n. sp.; cited",,0,0
+"P.-n. sp., cited; A.-cited",,0,0
 "PARA",,0,0
 "PARA*",,0,0
 "paralecotype",,0,0
@@ -3920,6 +3947,7 @@ Paratype",,0,0
 "Paratype, NOTES",,0,0
 "Paratype, Type",,0,0
 "Paratype.",,0,0
+"paratype; figured and cited",,0,0
 "paratype?",,0,0
 "Paratypes","paratype",0,1
 "Paratypes (MS)","paratype",0,1
@@ -4037,19 +4065,23 @@ Paratype",,0,0
 "PARATYPES PSEUDOEURYCEA EXSPECTATA",,0,0
 "PARATYPES PSEUDOPALUDICOLA BOLIVIANA",,0,0
 "PARATYPES TOMODACTYLUS GRANDIS",,0,0
+"paratypes; figured and cited",,0,0
 "Part of Holotype",,0,0
 "Part of Paratype",,0,0
 "Parte del holotipo",,0,0
 "photo of type",,0,0
 "pipiens",,0,1
+"plastotype; figured and cited",,0,0
 "plastotypes",,0,0
 "plesiotype",,0,0
+"P-n. comb.; figured and cited; A-cited",,0,0
 "possible holotype",,0,0
 "possible isosyntype",,0,0
 "possible isotype",,0,0
 "POSSIBLE PARATYPE OF PARUS MAJOR KAGOSHIMAE, TAKA-TSUKASA. 1919. DOBUTSUGAKU ZASSHI, 31:55.",,0,0
 "possible syntype",,0,0
 "possible type",,0,0
+"possibly figured",,0,0
 "previous LACM type(s)",,0,1
 "print card",,0,0
 "probable holotype",,0,0
@@ -4065,6 +4097,10 @@ Paratype",,0,0
 "PUBL",,0,0
 "PUBL?",,0,0
 "Putative Type",,0,0
+"referred",,0,0
+"referred; cited",,0,0
+"referred; figured and cited",,0,0
+"replica of figured specimen",,0,0
 "S",,0,0
 "schubotzi",,0,0
 "Secondary Type",,0,0
@@ -4185,8 +4221,10 @@ Paratype",,0,0
 "Synytpe",,0,0
 "T","topotype",0,1
 "taxon ined.",,0,1
+"thin section of paratype",,0,0
 "THIS SPECIMEN WAS ONE OF THE TYPE SERIES BUT NOT DESIGNATED A PARATYPE.",,0,0
 "TIPO",,0,0
+"to be figured",,0,0
 "to be HOLO",,0,0
 "to be PARA",,0,0
 "TopeTYPE","topotype",0,1
