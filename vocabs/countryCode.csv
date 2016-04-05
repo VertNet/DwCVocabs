@@ -2,6 +2,7 @@
 " ",,0,1
 "'",,0,1
 "-",,0,1
+"--",,0,1
 " ? Madagascar","MG",0,1
 " [Colombia]","CO",0,1
 " INDONESIA","ID",0,1
@@ -3459,6 +3460,7 @@
 "'Japan?'","JP",0,1
 "JAPN","JP",0,1
 "Japon","JP",0,1
+"Jarvis Island","UM",0,1
 "Java","ID",0,1
 "Java ?","ID",0,1
 "Java I.","ID",0,1
@@ -5585,6 +5587,8 @@
 "Russ.","RU",0,1
 "Russell Islands","SB",0,1
 "Russia","RU",1,1
+"Russia (Asia)","RU",0,1
+"Russia (Europe)","RU",0,1
 "Russia (South)","RU",0,1
 "Russia (Volga delta)","RU",0,1
 "Russia ; Rossiya","RU",0,1
@@ -7889,6 +7893,7 @@
 "Zimbabwe Rhodesia","ZW",0,1
 "ZOO",,0,1
 "Zoo/aviary",,0,1
+"Zoo/Captive",,0,1
 "ZOO/LAB",,0,1
 "Zoutpansberg","ZA",0,1
 "Zululand","ZA",0,1

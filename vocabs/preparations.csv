@@ -79,6 +79,7 @@
 "(mounted, in spirit)",,0,0
 "(originally EMUS)",,0,0
 "(part mounted)",,0,0
+"*OTHER",,0,0
 "*paleo: humerus fragment (see Comments)",,0,0
 "*paleo: humerus fragment (see Comments) | tissue",,0,0
 ", tissue","tissue",0,1
@@ -14045,6 +14046,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "egg nest",,0,0
 "Egg sacs + embryos (mounted, in spirit)",,0,0
 "egg set","egg set",1,1
+"Egg Set & Nest",,0,0
 "egg set | tissue",,0,0
 "egg set, mount, nest","egg set | mount | nest",0,1
 "egg set, nest","egg set | nest",0,1
@@ -25048,6 +25050,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "head  wing & foot","head | wing | foot",0,1
 "HEAD & NECK (DRY)","head | neck",0,1
 "HEAD & NECK (GLYCERIN)","head (glycerin) | neck (glycerin)",0,1
+"Head & Wing",,0,0
 "Head (dried)",,0,0
 "Head (dried, incomplete)",,0,0
 "head (ethanol)",,0,0
@@ -25154,6 +25157,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "head/shoulder mount",,0,0
 "HEAD/UPPER LIMBS/TRUNK (DRY)","head | trunk | upper limbs",0,1
 "HEAD/WING/FOOT/SKELETON","head | wing | foot | skeleton",0,1
+"Head/Wing/Tail",,0,0
 "Head/Wings",,0,0
 "head; mount",,0,0
 "head; mount; skull",,0,0
@@ -31323,6 +31327,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Leg muscles, dissected (in spirit)",,0,0
 "leg only",,0,0
 "leg, skull",,0,0
+"Leg, Wing & Tail    ",,0,0
 "Leg/atlas",,0,0
 "Legs",,0,0
 "Legs (fore)",,0,0
@@ -34829,6 +34834,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "MOUNT | TWO TUBES; PECTORAL, LIVER, HEART",,0,0
 "mount + mummy chick + nest + 3 eggs",,0,0
 "mount + mummy chick + nest + 3 eggs | tissue",,0,0
+"Mount + part. skel.",,0,0
 "Mount + Trunk Skeleton",,0,0
 "mount and skull",,0,0
 "Mount as a Decoy","mount",0,1
@@ -35160,6 +35166,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "nearly complete skeleton",,0,0
 "Neck Vertebrae",,0,0
 "Needle.",,0,0
+"NEEDS EDITING",,0,0
 "Nervous system  (in spirit)",,0,0
 "Nervsystem",,0,0
 "Nest","nest",1,1
@@ -39213,6 +39220,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skel + other (surrogate puppet) + DNA (muscle)","DNA (muscle) | partial skeleton | surrogate puppet",0,1
 "partial skel + wing + DNA (heart+muscle)","DNA (heart, muscle) | partial skeleton | wing",0,1
 "Partial Skel, Wing, DNA","DNA | partial skeleton | wing",0,1
+"Partial Skel. & Skin",,0,0
 "partial skel/baculum","baculum | partial skeleton",0,1
 "partial skel/fetal bones",,0,0
 "partial skel/humerus",,0,0
@@ -39267,6 +39275,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "partial skeleton and skull - 1",,0,0
 "PARTIAL SKELETON AND SOFT PARTS IN FLUID","partial skeleton | fluid soft parts",0,1
 "Partial skeleton and specimen in alcohol",,0,0
+"Partial Skeleton and Spread Wing",,0,0
 "PARTIAL SKELETON CARAPACE (DRY)","carapace | partial skeleton",0,1
 "Partial Skeleton for display","partial skeleton (display)",0,1
 "partial skeleton in burrow",,0,0
@@ -48673,6 +48682,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel, Y; Wings_tail, Y; Tissue, Y; Flat_skin, Y",,0,0
 "Skel, Y; Wings_tail, Y; Tissue, Y; Syrinx, Y",,0,0
 "Skel.",,0,0
+"Skel. & Partial Skin",,0,0
+"Skel. & Spread Wing",,0,0
+"Skel. & Wings",,0,0
 "skel/baculum","baculum | skeleton",0,1
 "skel/foot","foot | skeleton",0,1
 "skel/no skull","skeleton",0,1
@@ -53344,6 +53356,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin & Frozen specimen",,0,0
 "skin & mandible",,0,0
 "skin & mandible only",,0,0
+"Skin & Part. Skel.",,0,0
 "SKIN & PARTIAL SKEL.","skin | partial skeleton",0,1
 "skin & partial skeleton","skin | partial skeleton",0,1
 "Skin & partial skeleton - 1; Alcohol/Ethanol - 1",,0,0
@@ -75880,6 +75893,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Study Skin and envelope of feathers",,0,0
 "Study Skin and Fluid Trunk in Alcohol",,0,0
 "Study Skin and Fluid Trunk in Alcohol | tissue",,0,0
+"Study Skin and Partial Alc",,0,0
+"Study Skin and Partial Skeleton",,0,0
 "STUDY SKIN AND SKELETON","study skin |  skeleton",0,1
 "study skin and skull",,0,0
 "STUDY SKIN AND SPREAD WING",,0,0
@@ -80427,6 +80442,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "wing","wing",1,1
 "wing - 1; No data - 1",,0,0
 "wing  partial skeleton","partial skeleton | wing",0,1
+"Wing & Foot",,0,0
 "wing & partial skeleton","partial skeleton | wing",0,1
 "wing & skeleton","skeleton | wing",0,1
 "wing & tail","tail | wing",0,1
@@ -80472,6 +80488,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Wing and Leg Bones only",,0,0
 "Wing bone",,0,0
 "Wing- bone",,0,0
+"Wing Feather",,0,0
 "wing feathers","wing feathers",0,1
 "wing feathers, tissue",,0,0
 "WING L",,0,0
@@ -80487,6 +80504,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Wing Punch - 1; Parasites - 1",,0,0
 "Wing Punch - 2",,0,0
 "wing tissue saved",,0,0
+"Wing(s) Only",,0,0
 "wing, alcoholic",,0,0
 "wing, alcoholic, tissue",,0,0
 "wing, cleared and stained, tissue",,0,0
