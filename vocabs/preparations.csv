@@ -79,6 +79,7 @@
 "(mounted, in spirit)",,0,0
 "(originally EMUS)",,0,0
 "(part mounted)",,0,0
+"* - 1",,0,0
 "*OTHER",,0,0
 "*paleo: humerus fragment (see Comments)",,0,0
 "*paleo: humerus fragment (see Comments) | tissue",,0,0
@@ -1032,6 +1033,7 @@
 ";",,0,0
 "?","unknown",0,1
 "? - 1",,0,0
+"? * - 1",,0,0
 "? | alcoholic | skeleton",,0,0
 "? | alcoholic | skeleton | skin | skull",,0,0
 "? | alcoholic | skeleton | skin | skull | tissue",,0,0
@@ -1062,6 +1064,7 @@
 "? upper P3",,0,0
 "? upper P3 M3",,0,0
 "? vert",,0,0
+"?* - 1",,0,0
 "?, tissue",,0,0
 "?/I root",,0,0
 "?/M or P frag",,0,0
@@ -4413,6 +4416,7 @@
 "al","alcoholic",0,1
 "AL'","alcoholic",0,1
 "AL - 1",,0,0
+"AL - 1 | Tissue",,0,0
 "AL - 1; AL - 1",,0,0
 "AL - 1; SS - 1",,0,0
 "AL - 8",,0,0
@@ -7758,6 +7762,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "blood/feathers","blood | feathers",0,1
 "blood/feathers, tissue","blood | feathers | tissue",0,1
 "BM","body mount (taxidermy mount)",0,1
+"BM - 1",,0,0
 "Bo+Ägg",,0,0
 "BODY",,0,0
 "body (ethanol) | skull",,0,0
@@ -8011,6 +8016,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "BS | other preparation | skeleton",,0,0
 "BS | skeleton",,0,0
 "BS | skeleton | tissue",,0,0
+"BS* - 1",,0,0
 "buccal r P4",,0,0
 "Buffer",,0,0
 "Bukplåt",,0,0
@@ -47423,6 +47429,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "rump skin",,0,0
 "S0","skin in alcohol",0,1
 "S0 - 1",,0,0
+"S0* - 1",,0,0
 "SA","alcoholic carcass",0,1
 "SA - 1",,0,0
 "SA | alcoholic | other preparation | skull",,0,0
@@ -47497,6 +47504,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SB      92",,0,0
 "SB      93",,0,0
 "SB - 1",,0,0
+"SB - 1 | Tissue",,0,0
 "SB | other preparation | skeleton | skin | skull",,0,0
 "SB | other preparation | skeleton | skin | skull | tissue",,0,0
 "SB | skeleton | skin | skull",,0,0
@@ -48197,6 +48205,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "SIX UNDET. PIECES.",,0,0
 "sk","skull",0,1
 "SK - 1",,0,0
+"SK - 1 | Tissue",,0,0
+"SK - 1; SK - 1",,0,0
 "SK - 1; SO - 1",,0,0
 "SK - 1; SS - 1",,0,0
 "Sk [?]",,0,0
@@ -75424,6 +75434,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SN     293",,0,0
 "SN     94",,0,0
 "SN - 1",,0,0
+"SN - 1 | Tissue",,0,0
 "SN - 1; SK - 1",,0,0
 "SN - 1; SN - 1",,0,0
 "SN - 1; SS - 1",,0,0
@@ -75465,6 +75476,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "so   Im.","skin in alcohol",0,1
 "so   Juv.","skin in alcohol",0,1
 "SO - 1",,0,0
+"SO - 1 | Tissue",,0,0
 "SO - 1; SO - 1",,0,0
 "SO - 1; SS - 1",,0,0
 "so  Ad","skin in alcohol",0,1
@@ -75698,6 +75710,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Squeezes of skulls + casts",,0,0
 "ss","skin | skull",0,1
 "SS - 1",,0,0
+"SS - 1 | Tissue",,0,0
 "SS - 1; AL - 1",,0,0
 "SS - 1; SK - 1",,0,0
 "SS - 1; SN - 1",,0,0
@@ -75710,6 +75723,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SS | skin | skull | tissue",,0,0
 "ss | tissue",,0,0
 "SS* - 1",,0,0
+"SS* - 1 | Tissue",,0,0
 "ss, tissue","skin | skull | tissue",0,1
 "sstissue",,0,0
 "ST","st",0,1
