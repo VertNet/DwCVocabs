@@ -301,13 +301,13 @@ M[F]","unknown",0,1
 "07-Oct-26","unknown",0,1
 "09-Mar-32","unknown",0,1
 "1","unknown",0,1
-"1 F, 1 M","female, male",0,1
-"1 F, 2 M","female, male",0,1
-"1 F, 3 M","female, male",0,1
+"1 F, 1 M","female | male",0,1
+"1 F, 2 M","female | male",0,1
+"1 F, 3 M","female | male",0,1
 "1 F, 4 M","female | male",0,1
 "1 FEMALE,","female",0,1
 "1 hemipene, throat white, scales",,0,1
-"1 M,1 F subad, 21 U","female, male",0,1
+"1 M,1 F subad, 21 U","female | male",0,1
 "1 Male","male",0,1
 "1 Male, 1 Female","female | male",0,1
 "10 females, 64 males","female | male",0,1
@@ -317,7 +317,7 @@ M[F]","unknown",0,1
 "152","unknown",0,1
 "154","unknown",0,1
 "157","unknown",0,1
-"16 F, 10 M","female, male",0,1
+"16 F, 10 M","female | male",0,1
 "162","unknown",0,1
 "166","unknown",0,1
 "17.5","unknown",0,1
@@ -335,13 +335,13 @@ M[F]","unknown",0,1
 "1st Year Female","female",0,1
 "1st Year Male","male",0,1
 "2","unknown",0,1
-"2 F, 1 juv","female, unknown",0,1
-"2 F, 1 M","female, male",0,1
-"2 F, 2 M","female, male",0,1
-"2 F, 2 U","female, unknown",0,1
+"2 F, 1 juv","female | unknown",0,1
+"2 F, 1 M","female | male",0,1
+"2 F, 2 M","female | male",0,1
+"2 F, 2 U","female | unknown",0,1
 "2 female","female",0,1
 "2 Female, 1 Male","female | male",0,1
-"2 M, 1 F","female, male",0,1
+"2 M, 1 F","female | male",0,1
 "2 Male","male",0,1
 "2 Males","male",0,1
 "2 Males, 2 Females","female | male",0,1
@@ -358,8 +358,8 @@ M[F]","unknown",0,1
 "2nd Year Male","male",0,1
 "3","unknown",0,1
 "3 exx.",,0,1
-"3 F, 1 M","female, male",0,1
-"3 F, 3 M","female, male",0,1
+"3 F, 1 M","female | male",0,1
+"3 F, 3 M","female | male",0,1
 "3 Males, Female","female | male",0,1
 "3207 111/95/iv","unknown",0,1
 "335","unknown",0,1
@@ -368,14 +368,14 @@ M[F]","unknown",0,1
 "36010","unknown",0,1
 "361","unknown",0,1
 "4",,0,1
-"4 F, 1 M","female, male",0,1
-"4 F, 2 M","female, male",0,1
+"4 F, 1 M","female | male",0,1
+"4 F, 2 M","female | male",0,1
 "4 FEMALE,","female",0,1
 "46",,0,1
 "47",,0,1
 "48",,0,1
 "5",,0,1
-"5 F, 1 M","female, male",0,1
+"5 F, 1 M","female | male",0,1
 "58","unknown",0,1
 "5M,2F","female | male",0,1
 "6","unknown",0,1
@@ -506,6 +506,7 @@ M[F]","unknown",0,1
 "Cochise",,0,1
 "D","unknown",0,1
 "dark phase",,0,1
+"desconegut","unknown",0,1
 "determine","unknown",0,1
 "dewlap bicolor-darl orange basal",,0,1
 "dewlap tricolored dark orange ba",,0,1
@@ -648,10 +649,10 @@ M[F]","unknown",0,1
 "F, imm.","female",0,1
 "f, immature","female",0,1
 "f, juvenile","female",0,1
-"F, M, U","female, male, unknown",0,1
+"F, M, U","female | male | unknown",0,1
 "F, NESTLING","female",0,1
 "F, prob.","female",0,1
-"F, U","female, unknown",0,1
+"F, U","female | unknown",0,1
 "F.","female",0,1
 "f. adult","female",0,1
 "F/AD","female",0,1
@@ -802,7 +803,7 @@ M[F]","unknown",0,1
 "Female, gravid","female",0,1
 "Female, gravid w/ 42 eggs","female",0,1
 "Female, laid 27 eggs Aug 24, 198","female",0,1
-"female, male","female, male",1,1
+"female, male","female | male",1,1
 "Female, nest","female",0,1
 "Female, ova 5mm","female",0,1
 "Female, ova enlarged","female",0,1
@@ -820,6 +821,8 @@ M[F]","unknown",0,1
 "Female-Gravid","female",0,1
 "females","female",0,1
 "FEMAMLE","female",0,1
+"femella","female",0,1
+"femella | mascle","female | male",0,1
 "femenino","female",0,1
 "FF","female",0,1
 "FG","unknown",0,1
@@ -916,6 +919,7 @@ M[F]","unknown",0,1
 "immature, nestling",,0,1
 "ind","unknown",0,1
 "indet.","unknown",0,1
+"indeterminable","indeterminable",1,1
 "indeterminado","unknown",0,1
 "Indeterminate","unknown",0,1
 "J","unknown",0,1
@@ -1006,7 +1010,7 @@ M[F]","unknown",0,1
 "M !","male",0,1
 "M ! F","unknown",0,1
 "M ""hor""","male",0,1
-"M & F","male, female",0,1
+"M & F","female | male",0,1
 "M (?)","in question",0,1
 "M (?) (M)","in question",0,1
 "M (=F ?)","in question",0,1
@@ -1071,7 +1075,7 @@ M[F]","unknown",0,1
 "M [prob. F]","female",0,1
 "M [tag: ""sed M""?]","male",0,1
 "M +","male",0,1
-"M + U","male, unknown",0,1
+"M + U","male | unknown",0,1
 "M ++","male",0,1
 "M = [F]","unknown",0,1
 "M = F","unknown",0,1
@@ -1288,6 +1292,9 @@ M[F]","unknown",0,1
 "males, females","female | male",1,1
 "Mandible only, no teeth","unknown",0,1
 "marked as both F and M","unknown",0,1
+"mascle","male",0,1
+"mascle | indeterminable","male | indeterminable",0,1
+"mascle femella","female | male",0,1
 "metamorph",,0,1
 "MF","female | male",0,1
 "M-F","unknown",0,1
@@ -1319,6 +1326,7 @@ M[F]","unknown",0,1
 "Nestlings [Sex ?]","in question",0,1
 "newborn",,0,1
 "No","unknown",0,1
+"no aplicable",,0,1
 "no data","unknown",0,1
 "No nuptial pads, throat white, n",,0,1
 "no sex","unknown",0,1
@@ -1420,11 +1428,11 @@ M[F]","unknown",0,1
 "uncertain","unknown",0,1
 "underlined M","male",0,1
 "Underside of tail red, belly and",,0,1
-"undeterminable","unknown",0,1
+"undeterminable","indeterminable",0,1
 "undetermined","unknown",0,1
 "unk","unknown",0,1
 "unk.","unknown",0,1
-"unknowable","unknown",0,1
+"unknowable","indeterminable",0,1
 "Unknowm","unknown",0,1
 "unknown","unknown",1,1
 "unknown , female ?","in question",0,1
@@ -1435,7 +1443,7 @@ M[F]","unknown",0,1
 "unknown; SEE ER","unknown",0,1
 "Unknwon","unknown",0,1
 "Unkown","unknown",0,1
-"Unsexable","unknown",0,1
+"Unsexable","indeterminable",0,1
 "Unsexed","unknown",0,1
 "venter immaculate; throat interm",,0,1
 "venter immaculate; throat white ",,0,1

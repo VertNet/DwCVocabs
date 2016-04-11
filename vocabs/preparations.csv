@@ -63,8 +63,10 @@
 "&",,0,0
 "(1 mounted)",,0,0
 "(broken)",,0,0
+"(congelat)",,0,0
 "(damaged)",,0,0
 "(enclosed in flint)",,0,0
+"(etílic 70 amb glicerina)",,0,0
 "(fragments)",,0,0
 "(in formalin)",,0,0
 "(in glycerine)",,0,0
@@ -4436,6 +4438,9 @@
 "AL+T+ECTO","alcoholic | ectoparasite | tissue",0,1
 "AL+T+ECTO +CH","alcoholic | chromosomes | ectoparasite | tissue",0,1
 "AL+T+ECTO+CH","alcoholic | chromosomes | ectoparasite | tissue",0,1
+"ala estesa (sec)",,0,0
+"ala estesa, cua (sec)",,0,0
+"ala estesa, plomes (sec)",,0,0
 "Alar digit three.",,0,0
 "alc","alcoholic",0,1
 "ALC - 1",,0,0
@@ -6184,6 +6189,7 @@
 "alcoholic; alc. fetus",,0,0
 "alcoholic+ alc stomach + slide of stom contents",,0,0
 "alcoholic+ alc stomach + slides of stom contents",,0,0
+"aleta dorsal, pterigopodis, tros de pell (alcohol etílic 70º)",,0,0
 "Alimentary canal (in spirit)",,0,0
 "Alimentary canal + air-bladder (in spirit)",,0,0
 "Alimentary canal with the air-bladder, liver, pancreas + spleen (in spirit)",,0,0
@@ -6253,6 +6259,19 @@
 "angular+frags",,0,0
 "ANGULARS",,0,0
 "Angulars.",,0,0
+"animal sencer",,0,0
+"animal sencer (alcohol etílic 100º)",,0,0
+"animal sencer (alcohol etílic 70º amb 4% glicerina)",,0,0
+"animal sencer (alcohol etílic 70º)",,0,0
+"animal sencer (alcohol etílic 95º)",,0,0
+"animal sencer (alcohol etílic 96º)",,0,0
+"animal sencer (congelat)",,0,0
+"animal sencer (etílic 70 amb glicerina)",,0,0
+"animal sencer (momificat)",,0,0
+"animal sencer (sec)",,0,0
+"animal sencer, ou (alcohol etílic 70º amb 4% glicerina)",,0,0
+"animal sencer, paràsits (etílic 70 amb glicerina)",,0,0
+"animal sencer, posta d'ous (etílic 70 amb glicerina)",,0,0
 "animal track recording",,0,0
 "ankle bone",,0,0
 "ant 1/2 LM/?",,0,0
@@ -7020,6 +7039,11 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Antorb Crt L",,0,0
 "AO","alcoholic other (partial specimen)",0,1
 "Aorta, sectioned (dried)",,0,0
+"aparell digestiu (alcohol etílic 70º amb 4% glicerina)",,0,0
+"aparell digestiu (alcohol etílic 96º)",,0,0
+"aparell digestiu (etílic 70 amb glicerina)",,0,0
+"aparell digestiu (sec)",,0,0
+"aparell reproductor (etílic 70 amb glicerina)",,0,0
 "appendicular bones",,0,0
 "Approximately 6-inch segment antler.",,0,0
 "Approximately half R calcaneum.",,0,0
@@ -7637,6 +7661,8 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Balsam",,0,0
 "Baltic amber",,0,0
 "Baltic amber; 2 black flies",,0,0
+"banyes (sec)",,0,0
+"barbes (sec)",,0,0
 "BARREL",,0,0
 "BARREL, tissue",,0,0
 "BASAL PART OF SKULL",,0,0
@@ -8449,6 +8475,9 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "CANNON BONE SHAFT R",,0,0
 "Cannonbone, diaphysis tibia, diaphysis humerus.",,0,0
 "canon bone shaft fragment",,0,0
+"cap (etílic 70 amb glicerina)",,0,0
+"cap (sec)",,0,0
+"cap, ala estesa (sec)",,0,0
 "cape skin",,0,0
 "cape/paw/skel","cape | paw | skeleton",0,1
 "CARAPACE",,0,0
@@ -8677,6 +8706,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Carpus (incomplete) + metacarpals",,0,0
 "Carpus?",,0,0
 "CARTILAGE",,0,0
+"cascavell (sec)",,0,0
 "CAST","cast",1,1
 "cast - 1",,0,0
 "cast (and a duplicate, plaster)",,0,0
@@ -9582,6 +9612,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Cloaca + penis, dissected (in spirit)",,0,0
 "CLOACAL BONES (DRY)","cloacal bones",0,1
 "Cloacal region + vestigial limbs (in phenoxetol)",,0,0
+"closca (sec)",,0,0
+"closca, esquelet desarticulat (sec)",,0,0
 "Cluster of eggs (mounted, in spirit)",,0,0
 "clutch - complete - 1","clutch (complete) - 1",0,1
 "clutch - partial - 1","clutch (partial) - 1",0,1
@@ -9727,6 +9759,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "coll in 2000; PT",,0,0
 "coll. 2002",,0,0
 "collecting in 2002",,0,0
+"colònia (etílic 70 amb glicerina)",,0,0
 "COM (DRY)","whole animal",0,1
 "comp skel",,0,0
 "comp skel | tissue",,0,0
@@ -9922,6 +9955,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "conjoined anterior portions of l+r dentaries (edentulous",,0,0
 "conjoined partial l+r dentaries",,0,0
 "conjoined unciform+magnum",,0,0
+"contingut digestiu (alcohol etílic 100º)",,0,0
+"contingut digestiu (alcohol etílic 70º amb 4% glicerina)",,0,0
 "cool squamates, misc bone",,0,0
 "Coosified PH I and II, digit I.",,0,0
 "Coossified PH I and II, digit 1.",,0,0
@@ -10014,6 +10049,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "coral and bone",,0,0
 "Coral rock",,0,0
 "CORANOID",,0,0
+"cornamenta (sec)",,0,0
 "COROCOID",,0,0
 "CORONOID",,0,0
 "CORONOID 1",,0,0
@@ -10030,6 +10066,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "corpus vertebra",,0,0
 "CORRACOID",,0,0
 "corroded osteoderm",,0,0
+"cos sense pell (alcohol etílic 70º amb 4% glicerina)",,0,0
+"cos sense pell (alcohol etílic 70º)",,0,0
+"cos sense pell (alcohol etílic 96º)",,0,0
+"cos sense pell (etílic 70 amb glicerina)",,0,0
+"cos sense pell (sec)",,0,0
 "cosmoid scale",,0,0
 "costal",,0,0
 "costal 1",,0,0
@@ -10120,6 +10161,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "COSTALS,NEURALS,SHELL FRAGS",,0,0
 "COSTALS,PERIPHERALS",,0,0
 "COSTAL--UNABLE TO PLACE.",,0,0
+"costella (sec)",,0,0
 "C-P1/",,0,0
 "C-P2/,/P3-P4",,0,0
 "CP4/",,0,0
@@ -10134,6 +10176,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "Cráneo y fracción de piel, Hígado y sangre","liver | blood | partial skin | skull",0,1
 "Cráneo y fracción de piel, sangre","blood | partial skin | skull",0,1
 "Cráneo, fracción","partial skull",0,1
+"crani (etílic 70 amb glicerina)",,0,0
+"crani (sec)",,0,0
+"crani amb banyes (sec)",,0,0
+"crani amb banyes, mandíbula (sec)",,0,0
+"crani amb banyes, vèrtebra, hioide (sec)",,0,0
+"crani, esquelet apendicular (sec)",,0,0
+"crani, mandíbula (sec)",,0,0
+"crani, ossos (sec)",,0,0
+"crani, pell del peu (sec)",,0,0
+"crani, teixit muscular, vèrtebres (sec)",,0,0
+"crani, vèrtebra (sec)",,0,0
+"crani, vèrtebres (sec)",,0,0
 "crania",,0,0
 "Cranial",,0,0
 "Cranial (? head, unprepared)",,0,0
@@ -10628,6 +10682,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "CRUSHED SKULL W R P1-M3+L P1-2+M2-3",,0,0
 "CRUSHED SKULL W R+L M2-M5",,0,0
 "crushing tooth",,0,0
+"cua (etílic 70 amb glicerina)",,0,0
+"cua (sec)",,0,0
+"cua, plomes (sec)",,0,0
+"cua, tros de pell (sec)",,0,0
 "Cuboid",,0,0
 "Cuboid (left)",,0,0
 "Cuboid (left, incomplete))",,0,0
@@ -10746,6 +10804,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "DENARY ALL TEETH L",,0,0
 "DENATRY PARTIAL P/4 L",,0,0
 "Dens",,0,0
+"dent faríngia (sec)",,0,0
 "DENT FRAG L",,0,0
 "DENT FRAG R",,0,0
 "dent frag w/ p2 & p4, prob deciduous",,0,0
@@ -12494,6 +12553,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "DENTARYP/4-M/3 L",,0,0
 "DENTARYW M1-M2",,0,0
 "DENTASYMPHYSIS",,0,0
+"dentició (sec)",,0,0
+"dentició, ossos (sec)",,0,0
+"dentició, tros de pell (sec)",,0,0
 "denticle",,0,0
 "denticle ?",,0,0
 "denticles",,0,0
@@ -14032,6 +14094,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "edentulous R dentary, L dentary w m1",,0,0
 "EDENTULOUS RIGHT DENTARY FRAGMENT",,0,0
 "eg","egg",0,1
+"egagròpiles (sec)",,0,0
 "egg","egg",1,1
 "Egg - 1",,0,0
 "EGG (DRY)","egg",0,1
@@ -14263,6 +14326,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "ELEMENT LIMB & INNOMINATE",,0,0
 "Element.",,0,0
 "elements",,0,0
+"elements dèrmics (sec)",,0,0
 "ELEMENTS OF SKELETON",,0,0
 "Elements, including 2 proximal ulna, proximal femur, 2 I1/, lower cheektooth, proximal scapula.",,0,0
 "Elements, including innominata, cheekteeth, calcanea, tibiofibula, femur, maxilla, metapodial.",,0,0
@@ -14439,9 +14503,22 @@ R PERIPHERALS 2 - 3.",,0,0
 "epliplastron frags",,0,0
 "epoccipital",,0,0
 "ES",,0,0
+"escata (sec)",,0,0
+"espatller (sec)",,0,0
+"esquelet articulat (sec)",,0,0
+"esquelet axial (sec)",,0,0
+"esquelet desarticulat",,0,0
+"esquelet desarticulat (alcohol etílic 96º)",,0,0
+"esquelet desarticulat (congelat)",,0,0
+"esquelet desarticulat (sec)",,0,0
+"esquelet muntat (sec)",,0,0
+"esquelet postcranial (sec)",,0,0
 "Esqueleto","skeleton",0,1
 "Esqueleto y cráneo","skeleton | skull",0,1
 "Esqueleto, pendiente de limpiar","skeleton",0,1
+"estómac (alcohol etílic 96º)",,0,0
+"estómac (etílic 70 amb glicerina)",,0,0
+"estómac, aparell reproductor (etílic 70 amb glicerina)",,0,0
 "ET","alcoholic",0,1
 "ETHANOL",,0,0
 "Ethanol - 1",,0,0
@@ -21247,6 +21324,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "EUTOPLASTRON",,0,0
 "excellent specimen",,0,0
 "Exchange - 1",,0,0
+"excrements (sec)",,0,0
 "exoccipita, basioccipital, neaural arch halves",,0,0
 "EXOCCIPITAL",,0,0
 "EXOCCIPITAL & BASIOCCIPITAL R",,0,0
@@ -21791,6 +21869,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Femural Head",,0,0
 "FEMURS",,0,0
 "Fercula (2)",,0,0
+"fetge, teixit muscular (alcohol etílic 96º)",,0,0
+"fetge, teixit muscular (sec)",,0,0
 "fetus; alc. Y",,0,0
 "Few bones from the hind feet, hair, tissue",,0,0
 "ffragmentary molar columns",,0,0
@@ -25205,6 +25285,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Heel bone",,0,0
 "hemal arch",,0,0
 "hematite-encrusted bone frags",,0,0
+"hemimandíbula (sec)",,0,0
 "HEMIPENE (GLYCERIN)","hemipene (glycerin)",0,1
 "HEMIPENES (GLYCERIN)","hemipenes (glycerin)",0,1
 "Hemipenis","hemipenis",1,1
@@ -26098,6 +26179,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "in nodules",,0,0
 "inciscor",,0,0
 "incisiform",,0,0
+"incisiu (sec)",,0,0
 "incisor",,0,0
 "Incisor (complete)",,0,0
 "incisor + symphysis",,0,0
@@ -32679,6 +32761,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "MANDIBLES,VERTEBRAE",,0,0
 "MANDIBLES,VERTEBRAE,SKIN",,0,0
 "mandibles/teeth",,0,0
+"mandíbula (sec)",,0,0
 "mandibular and bone frags.",,0,0
 "mandibular cartilage",,0,0
 "mandibular cartilage fragment",,0,0
@@ -34725,6 +34808,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Molar (lower)",,0,0
 "Molar (lower, roots)",,0,0
 "Molar (posterior upper)",,0,0
+"molar (sec)",,0,0
 "Molar (upper root)",,0,0
 "Molar (upper)",,0,0
 "Molar (upper, complete)",,0,0
@@ -35013,6 +35097,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Much  of skull.",,0,0
 "MUCH OF SKULL",,0,0
 "Much of skull except posterior ventral.",,0,0
+"muda (sec)",,0,0
 "multi molar frag.",,0,0
 "MULTICUSP I",,0,0
 "multiple skeletons","skeletons (multiple)",0,1
@@ -35038,6 +35123,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "mummy only",,0,0
 "mummy only | tissue",,0,0
 "MUMMY, tissue","mummy | tissue",0,1
+"muntatge (etílic 70 amb glicerina)",,0,0
+"muntatge (sec)",,0,0
 "muscle",,0,0
 "muscle (95% ethanol)",,0,0
 "muscle | one wing",,0,0
@@ -35372,6 +35459,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "nineteen isolated cheek teeth",,0,0
 "Nine-tenths L ulna.",,0,0
 "Nine-tenths R dentary, no teeth.",,0,0
+"niu",,0,0
+"niu (sec)",,0,0
+"niu, ou (sec)",,0,0
+"niu, pell naturalitzada (sec)",,0,0
 "Njure",,0,0
 "No data",,0,1
 "No data - 1",,0,0
@@ -36102,6 +36193,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "os","os",0,1
 "OS CORDUS",,0,0
 "Os innominatum (right and left)",,0,0
+"os interopercular (sec)",,0,0
 "Os magnum",,0,0
 "Os magnum (right)",,0,0
 "OS MALLEOLARE L",,0,0
@@ -36116,6 +36208,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "ossified tendon",,0,0
 "ossified tendon frag",,0,0
 "ossified tendons",,0,0
+"ossos (etílic 70 amb glicerina)",,0,0
+"ossos (sec)",,0,0
+"ossos frontals amb banyes (sec)",,0,0
 "osteo",,0,0
 "osteo, SK",,0,0
 "osteo, SK, tissue",,0,0
@@ -36342,6 +36437,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "otoliths",,0,0
 "OTOLITHS,DERMAL OSSICLES",,0,0
 "OTOLITHS,VERTEBRA",,0,0
+"ou",,0,0
+"ou (alcohol etílic 70º amb 4% glicerina)",,0,0
+"ou (etílic 70 amb glicerina)",,0,0
+"ou (sec)",,0,0
 "OVARIES","ovaries",0,1
 "Ovaries + oviducts + kidneys (in spirit)",,0,0
 "Ovaries, oviducts, lungs etc. (in spirit)",,0,0
@@ -37986,6 +38085,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Parasites - 8; Wing Punch - 1",,0,0
 "Parasites - 9; Wing Punch - 1",,0,0
 "parasitoid",,0,0
+"paràsits (etílic 70 amb glicerina)",,0,0
 "PARASPEHENOID",,0,0
 "Parasphenoid",,0,0
 "PARASPHENOID FRAG",,0,0
@@ -38043,6 +38143,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Part dissected (mounted, in spirit)",,0,0
 "part DP4/, M1/, other molar frags",,0,0
 "part dry skin + part skel",,0,0
+"part d'un animal (etílic 70 amb glicerina)",,0,0
+"part d'un animal (sec)",,0,0
 "part femur, limb fragments",,0,0
 "part flat skin",,0,0
 "part flat skin + part skel",,0,0
@@ -39610,8 +39712,24 @@ R PERIPHERALS 2 - 3.",,0,0
 "pedal sesamoid",,0,0
 "pedal sesamoid | tissue",,0,0
 "pedal+tooth frags",,0,0
+"pedrer (alcohol etílic 96º)",,0,0
+"pedrer (etílic 70 amb glicerina)",,0,0
 "Peel of part of Holotype",,0,0
 "Peels",,0,0
+"pell del peu (sec)",,0,0
+"pell d'estudi",,0,0
+"pell d'estudi (alcohol etílic 96º)",,0,0
+"pell d'estudi (congelat)",,0,0
+"pell d'estudi (etílic 70 amb glicerina)",,0,0
+"pell d'estudi (sec)",,0,0
+"pell d'estudi, cos sense pell (alcohol etílic 70º amb 4% glicerina)",,0,0
+"pell naturalitzada",,0,0
+"pell naturalitzada (sec)",,0,0
+"pell plana (alcohol etílic 96º)",,0,0
+"pell plana (congelat)",,0,0
+"pell plana (etílic 70 amb glicerina)",,0,0
+"pell plana (sec)",,0,0
+"pell plana, pell naturalitzada (sec)",,0,0
 "Pellet, U",,0,0
 "Pellet, Y",,0,0
 "pellets",,0,0
@@ -39670,6 +39788,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Pelvis (left side, complete)",,0,0
 "Pelvis (left, fragment)",,0,0
 "Pelvis (right + left pelvic bones)",,0,0
+"pelvis (sec)",,0,0
 "Pelvis (sectioned)",,0,0
 "Pelvis (unprepared)",,0,0
 "Pelvis (wax impregnated)",,0,0
@@ -39949,6 +40068,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "PETROSALS,DENTARY FRAGS",,0,0
 "PETROSALS,TYMPANICS",,0,0
 "PETROUS AREA",,0,0
+"peu (sec)",,0,0
+"peu, crani (sec)",,0,0
 "PH",,0,0
 "PH 1",,0,0
 "PH 1.",,0,0
@@ -40576,6 +40697,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Pleurocentrum + intercentrum",,0,0
 "Plevis",,0,0
 "Pln-fragm.",,0,0
+"plomes (sec)",,0,0
 "PLT",,0,0
 "PLT, retained",,0,0
 "Plumage - 1",,0,0
@@ -40967,6 +41089,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "POST. SKULL",,0,0
 "POST. SKULL W P3-M2, DP4",,0,0
 "POST. SKULL, ATLAS, POST. R DENTARY",,0,0
+"posta d'ous (alcohol etílic 96º)",,0,0
+"posta d'ous (etílic 70 amb glicerina)",,0,0
 "POSTCERATOHYAL",,0,0
 "post-cervical vertebra",,0,0
 "POSTCORACOID",,0,0
@@ -41510,6 +41634,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "POSTSACRAL CENTRUM",,0,0
 "POSTTEMPORAL",,0,0
 "POSTTHORACIC VERTEBRAE",,0,0
+"pota (alcohol etílic 70º)",,0,0
+"pota (sec)",,0,0
+"pota, crani (sec)",,0,0
+"pota, crani, ossos (sec)",,0,0
+"pota, ossos (sec)",,0,0
 "Pouch (in spirit)",,0,0
 "Pouch and nipples (in spirit)",,0,0
 "Poximal scapula.",,0,0
@@ -42671,6 +42800,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "pt. skull",,0,0
 "PT; in copula pair",,0,0
 "PT; specimen lost",,0,0
+"pterigopodis (etílic 70 amb glicerina)",,0,0
 "PTEROTIC",,0,0
 "PTEROTICS",,0,0
 "PTERYGIPHORES,VERTEBRAE",,0,0
@@ -46435,6 +46565,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Remains of specimen (in spirit)",,0,0
 "REMARKS","see remarks",0,1
 "replica",,0,0
+"rèplica (etílic 70 amb glicerina)",,0,0
+"rèplica (sec)",,0,0
 "Replica articulated skeleton",,0,0
 "Replica of clavicle",,0,0
 "Replica of skeleton (almost complete)",,0,0
@@ -46450,6 +46582,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "REPRODUCTIVE SYSTEM IN FLUID","fluid reproductive system",0,1
 "reproductive tract",,0,0
 "Respiratory organ (in spirit)",,0,0
+"restes d'aliment (sec)",,0,0
 "Restoration",,0,0
 "RESTORATION OF HEAD",,0,0
 "retained",,0,0
@@ -76864,6 +76997,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "teeth+tooth fragments",,0,0
 "TEETH+VERTEBRA",,0,0
 "teeth+vertebrae",,0,0
+"tegument (etílic 70 amb glicerina)",,0,0
+"tegument (sec)",,0,0
+"teixit muscular (sec)",,0,0
 "TEMPORAL & AUDITORY AREA FRAG L",,0,0
 "TEMPORAL CF",,0,0
 "teneral? id questionable",,0,0
@@ -78913,6 +79049,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Trochlea portion distal end R humerus.",,0,0
 "TROCHLEA,ASTRAGALUS",,0,0
 "TROCHLEAE 3+4 OF TARSOMETATARSUS",,0,0
+"tros de pell",,0,0
+"tros de pell (alcohol etílic 70º)",,0,0
+"tros de pell (alcohol etílic 96º)",,0,0
+"tros de pell (sec)",,0,0
 "TRUNK ARMOR FRAG",,0,0
 "TRUNK ARMOUR PLATE FRAG ?",,0,0
 "TRUNK SCALES,PELVIC FIN",,0,0
@@ -79285,6 +79425,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "unfinished skin",,0,0
 "unfused femur shafts",,0,0
 "ungal phalanges",,0,0
+"ungles (sec)",,0,0
 "Ungual",,0,0
 "UNGUAL ?",,0,0
 "UNGUAL FRAG",,0,0
@@ -79699,6 +79840,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Vertebra (sacral)",,0,0
 "Vertebra (sacral) + cast",,0,0
 "Vertebra (sacral, fragment)",,0,0
+"vèrtebra (sec)",,0,0
 "Vertebra (sectioned)",,0,0
 "Vertebra (thoracic)",,0,0
 "Vertebra (thoracic)Thoracic vertebra 1st.",,0,0
@@ -80265,6 +80407,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Viscera; Fluid - 1",,0,0
 "VISCERAL ARCH ELEMENT",,0,0
 "Visceral arches (mounted, in spirit)",,0,0
+"vísceres (alcohol etílic 70º)",,0,0
+"vísceres (alcohol etílic 96º)",,0,0
 "Voicebox",,0,0
 "Vole?",,0,0
 "vomer",,0,0

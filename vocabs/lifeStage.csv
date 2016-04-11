@@ -5104,6 +5104,22 @@ ACC: 20",,0,0
 "Adult [Male ?]","adult",0,1
 "Adult [Male?]","adult",0,1
 "Adult [Sex ?]","adult",0,1
+"adult | Euring 10",,0,0
+"adult | Euring 11",,0,0
+"adult | Euring 12",,0,0
+"adult | Euring 2",,0,0
+"adult | Euring 3",,0,0
+"adult | Euring 4",,0,0
+"adult | Euring 5",,0,0
+"adult | Euring 6",,0,0
+"adult | Euring 6 | Euring 4",,0,0
+"adult | Euring 7",,0,0
+"adult | Euring 8",,0,0
+"adult | Euring 9",,0,0
+"adult | Immadur",,0,0
+"adult | juvenil",,0,0
+"adult | juvenil | Euring 8",,0,0
+"adult | subadult",,0,0
 "Adult + ?Embryo",,0,0
 "Adult + egg",,0,0
 "Adult + Eggs",,0,0
@@ -6391,6 +6407,7 @@ perhaps one half",,0,0
 "albino",,0,0
 "Albumen Thickening, No Trace Blo",,0,0
 "Albumen Thickening, No Trace Blood",,0,0
+"aleví",,0,0
 "alive",,0,0
 "All",,0,0
 "all < 1/4",,0,0
@@ -8331,6 +8348,9 @@ Trace.",,0,0
 "cracked-dead-slight-yolk&albumen",,0,0
 "cracked--no development",,0,0
 "craneo duro",,0,0
+"cria",,0,0
+"cria | Euring 3",,0,0
+"cria | Euring 3j",,0,0
 "Crushed",,0,0
 "Crushed and depredated",,0,0
 "Crushed in nest",,0,0
@@ -8412,6 +8432,7 @@ Trace.",,0,0
 "Depredated; broken in transit",,0,0
 "Depredated; not fresh at this da",,0,0
 "Depredated; not fresh at this date",,0,0
+"desconeguda",,0,0
 "Deserted",,0,0
 "Deserted egg",,0,0
 "deserted for 2 weeks or more",,0,0
@@ -9055,6 +9076,7 @@ Trace.",,0,0
 "EMB 1 emb. 18mm","adult",0,1
 "Emb.","embryo",0,1
 "emb. Formed",,0,0
+"embrió-fetus",,0,0
 "embryo","embryo",1,1
 "embryo ?",,0,0
 "Embryo + egg",,0,0
@@ -9169,6 +9191,31 @@ Trace.",,0,0
 "Estimated to be 5 days advanced",,0,0
 "et",,0,0
 "ETOH tissue sample taken",,0,0
+"Euring 1",,0,0
+"Euring 1 | cria",,0,0
+"Euring 10",,0,0
+"Euring 11",,0,0
+"Euring 12",,0,0
+"Euring 2",,0,0
+"Euring 2 | indeterminable",,0,0
+"Euring 3",,0,0
+"Euring 3 | Euring 5 | Immadur",,0,0
+"Euring 3 | Immadur",,0,0
+"Euring 3j",,0,0
+"Euring 4",,0,0
+"Euring 4 | Immadur",,0,0
+"Euring 4 | indeterminable",,0,0
+"Euring 4 | subadult",,0,0
+"Euring 5",,0,0
+"Euring 5 | Immadur",,0,0
+"Euring 6",,0,0
+"Euring 6 | Immadur",,0,0
+"Euring 6 | indeterminable",,0,0
+"Euring 7",,0,0
+"Euring 7 | Immadur",,0,0
+"Euring 7 | Immadur | Euring 9",,0,0
+"Euring 8",,0,0
+"Euring 9",,0,0
 "Even trace in both",,0,0
 "evenly commenced in both eggs",,0,0
 "evenly started",,0,0
@@ -11591,6 +11638,10 @@ Sowing blood-1",,0,0
 "imm; patches of black in yellow-",,0,0
 "Imm?",,0,0
 "imm? (lips present, low oss.)",,0,0
+"Immadur",,0,0
+"Immadur | Euring 11",,0,0
+"Immadur | Euring 8",,0,0
+"Immadur | Euring 9",,0,0
 "immarture",,0,0
 "Immat.",,0,0
 "Immataure",,0,0
@@ -11914,6 +11965,7 @@ Sowing blood-1",,0,0
 "Incubayed- chick preserved",,0,0
 "Ind",,0,0
 "Inde",,0,0
+"indeterminable",,0,0
 "indeterminate",,0,0
 "inf.",,0,0
 "infant",,0,0
@@ -12369,6 +12421,15 @@ Sowing blood-1",,0,0
 "JUVENAL PLUMAGE; BURSA 7 MM DIAM",,0,0
 "JUVENAL PLUMAGE; SKULL 0% OSS.; ",,0,0
 "Juvenil","juvenile",0,1
+"juvenil | cria",,0,0
+"juvenil | Euring 1",,0,0
+"juvenil | Euring 2",,0,0
+"juvenil | Euring 3",,0,0
+"juvenil | Euring 3 | Euring 5",,0,0
+"juvenil | Euring 3j",,0,0
+"juvenil | Euring 5",,0,0
+"juvenil | Euring 7",,0,0
+"juvenil | subadult",,0,0
 "juvenil, en muda","juvenile, in molt",0,1
 "Juvenil;e","juvenile",0,1
 "juvenile","juvenile",1,1
@@ -14043,6 +14104,7 @@ Infertile-1",,0,0
 "no adult seen",,0,0
 "No adults on eggs",,0,0
 "no adults seen",,0,0
+"no aplicable",,0,0
 "no apparaent development",,0,0
 "no apparent development",,0,0
 "No blood",,0,0
@@ -14450,6 +14512,7 @@ Infertile-1",,0,0
 "nothing-deserted",,0,0
 "Noticeable",,0,0
 "notr recorded",,0,0
+"nounat",,0,0
 "nouveau",,0,0
 "nouveau-né",,0,0
 "Npne",,0,0
@@ -14835,6 +14898,7 @@ Infertile-1",,0,0
 "ossified skull",,0,0
 "Ossified skull.",,0,0
 "others hatched",,0,0
+"ou",,0,0
 "ovarian eggs","ovarian egg",0,1
 "Over",,0,0
 "over 1 day",,0,0
@@ -16852,6 +16916,11 @@ Started",,0,0
 "Sub-Adult [Male ?]","subadult",0,1
 "Sub-adult [Sex ?]","subadult",0,1
 "subadult \ adult",,0,0
+"subadult | Euring 10",,0,0
+"subadult | Euring 3",,0,0
+"subadult | Euring 5",,0,0
+"subadult | Euring 7",,0,0
+"subadult | Euring 9",,0,0
 "SUBADULT BY PLUMAGE",,0,0
 "Subadult Female","subadult",0,1
 "Sub-adult Female","subadult",0,1
