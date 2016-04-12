@@ -655,6 +655,7 @@ M[F]","unknown",0,1
 "F, U","female | unknown",0,1
 "F.","female",0,1
 "f. adult","female",0,1
+"F.female","female",0,1
 "F/AD","female",0,1
 "F/FLEDGLING","female",0,1
 "F/IMM","female",0,1
@@ -813,6 +814,8 @@ M[F]","unknown",0,1
 "Female, SVL 198 mm, Tail 24 mm","female",0,1
 "Female, SVL 33 mm, tail 31 mm","female",0,1
 "Female, with 10 large eggs","female",0,1
+"female.male","female | male",0,1
+"female.undet.","female | unknown",0,1
 "female/male","female | male",0,1
 "female/male (on label)","female | male",0,1
 "female?","in question",0,1
@@ -1280,6 +1283,7 @@ M[F]","unknown",0,1
 "Male, Tissue-Liver sample taken","male",0,1
 "Male, Tissue-scale clip","male",0,1
 "Male, Tissue-scale clips","male",0,1
+"male.female","female | male",0,1
 "male/female","female | male",0,1
 "male/female (in text)","unknown",0,1
 "male/female (labelled as)","unknown",0,1
@@ -1421,6 +1425,8 @@ M[F]","unknown",0,1
 "u, juvenile","unknown",0,1
 "u, u","unknown",0,1
 "u. adult","unknown",0,1
+"U.female","female | unknown",0,1
+"U.male","male | unknown",0,1
 "U.S.","unknown",0,1
 "U?","in question",0,1
 "UAZ egg clutch 3, 1967",,0,1
@@ -1428,6 +1434,9 @@ M[F]","unknown",0,1
 "uncertain","unknown",0,1
 "underlined M","male",0,1
 "Underside of tail red, belly and",,0,1
+"undet.","unknown",0,1
+"undet..female","female | unknown",0,1
+"undet..male","male | unknown",0,1
 "undeterminable","indeterminable",0,1
 "undetermined","unknown",0,1
 "unk","unknown",0,1

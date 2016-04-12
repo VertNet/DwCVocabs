@@ -77,6 +77,8 @@
 " MAR",3,59,1
 " March",3,59,1
 " May",5,120,1
+" Nov ",11,304,1
+" Oct ",10,273,1
 " October",10,273,1
 " or 2nd  week",,,1
 " SEP",9,243,1
@@ -99,6 +101,7 @@ May",5,120,1
 "& 27 Nov ",,,1
 "& 30 June",,,1
 "& 6  April",,,1
+"(4) May",5,120,1
 "(Aug)",8,212,1
 "(Aug?)-",8,212,1
 "(June?)",6,151,1
@@ -160,6 +163,7 @@ May",5,120,1
 "17 & 18",,,1
 "17 Apr",4,90,1
 "17 March",3,59,1
+"17 May",5,120,1
 "18 ",,,1
 "18 October",10,273,1
 "18?",,,1
@@ -223,6 +227,7 @@ May",,,1
 "21",,,1
 "21 Jun",6,151,1
 "21 May",5,120,1
+"21 Nov ",11,304,1
 "21 September",9,243,1
 "210MAY",5,120,1
 "21MAY",5,120,1
@@ -266,8 +271,10 @@ May",,,1
 "3/",,,1
 "3/*/",,,1
 "30",,,1
+"30 198",,,0
 "30 July",7,181,1
 "30 Jun",6,151,1
+"30 Nov ",11,304,1
 "30 October",10,273,1
 "31",,,1
 "31 July",7,181,1
@@ -346,6 +353,7 @@ May",,,1
 "August-",8,212,1
 "August and September",,,1
 "Augustust",8,212,1
+"Auh",8,212,1
 "AUT",8,212,1
 "Autumn",,,1
 "before",,,1
@@ -357,6 +365,7 @@ May",,,1
 "Date",,,1
 "date as",,,1
 "date]",,,1
+"DDec",12,334,1
 "de",,,1
 "de desembre",12,334,1
 "de fra Julià",,,1
@@ -390,7 +399,7 @@ May",,,1
 "entre el 1990 i maig del",,,1
 "entre el 1990 i març del",,,1
 "entre l'any 2000 i",,,1
-"estiu-",0,0,1
+"estiu-",,,1
 "FAL",,,1
 "Fall",,,1
 "FALSE",,,1
@@ -402,10 +411,12 @@ May",,,1
 "February",2,31,1
 "Febuary",2,31,1
 "Feburary",2,31,1
+"Fen",2,31,1
 "field",,,1
 "fr  Marti Rossell",,,1
 "gener",1,0,1
 "hivern",,,1
+"Hune",6,151,1
 "i",1,0,1
 "ii",2,31,1
 "iii",3,59,1
@@ -430,6 +441,7 @@ May",,,1
 "Jul 1970& 3 Apr",,,1
 "Jul 1976",7,181,1
 "Jul 22",7,181,1
+"Jult",7,181,1
 "July",7,181,1
 "July-",7,181,1
 "July 18 ",7,181,1
@@ -443,6 +455,7 @@ May",,,1
 "June - Aug",,,1
 "June or 3 July",,,1
 "June/July",,,1
+"Juune",6,151,1
 "Juy",7,181,1
 "l'abril i el juny de",,,1
 "Late",,,1
@@ -474,6 +487,7 @@ May",,,1
 "MYA",5,120,1
 "No",,,1
 "Nov",11,304,1
+"Nov -",11,304,1
 "Nov 1955 or",,,1
 "Nov 1959 or",,,1
 "Nov 1965 or",,,1
@@ -482,6 +496,7 @@ May",,,1
 "Nov/Dec",,,1
 "NOVC",11,304,1
 "November",11,304,1
+"November 1952",11,304,1
 "November 2 or",,,1
 "novembre",11,304,1
 "NV",11,304,1
@@ -544,13 +559,14 @@ May",,,1
 "Spring",,,1
 "Spring/Summer",,,1
 "SUM",,,1
+"Sumer",,,1
 "Summer",,,1
 "Summer 1975 & Feb",,,1
 "summer June",,,1
 "summer of 2004 or",,,1
 "Summer/Fall",,,1
 "Summer/Spring",,,1
-"tardor",0,0,1
+"tardor",,,1
 "to",,,1
 "to 3 Aug",,,1
 "to mid",,,1

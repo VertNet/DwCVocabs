@@ -4100,6 +4100,7 @@
 "Cautula","Cautula","Scincidae","Squamata","Reptilia","Chordata","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",1,1,,0
 "Cavenderichthys","Cavenderichthys","Leptolepidae","Leptolepiformes","Actinopterygii","Chordata","Animalia","Wikipedia",0,1,,0
 "Cavia","Cavia","Caviidae","Rodentia","Mammalia","Chordata","Animalia","ITIS",1,1,,0
+"Cavia.","Cavia","Caviidae","Rodentia","Mammalia","Chordata","Animalia","ITIS",0,1,"Genus contains punctuation.",0
 "Caviella","Microcavia","Caviidae","Rodentia","Mammalia","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,"Genus is a synonym.",0
 "Cayx","Ceyx","Alcedinidae","Coraciiformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus misspelled.",0
 "Ceaphlorus",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
@@ -9654,6 +9655,7 @@
 "GRANDISONIA","Grandisonia","Indotyphlidae","Gymnophiona","Amphibia","Chordata","Animalia","AmphibiaWeb 2014-04-11",1,1,,0
 "Grantiella","Grantiella","Meliphagidae","Passeriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "GRAOMYS","Graomys","Cricetidae","Rodentia","Mammalia","Chordata","Animalia","Mammal Species of the World. 2005.",1,1,,0
+"Graomys sp.","Graomys","Muridae","Rodentia","Mammalia","Chordata","Animalia","ITIS",0,1,"Genus contains an identification qualifier.",0
 "GRAPHIURUS","Graphiurus","Myoxidae","Rodentia","Mammalia","Chordata","Animalia","ITIS",1,1,,0
 "Grapsus","Grapsus","Grapsidae","Decapoda","Malacostraca","Arthropoda","Animalia","Species 2000 & ITIS Catalogue of Life: April 2013",1,1,,0
 "GRAPTEMYS","Graptemys","Emydidae","Testudines","Reptilia","Chordata","Animalia","ITIS",1,1,,0
@@ -10660,6 +10662,7 @@
 "Histiophryne","Histiophryne","Antennariidae","Lophiiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Histiopterus","Histiopterus","Pentacerotidae","Perciformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Histiotus","Histiotus","Vespertilionidae","Chiroptera","Mammalia","Chordata","Animalia","ITIS",1,1,,0
+"Histricomorpha",,,"Rodentia","Mammalia","Chordata","Animalia","ITIS",0,1,"Genus is a suborder.",0
 "Histrio","Histrio","Antennariidae","Lophiiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Histrionicus","Histrionicus","Anatidae","Anseriformes","Aves","Chordata","Animalia","ITIS",1,1,,0
 "Histriophaps","Phaps","Columbidae","Columbiformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus is a synonym.",0
@@ -11911,6 +11914,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Lalmohania","Lalmohania","Monacanthidae","Tetraodontiformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
 "Lalocitta","Calocitta","Corvidae","Passeriformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus misspelled.",0
 "Lama","Lama","Camelidae","Artiodactyla","Mammalia","Chordata","Animalia","ITIS",1,1,,0
+"Lama.","Lama","Camelidae","Artiodactyla","Mammalia","Chordata","Animalia","ITIS",0,1,"Genus contains punctuation.",0
 "Lambdoceras","Lambdoceras","Protoceratidae","Artiodactyla","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Lambdopsalis","Lambdopsalis","Taeniolabididae","Multituberculata","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Lambdotherium","Lambdotherium","Brontotheriidae","Perissodactyla","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
@@ -15039,6 +15043,7 @@ HOMO","Homo","Hominidae","Primates","Mammalia","Chordata","Animalia","Species 20
 "Mystactes",,,,"Aves","Chordata","Animalia",,0,1,"Genus not found.",0
 "Mystalus","Nystalus","Bucconidae","Piciformes","Aves","Chordata","Animalia","Avibase",0,1,"Genus misspelled.",0
 "Mystax","Saguinus","Cebidae","Primates","Mammalia","Chordata","Animalia","Interim Register of Marine and Nonmarine Genera",0,1,"Genus is a synonym.",0
+"Mysticete",,,"Cetacea","Mammalia","Chordata","Animalia","ITIS",0,1,"Genus is a common name for a suborder.",0
 "Mystipeterus","Mystipterus","Talpidae","Soricomorpha","Mammalia","Chordata","Animalia","Paleobiology Database",0,1,"Genus misspelled.",0
 "Mystipterus","Mystipterus","Talpidae","Soricomorpha","Mammalia","Chordata","Animalia","Paleobiology Database",1,1,,0
 "Mystriophis","Mystriophis","Ophichthidae","Anguilliformes","Actinopterygii","Chordata","Animalia","ITIS",1,1,,0
