@@ -504,6 +504,7 @@ M[F]","unknown",0,1
 "captive for ca 1 year",,0,1
 "cat. says M, label says M; mount","male",0,1
 "Cochise",,0,1
+"could not determine","indeterminable",0,1
 "D","unknown",0,1
 "dark phase",,0,1
 "desconegut","unknown",0,1
@@ -535,6 +536,7 @@ M[F]","unknown",0,1
 "F (=M)","unknown",0,1
 "F (1st year)","female",0,1
 "F (by dissection)","female",0,1
+"f (by plumage)","female",0,1
 "F (cat. lists as F juv.)","female",0,1
 "F (cat. says none, looks like F)","female",0,1
 "F (cataloged M)","female",0,1
@@ -853,7 +855,12 @@ M[F]","unknown",0,1
 "gF(7)","female",0,1
 "gF(8)","female",0,1
 "gF(9)","female",0,1
+"gonads destroyed",,0,1
+"gonads destroyed by shot",,0,1
+"gonads not developed",,0,1
 "gonads not found","unknown",0,1
+"Gonads not found.",,0,1
+"gonads rotted",,0,1
 "Gravid",,0,1
 "Gravid Female","female",0,1
 "Green",,0,1
@@ -1332,6 +1339,7 @@ M[F]","unknown",0,1
 "No","unknown",0,1
 "no aplicable",,0,1
 "no data","unknown",0,1
+"no gonads found.",,0,1
 "No nuptial pads, throat white, n",,0,1
 "no sex","unknown",0,1
 "no sex given","unknown",0,1
@@ -1339,8 +1347,10 @@ M[F]","unknown",0,1
 "not determined","unknown",0,1
 "not found","unknown",0,1
 "not listed","unknown",0,1
+"not observed","unknown",0,1
 "not recorded","unknown",0,1
 "not sexed","unknown",0,1
+"not visible",,0,1
 "NOTES",,0,1
 "NR","unknown",0,1
 "O","unknown",0,1
@@ -1439,11 +1449,13 @@ M[F]","unknown",0,1
 "undet..male","male | unknown",0,1
 "undeterminable","indeterminable",0,1
 "undetermined","unknown",0,1
+"undetermined (shot in abdomen)",,0,1
 "unk","unknown",0,1
 "unk.","unknown",0,1
 "unknowable","indeterminable",0,1
 "Unknowm","unknown",0,1
 "unknown","unknown",1,1
+"unknown (shot in abdomen)",,0,1
 "unknown , female ?","in question",0,1
 "unknown , male","male",0,1
 "unknown , unknown","unknown",0,1

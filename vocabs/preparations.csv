@@ -7803,6 +7803,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Bo+Ägg",,0,0
 "BODY",,0,0
 "body (ethanol) | skull",,0,0
+"body (ethanol) | skull | liver (95% ethanol)",,0,0
 "body (ethanol) | skull | muscle (95% ethanol)",,0,0
 "Body (fragment) + spine",,0,0
 "Body (in spirit)",,0,0
@@ -21401,6 +21402,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "FAT",,0,0
 "FB","flat skin with complete skeleton",0,1
 "FD",,0,0
+"fdm",,0,0
 "Feather","feather",0,1
 "Feather - 1","feather - 1",0,1
 "Feather - 1; Feather - 1; Feather - 1; Feather - 1; Skin - 1; Feather - 1","feather - 1 | feather - 1 | feather - 1 | feather - 1 | skin - 1 | feather - 1",0,1
@@ -31692,6 +31694,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "live mount, partial skeleton, tissue",,0,0
 "live; no longer in collection",,0,0
 "liver (95% ethanol)",,0,0
+"liver (95% ethanol) | liver (95% ethanol)",,0,0
+"liver (95% ethanol) | muscle (95% ethanol)",,0,0
 "Liver (in spirit)",,0,0
 "LIx/",,0,0
 "lizard dentaries",,0,0
@@ -36399,6 +36403,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "osteoderms+vertebra",,0,0
 "osteoderms+vertebra, unassoc",,0,0
 "OSTEODERMSS",,0,0
+"osteology",,0,0
 "osteoscutes",,0,0
 "OSTERDERM",,0,0
 "OSTERDERM,TEETH",,0,0
@@ -39438,6 +39443,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Partial Skeleton (no skull)",,0,0
 "partial skeleton (skull missing)",,0,0
 "partial skeleton [card catalog]; >1 indiv or taxon",,0,0
+"partial skeleton | kidney (95% ethanol)",,0,0
 "partial skeleton | partial skeleton",,0,0
 "PARTIAL SKELETON | tissue",,0,0
 "Partial Skeleton + 2 Wings + Tail",,0,0
@@ -53435,6 +53441,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "skelton/wing/tissue saved",,0,0
 "skin","skin",1,1
 "Skin'","skin",0,1
+"skin   | skull | liver (95%ethanol)",,0,0
+"skin   | skull | skeleton | liver (95%ethanol)",,0,0
+"skin   | skull | skeleton | muscle (95%ethanol)",,0,0
 "skin  (pelt)",,0,0
 "skin  (round)",,0,0
 "skin  (round), none",,0,0
@@ -53697,6 +53706,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin (cased mount)",,0,0
 "Skin (damaged) + skull with jaw (in skin)",,0,0
 "SKIN (DRY)","skin",0,1
+"skin (dry) | skin clip (95% ethanol)",,0,0
 "skin (dry) sample; skin (dry) sample; tissue (dry); hide (dry); skeleton (dry)",,0,0
 "skin (dry); hide (dry)",,0,0
 "skin (dry); other (dry)",,0,0
@@ -54222,10 +54232,20 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin / wing/ tissue/ stom saved",,0,0
 "skin ?",,0,0
 "Skin [+ Trunk Skeleton ?]",,0,0
+"skin |  ",,0,0
+"skin | liver (95% ethanol)",,0,0
+"skin | skeleton | liver (95% ethanol)",,0,0
 "skin | skin",,0,0
 "skin | skin | skull",,0,0
 "skin | skull",,0,0
+"skin | skull  | liver (95% ethanol)",,0,0
+"skin | skull  | skeleton",,0,0
+"skin | skull  | skeleton | liver (95% ethanol)",,0,0
+"skin | skull  | skeleton | muscle (95% ethanol)",,0,0
+"skin | skull | baculum | liver (95% ethanol)",,0,0
+"skin | skull | carcass (ethanol) | liver (95% ethanol)",,0,0
 "skin | skull | carcass (ethanol) | muscle (95% ethanol)",,0,0
+"skin | skull | dried muscle (in 95% ethanol)",,0,0
 "skin | skull | liver (95% ethanol)",,0,0
 "skin | skull | muscle (95% ethanol)",,0,0
 "skin | skull | skeleton",,0,0
@@ -72969,6 +72989,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skul (sectioned)l with jaw",,0,0
 "skul/post-cranial",,0,0
 "skull","skull",1,1
+"skull  | skeleton | liver (95% ethanol)",,0,0
 "Skull - 0",,0,0
 "Skull - 1",,0,0
 "Skull - 1; Ancillary Material - 1",,0,0
@@ -73729,17 +73750,24 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULL / VERTEBRAE / LEG (DRY)",,0,0
 "SKULL / VERTEBRAE / LEG (DRY), tissue","leg | skull | vertebrae | tissue",0,1
 "skull ?",,0,0
+"skull |  ",,0,0
 "skull | body (ethanol)",,0,0
+"skull | dessicated brain (95% ethanol)",,0,0
 "skull | heart (95% ethanol)",,0,0
+"skull | kidney (95%ethanol)",,0,0
 "skull | liver (95% ethanol)",,0,0
+"skull | liver (95%ethanol)",,0,0
 "skull | muscle (95% ethanol)",,0,0
 "skull | shell",,0,0
+"skull | skeletal parts | dried muscle (in 95% ethanol)",,0,0
 "skull | skeletom",,0,0
 "skull | skeleton",,0,0
 "skull | skeleton | kidney (95% ethanol)",,0,0
 "skull | skeleton | liver (95% ethanol)",,0,0
 "skull | skeleton | liver (95% ethanol) | liver (95% ethanol)",,0,0
+"skull | skeleton | liver (95%ethanol)",,0,0
 "skull | skeleton | muscle (95% ethanol)",,0,0
+"skull | skin clip (95% ethanol)",,0,0
 "skull | skull",,0,0
 "skull | tail (dry) | liver (95% ethanol) | heart (95% ethanol)",,0,0
 "skull | tissue",,0,0
@@ -75787,6 +75815,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Slides",,0,0
 "Slides mounted",,0,0
 "Slipat skal",,0,0
+"slull | liver (95% ethanol)",,0,0
 "SM","skin | skull | baculum",0,1
 "small bone fragments",,0,0
 "small hollow bone fragment",,0,0
@@ -76714,6 +76743,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tail (mounted in spirit)",,0,0
 "Tail (mounted)",,0,0
 "Tail (mounted, in spirit)",,0,0
+"tail | muscle (95% ethanol)",,0,0
 "Tail + vertebrae (posterior)",,0,0
 "tail and 1 foot only",,0,0
 "Tail and Body ""shell""",,0,0
@@ -80749,6 +80779,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "whole organism (dry)",,0,0
 "whole organism (ethanol)",,0,0
 "whole organism (ethanol) | liver (95% ethanol)",,0,0
+"whole organism (ethanol) | liver (95%ethanol)",,0,0
 "whole organism (ethanol) | muscle (95% ethanol)",,0,0
 "whole organism (ethanol) | skin clip (95% ethanol)",,0,0
 "whole skeleton",,0,0

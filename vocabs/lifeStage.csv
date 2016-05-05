@@ -326,6 +326,8 @@
 "*","unknown",0,1
 "*[1st nupt. ?]",,0,0
 "*[Juv.]",,0,0
+"*fledgling",,0,0
+"*juvenile",,0,0
 ".","unknown",0,1
 "..",,0,1
 ".0",,0,0
@@ -3387,6 +3389,7 @@ begun",,0,0
 "3 very near fresh, one four or five days",,0,0
 "3 we",,0,0
 "3 weeks",,0,0
+"3 weeks old",,0,0
 "3 weeks, 2 days",,0,0
 "3 well advanced, 1 runt addled",,0,0
 "3 well begun, other infertile",,0,0
@@ -3563,6 +3566,7 @@ begun",,0,0
 "3873 depredated",,0,0
 "3875, 3877 fresh",,0,0
 "3891 moderate; 3893 slight",,0,0
+"39",,0,0
 "39 adults",,0,0
 "39 g",,0,0
 "39.0 g",,0,0
@@ -3779,6 +3783,7 @@ begun",,0,0
 "4 Very Sm. Embryos, 1 Sm. Embryo",,0,0
 "4 very small embryos",,0,0
 "4 weeks",,0,0
+"4 weeks old",,0,0
 "4 years",,0,0
 "4 yo",,0,0
 "4 Young",,0,0
@@ -3878,6 +3883,7 @@ begun",,0,0
 "4-5 hours",,0,0
 "4-5 j",,0,0
 "4-5 jours",,0,0
+"4-5 weeks",,0,0
 "4-5 years",,0,0
 "4-5 yr",,0,0
 "4506-07 advanced",,0,0
@@ -7302,6 +7308,7 @@ Trace.",,0,0
 "Broken--appears hatched",,0,0
 "brooded",,0,0
 "broodpatch",,0,0
+"brownie",,0,0
 "BUERSA 5 X 4 ,,",,0,0
 "BUIRSA NOT FOUND",,0,0
 "BUIRSA NOT FOUND; SKULL 100% OSS",,0,0
@@ -8132,6 +8139,7 @@ Trace.",,0,0
 "Chick, 1 day",,0,0
 "Chick, 1 day old",,0,0
 "Chick, 2 days",,0,0
+"chick, 3 days old",,0,0
 "Chick, 3days",,0,0
 "Chick, 41 days old",,0,0
 "Chick, 6 days",,0,0
@@ -9603,6 +9611,7 @@ Trace.",,0,0
 "First Year Male","first year",0,1
 "first year plumage",,0,0
 "first year subadult",,0,0
+"first year, immature",,0,0
 "FIRST YEAR, SKULL COMPLETELY OSS",,0,0
 "FIRST YEAR, SKULL NOT COMPLETELY",,0,0
 "first year?",,0,0
@@ -11824,6 +11833,8 @@ Sowing blood-1",,0,0
 "immature, bursa 10 x 7 mm",,0,0
 "immature, bursa 4 x 2 mm",,0,0
 "Immature, Hatched 23 May, 1950",,0,0
+"immature, juvenile",,0,0
+"immature, non-breeding",,0,0
 "immature, skull 10% ossified","immature",0,1
 "Immature, skull 20% oss.","immature",0,1
 "IMMATURE, SKULL COMPLETELY OSSIF",,0,0
@@ -12631,13 +12642,21 @@ Sowing blood-1",,0,0
 "juvenile(s)",,0,0
 "JUVENILE,",,0,0
 "JUVENILE,  ADULT",,0,0
+"juvenile, 1 day old",,0,0
 "juvenile, 1/3 ossification","juvenile",0,1
+"juvenile, 10 days old",,0,0
+"juvenile, 15 days old",,0,0
+"juvenile, 3 weeks",,0,0
+"juvenile, 4 weeks",,0,0
 "Juvenile, 4-5 months old",,0,0
+"juvenile, 4-5 weeks",,0,0
+"juvenile, 5 weeks, freeze dried ",,0,0
 "Juvenile, 60% oss.","juvenile",0,1
 "Juvenile, 66 cm SVL,  89g",,0,0
 "Juvenile, about 1/4 full size","juvenile",0,1
 "JUVENILE, ADULT",,0,0
 "JUVENILE, BY PLUMAGE",,0,0
+"juvenile, immature",,0,0
 "juvenile, lerss then 1 yr",,0,0
 "Juvenile, liver tissue taken",,0,0
 "JUVENILE, MORE OR LESS 16 days o",,0,0
@@ -14410,6 +14429,7 @@ Infertile-1",,0,0
 "non feconde",,0,0
 "non incubated",,0,0
 "non vides",,0,0
+"non-breeding",,0,0
 "none",,0,1
 "none  (one egg in very bad shape",,0,0
 "none  (one egg in very bad shape)",,0,0
@@ -14471,6 +14491,7 @@ Infertile-1",,0,0
 "not commensed",,0,0
 "not complete",,0,0
 "not determined",,0,0
+"not developed",,0,0
 "Not entered",,0,0
 "Not even, but not advanced",,0,0
 "Not far advanced",,0,0
@@ -15108,6 +15129,7 @@ fresh",,0,0
 "Possibly infertile",,0,0
 "POSSIBLY JUVENILE","juvenile",0,1
 "post",,0,0
+"Post breeding adult",,0,0
 "Post larvaeJuveniles","juvenile",0,1
 "Post nupt.",,0,0
 "Post Partum female",,0,0
