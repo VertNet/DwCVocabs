@@ -7817,6 +7817,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Body mummy","body mummy",0,1
 "body osteoderms",,0,0
 "body parts (ethanol)",,0,0
+"body parts (ethanol) | 17326",,0,0
 "BODY PLATE FRAG",,0,0
 "body skel",,0,0
 "body skel | tissue",,0,0
@@ -14657,7 +14658,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "EtOH","alcoholic",0,1
 "EtOH - 1","alcoholic",0,1
 "EtOH - 1; EtOH - 1","alcoholic",0,1
+"EtOH - 1; Skin only - 1; skeleton - 1",,0,0
 "EtOH - 2","alcoholic",0,1
+"EtOH - 5",,0,0
 "EtOH | ",,0,0
 "EtOH | 1",,0,0
 "EtOH | 100",,0,0
@@ -22030,6 +22033,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "flat skin & partial skeleton",,0,0
 "flat skin & partial skeleton | tissue",,0,0
 "flat skin & skull",,0,0
+"Flat skin & skull - 1",,0,0
 "flat skin & skull + complete skel",,0,0
 "flat skin & skull + skel",,0,0
 "flat skin (skull in skin)",,0,0
@@ -22063,6 +22067,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "flat skin + skel + alc stomach | tissue",,0,0
 "Flat Skin + Skeleton",,0,0
 "flat skin only",,0,0
+"Flat skin only - 1",,0,0
 "flat skin only | tissue",,0,0
 "flat skin w/o head",,0,0
 "flat skin w/o head | tissue",,0,0
@@ -24631,6 +24636,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "frozen in liquid N2 | tissue",,0,0
 "Frozen specimen","frozen specimens",0,1
 "Frozen tadpoles","frozen tadpoles",0,1
+"Frozen Tissue - 1; Nest - 1",,0,0
+"Frozen Tissue - 1; Skel - 1",,0,0
+"Frozen Tissue - 1; Skel - 1; Skin - 1",,0,0
+"Frozen Tissue - 1; Skel - 1; Stomach Contents - 1",,0,0
+"Frozen Tissue - 1; Skin - 1",,0,0
+"Frozen Tissue - 1; Skin - 1; Skin - 1",,0,0
+"Frozen Tissue - 1; Skin - 1; Stomach Contents - 1",,0,0
+"Frozen Tissue - 1; Stomach Contents - 1; Skel - 1",,0,0
+"Frozen Tissue - 1; Stomach Contents - 1; Skin - 1",,0,0
+"Frozen Tissue - 1; Stomach Contents - 1; Skin - 11",,0,0
+"Frozen Tissue - 1; Stomach Contents; Skin",,0,0
+"Frozen Tissue; Skin - 1",,0,0
 "frozen to 95% EtOH - 1",,0,0
 "frozen to 95% EtOH - 10",,0,0
 "frozen to 95% EtOH - 10; 70% EtOH - 1",,0,0
@@ -25172,6 +25189,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Head (dried)",,0,0
 "Head (dried, incomplete)",,0,0
 "head (ethanol)",,0,0
+"head (ethanol) | 16889",,0,0
+"head (ethanol) | 16890",,0,0
+"head (ethanol) | 16891",,0,0
+"head (ethanol) | 17071",,0,0
+"head (ethanol) | 17072",,0,0
 "head (ethanol) | muscle (95% ethanol)",,0,0
 "head (ethanol) | shell",,0,0
 "HEAD (GLYCERIN)","head (glycerin)",0,1
@@ -35005,6 +35027,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "mount? - 1",,0,0
 "mounted","mount",0,1
 "Mounted - 1",,0,0
+"Mounted - 1; Mounted - 1",,0,0
+"Mounted - 11",,0,0
 "mounted - skeleton",,0,0
 "mounted (head only)",,0,0
 "Mounted (live mount ?)",,0,0
@@ -35323,6 +35347,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Nest - 1; Eggset - 4","nest - 1 | eggset - 4",0,1
 "Nest - 1; Eggset - 7","nest - 1 | eggset - 7",0,1
 "Nest - 1; Eggset - null","nest - 1 | eggset - null",0,1
+"Nest - 1; Frozen Tissue - 1; Skin - 1",,0,0
 "Nest - 1; Misc. - 1",,0,0
 "Nest - 1; Skin - 1","nest - 1 | skin - 1",0,1
 "Nest - 1; Skin - 1; Eggset - 1","nest - 1 | skin - 1 | eggset - 1",0,1
@@ -48466,9 +48491,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel - 1; Flat_skin - 1","skeleton - 1 | flat skin - 1",0,1
 "Skel - 1; Flat_skin - 1; Syrinx - 1","skeleton - 1 | flat skin - 1 | syrinx - 1",0,1
 "Skel - 1; Fluid - 1","skeleton - 1 | fluid - 1",0,1
+"Skel - 1; Frozen Tissue - 1",,0,0
+"Skel - 1; Frozen Tissue - 1; Stomach Contents - 1",,0,0
 "Skel - 1; Genbank - 1","skeleton - 1 | Genbank - 1",0,1
 "Skel - 1; Skel - 1; Wings_tail - 1","skeleton - 1 | skeleton - 1 | wings_tail - 1",0,1
 "Skel - 1; Skin - 1","skeleton - 1 | skin - 1",0,1
+"Skel - 1; Skin - 1; Frozen Tissue - 1",,0,0
 "Skel - 1; Skin - 1; Skin/toe clip - 1","skeleton - 1 | skin - 1",0,1
 "Skel - 1; Skin - 1; Syrinx - 1","skeleton - 1 | skin - 1 | syrinx - 1",0,1
 "Skel - 1; Skin - 1; Syrinx - 1; Tissue - 1","skeleton - 1 | skin - 1 | syrinx - 1 | tissue - 1",0,1
@@ -48476,6 +48504,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skel - 1; Skin - 1; Tissue - 1; Syrinx - 1","skeleton - 1 | skin - 1 | tissue - 1 | syrinx - 1",0,1
 "Skel - 1; Skin - 1; Tissue - 50","skeleton - 1 | skin - 1 | tissue - 50",0,1
 "Skel - 1; Skin/toe clip - 1","skeleton - 1",0,1
+"Skel - 1; Skin; Frozen Tissue - 1",,0,0
+"Skel - 1; Stomach Contents - 1",,0,0
+"Skel - 1; Stomach Contents - 1; Frozen Tissue - 1",,0,0
 "Skel - 1; Syrinx - 1","skeleton - 1 | syrinx - 1",0,1
 "Skel - 1; Syrinx - 1; Flat_skin - 1","skeleton - 1 | syrinx - 1 | flat skin - 1",0,1
 "Skel - 1; Syrinx - 1; Skin - 1; Tissue - 1","skeleton - 1 | syrinx - 1 | skin - 1 | tissue - 1",0,1
@@ -49233,9 +49264,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton - 1; Skin",,0,0
 "Skeleton - 1; Skin - 1",,0,0
 "Skeleton - 1; Skin - 1; Skeleton - 1",,0,0
+"skeleton - 1; Skin & skull - 1",,0,0
 "Skeleton - 1; Skin (EtOH) - 1",,0,0
+"skeleton - 1; Skin only",,0,0
+"skeleton - 1; Skin only - 1",,0,0
+"skeleton - 1; Skin only - 1; EtOH - 1",,0,0
 "Skeleton - 1; Skin; Tissue",,0,0
 "Skeleton - 1; Skull - 1",,0,0
+"skeleton - 1; Skull only - 1",,0,0
 "Skeleton - 1; Study skin - 1",,0,0
 "Skeleton - 1; Syrinx - 1",,0,0
 "Skeleton - 1; Syrinx - 1; Tissue - 100",,0,0
@@ -53475,6 +53511,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 1; Fluid - 1; Skeleton - 1",,0,0
 "Skin - 1; Fluid - 1; Skull - 1",,0,0
 "Skin - 1; Fluid - 1; Syrinx - 1","skin - 1 | fluid - 1 | syrinx - 1",0,1
+"Skin - 1; Frozen Tissue - 1",,0,0
+"Skin - 1; Frozen Tissue - 1; Frozen Tissue - 1",,0,0
+"Skin - 1; Frozen Tissue - 1; Skel - 1",,0,0
+"Skin - 1; Frozen Tissue - 1; Skin - 1",,0,0
+"Skin - 1; Frozen Tissue - 1; Stomach Contents",,0,0
+"Skin - 1; Frozen Tissue - 1; Stomach Contents - 1",,0,0
 "Skin - 1; Genbank - 1","skin - 1 | Genbank - 1",0,1
 "Skin - 1; Genbank - 1; Genbank - 1","skin - 1 | Genbank - 1 | Genbank - 1",0,1
 "Skin - 1; Genbank - 1; Syrinx - 1; Wings_tail - 1; Tissue - 0; Fluid - 1; Skel - 1","skin - 1 | Genbank - 1 | syrinx - 1 | wings_tail - 1 | tissue - 0 | fluid - 1 | skeleton - 1",0,1
@@ -53531,6 +53573,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 1; Skeleton - 1; Wingspread - 1; Tissue - 100",,0,0
 "Skin - 1; Skeleton - 2",,0,0
 "Skin - 1; Skin - 1","skin - 1 | skin - 1",0,1
+"Skin - 1; Skin - 1; Frozen Tissue - 1",,0,0
 "Skin - 1; Skin/toe clip - 1","skin - 1",0,1
 "Skin - 1; Skin/toe clip - 1; Skel - 1; Feather - 1","skin - 1 | skeleton - 1 | feather - 1",0,1
 "Skin - 1; Skin/toe clip - 1; Tissue - 1; Skel - 1","skin - 1 | tissue - 1 | skeleton - 1",0,1
@@ -53545,6 +53588,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 1; Skull - 1; Skull - 1",,0,0
 "Skin - 1; Skull - 1; Tissue - 1",,0,0
 "Skin - 1; Sound - 1","skin - 1 | sound - 1",0,1
+"Skin - 1; Stomach Contents - 1",,0,0
+"Skin - 1; Stomach Contents - 1; Frozen Tissue",,0,0
+"Skin - 1; Stomach Contents - 1; Frozen Tissue - 1",,0,0
+"Skin - 1; Stomach Contents; Frozen Tissue - 1",,0,0
 "Skin - 1; Syrinx - 1","skin - 1 | syrinx - 1",0,1
 "Skin - 1; Syrinx - 1; Eggs - 1; Tissue - 100",,0,0
 "Skin - 1; Syrinx - 1; Skel - 1; Tissue - 10","skin - 1 | syrinx - 1 | skeleton - 1 | tissue - 10",0,1
@@ -53589,6 +53636,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 1; Wingspread - 1",,0,0
 "Skin - 1; Wingspread - 1; Syrinx - 1; Tissue - 100",,0,0
 "Skin - 1; Wingspread - 1; Tissue - 100",,0,0
+"Skin - 11",,0,0
 "Skin - 2",,0,0
 "Skin - 2; Skeleton - 2",,0,0
 "Skin - 50","skin - 50",0,1
@@ -53631,6 +53679,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKIN & SKELETON (SKEL.MISS)","skin",0,1
 "skin & skeleton | skin & skeleton",,0,0
 "skin & skull",,0,0
+"Skin & skull - 1",,0,0
+"Skin & skull - 1; Skin only - 1",,0,0
+"Skin & skull - 11",,0,0
+"Skin & skull - 2",,0,0
 "skin & skull (mandible)",,0,0
 "skin & skull (skull in skin)",,0,0
 "skin & skull (skull missing, 5/2012ceo)",,0,0
@@ -54469,6 +54521,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin on a card - 1",,0,0
 "Skin on a card and Skull - 1",,0,0
 "Skin Only","skin",0,1
+"Skin only - 1",,0,0
+"Skin only - 1; skeleton - 1",,0,0
+"Skin only - 11",,0,0
 "skin only (rug)",,0,0
 "skin only (tanned)",,0,0
 "skin only *",,0,0
@@ -72874,6 +72929,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin; sternum",,0,0
 "skin; Sternum saved",,0,0
 "skin; sternum; trachea; furcula",,0,0
+"Skin; Stomach Contents - 1; Frozen Tissue - 1",,0,0
 "skin; Stomach saved",,0,0
 "Skin; Syrinx",,0,0
 "Skin; Syrinx; Skel",,0,0
@@ -74368,6 +74424,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull on part and counterpart",,0,0
 "SKULL ONLY","skull",0,1
 "Skull Only - 1",,0,0
+"Skull only - 11",,0,0
 "skull only (1/2)",,0,0
 "skull only (cat. lists faint pencil ""skin & skull"")",,0,0
 "SKULL ONLY (POSTERIOR 2/3)","partial skull",0,1
@@ -76249,7 +76306,17 @@ R PERIPHERALS 2 - 3.",,0,0
 "Stomach + liver + gall bladder (in spirit)",,0,0
 "Stomach + liver + pancreas (in spirit)",,0,0
 "Stomach + lungs (in spirit)",,0,0
+"Stomach Contents - 1; Frozen Tissue - 1; Skel - 1",,0,0
+"Stomach Contents - 1; Frozen Tissue - 1; Skin - 1",,0,0
+"Stomach Contents - 1; Frozen Tissue - 11; Skin - 1",,0,0
+"Stomach Contents - 1; Skel - 1; Frozen Tissue - 1",,0,0
+"Stomach Contents - 1; Skin - 1",,0,0
+"Stomach Contents - 1; Skin - 1; Frozen Tissue - 1",,0,0
+"Stomach Contents - 1; Skin; Frozen Tissue - 1",,0,0
 "stomach contents (ethanol)",,0,0
+"Stomach Contents; Frozen Tissue - 1; Skin - 1",,0,0
+"Stomach Contents; Frozen Tissue; Skin",,0,0
+"Stomach Contents; Skin - 1; Frozen Tissue - 1",,0,0
 "Stomach etc. (in spirit)",,0,0
 "stomach hair ball",,0,0
 "stomach plastic","plastic stomach",0,1
@@ -80777,6 +80844,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "whole mount on glass",,0,0
 "whole orgainism (ethanol)",,0,0
 "whole organism (dry)",,0,0
+"whole organism (dry) | 16897",,0,0
+"whole organism (dry) | 16902",,0,0
+"whole organism (dry) | 16903",,0,0
+"whole organism (dry) | 16904",,0,0
 "whole organism (ethanol)",,0,0
 "whole organism (ethanol) | liver (95% ethanol)",,0,0
 "whole organism (ethanol) | liver (95%ethanol)",,0,0
@@ -81290,6 +81361,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Xiphisternum.",,0,0
 "Xiphoid process",,0,0
 "X-ray - 0; Fluid - 1",,0,0
+"x-ray - 1",,0,0
 "X-SEC (MICROSLIDE)","cross-section (microslide)",0,1
 "X-SEC (WAX MOUNT+MICROSLIDES)","cross-section (wax mount, microslides)",0,1
 "X-SEC GILL (MICROSLIDE)","cross-section gill (microslide)",0,1
