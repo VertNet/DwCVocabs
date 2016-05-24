@@ -8091,6 +8091,9 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "BUTTRESS FRAG",,0,0
 "C",,0,0
 "C & S",,0,0
+"C & S - 0",,0,0
+"C & S - 1",,0,0
+"C & S + skin - 1",,0,0
 "C ?",,0,0
 "C and S - 1","cleared and stained",0,1
 "C CROWN",,0,0
@@ -14547,6 +14550,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "ET","alcoholic",0,1
 "ETHANOL",,0,0
 "Ethanol - 1",,0,0
+"Ethanol - 1; Ethanol - 1",,0,0
+"Ethanol - 1; Ethanol - 1; Ethanol - 1",,0,0
+"Ethanol - 1; Tissue - 100",,0,0
 "Ethanol - 10",,0,0
 "Ethanol - 11",,0,0
 "Ethanol - 110",,0,0
@@ -23971,6 +23977,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Forelimbs + part vertebral column + pelvis (mounted)",,0,0
 "FORMALDEHYDE",,0,0
 "formalin","formalin",1,1
+"Formalin - 0",,0,0
 "Formalin - 1","formalin",0,1
 "Formalin - 10",,0,0
 "Formalin - 100",,0,0
@@ -24010,6 +24017,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Formalin - 35",,0,0
 "Formalin - 36",,0,0
 "Formalin - 37",,0,0
+"Formalin - 39",,0,0
 "Formalin - 4",,0,0
 "Formalin - 40",,0,0
 "Formalin - 41",,0,0
@@ -24018,6 +24026,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Formalin - 48",,0,0
 "Formalin - 49",,0,0
 "Formalin - 5",,0,0
+"Formalin - 50",,0,0
 "Formalin - 51",,0,0
 "Formalin - 52",,0,0
 "Formalin - 53",,0,0
@@ -24027,11 +24036,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Formalin - 6",,0,0
 "Formalin - 60",,0,0
 "Formalin - 64",,0,0
+"Formalin - 65",,0,0
 "Formalin - 66",,0,0
 "Formalin - 67",,0,0
 "Formalin - 69",,0,0
 "Formalin - 7",,0,0
 "Formalin - 71",,0,0
+"Formalin - 76",,0,0
 "Formalin - 8",,0,0
 "Formalin - 9",,0,0
 "Formalin - 92",,0,0
@@ -25343,6 +25354,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "HEMIPENE (GLYCERIN)","hemipene (glycerin)",0,1
 "HEMIPENES (GLYCERIN)","hemipenes (glycerin)",0,1
 "Hemipenis","hemipenis",1,1
+"Hemipenis - 1; C & S - 1",,0,0
+"Hemipenis - 1; Formalin - 1",,0,0
+"Hemipenis - 1; Isopropanol - 0",,0,0
+"Hemipenis - 1; Isopropanol - 1",,0,0
+"Hemipenis - 1; Skeleton - 1",,0,0
+"Hemipenis - 1; Skeleton + skin - 1",,0,0
+"Hemipenis - 1; Skin - 1",,0,0
+"Hemipenis - 1; Tissue - 100; Formalin - 1",,0,0
+"Hemipenis - 1; Tissue - 100; Isopropanol - 1",,0,0
+"Hemipenis - 1; Tissue - 100; Skeleton - 1",,0,0
+"Hemipenis - 1; Tissue - 100; Skeleton + skin - 0",,0,0
+"Hemipenis - 1; Tissue - 100; Skeleton + skin - 1",,0,0
 "HEMIPENIS (GLYCERIN)","hemipenes (glycerin)",0,1
 "Hemipenis | C&S | Dry | Fluid",,0,0
 "Hemipenis | C&S | Fluid",,0,0
@@ -26840,6 +26863,32 @@ R PERIPHERALS 2 - 3.",,0,0
 "isolated vertebra",,0,0
 "isolated vertebra frag",,0,0
 "ISOPROPANOL",,0,0
+"Isopropanol - 0",,0,0
+"Isopropanol - 1",,0,0
+"Isopropanol - 10",,0,0
+"Isopropanol - 11",,0,0
+"Isopropanol - 14",,0,0
+"Isopropanol - 15",,0,0
+"Isopropanol - 2",,0,0
+"Isopropanol - 20",,0,0
+"Isopropanol - 22",,0,0
+"Isopropanol - 224",,0,0
+"Isopropanol - 23",,0,0
+"Isopropanol - 25",,0,0
+"Isopropanol - 28",,0,0
+"Isopropanol - 3",,0,0
+"Isopropanol - 34",,0,0
+"Isopropanol - 37",,0,0
+"Isopropanol - 4",,0,0
+"Isopropanol - 44",,0,0
+"Isopropanol - 5",,0,0
+"Isopropanol - 50",,0,0
+"Isopropanol - 51",,0,0
+"Isopropanol - 6",,0,0
+"Isopropanol - 7",,0,0
+"Isopropanol - 8",,0,0
+"Isopropanol - 82",,0,0
+"Isopropanol - 9",,0,0
 "Isopropanol | ",,0,0
 "Isopropanol | Tissue: ",,0,0
 "Isopropanol Tissue",,0,0
@@ -47425,6 +47474,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "RMx/ worn",,0,0
 "RMx/, LMx/ frags",,0,0
 "RMx/, Rm/x trigonid, Lm/3 frag",,0,0
+"RNA (H) - 1",,0,0
+"RNA (Q) - 1",,0,0
 "Robe",,0,0
 "rock frags",,0,0
 "Rock sample",,0,0
@@ -48104,6 +48155,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Sectioned (mounted, in spirit)",,0,0
 "SECTIONED SKULL+R+L DENTARY",,0,0
 "Sectioned specimens",,0,0
+"Sections - 1",,0,0
 "SECTORIAL TOOTH PLATE",,0,0
 "sediment",,0,0
 "Sediment (sieved)",,0,0
@@ -49248,6 +49300,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton - 1; Flat skin - 1",,0,0
 "Skeleton - 1; Fluid - 1",,0,0
 "Skeleton - 1; Fluid - 1; Tissue - 1; Skin",,0,0
+"Skeleton - 1; Isopropanol - 1",,0,0
 "Skeleton - 1; Misc. - 1",,0,0
 "Skeleton - 1; Mounted - 1",,0,0
 "Skeleton - 1; No data - 1",,0,0
@@ -49299,6 +49352,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton - 3",,0,0
 "Skeleton - 4",,0,0
 "Skeleton - 564","skeleton",0,1
+"Skeleton - 8",,0,0
 "skeleton - lower jaw missing",,0,0
 "skeleton - mounted",,0,0
 "skeleton - skull & jaws missing",,0,0
@@ -49834,10 +49888,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton + Flat Skin",,0,0
 "Skeleton + Photo",,0,0
 "Skeleton + Primaries + Rectrices",,0,0
+"Skeleton + skin - 0",,0,0
+"Skeleton + skin - 1",,0,0
+"Skeleton + skin - 5",,0,0
 "Skeleton + Tail",,0,0
 "Skeleton + Tail feathers",,0,0
 "Skeleton + Wing","skeleton | wing",0,1
 "Skeleton + Wing + Tail + Head + Feet",,0,0
+"Skeleton +skin - 1",,0,0
 "Skeleton and baleen",,0,0
 "Skeleton and Bonesless Wing | tissue",,0,0
 "SKELETON AND DRIED SKIN","skeleton | dried skin",0,1
@@ -53549,6 +53607,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 1; Skel - 1; Tissue - null","skin - 1 | skeleton - 1 | tissue - null",0,1
 "Skin - 1; Skel - 10; Feather - 1; Wings_tail - 1","skin - 1 | skeleton - 10 | feather - 1 | wings_tail - 1",0,1
 "Skin - 1; Skel partial - 1","skin - 1 | skeleton partial - 1",0,1
+"Skin - 1; Skeleton",,0,0
 "Skin - 1; Skeleton - 1",,0,0
 "Skin - 1; Skeleton - 1; Alcoholic - 1; Eggs - 1; Tissue - 100",,0,0
 "Skin - 1; Skeleton - 1; Fluid - 1",,0,0
@@ -53616,6 +53675,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 1; Tissue - 1; Thin section - 1","skin - 1 | tissue - 1 | thin section - 1",0,1
 "Skin - 1; Tissue - 10","skin - 1 | tissue - 10",0,1
 "Skin - 1; Tissue - 100",,0,0
+"Skin - 1; Tissue - 100; C & S - 1",,0,0
 "Skin - 1; Tissue - 100; Skin - 1; Tissue - 100",,0,0
 "Skin - 1; Tissue - 100; Syrinx - 1",,0,0
 "Skin - 1; Tissue - 2","skin - 1 | tissue - 2",0,1
@@ -76189,6 +76249,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "sstissue",,0,0
 "ST","st",0,1
 "st. skeleton | st. skeleton",,0,0
+"Staging - 1",,0,0
 "STAHLBEIN",,0,0
 "Stahlbein.",,0,0
 "STAINLESS STEEL TANK #??",,0,0
@@ -76306,6 +76367,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Stomach + liver + gall bladder (in spirit)",,0,0
 "Stomach + liver + pancreas (in spirit)",,0,0
 "Stomach + lungs (in spirit)",,0,0
+"Stomach Contents - 1; C & S - 0",,0,0
+"Stomach Contents - 1; C & S - 1",,0,0
+"Stomach Contents - 1; Formalin - 1",,0,0
 "Stomach Contents - 1; Frozen Tissue - 1; Skel - 1",,0,0
 "Stomach Contents - 1; Frozen Tissue - 1; Skin - 1",,0,0
 "Stomach Contents - 1; Frozen Tissue - 11; Skin - 1",,0,0
@@ -77896,8 +77960,26 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue - 10; Wings_tail - 2; Skel - 1","tissue - 10 | wings_tail - 2 | skeleton - 1",0,1
 "Tissue - 100",,0,0
 "Tissue - 100; Alcoholic - 1",,0,0
+"Tissue - 100; C & S - 1",,0,0
+"Tissue - 100; C & S + skin - 1",,0,0
+"Tissue - 100; Ethanol - 1",,0,0
+"Tissue - 100; Formalin - 1",,0,0
+"Tissue - 100; Isopropanol - 0",,0,0
+"Tissue - 100; Isopropanol - 1",,0,0
+"Tissue - 100; Isopropanol - 12",,0,0
+"Tissue - 100; Isopropanol - 14",,0,0
+"Tissue - 100; Isopropanol - 19",,0,0
+"Tissue - 100; Isopropanol - 2",,0,0
+"Tissue - 100; Isopropanol - 3",,0,0
+"Tissue - 100; Isopropanol - 4",,0,0
+"Tissue - 100; Isopropanol - 5",,0,0
+"Tissue - 100; Isopropanol - 7",,0,0
+"Tissue - 100; Isopropanol - 9",,0,0
+"Tissue - 100; Other - 1",,0,0
+"Tissue - 100; Skeleton - 0",,0,0
 "Tissue - 100; Skeleton - 1",,0,0
 "Tissue - 100; Skeleton - 1; Skin - 1",,0,0
+"Tissue - 100; Skeleton + skin - 1",,0,0
 "Tissue - 100; Skin - 1",,0,0
 "Tissue - 100; Skin - 1; Skeleton - 1",,0,0
 "Tissue - 100; Skin - 1; Syrinx - 1",,0,0
