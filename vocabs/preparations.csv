@@ -8187,6 +8187,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "C&S Skeleton - 2",,0,0
 "C&S Skeleton - 2; Fluid - 1",,0,0
 "C&S Skeleton - 2; Fluid - 11",,0,0
+"C&S skeleton - 2; Fluid - 11; C&S skeleton - 1",,0,0
 "C&S Skeleton - 2; Fluid - 142",,0,0
 "C&S Skeleton - 2; Fluid - 19",,0,0
 "C&S Skeleton - 2; Fluid - 23",,0,0
@@ -13870,6 +13871,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "DRIED SPECIMEN","dried specimen",0,1
 "DRIED SPECIMENS","dried specimens",0,1
 "dried whole",,0,0
+"Dried whole - 2",,0,0
 "dried with skeleton","dried with skeleton",0,1
 "DRIED/ GALLON JAR, tissue",,0,0
 "DRIED/ HALF GALLON JAR, tissue",,0,0
@@ -13917,6 +13919,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "dry skeleton","dry skeleton",1,1
 "Dry Skeleton - 1",,0,0
 "Dry Skeleton - 1; C&S Skeleton - 1; Fluid - 1; Dry Skeleton - 1",,0,0
+"Dry skeleton - 1; C&S skeleton - 1; Fluid - 1; Dry skeleton - 1; Viscera - 1",,0,0
 "Dry Skeleton - 1; C&S Skeleton - 1; Fluid - 16",,0,0
 "Dry Skeleton - 1; C&S Skeleton - 1; Fluid - 41",,0,0
 "Dry Skeleton - 1; C&S Skeleton - 2; Fluid - 31",,0,0
@@ -22360,6 +22363,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 1; C&S Skeleton - 2",,0,0
 "Fluid - 1; C&S Skeleton - 3",,0,0
 "Fluid - 1; Dry Skeleton - 1",,0,0
+"Fluid - 1; Dry skeleton - 1; Dry skeleton - 1",,0,0
+"Fluid - 1; Dry skeleton - 1; Dry skeleton - 1; Dry skeleton - 1",,0,0
 "Fluid - 1; Feather - 1; Flat_skin - 1; Fluid - 1","fluid - 1 | feather - 1 | flat skin - 1 | fluid - 1",0,1
 "Fluid - 1; Flat_skin - 1; Skel - 1","fluid - 1 | flat skin - 1 | skeleton - 1",0,1
 "Fluid - 1; Flat_skin - 1; Tissue - 1; Skel - 1; Fluid - 1","fluid - 1 | flat skin - 1 | tissue - 1 | skeleton - 1 | fluid - 1",0,1
@@ -22369,10 +22374,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 1; Fluid - 14",,0,0
 "Fluid - 1; Fluid - 2",,0,0
 "Fluid - 1; Fluid - 29",,0,0
+"Fluid - 1; Fluid - 3",,0,0
 "Fluid - 1; Fluid - 4; Tissue - 1",,0,0
 "Fluid - 1; Fluid - 69; Fluid - 48",,0,0
 "Fluid - 1; Fluid - 9",,0,0
 "Fluid - 1; Image - 1","fluid - 1 | image - 1",0,1
+"Fluid - 1; Otolith - 2",,0,0
 "Fluid - 1; Partial Skeleton - 1; Skull - 1",,0,0
 "Fluid - 1; Scale - 0",,0,0
 "Fluid - 1; Scale - 1",,0,0
@@ -22398,9 +22405,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 1; Tissue - 1","fluid - 1 | tissue - 1",0,1
 "Fluid - 1; Tissue - 1; Dry Skeleton - 1",,0,0
 "Fluid - 1; Tissue - 1; Fluid - 1",,0,0
+"Fluid - 1; Tissue - 1; Fluid - 1; Tissue - 1",,0,0
+"Fluid - 1; Tissue - 1; Otolith - 2",,0,0
 "Fluid - 1; Tissue - 1; Skel - 1","fluid - 1 | tissue - 1 | skeleton - 1",0,1
 "Fluid - 1; Tissue - 1; Skin - 1","fluid - 1 | tissue - 1 | skin - 1",0,1
 "Fluid - 1; Tissue - 1; Tissue - 1",,0,0
+"Fluid - 1; Tissue - 1; Tissue - 1; Tissue - 1; Fluid - 3",,0,0
 "Fluid - 1; Tissue - 10","fluid - 1 | tissue - 10",0,1
 "Fluid - 1; Tissue - 30","fluid - 1 | tissue - 30",0,1
 "Fluid - 1; Tissue - 50; Skin - 1","fluid - 1 | tissue - 50 | skin - 1",0,1
@@ -22411,6 +22421,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 10; C&S Skeleton - 1",,0,0
 "Fluid - 10; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 10; C&S Skeleton - 1; Dry Skeleton - 1",,0,0
+"Fluid - 10; C&S skeleton - 1; Dry skeleton - 1; Viscera - 1",,0,0
 "Fluid - 10; C&S Skeleton - 1; Dry Skeleton - 1; Viscera - 1; C&S Skeleton - 1",,0,0
 "Fluid - 10; C&S Skeleton - 2",,0,0
 "Fluid - 10; C&S Skeleton - 3",,0,0
@@ -22421,6 +22432,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 10; Tissue - 1",,0,0
 "Fluid - 10; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 10; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
+"Fluid - 10; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 10; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Fluid - 2; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 10; Viscera - 10",,0,0
 "Fluid - 10; Viscera - 2",,0,0
@@ -22462,6 +22474,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 11",,0,0
 "Fluid - 11; C&S Skeleton - 1",,0,0
 "Fluid - 11; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
+"Fluid - 11; C&S skeleton - 1; Viscera - 1",,0,0
 "Fluid - 11; C&S Skeleton - 2",,0,0
 "Fluid - 11; C&S Skeleton - 4; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 11; C&S Skeleton - 5",,0,0
@@ -22490,6 +22503,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 116",,0,0
 "Fluid - 116; C&S Skeleton - 2; Dry Skeleton - 1; Dry Skeleton - 1",,0,0
 "Fluid - 117",,0,0
+"Fluid - 117; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 1170",,0,0
 "Fluid - 1178",,0,0
 "Fluid - 118",,0,0
@@ -22500,6 +22514,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 12; C&S Skeleton - 1",,0,0
 "Fluid - 12; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 12; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
+"Fluid - 12; C&S skeleton - 1; Viscera - 1",,0,0
 "Fluid - 12; C&S Skeleton - 2",,0,0
 "Fluid - 12; C&S Skeleton - 3",,0,0
 "Fluid - 12; C&S Skeleton - 4",,0,0
@@ -22521,6 +22536,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 122; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 123",,0,0
 "Fluid - 124",,0,0
+"Fluid - 124; Dry skeleton - 1",,0,0
 "Fluid - 1244",,0,0
 "Fluid - 1249",,0,0
 "Fluid - 125",,0,0
@@ -22543,11 +22559,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 13; C&S Skeleton - 4",,0,0
 "Fluid - 13; Dry Skeleton - 1",,0,0
 "Fluid - 13; Dry Skeleton - 1; C&S Skeleton - 1",,0,0
+"Fluid - 13; Dry skeleton - 1; C&S skeleton - 1; Viscera - 1",,0,0
 "Fluid - 13; Fluid - 1",,0,0
 "Fluid - 13; Fluid - 5",,0,0
 "Fluid - 13; Scale - 1",,0,0
 "Fluid - 13; Tissue - 1",,0,0
 "Fluid - 13; Tissue - 1; Tissue - 1",,0,0
+"Fluid - 13; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 130",,0,0
 "Fluid - 1302",,0,0
 "Fluid - 1304",,0,0
@@ -22572,6 +22590,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 137",,0,0
 "Fluid - 1376",,0,0
 "Fluid - 138",,0,0
+"Fluid - 138; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 1381",,0,0
 "Fluid - 139",,0,0
 "Fluid - 1395",,0,0
@@ -22580,9 +22599,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 14; C&S Skeleton - 4",,0,0
 "Fluid - 14; Dry Skeleton - 1",,0,0
 "Fluid - 14; Dry Skeleton - 1; Dry Skeleton - 1",,0,0
+"Fluid - 14; Tissue - 1",,0,0
 "Fluid - 14; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 14; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 14; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
+"Fluid - 14; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 140",,0,0
 "Fluid - 140; Dry Skeleton - 1; C&S Skeleton - 3",,0,0
 "Fluid - 140; Scale - 1",,0,0
@@ -22603,6 +22624,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 146",,0,0
 "Fluid - 146; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 147",,0,0
+"Fluid - 147; C&S skeleton - 2; C&S skeleton - 1",,0,0
 "Fluid - 147; C&S Skeleton - 3",,0,0
 "Fluid - 1477",,0,0
 "Fluid - 148",,0,0
@@ -22620,6 +22642,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 15; Fluid - 2; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 15; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 15; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
+"Fluid - 15; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 15; Viscera - 13",,0,0
 "Fluid - 150",,0,0
 "Fluid - 150; Fluid - 129",,0,0
@@ -22655,6 +22678,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 16; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 16; Tissue - 1; Tissue - 1; Fluid - 1; Fluid - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 16; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
+"Fluid - 16; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 160",,0,0
 "Fluid - 160; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 161",,0,0
@@ -22683,9 +22707,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 17; C&S Skeleton - 1; C&S Skeleton - 2",,0,0
 "Fluid - 17; C&S Skeleton - 2",,0,0
 "Fluid - 17; C&S Skeleton - 20",,0,0
+"Fluid - 17; C&S skeleton - 4",,0,0
 "Fluid - 17; Dry Skeleton - 1",,0,0
 "Fluid - 17; Dry Skeleton - 1; Dry Skeleton - 1",,0,0
 "Fluid - 17; Pharyngeal jaw - 1",,0,0
+"Fluid - 17; Tissue - 1",,0,0
 "Fluid - 17; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 170",,0,0
 "Fluid - 170; C&S Skeleton - 1",,0,0
@@ -22732,6 +22758,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 19; C&S Skeleton - 2",,0,0
 "Fluid - 19; C&S Skeleton - 4",,0,0
 "Fluid - 19; Fluid - 3; Fluid - 1",,0,0
+"Fluid - 19; Fluid - 3; Tissue - 1",,0,0
 "Fluid - 19; Scale - 1",,0,0
 "Fluid - 19; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 190",,0,0
@@ -22753,10 +22780,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 2; Fluid - 1",,0,0
 "Fluid - 2; Fluid - 2",,0,0
 "Fluid - 2; Fluid - 2; Dry Skeleton - 1; Dry Skeleton - 1; Fluid - 1",,0,0
+"Fluid - 2; Fluid - 3; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 2; Scale - 1",,0,0
 "Fluid - 2; Tissue - 1",,0,0
 "Fluid - 2; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 2; Tissue - 1; Tissue - 1; Fluid - 1",,0,0
+"Fluid - 2; Tissue - 1; Tissue - 1; Fluid - 1; Tissue - 1",,0,0
 "Fluid - 2; Viscera - 1",,0,0
 "Fluid - 2; Viscera - 1; Dry Skeleton - 1",,0,0
 "Fluid - 2; Viscera - 2",,0,0
@@ -22764,6 +22793,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 20; C&S Skeleton - 1",,0,0
 "Fluid - 20; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 20; C&S Skeleton - 1; Dry Skeleton - 1",,0,0
+"Fluid - 20; C&S skeleton - 1; Dry skeleton - 1; Viscera - 2",,0,0
 "Fluid - 20; C&S Skeleton - 2",,0,0
 "Fluid - 20; Fluid - 17",,0,0
 "Fluid - 20; Fluid - 35; Fluid - 29; Fluid - 25; Fluid - 20; Fluid - 25",,0,0
@@ -22795,6 +22825,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 21; C&S Skeleton - 2",,0,0
 "Fluid - 21; Dry Skeleton - 1",,0,0
 "Fluid - 21; Dry Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; Dry Skeleton - 1; C&S Skeleton - 1; Dry Skeleton - 1",,0,0
+"Fluid - 21; Dry skeleton - 1; C&S skeleton - 1; C&S skeleton - 1; Dry skeleton - 1; C&S skeleton - 1; Dry skeleton - 1; Viscera - 3",,0,0
 "Fluid - 21; Fluid - 13",,0,0
 "Fluid - 21; Fluid - 27",,0,0
 "Fluid - 21; Tissue - 1; Tissue - 1",,0,0
@@ -22810,11 +22841,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 219",,0,0
 "Fluid - 22",,0,0
 "Fluid - 22; C&S Skeleton - 1",,0,0
+"Fluid - 22; C&S skeleton - 2",,0,0
 "Fluid - 22; C&S Skeleton - 4",,0,0
 "Fluid - 22; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1",,0,0
 "Fluid - 22; Scale - 1",,0,0
 "Fluid - 22; Tissue - 1",,0,0
 "Fluid - 22; Tissue - 1; Tissue - 1",,0,0
+"Fluid - 22; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 220",,0,0
 "Fluid - 220; C&S Skeleton - 3",,0,0
 "Fluid - 221",,0,0
@@ -22828,6 +22861,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 2258",,0,0
 "Fluid - 226",,0,0
 "Fluid - 226; C&S Skeleton - 3",,0,0
+"Fluid - 226; Tissue - 1",,0,0
 "Fluid - 2263",,0,0
 "Fluid - 227",,0,0
 "Fluid - 228",,0,0
@@ -22866,6 +22900,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 242",,0,0
 "Fluid - 243",,0,0
 "Fluid - 244",,0,0
+"Fluid - 244; Tissue - 1",,0,0
 "Fluid - 245",,0,0
 "Fluid - 2452",,0,0
 "Fluid - 246",,0,0
@@ -22874,6 +22909,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 2489",,0,0
 "Fluid - 249",,0,0
 "Fluid - 25",,0,0
+"Fluid - 25; C&S skeleton - 1",,0,0
 "Fluid - 25; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 25; C&S Skeleton - 1; Dry Skeleton - 1",,0,0
 "Fluid - 25; Dry Skeleton - 1; C&S Skeleton - 1",,0,0
@@ -22914,6 +22950,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 27; Dry Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 27; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 27; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
+"Fluid - 27; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 270",,0,0
 "Fluid - 271",,0,0
 "Fluid - 272",,0,0
@@ -22956,6 +22993,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 293",,0,0
 "Fluid - 294",,0,0
 "Fluid - 294; C&S Skeleton - 1; C&S Skeleton - 2",,0,0
+"Fluid - 294; C&S skeleton - 4",,0,0
 "Fluid - 2955; C&S Skeleton - 3",,0,0
 "Fluid - 297",,0,0
 "Fluid - 298",,0,0
@@ -22970,11 +23008,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 3; Fluid - 17",,0,0
 "Fluid - 3; Fluid - 2",,0,0
 "Fluid - 3; Fluid - 3",,0,0
+"Fluid - 3; Fluid - 4",,0,0
 "Fluid - 3; Scale - 1",,0,0
 "Fluid - 3; Tissue - 1",,0,0
+"Fluid - 3; Tissue - 1; Fluid - 1",,0,0
 "Fluid - 3; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 3; Tissue - 1; Tissue - 1; Fluid - 2",,0,0
 "Fluid - 3; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
+"Fluid - 3; Viscera - 1",,0,0
 "Fluid - 3; Viscera - 1; C&S Skeleton - 1",,0,0
 "Fluid - 30",,0,0
 "Fluid - 30; C&S Skeleton - 1",,0,0
@@ -22994,6 +23035,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 31; C&S Skeleton - 1",,0,0
 "Fluid - 31; C&S Skeleton - 3",,0,0
 "Fluid - 31; Dry Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
+"Fluid - 31; Dry skeleton - 1; C&S skeleton - 1; C&S skeleton - 1; Viscera - 2",,0,0
 "Fluid - 31; Dry Skeleton - 1; Dry Skeleton - 1",,0,0
 "Fluid - 31; Tissue - 1",,0,0
 "Fluid - 310; C&S Skeleton - 3",,0,0
@@ -23012,6 +23054,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 32",,0,0
 "Fluid - 32; C&S Skeleton - 1",,0,0
 "Fluid - 32; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
+"Fluid - 32; C&S skeleton - 3",,0,0
 "Fluid - 32; Dry Skeleton - 1",,0,0
 "Fluid - 32; Tissue - 1",,0,0
 "Fluid - 320",,0,0
@@ -23041,7 +23084,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 34; C&S Skeleton - 1",,0,0
 "Fluid - 34; C&S Skeleton - 2",,0,0
 "Fluid - 34; C&S Skeleton - 2; Dry Skeleton - 1",,0,0
+"Fluid - 34; C&S skeleton - 3",,0,0
 "Fluid - 34; Dry Skeleton - 1; C&S Skeleton - 1; Scale - 1; C&S Skeleton - 1; C&S Skeleton - 1; Dry Skeleton - 1",,0,0
+"Fluid - 34; Dry skeleton - 1; C&S skeleton - 1; Scale - 1; C&S skeleton - 1; C&S skeleton - 1; Dry skeleton - 1; Viscera - 3",,0,0
 "Fluid - 34; Scale - 1",,0,0
 "Fluid - 34; Tissue - 1",,0,0
 "Fluid - 34; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
@@ -23066,12 +23111,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 3549",,0,0
 "Fluid - 356",,0,0
 "Fluid - 357",,0,0
+"Fluid - 358",,0,0
 "Fluid - 36",,0,0
 "Fluid - 36; C&S Skeleton - 1",,0,0
 "Fluid - 36; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 36; C&S Skeleton - 2",,0,0
+"Fluid - 36; C&S skeleton - 3",,0,0
 "Fluid - 36; Dry Skeleton - 1; Dry Skeleton - 1",,0,0
 "Fluid - 36; Fluid - 39",,0,0
+"Fluid - 36; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 360",,0,0
 "Fluid - 361",,0,0
 "Fluid - 362",,0,0
@@ -23101,11 +23149,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 383",,0,0
 "Fluid - 385",,0,0
 "Fluid - 385; C&S Skeleton - 1",,0,0
+"Fluid - 385; Tissue - 1",,0,0
 "Fluid - 386",,0,0
 "Fluid - 387",,0,0
 "Fluid - 388",,0,0
 "Fluid - 39",,0,0
 "Fluid - 39; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
+"Fluid - 39; C&S skeleton - 3",,0,0
 "Fluid - 39; Dry Skeleton - 1; C&S Skeleton - 2",,0,0
 "Fluid - 39; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 390",,0,0
@@ -23120,6 +23170,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 4; C&S Skeleton - 1",,0,0
 "Fluid - 4; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 4; C&S Skeleton - 2",,0,0
+"Fluid - 4; C&S skeleton - 2; Viscera - 1",,0,0
 "Fluid - 4; Dry Skeleton - 1",,0,0
 "Fluid - 4; Fluid - 1",,0,0
 "Fluid - 4; Fluid - 14",,0,0
@@ -23131,6 +23182,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 4; Viscera - 0; C&S Skeleton - 1",,0,0
 "Fluid - 40",,0,0
 "Fluid - 40; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pha",,0,0
+"Fluid - 40; Tissue - 1",,0,0
 "Fluid - 400",,0,0
 "Fluid - 4000",,0,0
 "Fluid - 401; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
@@ -23143,6 +23195,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 41",,0,0
 "Fluid - 41; Dry Skeleton - 1; C&S Skeleton - 2",,0,0
 "Fluid - 41; Scale - 1",,0,0
+"Fluid - 41; Tissue - 1",,0,0
 "Fluid - 410",,0,0
 "Fluid - 411",,0,0
 "Fluid - 412",,0,0
@@ -23198,6 +23251,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 459",,0,0
 "Fluid - 46",,0,0
 "Fluid - 46; C&S Skeleton - 1",,0,0
+"Fluid - 46; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tis",,0,0
+"Fluid - 461",,0,0
 "Fluid - 462",,0,0
 "Fluid - 463",,0,0
 "Fluid - 465",,0,0
@@ -23250,6 +23305,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 5; Dry Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 5; Dry Skeleton - 1; Viscera - 2",,0,0
 "Fluid - 5; Fluid - 1",,0,0
+"Fluid - 5; Fluid - 2; Tissue - 1",,0,0
 "Fluid - 5; Scale - 1",,0,0
 "Fluid - 5; Tissue - 1",,0,0
 "Fluid - 5; Tissue - 1; Fluid - 1",,0,0
@@ -23282,6 +23338,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 53",,0,0
 "Fluid - 53; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 53; C&S Skeleton - 2; C&S Skeleton - 1",,0,0
+"Fluid - 53; C&S skeleton - 3",,0,0
+"Fluid - 53; Tissue - 1",,0,0
 "Fluid - 531",,0,0
 "Fluid - 532",,0,0
 "Fluid - 533",,0,0
@@ -23310,17 +23368,21 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 56; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 561",,0,0
 "Fluid - 566",,0,0
+"Fluid - 567",,0,0
 "Fluid - 57",,0,0
 "Fluid - 57; C&S Skeleton - 1",,0,0
 "Fluid - 57; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 57; C&S Skeleton - 2",,0,0
 "Fluid - 57; C&S Skeleton - 3",,0,0
 "Fluid - 57; Fluid - 1",,0,0
+"Fluid - 57; Tissue - 1",,0,0
 "Fluid - 573; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
+"Fluid - 573; C&S skeleton - 1; C&S skeleton - 1; C&S skeleton - 1; C&S skeleton - 1; C&S skeleton - 1; C&S skeleton - 1; C&S skeleton - 1; C&S skeleton - 1; C&S skeleton - 1; C&S skeleton - 1; C&S skeleton - 1; C&S skeleton - 1; Viscera - 1; Viscera - 1;",,0,0
 "Fluid - 575",,0,0
 "Fluid - 577",,0,0
 "Fluid - 579",,0,0
 "Fluid - 58",,0,0
+"Fluid - 58; C&S skeleton - 2",,0,0
 "Fluid - 58; Dry Skeleton - 1",,0,0
 "Fluid - 580",,0,0
 "Fluid - 582",,0,0
@@ -23434,8 +23496,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 699",,0,0
 "Fluid - 7",,0,0
 "Fluid - 7; C&S Skeleton - 1",,0,0
+"Fluid - 7; C&S skeleton - 1; C&S skeleton - 1",,0,0
 "Fluid - 7; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 7; C&S Skeleton - 2",,0,0
+"Fluid - 7; C&S skeleton - 3",,0,0
 "Fluid - 7; Dry Skeleton - 1",,0,0
 "Fluid - 7; Dry Skeleton - 1; C&S Skeleton - 1",,0,0
 "Fluid - 7; Dry Skeleton - 1; Fluid - 2",,0,0
@@ -23450,9 +23514,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 7; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 7; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 7; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
+"Fluid - 7; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 7; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 7; Viscera - 7",,0,0
 "Fluid - 70",,0,0
+"Fluid - 70; C&S skeleton - 3",,0,0
 "Fluid - 70; Dry Skeleton - 1",,0,0
 "Fluid - 70; Scale - 1",,0,0
 "Fluid - 701",,0,0
@@ -23479,6 +23545,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 736",,0,0
 "Fluid - 737",,0,0
 "Fluid - 74",,0,0
+"Fluid - 74; C&S skeleton - 3",,0,0
+"Fluid - 74; Tissue - 1",,0,0
 "Fluid - 74; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 740",,0,0
 "Fluid - 748",,0,0
@@ -23487,6 +23555,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 759",,0,0
 "Fluid - 76",,0,0
 "Fluid - 76; C&S Skeleton - 1; C&S Skeleton - 1; C&S Skeleton - 1",,0,0
+"Fluid - 76; Tissue - 1",,0,0
 "Fluid - 761",,0,0
 "Fluid - 7640; Fluid - 4400",,0,0
 "Fluid - 765",,0,0
@@ -23522,6 +23591,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 8; Viscera - 1; Dry Skeleton - 1",,0,0
 "Fluid - 80",,0,0
 "Fluid - 80; C&S Skeleton - 1",,0,0
+"Fluid - 800",,0,0
 "Fluid - 806",,0,0
 "Fluid - 808",,0,0
 "Fluid - 809",,0,0
@@ -23576,6 +23646,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Fluid - 9; Fluid - 1",,0,0
 "Fluid - 9; Pharyngeal jaw - 1",,0,0
 "Fluid - 9; Tissue - 1",,0,0
+"Fluid - 9; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 9; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Fluid - 9; Viscera - 1",,0,0
 "Fluid - 9; Viscera - 11",,0,0
@@ -40576,6 +40647,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "PHARYNGEAL FRAGS,TEETH",,0,0
 "Pharyngeal jaw",,0,0
 "Pharyngeal jaw - 1",,0,0
+"Pharyngeal jaw - 1; Fluid - 1",,0,0
 "Pharyngeal jaw - 1; Fluid - 10; Pharyngeal jaw - 1; Pharyngeal jaw - 1",,0,0
 "Pharyngeal jaw - 1; Fluid - 10; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1",,0,0
 "Pharyngeal jaw - 1; Fluid - 18; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1; Pharyngeal jaw - 1",,0,0
@@ -77874,15 +77946,23 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue - 1; Fluid - 1; Syrinx - 1","tissue - 1 | fluid - 1 | syrinx - 1",0,1
 "Tissue - 1; Fluid - 1; Tissue - 1",,0,0
 "Tissue - 1; Fluid - 1; Wings_tail - 1; Skin - 1; Skel - 1","tissue - 1 | fluid - 1 | wings_tail - 1 | skin - 1 | skeleton - 1",0,1
+"Tissue - 1; Fluid - 11",,0,0
+"Tissue - 1; Fluid - 11; Tissue - 1",,0,0
+"Tissue - 1; Fluid - 12",,0,0
+"Tissue - 1; Fluid - 13",,0,0
 "Tissue - 1; Fluid - 138",,0,0
+"Tissue - 1; Fluid - 16",,0,0
 "Tissue - 1; Fluid - 2",,0,0
 "Tissue - 1; Fluid - 2; Tissue - 1",,0,0
 "Tissue - 1; Fluid - 20",,0,0
+"Tissue - 1; Fluid - 25",,0,0
 "Tissue - 1; Fluid - 27",,0,0
 "Tissue - 1; Fluid - 29",,0,0
 "Tissue - 1; Fluid - 3",,0,0
+"Tissue - 1; Fluid - 4",,0,0
 "Tissue - 1; Fluid - 4; Tissue - 1",,0,0
 "Tissue - 1; Fluid - 4; Tissue - 1; Tissue - 1",,0,0
+"Tissue - 1; Fluid - 5",,0,0
 "Tissue - 1; Fluid - 6",,0,0
 "Tissue - 1; Fluid - 7",,0,0
 "Tissue - 1; Genbank - 1; Genbank - 1; Genbank - 1; Genbank - 1","tissue - 1 | Genbank - 1 | Genbank - 1 | Genbank - 1 | Genbank - 1",0,1
@@ -77936,7 +78016,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue - 1; Syrinx - 1; Skel - 1; Skin/toe clip - 1","tissue - 1 | syrinx - 1 | skeleton - 1",0,1
 "Tissue - 1; Thin section - 1; Skin - 1","tissue - 1 | thin section - 1 | skin - 1",0,1
 "Tissue - 1; Tissue - 1","tissue - 1 | tissue - 1",0,1
+"Tissue - 1; Tissue - 1; Fluid - 12",,0,0
+"Tissue - 1; Tissue - 1; Fluid - 16; Tissue - 1",,0,0
 "Tissue - 1; Tissue - 1; Fluid - 2",,0,0
+"Tissue - 1; Tissue - 1; Fluid - 34",,0,0
 "Tissue - 1; Tissue - 1; Tissue - 1; Fluid - 1; Fluid - 3",,0,0
 "Tissue - 1; Tissue - 1; Tissue - 1; Fluid - 24; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1; Tissue - 1",,0,0
 "Tissue - 1; Tissue - 100",,0,0
