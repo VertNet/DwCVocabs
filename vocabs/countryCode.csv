@@ -2826,6 +2826,7 @@
 "France 9","FR",0,1
 "France; Spain",,0,1
 "France?","FR",0,1
+"FRANCE? OR GERMANY?",,0,1
 "Francia","FR",0,1
 "Franklin, Ohio, United States","US",0,1
 "Free State Congo",,0,1
@@ -2966,6 +2967,8 @@
 "Germany","DE",1,1
 "'Germany'","DE",0,1
 "Germany  ; Deutschland","DE",0,1
+"GERMANY (EAST)","DE",0,1
+"GERMANY (WEST)","DE",0,1
 "Germany ; Deutschland","DE",0,1
 "Germany ; Deutschland ; Allemagne","DE",0,1
 "Germany ?","DE",0,1
@@ -3057,6 +3060,7 @@
 "Green I.",,0,1
 "Greenl.",,0,1
 "Greenland","GL",1,1
+"GREENLAND (DENMARK)","GL",0,1
 "Greenland ?","GL",0,1
 "Greenland N.E.","GL",0,1
 "Greenland or Labrador?",,0,1
@@ -3276,6 +3280,7 @@
 "India - Bangladesh",,0,1
 "India - China",,0,1
 "India & Ceylon",,0,1
+"INDIA & IRAN",,0,1
 "India (?)","IN",0,1
 "India (Pakistan]",,0,1
 "India (Tibet Frontier)","IN",0,1
@@ -4651,6 +4656,7 @@
 "near Tristan Cunha","SH",0,1
 "near Tunis","TN",0,1
 "near Venezuela","VE",0,1
+"NEBRASKA","US",0,1
 "Neches","US",0,1
 "Negros Is.","PH",0,1
 "Nepal","NP",1,1
@@ -7371,6 +7377,7 @@
 "Urug","UY",0,1
 "Uruguai","UY",0,1
 "Uruguay","UY",1,1
+"URUGUAY?","UY",0,1
 "US","US",1,1
 "US Virgin Ids","VI",0,1
 "US VIRGIN ISLAND/S","VI",0,1
@@ -7799,6 +7806,7 @@
 "West Indian Region",,0,1
 "West Indies",,0,1
 "West Indies - (Lesser Ant.)",,0,1
+"WEST INDIES (CUBA)","CU",0,1
 "West Indies, Antigua I","AG",0,1
 "West Indies, Aruba I","AW",0,1
 "West Indies, Bahama Is.","BS",0,1
