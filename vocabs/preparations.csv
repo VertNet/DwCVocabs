@@ -32,6 +32,7 @@
 """fissure fills""",,0,0
 """hairy"" morph",,0,0
 """horns"" only",,0,0
+"""Leg",,0,0
 """lot of leg bones""",,0,0
 """Mount, Blood""","mount | blood",0,1
 """Mount, Tissue""","mount | tissue",0,1
@@ -8053,6 +8054,7 @@
 "Alcoholic - 1; Tissue - 100",,0,0
 "Alcoholic - 1; Wingspread - 1",,0,0
 "Alcoholic - 1; Wingspread - 1; Tissue - 100",,0,0
+"Alcoholic & Spread Wing",,0,0
 "alcoholic (+ 1 egg laid in bag)",,0,0
 "alcoholic (1 lot of 2 lizards? only)",,0,0
 "alcoholic (1 lot of 3 lizards? only)",,0,0
@@ -47141,6 +47143,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "left, P4/",,0,0
 "left+right dentary",,0,0
 "leg",,0,0
+"Leg & Wing & Tail",,0,0
 "Leg (left)",,0,0
 "Leg (right) + fibula (left)",,0,0
 "Leg Bone",,0,0
@@ -58703,6 +58706,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Partial Skeleton - 1; Tissue; Skin",,0,0
 "Partial Skeleton - 2; Skull - 2",,0,0
 "Partial Skeleton - 3",,0,0
+"Partial Skeleton & Skin",,0,0
+"Partial Skeleton & Spread Wing & Tail & Feet",,0,0
 "PARTIAL SKELETON (DRY)","partial skeleton",0,1
 "partial skeleton (hind limb) | partial skeleton (hind limb)",,0,0
 "PARTIAL SKELETON (LACKS ANT. F","partial skeleton",0,1
@@ -74533,11 +74538,17 @@ R PERIPHERALS 2 - 3.",,0,0
 "skeleton  wing & tail","skeleton | wing | tail",0,1
 "skeleton & flight feathers","skeleton | flight feathers",0,1
 "SKELETON & INCOMPL SKULL",,0,0
+"Skeleton & Partial Skin",,0,0
+"Skeleton & Partial Skin & Spread Wing",,0,0
 "SKELETON & PARTIAL SKULL",,0,0
+"Skeleton & Partial Tail",,0,0
 "skeleton & remiges","skeleton | remiges",0,1
 "SKELETON & SKULL",,0,0
 "SKELETON & SKULL FRAGS",,0,0
 "SKELETON & SKULL FRAGS, ASSOCIATED",,0,0
+"Skeleton & Spread Wing",,0,0
+"Skeleton & Spread Wing & Tail",,0,0
+"Skeleton & Tail",,0,0
 "SKELETON & TEETH, ASSOCIATED",,0,0
 "skeleton & wing","skeleton | wing",0,1
 "skeleton (""infant"")",,0,0
@@ -102667,6 +102678,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SPREAD WING AND TAIL | tissue",,0,0
 "SPREAD WING AND TAIL, tissue","spread wing | tail | tissue",0,1
 "SPREAD WING, tissue","spread wing | tissue",0,1
+"Spread Wings",,0,0
 "Spur + femoral gland (in spirit)",,0,0
 "sq, lwr jaws",,0,0
 "Squamosal",,0,0
@@ -102935,7 +102947,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "study skin","study skin",0,1
 "Study skin - 1",,0,0
 "study skin  and skull",,0,0
+"Study Skin & Partial Alcoholic",,0,0
+"Study Skin & Partial Skeleton",,0,0
+"Study Skin & Partial Skeleton & Spread Wing",,0,0
+"Study Skin & Skeleton",,0,0
 "study skin & skull",,0,0
+"Study Skin & Spread Wing",,0,0
 "Study Skin (skull inside)",,0,0
 "Study Skin (wings only)",,0,0
 "study skin | tissue",,0,0
@@ -103615,6 +103632,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "tail - 1","tail - 1",0,1
 "tail & 2 wings","tail | wings",0,1
 "TAIL & CHEEK PIECES, A+B",,0,0
+"Tail & Legs",,0,0
 "TAIL & MACERATED PARTIAL SKULL ETC, A+B",,0,0
 "TAIL & OPERCULUM, A+B",,0,0
 "Tail & other pieces (in spirit)",,0,0
