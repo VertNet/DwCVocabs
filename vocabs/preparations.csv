@@ -99426,6 +99426,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull ?",,0,0
 "skull |  ",,0,0
 "skull | body (ethanol)",,0,0
+"skull | body (ethanol) | liver (95% ethanol)",,0,0
+"skull | body (ethanol) | muscle (95% ethanol)",,0,0
 "SKULL | Cast",,0,0
 "skull | dessicated brain (95% ethanol)",,0,0
 "skull | heart (95% ethanol)",,0,0
@@ -99445,6 +99447,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull | skin clip (95% ethanol)",,0,0
 "skull | skull",,0,0
 "skull | tail (dry) | liver (95% ethanol) | heart (95% ethanol)",,0,0
+"skull | tail tip (95% ethanol)",,0,0
 "skull | tissue",,0,0
 "Skull +  fragments",,0,0
 "Skull + atlas",,0,0
@@ -108499,6 +108502,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "whole organism (ethanol) | liver (95%ethanol)",,0,0
 "whole organism (ethanol) | muscle (95% ethanol)",,0,0
 "whole organism (ethanol) | skin clip (95% ethanol)",,0,0
+"whole organism (ethanol) | skin clip (ethanol)",,0,0
 "whole skeleton",,0,0
 "Whole Skeleton - 1",,0,0
 "Whole Skeleton and Skin - 1",,0,0
