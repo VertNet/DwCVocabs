@@ -1384,6 +1384,8 @@
 "_ TIBIOTARSUS",,0,0
 "_ TOOTH",,0,0
 "`EGGS","eggs",0,1
+"|liver",,0,0
+"|muscle|brain",,0,0
 "‘",,0,0
 "+ alc gut",,0,0
 "+ DIPLOMYSTUS DUBERTRETI -- 2 SPECIMENS, NEARLY COMPLETE",,0,0
@@ -8290,6 +8292,7 @@
 "alcoholic, skin, tissue","alcoholic | skin | tissue",1,1
 "alcoholic, skull","alcoholic | skull",1,1
 "alcoholic, skull prepared, skin & body dried","alcoholic | skull prepared | skin & body dried",1,1
+"alcoholic, skull removed",,0,0
 "alcoholic, sound recording","alcoholic | sound recording",1,1
 "alcoholic, syrinx",,0,0
 "alcoholic, syrinx, Tissue number 1348",,0,0
@@ -9682,6 +9685,10 @@
 "alcoholic: embryos",,0,0
 "alcoholic; 1 lot of 3 snakes",,0,0
 "alcoholic; alc. fetus",,0,0
+"alcoholic|endoparasite(s)",,0,0
+"alcoholic|heart, kidney|liver",,0,0
+"alcoholic|liver|heart, kidney",,0,0
+"alcoholic|muscle",,0,0
 "alcoholic+ alc stomach + slide of stom contents",,0,0
 "alcoholic+ alc stomach + slides of stom contents",,0,0
 "Alcorn, G. D. and Johnson, M. L.",,0,0
@@ -12025,6 +12032,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "baculum; skull (broken), none",,0,0
 "baculum; skull (complete)",,0,0
 "baculum; skull (complete), none",,0,0
+"baculum|kidney|muscle|skin, skull",,0,0
 "BADLY CRUSHED SPINE",,0,0
 "BADLY CRUSHED, COMPLETE SPECIMEN--FAIR",,0,0
 "BADLY FRAGMENTED SKELETONS",,0,0
@@ -12205,6 +12213,14 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "blood/feather/wing, tissue",,0,0
 "blood/feathers","blood | feathers",0,1
 "blood/feathers, tissue","blood | feathers | tissue",0,1
+"blood|cells|liver|blood|spleen|alcoholic",,0,0
+"blood|cells|liver|kidney|alcoholic",,0,0
+"blood|heart|heart|liver|liver|kidney|kidney|unknown",,0,0
+"blood|kidney|kidney|liver|liver|alcoholic",,0,0
+"blood|liver|cells|spleen|skin, skeleton",,0,0
+"blood|liver|kidney|spleen|alcoholic",,0,0
+"blood|liver|liver|spleen|kidney|alcoholic",,0,0
+"blood|sperm|cells|liver|kidney|skin, skeleton",,0,0
 "BM","body mount (taxidermy mount)",0,1
 "BM - 1",,0,0
 "Bo+Ägg",,0,0
@@ -12504,6 +12520,44 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Brain, left half (in spirit)",,0,0
 "Brain, right half (in spirit)",,0,0
 "Brain, sectioned (in spirit)",,0,0
+"brain|brain|muscle|skull",,0,0
+"brain|heart, kidney|liver|liver|skeleton",,0,0
+"brain|heart, kidney|liver|skeleton",,0,0
+"brain|heart, kidney|liver|skin, skeleton",,0,0
+"brain|heart, kidney|liver|skin, skeleton|brain",,0,0
+"brain|heart, kidney|liver|skin, skull",,0,0
+"brain|heart, kidney|liver|skull",,0,0
+"brain|heart, kidney|skeleton",,0,0
+"brain|heart, kidney|skin, skeleton|liver",,0,0
+"brain|heart|kidney|muscle|liver|liver|skin, skeleton",,0,0
+"brain|heart|liver|kidney|skeleton",,0,0
+"brain|heart|liver|kidney|skin, skeleton",,0,0
+"brain|heart|liver|kidney|skull",,0,0
+"brain|heart|liver|skin, skeleton",,0,0
+"brain|kidney|heart|skin, skeleton",,0,0
+"brain|kidney|heart|skull",,0,0
+"brain|kidney|liver|heart|skin, skeleton",,0,0
+"brain|kidney|liver|liver|cells|cells|skin, skeleton",,0,0
+"brain|liver|heart, kidney|skeleton",,0,0
+"brain|liver|heart, kidney|skin",,0,0
+"brain|liver|heart, kidney|skin, skeleton",,0,0
+"brain|liver|heart, kidney|skin, skull",,0,0
+"brain|liver|heart|kidney|skull",,0,0
+"brain|liver|heart|liver|skin, skeleton",,0,0
+"brain|liver|heart|skin",,0,0
+"brain|liver|kidney|heart|skin, skeleton",,0,0
+"brain|liver|kidney|heart|skull",,0,0
+"brain|liver|liver|heart|skin, skeleton",,0,0
+"brain|liver|muscle|skull",,0,0
+"brain|liver|skin, skeleton|muscle",,0,0
+"brain|muscle|liver|skin, skeleton",,0,0
+"brain|muscle|skin, skeleton",,0,0
+"brain|muscle|skull",,0,0
+"brain|skeleton",,0,0
+"brain|skin, partial skeleton|muscle|muscle",,0,0
+"brain|skin, skeleton",,0,0
+"brain|skin, skeleton|liver|heart, kidney",,0,0
+"brain|skull",,0,0
 "BRAINCASE",,0,0
 "BRAINCASE & FIRMLY JOINED FRAGS OF POSTERIOR DERMAL SKULL ELEMENTS",,0,0
 "braincase (5)",,0,0
@@ -14868,6 +14922,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "CAUDO-SACRALS",,0,0
 "Cavity slide mount",,0,0
 "Celliformia burrows",,0,0
+"cells|blood|spleen|liver|liver|skin, skeleton",,0,0
+"cells|cells|liver|kidney|liver|liver|heart|skin, skeleton",,0,0
+"cells|heart, kidney|liver|heart, kidney|liver|skin, skeleton",,0,0
+"cells|heart, kidney|liver|skin, skull",,0,0
+"cells|liver|heart, kidney|heart, spleen|liver|heart, kidney|skin, skeleton",,0,0
+"cells|liver|heart, kidney|skeleton",,0,0
+"cells|liver|heart, kidney|skin, skull",,0,0
+"cells|liver|skin, skull",,0,0
+"cells|liver|skull",,0,0
+"cells|liver|spleen|skin, skeleton",,0,0
+"cells|skin, skeleton",,0,0
+"cells|skin, skull",,0,0
 "CELLULOID CAST","celluloid cast",0,1
 "celluloid cast - 1",,0,0
 "CENTER PART BODY, A+B; 4 SEPARATE PIECES",,0,0
@@ -16833,6 +16899,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "CRUSHED SKULL, JAWS, TIBIA, FEMUR, HIND TOE BONES",,0,0
 "CRUSHED SKULL, R M1/-M3/; L P4/-M3/",,0,0
 "crushing tooth",,0,0
+"CS",,0,0
 "CTH",,0,0
 "CTH ER5",,0,0
 "CTH FRAG",,0,0
@@ -16923,6 +16990,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "CURVED RIBS IN SLAB OF LIMESTONE",,0,0
 "CUSPS",,0,0
 "CUTTING TOOTH",,0,0
+"D",,0,0
 "D C/,R I/,DENTARY,2 CALCANEUM,METATARSAL 2,4,5,PHALANX,2 RIB",,0,0
 "D CHEEK TEETH,I,2 JUV SYMPHYSES",,0,0
 "D M",,0,0
@@ -20398,6 +20466,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "DM4/ (BROKEN) M/1 M2/ (ERUPTING), M1/ M2/ R",,0,0
 "dMx/ frag.",,0,0
 "DNA extract Tissue",,0,0
+"DNA|liver|heart, kidney|liver|heart, kidney|skin, skull",,0,0
+"DNA|liver|heart, kidney|liver|liver|heart, kidney|skin, skull",,0,0
 "dnetary with p2-m2",,0,0
 "dome and latex endocast",,0,0
 "Dominican amber",,0,0
@@ -21202,6 +21272,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Ear bones (right tympanic)",,0,0
 "Ear bones (right tympanic, damaged)",,0,0
 "Ear bones (tympanic + periotics)",,0,0
+"ear clip|blood|ear clip|skull",,0,0
+"ear clip|skull",,0,0
 "EAR OSSICLE",,0,0
 "Ear ossicles",,0,0
 "Ear Ossicles - 1",,0,0
@@ -21523,6 +21595,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "electric organ discharge recording, tissue, tissue, fluid",,0,0
 "electric organ discharge recording, tissue, tissue, fluid, photograph",,0,0
 "Electric organ, dissected (in spirit)",,0,0
+"electrophoretic tissue|skin",,0,0
 "Electrotype. Cranial + postcranial",,0,0
 "elememts",,0,0
 "element",,0,0
@@ -21557,6 +21630,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "embryo (ethanol)",,0,0
 "embryo | tissue",,0,0
 "Embryo in foetal membranes (mounted in spirit)",,0,0
+"embryo|embryo|embryo|embryo|liver|skin, skeleton",,0,0
+"embryo|embryo|liver|heart, kidney|kidney|muscle|liver|skin, skeleton",,0,0
+"embryo|heart, kidney|liver|alcoholic",,0,0
+"embryo|heart, kidney|liver|skin, skull",,0,0
+"embryo|kidney|skin, skeleton",,0,0
+"embryo|liver|heart, kidney|skin, skull",,0,0
+"embryo|skull",,0,0
 "embryonic skeleton in egg",,0,0
 "Empty",,0,0
 "EN",,0,0
@@ -21591,6 +21671,10 @@ R PERIPHERALS 2 - 3.",,0,0
 "endocranial cast",,0,0
 "ENDOCRANIUM",,0,0
 "ENDOCRANIUM ANTERODORSAL; CAUDAL VERTEBRAE & FRAGS MAY BE ASSOCIATED",,0,0
+"endoparasite|muscle|skull",,0,0
+"endoparasite|skeleton|liver|heart, kidney",,0,0
+"endoparasite|unknown|muscle|skull",,0,0
+"endoparasite|unknown|skull",,0,0
 "Endoparasites - 1; Ectoparasites - 1; Chromosomes; Tissue - 1; Skin & part. skel. - 1",,0,0
 "Endoparasites - 1; Ectoparasites; Chromosomes; Tissue - 1; Skin & part. skel. - 1",,0,0
 "Endoparasites - 1; Ectoparasites; Chromosomes; Tissue; Skin & skull - 1",,0,0
@@ -35575,8 +35659,166 @@ R PERIPHERALS 2 - 3.",,0,0
 "Heart, dissected from the side (in spirit)",,0,0
 "Heart, great vessels, trachea & part of lungs (in spirit)",,0,0
 "heart, hyoid bones, tissue",,0,0
+"heart, kidney, liver|liver|heart, kidney|skin, skull",,0,0
+"heart, kidney, liver|liver|skin, skeleton",,0,0
+"heart, kidney, liver|skeleton",,0,0
+"heart, kidney, liver|skin, skeleton",,0,0
+"heart, kidney, liver|skin, skull",,0,0
+"heart, kidney, lung|liver|skin, skull",,0,0
+"heart, kidney|alcoholic",,0,0
+"heart, kidney|blood|muscle|Serum|urine|spleen|liver|skull",,0,0
+"heart, kidney|brain|liver|skeleton",,0,0
+"heart, kidney|brain|liver|skin, skeleton",,0,0
+"heart, kidney|brain|liver|skin, skeleton|liver",,0,0
+"heart, kidney|brain|liver|skin, skull",,0,0
+"heart, kidney|brain|liver|skull",,0,0
+"heart, kidney|brain|liver|skull|brain",,0,0
+"heart, kidney|brain|skeleton",,0,0
+"heart, kidney|heart, kidney|heart, kidney|liver|liver|liver|skin, skull",,0,0
+"heart, kidney|heart, kidney|heart, kidney|liver|skin, skeleton",,0,0
+"heart, kidney|heart, kidney|liver|heart, kidney|liver|skin, skull",,0,0
+"heart, kidney|heart, kidney|liver|liver|alcoholic",,0,0
+"heart, kidney|heart, kidney|liver|liver|heart, kidney|heart, kidney|liver|skin, skull|DNA",,0,0
+"heart, kidney|heart, kidney|liver|liver|heart, kidney|skin, skull",,0,0
+"heart, kidney|heart, kidney|liver|liver|liver|liver|liver|skin, skeleton",,0,0
+"heart, kidney|heart, kidney|liver|liver|liver|liver|skin, skeleton|heart, kidney|liver|heart, kidney|heart, kidney",,0,0
+"heart, kidney|heart, kidney|liver|liver|liver|skin, skull",,0,0
+"heart, kidney|heart, kidney|liver|liver|skeleton",,0,0
+"heart, kidney|heart, kidney|liver|liver|skin, skeleton",,0,0
+"heart, kidney|heart, kidney|liver|liver|skin, skull",,0,0
+"heart, kidney|heart, kidney|liver|skeleton",,0,0
+"heart, kidney|heart, kidney|liver|skin, skeleton",,0,0
+"heart, kidney|heart, kidney|liver|skin, skull",,0,0
+"heart, kidney|heart, kidney|skin, skeleton",,0,0
+"heart, kidney|heart, kidney|skin, skull",,0,0
+"heart, kidney|heart, kidney|skin, skull|liver",,0,0
+"heart, kidney|kidney|heart, kidney|liver|skeleton",,0,0
+"heart, kidney|kidney|liver|liver|skin, skull",,0,0
+"heart, kidney|liver",,0,0
+"heart, kidney|liver|alcoholic",,0,0
+"heart, kidney|liver|alcoholic, skull removed",,0,0
+"heart, kidney|liver|brain|skeleton",,0,0
+"heart, kidney|liver|brain|skin, skeleton",,0,0
+"heart, kidney|liver|brain|skin, skull",,0,0
+"heart, kidney|liver|brain|skull|liver",,0,0
+"heart, kidney|liver|heart, kidney|heart, kidney|liver|alcoholic",,0,0
+"heart, kidney|liver|heart, kidney|heart, kidney|skin, skeleton",,0,0
+"heart, kidney|liver|heart, kidney|liver|alcoholic",,0,0
+"heart, kidney|liver|heart, kidney|liver|heart, kidney|skin, skull",,0,0
+"heart, kidney|liver|heart, kidney|liver|liver|heart, kidney|skin, skeleton",,0,0
+"heart, kidney|liver|heart, kidney|liver|liver|heart, kidney|skin, skull",,0,0
+"heart, kidney|liver|heart, kidney|liver|liver|skin, skeleton",,0,0
+"heart, kidney|liver|heart, kidney|liver|liver|skin, skull",,0,0
+"heart, kidney|liver|heart, kidney|liver|skin, skeleton",,0,0
+"heart, kidney|liver|heart, kidney|liver|skin, skull",,0,0
+"heart, kidney|liver|heart, kidney|liver|skull",,0,0
+"heart, kidney|liver|heart, kidney|liver|spleen|alcoholic",,0,0
+"heart, kidney|liver|heart, kidney|skin, skeleton",,0,0
+"heart, kidney|liver|heart, kidney|skin, skull",,0,0
+"heart, kidney|liver|heart, kidney|unknown",,0,0
+"heart, kidney|liver|heart, kidney|unknown|skull",,0,0
+"heart, kidney|liver|liver|alcoholic",,0,0
+"heart, kidney|liver|liver|alcoholic, skull removed",,0,0
+"heart, kidney|liver|liver|heart, kidney|heart, kidney|skin, skull",,0,0
+"heart, kidney|liver|liver|heart, kidney|liver|heart, kidney|skin, skeleton",,0,0
+"heart, kidney|liver|liver|heart, kidney|liver|heart, kidney|skin, skull",,0,0
+"heart, kidney|liver|liver|heart, kidney|liver|skin, skull",,0,0
+"heart, kidney|liver|liver|heart, kidney|liver|skin, skull|liver|DNA",,0,0
+"heart, kidney|liver|liver|heart, kidney|liver|skull|muscle",,0,0
+"heart, kidney|liver|liver|heart, kidney|skeleton",,0,0
+"heart, kidney|liver|liver|heart, kidney|skeleton|DNA|liver",,0,0
+"heart, kidney|liver|liver|heart, kidney|skeleton|liver|DNA",,0,0
+"heart, kidney|liver|liver|heart, kidney|skin, skeleton",,0,0
+"heart, kidney|liver|liver|heart, kidney|skin, skull",,0,0
+"heart, kidney|liver|liver|heart, kidney|skin, skull|DNA",,0,0
+"heart, kidney|liver|liver|heart, kidney|skin, skull|DNA|liver",,0,0
+"heart, kidney|liver|liver|heart, kidney|skin, skull|liver|DNA",,0,0
+"heart, kidney|liver|liver|heart, kidney|skull",,0,0
+"heart, kidney|liver|liver|heart, kidney|unknown",,0,0
+"heart, kidney|liver|liver|liver|heart, kidney|heart, kidney|alcoholic",,0,0
+"heart, kidney|liver|liver|liver|heart, kidney|skin, skull",,0,0
+"heart, kidney|liver|liver|liver|liver|heart, kidney|skull|liver",,0,0
+"heart, kidney|liver|liver|skeleton",,0,0
+"heart, kidney|liver|liver|skin, skeleton",,0,0
+"heart, kidney|liver|liver|skin, skull",,0,0
+"heart, kidney|liver|muscle|skin, skull",,0,0
+"heart, kidney|liver|partial skeleton",,0,0
+"heart, kidney|liver|skeleton",,0,0
+"heart, kidney|liver|skin, skeleton",,0,0
+"heart, kidney|liver|skin, skull",,0,0
+"heart, kidney|liver|skin, skull|brain",,0,0
+"heart, kidney|liver|skin, skull|brain|spleen",,0,0
+"heart, kidney|liver|skull",,0,0
+"heart, kidney|liver|spleen|heart, kidney|heart, kidney|liver|liver|skin, skeleton",,0,0
+"heart, kidney|liver|spleen|heart, kidney|liver|skeleton",,0,0
+"heart, kidney|liver|spleen|skin, skull",,0,0
+"heart, kidney|liver|tissue, unknown|tissue, unknown|liver|heart, kidney|skin, skull",,0,0
+"heart, kidney|liver|unknown",,0,0
+"heart, kidney|lung|liver|skin, skeleton",,0,0
+"heart, kidney|muscle|brain|skin, skull",,0,0
+"heart, kidney|muscle|kidney|partial skeleton",,0,0
+"heart, kidney|muscle|skin, skull",,0,0
+"heart, kidney|skeleton",,0,0
+"heart, kidney|skin, skeleton",,0,0
+"heart, kidney|skin, skeleton|liver",,0,0
+"heart, kidney|skin, skull",,0,0
+"heart, kidney|skin, skull|heart, kidney|liver",,0,0
+"heart, kidney|skin, skull|liver",,0,0
+"heart, kidney|skull",,0,0
+"heart, kidney|skull|liver",,0,0
+"heart, kidney|spleen|liver|skin, skull",,0,0
+"heart, kidney|unknown|heart, kidney|skull",,0,0
+"heart, kidney|unknown|liver|skull",,0,0
+"heart, kidney|unknown|muscle|skull",,0,0
+"heart, kidney|unknown|skull",,0,0
+"heart, liver|kidney|skin, skeleton",,0,0
+"heart, liver|skin, skull",,0,0
 "Heart, spleen, liver, penis (in spirit)",,0,0
 "Heart, tongue, etc. (in spirit)",,0,0
+"Heart/Kidney - 1|skin - 1",,0,0
+"Heart/Kidney|Liver - 1|skin - 1",,0,0
+"Heart/Kidney|Muscle|Liver - 1|skin - 1",,0,0
+"Heart/Liver|Kidney|Muscle - 1|skin - 1",,0,0
+"heart|alcoholic",,0,0
+"heart|brain|liver|kidney|skin, skeleton",,0,0
+"heart|heart|kidney|kidney|liver|liver|skeleton",,0,0
+"heart|heart|kidney|kidney|liver|liver|skin, skeleton",,0,0
+"heart|heart|kidney|kidney|liver|skull",,0,0
+"heart|heart|liver|skin, skeleton",,0,0
+"heart|heart|skin, skull",,0,0
+"heart|heart|skull|liver",,0,0
+"heart|kidney, liver|skull",,0,0
+"heart|kidney|brain|liver|skin, skeleton",,0,0
+"heart|kidney|heart|liver|skull",,0,0
+"heart|kidney|kidney|kidney|kidney|kidney|heart|skin, skull",,0,0
+"heart|kidney|kidney|kidney|liver|liver|liver|skin, skeleton",,0,0
+"heart|kidney|liver|brain|skin, skeleton",,0,0
+"heart|kidney|liver|heart|liver|kidney|skin, skeleton",,0,0
+"heart|kidney|liver|liver|skull",,0,0
+"heart|kidney|liver|muscle|muscle|heart|kidney|skin, skeleton",,0,0
+"heart|kidney|liver|skeleton",,0,0
+"heart|kidney|liver|skin, skeleton",,0,0
+"heart|kidney|liver|skin, skull",,0,0
+"heart|kidney|liver|skull",,0,0
+"heart|liver|alcoholic",,0,0
+"heart|liver|brain|kidney|skull",,0,0
+"heart|liver|heart|brain|skin, skeleton",,0,0
+"heart|liver|heart|skin, skull",,0,0
+"Heart|Liver|Kidney - 1|skin - 1",,0,0
+"heart|liver|kidney|blood|skull",,0,0
+"heart|liver|kidney|brain|skull",,0,0
+"heart|liver|kidney|liver|skin, skeleton",,0,0
+"heart|liver|kidney|skeleton",,0,0
+"heart|liver|kidney|skin, skeleton",,0,0
+"heart|liver|kidney|skin, skull",,0,0
+"heart|liver|kidney|skull",,0,0
+"heart|liver|liver|kidney|skin, skeleton",,0,0
+"heart|liver|liver|skull",,0,0
+"heart|liver|skeleton",,0,0
+"heart|liver|skin, skull",,0,0
+"heart|liver|skull",,0,0
+"heart|muscle|liver|skeleton",,0,0
+"heart|skull",,0,0
 "HEAVILY WORN L P/4-M/1 IN DENTARY FRAG",,0,0
 "HEAVILY WORN R P/",,0,0
 "Heel bone",,0,0
@@ -40016,7 +40258,53 @@ R PERIPHERALS 2 - 3.",,0,0
 "Kerst, K.",,0,0
 "Kidney",,0,0
 "Kidney (in spirit)",,0,0
+"kidney, liver|heart|skeleton",,0,0
+"kidney, liver|heart|skin, skull",,0,0
 "Kidney, sectioned (in spirit)",,0,0
+"kidney|alcoholic",,0,0
+"kidney|brain|heart, kidney|skin, skeleton|liver",,0,0
+"kidney|brain|heart|liver|heart, kidney|liver|skin, skeleton",,0,0
+"kidney|brain|heart|liver|skin, skeleton",,0,0
+"kidney|brain|liver|muscle|skeleton",,0,0
+"kidney|heart, kidney|liver|skin, skull",,0,0
+"kidney|heart|liver|brain|skin, skeleton",,0,0
+"kidney|heart|liver|heart|skull",,0,0
+"kidney|heart|liver|kidney|heart|skin, skeleton",,0,0
+"kidney|heart|liver|skeleton",,0,0
+"kidney|heart|liver|skin, skeleton",,0,0
+"kidney|heart|liver|skin, skull",,0,0
+"kidney|heart|liver|skull",,0,0
+"kidney|heart|plasma|liver|skeleton",,0,0
+"kidney|heart|skin, skeleton",,0,0
+"kidney|kidney|heart|liver|heart|liver|skin, skeleton",,0,0
+"kidney|kidney|liver|liver|heart|heart|skin, skeleton",,0,0
+"kidney|kidney|liver|liver|heart|skin, skeleton",,0,0
+"kidney|kidney|liver|liver|skin, skeleton",,0,0
+"kidney|kidney|liver|skull",,0,0
+"kidney|liver|blood|skin, skeleton",,0,0
+"kidney|liver|brain|heart|skull",,0,0
+"kidney|liver|heart, kidney|skeleton",,0,0
+"kidney|liver|heart, kidney|skin, skull",,0,0
+"kidney|liver|heart|brain|skull",,0,0
+"Kidney|Liver|Heart|Muscle|Blood - 1|skin - 1",,0,0
+"kidney|liver|heart|skeleton",,0,0
+"kidney|liver|heart|skin, skeleton",,0,0
+"kidney|liver|heart|skin, skull",,0,0
+"kidney|liver|heart|skull",,0,0
+"Kidney|Liver|Muscle - 1|skin - 1",,0,0
+"kidney|liver|skeleton",,0,0
+"kidney|liver|skin, skull",,0,0
+"kidney|liver|skull",,0,0
+"kidney|muscle|alcoholic",,0,0
+"kidney|muscle|liver|kidney|kidney|liver|heart|skin, skull|liver",,0,0
+"kidney|muscle|liver|skin, skull",,0,0
+"kidney|muscle|skin, skull",,0,0
+"kidney|muscle|skull",,0,0
+"kidney|skin, skeleton",,0,0
+"kidney|skin, skull",,0,0
+"kidney|skull",,0,0
+"kidney|unknown",,0,0
+"kidney|unknown|skin, skull",,0,0
 "Kidneys + arteries + veins (in spirit)",,0,0
 "Kidneys etc. (in spirit)",,0,0
 "Kidneys, etc. (in spirit)",,0,0
@@ -47453,10 +47741,193 @@ R PERIPHERALS 2 - 3.",,0,0
 "Live Mount",,0,0
 "live mount, partial skeleton, tissue",,0,0
 "live; no longer in collection",,0,0
+"Liver - 1|skin - 1",,0,0
 "liver (95% ethanol)",,0,0
 "liver (95% ethanol) | liver (95% ethanol)",,0,0
 "liver (95% ethanol) | muscle (95% ethanol)",,0,0
 "Liver (in spirit)",,0,0
+"liver|",,0,0
+"liver|alcoholic",,0,0
+"liver|blood|spleen|alcoholic",,0,0
+"liver|brain|heart, kidney|liver|skeleton",,0,0
+"liver|brain|heart, kidney|skeleton",,0,0
+"liver|brain|heart, kidney|skin, skeleton",,0,0
+"liver|brain|heart, kidney|skin, skull",,0,0
+"liver|brain|kidney|heart|skin, skeleton",,0,0
+"liver|brain|kidney|skin, skeleton",,0,0
+"liver|brain|skin, skeleton|heart",,0,0
+"liver|brain|skin, skull",,0,0
+"liver|brain|skull",,0,0
+"liver|brain|skull|heart, kidney",,0,0
+"liver|endoparasite(s)|heart, kidney, liver|skin, skeleton",,0,0
+"liver|heart, kidney, liver|skin, skeleton",,0,0
+"liver|heart, kidney, spleen|skin, skeleton",,0,0
+"liver|heart, kidney|alcoholic",,0,0
+"liver|heart, kidney|brain|liver|skin, skeleton",,0,0
+"liver|heart, kidney|brain|skeleton",,0,0
+"liver|heart, kidney|brain|skin, skeleton",,0,0
+"liver|heart, kidney|brain|skin, skull",,0,0
+"liver|heart, kidney|cells|skin, skeleton",,0,0
+"liver|heart, kidney|heart, kidney|heart, kidney|heart, kidney|heart, kidney|heart, kidney|skin, skeleton|liver|liver|liver|liver|liver",,0,0
+"liver|heart, kidney|heart, kidney|heart, kidney|skin, skeleton",,0,0
+"liver|heart, kidney|heart, kidney|liver|heart, kidney|skin, skull",,0,0
+"liver|heart, kidney|heart, kidney|liver|liver|skull",,0,0
+"liver|heart, kidney|heart, kidney|liver|skin, skeleton",,0,0
+"liver|heart, kidney|heart, kidney|liver|skin, skull",,0,0
+"liver|heart, kidney|heart, kidney|liver|skull",,0,0
+"liver|heart, kidney|heart, kidney|skin, skeleton",,0,0
+"liver|heart, kidney|heart, kidney|skin, skull",,0,0
+"liver|heart, kidney|heart, kidney|skull",,0,0
+"liver|heart, kidney|kidney|liver|heart|skull",,0,0
+"liver|heart, kidney|kidney|skin, skull",,0,0
+"liver|heart, kidney|liver",,0,0
+"liver|heart, kidney|liver|heart, kidney|heart|skin, skull|hearet, kidney|hearet, kidney|liver|liver",,0,0
+"liver|heart, kidney|liver|heart, kidney|skin, skeleton",,0,0
+"liver|heart, kidney|liver|heart, kidney|skin, skull",,0,0
+"liver|heart, kidney|liver|heart, kidney|skull",,0,0
+"liver|heart, kidney|liver|heart, kidney|spleen|skin, skeleton",,0,0
+"liver|heart, kidney|liver|heart, kidney|spleen|skin, skeleton|kidney",,0,0
+"liver|heart, kidney|liver|heart|kidney|alcoholic, skull removed",,0,0
+"liver|heart, kidney|liver|liver|heart, kidney|skin, skull",,0,0
+"liver|heart, kidney|liver|liver|liver|skin, skeleton",,0,0
+"liver|heart, kidney|liver|liver|skin, skeleton",,0,0
+"liver|heart, kidney|liver|liver|skin, skull",,0,0
+"liver|heart, kidney|liver|skeleton",,0,0
+"liver|heart, kidney|liver|skin, skeleton",,0,0
+"liver|heart, kidney|liver|skin, skull",,0,0
+"liver|heart, kidney|liver|skull",,0,0
+"liver|heart, kidney|muscle|skin, skeleton",,0,0
+"liver|heart, kidney|partial skeleton",,0,0
+"liver|heart, kidney|skeleton",,0,0
+"liver|heart, kidney|skeleton|DNA|liver",,0,0
+"liver|heart, kidney|skeleton|liver|DNA",,0,0
+"liver|heart, kidney|skin",,0,0
+"liver|heart, kidney|skin, body skeleton",,0,0
+"liver|heart, kidney|skin, skeleton",,0,0
+"liver|heart, kidney|skin, skull",,0,0
+"liver|heart, kidney|skin, skull|brain",,0,0
+"liver|heart, kidney|skin, skull|DNA|liver",,0,0
+"liver|heart, kidney|skin, skull|ectoparasite(s)",,0,0
+"liver|heart, kidney|skin, skull|heart, kidney|liver",,0,0
+"liver|heart, kidney|skin, skull|liver|DNA",,0,0
+"liver|heart, kidney|skin, skull|liver|heart, kidney",,0,0
+"liver|heart, kidney|skull",,0,0
+"liver|heart, kidney|unknown",,0,0
+"liver|heart, liver|skin, skeleton",,0,0
+"Liver|Heart/Kidney - 1|skeleton - 1",,0,0
+"Liver|Heart/Kidney|Muscle - 1|skin - 1",,0,0
+"liver|heart|brain|kidney|skin, skeleton",,0,0
+"liver|heart|kidney|liver|heart|liver|kidney|skin, skeleton",,0,0
+"liver|heart|kidney|liver|skin, skeleton",,0,0
+"liver|heart|kidney|skeleton",,0,0
+"liver|heart|kidney|skin, skeleton",,0,0
+"liver|heart|kidney|skin, skull",,0,0
+"liver|heart|kidney|skull",,0,0
+"liver|heart|liver|kidney|brain|skin, skeleton",,0,0
+"liver|heart|liver|kidney|skin, skull|liver",,0,0
+"liver|heart|liver|liver|skin, skeleton",,0,0
+"liver|heart|liver|skin, skeleton",,0,0
+"liver|heart|muscle|kidney|spleen|skin, skeleton",,0,0
+"liver|heart|muscle|skull",,0,0
+"liver|heart|skeleton",,0,0
+"liver|heart|skin, skeleton",,0,0
+"liver|heart|skin, skull",,0,0
+"liver|heart|skull",,0,0
+"Liver|Kidney - 1|skin - 1",,0,0
+"liver|kidney|brain|heart|skin, skeleton",,0,0
+"liver|kidney|cells|skin, skeleton",,0,0
+"liver|kidney|heart, kidney|skeleton",,0,0
+"liver|kidney|heart|brain|skin, skeleton",,0,0
+"liver|kidney|heart|kidney|skin, skeleton",,0,0
+"liver|kidney|heart|liver|kidney|heart|liver|skin, skull|kidney|heart|heart",,0,0
+"Liver|Kidney|Heart|Muscle|Blood - 1|skin - 1",,0,0
+"liver|kidney|heart|skeleton",,0,0
+"liver|kidney|heart|skin, body skeleton",,0,0
+"liver|kidney|heart|skin, skeleton",,0,0
+"liver|kidney|heart|skin, skull",,0,0
+"liver|kidney|heart|skull",,0,0
+"liver|kidney|heart|tissue, unknown|tissue, unknown|liver|skin, skeleton",,0,0
+"liver|kidney|kidney|heart|heart|liver|skin, skeleton",,0,0
+"liver|kidney|liver|heart|skin, skeleton",,0,0
+"liver|kidney|liver|heart|skin, skull",,0,0
+"liver|kidney|skin, skeleton",,0,0
+"liver|kidney|skin, skull",,0,0
+"liver|kidney|skull",,0,0
+"liver|liver|alcoholic",,0,0
+"liver|liver|brain|heart, kidney|skin, skull",,0,0
+"liver|liver|heart, kidney|alcoholic",,0,0
+"liver|liver|heart, kidney|heart, kidney|heart, kidney|skin, skeleton",,0,0
+"liver|liver|heart, kidney|heart, kidney|liver|skin, skeleton",,0,0
+"liver|liver|heart, kidney|heart, kidney|skin, skeleton",,0,0
+"liver|liver|heart, kidney|heart, kidney|skin, skull",,0,0
+"liver|liver|heart, kidney|liver|alcoholic",,0,0
+"liver|liver|heart, kidney|liver|liver|skin, skeleton",,0,0
+"liver|liver|heart, kidney|liver|liver|skull",,0,0
+"liver|liver|heart, kidney|liver|skin, skeleton",,0,0
+"liver|liver|heart, kidney|liver|skin, skull|liver|DNA",,0,0
+"liver|liver|heart, kidney|skin, skeleton",,0,0
+"liver|liver|heart, kidney|skin, skeleton|cells|cells|cells|cells",,0,0
+"liver|liver|heart, kidney|skin, skull",,0,0
+"liver|liver|heart, kidney|skin, skull|liver|DNA",,0,0
+"liver|liver|heart, kidney|skull",,0,0
+"liver|liver|heart, kidney|spleen|heart, kidney|skin, skeleton",,0,0
+"liver|liver|heart|kidney|partial skeleton",,0,0
+"liver|liver|heart|kidney|skin, skeleton",,0,0
+"liver|liver|heart|kidney|skull",,0,0
+"liver|liver|heart|liver|heart, kidney|liver|skin, skeleton",,0,0
+"liver|liver|heart|liver|liver|liver|skin, skeleton",,0,0
+"liver|liver|heart|skull",,0,0
+"liver|liver|kidney|heart|skin, skull",,0,0
+"liver|liver|kidney|kidney|heart|heart|skin, skeleton",,0,0
+"liver|liver|kidney|kidney|skin, skeleton",,0,0
+"liver|liver|kidney|liver|liver|heart|skin, skeleton",,0,0
+"liver|liver|kidney|skin, skeleton",,0,0
+"liver|liver|liver|heart, kidney|heart, kidney|heart, kidney|heart, kidney|skin, skeleton",,0,0
+"liver|liver|liver|heart, kidney|liver|skin, skeleton",,0,0
+"liver|liver|liver|heart, kidney|skin, skeleton",,0,0
+"liver|liver|liver|heart, kidney|skin, skull",,0,0
+"liver|liver|liver|kidney|heart|skin, skull",,0,0
+"liver|liver|liver|kidney|liver|heart|skin, skeleton",,0,0
+"liver|liver|liver|liver|heart, kidney|liver|skin, skeleton",,0,0
+"liver|liver|liver|liver|liver|liver|liver|skin, skeleton",,0,0
+"liver|liver|liver|liver|skin, skeleton",,0,0
+"liver|liver|liver|muscle|muscle|muscle|skin, skull",,0,0
+"liver|liver|liver|skeleton",,0,0
+"liver|liver|liver|skin, skull",,0,0
+"liver|liver|muscle|liver|kidney|heart|skin, skull|liver",,0,0
+"liver|liver|skeleton",,0,0
+"liver|liver|skin, skeleton",,0,0
+"liver|liver|skin, skull",,0,0
+"liver|liver|skin, skull|heart, kidney",,0,0
+"liver|liver|skin, skull|liver|liver|liver|liver|liver|liver",,0,0
+"liver|liver|skull",,0,0
+"liver|liver|spleen|Spleen|spleen|spleen|heart|skin, skeleton",,0,0
+"liver|liver|unknown|liver|heart, kidney|liver|skin, skeleton",,0,0
+"liver|muscle|heart, kidney|liver|liver|skin, skeleton",,0,0
+"liver|muscle|heart, kidney|skin, skull",,0,0
+"Liver|Muscle|Heart/Kidney - 1|skin - 1",,0,0
+"liver|muscle|liver|skin, skeleton",,0,0
+"liver|muscle|liver|skin, skull",,0,0
+"liver|muscle|skin",,0,0
+"liver|muscle|skin, skeleton",,0,0
+"liver|plasma|heart|kidney|spleen|spleen|heart|skin, skeleton",,0,0
+"liver|skeleton",,0,0
+"liver|skin",,0,0
+"liver|skin, skeleton",,0,0
+"liver|skin, skull",,0,0
+"liver|skin, skull|brain|heart, kidney|muscle",,0,0
+"liver|skin, skull|heart, kidney",,0,0
+"liver|skin, skull|liver",,0,0
+"liver|skull",,0,0
+"liver|skull|heart, kidney",,0,0
+"liver|spleen|heart, kidney|heart, kidney|heart, kidney|liver|skull",,0,0
+"liver|spleen|heart, kidney|skin, skeleton",,0,0
+"liver|tissue, unknown|liver|heart, kidney|skin, skeleton",,0,0
+"liver|unknown|heart, kidney|liver|liver|skin, skeleton",,0,0
+"liver|unknown|liver|heart, kidney|liver|skin, skeleton",,0,0
+"liver|unknown|liver|liver|heart, kidney|liver|skull",,0,0
+"liver|unknown|liver|liver|liver|skin, skeleton",,0,0
+"liver|unknown|unkown|heart, kidney|liver|liver|skin",,0,0
 "LIx/",,0,0
 "lizard dentaries",,0,0
 "lizard jaw",,0,0
@@ -48014,6 +48485,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "LUNARS",,0,0
 "LUNATE",,0,0
 "Lung (in spirit)",,0,0
+"lung|muscle|heart, kidney|liver|skin, skeleton",,0,0
 "LUNGFISH BURROWS",,0,0
 "lungfish burrows, small dermal bone",,0,0
 "LUNGFISH JUNK",,0,0
@@ -52937,6 +53409,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Murray L. Johnson",,0,0
 "Murray L. Johnson & Claire Brown",,0,0
 "muscle",,0,0
+"Muscle - 1|Heart/Kidney|skeleton - 1|Liver",,0,0
+"Muscle - 1|skin - 1",,0,0
 "muscle (95% ethanol)",,0,0
 "muscle | one wing",,0,0
 "muscle | two wings",,0,0
@@ -52954,6 +53428,61 @@ R PERIPHERALS 2 - 3.",,0,0
 "muscle, liver, heart, wings",,0,0
 "muscle, tissue, skeleton, four pups",,0,0
 "muscle, wing",,0,0
+"muscle|alcoholic",,0,0
+"Muscle|Blood|Kidney|Liver|Heart - 1|skin - 1",,0,0
+"muscle|brain|skeleton",,0,0
+"muscle|brain|skin, body skeleton",,0,0
+"muscle|brain|skin, skeleton",,0,0
+"muscle|brain|skull",,0,0
+"muscle|heart, kidney|liver|alcoholic",,0,0
+"muscle|heart, kidney|liver|liver|heart, kidney|heart, kidney|skin, skeleton",,0,0
+"muscle|heart, kidney|liver|skin, skeleton",,0,0
+"muscle|heart, kidney|muscle|skin, body skeleton",,0,0
+"Muscle|Heart/Kidney - 1|skin - 1",,0,0
+"Muscle|Heart/Kidney|Liver - 1|skin - 1",,0,0
+"Muscle|Heart/Liver - 1|skin - 1",,0,0
+"muscle|heart|brain|skull",,0,0
+"muscle|heart|kidney|liver|spleen|serum|heart|skin, skull|kidney|liver",,0,0
+"muscle|heart|liver|kidney|skin, skull",,0,0
+"muscle|heart|muscle|heart, kidney|skeleton",,0,0
+"muscle|heart|skin, skull",,0,0
+"Muscle|Kidney|Liver|Heart - 1|skin - 1",,0,0
+"Muscle|Kidney|Liver|Heart|Blood - 1|skin - 1",,0,0
+"muscle|kidney|skin, skeleton",,0,0
+"muscle|kidney|skin, skull",,0,0
+"Muscle|Liver - 1|skin - 1",,0,0
+"Muscle|Liver/Kidney|Heart - 1|skin - 1",,0,0
+"muscle|liver|heart, kidney|liver|skin, skull",,0,0
+"muscle|liver|heart, kidney|muscle|heart, kidney|liver|skeleton",,0,0
+"muscle|liver|heart, kidney|muscle|heart, kidney|liver|skin, skeleton",,0,0
+"muscle|liver|heart, kidney|skin, skeleton",,0,0
+"muscle|liver|heart, kidney|skin, skull",,0,0
+"muscle|liver|heart, kidney|skull",,0,0
+"Muscle|Liver|Heart/Kidney - 1|skin - 1",,0,0
+"muscle|liver|heart|skin, skull",,0,0
+"muscle|liver|kidney|skin, skeleton",,0,0
+"muscle|liver|liver|heart, kidney|skin, skull",,0,0
+"muscle|liver|muscle|skin, skull",,0,0
+"muscle|liver|skin, skeleton",,0,0
+"muscle|liver|skin, skull",,0,0
+"muscle|liver|skull",,0,0
+"Muscle|Muscle - 1|skin - 1",,0,0
+"muscle|muscle|alcoholic",,0,0
+"muscle|muscle|heart, kidney|heart, kidney|liver|liver|skin, skull",,0,0
+"muscle|muscle|heart|heart|kidney|kidney|liver|skin, skull",,0,0
+"muscle|muscle|muscle|muscle|skin, skeleton",,0,0
+"muscle|muscle|muscle|skin, skeleton",,0,0
+"muscle|muscle|muscle|skull",,0,0
+"muscle|muscle|skin, body skeleton",,0,0
+"muscle|muscle|skin, skeleton",,0,0
+"muscle|muscle|skull",,0,0
+"muscle|skeleton",,0,0
+"muscle|skin",,0,0
+"muscle|skin, skeleton",,0,0
+"muscle|skin, skeleton|brain",,0,0
+"muscle|skin, skull",,0,0
+"muscle|skull",,0,0
+"muscle|unknown|muscle|skull",,0,0
 "Museum Mount","mount",0,1
 "must be something",,0,0
 "MUTILATED SKULL & JAWS",,0,0
@@ -62132,6 +62661,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Protocone L cheek tooth.",,0,0
 "PROTOCONID",,0,0
 "proventriculus & stomach","proventriculus | stomach",0,1
+"provide explanation",,0,0
 "prox ?humerus frag",,0,0
 "prox ?radius",,0,0
 "prox ?radius frag",,0,0
@@ -73296,6 +73826,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SERIES OF FINE VERTEBRAE",,0,0
 "series of setae on hind tibia",,0,0
 "SERIES OF VERTEBRAL ELEMENTS | Cast",,0,0
+"serum|liver|Spleen|heart, kidney|liver|heart, kidney|skull",,0,0
 "sesamoid",,0,0
 "SESAMOID ?",,0,0
 "sesamoid bone",,0,0
@@ -73391,6 +73922,18 @@ R PERIPHERALS 2 - 3.",,0,0
 "Shed Skin",,0,0
 "Shed skin - 1",,0,0
 "SHED SKIN (DRY)","shed skin",0,1
+"Sheet",,0,0
+"Sheet - 0",,0,0
+"Sheet - 1",,0,0
+"Sheet - 1; Sheet - 1",,0,0
+"Sheet - 1; Sheet - 1; Sheet - 1",,0,0
+"Sheet - 1; Sheet, fragment folder - 1",,0,0
+"Sheet - 2",,0,0
+"Sheet - 2; Sheet - 2",,0,0
+"Sheet - 3",,0,0
+"Sheet - 6",,0,0
+"Sheet, fragment folder - 1",,0,0
+"Sheet, map - 1",,0,0
 "Sheffler, W. J. 2746",,0,0
 "SHEL,R+L SCAPULA,CORACOID,PELVIS FRAG",,0,0
 "Shell",,0,0
@@ -74521,6 +75064,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skeleton - 1; Wingspread - 1; Syrinx - 1",,0,0
 "Skeleton - 1; Wingspread - 1; Syrinx - 1; Tissue - 100",,0,0
 "Skeleton - 1; Wingspread - 1; Tissue - 100",,0,0
+"skeleton - 1|skin - 1",,0,0
 "Skeleton - 10",,0,0
 "Skeleton - 2","skeleton",0,1
 "skeleton  2 wings & flattened skin","skeleton | wings | flat skin",0,1
@@ -78858,6 +79402,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "skeleton; wings; flattened skin",,0,0
 "Skeleton?",,0,0
 "skeleton?, tissue",,0,0
+"skeleton|brain|liver|heart, kidney",,0,0
+"skeleton|heart, kidney|brain|liver",,0,0
+"skeleton|liver|brain|heart|kidney",,0,0
+"skeleton|liver|heart",,0,0
+"skeleton|liver|heart, kidney",,0,0
+"skeleton|liver|heart, kidney|heart, kidney|muscle|liver",,0,0
+"skeleton|tissue, unknown",,0,0
 "SKELETON+DENTARY",,0,0
 "SKELETON+histology slide of cartilage",,0,0
 "SKELETON+LIMB BONE",,0,0
@@ -79050,6 +79601,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin - 1; Wingspread - 1",,0,0
 "Skin - 1; Wingspread - 1; Syrinx - 1; Tissue - 100",,0,0
 "Skin - 1; Wingspread - 1; Tissue - 100",,0,0
+"skin - 1|skeleton - 1",,0,0
 "Skin - 11",,0,0
 "Skin - 2",,0,0
 "Skin - 2; Skeleton - 2",,0,0
@@ -79923,8 +80475,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin chip",,0,0
 "skin chip and tissue",,0,0
 "skin chip, skull, tissue",,0,0
+"skin clip|liver|heart, kidney|skeleton",,0,0
+"skin clip|liver|heart, kidney|skull|muscle",,0,0
+"skin clip|skeleton",,0,0
+"skin clip|skull",,0,0
+"skin clip|skull|liver|heart, kidney",,0,0
 "SKIN CONTAINING SKULL AND DIGITS IN ALCOHOL, REMAINDER PREPARED AS SKELETON",,0,0
 "Skin for mounting - 1",,0,0
+"skin from skull, abnormal color|muscle",,0,0
 "Skin Frozen . Freeze dried.",,0,0
 "skin impression",,0,0
 "skin in EtOH",,0,0
@@ -80614,6 +81172,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKIN, PART SKELETON","skin | partial skeleton",0,1
 "SKIN, PART SKELETON, FEATHERS","skin | partial skeleton | feathers",0,1
 "Skin, PART, Fluid","fluid | partial skeleton | skin",0,1
+"skin, partial skeleton",,0,0
 "Skin, partial skeleton:  sternum, furcula, coracoids; Skel",,0,0
 "Skin, piece (in spirit)",,0,0
 "Skin, pinned to cardboard",,0,0
@@ -81157,6 +81716,30 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, skeleton, wingspread, Tissue number 9466",,0,0
 "skin, skeleton, wingspread, Tissue number not taken",,0,0
 "SKIN, SKELETON,FEATHERS","skin | skeleton | feathers",0,1
+"skin, skeleton|brain",,0,0
+"skin, skeleton|brain|heart|liver",,0,0
+"skin, skeleton|brain|liver|heart, kidney",,0,0
+"skin, skeleton|hearet, kidney|muscle|liver",,0,0
+"skin, skeleton|heart, kidney",,0,0
+"skin, skeleton|heart, kidney|brain|liver",,0,0
+"skin, skeleton|heart, kidney|liver",,0,0
+"skin, skeleton|kidney|brain|heart|liver",,0,0
+"skin, skeleton|kidney|liver|heart",,0,0
+"skin, skeleton|liver",,0,0
+"skin, skeleton|liver|brain|heart, kidney",,0,0
+"skin, skeleton|liver|brain|kidney",,0,0
+"skin, skeleton|liver|hearet, kidney",,0,0
+"skin, skeleton|liver|heart, kidney",,0,0
+"skin, skeleton|liver|heart, kidney|brain",,0,0
+"skin, skeleton|liver|heart, kidney|liver|heart, kidney",,0,0
+"skin, skeleton|liver|heart, kidney|liver|spleen|heart, kidney",,0,0
+"skin, skeleton|liver|heart|kidney|brain",,0,0
+"skin, skeleton|liver|kidney",,0,0
+"skin, skeleton|muscle",,0,0
+"skin, skeleton|muscle|brain",,0,0
+"skin, skeleton|muscle|liver|heart, kidney",,0,0
+"skin, skeleton|muscle|muscle",,0,0
+"skin, skeleton|spleen|heart, kidney|liver",,0,0
 "skin, skin","skin",0,1
 "Skin, Skin & Sex by DAZ",,0,0
 "Skin, Skin & Sex by DAZ, Y",,0,0
@@ -81282,6 +81865,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, skull, and skeleton | skin, skull, and skeleton",,0,0
 "skin, skull, atlas, axis",,0,0
 "Skin, Skull, Baculum","baculum | skin | skull",0,1
+"skin, skull, baculum|liver|heart, kidney",,0,0
+"skin, skull, baculum|liver|heart, kidney|muscle",,0,0
 "Skin, skull, body skeleton","skin | skull | body skeleton",0,1
 "skin, skull, ectos",,0,0
 "skin, skull, embryo",,0,0
@@ -81318,6 +81903,25 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin, skull,tissue",,0,0
 "skin, skull?",,0,0
 "skin, skull?*",,0,0
+"skin, skull|brain|heart|kidney",,0,0
+"skin, skull|brain|liver",,0,0
+"skin, skull|brain|muscle",,0,0
+"skin, skull|hearet, kidney|liver",,0,0
+"skin, skull|heart, kidney, liver",,0,0
+"skin, skull|heart, kidney|brain|liver",,0,0
+"skin, skull|heart, kidney|embryo",,0,0
+"skin, skull|heart, kidney|heart",,0,0
+"skin, skull|heart, kidney|liver",,0,0
+"skin, skull|heart, kidney|liver|muscle",,0,0
+"skin, skull|heart, kidney|lung|liver",,0,0
+"skin, skull|kidney|heart|liver",,0,0
+"skin, skull|kidney|liver",,0,0
+"skin, skull|liver",,0,0
+"skin, skull|liver|brain|heart, kidney",,0,0
+"skin, skull|liver|brain|kidney|heart",,0,0
+"skin, skull|liver|heart, kidney",,0,0
+"skin, skull|liver|heart, kidney|muscle",,0,0
+"skin, skull|muscle",,0,0
 "Skin, Staebler determined age, Y",,0,0
 "skin, stomach",,0,0
 "Skin, stomach [saved as?] USNMFS 35213",,0,0
@@ -97924,6 +98528,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "Skin, Y; Wings_tail, Y; Tissue, Y; Syrinx, Y; Skel, Y",,0,0
 "Skin, Ys",,0,0
 "SKIN,SKELETON","skin | skeleton",0,1
+"skin,skull",,0,0
+"skin,skull |liver|heart, kidney",,0,0
+"skin,skull|heart, kidney|liver",,0,0
+"skin,skull|liver",,0,0
+"skin,skull|liver|hearet, kidney",,0,0
+"skin,skull|liver|heart, kidney",,0,0
 "skin,wing, tiss, stom saved",,0,0
 "skin,wing, tissue saved",,0,0
 "skin,wing,ectoparasites, tissue, stom saved",,0,0
@@ -98426,6 +99036,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "skin? EtOH - 1",,0,0
 "SKIN\BODY SKELETON","skin | body skeleton",0,1
 "skin\wing\tissue saved",,0,0
+"skin|heart, kidney|liver",,0,0
+"skin|kidney|liver",,0,0
+"skin|liver|heart, kidney",,0,0
+"skin|liver|heart|kidney",,0,0
+"skin|muscle",,0,0
+"skin|muscle|muscle",,0,0
 "Skin+Dry Skeleton",,0,0
 "Skin+Wing","skin | wing",0,1
 "skin+wing+partial skel.+DNA (muscle only)","DNA (muscle) | partial skeleton | skin | wing",0,1
@@ -99449,6 +100065,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull | tail (dry) | liver (95% ethanol) | heart (95% ethanol)",,0,0
 "skull | tail tip (95% ethanol)",,0,0
 "skull | tissue",,0,0
+"skull |liver|heart, kidney|liver|heart, kidney",,0,0
+"skull |muscle",,0,0
 "Skull +  fragments",,0,0
 "Skull + atlas",,0,0
 "Skull + base of horn cores",,0,0
@@ -101228,6 +101846,9 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull, baculum, partial skeleton",,0,0
 "skull, baculum, skin",,0,0
 "skull, baculum, skull, partial skeleton",,0,0
+"skull, baculum|brain",,0,0
+"skull, baculum|liver",,0,0
+"skull, baculum|muscle",,0,0
 "SKULL, BADLY BROKEN & DISTORTED",,0,0
 "SKULL, BADLY MUTILATED",,0,0
 "skull, bones",,0,0
@@ -102150,6 +102771,23 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull; wet",,0,0
 "Skull?",,0,0
 "SKULL?,DENTARY FRAG",,0,0
+"skull|brain",,0,0
+"skull|brain|heart, kidney|liver",,0,0
+"skull|brain|muscle",,0,0
+"skull|heart",,0,0
+"skull|heart, kidney",,0,0
+"skull|heart, kidney|liver",,0,0
+"skull|heart, kidney|liver|lung",,0,0
+"skull|heart|liver",,0,0
+"skull|kidney|heart, kidney",,0,0
+"skull|kidney|liver",,0,0
+"skull|liver",,0,0
+"skull|liver|hearet, kidney",,0,0
+"skull|liver|heart, kidney",,0,0
+"skull|liver|heart|kidney",,0,0
+"skull|muscle",,0,0
+"skull|muscle|heart",,0,0
+"skull|muscle|muscle",,0,0
 "SKULL+ANT SKELETON",,0,0
 "skull+assoc ear regions+innominate+ulna+radius+metapodial",,0,0
 "skull+associated skeleton",,0,0
@@ -102663,6 +103301,17 @@ R PERIPHERALS 2 - 3.",,0,0
 "splanchnocranium w l+r P2-4, M1-3",,0,0
 "splanchnocranium w partial incisors, l+r erupting P3-4; r M1-3",,0,0
 "Spleen (in spirit)",,0,0
+"Spleen|heart, kidney|heart, kidney|liver|skin, skeleton",,0,0
+"spleen|heart|heart|kidney|kidney|liver|liver|skin, skeleton",,0,0
+"spleen|heart|heart|kidney|kidney|liver|liver|skull",,0,0
+"spleen|heart|heart|kidney|liver|liver|kidney|skull",,0,0
+"spleen|heart|kidney|liver|liver|skin, skeleton",,0,0
+"Spleen|heart|kidney|liver|skull",,0,0
+"spleen|heart|kidney|liver|unknown",,0,0
+"spleen|kidney|heart|skin, skeleton",,0,0
+"spleen|liver|blood|alcoholic",,0,0
+"spleen|liver|blood|cells|cells|alcoholic",,0,0
+"Spleen|liver|blood|cells|skin, skeleton",,0,0
 "SPLENIAL",,0,0
 "SPLENIAL,DENTARIES",,0,0
 "SPLENIALS",,0,0
@@ -104895,6 +105544,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue - 1; Wings_tail - 1","tissue - 1 | wings_tail - 1",0,1
 "Tissue - 1; Wings_tail - 1; Skel - 1","tissue - 1 | wings_tail - 1 | skeleton - 1",0,1
 "Tissue - 1; Wingspread - 1",,0,0
+"Tissue - 1|skeleton - 1",,0,0
+"Tissue - 1|skin - 1",,0,0
 "Tissue - 10","tissue - 10",0,1
 "Tissue - 10; Flat_skin - 1; Skel - 1","tissue - 10 | flat skin - 1 | skeleton - 1",0,1
 "Tissue - 10; Skel","tissue - 10 | skel",0,1
@@ -105630,6 +106281,11 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tissue, U; Wings_tail, #680, Y; Syrinx, Y; Skin, Y; Skel, Y",,0,0
 "Tissue, U; Wings_tail, U; Skel, Y",,0,0
 "Tissue, U; Wings_tail, U; Syrinx, Y; Skel, Y",,0,0
+"tissue, unknown|liver|liver|skin, skeleton",,0,0
+"tissue, unknown|serum|heart, kidney|spleen|heart, kidney|liver|liver|skull",,0,0
+"tissue, unknown|skin",,0,0
+"tissue, unknown|skin, skull",,0,0
+"tissue, unknown|tissue, unknown|skin, skeleton",,0,0
 "tissue, wing","tissue | wing",0,1
 "tissue, wing, alcoholic",,0,0
 "tissue, wing, alcoholic, tissue",,0,0
@@ -105935,6 +106591,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Tongue, larynx  (in spirit)",,0,0
 "Tongue, larynx + trachea showing the glottis (in spirit)",,0,0
 "Tongue, lips and salivary gland (in spirit)",,0,0
+"tongue|muscle|skull",,0,0
 "TOOT PLATES",,0,0
 "tooth","tooth",0,1
 "Tooth - 0",,0,0
@@ -107092,6 +107749,20 @@ R PERIPHERALS 2 - 3.",,0,0
 "unknown tooth",,0,0
 "unknown; voucher not available",,0,0
 "unknown; voucher not available ?",,0,0
+"unknown|heart, kidney|skull",,0,0
+"unknown|heart, kidney|skull|liver",,0,0
+"unknown|liver|heart, kidney|liver|liver|skin, skeleton",,0,0
+"unknown|liver|liver|heart, kidney|skin, skull",,0,0
+"unknown|liver|skeleton",,0,0
+"unknown|liver|skull|heart, kidney|liver",,0,0
+"unknown|liver|unknown|heart, kidney|liver|liver|skin, skeleton",,0,0
+"unknown|muscle|skull",,0,0
+"unknown|skeleton|muscle",,0,0
+"unknown|skin, skeleton",,0,0
+"unknown|skin, skull",,0,0
+"unknown|skull",,0,0
+"unknown|unknown|muscle|alcholic",,0,0
+"unknown|unknown|skin, skull",,0,0
 "Unkrich, S. 32-82",,0,0
 "UNPREPARED",,0,0
 "unprepared block",,0,0
@@ -108677,6 +109348,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Wing Punch - 1; Parasites",,0,0
 "Wing Punch - 1; Parasites - 1",,0,0
 "Wing Punch - 2",,0,0
+"wing punch|heart, kidney|liver|skin, skull",,0,0
 "wing tissue saved",,0,0
 "Wing(s) Only",,0,0
 "wing, alcoholic",,0,0
