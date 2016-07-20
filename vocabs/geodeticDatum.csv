@@ -10,6 +10,7 @@ WGS84",,0,1
 "(WGS72) World Geodetic System 1972","(WGS72) World Geodetic System 1972",0,1
 "(WGS84) World Geodetic System 1984","WGS84",0,1
 "[ORNIS]GeodeticDatum]","not recorded",0,1
+"-110.854167",,1,0
 "115.106995",,0,1
 "153311.1",,0,1
 "1628.192",,0,1
@@ -21,6 +22,7 @@ WGS84",,0,1
 "2267.192",,0,1
 "3635.192",,0,1
 "42.356157",,0,1
+"5047",,1,0
 "76.137987",,0,1
 "Adams",,0,1
 "ADG 66","AGD66",0,1
@@ -273,6 +275,7 @@ WGS84",,0,1
 "undet.","not recorded (forced WGS84)",0,1
 "undetermined","not recorded (forced WGS84)",0,1
 "unknown","not recorded (forced WGS84)",0,1
+"UTM",,1,0
 "UTM NAD27, NAD83 Decimal Degrees","NAD83",0,1
 "UTM zone 17M",,0,1
 "UTMG NAD27, Decimal Degrees NAD83","NAD83",0,1

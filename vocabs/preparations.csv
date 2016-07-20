@@ -1092,6 +1092,7 @@
 "??","unknown",0,1
 "?? | ??",,0,0
 "?? | tissue",,0,0
+"?? | Yes",,0,0
 "??, ??","unknown",0,1
 "???",,0,0
 "?????","unknown",0,1
@@ -7918,6 +7919,10 @@
 "AL | alcoholic | other preparation",,0,0
 "AL | alcoholic | other preparation | tissue",,0,0
 "AL | alcoholic | tissue",,0,0
+"AL | No",,0,0
+"AL | Yes",,0,0
+"AL | Yes, at CDC",,0,0
+"AL | Yes, CDC",,0,0
 "AL + T +ECTO","alcoholic | ectoparasite | tissue",0,1
 "AL +T","alcoholic | tissue",0,1
 "AL +T +ECTO","alcoholic | ectoparasite | tissue",0,1
@@ -10874,6 +10879,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "ARTICULATED VERTEBRAL COLUMN WITH RIBS, SKULL ELEMENTS",,0,0
 "ARTIODACTYL, RODENT? PARIETAL, HUMERUS, JAW FRAGS, T/#; SEPTOREODON TOOTH MIXED WITH OTHER FRAGS",,0,0
 "AS",,0,0
+"ASB | Yes",,0,0
 "ASCENDING RAMUS OF DENTARY W CONDYLE",,0,0
 "assigned to C Bell by DMErwin",,0,0
 "ASSOC ?P4/, M1/ & JAW FRAGS",,0,0
@@ -11920,6 +11926,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "B; GOOD; WHOLE",,0,0
 "B; WHOLE",,0,0
 "B; WHOLE; A IS PROPERTY OF DONOR MACIE LUNDIN",,0,0
+"BA",,0,0
 "BABY, NC",,0,0
 "BACK HALF BODY, A+B",,0,0
 "BACK OF SKULL, A+B",,0,0
@@ -12674,6 +12681,7 @@ R PERIPHERAL 2, NUCHAL, NEURAL 1 -",,0,0
 "Bryant, G. 98",,0,0
 "BS","body skeleton",0,1
 "BS - 1",,0,0
+"BS | No",,0,0
 "BS | other preparation | skeleton",,0,0
 "BS | skeleton",,0,0
 "BS | skeleton | tissue",,0,0
@@ -15708,6 +15716,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "CMNH - 99",,0,0
 "co","cranium",0,1
 "CO - 1",,0,0
+"CO | No",,0,0
+"CO | Yes",,0,0
 "COARCOID",,0,0
 "coastal",,0,0
 "coastal 1 fragment",,0,0
@@ -16237,6 +16247,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "cos sense pell (etílic 70 amb glicerina)",,0,0
 "cos sense pell (sec)",,0,0
 "cosmoid scale",,0,0
+"COSS",,0,0
 "costal",,0,0
 "costal 1",,0,0
 "costal 1 frag",,0,0
@@ -35964,6 +35975,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "HL | tissue","complete skeleton | shmoo | tissue",0,1
 "HM","head mount",0,1
 "HM - 1",,0,0
+"HN",,0,0
 "HO","head",0,1
 "HOLOTYPE JAW, R P/4, L P/3, M/2 & POSTCRANIA",,0,0
 "HOLOTYPE R DENTARY WITH P/3-P/4",,0,0
@@ -47931,6 +47943,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "LIx/",,0,0
 "lizard dentaries",,0,0
 "lizard jaw",,0,0
+"LJ",,0,0
+"LJ | No",,0,0
 "lL DENTARY W P3-M2",,0,0
 "LL M2/",,0,0
 "lm",,0,0
@@ -54998,6 +55012,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "OSTOEDERM FRAGS,TEETH,VERTEBRA FRAGS",,0,0
 "ot","other",0,1
 "OT - 1",,0,0
+"OT | No",,0,0
 "OT | other preparation",,0,0
 "OT | other preparation | tissue",,0,0
 "OT*","other",0,1
@@ -63593,6 +63608,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "prtil pelvis",,0,0
 "ps","partial skeleton",0,1
 "PS - 1",,0,0
+"ps | No",,0,0
+"ps | Yes",,0,0
 "PS* - 1",,0,0
 "PS0",,0,0
 "PT",,0,0
@@ -73042,6 +73059,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "rug with half head mount",,0,0
 "rump skin",,0,0
 "Ryan Perala",,0,0
+"S",,0,0
+"S | Yes",,0,0
 "S. A. Rohwer 5852",,0,0
 "S. A. Rohwer 5853",,0,0
 "S. Baker",,0,0
@@ -73195,6 +73214,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "S.I.Bauer & G.D.Alcorn",,0,0
 "S0","skin in alcohol",0,1
 "S0 - 1",,0,0
+"S0 | No",,0,0
+"S0 | Yes",,0,0
 "S0* - 1",,0,0
 "SA","alcoholic carcass",0,1
 "SA - 1",,0,0
@@ -73202,6 +73223,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SA | alcoholic | other preparation | skull | tissue",,0,0
 "SA | alcoholic | skull",,0,0
 "SA | alcoholic | skull | tissue",,0,0
+"SA | Yes",,0,0
 "SA* - 1",,0,0
 "Sabot (right, fore)",,0,0
 "sac rib",,0,0
@@ -73290,10 +73312,12 @@ R PERIPHERALS 2 - 3.",,0,0
 "SB      93",,0,0
 "SB - 1",,0,0
 "SB - 1 | Tissue",,0,0
+"SB | No",,0,0
 "SB | other preparation | skeleton | skin | skull",,0,0
 "SB | other preparation | skeleton | skin | skull | tissue",,0,0
 "SB | skeleton | skin | skull",,0,0
 "SB | skeleton | skin | skull | tissue",,0,0
+"SB | Yes",,0,0
 "SB* - 1",,0,0
 "SBS - 1",,0,0
 "SCAKES, VERTEBRAE, SKULL FRAG",,0,0
@@ -73737,6 +73761,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SCUTES, VERTEBRAE ETC",,0,0
 "SCUTES, VERTEBRAE, RIBS",,0,0
 "SCUTES,VERTEBRA,PHALANX,LIMB BONE FRAGS",,0,0
+"SD",,0,0
 "second carpale?",,0,0
 "SECOND PHALANX, LATERAL DIGIT, NO EPIPHYSIS.",,0,0
 "second trunk vertebra",,0,0
@@ -74215,11 +74240,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "SK - 1; SO - 1",,0,0
 "SK - 1; SS - 1",,0,0
 "Sk [?]",,0,0
+"SK | No",,0,0
 "SK | other preparation | skull",,0,0
 "SK | other preparation | skull | tissue",,0,0
 "SK | skull",,0,0
 "SK | skull | tissue",,0,0
 "sk | tissue",,0,0
+"SK | Yes",,0,0
 "SK +T","skeleton | skin | tissue",0,1
 "SK* - 1",,0,0
 "SK, tissue","skull | tissue",0,1
@@ -100358,6 +100385,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "skull and tail",,0,0
 "skull and thoracic part of skeleton",,0,0
 "skull and three other pieces",,0,0
+"skull and tip of tail only",,0,0
 "Skull and Vertebrae",,0,0
 "Skull and Vertebrae - 1",,0,0
 "Skull and Vertebrae (3)",,0,0
@@ -102895,6 +102923,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "SKULLS; JAWS; LIMB BONES; ETC. OF VARIOUS INDIVIDUALS FOUND TOGETHER",,0,0
 "SKULLS+BONES (DRY)","bones | skull",0,1
 "skulls+jaws, approx 14 individuals",,0,0
+"SL",,0,0
 "SLAB CONTAINING MANY FISH",,0,0
 "SLAB MOUNT OF COMPLETE SKELETON | Cast",,0,0
 "SLAB OF MATRIX CONTAINING 3 FOSSIL FISH",,0,0
@@ -103044,11 +103073,13 @@ R PERIPHERALS 2 - 3.",,0,0
 "SN - 1; SS - 1",,0,0
 "SN (2)","skeletons",0,1
 "SN (part.)","partial skeleton",0,1
+"SN | No",,0,0
 "SN | other preparation | skeleton | skull",,0,0
 "SN | other preparation | skeleton | skull | tissue",,0,0
 "SN | skeleton | skull",,0,0
 "SN | skeleton | skull | tissue",,0,0
 "sn | tissue",,0,0
+"SN | Yes",,0,0
 "SN +BAC","baculum | skeleton",0,1
 "SN +T","skeleton | tissue",0,1
 "SN +T+ECTO","ectoparasite | skeleton | tissue",0,1
@@ -103096,11 +103127,14 @@ R PERIPHERALS 2 - 3.",,0,0
 "so  Yg.","skin in alcohol",0,1
 "SO | blood sample | blood sample",,0,0
 "SO | blood sample | blood sample | tissue",,0,0
+"SO | No",,0,0
 "SO | other preparation | skin",,0,0
 "SO | other preparation | skin | tissue",,0,0
+"SO | skeleton at TTU #44723",,0,0
 "SO | skin",,0,0
 "SO | skin | tissue",,0,0
 "so | tissue",,0,0
+"SO | Yes",,0,0
 "SO +T","skin in alcohol | tissue",0,1
 "so AD","skin in alcohol",0,1
 "so Im","skin in alcohol",0,1
@@ -103110,6 +103144,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "so, & part. skeleton","skin in alcohol | partial skeleton",0,1
 "so, eg, ot","skin in alcohol | egg | other",0,1
 "so, tissue","skin in alcohol | tissue",0,1
+"SO?",,0,0
 "SO+T","skin in alcohol | tissue",0,1
 "socket",,0,0
 "SOFT PARTS REMOVED DURING PREPARATION","soft parts",0,1
@@ -103379,11 +103414,15 @@ R PERIPHERALS 2 - 3.",,0,0
 "SS - 1; SO - 1",,0,0
 "SS - 1; SS - 1",,0,0
 "SS - 2",,0,0
+"SS | ??",,0,0
+"SS | KR",,0,0
+"SS | No",,0,0
 "SS | other preparation | skin | skull",,0,0
 "SS | other preparation | skin | skull | tissue",,0,0
 "SS | skin | skull",,0,0
 "SS | skin | skull | tissue",,0,0
 "ss | tissue",,0,0
+"SS | Yes",,0,0
 "SS* - 1",,0,0
 "SS* - 1 | Tissue",,0,0
 "ss, tissue","skin | skull | tissue",0,1
@@ -104562,6 +104601,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "Taxidermy rug",,0,0
 "Taylor, P.",,0,0
 "TB","skin in alcohol | skeleton | tissue",0,1
+"TB | No",,0,0
 "TBIOFIBULA",,0,0
 "TBT",,0,0
 "TBT frag",,0,0
@@ -106553,6 +106593,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "TISSUES | TWO TUBES; PECTORAL, LIVER, HEART",,0,0
 "TITANOTHERIUM, TAPIR, HORSE, ETC",,0,0
 "TK","tusk",0,1
+"TK | No",,0,0
 "TMK 04",,0,0
 "TMK-2",,0,0
 "TMT",,0,0
@@ -106565,6 +106606,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "TO","skeleton | tissue",0,1
 "TO | blood sample | blood sample",,0,0
 "TO | blood sample | blood sample | tissue",,0,0
+"TO | No",,0,0
 "to be determined; input",,0,0
 "toe",,0,0
 "TOE BONE",,0,0
@@ -107264,6 +107306,8 @@ R PERIPHERALS 2 - 3.",,0,0
 "TRUNK, NC",,0,0
 "Truttle, W. M.",,0,0
 "TS","alcoholic skin | tissue",0,1
+"TS | donated by a veterinarian",,0,0
+"TS | No",,0,0
 "TS, 70% EtOH","tissue | 70% alcohol",0,1
 "Tuber caleis + metapodials + phalanges + sesamoids",,0,0
 "TUBER OF CALCANEUM",,0,0
@@ -107619,6 +107663,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "ULTRA-LARGE HEAD",,0,0
 "umpteen molar fragments",,0,0
 "UN",,0,0
+"UN | Yes",,0,0
 "unassoc carapace frags",,0,0
 "UNASSOC DISTAL TIBIA & ASTRAGALUS",,0,0
 "unassoc osteoderms",,0,0
@@ -109717,6 +109762,7 @@ R PERIPHERALS 2 - 3.",,0,0
 "xstrag",,0,0
 "Y",,0,0
 "Y W P4-M3,R DENTARY W P2-M3,L DENTARY W P3-M2,2 R DENTARY W M1-3,L DENTARY W M3,FRAGS",,0,0
+"Yes",,0,0
 "YGIAGAM",,0,0
 "YOUNG & TOLERABLY COMPLETE",,0,0
 "YOUNG INDIVIDUAL, A+B; THE COUNTERPART (4213A) IS FRAGMENTARY",,0,0
