@@ -1,10 +1,10 @@
 "georeferenceVerificationStatus","standardgeoreferenceVerificationStatus","standard","checked"
 "","requires verification",0,1
-"'",,0,1
+"'","requires verification",0,1
 "	Lindsey Mercer","verified by curator",0,1
 "[ORNIS]GeoreferenceVerificationS","requires verification",0,1
-"`",,0,1
-"7",,0,1
+"`","requires verification",0,1
+"7","requires verification",0,1
 "c hecked, kc","verified by KC",0,1
 "check KC","verified by KC",0,1
 "checked","verified by curator",0,1
@@ -37,12 +37,13 @@
 "requchecked DEK","verified by DEK",0,1
 "Requires input","requires verification",0,1
 "requires verification","requires verification",1,1
-"Tyner, Megan",,0,1
+"Tyner, Megan","verified by MT",0,1
 "unavailable","requires verification",0,1
 "unverfied","requires verification",0,1
 "unverifed","requires verification",0,1
 "unverified","requires verification",0,1
 "Vchecked, kc","verified by KC",0,1
+"verefied","verified by curator",0,1
 "verfied","verified by curator",0,1
 "verfied by kc","verified by KC",0,1
 "Verifed","verified by curator",0,1
@@ -57,7 +58,7 @@
 "verified by institution","verified by curator",0,1
 "verified by kc","verified by KC",0,1
 "verified by locality lookup","verified by curator",0,1
-"verified by locality matchp",,0,1
+"verified by locality matchp","verified by curator",0,1
 "Verified by locality matchup","verified by curator",0,1
 "Verified by Match","verified by curator",0,1
 "Verified by Rene","verified by curator",0,1
@@ -68,5 +69,5 @@
 "verified, 20081023","verified by curator",0,1
 "verified, kc","verified by KC",0,1
 "verifiied","verified by curator",0,1
-"WGS84",,0,1
-"Y",,0,1
+"WGS84","requires verification",0,1
+"Y","verified by curator",0,1
