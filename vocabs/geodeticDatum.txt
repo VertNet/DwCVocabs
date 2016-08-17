@@ -1,0 +1,328 @@
+geodeticDatum	standardGeodeticDatum	standard	checked
+'		0	1
+ WGS84	WGS84	0	1
+
+WGS84		0	1
+"International spheroid"	International 1924 ellipsoid	0	1
+(NAD83)	NAD83	0	1
+(WGS 84)	WGS84	0	1
+(WGS66) World Geodetic System 1966	(WGS66) World Geodetic System 1966	0	1
+(WGS72) World Geodetic System 1972	(WGS72) World Geodetic System 1972	0	1
+(WGS84) World Geodetic System 1984	WGS84	0	1
+[ORNIS]GeodeticDatum]	not recorded	0	1
+-110.854167		0	1
+115.106995		0	1
+153311.1		0	1
+1628.192		0	1
+1787.192	not recorded (forced WGS84)	0	1
+17938		0	1
+1962 American Samoa	1962 American Samoa	0	1
+2		0	1
+22.211654		0	1
+2267.192		0	1
+3635.192		0	1
+42.356157		0	1
+5047		0	1
+76.137987		0	1
+Adams		0	1
+ADG 66	AGD66	0	1
+Adindan	Adindan	1	1
+Afgooye	Afgooye	1	1
+AGD 66	AGD66	0	1
+AGD66	AGD66	1	1
+AGD84	AGD84	1	1
+Ain el Abd 1970	Ain el Abd 1970	1	1
+Airy 1830 ellipsoid	Airy 1830 ellipsoid	1	1
+American Samoa 1962	American Samoa 1962	1	1
+Amersfoort	Amersfoort	1	1
+Angel		0	1
+Anna 1 Astro 1965	Anna 1 Astro 1965	1	1
+Antigua Island Astro 1943	Antigua Island Astro 1943	1	1
+Arc 1950	Arc 1950	1	1
+Arc 1960	Arc 1960	1	1
+Ascension Island 1958	Ascension Island 1958	1	1
+Astro Beacon E 1945	Astro Beacon E 1945	1	1
+Astro DOS 71/4	Astro DOS 71/4	1	1
+Astro Tern Island (FRIG) 1961	Astro Tern Island (FRIG) 1961	1	1
+Astronomic Station No. 1 1951	Astronomic Station No. 1 1951	1	1
+Astronomic Station No. 2 1951 (Truk Island)	Astronomic Station No. 2 1951 (Truk Island)	1	1
+Astronomic Station Ponape (1951)	Astronomic Station Ponape (1951)	0	1
+Astronomic Station Ponape 1951	Astronomic Station Ponape 1951	1	1
+Astronomical Station 1952	Astronomical Station 1952	1	1
+AUA	AGD66	0	1
+Australian Geodetic 1966	AGD66	0	1
+Australian Geodetic Datum 1966	Australian Geodetic Datum 1966	0	1
+Australian Geodetic Datum 1984	Australian Geodetic Datum 1984	0	1
+Australian National ellipsoid	Australian National ellipsoid	1	1
+Ayabelle Lighthouse	Ayabelle Lighthouse	1	1
+Bekaa Valley 1920 (IGN)	Bekaa Valley 1920 (IGN)	1	1
+Bellevue (IGN)	Bellevue (IGN)	1	1
+Bermuda 1957	Bermuda 1957	1	1
+Bessel 1841 ellipsoid	Bessel 1841 ellipsoid	1	1
+Bessel 1841 ellipsoid (Namibia)	Bessel 1841 ellipsoid (Namibia)	1	1
+BioGeomancer	WGS84	0	1
+Bissau	Bissau	1	1
+Bogota Observatory	Bogota Observatory	1	1
+Bukit Rimpah	Bukit Rimpah	1	1
+Camp Area Astro	Camp Area Astro	1	1
+Campo Inchauspe	Campo Inchauspe	1	1
+Canton Astro 1966	Canton Astro 1966	1	1
+Cape	Cape	1	1
+Cape Canaveral	Cape Canaveral	1	1
+Carthage	Carthage	1	1
+Chatham Island Astro 1971	Chatham Island Astro 1971	1	1
+Chua Astro	Chua Astro	1	1
+Clarke 1858	Clarke 1858	1	1
+Clarke 1858 ellipsoid	Clarke 1858 ellipsoid	1	1
+Clarke 1866 ellipsoid	Clarke 1866 ellipsoid	1	1
+Clarke 1880 ellipsoid	Clarke 1880 ellipsoid	1	1
+Co-ordinate System 1937 of Estonia	Co-ordinate System 1937 of Estonia	1	1
+Corrego Alegre	Corrego Alegre	1	1
+D. Hardcastle		0	1
+D.Hardcastle		0	1
+Dabola	Dabola	1	1
+datum not recorded	not recorded (forced WGS84)	0	1
+Dave Lafever		0	1
+Deception Island	Deception Island	1	1
+Decimal Degrees		0	1
+Djakarta (Batavia)	Djakarta (Batavia)	1	1
+DL		0	1
+DL &TJH		0	1
+DL and TJH		0	1
+DOS 1968	DOS 1968	1	1
+Easter Island 1967	Easter Island 1967	1	1
+Europa Technologies,	not recorded	0	1
+European 1950	European 1950	1	1
+European 1979	European 1979	1	1
+Everest ellipsoid (Brunei,Sabah,Sarawak)	Everest ellipsoid (Brunei,Sabah,Sarawak)	1	1
+Everest India 1830 ellipsoid	Everest India 1830 ellipsoid	1	1
+Everest India 1956 ellipsoid	Everest India 1956 ellipsoid	1	1
+Everest Pakistan ellipsoid	Everest Pakistan ellipsoid	1	1
+Everest W Malaysia 1948 ellipsoid	Everest W Malaysia 1948 ellipsoid	1	1
+Everest W Malaysia 1969 ellipsoid	Everest W Malaysia 1969 ellipsoid	1	1
+Falling Rain	not recorded	0	1
+Fnd. Ocotepeque	Ocotepeque 1935	0	1
+Fort Thomas 1955	Fort Thomas 1955	1	1
+Fundamental de Ocotepeque	Ocotepeque 1935	0	1
+Gan 1970	Gan 1970	1	1
+GDA 94	Geodetic Datum of Australia 1994	0	1
+GDA94	Geodetic Datum of Australia 1994	0	1
+Geodetic Datum 1949	Geodetic Datum 1949	1	1
+GEOLocate		0	1
+GNIS	not recorded	0	1
+Google GoogleEarth	WGS84	0	1
+Graciosa Base SW 1948	Graciosa Base SW 1948	1	1
+GRS80 ellipsoid	GRS80 ellipsoid	1	1
+GS84	WGS84	0	1
+Guam 1963	Guam 1963	1	1
+Gunung Segara	Gunung Segara	1	1
+GUX 1 Astro	GUX 1 Astro	1	1
+Helmert 1906 ellipsoid	Helmert 1906 ellipsoid	1	1
+Herat North	Herat North	1	1
+Hermannskogel	Hermannskogel	1	1
+Hibbitts TJ		0	1
+Hill, M.T.		0	1
+Hito XVIII 1963	Hito XVIII 1963	1	1
+Hjorsey 1955	Hjorsey 1955	1	1
+Hong Kong 1963	Hong Kong 1963	1	1
+Hough 1960 ellipsoid	Hough 1960 ellipsoid	1	1
+Hu-Tzu-Shan	Hu-Tzu-Shan	1	1
+ID 1974	Indonesian 1974	0	1
+Index Mundi	not recorded	0	1
+Indian	Indian	1	1
+Indian 1954	Indian 1954	1	1
+Indian 1960	Indian 1960	1	1
+Indian 1975	Indian 1975	1	1
+Indonesian 1974	Indonesian 1974	1	1
+International 1924 ellipsoid	International 1924 ellipsoid	1	1
+Ireland 1965	Ireland 1965	1	1
+ISTS 061 Astro 1968	ISTS 061 Astro 1968	1	1
+ISTS 073 Astro 1969	ISTS 073 Astro 1969	1	1
+Japanese Geodetic Datum 2000	Japanese Geodetic Datum 2000	1	1
+Johnston Island 1961	Johnston Island 1961	1	1
+Kandawala	Kandawala	1	1
+Kapingamarangi Astronomic Station No. 3 1951	Kapingamarangi Astronomic Station No. 3 1951	1	1
+Kerguelen Island 1949	Kerguelen Island 1949	1	1
+Kertau 1948	Kertau 1948	1	1
+Korean Geodetic System 1995	Korean Geodetic System 1995	1	1
+Krassovsky 1940 ellipsoid	Krassovsky 1940 ellipsoid	1	1
+Kusaie Astro 1951	Kusaie Astro 1951	1	1
+L.C. 5 Astro 1961	L.C. 5 Astro 1961	1	1
+LaFever, D		0	1
+Laurencio, D		0	1
+Leigon	Leigon	1	1
+Lemuta	Lemuta	1	1
+Liberia 1964	Liberia 1964	1	1
+Luzon	Luzon	1	1
+MAD27	NAD27	0	1
+Mahe 1971	Mahe 1971	1	1
+Massawa	Massawa	1	1
+Merchich	Merchich	1	1
+Michael T. Hill		0	1
+Midway Astro 1961	Midway Astro 1961	1	1
+Minna	Minna	1	1
+MNAD27	NAD27	0	1
+Modified Airy ellipsoid	Modified Airy ellipsoid	1	1
+Modified Fischer 1960 ellipsoid	Modified Fischer 1960 ellipsoid	1	1
+Montserrat Island Astro 1958	Montserrat Island Astro 1958	1	1
+M'Poraloko	M'Poraloko	1	1
+NAD		0	1
+NAD 1927	NAD27	0	1
+NAD 1928	NAD27	0	1
+NAD 1929	NAD27	0	1
+NAD 1930	NAD27	0	1
+NAD 1931	NAD27	0	1
+NAD 1932	NAD27	0	1
+NAD 1983	NAD83	0	1
+NAD 27	NAD27	0	1
+NAD 83	NAD83	0	1
+NAD1927	NAD27	0	1
+NAD1983	NAD83	0	1
+NAD2	NAD27	0	1
+NAD227	NAD27	0	1
+NAD237	NAD27	0	1
+NAD24	NAD27	0	1
+NAD27	NAD27	1	1
+NAD27 UTM, NAD83 Decimal Degrees	NAD83	0	1
+NAD27				NAD27	0	1
+NAD27
+	NAD27	0	1
+NAD27`	NAD27	0	1
+NAD27d	NAD27	0	1
+NAD27L	NAD27	0	1
+NAD28	NAD27	0	1
+NAD287	NAD27	0	1
+NAD37	NAD27	0	1
+NAD38	NAD83	0	1
+NAD7	NAD27	0	1
+NAD72	NAD27	0	1
+NAD82	NAD83	0	1
+NAD82/WSS84	WGS84	0	1
+NAD83	NAD83	1	1
+NAD83/WGS84	WGS84	0	1
+NAD83/WSS84	WGS84	0	1
+NAD832	NAD83	0	1
+NAD83Z	NAD27	0	1
+NAD84	NAD83	0	1
+NAD87		0	1
+NAD8e	NAD83	0	1
+NADS27	NAD27	0	1
+Nahrwan	Nahrwan	1	1
+Naparima 1972	Naparima 1972	1	1
+Naparima, BWI	Naparima, BWI	1	1
+North American Datum 1927	North American Datum 1927	0	1
+North American Datum 1983	North American Datum 1983	0	1
+North Sahara 1959	North Sahara 1959	1	1
+not applicable (no coordinates)		0	1
+not provided	not recorded (forced WGS84)	0	1
+not rec.	not recorded (forced WGS84)	0	1
+not recorded	not recorded (forced WGS84)	0	1
+not recorded (forced WGS84)	not recorded (forced WGS84)	1	1
+not recorded\; assume WGS84 for Australia	not recorded	0	1
+Observatorio Meteorologico 1939	Observatorio Meteorologico 1939	1	1
+Ocotepeque	Ocotepeque 1935	0	1
+Ocotepeque 1935	Ocotepeque 1935	1	1
+Old Egyptian 1907	Old Egyptian 1907	1	1
+Old Hawaiian, Clarke 1866	Old Hawaiian, Clarke 1866	1	1
+Old Hawaiian, International 1924	Old Hawaiian, International 1924	1	1
+Old Trinidad 1903	Old Trinidad 1903	1	1
+Oman	Oman	1	1
+Ordnance Survey of Great Britain 1936	Ordnance Survey of Great Britain 1936	1	1
+Pen		0	1
+Pico de las Nieves	Pico de las Nieves	1	1
+Pitcairn Astro 1967	Pitcairn Astro 1967	1	1
+Point 58	Point 58	1	1
+Point Noire 1958	Point Noire 1958	1	1
+Porto Santo 1936	Porto Santo 1936	1	1
+Provisional South American 1956	Provisional South American 1956	1	1
+Provisional South Chilean 1963	Provisional South Chilean 1963	1	1
+PRP_M	Provisional South American 1956	0	1
+Puerto Rico	Puerto Rico	1	1
+Qatar NaQornoq	Qornoq	1	1
+al	1	1
+Reunion	Reunion	1	1
+Rodriguez, Heather G		0	1
+Rodriguez, Heather G.		0	1
+Rodriguez, HG		0	1
+Rome 1940	Rome 1940	1	1
+S-42 (Pulkovo 1942)	S-42 (Pulkovo 1942)	1	1
+SAD69	South American 1969	0	1
+Santo (DOS) 1965	Santo (DOS) 1965	1	1
+Sao Braz	Sao Braz	1	1
+Sapper Hill 1943	Sapper Hill 1943	1	1
+Schwarzeck	Schwarzeck	1	1
+Selvagem Grande 1938	Selvagem Grande 1938	1	1
+Sierra Leone 1960	Sierra Leone 1960	1	1
+SIRGAS	SIRGAS	1	1
+SIRGAS - South American Geocentric Reference System	SIRGAS - South American Geocentric Reference Syste	1	1
+S-JTSK	S-JTSK	1	1
+South American 1969	South American 1969	1	1
+South Asia	South Asia	1	1
+T J Hibbitts		0	1
+T. J. Hibbitts and D. Laurencio		0	1
+Tananarive Observatory 1925	Tananarive Observatory 1925	1	1
+Terrametrics 2008	WGS84	0	1
+Timbalai 1948	Timbalai 1948	1	1
+TJ Hibbitts		0	1
+TJH and DL		0	1
+TJH, DL, and MTH		0	1
+TJHibbitts		0	1
+Tokyo	Tokyo	1	1
+TOY_A	Tokyo	0	1
+Tristan Astro 1968	Tristan Astro 1968	1	1
+undet	not recorded (forced WGS84)	0	1
+undet.	not recorded (forced WGS84)	0	1
+undetermined	not recorded (forced WGS84)	0	1
+unknown	not recorded (forced WGS84)	0	1
+UTM		0	1
+UTM NAD27, NAD83 Decimal Degrees	NAD83	0	1
+UTM zone 17M		0	1
+UTMG NAD27, Decimal Degrees NAD83	NAD83	0	1
+Viti Levu 1916	Viti Levu 1916	1	1
+Voirol 1874	Voirol 1874	1	1
+Voirol 1960	Voirol 1960	1	1
+Wake Island Astro 1952	Wake Island Astro 1952	1	1
+Wake-Eniwetok 1960	Wake-Eniwetok 1960	1	1
+Waldo		0	1
+WG84	WGS84	0	1
+WGIS84	WGS84	0	1
+WGS	WGS84	0	1
+WGS 1984	WGS84	0	1
+WGS 72	WGS72	0	1
+WGS 83	WGS84	0	1
+WGS 84	WGS84	0	1
+WGS 84 / NAD 83	WGS84	0	1
+WGS 894	WGS84	0	1
+WGS*4	WGS84	0	1
+WGS1984	WGS84	0	1
+WGS4	WGS84	0	1
+WGS48	WGS84	0	1
+WGS66	WGS66	1	1
+WGS72	WGS72	1	1
+WGS8	WGS84	0	1
+WGS82	WGS84	0	1
+WGS83	WGS84	0	1
+WGS84	WGS84	1	1
+WGS-84	WGS84	0	1
+WGS84
+	WGS84	0	1
+WGS84)	WGS84	0	1
+WGS84/NAD83	WGS84	0	1
+WGS84`	WGS84	0	1
+WGS845	WGS84	0	1
+WGS84a	WGS84	0	1
+WGS84zL	WGS84	0	1
+WGS85	WGS84	0	1
+WGS86	WGS84	0	1
+WGS87	WGS84	0	1
+WGS8R	WGS84	0	1
+WGS94	WGS84	0	1
+WGS984	WGS84	0	1
+WGSI4	WGS84	0	1
+WGSW84	WGS84	0	1
+World Geodetic System 1984	World Geodetic System 1984	0	1
+WSG84	WGS84	0	1
+WSGS 84	WGS84	0	1
+WSGS84	WGS84	0	1
+Yacare	Yacare	1	1
+Zanderij	Zanderij	1	1
