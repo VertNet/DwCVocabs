@@ -26,6 +26,7 @@ Waterbody	IslandGroup	Island
 		Dog
 		Drayton
 		Duck
+		Duke of York
 		East Timbalier
 		Egg
 		Elrington
@@ -100,6 +101,7 @@ Waterbody	IslandGroup	Island
 		Socorro
 		Staten Island
 		Stock
+		Taipa
 		Tholen
 		Tierra del Fuego
 		Treasure Island
@@ -218,7 +220,6 @@ Amazonas	Arquipélago do Marajó	Marajó
 Arabian Sea	Khuriya Muriya Islands	Al-Hasikiyah
 Aransas Bay		Lydia Ann
 Arctic Ocean	Anzhu Islands	New Siberia
-Arctic Ocean	Svalbard	Spitsbergen
 Arctic Ocean	Sverdrup Islands	Axel Heiberg
 Arep River	Bismarck Archipelago	New Britain
 Back Bay		Cedar
@@ -232,8 +233,8 @@ Baltic Sea		Lolland
 Baltic Sea		Öland
 Barents Sea		Kildin
 Barents Sea		Kolguyev
-Barents Sea	Spitzbergen	Bjornoya
 Barents Sea	Svalbard	Bjørnøya
+Barents Sea	Svalbard	Spitsbergen
 Barents Sea	Svalbard	Spitzbergen
 Barkley Sound		Vancouver
 Bass Strait		King
@@ -456,6 +457,7 @@ Eastern North Pacific Ocean	Alexander Archipelago	Revillagigedo
 Eastern North Pacific Ocean	Alexander Archipelago	Wrangell
 Eastern North Pacific Ocean	Hawaiian Islands	Oahu
 English Channel	British Isles	Isle of Wight
+English Channel	Channel Islands	Guernsey
 English Channel	Channel Islands	Jersey
 Essequibo River		Kaow
 Essequibo River		Leguan
@@ -693,7 +695,6 @@ Indian Ocean	Zanzibar Archipelago	Pemba
 Indian Ocean	Zanzibar Archipelago	Zanzibar
 Indian River		Pelican
 Irish Sea		Anglesey
-Irish Sea		Isle of Man
 Irish Sea	British Isles	Anglesey
 Irish Sea	British Isles	Isle of Man
 Isle au Haut Bay		Brimstone
@@ -868,6 +869,7 @@ North Atlantic Ocean		Hartman
 North Atlantic Ocean		Herring
 North Atlantic Ocean		Hog
 North Atlantic Ocean		Hunting
+North Atlantic Ocean		Île-de-Sein
 North Atlantic Ocean		Isle Au Haut
 North Atlantic Ocean		Isle of Palms
 North Atlantic Ocean		Islesboro
@@ -894,6 +896,7 @@ North Atlantic Ocean		Mount Desert Rock
 North Atlantic Ocean		Muskeget
 North Atlantic Ocean		Nantucket
 North Atlantic Ocean		Newfoundland
+North Atlantic Ocean		Noirmoutier
 North Atlantic Ocean		Nomans Land
 North Atlantic Ocean		Örfirisey
 North Atlantic Ocean		Orr's
@@ -1022,6 +1025,7 @@ North Atlantic Ocean	Outer Banks	Pea
 North Atlantic Ocean	Outer Hebrides	Saint Kilda
 North Atlantic Ocean	Ramea Islands	Great Island
 North Atlantic Ocean	Saint Pierre and Miquelon	Miquelon
+North Atlantic Ocean	Saint Pierre and Miquelon	Saint Pierre
 North Atlantic Ocean	Sea Islands	Amelia
 North Atlantic Ocean	Sea Islands	Cat
 North Atlantic Ocean	Sea Islands	Cumberland
@@ -1327,6 +1331,7 @@ Pamlico Sound		Judith
 Payer's Harbor	Canadian Arctic Archipelago	Brevoort
 Penobscot Bay		Great Spruce Head
 Penobscot Bay		Isle au Haut
+Persian Gulf		Qatar
 Pittwater		Scotland
 Placentia Bay		Red
 Portage Bay	Shumagin Islands	Popof
@@ -1594,6 +1599,7 @@ South Pacific Ocean	Solomon Islands	Bougainville Island
 South Pacific Ocean	Solomon Islands	Guadalcanal
 South Pacific Ocean	Solomon Islands	Makira
 South Pacific Ocean	Solomon Islands	New Georgia
+South Pacific Ocean	Tokelau	Tokelau
 South Pacific Ocean	Tonga Islands	Haareva Island
 South Pacific Ocean	Tonga Islands	Tokū
 South Pacific Ocean	Tuamotu Archipelago	Tepoto
@@ -1671,6 +1677,7 @@ Straits of Florida		Key West
 Tasman Sea		Bruny
 Tasman Sea		Montague
 Tasman Sea		Mutton Bird
+Tasman Sea		Norfolk
 Tasman Sea		North Island
 Tasman Sea		South Island
 Tasman Sea	Capricorn Group	Heron
