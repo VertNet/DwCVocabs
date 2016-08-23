@@ -21893,6 +21893,7 @@ EGG SHELLS	egg shells	0	1
 Egg shells - 1		0	0
 EGG SHELLS (DRY)	egg shells	0	1
 EGG SHELLS EMBRYO (DRY)	embryo | egg shells	0	1
+egg(s)		0	0
 EGG, COMPLETE CLUTCH		0	0
 EGG, COMPLETE CLUTCH | tissue		0	0
 EGG, COMPLETE CLUTCH, tissue	egg | complete clutch | tissue	0	1
@@ -31652,7 +31653,7 @@ Fluid, cleaned in Stodsol 20 Apr, preserved 21 Apr; Syrinx, cleaned in Stodsol 2
 fluid, cleared and stained		0	0
 fluid, cleared and stained, tissue		0	0
 fluid, cleared and stained, tissue, tissue		0	0
-Fluid, Cloaca and feathers, Skeleton, Tissue, Cloaca and feaFluid, dissected; Tissue; Syrinx		0	0
+Fluid, Cloaca and feathers, Skeleton, Tissue, CFluid, dissected; Tissue; Syrinx		0	0
 organ discharge recording		0	0
 Fluid, Dry	dry | fluid	0	1
 fluid, dry skeleton		0	0
@@ -35915,6 +35916,8 @@ Head (right antorbital region)		0	0
 Head (sectioned in spirit)		0	0
 Head (sectioned)		0	0
 HEAD | Cast		0	0
+head | feet		0	0
+head | feet | wings		0	0
 HEAD + AXIS; A+B		0	0
 Head + body		0	0
 Head + body (complete)		0	0
@@ -47175,10 +47178,11 @@ left C1 and c1, associated		0	0
 Left C1 or px?		0	0
 left calcaneum		0	0
 left calcaneum frag		0	0
-left calcaneus		0	0
-Left calcaneus.		0	0
-Left Canine		0	0
-leleft carpometacarpus		0	0
+left calcaneus		0	0Left Canine		0	0
+	0
+left carnassial		0	0
+Left Carnassial Frag		0	0
+left carpometacarpus		0	0
 left cervical lateral spike		0	0
 LEFT CLAVICLE		0	0
 LEFT CLEITHRUM		0	0
@@ -47297,8 +47301,7 @@ left dentary w p2-p4 erupting, m1-m2		0	0
 left dentary w p2-p4+r dentary w p4-m2		0	0
 left dentary w p3 or p4		0	0
 left dentary w p3, m1, m3 in crypt		0	0
-left dentary w p3, m2-m4		0	0
-left dentary w p3-m1		0	0
+left dentary w p3, m2-m4		0	0left dentary w p3-m1		0	0
 left dentary w p3-m2		0	0
 left dentary w p3-m2 + right dentary w m1-m3		0	0
 left dentary w p3-m3		0	0
@@ -47423,8 +47426,7 @@ LEFT FIBULARE, NEARLY COMPLETE		0	0
 LEFT FIBULARE, PROXIMAL END		0	0
 left foot bones only	left foot bones	0	1
 Left fore and hind limb		0	0
-Left fore limb.		0	0
-left frag mandible with /m3 and frag /m2		0	0
+Leftleft frag mandible with /m3 and frag /m2		0	0
 left fragmentary innominate		0	0
 Left Frontal		0	0
 LEFT FRONTAL FRAGMENT		0	0
@@ -53740,8 +53742,8 @@ MS (>30)	mixed larvae and subadults	0	1
 MS (>40)	mixed larvae and subadults	0	1
 MS (>50)	mixed larvae and subadults	0	1
 MS (>60)	mixed larvae and subadults	0	1
-MS (>80)	mixed larvae and subadults	0	1
-MS (10)	mixed laMS (11)	mixed larvae and subadults	0	1
+MS (>MS (10)	mixed larvae and subadults	0	1
+MS (11)	mixed larvae and subadults	0	1
 MS (1-14)	mixed larvae and subadults	0	1
 MS (23)	mixed larvae and subadults	0	1
 MS (27)	mixed larvae and subadults	0	1
@@ -54268,6 +54270,7 @@ NEST & EGGS	eggs | nest	0	1
 nest (complete)		0	0
 nest (separated according to plant species)		0	0
 nest (separated according to plant species) | tissue		0	0
+nest | egg(s)		0	0
 nest | tissue		0	0
 nest + 1 egg		0	0
 nest + 1 egg | tissue		0	0
@@ -64159,9 +64162,9 @@ R & L CRANIAL FRAGMENTS, FRONTAL, PARIETAL, TEMPORAL, ETC.		0	0
 R & L DENTARIES		0	0
 R & L DENTARIES; ASSOCIATED T#/; METAPODIALS; PHALANGES; EMBEDDED IN NODULE		0	0
 R & L DENTARY		0	0
-R & L DENTARY, R BROKEN M/1, M/2-M/3		0	0
-R & L DP/3-DP/4-M/1-M/2		0	0
-R & L FEMORA & TIBIA, R & L HIND FEET (COMPOSITE)		0	0
+R & L DENTARY, R BROKEN M/1, M/2-M/R & L FEMORA & TIBIA, JUVENILE		0	0
+R & L FRONTALS		0	0
+R & L HIND FEET (COMPOSITE)		0	0
 R & L HIND LIMBS: 2 FEMORA, 2 TIBIAE, 2 FIBULAE		0	0
 R & L HUMERI		0	0
 R & L I1/ ; R I2/		0	0
@@ -80088,6 +80091,7 @@ skin & mandible only		0	0
 Skin & Part. Skel.		0	0
 SKIN & PARTIAL SKEL.	skin | partial skeleton	0	1
 skin & partial skeleton	skin | partial skeleton	0	1
+Skin & partial skeleton - 1		0	0
 Skin & partial skeleton - 1; Alcohol/Ethanol - 1		0	0
 SKIN & PARTIAL SKULL	skin | partial skull	0	1
 SKIN & PORTION OF DENTARY	skin | partial dentary	0	1
@@ -81952,9 +81956,9 @@ skin, skeleton, Tissue number 10127		0	0
 skin, skeleton, Tissue number 10441		0	0
 skin, skeleton, Tissue number 10477		0	0
 skin, skeleton, Tissue number 10478		0	0
-skin, skeleton, Tissue number 10479		0	0
-skin, skeleton, Tissue number 10480		0	0
-skin, skeletoskin, skeleton, Tissue number 10482		0	0
+skin,skin, skeleton, Tissue number 10480		0	0
+skin, skeleton, Tissue number 10481		0	0
+skin, skeleton, Tissue number 10482		0	0
 skin, skeleton, Tissue number 10483		0	0
 skin, skeleton, Tissue number 10484		0	0
 skin, skeleton, Tissue number 10485		0	0
@@ -104745,12 +104749,12 @@ TA		0	0
 TABULAR		0	0
 Tabular (left)		0	0
 TABULAR BONE		0	0
-TABULAR BONE OF SKULL		0	0
-TABULAR HORN		0	0
+TABULAR BONE OF SKULL		0	TABULAR HORN		0	0
 'TABULAR PLATES'		0	0
 tad [?]		0	0
 tadpole		0	0
-tail	tail	1Tail  + body (part)		0	0
+tail	tail	1	1
+Tail  + body (part)		0	0
 tail - 1	tail - 1	0	1
 tail & 2 wings	tail | wings	0	1
 TAIL & CHEEK PIECES, A+B		0	0
@@ -104773,6 +104777,7 @@ tail and 1 foot only		0	0
 Tail and Body "shell"		0	0
 tail bone		0	0
 tail club		0	0
+tail feathers		0	0
 TAIL FIN		0	0
 TAIL FIN + PALAEONISCOID GASTRIC RESIDUE		0	0
 TAIL FIN SPINES ?		0	0
