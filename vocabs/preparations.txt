@@ -62333,6 +62333,7 @@ POSTCRANIAL SKELETON (DRY)	post-cranial skeleton	0	1
 postcranial skeleton (femur and humerus) | skin (round) | skull (complete)		0	0
 postcranial skeleton (femur and humerus); skin (round); skull (complete)		0	0
 Postcranial skeleton (incomplete)		0	0
+postcranial skeleton (incomplete) | skin (round) | skull (complete)		0	0
 postcranial skeleton (leg bones) | skin (round) | skull (broken)		0	0
 postcranial skeleton (leg bones) | skin (round) | skull (complete)		0	0
 postcranial skeleton (leg bones); skin (round); skull (broken)		0	0
@@ -62350,6 +62351,8 @@ postcranial skeleton (partial) | skin (pelt) | skull (complete)		0	0
 postcranial skeleton (partial) | skin (round and feathers)		0	0
 postcranial skeleton (partial) | skin (round)		0	0
 postcranial skeleton (partial) | skin (round) | cranium (complete)		0	0
+postcranial skeleton (partial) | skin (round) | muscle, liver, heart, kidney, fat, brain		0	0
+postcranial skeleton (partial) | skin (round) | muscle, liver, heart, kidney, fat, gonads		0	0
 postcranial skeleton (partial) | skin (round) | one wing		0	0
 postcranial skeleton (partial) | skin (round) | skull (broken)		0	0
 postcranial skeleton (partial) | skin (round) | skull (broken) | muscle, liver, heart, kidney		0	0
@@ -64157,12 +64160,13 @@ R  P3/		0	0
 R  premaxilla		0	0
 R #M/		0	0
 R & L C1/ (2)		0	0
-R & L CLEITHRUM & CLAVICLE, IN COUNTERPART		0	0
-R & L CRANIAL FRAGMENTS, FRONTAL, PARIETAL, TEMPORAL, ETC.		0	0
-R & L DENTARIES		0	0
+R & L CLR & L DENTARIES		0	0
+S, FRONTAL, PARIETAL, TEMPORAL, ETC.		0	0
 R & L DENTARIES; ASSOCIATED T#/; METAPODIALS; PHALANGES; EMBEDDED IN NODULE		0	0
 R & L DENTARY		0	0
-R & L DENTARY, R BROKEN M/1, M/2-M/R & L FEMORA & TIBIA, JUVENILE		0	0
+R & L DENTARY, R BROKEN M/1, M/2-M/3		0	0
+R & L DP/3-DP/4-M/1-M/2		0	0
+R & L FEMORA & TIBIA, JUVENILE		0	0
 R & L FRONTALS		0	0
 R & L HIND FEET (COMPOSITE)		0	0
 R & L HIND LIMBS: 2 FEMORA, 2 TIBIAE, 2 FIBULAE		0	0
@@ -64308,8 +64312,7 @@ R /p4 broken		0	0
 R /p4 frag.		0	0
 R /p4 post. frag.		0	0
 r /P4-M2		0	0
-R /px		0	0
-R /px frag.		0	0
+R /px		0	0R /px frag.		0	0
 R /tooth frag		0	0
 R ? LATERAL MARGINAL PLATE TWO		0	0
 R ? MAXILLA W M2-M3		0	0
@@ -64433,8 +64436,7 @@ R articular frag.		0	0
 R ARTICULAR,PREARTICULAR		0	0
 R ARTICULAR,PREARTICULAR,SURANGULAR		0	0
 R articular.		0	0
-R astrag		0	0
-R astrag frag		0	0
+R astrag		0	0R astrag frag		0	0
 R astrag, distal frag		0	0
 R astrag, lat frag		0	0
 R astrag, med frag		0	0
@@ -64579,8 +64581,7 @@ R cuboid.		0	0
 R cuneiform		0	0
 R CUNEIFORM, R UNCIFORM, L PHALANGE (NOTE HOLE, FLUORINE SAMPLE REMOVED), ACCESSORY PHALANGE		0	0
 R cuneiform.		0	0
-R DECIDUOUS I1/		0	0
-R DECIDUOUS P/4		0	0
+R DECIDUOUS I1/		0	R DECIDUOUS P/4		0	0
 R DECIDUOUS P4/		0	0
 R denatry, m1		0	0
 R dent frag with m1 or m2		0	0
@@ -80311,6 +80312,8 @@ Skin (Head and neck only) (Head and neck only)		0	0
 Skin (Head only) (Head only), Skin sample (Head only), Skin sample		0	0
 Skin (Head only) (Head only), Skin sample, Skin sample (Head only)		0	0
 skin (head only) | muscle, liver, heart		0	0
+skin (head only) | muscle, liver, heart, kidney | one wing		0	0
+skin (head only) | muscle, liver, heart, kidney | two wings		0	0
 skin (head only), muscle, liver, heart		0	0
 Skin (Head only), Skin sample (Head only) (Head only), Skin sample		0	0
 skin (head only), tissue		0	0
@@ -80414,6 +80417,7 @@ skin (round) (untanned); skeleton (skull only) (see Notes by PFW); skeleton (inc
 skin (round) (untanned, folded)		0	0
 skin (round) | cranium (broken)		0	0
 skin (round) | cranium (complete)		0	0
+skin (round) | mandible (complete)		0	0
 skin (round) | mandible (one mandible)		0	0
 skin (round) | mandible (two mandibles)		0	0
 skin (round) | muscle		0	0
@@ -80435,6 +80439,7 @@ skin (round) | muscle, liver, brain, kidney | one wing		0	0
 skin (round) | muscle, liver, heart		0	0
 skin (round) | muscle, liver, heart, kidney		0	0
 skin (round) | muscle, liver, heart, kidney | one wing		0	0
+skin (round) | muscle, liver, heart, kidney, egg		0	0
 skin (round) | muscle, liver, heart, kidney, fat, brain		0	0
 skin (round) | muscle, liver, heart, kidney, fat, gonads		0	0
 skin (round) | muscle, liver, heart, kidney, ovary		0	0
@@ -80457,7 +80462,11 @@ skin (round) | skull (complete) | muscle		0	0
 skin (round) | skull (complete) | muscle, heart		0	0
 skin (round) | skull (complete) | muscle, liver, heart		0	0
 skin (round) | skull (complete) | muscle, liver, heart, kidney		0	0
+skin (round) | skull (complete) | muscle,liver, heart, kidney		0	0
+skin (round) | skull (cranium only)		0	0
 skin (round) | skull (cranium)		0	0
+skin (round) | skull (in pieces)		0	0
+skin (round) | skull (mandible only)		0	0
 skin (round) | skull (mandibles)		0	0
 skin (round) | skull (one mandible missing)		0	0
 skin (round) | skull (partial)		0	0
@@ -81941,8 +81950,7 @@ skin, skeleton, syrinx, Tissue number 9296		0	0
 skin, skeleton, syrinx, Tissue number 9492		0	0
 skin, skeleton, syrinx, Tissue number 9747		0	0
 skin, skeleton, syrinx, Tissue number 9905		0	0
-skin, skeleton, syrinx, Tissue number B-12734 at Smithsonian		0	0
-skin, skeleton, syrinx, Tissue number not taken		0	0
+skin, skeleton, syrinx, Tissue number B-12734 at Smithsonian		0skin, skeleton, syrinx, Tissue number not taken		0	0
 skin, skeleton, syrinx, wingspread, Tissue number 3432		0	0
 skin, skeleton, syrinx, wingspread, Tissue number 9701		0	0
 Skin, Skeleton, Tissue	skeleton | skin | tissue	0	1
@@ -81956,7 +81964,8 @@ skin, skeleton, Tissue number 10127		0	0
 skin, skeleton, Tissue number 10441		0	0
 skin, skeleton, Tissue number 10477		0	0
 skin, skeleton, Tissue number 10478		0	0
-skin,skin, skeleton, Tissue number 10480		0	0
+skin, skeleton, Tissue number 10479		0	0
+skin, skeleton, Tissue number 10480		0	0
 skin, skeleton, Tissue number 10481		0	0
 skin, skeleton, Tissue number 10482		0	0
 skin, skeleton, Tissue number 10483		0	0
@@ -99883,6 +99892,7 @@ skull (complete) | foreleg with bone, chest cavity contents		0	0
 skull (complete) | hing leg with bone, liver, heart		0	0
 skull (complete) | muscle		0	0
 skull (complete) | muscle, heart		0	0
+skull (complete) | muscle, liver		0	0
 skull (complete) | muscle, liver, heart		0	0
 skull (complete) | muscle, liver, heart, kidney		0	0
 Skull (complete) +  fragments		0	0
@@ -100460,6 +100470,7 @@ Skull (sectioned, right side) + stapes		0	0
 Skull (sectioned, snout) with jaw		0	0
 Skull (sectioned, upper half) with horns		0	0
 Skull (sectioned, wax impregnated)		0	0
+skull (shattered)		0	0
 skull (skull cap)		0	0
 Skull (slightly damaged)		0	0
 Skull (slightly damaged) with jaw		0	0
@@ -104749,7 +104760,8 @@ TA		0	0
 TABULAR		0	0
 Tabular (left)		0	0
 TABULAR BONE		0	0
-TABULAR BONE OF SKULL		0	TABULAR HORN		0	0
+TABULAR BONE OF SKULL		0	0
+TABULAR HORN		0	0
 'TABULAR PLATES'		0	0
 tad [?]		0	0
 tadpole		0	0
@@ -104874,8 +104886,7 @@ Tanned Skin - 1; Skeleton - 1		0	0
 Tanned Skin - 1; Skeleton - 1; Skeleton - 1		0	0
 Tanned Skin - 1; Skeleton - 1; Skeleton - 1; Skeleton - 1		0	0
 Tanned Skin - 1; Skeleton - 1; Tissue		0	0
-Tanned Skin - 1; Skeleton - 1; Tissue - 1		0	0
-Tanned Skin - 1; Skeleton - 1; UNSPECIFIED - 1		0	0
+TaTanned Skin - 1; Skeleton - 1; UNSPECIFIED - 1		0	0
 Tanned Skin - 1; Skull - 1		0	0
 tanned skin & skull		0	0
 tanned skin & skull + complete skel		0	0

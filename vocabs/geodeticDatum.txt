@@ -78,6 +78,7 @@ Clarke 1866 ellipsoid	Clarke 1866 ellipsoid	1	1
 Clarke 1880 ellipsoid	Clarke 1880 ellipsoid	1	1
 Co-ordinate System 1937 of Estonia	Co-ordinate System 1937 of Estonia	1	1
 Corrego Alegre	Corrego Alegre	1	1
+d		0	1
 D. Hardcastle		0	1
 D.Hardcastle		0	1
 Dabola	Dabola	1	1
@@ -109,8 +110,8 @@ GDA 94	Geodetic Datum of Australia 1994	0	1
 GDA94	Geodetic Datum of Australia 1994	0	1
 Geodetic Datum 1949	Geodetic Datum 1949	1	1
 GEOLocate		0	1
-GNIS	not recorded	0	1
-Google GoogleEarth	WGS84	0	1
+GNIS	not recorded	0	1Google Earth	WGS84	0	1
+GoogleEarth	WGS84	0	1
 Graciosa Base SW 1948	Graciosa Base SW 1948	1	1
 GRS80 ellipsoid	GRS80 ellipsoid	1	1
 GS84	WGS84	0	1
@@ -237,9 +238,8 @@ Porto Santo 1936	Porto Santo 1936	1	1
 Provisional South American 1956	Provisional South American 1956	1	1
 Provisional South Chilean 1963	Provisional South Chilean 1963	1	1
 PRP_M	Provisional South American 1956	0	1
-Puerto Rico	Puerto Rico	1	1
-Qatar NaQornoq	Qornoq	1	1
-al	1	1
+Puerto Rico	PQornoq	Qornoq	1	1
+r National	1	1
 Reunion	Reunion	1	1
 Rodriguez, Heather G		0	1
 Rodriguez, Heather G.		0	1

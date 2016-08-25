@@ -10,6 +10,7 @@ Month	MonthNumber	DayOfYearForFirst	checked
  08 Jul	7	181	1
  09 Jul	7	181	1
  1	1	0	1
+ 1 Feb 	2	31	1
  10	10	273	1
  10 August	8	212	1
  11			1
@@ -82,7 +83,9 @@ Month	MonthNumber	DayOfYearForFirst	checked
  Oct 	10	273	1
  October	10	273	1
  or 2nd  week			1
+ or Dec 			1
  SEP	9	243	1
+ Sept	9	243	1
  September	9	243	1
  to Dec 			1
  to Mid-Feb 			1
@@ -112,7 +115,9 @@ May	5	120	1
 ?-			1
 ? March	3	59	1
 @			1
+[March?]	3	59	1
 [no			1
+[Nov]	11	304	1
 __			1
 __MAR	3	59	1
 __MAR __1996	3	59	1
@@ -166,6 +171,7 @@ __MAR __1996	3	59	1
 16 Jun	6	151	1
 17			1
 17 & 18			1
+17- 18 December	12	334	1
 17 Apr	4	90	1
 17 March	3	59	1
 17 May	5	120	1
@@ -210,10 +216,13 @@ May			1
 1973 (or			1
 1974			1
 1978 or			1
+1978 prior to 1 May			1
 1981			1
 1982 September	9	243	1
 1983			1
 1985			1
+1986			1
+1987 and			1
 1989			1
 1991			1
 1992			1
@@ -256,6 +265,7 @@ May			1
 24 November	11	304	1
 25			1
 25-			1
+25 and 28 May	5	120	1
 25 June	6	151	1
 25-6 June	6	151	1
 26			1
@@ -291,13 +301,8 @@ May			1
 4 Aug	8	212	1
 4 Feb	2	31	1
 4 Jul	7	181	1
-5	5	120	1
-55			1
-6	6	151	1
-6 Aug	8	212	1
-6 Jul	7	181	1
-6/			1
 6/*/			1
+1	1
 6/12/			1
 6/17	6	151	1
 69			1
@@ -306,8 +311,13 @@ May			1
 7 Jul	7	181	1
 7 Jun	6	151	1
 7/*/			1
-7/*/1	9	9	243	1
-	1
+7/*/1			1
+75 			1
+8	8	212	1
+8 Jul	7	181	1
+8/*/			1
+80			1
+9	9	243	1
 9/29/	9	243	1
 9/82	9	243	1
 9-13 Sept	9	243	1
@@ -336,6 +346,7 @@ Apr no			1
 APR/MAY			1
 april	4	90	1
 April-	4	90	1
+April 16	4	90	1
 April/May			1
 April?	4	90	1
 Aprli	4	90	1
@@ -357,6 +368,7 @@ Augm	8	212	1
 August	8	212	1
 August-	8	212	1
 August and September			1
+August or July			1
 Augustust	8	212	1
 Auh	8	212	1
 AUT	8	212	1
@@ -368,7 +380,9 @@ calcula que és de la dècada dels 90 (entre			1
 check			1
 Circa			1
 Date			1
+date [probably 21			1
 date as			1
+date; received at museum in			1
 date]			1
 DDec	12	334	1
 de			1
@@ -405,6 +419,7 @@ entre el 1990 i maig del			1
 entre el 1990 i març del			1
 entre l'any 2000 i			1
 estiu-			1
+exact date			1
 FAL			1
 Fall			1
 FALSE			1
@@ -420,6 +435,7 @@ Fen	2	31	1
 field			1
 fr  Marti Rossell			1
 gener	1	0	1
+Hatched			1
 hivern			1
 Hune	6	151	1
 i	1	0	1
@@ -518,11 +534,14 @@ Oct/Nov			1
 October	10	273	1
 of			1
 of March	3	59	1
+of May	4	90	1
+of Oct 	10	273	1
 on label: 1997			1
 OPCT	10	273	1
 or			1
 or 10 May			1
 or 21			1
+or 23 May 			1
 or 28 June			1
 or 29 June			1
 or 48			1
@@ -531,6 +550,7 @@ or 7 Apr			1
 or 9 Jan			1
 or August			1
 or July			1
+or Jun			1
 or June			1
 or Nov			1
 or Oct 	10	273	1
@@ -544,9 +564,9 @@ purchased			1
 Rec'd			1
 recd December			1
 RecdDecember			1
+Received			1
 recol·lectat entre 1990 i			1
-SE[	9	243	1
-SEO	9	243	1
+SE[	9	2SEO	9	243	1
 Sep	9	243	1
 Sep-	9	243	1
 Sep  no			1
@@ -569,13 +589,17 @@ Spring/Summer			1
 SUM			1
 Sumer			1
 Summer			1
-Summer 1975 & Feb			summer June			1
+Summer 1975 & Feb			1
+summer June			1
 summer of 2004 or			1
 Summer/Fall			1
 Summer/Spring			1
 tardor			1
+through 15-Jun-			1
 to			1
 to 3 Aug			1
+to 4-Apr-			1
+to Mar			1
 to mid			1
 to mid May			1
 to September			1
@@ -595,6 +619,7 @@ week in Sep	9	243	1
 week Jun	6	151	1
 week Mar 	3	59	1
 week May			1
+week of April	4	90	1
 week of Aug	8	212	1
 week of Jan	1	0	1
 week of June	6	151	1
@@ -605,6 +630,7 @@ week Sep	9	243	1
 WIN			1
 winter			1
 Winter- rec  1981- April			1
+wk  of Sept 	9	243	1
 x	10	273	1
 x 1984			1
 x 1984,em 5 xi			1

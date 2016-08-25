@@ -13310,6 +13310,7 @@ Leucolepis				Aves	Chordata	Animalia		0	1	Genus not found.	0
 Leucolepus				Aves	Chordata	Animalia		0	1	Genus not found.	0
 Leucolopis				Aves	Chordata	Animalia		0	1	Genus not found.	0
 Leuconerpes	Melanerpes	Picidae	Piciformes	Aves	Chordata	Animalia	Avibase	0	1	Genus is a synonym.	0
+Leuconotopicus	Picoides	Picidae	Piciformes	Aves	Chordata	Animalia	Avibase	0	1	Genus is a synonym.	0
 Leucopeza	Leucopeza	Parulidae	Passeriformes	Aves	Chordata	Animalia	ITIS	1	1		0
 Leucophaeus	Leucophaeus	Laridae	Charadriiformes	Aves	Chordata	Animalia	ITIS	1	1		0
 Leucophaeus x larus		Laridae	Charadriiformes	Aves	Chordata	Animalia		0	1	Genus is a hybrid.	0
@@ -17622,8 +17623,9 @@ Ovis/Oreamnos		Bovidae	Artiodactyla	Mammalia	Chordata	Animalia	Mammal Species of
 Ovoides	Arothron	Tetraodontidae	Tetraodontiformes	Actinopterygii	Chordata	Animalia	Froese, R. and D. Pauly. Editors. 2012. FishBase.	0	1	Genus is a synonym.	0
 OVOPHIS	Ovophis	Viperidae	Squamata	Reptilia	Chordata	Animalia	ITIS	1	1		0
 Owenetta	Owenetta	Owenettidae	Procolophonomorpha	Reptilia	Chordata	Animalia	Paleobiology Database	1	1		0
-Oweniasuchus	Oweniasuchus	Goniopholidae	Crocodylia	Reptilia	Chordata	Animalia	Paleobiology Database	1	1		0
-Owl				Aves	Chordata	Animalia		0	Owstonia	Owstonia	Cepolidae	Perciformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
+Oweniasuchus	Oweniasuchus	Goniopholidae	Owl				Aves	Chordata	Animalia		0	1	Genus is a common name.	0
+1		0
+Owstonia	Owstonia	Cepolidae	Perciformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Owstoniinae		Cepolidae	Perciformes	Actinopterygii	Chordata	Animalia	ITIS	0	1	Genus is a subfamily.	0
 Oxobrychus	Ixobrychus	Ardeidae	Pelecaniformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
 Oxuderces	Oxuderces	Gobiidae	Perciformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
@@ -17662,8 +17664,7 @@ Oxymetopon	Oxymetopon	Microdesmidae	Perciformes	Actinopterygii	Chordata	Animalia
 Oxymicterus	Oxymycterus	Cricetidae	Rodentia	Mammalia	Chordata	Animalia	Interim Register of Marine and Nonmarine Genera	0	1	Genus is a synonym.	0
 Oxymonacanthus	Oxymonacanthus	Monacanthidae	Tetraodontiformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Oxymugil	Liza	Mugilidae	Mugiliformes	Actinopterygii	Chordata	Animalia	Catalog of Fishes	0	1	Genus is a synonym.	0
-OXYMYCTERUS	Oxymycterus	Cricetidae	Rodentia	Mammalia	Chordata	Animalia	Mammal Species of the World. 2005.	1	1		0
-Oxynotus	Oxynotus	Oxynotidae	Squaliformes	Elasmobranchii	Chordata	Animalia	ITIS	1	1		0
+OXYMYCTERUS	Oxymycterus	Cricetidae	Rodentia	Mammalia	Chordata	Animalia	Mammal Species ofOxynotus	Oxynotus	Oxynotidae	Squaliformes	Elasmobranchii	Chordata	Animalia	ITIS	1	1		0
 Oxypelia	Columbina	Columbidae	Columbiformes	Aves	Chordata	Animalia	Avibase	0	1	Genus is a synonym.	0
 Oxypogon	Oxypogon	Trochilidae	Apodiformes	Aves	Chordata	Animalia	ITIS	1	1		0
 Oxyporhamphus	Oxyporhamphus	Hemiramphidae	Beloniformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
@@ -19576,7 +19577,7 @@ Pinnipedia			Carnivora	Mammalia	Chordata	Animalia		0	1	Genus is a superfamily.	0
 Pinocola	Pinicola	Fringillidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
 Pinops [illeg.]				Aves	Chordata	Animalia		0	1	Genus not found.	0
 Pinoyscincus	Pinoyscincus	Scincidae	Squamata	Reptilia	Chordata	Animalia	The Reptile Database	1	1		0
-Piocephalus	Poicephalus	Psittacidae	Psittaciformes	Aves	Chordata	AnimPionetes	Pionites	Psittacidae	Psittaciformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
+Piocephalus	Poicephalus	PsiPionetes	Pionites	Psittacidae	Psittaciformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
 Pionias				Aves	Chordata	Animalia		0	1	Genus not found.	0
 Pioniter	Pionites	Psittacidae	Psittaciformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
 Pionites	Pionites	Psittacidae	Psittaciformes	Aves	Chordata	Animalia	ITIS	1	1		0
