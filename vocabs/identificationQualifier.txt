@@ -549,6 +549,7 @@ sp. (cephalica-clade)	sp.	0	1
 sp. (chalconota-group)	sp.	0	1
 sp. (cocos long-nose)	sp.	0	1
 sp. (coelomys)	sp.	0	1
+sp. (E. umbrinus or E. quadrivittatus)	sp.	1	0
 sp. (fuscoauratus-group)	sp.	0	1
 sp. (fuscus complex)	sp.	0	1
 sp. (grammicus-group)	sp.	0	1
@@ -951,9 +952,9 @@ ssp	ssp.	0	1
 ssp.	ssp.	1	1
 STICTOS N.SP.	sp. nov.	0	1
 subadult		0	1
-subadult?		0	1
-subcl. elasmobranchii		0	1
-Suborder= Acanthsubsp cf	cf.	0	1
+subadult?		0subcl. elasmobranchii		0	1
+Suborder= Acanthuroidei		0	1
+subsp cf	cf.	0	1
 subsp. 	ssp.	0	1
 subspecies in question	subspecies in question	1	1
 subspecies questioned	subspecies in question	0	1

@@ -378,6 +378,7 @@ April?	4	90	1
 Aprli	4	90	1
 ARP	4	90	1
 Arpril	4	90	1
+Audust	8	212	1
 Aug	8	212	1
 Aug-	8	212	1
 Aug -	8	212	1
@@ -420,6 +421,7 @@ de gener	1	0	1
 de l'agost	8	212	1
 de l'agost de			1
 de novembre	11	304	1
+dead 20 September			1
 Dec	12	334	1
 Dec-	12	334	1
 Dec -	12	334	1
@@ -451,6 +453,7 @@ estiu-			1
 exact date			1
 FAL			1
 Fall			1
+Fall-			1
 FALSE			1
 Feb	2	31	1
 Feb-	2	31	1
@@ -470,6 +473,7 @@ Hune	6	151	1
 i	1	0	1
 ii	2	31	1
 iii	3	59	1
+in			1
 in 1890			1
 iv	4	90	1
 ix	9	243	1
@@ -480,6 +484,7 @@ Jan  4	1	0	1
 Jan 1971 or			1
 Jan/Feb			1
 JANB	1	0	1
+Januaery	1	0	1
 January	1	0	1
 January 17	1	0	1
 January 6	1	0	1
@@ -527,6 +532,7 @@ March 13 or			1
 March 19	3	59	1
 March 3 or			1
 March or 01 April			1
+Marcy	3	59	1
 MAT			1
 May	5	120	1
 May-	5	120	1
@@ -557,14 +563,13 @@ novembre	11	304	1
 Novermber	11	304	1
 NV	11	304	1
 o			1
-o igual			1
-Oct	10	273	1
+o igual			Oct	10	273	1
 Oct-	10	273	1
 Oct -	10	273	1
 Oct  28	10	273	1
 Oct & 5 Nov			1
-OCT 1Oct/Dec			1
-
+OCT 1960	10	273	1
+Oct/Dec			1
 Oct/Nov			1
 October	10	273	1
 of			1
@@ -616,10 +621,14 @@ Sept -	9	243	1
 Sept  19	9	243	1
 Sept 1969 	9	243	1
 Septbember	9	243	1
+Septebmer	9	243	1
 September	9	243	1
 September-	9	243	1
 September 1989	9	243	1
 Septemberr	9	243	1
+Septemeber	9	243	1
+Septemer	9	243	1
+Septmber	9	243	1
 Septmeber	9	243	1
 SPE	9	243	1
 SPR			1
@@ -670,6 +679,7 @@ week of Sep	9	243	1
 week Sep	9	243	1
 WIN			1
 winter			1
+Winter-			1
 Winter- rec  1981- April			1
 wk  of Sept 	9	243	1
 x	10	273	1

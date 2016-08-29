@@ -78,6 +78,7 @@ k	1000.00	0	1
 + F	0.30	0	1
 + FATHOMS	1.82	0	1
 + ft	0.30	0	1
++ ft.	0.30	0	1
 + m	1.00	0	1
 + or -		0	1
 +/- ft	0.30	0	1
@@ -227,6 +228,7 @@ m\		0	1
 Madden Creek		0	1
 maissing		0	1
 maters	1.00	0	1
+meadows behind Quarry		0	1
 MET	1.00	0	1
 meter	1.00	0	1
 meter below sea level	1.00	0	1
@@ -235,12 +237,12 @@ METER WIRE	1.00	0	1
 meters	1.00	0	1
 METERS (AVERAGE)	1.00	0	1
 METERS (BOTTOM)	1.00	0	1
-METERS (UNCLEAR)	1.00	0	1
-METERS BOTTOM DEPTH	1.00	0	1
-METERS MAXIMMETERTS	1.00	0	1
-	1
+METERS (UNCLEAR)	1.00	0	1METERS?	1.00	0	1
+0	1
 
-
+	1.00	0	1
+METERSETERS	1.00	0	1
+METERTS	1.00	0	1
 metres	1.00	0	1
 mi	1609.34	0	1
 mi W Toyahvale, research stati		0	1
@@ -257,6 +259,7 @@ mil	1609.34	0	1
 mile	1609.34	0	1
 miles	1609.34	0	1
 MIN		0	1
+minutes		0	1
 missiing		0	1
 missin		0	1
 missing		0	1
@@ -304,6 +307,7 @@ Shallow		0	1
 shore	0.00	0	1
 shore?	0.00	0	1
 Shoreline		0	1
+Sn Patton Valley Rd.		0	1
 spruce		0	1
 spruce-Shepherdia		0	1
 STIRTON,		0	1
@@ -324,6 +328,7 @@ Tumbler Dredge		0	1
 Turner's Lagoon, Patho		0	1
 UBC		0	1
 UBC campus		0	1
+Unk		0	1
 VAN ROSSE		0	1
 various		0	1
 'W	0.00	0	1
