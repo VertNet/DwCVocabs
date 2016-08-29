@@ -1472,6 +1472,7 @@ _ TOOTH		0	0
 1 Dry		0	0
 1 Dry skeleton		0	0
 1 egg		0	0
+1 egg [4		0	0
 1 egg | tissue		0	0
 1 egg + 1 alc. Emb		0	0
 1 egg + 1 alc. Emb | tissue		0	0
@@ -1526,6 +1527,7 @@ _ TOOTH		0	0
 1 in 95% EtOH		0	0
 1 in C&S		0	0
 1 in skeleton		0	0
+1 infertile egg		0	0
 1 ISOLATED M#/, 1 ISOLATED P#/		0	0
 1 JAW		0	0
 1 JAW, 1 HUMERUS		0	0
@@ -1594,6 +1596,7 @@ _ TOOTH		0	0
 1 L, 1 R ILIA		0	0
 1 L, 2 R JAWS &/OR M/1		0	0
 1 L, 6 R ILIA		0	0
+1 Larger egg is cowbird egg the 4 smaller eggs are American goldfinch eggs.		0	0
 1 LATERAL METAPODIAL; 3 PROXIMAL END LATERAL METAPODIAL		0	0
 1 LIMB		0	0
 1 litter of 4 alc young only		0	0
@@ -2668,6 +2671,7 @@ _ TOOTH		0	0
 197 EtOH		0	0
 197 in 70% EtOH		0	0
 197: R M/2-M/3 (HOLOTYPE); 198: R M/1; 199: L M/3; 200: I#/ FRAG | Cast		0	0
+1979		0	0
 198 EtOH		0	0
 198 in 70% EtOH		0	0
 1983 EtOH		0	0
@@ -2810,6 +2814,7 @@ _ TOOTH		0	0
 2 EGGS	eggs	0	1
 2 eggs *		0	0
 2 eggs * | tissue		0	0
+2 eggs [4		0	0
 2 eggs | tissue		0	0
 2 eggs in skeleton cabinet		0	0
 2 Eggs only		0	0
@@ -2819,6 +2824,7 @@ _ TOOTH		0	0
 2 entoplastra+1 epiplastron		0	0
 2 EtOH		0	0
 2 EtOH; 1 C&S		0	0
+2 feathers		0	0
 2 females		0	0
 2 FEMORA		0	0
 2 FEMORA, 2 SCAPULAE, CALCANEUM, TIBIA, TOOTH, FOOT BONE		0	0
@@ -2883,6 +2889,7 @@ _ TOOTH		0	0
 2 individuals		0	0
 2 individuals in this piece		0	0
 2 INDIVIDUALS ON SAME SLAB		0	0
+2 infertile eggs		0	0
 2 isol teeth		0	0
 2 ISOLATED JAWS; UNASSOCIATED; & VARIOUS POSTCRANIAL REMAINS (LOT #); 9 SPECIMENS TOTAL WITH 2 A+B		0	0
 2 ISOLATED M#/		0	0
@@ -3565,6 +3572,7 @@ _ TOOTH		0	0
 2 tadpoles		0	0
 2 tadpoles & 4 met'ing juvs		0	0
 2 tadpoles + 2 met'ing juvs		0	0
+2 tails		0	0
 2 tails only	2 tails	0	1
 2 TAILS, LARGE & SMALL		0	0
 2 TARSOMETATARSUS		0	0
@@ -4118,6 +4126,8 @@ _ TOOTH		0	0
 3 DORSALS, 10 PHALANGES, 4 CLAWS		0	0
 3 DORSALS, ABOUT 28 CAUDALS, R ILIUM, R FEMUR, R TIBIA, R FIBULA, METATARSALS		0	0
 3 eggs		0	0
+3 eggs [4		0	0
+3 eggs [6-9		0	0
 3 eggs | tissue		0	0
 3 eggs in  skeleton cabinet		0	0
 3 eggs in skeleton cabinet		0	0
@@ -4817,6 +4827,7 @@ _ TOOTH		0	0
 4 DT/#		0	0
 4 eggs		0	0
 4 EGGS & NEST	eggs | nest	0	1
+4 eggs (partial) each from different birds		0	0
 4 eggs | tissue		0	0
 4 eggshell fragments		0	0
 4 ELEMENTS, PES		0	0
@@ -8288,6 +8299,7 @@ A-2 - 1		0	0
 A2+B		0	0
 A2+B; TAIL		0	0
 A3+B		0	0
+aa		0	0
 Abdominal pores, etc. (in spirit)		0	0
 ABDOMINAL RIBS		0	0
 ABNORMAL PHALANX,PISIFORM		0	0
@@ -8490,16 +8502,16 @@ alcoholi		0	0
 alcoholic	alcoholic	1	1
 alcoholic  + alc gut		0	0
 alcoholic  + alc. gut		0	0
-Alcoholic - 1		0	0
-Alcoholic - 1; Alcoholic - 1		0	0
-Alcoholic - 1; Eggs - 1		0	0
+AlAlcoholic - 1; Eggs - 1		0	0
+0	0
 Alcoholic - 1; Mount - 1		0	0
 Alcoholic - 1; Nest - 1; Tissue - 100		0	0
 Alcoholic - 1; Skin - 1; Tissue - 100; Syrinx - 1		0	0
 Alcoholic - 1; Syrinx - 1		0	0
 Alcoholic - 1; Syrinx - 1; Mount - 1		0	0
-AlcAlcoholic - 1; Tissue - 100		0	0
-00		0	0
+Alcoholic - 1; Syrinx - 1; Tissue - 100		0	0
+Alcoholic - 1; Tissue - 1		0	0
+Alcoholic - 1; Tissue - 100		0	0
 Alcoholic - 1; Wingspread - 1		0	0
 Alcoholic - 1; Wingspread - 1; Tissue - 100		0	0
 Alcoholic & Spread Wing		0	0
@@ -8605,14 +8617,14 @@ alcoholic + alc gut + misc: 2 glass slides		0	0
 alcoholic + alc gut + tissue		0	0
 alcoholic + alc gut contents		0	0
 alcoholic + alc stomach		0	0
-alcoholic + alc stomach | tissue		0	0
-alcoholic + alc stomach + misc: 110 slides		0	0
+aalcoholic + alc stomach + misc: 110 slides		0	0
 alcoholic + alc stomach + misc: 110 slides | tissue		0	0
 alcoholic + alc stomach + slides of stom contents		0	0
 alcoholic + alc stomach contents		0	0
 alcoholic + alc. egg & embyos		0	0
 alcoholic + alc. GI tract		0	0
-alalcoholic + alc. gut contents		0	0
+alcoholic + alc. gut		0	0
+alcoholic + alc. gut contents		0	0
 alcoholic + alcgut		0	0
 alcoholic + alcoholic eggs		0	0
 alcoholic + alcoholic gut		0	0
@@ -10602,17 +10614,16 @@ Anterior half L dentary.		0	0
 Anterior half L dentary; molar (8).		0	0
 ANTERIOR HALF L HYPOPLASTRON.		0	0
 ANTERIOR HALF L ILIUM & HEAD OF L PUBIS		0	0
-Anterior half L innominate.		0	0
-Anterior half L m/1.		0	0
-ANTERIOR HALF L MANDIBLE & 2 VERTEBRAE		0	0
+Anterior half L innominANTERIOR HALF L MANDIBLE & 2 VERTEBRAE		0	0
 Anterior half L scapula.		0	0
 Anterior half left dentary p/3 p/4 m/1.		0	0
 anterior half of ?m/3		0	0
 ANTERIOR HALF OF CARAPACE & PLASTRON		0	0
 ANTERIOR HALF OF FISH		0	0
 ANTERIOR HALF OF FISH | Cast		0	0
-ANTANTERIOR HALF OF L MANDIBLE, IN COUNTERPART		0	0
-ARTS. THIRD PIECE APPEARS TO BE PART OF THIS INDIVIDUAL BUT ASSOCIATION IS NOT CERTAIN.		0	0
+ANTERIOR HALF OF INTERMEDIATE-SIZED FISH, IN COUNTERPARTS. THIRD PIECE APPEARS TO BE PART OF THIS INDIVIDUAL BUT ASSOCIATION IS NOT CERTAIN.		0	0
+anterior half of l lower molar		0	0
+ANTERIOR HALF OF L MANDIBLE, IN COUNTERPART		0	0
 anterior half of l upper molar		0	0
 ANTERIOR HALF OF LARGE FISH, A+B		0	0
 anterior half of r lower molar		0	0
@@ -10703,7 +10714,8 @@ Anterior L dentary i1; molar(2).		0	0
 Anterior L dentary m/1 m/2 m/3.		0	0
 Anterior L dentary m/1 m/2.		0	0
 Anterior L dentary m/1.		0	0
-Anterior L dentary m/1; R maxilla M2/.	Anterior L dentary m/3; anterior L dentary.		0	0
+Anterior L dentary m/1; R maxilla M2/.		0	0
+Anterior L dentary m/3; anterior L dentary.		0	0
 Anterior L dentary p/3 p/4 m/1 m/2.		0	0
 Anterior L dentary p/3 p/4 m/1.		0	0
 Anterior L dentary p/3.		0	0
@@ -14745,12 +14757,7 @@ CARPAL 3		0	0
 CARPAL 3 ?		0	0
 Carpal bone		0	0
 CARPAL BONES: L SCAPHOID AND MAGNUM, R UNCIFORM		0	0
-CARPAL CUNEIFORM		0	0
-CARPAL ELEMENT		0	0
-carpal frag		0	0
-carpal fragment		0	0
-CARPAL FRAGS		0	0
-CARPAL INTERMEDIUM ?		0	0
+CARPAL CUNEIFORM		0	CARPAL INTERMEDIUM ?		0	0
 CARPAL MAGNUM		0	0
 carpal only | carpal only		0	0
 carpal or tarsal		0	0
@@ -14758,7 +14765,12 @@ CARPAL OR TARSAL ?		0	0
 CARPAL OR TARSAL FRAGS		0	0
 CARPAL OR TARSAL, BONE FRAGS		0	0
 CARPAL OR TARSAL, RADIUS FRAG, PHALANX		0	0
-CARPAL PHALANGES,DIST HUMERUS		0	CARPAL,CUNEIFORM		0	0
+CARPAL PHALANGES,DIST HUMERUS		0	0
+CARPAL PHALANX		0	0
+CARPAL PHALANX ?		0	0
+CARPAL SESAMOID		0	0
+CARPAL UNCIFORM		0	0
+CARPAL,CUNEIFORM		0	0
 CARPAL,DIST TIBIA		0	0
 CARPAL,PHALANX		0	0
 CARPAL,PODIAL,SESAMOID,SCAPHOLUNAR,PISIFORM		0	0
@@ -15454,9 +15466,8 @@ Central portion R innominate.		0	0
 CENTRAL PORTION R SCAPULA.		0	0
 Central portion R ulna.		0	0
 Central portion R unerupted lower cheektooth.		0	0
-Central portion scapula.		0	0
-Central portion skull w R P4/, L P4 M1/ M2/.		0	0
-Central portion skull.		0	0
+Central portion scapula.		0Central portion skull.		0	0
+, L P4 M1/ M2/.		0	0
 Central portion skull. L M2/ M3/; R P4/ M1/ M2/ M3/.		0	0
 Central portion skull. L P4/ M1/ M2/ M3/; R P4/ M1/ M2/ M3/.		0	0
 Central portion vertebra.		0	0
@@ -15465,8 +15476,11 @@ Central R dentary p/4 m/1 m/2 m/3.		0	0
 CENTRAL R PHALANX III.
 
 		0	0
-CCentral skull R M1/ M2/; L M1/ M2/.		0	0
-0	0
+CENTRAL R PHALANX III.		0	0
+CENTRAL R TARSOMETATARSUS WITH SPUR, AD.		0	0
+Central segment R dentary m/1.		0	0
+CENTRAL SEGMENT SYNSACRUM.		0	0
+Central skull R M1/ M2/; L M1/ M2/.		0	0
 Central skull.		0	0
 Central three-quarters L dentary.		0	0
 central trochlea of tarsometatarsus		0	0
@@ -15572,18 +15586,17 @@ Cervical vertebrae + ribs + shoulder girdle (part) + casts		0	0
 cervical vertebrae, assoc		0	0
 CERVICAL VERTEBRAE, FEMUR & TOE BONE		0	0
 CERVICAL VERTEBRAE, LIMB & FOOT FRAGS		0	0
-CERVICAL VERTEBRAE,METAPODIAL FRAG		0	0
-CERVICAL VERTEBRAE: 4, 5, 7; ASSOCIATION CONJECTURAL: OAP		0	0
-CERVICAL VERTEBRAE; ASSOCIATION ONLY PROBABLE: OAP		0	0
-CERVICAL VERTEBRAE; ASSOCIATION PROBABLE: OAP		0	0
+CERVICAL VERTEBRAE,METAPODIAL FRAG		0	0CERVICAL VERTEBRAE; ASSOCIATION PROBABLE: OAP		0	0
+0	0
+		0	0
 cervical vertebral centrum		0	0
 CERVICAL VERTEBRAL FRAG		0	0
 cervical vertebral fragment		0	0
 CERVICAL VERTEVRA		0	0
 CERVICAL; FEMUR FRAG, UNIDENTIFIED		0	0
 CERVICALS		0	0
-CERVICALS 1-15, DORSALS 1-10, SACRALS 1-5, CAUDALS 1-64, 18 RIBS, CHEVRONS 1-3, SCAPULAE, CORACOIDS, HUMERI, L RADIUCERVICALS, CANINE FRAGS, FORELIMB, ATLAS		0	0
-TIBIA & FIBULA, L PES		0	0
+CERVICALS 1-15, DORSALS 1-10, SACRALS 1-5, CAUDALS 1-64, 18 RIBS, CHEVRONS 1-3, SCAPULAE, CORACOIDS, HUMERI, L RADIUS, ULNA & MANUS, ILIA, PUBES, ISCHIA, R FEMUR, TIBIA & FIBULA, L PES		0	0
+CERVICALS, CANINE FRAGS, FORELIMB, ATLAS		0	0
 CERVICALS, DORSALS, LUMBARS, 1ST SACRAL OF ANIMAL NOT FULLY ADULT; ASSOCIATION CONJECTURAL		0	0
 CERVICALS, RIB FRAGS, DORSALS, PELVIS, FOOT BONES; ONLY ATLAS & AXIS FOUND: LCT; ALSO 1 TOE BONE, FOOT BONES & VERTEBRAE, 3/5/1975		0	0
 CERVICALS; 11 DORSALS, SOME INCOMPLETE; SCAPULAE INCOMPLETE; HUMERUS; RADIUS; ULNA; CARPALS; METACARPALS; PHALANGES; RIBS		0	0
@@ -15703,9 +15716,7 @@ cheek tooth+bone fragments		0	0
 cheek tooth+horn core frags		0	0
 CHEEK, NC		0	0
 CHEEKTEETH 2 FRAGS UPPER		0	0
-CHEEKTEETH LOWER L		0	0
-CHEEKTEETH LOWER R		0	0
-CHEEKTEETH UPPER 3 RIGHT		0	0
+CHEEKTEETH CHEEKTEETH UPPER 3 RIGHT		0	0
 Cheekteeth.		0	0
 cheektooth		0	0
 CHEEKTOOTH & JAW FRAGS		0	0
@@ -15716,8 +15727,8 @@ Cheektooth (3).		0	0
 Cheektooth (3); dentary (3).		0	0
 CHEEKTOOTH (4), SACRUM, INNOMINATE		0	0
 Cheektooth (6); incisor fragments (3).		0	0
-CHCHEEKTOOTH (8), PALATE		0	0
- L, DENTARY FRAG		0	0
+CHEEKTOOTH (7), DENTARY P/4 ANT L, DENTARY FRAG		0	0
+CHEEKTOOTH (8), PALATE		0	0
 CHEEKTOOTH (9), DENTARY ANGULAR PROCESS R		0	0
 CHEEKTOOTH DECID LOWER FRAG		0	0
 CHEEKTOOTH DECIDUOUS		0	0
@@ -15868,7 +15879,8 @@ Cheney, P. W. 76		0	0
 Cheney, P. W. 77		0	0
 Cheney, P. W. 78		0	0
 Cheney, P. W. 79		0	0
-Cheney, P. Cheney, P. W. 81		0	0
+Cheney, P. W. 80		0	0
+Cheney, P. W. 81		0	0
 Cheney, P. W. 82		0	0
 Cheney, P. W. 83		0	0
 Cheney, P. W. 9		0	0
@@ -16016,7 +16028,14 @@ clutch - complete - 1	clutch (complete) - 1	0	1
 clutch - partial - 1	clutch (partial) - 1	0	1
 clutch (complete) with nest (complete) - 1	clutch (complete) with nest (complete) - 1	0	1
 clutch (partial) with nest (complete) - 1	clutch (partial) with nest (complete) - 1	0	1
+clutch 3 eggs only		0	0
+Clutch 5 eggs only		0	0
+clutch of 1 egg		0	0
 clutch of 17 eggs		0	0
+clutch of 3 eggs		0	0
+Clutch of 4 eggs		0	0
+clutch of 4 eggs with nest		0	0
+clutch, 5 eggs		0	0
 CM 12844A = ANTERIOR PART, VARIOUS ELEMENTS; CM 12844B = POSTERIOR PART, VARIOUS ELEMENTS, SAME SPECIMEN | Cast		0	0
 CM I L		0	0
 C-M3/		0	0
@@ -16174,20 +16193,24 @@ COLUMN OF 9+ VERTEBRAE, RIBS & GASTRALIA, A+B		0	0
 COLUMN WITH RIBS & GASTRALIA; TANGLED; JUVENILE; A+B		0	0
 COLUMNS OF 14 THORACIC & 7 CAUDAL VERTEBRAE; SOME RIBS & GASTRALIA; A+B		0	0
 COM (DRY)	whole animal	0	1
+com. skel. only		0	0
 comp skel		0	0
 comp skel | tissue		0	0
 comp skel + part flat skin		0	0
 comp skel + part flat skin | tissue		0	0
 comp skel only		0	0
 comp skel only | tissue		0	0
+Comp skel. only		0	0
 comp skeleton		0	0
 comp skeleton | comp skeleton		0	0
 comp skeleton | tissue		0	0
 COMP. R + L HORN CORE W FRONTAL, PARIETALS, TEMPORALS + ETHMOIDS		0	0
+Comp. skel only		0	0
 comp. skel.		0	0
 comp. skel. only		0	0
 comp. skel. only + dried gizzard (?)		0	0
 comp. skel. only + dried gizzard (?) | tissue		0	0
+Comp. Skell Only		0	0
 COMPL & INCOMPL LWR CHEEK TEETH		0	0
 compl R lwr mand+ L dentary		0	0
 compl skeleton		0	0
@@ -16336,6 +16359,7 @@ complete skel only + misc: wing		0	0
 complete skel only + misc: wing | tissue		0	0
 complete skel, scalp		0	0
 complete skel.		0	0
+Complete skel. only		0	0
 complete skel/art. flipper		0	0
 complete skel/art. flipper/x-rays R&L flippers		0	0
 complete skel/flat skin/tissue		0	0
@@ -21811,8 +21835,10 @@ eg	egg	0	1
 egagròpiles (sec)		0	0
 egg	egg	1	1
 Egg - 1		0	0
+Egg (1)		0	0
 EGG (DRY)	egg	0	1
 Egg (fragments)		0	0
+egg [10-12		0	0
 EGG | Cast		0	0
 egg | tissue		0	0
 Egg capsule		0	0
@@ -21834,6 +21860,10 @@ EGG NEST CLUTCH | Cast		0	0
 Egg sacs + embryos (mounted, in spirit)		0	0
 egg set	egg set	1	1
 Egg Set & Nest		0	0
+egg set (2)		0	0
+egg set (4)		0	0
+egg set (5)		0	0
+egg set (5-from 2 nests)		0	0
 egg set | tissue		0	0
 egg set, mount, nest	egg set | mount | nest	0	1
 egg set, nest	egg set | nest	0	1
@@ -21894,6 +21924,7 @@ Egg shells - 1		0	0
 EGG SHELLS (DRY)	egg shells	0	1
 EGG SHELLS EMBRYO (DRY)	embryo | egg shells	0	1
 egg(s)		0	0
+egg, 1		0	0
 EGG, COMPLETE CLUTCH		0	0
 EGG, COMPLETE CLUTCH | tissue		0	0
 EGG, COMPLETE CLUTCH, tissue	egg | complete clutch | tissue	0	1
@@ -21914,6 +21945,13 @@ eggs - 1		0	0
 Eggs - 1; Tissue - 100		0	0
 Eggs & Nest	eggs | nest	0	1
 EGGS (?)	eggs	0	1
+EGGS (1)		0	0
+Eggs (15)		0	0
+eggs (2)		0	0
+Eggs (3)		0	0
+EGGS (4)		0	0
+EGGS (6)		0	0
+EGGS (8)		0	0
 EGGS (DRY)	eggs	0	1
 EGGS | tissue		0	0
 Eggs + a series of young (in spirit)		0	0
@@ -21923,6 +21961,17 @@ EGGS IN ALCOHOL	eggs in alcohol	0	1
 EGGS OR NEST	eggs | nest	0	1
 EGGS&NEST	eggs | nest	0	1
 EGGS(?)	eggs	0	1
+eggs(1)		0	0
+eggs(2)		0	0
+eggs(3)		0	0
+eggs(4)		0	0
+eggs(5)		0	0
+eggs(6)		0	0
+eggs(7)		0	0
+eggs(8)		0	0
+eggs, 3		0	0
+eggs, 4		0	0
+eggs, 5		0	0
 EGGS, COMPLETE CLUTCH	eggs | complete clutch	0	1
 EGGS, COMPLETE CLUTCH | tissue		0	0
 EGGS, COMPLETE CLUTCH, tissue	eggs | complete clutch | tissue	0	1
@@ -21934,6 +21983,7 @@ EGGS, tissue	eggs | tissue	0	1
 eggs, Tissue number 10903		0	0
 eggs, Tissue number 10904		0	0
 eggs, Tissue number 2284 - 2287		0	0
+Eggs: 1 clutch 5 eggs		0	0
 EGGS?	eggs	0	1
 Eggset	eggs	0	1
 Eggset - 1	eggset - 1	0	1
@@ -29093,6 +29143,7 @@ EXCELLENT, LACKS TAIL		0	0
 EXCELLENT; A+B		0	0
 Exchange - 1		0	0
 excrements (sec)		0	0
+Exhibit mount		0	0
 exoccipita, basioccipital, neaural arch halves		0	0
 EXOCCIPITAL		0	0
 EXOCCIPITAL & BASIOCCIPITAL R		0	0
@@ -29249,6 +29300,7 @@ FEATHER & INSECT WING		0	0
 FEATHER | tissue		0	0
 Feather development (in spirit)		0	0
 FEATHER SHAFT		0	0
+feather tracks		0	0
 feather w part+counterpart		0	0
 FEATHER, A+B		0	0
 Feather, N		0	0
@@ -29962,6 +30014,7 @@ flat skin + skel + 3 feathers | tissue		0	0
 flat skin + skel + alc stomach		0	0
 flat skin + skel + alc stomach | tissue		0	0
 Flat Skin + Skeleton		0	0
+flat skin on card with plastic cover		0	0
 flat skin only		0	0
 Flat skin only - 1		0	0
 flat skin only | tissue		0	0
@@ -31653,8 +31706,10 @@ Fluid, cleaned in Stodsol 20 Apr, preserved 21 Apr; Syrinx, cleaned in Stodsol 2
 fluid, cleared and stained		0	0
 fluid, cleared and stained, tissue		0	0
 fluid, cleared and stained, tissue, tissue		0	0
-Fluid, Cloaca and feathers, Skeleton, Tissue, CFluid, dissected; Tissue; Syrinx		0	0
-organ discharge recording		0	0
+Fluid, Cloaca and feathers, Skeleton, Tissue, Cloaca and feathers		0	0
+fluid, digital image, electric organ discharge recording		0	0
+fluid, digital image, tissue, electric organ discharge recording		0	0
+Fluid, dissected; Tissue; Syrinx		0	0
 Fluid, Dry	dry | fluid	0	1
 fluid, dry skeleton		0	0
 fluid, dry skeleton, cleared and stained		0	0
@@ -31704,13 +31759,10 @@ Fluid, Karyotype	fluid | karyotype	1	1
 Fluid, Karyotype, Skeleton, Skin, Skull	fluid | karyotype | skeleton | skin | skull	1	1
 Fluid, Karyotype, Skeleton, Skull	fluid | karyotype | skeleton | skull	1	1
 Fluid, Karyotype, Skin	fluid | karyotype | skin	1	1
-Fluid, Karyotype, Skin, Skull	fluid | karyotype | skin | skull	1	1
-Fluid, Karyotype, Skin, Skull, tissue	fluid | karyotype | skin | skull | tissue	1	1
-Fluid, Karyotype, Skull	fluid | karyotype | skull	1	1
-Fluid, Karyotype, Skull, tissue	fluid | karyotype | skull | tissue	1	1
-Fluid, Karyotype, tissue	fluid | karyotype | tissue	1	1
-Fluid, karytype, skin, skull	fluid | karytype | skin | skull	1	1
-fluid, karytype, skull	fluid | karytype | skull	1	1
+Fluid, Karyotype, Skin, Skull	fluid | karyotype | skin | skfluid, karytype, skull	fluid | karytype | skull	1	1
+| skull	1	1
+	1	1
+ tissue	1	1
 Fluid, lesueurii	fluid	0	1
 Fluid, Microtechnique	fluid | microtechnique	1	1
 Fluid, Microtechnique, Hemipenis, Tissue	fluid | hemipenis | microtechnique | tissue	0	1
@@ -31726,8 +31778,11 @@ fluid, miscellaneous, tissue, miscellaneous		0	0
 Fluid, N		0	0
 Fluid, N; Skel, Y; Skin, Y		0	0
 Fluid, PART, Skin	fluid | partial skeleton | skin	0	1
-Fluid, PART, Skin, tissue	fluid | partial skeleton fluid, photograph, tissue		0	0
-n discharge recording, tissue		0	0
+Fluid, PART, Skin, tissue	fluid | partial skeleton | skin | tissue	0	1
+Fluid, PART, Skull	fluid | partial skeleton | skull	0	1
+fluid, photograph		0	0
+fluid, photograph, electric organ discharge recording, tissue		0	0
+fluid, photograph, tissue		0	0
 fluid, photograph, tissue, electric organ discharge recording, tissue		0	0
 Fluid, preserved in formalin and salt		0	0
 Fluid, preserved in formalin and salt, Y		0	0
@@ -31788,14 +31843,8 @@ Fluid, Tissue, Microtechnique	fluid | microtechnique | tissue	0	1
 Fluid, Tissue, Microtechnique, Hemipenis	fluid | hemipenis | microtechnique | tissue	0	1
 fluid, tissue, photograph		0	0
 fluid, tissue, photograph, tissue		0	0
-Fluid, Tissue, Recording	fluid | recording | tissue	0	1
-fluid, tissue, slide		0	0
-Fluid, Tissue, Tissue		0	0
-fluid, tissue, tissue, electric organ discharge recording		0	0
-fluid, tissue, tissue, tissue		0	0
-fluid, tissue, tissue, tissue, cleared and stained, tissue, tissue, tissue, tissue		0	0
-fluid, tissue, tissue, tissue, tissue		0	0
-fluid, tissue, tissue, tissue, tissue, tissue		0	0
+Fluid, Tissue, Recording	fluid |fluid, tissue, tissue, tissue, tissue, tissue		0	0
+tissue, tissue, tissue, tissue		0	0
 fluid, tissue, tissue, tissue, tissue, tissue, tissue		0	0
 fluid, tissue, tissue, tissue, tissue, tissue, tissue, tissue		0	0
 fluid, tissue, tissue, tissue, tissue, tissue, tissue, tissue, tissue		0	0
@@ -31807,8 +31856,12 @@ Fluid, viscera examined for parasites; stomach and contents preserved separately
 Fluid, viscera examined for parasites; stomach and contents preserved separately; Tissue		0	0
 Fluid, Y		0	0
 Fluid, Y; Eggset, Y		0	0
-Fluid, Y; FeathFluid, Y; Flat_skin, Y; Feather, Y; Fluid, Y		0	0
-r, Y		0	0
+Fluid, Y; Feather, Y		0	0
+Fluid, Y; Feather, Y; Flat_skin, Y; Feather, Y		0	0
+Fluid, Y; Flat_skin, skin from alcoholic, Y; Feather, Y		0	0
+Fluid, Y; Flat_skin, Y		0	0
+Fluid, Y; Flat_skin, Y; Feather, Y		0	0
+Fluid, Y; Flat_skin, Y; Feather, Y; Fluid, Y		0	0
 Fluid, Y; Fluid, N		0	0
 Fluid, Y; Fluid, Y		0	0
 Fluid, Y; Image, Y		0	0
@@ -31893,8 +31946,8 @@ FOOT | Cast		0	0
 Foot + other postcranial elements		0	0
 foot and osteoderms		0	0
 FOOT BONE		0	0
-FOOT BONE & M#/, TRITUBERCULAR WITH INTERNAL TUBERCLE ON THE CINGULUM & 2 INTERMEDIATE SMALL TUBERCLES; CROWNS SURROUNDED BY CINGULUM; TOOTH MAY BE SAID TO BE BUNODONT; LARGE SPECIMEN		0	0
-FOOT BONE FRAGS		0	0
+FOOT BONE & M#/, TRITUBERCULAR WITH INTERNAL TUBERCLE ON THE FOOT BONE FRAGS		0	0
+ATE SMALL TUBERCLES; CROWNS SURROUNDED BY CINGULUM; TOOTH MAY BE SAID TO BE BUNODONT; LARGE SPECIMEN		0	0
 Foot bones		0	0
 Foot Bones - 0		0	0
 Foot Bones - 1		0	0
@@ -31925,8 +31978,8 @@ foot prints		0	0
 Foot showing cancelbras tissue (in spirit)		0	0
 Foot showing interdigital gland (in spirit)		0	0
 FOOT, ?RIGHT		0	0
-Foofoot; mount		0	0
-in formalin)		0	0
+Foot, left (mounted, in formalin)		0	0
+foot; mount		0	0
 Footbone		0	0
 Footprint		0	0
 Footprints		0	0
@@ -32029,8 +32082,7 @@ Formalin - 347		0	0
 Formalin - 35		0	0
 Formalin - 36		0	0
 Formalin - 37		0	0
-Formalin - 39		0	0
-Formalin - 4		0	0
+Formalin - 39		0	Formalin - 4		0	0
 Formalin - 40		0	0
 Formalin - 41		0	0
 Formalin - 42		0	0
@@ -32078,7 +32130,8 @@ FOUR CAUDAL VERTEBRAE OF UNCERTAIN ASSOCIATION		0	0
 FOUR CAUDALS		0	0
 FOUR CERVICAL VERTEBRAE.		0	0
 FOUR COPROLITES		0	0
-Four foetuses attached to oneFOUR FRAGMENTS OF SHELL.		0	0
+Four foetuses attached to one placenta (in spirit)		0	0
+FOUR FRAGMENTS OF SHELL.		0	0
 four I		0	0
 four individuals in this piece		0	0
 four isolated cheek teeth		0	0
@@ -32351,6 +32404,7 @@ fragment of anterior upper molar		0	0
 Fragment of atlas		0	0
 Fragment of canine		0	0
 FRAGMENT OF COSTAL (COSTAL 2?).		0	0
+fragment of eggshell		0	0
 Fragment of furcula.		0	0
 Fragment of humerus		0	0
 Fragment of innominate		0	0
@@ -32636,6 +32690,7 @@ Freeze dried	freeze-dried	0	1
 freeze dried mount	freeze-dried mount	0	1
 freeze dried skin	freeze-dried skin	0	1
 freeze-dried	freeze-dried	1	1
+freeze-dried skin		0	0
 Freezer	frozen	0	1
 Freezer | tissue		0	0
 frill		0	0
@@ -32952,6 +33007,7 @@ FTE		0	0
 FTR BLDG.		0	0
 FTR RM 113		0	0
 FULCRAL SCALE, NC		0	0
+full clutch of eggs, 10 eggs		0	0
 full mount		0	0
 FULL SKELETON	full skeleton	0	1
 FULL SKELETON | tissue		0	0
@@ -36048,6 +36104,7 @@ HEAD, SPINE; A+B		0	0
 HEAD, TOOTH, A+B		0	0
 HEAD, VENTRAL; A+B		0	0
 HEAD, VERY LARGE, VENTRAL ASPECT		0	0
+head, wings		0	0
 Head, Wings and Foot		0	0
 head/shoulder mount		0	0
 HEAD/UPPER LIMBS/TRUNK (DRY)	head | trunk | upper limbs	0	1
@@ -36066,6 +36123,7 @@ HEAD+; A+B		0	0
 HEAD+ANTERIOR BODY (GLYCERIN)	anterior body (glycerin) | head (glycerin)	0	1
 HEAD+FEATH.	head | feathers	0	1
 HEAD+NECK (GLYCERIN)	head (glycerin) | neck (glycerin)	0	1
+Head+Right Wing+Legs		0	0
 HEADLESS ARTICULATED SKELETON, A+B		0	0
 headless skeleton		0	0
 HEADLESS SKELETON, A+B		0	0
@@ -47135,9 +47193,7 @@ Lead pipe (gnawed by rats)		0	0
 Leading edge of sternum.	leading edge of sternum	0	1
 LEDGY CONCRETIONS, TUFFACEOUS, FINE SAND, PARTIAL MAX, 3 P#/		0	0
 left  dentary with p1-m3		0	0
-left  upper molar		0	0
-left /c		0	0
-left /m?2		0	0
+left  upper molarleft /m?2		0	0
 left /m1 or m2		0	0
 Left /M1 talonid		0	0
 left /m2		0	0
@@ -47178,8 +47234,9 @@ left C1 and c1, associated		0	0
 Left C1 or px?		0	0
 left calcaneum		0	0
 left calcaneum frag		0	0
-left calcaneus		0	0Left Canine		0	0
-	0
+left calcaneus		0	0
+Left calcaneus.		0	0
+Left Canine		0	0
 left carnassial		0	0
 Left Carnassial Frag		0	0
 left carpometacarpus		0	0
@@ -47301,7 +47358,8 @@ left dentary w p2-p4 erupting, m1-m2		0	0
 left dentary w p2-p4+r dentary w p4-m2		0	0
 left dentary w p3 or p4		0	0
 left dentary w p3, m1, m3 in crypt		0	0
-left dentary w p3, m2-m4		0	0left dentary w p3-m1		0	0
+left dentary w p3, m2-m4		0	0
+left dentary w p3-m1		0	0
 left dentary w p3-m2		0	0
 left dentary w p3-m2 + right dentary w m1-m3		0	0
 left dentary w p3-m3		0	0
@@ -47426,7 +47484,8 @@ LEFT FIBULARE, NEARLY COMPLETE		0	0
 LEFT FIBULARE, PROXIMAL END		0	0
 left foot bones only	left foot bones	0	1
 Left fore and hind limb		0	0
-Leftleft frag mandible with /m3 and frag /m2		0	0
+Left fore limb.		0	0
+left frag mandible with /m3 and frag /m2		0	0
 left fragmentary innominate		0	0
 Left Frontal		0	0
 LEFT FRONTAL FRAGMENT		0	0
@@ -53742,7 +53801,8 @@ MS (>30)	mixed larvae and subadults	0	1
 MS (>40)	mixed larvae and subadults	0	1
 MS (>50)	mixed larvae and subadults	0	1
 MS (>60)	mixed larvae and subadults	0	1
-MS (>MS (10)	mixed larvae and subadults	0	1
+MS (>80)	mixed larvae and subadults	0	1
+MS (10)	mixed larvae and subadults	0	1
 MS (11)	mixed larvae and subadults	0	1
 MS (1-14)	mixed larvae and subadults	0	1
 MS (23)	mixed larvae and subadults	0	1
@@ -53850,8 +53910,7 @@ Murray L. Johnson & Claire Brown		0	0
 muscle		0	0
 Muscle - 1|Heart/Kidney|skeleton - 1|Liver		0	0
 Muscle - 1|skin - 1		0	0
-muscle (95% ethanol)		0	0
-muscle | one wing		0	0
+muscle (95% ethamuscle | one wing		0	0
 muscle | two wings		0	0
 muscle, brain, heart | one wing		0	0
 muscle, brain, heart, wing		0	0
@@ -54292,9 +54351,11 @@ nest and 4 eggs		0	0
 Nest and Eggs		0	0
 Nest and Eggs [Nest not found at this time]		0	0
 NEST GROUP	nests	0	1
+nest material/down		0	0
 nest only		0	0
 nest only | tissue		0	0
 Nest only.		0	0
+Nest plus clutch 4 eggs		0	0
 NEST WITH EGGS	eggs | nest	0	1
 NEST WITH EGGS | tissue		0	0
 NEST WITH EGGS, tissue	eggs | nest | tissue	0	1
@@ -54710,6 +54771,7 @@ One cervical vertebrae		0	0
 One costal, 5 limb fragments		0	0
 One dissected (mounted, in spirit)		0	0
 One Egg		0	0
+one egg only		0	0
 One half R astragalus.		0	0
 one horn		0	0
 one hundred sixty-six isolated cheek teeth		0	0
@@ -57637,6 +57699,7 @@ PARASYMPHYSIAL TEETH		0	0
 PARASYMPHYSIAL TOOTH		0	0
 PARASYMPHYSIAL TOOTH FRAG		0	0
 PAREITAL		0	0
+Parial skeleton		0	0
 parietal		0	0
 PARIETAL ?		0	0
 Parietal + right occipital fragments		0	0
@@ -57915,6 +57978,8 @@ PART, Skull	partial skeleton | skull	0	1
 part. cranium plus upper dentition		0	0
 PART. MUMMY	partial mummy	0	1
 PART. SK	partial skeleton	0	1
+part. skel only		0	0
+Part. skel. only		0	0
 part+counterpart of palate + latex peels		0	0
 partal maxilla w two cheek teeth		0	0
 PARTIAL		0	0
@@ -59681,6 +59746,7 @@ Partial Skeleton & Spread Wing & Tail & Feet		0	0
 PARTIAL SKELETON (DRY)	partial skeleton	0	1
 partial skeleton (hind limb) | partial skeleton (hind limb)		0	0
 PARTIAL SKELETON (LACKS ANT. F	partial skeleton	0	1
+Partial skeleton (legs)		0	0
 partial skeleton (muscle); other (surrogate puppet)		0	0
 Partial Skeleton (no skull)		0	0
 PARTIAL SKELETON (PELVIS?)		0	0
@@ -61739,6 +61805,7 @@ podials?		0	0
 PODIALS+INNOMINATE FRAG		0	0
 podials+patellae		0	0
 podials+tooth frags		0	0
+podotheca		0	0
 Polished section		0	0
 POOR BODY & DISARTICULATED PARTS OF SKULL		0	0
 POOR BROKEN HEAD, NC		0	0
@@ -64104,9 +64171,7 @@ Px/ frag		0	0
 Px/ frag.		0	0
 Px/ or dPx/		0	0
 Px/ or Mx/		0	0
-Px/ worn		0	0
-pygal		0	0
-PYGAL + PERIPHERAL 9-10		0	0
+Px/ woPYGAL + PERIPHERAL 9-10		0	0
 pygal frag		0	0
 PYGAL FRAG,PERIPHERAL FRAG		0	0
 pygal fragment		0	0
@@ -64160,8 +64225,9 @@ R  P3/		0	0
 R  premaxilla		0	0
 R #M/		0	0
 R & L C1/ (2)		0	0
-R & L CLR & L DENTARIES		0	0
-S, FRONTAL, PARIETAL, TEMPORAL, ETC.		0	0
+R & L CLEITHRUM & CLAVICLE, IN COUNTERPART		0	0
+R & L CRANIAL FRAGMENTS, FRONTAL, PARIETAL, TEMPORAL, ETC.		0	0
+R & L DENTARIES		0	0
 R & L DENTARIES; ASSOCIATED T#/; METAPODIALS; PHALANGES; EMBEDDED IN NODULE		0	0
 R & L DENTARY		0	0
 R & L DENTARY, R BROKEN M/1, M/2-M/3		0	0
@@ -64312,7 +64378,8 @@ R /p4 broken		0	0
 R /p4 frag.		0	0
 R /p4 post. frag.		0	0
 r /P4-M2		0	0
-R /px		0	0R /px frag.		0	0
+R /px		0	0
+R /px frag.		0	0
 R /tooth frag		0	0
 R ? LATERAL MARGINAL PLATE TWO		0	0
 R ? MAXILLA W M2-M3		0	0
@@ -64436,7 +64503,8 @@ R articular frag.		0	0
 R ARTICULAR,PREARTICULAR		0	0
 R ARTICULAR,PREARTICULAR,SURANGULAR		0	0
 R articular.		0	0
-R astrag		0	0R astrag frag		0	0
+R astrag		0	0
+R astrag frag		0	0
 R astrag, distal frag		0	0
 R astrag, lat frag		0	0
 R astrag, med frag		0	0
@@ -64581,7 +64649,8 @@ R cuboid.		0	0
 R cuneiform		0	0
 R CUNEIFORM, R UNCIFORM, L PHALANGE (NOTE HOLE, FLUORINE SAMPLE REMOVED), ACCESSORY PHALANGE		0	0
 R cuneiform.		0	0
-R DECIDUOUS I1/		0	R DECIDUOUS P/4		0	0
+R DECIDUOUS I1/		0	0
+R DECIDUOUS P/4		0	0
 R DECIDUOUS P4/		0	0
 R denatry, m1		0	0
 R dent frag with m1 or m2		0	0
@@ -72331,6 +72400,7 @@ right and left dentaries (fused) with teeth		0	0
 RIGHT AND LEFT FEMORA, TIBIAE, FIBULAE		0	0
 RIGHT AND LEFT FRONT FEET. MODELED AFTER CM 662. | Cast		0	0
 RIGHT AND LEFT JAWS		0	0
+right and left leg, left wing		0	0
 RIGHT AND LEFT PREMAXILLA FUSED		0	0
 RIGHT AND LEFT PROXIMAL HUMERI, DISTAL HUMERUS, PROXIMAL FEMUR, CERVICAL, SCUTES		0	0
 Right and Left Xiphiplastra		0	0
@@ -72888,6 +72958,7 @@ right upper premolar		0	0
 right vomer		0	0
 RIGHT VOMER | Cast		0	0
 right wing		0	0
+Right wing and tail		0	0
 right xiphiplastron and hypoplastron, male		0	0
 right xiphiplastron, female		0	0
 Right zygomatic		0	0
@@ -73485,6 +73556,7 @@ rug with half head mount		0	0
 rump skin		0	0
 Ryan Perala		0	0
 S		0	0
+s & s		0	0
 S | Yes		0	0
 S. A. Rohwer 5852		0	0
 S. A. Rohwer 5853		0	0
@@ -74821,6 +74893,7 @@ SKEL + TISSUE	skeleton | tissue	0	1
 Skel cast		0	0
 Skel cast - 1	skeleton cast - 1	0	1
 Skel cast, Y		0	0
+skel only		0	0
 Skel partial		0	0
 Skel partial - 1	skeleton partial - 1	0	1
 Skel partial - 1; Skin - 1	skeleton partial - 1 | skin - 1	0	1
@@ -76331,6 +76404,7 @@ SKELETON, FRAMED		0	0
 SKELETON, GOOD		0	0
 SKELETON, GREATER PART		0	0
 skeleton, hair, tissue		0	0
+Skeleton, head and tail		0	0
 SKELETON, HEAD SKIN	skeleton | head skin	0	1
 SKELETON, HEAD SKIN, FEATHERS	skeleton | head skin | feathers	0	1
 SKELETON, HEAD, WING, FOOT	skeleton | head | wing foot	0	1
@@ -79888,6 +79962,7 @@ SKELL,R+L DENTARY		0	0
 skel-no skull	skeleton	0	1
 SKELSTUDY+WING	skeleton | study skin | wing	0	1
 SKELSTUDY+WING | TWO TUBES: PECTORAL, LIVER, HEART		0	0
+SKELTON		0	0
 SKELTON, BONELESS SKIN	skeleton | skin	0	1
 SKELTON, HEAD SKIN	skeleton | head skin	0	1
 Skelton, skull and hair sample		0	0
@@ -80309,6 +80384,7 @@ skin (head and foot), wing		0	0
 skin (head and foot), wings		0	0
 Skin (Head and Left Wing) (Head and Left Wing) (Head and Left Wing)		0	0
 Skin (Head and neck only) (Head and neck only)		0	0
+skin (head only)		0	0
 Skin (Head only) (Head only), Skin sample (Head only), Skin sample		0	0
 Skin (Head only) (Head only), Skin sample, Skin sample (Head only)		0	0
 skin (head only) | muscle, liver, heart		0	0
@@ -80914,6 +80990,7 @@ skin and part skeleton | skin and part skeleton		0	0
 Skin and Partial Skeleton		0	0
 Skin and Partial Skeleton - 1		0	0
 skin and post cranial skeleton | skin and post cranial skeleton		0	0
+Skin and skel		0	0
 skin and skeleton	skin | skeleton	0	1
 Skin and Skeleton - 1		0	0
 Skin and Skeleton (no skull)		0	0
@@ -80953,6 +81030,7 @@ Skin Frozen . Freeze dried.		0	0
 skin impression		0	0
 skin in EtOH		0	0
 Skin of foot		0	0
+skin of hatchling		0	0
 Skin of head + skull with jaw (in skin)		0	0
 Skin of head + tongue + rest of the animal. (in spirit)		0	0
 Skin of head and neck (in spirit)		0	0
@@ -81473,6 +81551,7 @@ Skin, Fluid, Karyotype		0	0
 skin, fluid, skeleton		0	0
 skin, fluid, skull		0	0
 Skin, fragment with hairs (in spirit)		0	0
+skin, freeze-dried		0	0
 Skin, Gift		0	0
 Skin, gizzard saved		0	0
 Skin, gizzard saved, Y		0	0
@@ -81950,7 +82029,8 @@ skin, skeleton, syrinx, Tissue number 9296		0	0
 skin, skeleton, syrinx, Tissue number 9492		0	0
 skin, skeleton, syrinx, Tissue number 9747		0	0
 skin, skeleton, syrinx, Tissue number 9905		0	0
-skin, skeleton, syrinx, Tissue number B-12734 at Smithsonian		0skin, skeleton, syrinx, Tissue number not taken		0	0
+skin, skeleton, syrinx, Tissue number B-12734 at Smithsonian		0	0
+skin, skeleton, syrinx, Tissue number not taken		0	0
 skin, skeleton, syrinx, wingspread, Tissue number 3432		0	0
 skin, skeleton, syrinx, wingspread, Tissue number 9701		0	0
 Skin, Skeleton, Tissue	skeleton | skin | tissue	0	1
@@ -82005,8 +82085,7 @@ skin, skeleton, Tissue number 10517		0	0
 skin, skeleton, Tissue number 10518		0	0
 skin, skeleton, Tissue number 10519		0	0
 skin, skeleton, Tissue number 10520		0	0
-skin, skeleton, Tissue number 10521		0	0
-skin, skeleton, Tissue number 10522		0	0
+skin, skeleton, skin, skeleton, Tissue number 10522		0	0
 skin, skeleton, Tissue number 10523		0	0
 skin, skeleton, Tissue number 10524		0	0
 skin, skeleton, Tissue number 10525		0	0
@@ -98830,6 +98909,7 @@ skin, wingspread, Tissue number 7143		0	0
 skin, wingspread, Tissue number 9313		0	0
 skin, wingspread, Tissue number 9384		0	0
 skin, wingspread, Tissue number 9743 at Smithsonian		0	0
+skin, with pulled feathrs on breast		0	0
 skin, wwing, tiss, stom saved		0	0
 Skin, Y		0	0
 Skin, Y'		0	0
@@ -99825,6 +99905,7 @@ SKULL & VARIOUS PARTS, JUVENILE		0	0
 skull & vert frags		0	0
 skull & vertebrae	skull | vertebrae	0	1
 SKULL & VERTEBRAE (DRY)	skull | vertebrae	0	1
+Skull & Wings		0	0
 Skull ( muzzle portion) + tusks		0	0
 Skull (? frontals)		0	0
 Skull (? parietal)		0	0
@@ -102869,6 +102950,7 @@ SKULL, VERY GOOD CONDITION		0	0
 skull, Voicebox		0	0
 SKULL, WARD SYST. PAL. COLL. | Cast		0	0
 SKULL, WELL PRESERVED BUT DISTORTED		0	0
+skull, wings		0	0
 SKULL, WITH PARTIAL COUNTERPART, A+B		0	0
 Skull, zygomatic arches and ventral bullae missing; R C1/ P1/ P2/ P3/ P4/ M1/ M2; L I3/ P2/ P4/ M1/ M2/. L mandible c/1 p/2 p/3 p/4 m/1 m/2 m/3; R mandible c/1 p/1 p/2 p/3 m/1 m/2.		0	0
 SKULL,/I3-M3		0	0
@@ -103145,6 +103227,7 @@ skull/scalp/skin/forelimb	forelimb | scalp | skin | skull	0	1
 SKULL/SHELL (DRY)	shell | skull	0	1
 skull/skel/pelt	pelt | skeleton | skull	0	1
 skull/skel/scalp	scalp | skeleton | skull	0	1
+skull/skeleton		0	0
 skull/skin		0	0
 skull/skin alc	alcoholic | skin | skull	0	1
 skull/skin/tissue | tissue		0	0
@@ -103860,6 +103943,11 @@ SS - 1; SN - 1		0	0
 SS - 1; SO - 1		0	0
 SS - 1; SS - 1		0	0
 SS - 2		0	0
+SS - FD		0	0
+SS - Freeze dried		0	0
+SS (FD)		0	0
+SS (head only)		0	0
+SS (L wing only)		0	0
 SS | ??		0	0
 SS | KR		0	0
 SS | No		0	0
@@ -103869,10 +103957,21 @@ SS | skin | skull		0	0
 SS | skin | skull | tissue		0	0
 ss | tissue		0	0
 SS | Yes		0	0
+ss and partial skeleton		0	0
+ss and tongue		0	0
+SS Head only		0	0
 SS* - 1		0	0
 SS* - 1 | Tissue		0	0
+ss, head only		0	0
+SS, partial skeleton		0	0
 ss, tissue	skin | skull | tissue	0	1
+ss,head only		0	0
+SS,partial skeleton		0	0
+SS,Tongue		0	0
+ss: head, neck only		0	0
+SS;partial skeleton		0	0
 SSM		0	0
+sss		0	0
 sstissue		0	0
 ST	st	0	1
 st. skeleton | st. skeleton		0	0
@@ -104529,6 +104628,7 @@ Syrinx; Wings_tail; Tissue; Skel		0	0
 Syrinx; Wings_tail; Tissue; Skin		0	0
 Syrinx; Wings_tail; Tissue; Skin; Feather		0	0
 Syrinx; Wings_tail; Tissue; Skin; Skel		0	0
+Syrynx		0	0
 T		0	0
 T +ECTO	ectoparasite | tissue	0	1
 T#/		0	0
@@ -104803,8 +104903,7 @@ Tail showing oil glands (in spirit)		0	0
 Tail showing oil glands + anus (in spirit)		0	0
 Tail Skin - 1		0	0
 TAIL SPINE		0	0
-tail spines		0	0
-tail vertebra		0	0
+tail tail vertebra		0	0
 tail vertebrae		0	0
 Tail w/ Spines - 1		0	0
 Tail with rattle (in phenoxetol)		0	0
@@ -104886,7 +104985,8 @@ Tanned Skin - 1; Skeleton - 1		0	0
 Tanned Skin - 1; Skeleton - 1; Skeleton - 1		0	0
 Tanned Skin - 1; Skeleton - 1; Skeleton - 1; Skeleton - 1		0	0
 Tanned Skin - 1; Skeleton - 1; Tissue		0	0
-TaTanned Skin - 1; Skeleton - 1; UNSPECIFIED - 1		0	0
+Tanned Skin - 1; Skeleton - 1; Tissue - 1		0	0
+Tanned Skin - 1; Skeleton - 1; UNSPECIFIED - 1		0	0
 Tanned Skin - 1; Skull - 1		0	0
 tanned skin & skull		0	0
 tanned skin & skull + complete skel		0	0
@@ -105448,6 +105548,7 @@ Testis + epididymis (in spirit)		0	0
 TH	head | tail | body skin in alcohol | tissue	0	1
 THECODONT JAW		0	0
 THERE ARE 8 VIALS OF BONES UNDER THIS NUMBER		0	0
+thigh bone		0	0
 Thin section		0	0
 Thin section - 1	thin section - 1	0	1
 Thin section - 1; Skel - 1	thin section - 1 | skeleton - 1	0	1
@@ -109789,8 +109890,10 @@ wing	wing	1	1
 wing - 1; No data - 1		0	0
 wing  partial skeleton	partial skeleton | wing	0	1
 Wing & Foot		0	0
+wing & head		0	0
 wing & partial skeleton	partial skeleton | wing	0	1
 wing & skeleton	skeleton | wing	0	1
+wing & skull		0	0
 wing & tail	tail | wing	0	1
 wing & tail & partial skeleton	partial skeleton | tail | wing	0	1
 wing (2); Feet (2)		0	0
@@ -109832,6 +109935,7 @@ wing + skel + DNA (M)	DNA (muscle) | skeleton | wing	0	1
 wing + skeleton	skeleton | wing	0	1
 wing + tail	tail | wing	0	1
 Wing and Leg Bones only		0	0
+wing and tail		0	0
 Wing bone		0	0
 Wing- bone		0	0
 WING BONE FRAGS		0	0
@@ -109976,6 +110080,7 @@ wing+partial skel+DNA	DNA | partial skeleton | wing	0	1
 wing+partial skel+DNA(heart only)	DNA (heart) | partial skeleton | wing	0	1
 wings	wings	1	1
 wings  tail  leg	leg | tail | wing	0	1
+wings & head		0	0
 wings & tail	tail | wings	0	1
 Wings only		0	0
 wings -wing lab	wings	0	1

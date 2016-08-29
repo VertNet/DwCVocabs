@@ -12,6 +12,7 @@ Month	MonthNumber	DayOfYearForFirst	checked
  1	1	0	1
  1 Feb 	2	31	1
  10	10	273	1
+ 10 April	4	90	1
  10 August	8	212	1
  11			1
  12	12	334	1
@@ -110,6 +111,8 @@ May	5	120	1
 (Aug?)-	8	212	1
 (June?)	6	151	1
 (no			1
+(spring)			1
+)ct0ber	10	273	1
 */*/			1
 ?			1
 ?-			1
@@ -138,6 +141,7 @@ __MAR __1996	3	59	1
 1	1	0	1
 1 1926 or Aug 2			1
 1 Dec	12	334	1
+1 November	11	304	1
 1 Sept	9	243	1
 10	10	273	1
 10/*/			1
@@ -169,6 +173,7 @@ __MAR __1996	3	59	1
 15 May	5	120	1
 16			1
 16 Jun	6	151	1
+16 November	11	304	1
 17			1
 17 & 18			1
 17- 18 December	12	334	1
@@ -212,15 +217,21 @@ May			1
 1971 to September			1
 1972			1
 1972 early			1
+1972 or			1
 1973			1
 1973 (or			1
 1974			1
+1974 or			1
+1975 or			1
+1977			1
 1978 or			1
 1978 prior to 1 May			1
 1981			1
+1982 			1
 1982 September	9	243	1
 1983			1
 1985			1
+1985 and			1
 1986			1
 1987 and			1
 1989			1
@@ -234,12 +245,14 @@ May			1
 2 weeks of Jan	1	0	1
 20			1
 20 Aug	8	212	1
+20 January	1	0	1
 2000 i			1
 2002			1
 2003 or early			1
 2004 			1
 2010 i			1
 21			1
+21 January	1	0	1
 21 Jun	6	151	1
 21 May	5	120	1
 21 Nov 	11	304	1
@@ -249,6 +262,7 @@ May			1
 22			1
 22  Apr	4	90	1
 22 February	2	31	1
+22 January	1	0	1
 23			1
 23 & 25			1
 23 & Jun 25			1
@@ -284,13 +298,8 @@ May			1
 3 APR	4	90	1
 3 or 5			1
 3 or 7			1
-3 Sep	9	243	1
-3/			1
-3/*/			1
-30			1
-30 198			1
-30 July	7	181	1
-30 Jun	6	151	1
+3 Sep	9	30 Jun	6	151	1
+
 30 Nov 	11	304	1
 30 October	10	273	1
 31			1
@@ -299,10 +308,17 @@ May			1
 4	4	90	1
 4 Apr	4	90	1
 4 Aug	8	212	1
+4 August	8	212	1
 4 Feb	2	31	1
 4 Jul	7	181	1
+5	5	120	1
+55			1
+6	6	151	1
+6 Aug	8	212	1
+6 January	1	0	1
+6 Jul	7	181	1
+6/			1
 6/*/			1
-1	1
 6/12/			1
 6/17	6	151	1
 69			1
@@ -327,7 +343,9 @@ a Barcelona l'abril de			1
 AAPR	4	90	1
 about			1
 abr	4	90	1
+Actober	10	273	1
 ago	4	90	1
+alive February	2	31	1
 and			1
 and 15 Feb			1
 and August of			1
@@ -379,6 +397,7 @@ ca			1
 calcula que és de la dècada dels 90 (entre			1
 check			1
 Circa			1
+ctober	10	273	1
 Date			1
 date [probably 21			1
 date as			1
@@ -404,6 +423,8 @@ Dec 1979 	12	334	1
 Dec*	12	334	1
 dècada			1
 December	12	334	1
+Decemeber	12	334	1
+Decmeber	12	334	1
 dedueix entre 1990 i			1
 dedueix entre 2000 i			1
 dedueix entre el 1990 i			1
@@ -456,6 +477,7 @@ January 17	1	0	1
 January 6	1	0	1
 Januray	1	0	1
 JJUL	7	181	1
+Jube	6	151	1
 Jul	7	181	1
 Jul-	7	181	1
 Jul 1970	7	181	1
@@ -519,7 +541,9 @@ NOVC	11	304	1
 November	11	304	1
 November 1952	11	304	1
 November 2 or			1
+Novembr	11	304	1
 novembre	11	304	1
+Novermber	11	304	1
 NV	11	304	1
 o			1
 o igual			1
@@ -540,8 +564,7 @@ on label: 1997			1
 OPCT	10	273	1
 or			1
 or 10 May			1
-or 21			1
-or 23 May 			1
+or 21			1or 23 May 			1
 or 28 June			1
 or 29 June			1
 or 48			1
@@ -549,6 +572,7 @@ or 5 Nov 			1
 or 7 Apr			1
 or 9 Jan			1
 or August			1
+or December			1
 or July			1
 or Jun			1
 or June			1
@@ -566,7 +590,9 @@ recd December			1
 RecdDecember			1
 Received			1
 recol·lectat entre 1990 i			1
-SE[	9	2SEO	9	243	1
+SE[	9	243	1
+Semptember	9	243	1
+SEO	9	243	1
 Sep	9	243	1
 Sep-	9	243	1
 Sep  no			1
@@ -581,11 +607,13 @@ Septbember	9	243	1
 September	9	243	1
 September-	9	243	1
 Septemberr	9	243	1
+Septmeber	9	243	1
 SPE	9	243	1
 SPR			1
 SPR/SUM			1
 Spring			1
 Spring/Summer			1
+Station			1
 SUM			1
 Sumer			1
 Summer			1

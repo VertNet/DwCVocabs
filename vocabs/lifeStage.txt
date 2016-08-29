@@ -284,6 +284,7 @@ verbatimAgeClass	StandardAgeClass	standard	checked
 (checkmark)		0	0
 (chick)	chick	0	1
 (Downy chick)		0	0
+(F)		0	0
 (Fh)		0	0
 (Fh-) see card		0	0
 (finally) Vble trace to s. embry		0	0
@@ -351,12 +352,26 @@ verbatimAgeClass	StandardAgeClass	standard	checked
 ; OVIDUCT 3 MM WIDE, CONVOLUTED		0	0
 ?	unknown	0	1
 -?	unknown	0	1
+? - HY		0	1
+? 1971HY		0	1
+? 2nd yr.		0	1
 ? Adult	adult	0	1
+? age 2 days		0	1
+? age 6 days		0	1
+? chick	chick	0	1
+? chick 3 days old	chick	0	1
+? chick, 3 days old	chick	0	1
+? chick, almost fledged	chick	0	1
+? Imm.	immature	0	1
+? Juv.		0	0
 ? Juvenile		0	0
 ? Nest fell from a tree, probabl		0	0
 ? Nest fell from a tree, probably during storm		0	0
 ? Subad		0	0
-? Young		0	0
+? Young	young	0	1
+?/5 days old		0	1
+?/imm.	immature	0	1
+?/juv.	juvenile	0	1
 ??	unknown	0	1
 ?Ad		0	0
 ?Adult		0	0
@@ -583,7 +598,7 @@ _		0	0
 ± 7 days		0	0
 ± 8 days		0	0
 ✓		0	0
-0		0	0
+0		0	1
 0 - (deserted)		0	0
 0 - 0 - 0		0	0
 0 - Fresh		0	0
@@ -994,16 +1009,15 @@ _		0	0
 1 fresh, 2 just began		0	0
 1 fresh, 2 just showing blood		0	0
 1 fresh, 2 large embryo		0	0
-1 Fresh, 2 Large Embryos		0	0
-1 fresh, 2 showing blood		0	0
-1 fresh, 2 showing blood, 1 1/4		0	0
+1 Fre1 fresh, 2 showing blood, 1 1/4		0	0
 1 fresh, 2 showing blood, 2 smal		0	0
 1 fresh, 2 showing blood, 3 very		0	0
 1 fresh, 2 showing blood, 3 very small embryo		0	0
 1 fresh, 2 slight		0	0
 1 fresh, 2 small embryo, 3 showi		0	0
-1 fresh, 2 small em1 fresh, 2 started		0	0
-	0	0
+1 fresh, 2 small embryo, 3 showing blood.		0	0
+1 Fresh, 2 Small Embryos		0	0
+1 fresh, 2 started		0	0
 1 fresh, 2 to 4 small embryo		0	0
 1 fresh, 2 trace of blood		0	0
 1 Fresh, 2 Trace, 1 Very Sm. Emb		0	0
@@ -1121,17 +1135,18 @@ _		0	0
 1 incubated (2 young)		0	0
 1 incubated 10-12 days, 1 infert		0	0
 1 incubated 10-12 days, 1 infertile		0	0
-1 incubated
-begun		0	0
-1 incubated, 2 rotten, 3 apparen		0	0
 1 incubated, begun		0	0
+apparen		0	0
 1 infert., others far advanced b		0	0
 1 infert., others far advanced but to different de		0	0
 1 infert.; 1 eight days		0	0
 1 infert.; 1 slight; 2 soft embr		0	0
 1 infert.; 1 slight; 2 soft embryos		0	0
-1 infert1 Infert.; Others Soft Embryos		0	0
-
+1 infert.; 3 one-third inc.		0	0
+1 infert.; 3 soft embryos		0	0
+1 infert.; 4 about 4 days		0	0
+1 Infert.; Others Slight To Half		0	0
+1 Infert.; Others Soft Embryos		0	0
 1 Infert.; Others With Large Chi		0	0
 1 Infert.; Others With Large Chicks		0	0
 1 infertile		0	0
@@ -1247,10 +1262,8 @@ begun		0	0
 1 of 4 eggs-clutch failed		0	0
 1 old tadpole		0	0
 1 one-half; 1 one-eighth		0	0
-1 one-third; 1 highly inc.		0	0
-1 one-third; 3 infert.		0	0
-1 Or 2 Days		0	0
-1 or 2 days incubated		0	0
+1 one-third; 1 highly inc.	1 or 2 days incubated		0	0
+
 1 perfectly fresh, 1 slight, 1, 		0	0
 1 perfectly fresh, 1 slight, 1, much advanced, 1 h		0	0
 1 Pipped, 2 Nearly So		0	0
@@ -1259,7 +1272,10 @@ begun		0	0
 1 rotten; 2 half incubated		0	0
 1 rotten; 3 soft embryos		0	0
 1 rotton and 3 feathered embryos		0	0
-1 Ruddy started, the re1 Show Bld, 2 Show Bld, 3 Tiny Emb		0	0
+1 Ruddy started, the rest fresh		0	0
+1 runt egg, 5 half-grown young b		0	0
+1 Show Bld, 2 Show Bld, 3 Tiny E		0	0
+1 Show Bld, 2 Show Bld, 3 Tiny Emb		0	0
 1 Showing Blood		0	0
 1 showing blood, 1 infertile		0	0
 1 Showing Blood, 1 Large Embryo		0	0
@@ -1364,8 +1380,7 @@ begun		0	0
 1 to 4 large embryos, 5 small em		0	0
 1 to 4 large embryos, 5 small embryo, 6 medium emb		0	0
 1 to 5 days		0	0
-1 trace of blood, 2&3 small embr		0	0
-1 trace of blood, 2&3 small embryo		0	0
+1 trace of bloo1 trace of blood, 2&3 small embryo		0	0
 1 trace, 1 embryo		0	0
 1 Trace, 1 Very Sm. Emb., 2 Sm.emb.		0	0
 1 trace, 1 very small embryo, 2 		0	0
@@ -1377,7 +1392,9 @@ begun		0	0
 3 well formed embry		0	0
 1 unfertile
 3 well formed embryos		0	0
-1 unfertile1 v. small embryo, 1 infertile		0	0
+1 unfertile, 3 well formed embry		0	0
+1 v. slight, 1 trace, 4 fresh		0	0
+1 v. small embryo, 1 infertile		0	0
 1 Very fresh, 2 small embryo		0	0
 1 very large embryo (w/i 3-4 day		0	0
 1 very large embryo (w/i 3-4 days of hatching); 1 		0	0
@@ -1492,9 +1509,7 @@ begun		0	0
 1.75 years		0	0
 1/10		0	0
 1/18-2/22, 3 young hatched & fle		0	0
-1/18-2/22, 3 young hatched & fledged		0	0
-1/2		0	0
-1/2 - 1/3		0	0
+1/18-2/22, 3 young hatched & fledged1/2 - 1/3		0	0
 1/2 - 3/4		0	0
 1/2 & 1 addled		0	0
 1/2 (1 addled)		0	0
@@ -1683,10 +1698,9 @@ begun		0	0
 1=3-4 days; 1=1/4; 2=1/2		0	0
 10		0	0
 10 - 12 days		0	0
-10 - 15% incubated except one ro		0	0
-10 - 15% incubated except one rotten		0	0
-10 % (see card)		0	0
-10 % incubated		0	0
+10 - 1510 % incubated		0	0
+
+ept one rotten		0	0
 10 ADULT; 30 JUVENILE		0	0
 10 Days		0	0
 10 days (12)		0	0
@@ -1699,8 +1713,10 @@ begun		0	0
 10 days old	10 days old	0	1
 10 days post laying		0	0
 10 days, 1 infertile		0	0
-10 days, runt-addled		0	10 j.		0	0
-1 broken		0	0
+10 days, runt-addled		0	0
+10 days; Downy chick		0	0
+10 hatched, 1 broken		0	0
+10 j.		0	0
 10 jours		0	0
 10 K		0	0
 10 larva		0	0
@@ -1864,9 +1880,7 @@ begun		0	0
 13 yr.		0	0
 13.5 days of incubation		0	0
 13+ years		0	0
-1300-01 fresh, 1302 slight		0	0
-1303-05 slight; 1304 no developm		0	0
-1303-05 slight; 1304 no development		0	0
+1300-01 fresh, 1302 sl1303-05 slight; 1304 no development		0	0
 1306-07 fresh; 1308 very slight		0	0
 13-1/3; 4-1/4		0	0
 1312-14 slight; 1315 very slight		0	0
@@ -1876,7 +1890,8 @@ begun		0	0
 1322 fresh; 1323 slight; 1324 slight-viable		0	0
 1335 fresh; 1336-37 slight		0	0
 1351-52 Fresh; 1353 slight		0	0
-1357-58 Fresh; 1359 s1381 fresh; 1382 slight-- yolk l		0	0
+1357-58 Fresh; 1359 slight		0	0
+1381 fresh; 1382 slight-- yolk l		0	0
 1381 fresh; 1382 slight-- yolk lumpy; 1383 slight		0	0
 1384 slight; 1385 fresh; 1386 ve		0	0
 1384 slight; 1385 fresh; 1386 very slight		0	0
@@ -2180,8 +2195,7 @@ begun		0	0
 2 begun, 1 fresh		0	0
 2 begun, 1 half-hatched, 2 nearl		0	0
 2 begun, 2 a fifth		0	0
-2 begun, 2 fresh		0	0
-2 begun, 2 medium		0	0
+2 begun2 begun, 2 medium		0	0
 2 begun; 1 fresh		0	0
 2 begun; 3 fresh.		0	0
 2 big embryos, 3 small embryos, 		0	0
@@ -2194,7 +2208,8 @@ begun		0	0
 2 chicks + 1 egg		0	0
 2 chicks + 1 egg in nest		0	0
 2 chicks 4 weeks + 1 egg		0	0
-2 chicks approx2 chicks approx. 2.5 weeks old + 1 egg		0	0
+2 chicks approx. 2.5 weeks old +		0	0
+2 chicks approx. 2.5 weeks old + 1 egg		0	0
 2 chicks wfvz#5993 & 5994 + 1 eg		0	0
 2 chicks wfvz#5993 & 5994 + 1 egg broken		0	0
 2 chicks, 1 egg		0	0
@@ -2434,9 +2449,7 @@ begun		0	0
 2 hatched, 1 embryo		0	0
 2 hatched, one still being incub		0	0
 2 hatched, one still being incubated		0	0
-2 hatching, 2 infertile		0	0
-2 heavy, 1 clear		0	0
-2 heavy, 1 infertile		0	0
+2 hatching, 2 infertile		02 heavy, 1 infertile		0	0
 2 highly incubated, 2 infertile		0	0
 2 highly incubated; 1 infertile		0	0
 2 host fresh, 1 host started, 1 		0	0
@@ -2447,7 +2460,9 @@ begun		0	0
 2 immature		0	0
 2 incubated 5 days, 2 rotten		0	0
 2 incubated eggs		0	0
-2 i2 infert.; one 18 days gone		0	0
+2 incubated, 1 infertile		0	0
+2 infert. 2 advanced		0	0
+2 infert.; one 18 days gone		0	0
 2 Infertile		0	0
 2 infertile 2 about half		0	0
 2 Infertile, 1 3/4		0	0
@@ -3428,7 +3443,8 @@ begun		0	0
 3/4 adv.		0	0
 3/4 advanced		0	0
 3/4 begun		0	0
-3/4 complet3/4 Completed		0	0
+3/4 complete		0	0
+3/4 Completed		0	0
 3/4 days		0	0
 3/4 feathered		0	0
 3/4 gone		0	0
@@ -3593,8 +3609,8 @@ begun		0	0
 4 ADULT; 8 JUVENILE		0	0
 4 adults		0	0
 4 ADULTS AND 3 LARVAE		0	0
-4 adults, 19 juveniles		0	0
-4 adults, eggs		0	0
+4 a4 adults, eggs		0	0
+0	0
 4 advanced, runt infertile		0	0
 4 birds fledged on 20 June-nest 		0	0
 4 birds fledged on 20 June-nest only.		0	0
@@ -3732,9 +3748,8 @@ begun		0	0
 4 out of 5 eggs piped		0	0
 4 rotten, 1 badly incubated		0	0
 4 samples, all fragments; Layer 		0	0
-4 samples, all fragments; Layer A; Layer B; Layer 		0	0
-4 samples; Layers A-D		0	0
-4 showing blood		0	0
+4 samples, all fragments; Layer A; Layer B; Layer 		0	04 showing blood		0	0
+	0	0
 4 sli. 1 infert.		0	0
 4 slight, 1 infertile		0	0
 4 slight, 2 fresh		0	0
@@ -3746,7 +3761,8 @@ begun		0	0
 4 small embryos, 1 addled		0	0
 4 small embryos, 1 infertile		0	0
 4 small embryos, 1 very small em		0	0
-4 small embryos, 2 fre4 stages of incubation from 1/2 		0	0
+4 small embryos, 2 fresh		0	0
+4 stages of incubation from 1/2 		0	0
 4 stages of incubation from 1/2 to fresh		0	0
 4 started, 1 infertile		0	0
 4 tadpoles		0	0
@@ -3893,8 +3909,7 @@ begun		0	0
 4606 advanced; 4607 slight; 4608		0	0
 4606 advanced; 4607 slight; 4608 moderate		0	0
 4611-12; 4614 slight; 4613 moder		0	0
-4611-12; 4614 slight; 4613 moderate		0	0
-4622 fresh; 4623 slight		0	0
+4611-12; 4614 slight; 464622 fresh; 4623 slight		0	0
 4630 moderate; 4631 slight		0	0
 4632 moderate; 4633 slight		0	0
 4643 moderate; 4635 slight-dead?		0	0
@@ -4476,6 +4491,7 @@ A little hatched		0	0
 A little incubated		0	0
 A little over slight		0	0
 A little red		0	0
+A M	adult	0	1
 a- no development
 b- showing bl		0	0
 a- no development
@@ -4551,12 +4567,9 @@ about 1 day		0	0
 about 1 day incubated		0	0
 about 1 or 2 days		0	0
 About 1 Week		0	0
-about 1 week advanced		0	0
-about 1 week in all		0	0
-About 1 week, egg2- addled		0	0
-About 1 week.		0	0
-about 1.4 complete		0	0
 about 1.5 days		0	0
+	0
+d		0	0
 about 1.5 weeks		0	0
 About 1/2		0	0
 About 1/2 advanced		0	0
@@ -4566,8 +4579,12 @@ about 1/2 completed		0	0
 About 1/2 done		0	0
 about 1/2 hardening embryos		0	0
 About 1/2 hatched		0	0
-About 1about 1/2 or ten ten days		0	0
-e		0	0
+About 1/2 incubated		0	0
+About 1/2 incubated, set complet		0	0
+About 1/2 incubated, set complete		0	0
+About 1/2 incubation		0	0
+About 1/2 or more		0	0
+about 1/2 or ten ten days		0	0
 About 1/2 over		0	0
 About 1/2 to 2/3		0	0
 about 1/2, 2 infertile		0	0
@@ -4715,9 +4732,7 @@ About 5 days being in all		0	0
 About 5 days incubated		0	0
 about 5 days, all uniform		0	0
 About 5 days.		0	0
-about 5 days. 1/3		0	0
-about 5 to 8 days		0	0
-about 5 to 9 days		0	0
+about 5 dabout 5 to 9 days		0	0
 about 5%		0	0
 about 5/8		0	0
 About 50 %		0	0
@@ -4733,7 +4748,8 @@ About 60%		0	0
 About 7 Days		0	0
 About 7 Days Advanced		0	0
 about 7 or 8 days		0	0
-About 7 to 1About 7/8		0	0
+About 7 to 10 days		0	0
+About 7/8		0	0
 about 7-10 days		0	0
 about 75%		0	0
 About 8 Days		0	0
@@ -4911,8 +4927,7 @@ ad. (8+ yrs)		0	0
 Ad. ?		0	0
 Ad. ? 1 yr.		0	0
 Ad. ? 3 yr.		0	0
-Ad. [?]		0	0
-Ad. 1st & 2nd yr.		0	0
+Ad.Ad. 1st & 2nd yr.		0	0
 Ad. 2 yr.		0	0
 Ad. 3 yr.		0	0
 ad. after 3rd year		0	0
@@ -4931,6 +4946,7 @@ Ad.*		0	0
 ad.?		0	0
 Ad.Ad.		0	0
 ad/		0	0
+Ad/ ?		0	0
 ad/sa		0	0
 ad:		0	0
 ad: 11yr,7mo		0	0
@@ -5174,6 +5190,7 @@ Adult by plumage		0	0
 Adult by skull		0	0
 adult eclipse		0	0
 ADULT EXCEPT WHITE VENTRAL PLUMA		0	0
+Adult F	adult	0	1
 ADULT FEMALE	adult	0	1
 Adult Female (by size)	adult	0	1
 Adult Female (gravid)		0	0
@@ -5204,6 +5221,7 @@ Adult male by plumage	adult	0	1
 ADULT MALE PLUMAGE; BURSA FLESHY		0	0
 ADULT MALE PLUMAGE; NO BURSA		0	0
 ADULT MALE PLUMAGE; NO BURSA; SK		0	0
+adult male(?), gonad shot	adult	0	1
 Adult Male,  SVL 1020 mm, tail 9		0	0
 Adult Male, Liver tissue taken		0	0
 Adult Male, Lver tissue taken		0	0
@@ -5330,6 +5348,7 @@ ADULT.\		0	0
 adult/chick		0	0
 ADULT/EGG CASE		0	0
 adult/embryos		0	0
+adult/female	adult	0	1
 adult/halfgrown		0	0
 adult/half-grown		0	0
 adult/half-grown/larvae		0	0
@@ -6246,8 +6265,7 @@ Advanced in most.		0	0
 advanced in one
 3 rotten eggs		0	0
 Advanced in three		0	0
-advanced in two eggs		0	0
-advanced incubation		0	0
+advanced in two egadvanced incubation		0	0
 advanced one egg addled		0	0
 advanced one third		0	0
 Advanced one third.		0	0
@@ -6262,7 +6280,8 @@ advanced to feathers		0	0
 advanced to fresh		0	0
 Advanced to hatching		0	0
 advanced to pipping		0	0
-advanced to small embryadvanced two eggs. one egg addle		0	0
+advanced to small embryos		0	0
+advanced two eggs. one egg addle		0	0
 advanced two eggs. one egg addled.		0	0
 Advanced- uneven.		0	0
 Advanced unevenly		0	0
@@ -6406,8 +6425,7 @@ AHY by primary covert pattern an		0	0
 AHY Male	AHY	0	1
 AHY MALE;		0	0
 AHY/ASY	adult	0	1
-AHY/SY		0	0
-AHY; AGED BY BILL/PLUMAGE		0	0
+AHY/SY		0AHY; AGED BY BILL/PLUMAGE		0	0
 AHY; BURSA NOT FOUND		0	0
 AHY; BURSA NOT FOUND; SKULL 100%		0	0
 AHY; NO  BURSA; SKULL 100% OSS.		0	0
@@ -6422,7 +6440,8 @@ AHY?		0	0
 AHY? NO BURSA; SKULL 100% OSS.		0	0
 AIG		0	0
 albino		0	0
-AlbuAlbumen Thickening, No Trace Blood		0	0
+Albumen Thickening, No Trace Blo		0	0
+Albumen Thickening, No Trace Blood		0	0
 aleví		0	0
 alive		0	0
 All		0	0
@@ -6685,8 +6704,7 @@ AMMOCOETE LARVA		0	0
 AMMOCOETES		0	0
 AMMOECETE		0	0
 AMNOCETES		0	0
-Amplexing with UAZ50272		0	0
-Amplexing with UAZ50273		0	0
+Amplexing Amplexing with UAZ50273		0	0
 AN	adult	0	1
 an egg in nest on the 17th		0	0
 anm.		0	0
@@ -6705,7 +6723,8 @@ apparently begun		0	0
 apparently deserted		0	0
 Apparently Fresh		0	0
 Apparently old nest		0	0
-apparently variableapparently variable f.trace and slight		0	0
+apparently variable f.trace and 		0	0
+apparently variable f.trace and slight		0	0
 apparently variable; trace red &		0	0
 Appeared incubated		0	0
 appears to be advanced		0	0
@@ -6854,8 +6873,7 @@ began - fully formed embryos		0	0
 began - slight		0	0
 Began (1/2)		0	0
 Began (about 1/3)		0	0
-began (about 1/4)		0	0
-Began 3 days		0	0
+began (about 1/4)Began 3 days		0	0
 began 3 or 4 days		0	0
 Began 3-5		0	0
 began a few days		0	0
@@ -6875,7 +6893,8 @@ begin in fertile eggs, runt was 		0	0
 Beginnin		0	0
 Beginning		0	0
 Beginning all		0	0
-beginbeginning, one showed trace of b		0	0
+beginning to advanced		0	0
+beginning, one showed trace of b		0	0
 beginning, one showed trace of blood		0	0
 Beginning?		0	0
 Begub		0	0
@@ -7159,8 +7178,7 @@ bones formed (advanced)		0	0
 bones forming		0	0
 bordering "moderate"		0	0
 bordering Considerable		0	0
-Bordering moderate		0	0
-BORN 16 JUN 2003 MIAMI METROZOO		0	0
+Bordering moderate		0	0BORN 16 JUN 2003 MIAMI METROZOO		0	0
 Born 1965.  Euthanized 3 Novembe		0	0
 Born 1966.  Euthanized 3 Novembe		0	0
 Born 7/18/1971 to UAZ34319		0	0
@@ -7175,7 +7193,8 @@ Both about 5 days incubated		0	0
 Both addled		0	0
 Both adults present but not incu		0	0
 Both adults present but not incubating		0	0
-Both broke in nest; #1 fragments	Both broke in nest; #1 fragments; #2 fragments fro		0	0
+Both broke in nest; #1 fragments		0	0
+Both broke in nest; #1 fragments; #2 fragments fro		0	0
 Both eggs about 20% developed		0	0
 Both eggs about 25% developed		0	0
 Both eggs addled		0	0
@@ -7241,7 +7260,7 @@ breed'g.		0	0
 Breeding	adult	0	1
 breeding 2 yrs. old		0	0
 Breeding Adult	adult	0	1
-BREEDING ADULT FEMALE		0	0
+BREEDING ADULT FEMALE	adult	0	1
 breeding males		0	0
 BREEDING PLUMAGE; NO BURSA		0	0
 broke in nest		0	0
@@ -7289,8 +7308,7 @@ BURS NOT FOUND		0	0
 BURSA		0	0
 BURSA  1 X 1 MM;		0	0
 BURSA  17 X 8 MM		0	0
-BURSA  21 X 8 MM;		0	0
-BURSA  22 X10 MM;		0	0
+BURSA  2BURSA  22 X10 MM;		0	0
 BURSA  6 X 2 MM;		0	0
 BURSA  6 X 4 MM		0	0
 BURSA  NOT FOUND		0	0
@@ -8094,6 +8112,7 @@ chick 1-2day		0	0
 chick 2-5day		0	0
 Chick 3 days		0	0
 chick 3-4d		0	0
+chick 3-6 days	chick	0	1
 chick 4-5day		0	0
 chick beginning to form		0	0
 Chick born before start to blown		0	0
@@ -9291,24 +9310,111 @@ Eyrie contained 5 large young on collection date.		0	0
 Eyrie fledged young		0	0
 F	unknown	0	1
 F-	unknown	0	1
+F  Adult	adult	0	1
+F  Age 5 yrs.		0	1
+F (?)		0	0
+F (flacid)		0	1
 F (fresh?)		0	0
+F (full dev. eggs)	adult	0	1
+f (gran)		0	1
+f (Gran.)		0	1
+F (HY)		0	1
+F (LF 15x8)		0	1
+F (LF=0.7)		0	1
+F (OSE)		0	1
+F (probably)		0	1
 F ?	unknown	0	1
+F 10 days old		0	1
+F 1971HY		0	1
+F 1976 HY		0	1
+F 1977HY		0	1
+F 1979HY		0	1
+F 1980 HY		0	1
+F 1980HY		0	1
+F 1981 HY		0	1
+F 1981HY		0	1
+F 1st year		0	1
+F 1st yr.		0	1
+F 1st yr. HY		0	1
+F 3 yrs.		0	1
+F 5 yr.		0	1
+F 6 days old		0	1
+F 6 yrs.		0	1
+F 74HY		0	1
 F AD	adult	0	1
 F ad, F juv, M juv		0	0
+F Ad.	adult	0	1
+F Adult		0	0
 f advanced		0	0
+F Age 3 yrs.		0	1
+F age 31 days		0	1
+F Age 7 yrs.		0	1
+F Age 8 yrs.		0	1
+F age 9 yrs.		0	1
+F -class Ia-b		0	1
+F hatched about 1 June, 1979		0	1
 F IMM	immature	0	1
+F imm.		0	0
+F Imm. YY	immature	0	1
+F immature	immature	0	1
 F JUV	juvenile	0	1
 F JUV.	juvenile	0	1
+F juvenile		0	0
+F partial imm.	immature	0	1
+F S.Ad.	adult	0	1
+F subad.	subadult	0	1
+F subadult	subadult	0	1
+F(?)/sub-adult	subadult	0	1
+F(HY)		0	1
+F, 1st year		0	1
+F, Imm.		0	0
 F, NESTLING	nestling	0	1
 f.	unknown	0	1
+F/(yearling)	yearling	0	1
+F/08 days old		0	1
+F/1 day old		0	1
+F/10 days		0	1
+F/10 days old		0	1
+F/13 days		0	1
+F/14 days old		0	1
+F/17 months		0	1
+F/19 months		0	1
+F/2 days		0	1
+F/2 years		0	1
+F/20 days		0	1
+F/21 days		0	1
+F/25 days		0	1
+F/3 days old		0	1
+F/30 days		0	1
+F/4 yrs.GON=3.5x1.8		0	1
+F/40 days		0	1
+F/41 days		0	1
+F/42 days old		0	1
+F/6 days		0	1
+F/6 years		0	1
+F/8 days old		0	1
+F/8 years		0	1
+F/86 days		0	1
+F/9 days old		0	1
 F/AD	adult	0	1
+F/adult	adult	0	1
+F/class Ia		0	1
+F/first year		0	1
 F/FLEDGLING	fledgling	0	1
+F/HY		0	1
 F/IMM	immature	0	1
+F/imm.	immature	0	1
+F/imm.GON=16.1x5.2	immature	0	1
 F/immature	immature	0	1
 F/J	juvenile	0	1
 F/JUV	juvenile	0	1
+F/juv.	juvenile	0	1
 F/juvenile	juvenile	0	1
+F/NA	unknown	0	1
 F/NESTLING	nestling	0	1
+F/yearling	yearling	0	1
+F/ylg.	yearling	0	1
+F/yrlg.	yearling	0	1
 F?	unknown	0	1
 F?, juv	juvenile	0	1
 F?/AD	adult	0	1
@@ -9449,8 +9555,15 @@ Feathery embryos		0	0
 Fecound mous nu ocht		0	0
 Fell from palm tree in back yard		0	0
 female		0	1
+Female - ?		0	1
+Female - Adult	adult	0	1
+Female - HY		0	1
+Female - S.Ad.	subadult	0	1
 Female (?)		0	1
 Female (A.R. Phillips)		0	1
+female (HY)		0	1
+Female (LF=1.8)		0	1
+Female (LF=3.9)		0	1
 Female (RC2785) collected		0	1
 Female ?		0	1
 Female [= Male ?]		0	1
@@ -9459,11 +9572,13 @@ Female [Immature]	immature	0	1
 Female [Male ?]		0	1
 Female + Male + Nest		0	1
 Female 42 mm SVL		0	0
+Female adult	adult	0	1
 female breaking one every day or		0	1
 female breaking one every day or so; 98-SF04-ES-1,		0	1
 Female by plumage		0	1
 Female eggs N=11		0	0
 Female eggs N=15		0	0
+female fledgling	fledgling	0	1
 Female full od well developed eg		0	0
 Female Gravid		0	0
 female incubating		0	0
@@ -9487,6 +9602,7 @@ Female with eggs		0	0
 Female with embryos		0	0
 Female with four eggs, liver tis		0	0
 Female with six eggs		0	0
+female(imm)	immature	0	1
 female, 11 eggs removed		0	0
 Female, 2 ova 13mm		0	0
 Female, 2 ova 6mm no shell		0	0
@@ -9495,15 +9611,20 @@ Female, 4 eggs		0	0
 Female, 4 large ova 4X5 mm		0	0
 Female, 51 mm SVL		0	0
 Female, 6 eggs		0	0
+female, adult	adult	0	1
 Female, birth to 12 8/14-18/1989		0	0
 Female, ca 70 cm total length		0	0
 Female, coll gravid		0	0
 Female, eggs laid 8-9 May 1979		0	0
 Female, eggs N=8		0	0
+Female, flaccid		0	1
 Female, gave birth 08/19-19/1989		0	0
 Female, gave birth 09/11-15/1989		0	0
+female, granular		0	1
 Female, gravid		0	0
 Female, gravid w/ 42 eggs		0	0
+female, imm	immature	0	1
+female, immature?	immature	0	1
 Female, laid 27 eggs Aug 24, 198		0	0
 Female, ova 5mm		0	0
 Female, ova enlarged		0	0
@@ -9513,8 +9634,14 @@ Female, shed skin taken as tissu		0	0
 Female, SVL 198 mm, Tail 24 mm		0	0
 Female, SVL 33 mm, tail 31 mm		0	0
 Female, with 10 large eggs		0	0
+female?		0	0
+female-adult	adult	0	1
 Femalegave birth to 5 live, 2 st		0	0
+female-granular		0	1
 Female-Gravid		0	0
+female-HY		0	1
+female-imm.	immature	0	1
+female-juv	juvenile	0	1
 female-likeplumage		0	0
 FEMALES		0	0
 fersh		0	0
@@ -9646,6 +9773,7 @@ Fledgling Male	fledgling	0	1
 FLEDGLING, SKULL NOT OSSIFIED		0	0
 FLEDGLING/JUV PLUMAGE; BURSA 10 		0	0
 FLEDGLING/NESTLING; BURSA 5 X 4 		0	0
+fledgling/unknown	fledgling	0	1
 FLEDGLING; BURSA 10  X 6 MM		0	0
 FLEDGLING; BURSA 10 X 4 MM, SKUL		0	0
 FLEDGLING; BURSA 10 X 8 MM		0	0
@@ -9696,6 +9824,7 @@ FLEDLING; BURSA NOT FOUND		0	0
 Flesh		0	0
 FLG		0	0
 flycatcher just begun, titmouse 		0	0
+F-not stated on tag		0	1
 Foetal		0	0
 foetus		0	0
 foetus, 16 cm (4 months)		0	0
@@ -9963,8 +10092,9 @@ Fresh (1) to well begun		0	0
 Fresh (1); started (2); advanced		0	0
 Fresh (1); started (2); advanced (1)		0	0
 fresh (1/4)		0	0
-Fresh (17 eggs), Blood (2 eggs)		0	Fresh (2 days)		0	0
-ed)		0	0
+Fresh (17 eggs), Blood (2 eggs)		0	0
+fresh (2 days incubated)		0	0
+Fresh (2 days)		0	0
 Fresh (2 eggs + pieces of a thir		0	0
 Fresh (2 eggs + pieces of a third)		0	0
 Fresh (2 Lost)		0	0
@@ -10010,9 +10140,7 @@ fresh (early for this locality)		0	0
 Fresh (early season)		0	0
 fresh (egg contained 2 yolks)		0	0
 Fresh (eggs warm)		0	0
-Fresh (Fh.)		0	0
-fresh (host slight)		0	0
-Fresh (I am sure the quail laid 		0	0
+Fresh (FhFresh (I am sure the quail laid 		0	0
 Fresh (I am sure the quail laid her eggs first)		0	0
 fresh (incomplete clutch)		0	0
 fresh (incomplete set, however b		0	0
@@ -10105,7 +10233,8 @@ fresh a trace		0	0
 Fresh Abandoned		0	0
 fresh additional data on card		0	0
 fresh almost		0	0
-FFresh and (3) started		0	0
+Fresh and (2) started		0	0
+Fresh and (3) started		0	0
 Fresh and 1 started		0	0
 Fresh and 1/4 advanced		0	0
 Fresh and 2 Begun		0	0
@@ -10441,13 +10570,8 @@ fresh, 24 hours		0	0
 fresh, 2nd laying?		0	0
 fresh, 3 days		0	0
 fresh, 3 when first found		0	0
-fresh, about 10 days		0	0
-Fresh, about 8 days		0	0
-fresh, addled		0	0
-fresh, addled - 2/3 gone		0	0
-Fresh, addled and 1/2		0	0
-fresh, although Towhee on test 2		0	0
-fresh, and nest deserted		0	0
+fresfresh, and nest deserted		0	0
+2		0	0
 Fresh, apparently commenced		0	0
 fresh, began, embryo		0	0
 fresh, begun		0	0
@@ -10529,9 +10653,14 @@ fresh, slightly incubated		0	0
 Fresh, slightly to heavily inc.		0	0
 Fresh, Small Embryo		0	0
 fresh, small embryos		0	0
-fresh, fresh, trace in 2		0	0
-0	0
-0	0
+fresh, some started		0	0
+fresh, stale, slight		0	0
+Fresh, Started		0	0
+Fresh, started in 1 cowbird		0	0
+fresh, started, bloody		0	0
+fresh, trace		0	0
+fresh, trace in 1		0	0
+fresh, trace in 2		0	0
 Fresh, Trace In One		0	0
 Fresh, Trace Of Blood In Two		0	0
 fresh, unincubated		0	0
@@ -10577,10 +10706,8 @@ fresh/moderate-dead/infertile		0	0
 fresh/showing blood		0	0
 Fresh/slight		0	0
 fresh: 1
-showing blood: 1		0	0
-Fresh: 2,3; Trace of blood: 1,4,		0	0
-Fresh: 2,3; Trace of blood: 1,4,5,6		0	0
-fresh: 3		0	0
+showing blood: 1		0	0fresh: 3		0	0
+ce of blood: 1,4,5,6		0	0
 fresh: 4		0	0
 fresh: appeared stale when blowi		0	0
 fresh: appeared stale when blowing		0	0
@@ -10669,9 +10796,11 @@ fresh} infertile		0	0
 fresh=a,b / c=small development		0	0
 Fresh>trace Of Blood		0	0
 Fresh>very Small Embryo		0	0
-Fresh-1fresh58		0	0
-	0
-ood-1		0	0
+Fresh-1 day		0	0
+Fresh-1
+Sowing blood-1		0	0
+fresh-3days		0	0
+fresh58		0	0
 fresh-addled		0	0
 fresh--addled		0	0
 fresh-appreciable		0	0
@@ -10721,10 +10850,8 @@ From almost fresh to 1/2 incubat		0	0
 From beginning to small embryos		0	0
 From birds		0	0
 From duckling that perished duri		0	0
-From eyrie fledging at least 3 y		0	0
-From eyrie fledging at least 3 young		0	0
-From eyrie fledging young		0	0
-From eyrie which fledged 2 young		0	0
+From eyrie fledging at least 3 y	From eyrie which fledged 2 young		0	0
+	0
 from flush to very slight		0	0
 From fresh to 1/2		0	0
 From fresh to 1/4 incubated		0	0
@@ -10822,7 +10949,9 @@ Graded- Fresh to very badly		0	0
 Graduated: slight to 5 days		0	0
 grais (fertilized)		0	0
 gravid		0	0
-Gravid female		0	0Grow rings on bones indicate 5 y		0	0
+Gravid female		0	0
+greatly advanced		0	0
+Grow rings on bones indicate 5 y		0	0
 growing		0	0
 H	unknown	0	1
 H (eggs hatching)		0	0
@@ -10883,8 +11012,7 @@ half-grown/young		0	0
 Half-hatched		0	0
 half-incubated		0	0
 Halfway		0	0
-har embroys- runt inf.		0	0
-Hard		0	0
+har embroys- runt infHard		0	0
 hard embroys		0	0
 hard embryo		0	0
 hard embryos		0	0
@@ -10975,7 +11103,8 @@ Hatched And Addled		0	0
 Hatched and crushed		0	0
 Hatched at PWRC		0	0
 Hatched At Santa Cruz Predatory 		0	0
-HatchedHATCHED CA 1981 IN PARAGUAY; BOU		0	0
+Hatched At Santa Cruz Predatory Brg		0	0
+HATCHED CA 1981 IN PARAGUAY; BOU		0	0
 HATCHED CA 1999		0	0
 hatched chick		0	0
 hatched egg		0	0
@@ -11167,6 +11296,7 @@ hembra preg 2-2 emb 15mm	adult	0	1
 hembra SA	subadult	0	1
 hemipenes		0	0
 HEN PLUMAGE; BURSA NOT FOUND (DA		0	0
+hermaphrodidic		0	1
 HI		0	0
 high		0	0
 high degree		0	0
@@ -11555,6 +11685,7 @@ HY;BURSA 5 X 4 MM, SKULL 25% OSS		0	0
 HY?		0	0
 HY? (PLUMAGE DARK); BURSA NOT FO		0	0
 HY? NO BURSA; SKULL 100% OSS.		0	0
+Hybrid		0	1
 hybrid young		0	0
 HYBURSA NOT FOUND; SKULL 75% OSS		0	0
 hyem.		0	0
@@ -11619,6 +11750,7 @@ imm 2nd year		0	0
 imm based on very short bill len		0	0
 imm by plum		0	0
 Imm by plumage		0	0
+imm male	immature	0	1
 imm plumage		0	0
 imm SNFO	immature	0	0
 imm*		0	0
@@ -11639,6 +11771,8 @@ Imm. 5 days old		0	0
 imm. 6 days		0	0
 IMM. BY PLUMAGE		0	0
 imm. by skull	immature	0	0
+Imm. F		0	0
+imm. M	immature	0	1
 Imm. Nestling		0	0
 Imm. Nestling #1		0	0
 Imm. Nestling #2		0	0
@@ -11767,6 +11901,7 @@ immature feathers in crown		0	0
 Immature Female	immature	0	1
 Immature Female ?	immature	0	1
 IMMATURE FEMALE PLUMAGE; BURSA N		0	0
+immature M	immature	0	1
 Immature Male	immature	0	1
 immature or female		0	0
 IMMATURE PLUMAGE		0	0
@@ -11813,6 +11948,7 @@ Immature, skull windows	immature	0	1
 IMMATURE.	immature	0	1
 Immature. Skull 50% oss.	immature	0	1
 immature/chick		0	0
+immature/female	immature	0	1
 immature/juvenile		0	0
 Immature/skull oss.	immature	0	1
 Immature/skull unossified	immature	0	1
@@ -12350,6 +12486,7 @@ Juv. Estimated 3 days old		0	0
 Juv. Estimated 6 days old		0	0
 Juv. Estimated 8 days old		0	0
 Juv. Known to be less than 24 hr		0	0
+juv. male	juvenile	0	1
 Juv. mutant		0	0
 Juv. Nestling		0	0
 Juv. new hatched		0	0
@@ -13497,7 +13634,10 @@ Large embyos		0	0
 large embyros		0	0
 large emrbyos		0	0
 Large Feathered Embryos		0	0
-Large feLarge hairy embryo		0	0
+Large female w/ eggs		0	0
+Large fledgling		0	0
+large foeti in all		0	0
+Large hairy embryo		0	0
 large juv in down		0	0
 Large skull windows		0	0
 Large skull windows.		0	0
@@ -13545,10 +13685,8 @@ Larvae, lot of 16		0	0
 larvae, lot of 2		0	0
 larvae, lot of 3		0	0
 larvae, lot of 5		0	0
-larvae, lot of 6		0	0
-Larvae, lot of 7		0	0
-larvae. lot of 7		0	0
-larvae/adults		0	0
+larvae,larvae/adults		0	0
+0
 larvae/young		0	0
 larval	larva	0	1
 larval collection	larva	0	1
@@ -13642,25 +13780,117 @@ LT15; specimen in tact, Nest site in 6 exclosure		0	0
 LV	larva	0	1
 LY OSSIFIED		0	0
 M	unknown	0	1
+M (10x6.78)		0	1
+M (18x9.6)		0	1
+M (4.3x3.5)		0	1
+M (9x7)		0	1
 M (BASED ON PLUMAGE)	unknown	0	1
+M (gran)		0	1
+M (HY)		0	1
+M (IMM 3.9x1.2)		0	1
+m (lap)		0	1
+m (LT:1x1)		0	1
+M (TSE)		0	1
+M ?		0	0
 M [Ad]		0	0
+M 1971 HY		0	1
+M 1977 HY		0	1
+M 1978 HY		0	1
+M 1978HY		0	1
+M 1979 HY		0	1
+M 1979HY		0	1
+M 1980HY		0	1
+M 1981 HY		0	1
+M 1981HY		0	1
+M 1984HY		0	1
+M 1st Spring		0	1
+M 1st Winter		0	1
+M 1st year		0	1
+M 1st yr.		0	1
+M 2-3 days old		0	1
+M 3.5 yrs.		0	1
+M 3rd Winter		0	1
+M 4yrs.		0	1
 M AD	adult	0	1
+M Ad.	adult	0	1
+M adult		0	0
+M Adult.	adult	0	1
+M Age 10 yrs.		0	1
+M Age 12 yrs.		0	1
+M age 18 days		0	1
+M age 3 days		0	1
+M Age 4 yrs		0	1
+M age 4 yrs.		0	1
+M Age 7 yrs		0	1
+M Asult	adult	0	1
+M based on bill length		0	1
+M chick	chick	0	1
+M fledgling	fledgling	0	1
+M HY		0	1
+M HY'76		0	1
+M Im.		0	0
+M imm		0	0
+M imm.		0	0
+M immature		0	0
 M JUV	juvenile	0	1
 M Juv.		0	0
+M juvenile		0	0
 M M	adult	0	1
 M NESTLING	nestling	0	1
+M S.Adult?	subadult	0	1
+M SA	subadult	0	1
 m stages (many?)		0	0
+M subad.	subadult	0	1
+M subadult	subadult	0	1
+M YY		0	1
+M(?)		0	0
+m(3x2)		0	1
+M(HY)		0	1
+M(LAP)		0	1
+M, imm.		0	0
 M, JUV	juvenile	0	1
 m.		0	0
 M. embryo		0	0
+M/08 days old		0	1
+M/1 day		0	1
+M/1 day old		0	1
+M/10 days		0	1
+M/15 days old		0	1
+M/17 days old		0	1
+M/19 days old		0	1
+M/1st year		0	1
+M/2 days		0	1
+M/2 days old		0	1
+M/2 years		0	1
+M/24 days old		0	1
+M/3 days old		0	1
+M/30 days		0	1
+M/31 days old		0	1
+M/4 days		0	1
+M/41 days		0	1
+M/42 days old		0	1
+M/6 days old		0	1
+M/66 days		0	1
 M/AD	adult	0	1
+M/adult	adult	0	1
+M/adult (?)	adult	0	1
 M/F	unknown	0	1
+M/first year		0	1
 M/FLEDGLING	fledgling	0	1
+M/HY		0	1
 M/IMM	immature	0	1
+M/imm.	immature	0	1
 M/immature	immature	0	1
 M/JUV	juvenile	0	1
+M/juv.	juvenile	0	1
 M/juvenile	juvenile	0	1
-M/NESTLING	nestling	0	1
+M/NA	unknown	0	1
+M/NESTLING	nestling	M/second year		0	1
+M/sub-ad.	subadult	0	1
+M/sub-adult	subadult	0	1
+M/third year		0	1
+M/yearling	yearling	0	1
+M/yrlg.	yearling	0	1
 M?	unknown	0	1
 M?, juv	juvenile	0	1
 M~	unknown	0	1
@@ -13692,21 +13922,38 @@ macho test 5x4	unknown	0	1
 macho test 8x4	unknown	0	1
 macho test esc	adult	0	1
 Majority fresh		0	0
+make		0	1
 male		0	1
 Male - 6 months	6 months	0	1
+male (?)		0	0
+Male (1st year)		0	1
+male (3.7x2.4)		0	1
+Male (6.0x4.4)		0	1
+male (HY)		0	1
+male (LAP)		0	1
 Male ?		0	1
 Male ?, testes 3mm???		0	0
 Male [Adult]	adult	0	1
 Male [Female ?]		0	1
 Male 51 mm SVL		0	0
-MALE ADULT		0	0
+MALE ADULT	adult	0	1
 Male by plumage		0	1
+male downy young	chick	0	1
 male in transitional plumage		0	0
 Male incubating about 10 AM		0	1
 Male incubating. Eggs missing.		0	1
+male juvenile	juvenile	0	1
 Male of pair		0	0
+male(imm.)	immature	0	1
+male, ?	unknown	0	1
+Male, 2nd winter		0	1
 Male, 31 mm SVL		0	0
 Male, 52 mm SVL, 28 mm tail		0	0
+male, adult	adult	0	1
+male, HY		0	1
+male, HY?		0	1
+Male, Imm.	immature	0	1
+male, immature	immature	0	1
 Male, liver tissue collected		0	0
 Male, Liver tissue taken		0	0
 Male, SVL 319mm, Tail 64 mm		0	0
@@ -13718,7 +13965,10 @@ Male, Tissue-liver sample		0	0
 Male, Tissue-Liver sample taken		0	0
 Male, Tissue-scale clip		0	0
 Male, Tissue-scale clips		0	0
+male, yy		0	1
+male/adult	adult	0	1
 male?		0	0
+Male6		0	1
 Males + Females		0	1
 Many eggs, fresh, showing blood,		0	0
 Many eggs, fresh, showing blood, small to large em		0	0
@@ -13817,6 +14067,7 @@ Mixed clutches		0	0
 MIXED JUVENILE AND AD		0	0
 MIXED LOTS		0	0
 Mixed Sexes		0	1
+mle		0	1
 MM	unknown	0	1
 MO BURSA		0	0
 mo. old juv.		0	0
@@ -13900,6 +14151,30 @@ n/a; Skull pneumatized		0	0
 N/R		0	0
 N0 BURSA		0	0
 Na		0	0
+NA (HY)		0	1
+NA 3rd year		0	1
+NA Ad.	adult	0	1
+NA chick	chick	0	1
+NA Imm.	immature	0	1
+NA Juv.	juvenile	0	1
+NA/1 day		0	1
+NA/1 day old		0	1
+NA/1 month		0	1
+NA/10 days old		0	1
+NA/11 days old		0	1
+NA/3 days old		0	1
+NA/3 weeks		0	1
+NA/4 days old		0	1
+NA/5 days		0	1
+NA/5 days old		0	1
+NA/5 months		0	1
+NA/6 days		0	1
+NA/7 days old		0	1
+NA/9 days		0	1
+NA/imm.	immature	0	1
+NA/juv.	juvenile	0	1
+NA/nestling	nestling	0	1
+NA/sub-adult	subadult	0	1
 Nagot		0	0
 nat		0	0
 nat.		0	0
@@ -14116,6 +14391,7 @@ newborn		0	0
 newl		0	0
 newly commeneced		0	0
 newly hatched		0	0
+newly hatched chick	chick	0	1
 NEWLY HATCHED CHICK; BURSA 12 X 		0	0
 Newly laid		0	0
 NH		0	0
@@ -14539,8 +14815,8 @@ not started		0	0
 Not stated		0	0
 not verified		0	0
 not very advanced or none (blown		0	0
-not vnot visible		0	0
-ne (blown 2 months later)		0	0
+not very advanced or none (blown 2 months later)		0	0
+not visible		0	0
 not well developed (no blood)		0	0
 not yet begun		0	0
 NOTES		0	0
@@ -14654,8 +14930,8 @@ one egg 1/3 incubated		0	0
 One egg addled		0	0
 one egg addled- see data card		0	0
 one egg addled, other nearly com		0	0
-one egg addled, other nearly complete		0	0
-One egg addled, two one half		0	0
+onOne egg addled, two one half		0	0
+		0	0
 One egg addled; all other eggs b		0	0
 One egg addled; all other eggs broke in nest. Frag		0	0
 One egg addled; one slight; 2 fo		0	0
@@ -14684,7 +14960,8 @@ One egg hatched in wild, but probably others were 		0	0
 One egg hatched in wild, but sam		0	0
 One egg hatched in wild, but sample may include fr		0	0
 One egg hatched in wild. Presuma		0	0
-One egg hatched in wild. PrOne egg hatched. Sample must con		0	0
+One egg hatched in wild. Presumably there were oth		0	0
+One egg hatched. Sample must con		0	0
 One egg hatched. Sample must contain fragments of 		0	0
 One egg hatching, 3 infertile		0	0
 One egg hatching; One egg infert		0	0
@@ -14761,8 +15038,7 @@ One Half		0	0
 one -half		0	0
 one half advanced		0	0
 One half and 2/3		0	0
-one half in all		0	0
-one half incu		0	0
+one halone half incu		0	0
 One half incubated		0	0
 One half or more		0	0
 one half or over		0	0
@@ -15073,8 +15349,7 @@ positive
 fresh		0	0
 positive, fresh		0	0
 possible adult(s)		0	0
-Possible around 24 May 93		0	0
-possible juvenile(s)		0	0
+Possible possible juvenile(s)		0	0
 POSSIBLY A SECOND YEAR BIRD		0	0
 POSSIBLY ADULT	adult	0	1
 Possibly crushed egg		0	0
@@ -15122,8 +15397,8 @@ probable adult female		0	0
 probable AHY		0	0
 probably  first year		0	0
 probably 1/2		0	0
-proProbably 10 days		0	0
-
+probably 1/3 advanced		0	0
+Probably 10 days		0	0
 Probably 7 days (eyes in embryos		0	0
 Probably 7 days (eyes in embryos)		0	0
 Probably addled		0	0
@@ -15271,7 +15546,8 @@ Rotten		0	0
 Rotten about two weeks.		0	0
 rotten and deserted		0	0
 rotten egg, deserted nest		0	0
-Rotten egg. A young bird Rotten- eggs had been deserted f		0	0
+Rotten egg. A young bird was alo		0	0
+Rotten- eggs had been deserted f		0	0
 Rotten- eggs had been deserted for about 2 months		0	0
 Rotten large embryos		0	0
 Rotten- no development. 2 young 		0	0
@@ -15537,8 +15813,7 @@ Six days advanced		0	0
 Six Days Incubated		0	0
 Six eggs rotten (tho begun); two		0	0
 Six eggs rotten (tho begun); two eggs far advanced		0	0
-six fresh one ten days		0	0
-six fresh, two advanced		0	0
+six fresh one tensix fresh, two advanced		0	0
 sixteen days old.		0	0
 SK. 10 %		0	0
 skel		0	1
@@ -15580,7 +15855,8 @@ SKULL 0% OSS; BURSA 4 X 3 MM;		0	0
 SKULL 0% OSS; BURSA 5 X 4 MM;		0	0
 SKULL 0% OSS; BURSA 6 X 3 MM;		0	0
 SKULL 0% OSS; BURSA 6 X 4 MM		0	0
-SKULL SKULL 0% OSS; BURSA 9 X 4 MM;		0	0
+SKULL 0% OSS; BURSA 8 X 6 MM;		0	0
+SKULL 0% OSS; BURSA 9 X 4 MM;		0	0
 SKULL 0% OSS; BURSA FLESHY, 6 X 		0	0
 SKULL 0% OSS; BURSA NOT FOUND;		0	0
 SKULL 0% OSS; NO BURSA		0	0
@@ -16353,9 +16629,8 @@ slight
 slight-(traces blood)		0	0
 Slight, 1 Addled		0	0
 slight, 1 egg dented		0	0
-Slight, 1 fresh		0	0
-Slight, 1 host infertile		0	0
-Slight, 1 Infertile		0	0
+Slight, 1 fresSlight, 1 Infertile		0	0
+0	0
 Slight, 1 RW infertile		0	0
 slight, 2 infertile		0	0
 Slight, 2-3 days		0	0
@@ -16398,8 +16673,9 @@ slight. One egg on March 22.		0	0
 slight/addled to moderate		0	0
 slight/blood		0	0
 slight/dead to addled/no dev		0	0
-slight/dead to advanced		0	0slight/dead to moderate		0	0
-		0	0
+slight/dead to advanced		0	0
+slight/dead to advanced-viable		0	0
+slight/dead to moderate		0	0
 Slight/moderate		0	0
 slight/rotten		0	0
 Slight/small embryos		0	0
@@ -16503,9 +16779,8 @@ Small & medium embryos		0	0
 Small & Very Small Embryos		0	0
 Small (dead) embryo #2
 infertil		0	0
-small ad.	young adult	0	1
-small advanced - medium, about 1		0	0
-Small and large embryos		0	0
+smSmall and large embryos		0	0
+ 1		0	0
 small and medium embryos		0	0
 Small bird formed		0	0
 small bloody embryos		0	0
@@ -16547,7 +16822,9 @@ small embryos - 2		0	0
 small embryos - sterile		0	0
 small embryos (1 infertile)		0	0
 small embryos (2 unfertile)		0	0
-ssmall embryos (about 7 days)		0	0
+small embryos (4 days)		0	0
+small embryos (5 days)		0	0
+small embryos (about 7 days)		0	0
 Small embryos (caustic)		0	0
 small embryos (eggs incubated 4 		0	0
 Small embryos (eyes)		0	0
@@ -16638,9 +16915,8 @@ snco/base of bill bright yellow		0	0
 snco/bill black		0	0
 snco; Adult		0	0
 snco?		0	0
-SNFO		0	0
-SNFO 1 st winter		0	0
-SNFO ad		0	0
+SNFOSNFO ad		0	0
+er		0	0
 SNFO ad breeding		0	0
 SNFO, imm		0	0
 SNO		0	0
@@ -16687,7 +16963,8 @@ soft formed embryos		0	0
 Soft small embryos		0	0
 Soft tiny embryos		0	0
 soft to hard embryos		0	0
-soft, well formeSoft, well formed embryos- 1 wee		0	0
+soft, well formed embryos		0	0
+Soft, well formed embryos- 1 wee		0	0
 Soft, well formed embryos- 1 week		0	0
 Soft, well formed embryos.		0	0
 soft, well-formed embryos		0	0
@@ -16759,6 +17036,7 @@ spoiled		0	0
 spotted egg		0	0
 Squabed just formed		0	0
 Sr. legade		0	0
+SS		0	1
 stage 1		0	0
 Stage of Incubation - 1st		0	0
 Stage of Incubation - Beginning		0	0
@@ -16783,8 +17061,7 @@ Started (-1/4)		0	0
 Started (1/8)		0	0
 started (3 day)		0	0
 started (3-5 days)		0	0
-Started (4)		0	0
-started (about 1/2)		0	0
+Sstarted (about 1/2)		0	0
 started (about 1/5)		0	0
 Started (blood)		0	0
 started (ea. 1/8)		0	0
@@ -16945,8 +17222,7 @@ SUBADULT ; BURSA 35 X 15 MM;		0	0
 SUBADULT ; BURSA NOT FOUND;		0	0
 SUBADULT ; SKULL 1/2 OSS		0	0
 Sub-adult ?		0	0
-Sub-Adult [Male ?]	subadult	0	1
-Sub-adult [Sex ?]	subadult	0	1
+SSub-adult [Sex ?]	subadult	0	1
 subadult \ adult		0	0
 subadult | Euring 10		0	0
 subadult | Euring 3		0	0
@@ -16989,7 +17265,8 @@ sub-adults	subadult	0	1
 Subadultt		0	0
 SUB-DEFINITIVE PLUMAGE; BURSA 10		0	0
 SUB-DEFINITIVE PLUMAGE; BURSA 2 		0	0
-SUB-DSUB-DEFINITIVE PLUMAGE; BURSA 8 		0	0
+SUB-DEFINITIVE PLUMAGE; BURSA 6 		0	0
+SUB-DEFINITIVE PLUMAGE; BURSA 8 		0	0
 SUBDEFINITIVE PLUMAGE; NO BURSA 		0	0
 SUB-DEFINITIVE PLUMAGE; NO BURSA		0	0
 SUBSADULT PLUMAGE (TAIL DARK); B		0	0
@@ -17500,6 +17777,8 @@ U	unknown	0	1
 u.slight		0	0
 UAZ egg clutch 3, 1967		0	0
 UKN	unknown	0	1
+uknown	unknown	0	1
+un	unknown	0	1
 unborn		0	0
 uncertain		0	0
 uncertain & hatched		0	0
@@ -17530,12 +17809,32 @@ Unincubated		0	0
 Unincubated And Slightly Addled		0	0
 unincubated?		0	0
 Unk	unknown	0	1
+unk  juv.	juvenile	0	1
+unk (imm. ?)	immature	0	1
+UNK imm.	immature	0	1
+unk, adult	adult	0	1
+Unk, imm	adult	0	1
+unk, imm.	adult	0	1
+unk, mixed symbol	unknown	0	1
+unk, probably M	unknown	0	1
 unk.	unknown	0	1
+unk. - Imm	immature	0	1
+unk. juvenile	juvenile	0	1
+Unk., (HY)		0	1
+unk., Juv.	juvenile	0	1
 unkn.		0	0
 unknown	unknown	1	1
+unknown (downy young 1-3 days ol	chick	0	1
+unknown (juvenile)	juvenile	0	1
+unknown adult	adult	0	1
 unknown age	unknown	0	1
+unknown downy young	chick	0	1
+unknown fledgling	fledgling	0	1
 Unknown If Fertile (3 Broken)		0	0
+unknown juvenile	juvenile	0	1
+unknown(imm.)	immature	0	1
 Unknown, nest abandoned		0	0
+unknown/adult	adult	0	1
 Unknown: egg cracked open and dr		0	0
 Unknown: egg cracked open and dried.		0	0
 Unknown; from prior year		0	0
@@ -17667,9 +17966,9 @@ various stages (fresh-lain egg, large tough embryo		0	0
 Various stages of incubation fro		0	0
 Various stages of incubation from fresh to advance		0	0
 various: 1st egg laid 4/12, and 		0	0
-vvarious; fresh or advanced		0	0
-	0	0
-9		0	0
+various: 1st egg laid 4/12, and last 4/29		0	0
+various: from nearly fresh to we		0	0
+various; fresh or advanced		0	0
 Various; one fresh		0	0
 Various-about 1 week		0	0
 varius up to half		0	0
@@ -17744,9 +18043,7 @@ Very heavy.		0	0
 Very heavy. 1 broken		0	0
 very heavy: 1 not saved		0	0
 very heavy?		0	0
-very imm		0	0
-Very incubated		0	0
-Very Large Embrios		0	0
+very immVery Large Embrios		0	0
 Very large embryo		0	0
 Very Large Embryos		0	0
 very large embryos near hatching		0	0
@@ -17808,8 +18105,9 @@ very slight, slight, no developm		0	0
 very slight, slightly bloody		0	0
 Very slight, two days		0	0
 Very slight; Addled		0	0
+Very slight-appreciable		0	0
+Very Slightly		0	0
 Very slightly formed		0	0
-0
 Very slightly incubated		0	0
 very slightly incubated, one a l		0	0
 very slightly incubated, one a little more so		0	0
@@ -17928,7 +18226,8 @@ WCH:176 mm.; age by plumage		0	0
 WCH:178 mm.; age by plumage		0	0
 WCH:193mm, strongly arced.; age 		0	0
 WCH:216 mm.; age by plumage		0	0
-WCH:232 mm.; age by plumage		0	0WCH:232mm.; age by plumage		0	0
+WCH:232 mm.; age by plumage		0	0
+WCH:232mm.; age by plumage		0	0
 WCH:260 mm.; age by plumage		0	0
 WCH:264mm.; age by plumage		0	0
 WCH:274 mm.; age by plumage		0	0
@@ -18046,7 +18345,8 @@ Well advanced.		0	0
 Well advanced; embryos formed		0	0
 Well along		0	0
 Well along - double yolk		0	0
-WelWell along (5-6 days)		0	0
+Well along (1/4)		0	0
+Well along (5-6 days)		0	0
 Well along 1/4		0	0
 well along 90%		0	0
 well along about 1/3		0	0
@@ -18295,5 +18595,6 @@ Young:last molar missing		0	0
 young?		0	0
 YOY		0	0
 YS	yolk sac	0	1
+yy male		0	1
 Zero		0	0
 Zooid		0	0

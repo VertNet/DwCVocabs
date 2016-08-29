@@ -130,6 +130,7 @@ M[F]	unknown	0	1
 ?	in question	0	1
 --?	in question	0	1
 -?-	in question	0	1
+? - HY		0	1
 ? (F)	in question	0	1
 ? (M)	in question	0	1
 ? (sign blurred)	in question	0	1
@@ -142,19 +143,32 @@ M[F]	unknown	0	1
 ? [surely F]	in question	0	1
 ? = F	in question	0	1
 ? = M	in question	0	1
+? 1971HY		0	1
+? 2nd yr.		0	1
 ? AD.	in question	0	1
+? age 2 days		0	1
+? age 6 days		0	1
 ? br.	in question	0	1
+? chick		0	1
+? chick 3 days old		0	1
+? chick, 3 days old		0	1
+? chick, almost fledged		0	1
 ? F	in question	0	1
 ? IMM	unknown	0	1
+? Imm.		0	1
 ? JUV	in question	0	1
 ? juv.	unknown	0	1
 ? M	in question	0	1
 ? M.	in question	0	1
+? young		0	1
 ?*	in question	0	1
 ?, adult	in question	0	1
 ?, immature	in question	0	1
 ?, juvenile	in question	0	1
 ?. Adult	in question	0	1
+?/5 days old		0	1
+?/imm.		0	1
+?/juv.		0	1
 ??	in question	0	1
 --?[=F]	in question	0	1
 ?[=Female]	in question	0	1
@@ -164,19 +178,19 @@ M[F]	unknown	0	1
 ?[illeg] [M]	in question	0	1
 ?[M]	in question	0	1
 ?=F	in question	0	1
-?=M	in question	0	1
-?F	in question	0	1
-?Female	in question	0	1
-?M	in question	0	1
-?M*	in question	0	1
+?=M	in ?M*	in question	0	1
+	1
 ?Male	in question	0	1
 ["M" or F ?]	in question	0	1
 [?]	in question	0	1
 [?F]	in question	0	1
 [?Female]	in question	0	1
 [[illeg]]	unknown	0	1
-[=F--[=M]	male	0	1
-n	0	1
+[=F?]M	in question	0	1
+--[=F]	female	0	1
+[=M ?]	in question	0	1
+[=M]	male	0	1
+--[=M]	male	0	1
 [=M] F	unknown	0	1
 [=M]F	unknown	0	1
 [1st spring Male]	male	0	1
@@ -293,6 +307,7 @@ _	unknown	0	1
 ♂ young	male	0	1
 ♂?	in question	0	1
 ♂? Adult	in question	0	1
+0		0	1
 0?	unknown	0	1
 06-Mar-21	unknown	0	1
 07-Oct-26	unknown	0	1
@@ -343,8 +358,8 @@ _	unknown	0	1
 2 Males	male	0	1
 2 Males, 2 Females	female | male	0	1
 2 Nestlings		0	1
-2 Nestlings [Sex ?]	in question	0	1
-223	unknown	0	1
+2 Ne223	unknown	0	1
+n question	0	1
 227	unknown	0	1
 239	unknown	0	1
 249	unknown	0	1
@@ -356,7 +371,8 @@ _	unknown	0	1
 3	unknown	0	1
 3 exx.		0	1
 3 F, 1 M	female | male	0	1
-3 F, 3 Males, Female	female | male	0	1
+3 F, 3 M	female | male	0	1
+3 Males, Female	female | male	0	1
 3207 111/95/iv	unknown	0	1
 335	unknown	0	1
 340	unknown	0	1
@@ -381,6 +397,7 @@ _	unknown	0	1
 7M,6F	female | male	0	1
 9+ years old		0	1
 A	unknown	0	1
+A M	male	0	1
 A: FEMALE	female	0	1
 ad	unknown	0	1
 ad sex ?	in question	0	1
@@ -403,6 +420,7 @@ Adult [Male ?]	in question	0	1
 Adult [Male?]	in question	0	1
 Adult [Sex ?]	in question	0	1
 Adult + [Juvenile]	unknown	0	1
+Adult F	female	0	1
 adult female	female	0	1
 Adult Female (by size)	female	0	1
 Adult Female (gravid)	female	0	1
@@ -423,6 +441,7 @@ Adult Male	male	0	1
 Adult Male [= a Female]	in question	0	1
 Adult Male [Female ?]	in question	0	1
 Adult Male by plumage	male	0	1
+adult male(?), gonad shot	male	0	1
 Adult Male,  SVL 1020 mm, tail 9	male	0	1
 Adult Male, Liver tissue taken	male	0	1
 Adult Male, Lver tissue taken	male	0	1
@@ -471,6 +490,7 @@ Adult, Tissue-liver sample		0	1
 Adult, Tissue-liver sample taken		0	1
 Adult, Tissue-scale clips		0	1
 Adult,Liver tissue taken		0	1
+adult/female	female	0	1
 Adults + Nestlings		0	1
 AHY MALE	male	0	1
 AHY-M	male	0	1
@@ -481,8 +501,7 @@ aOR at 0933 hrs, accidentally hi		0	1
 AOR at 1705 hrs, accidentally hi		0	1
 Apr	unknown	0	1
 Banded		0	1
-belly mottled; throat dark; narr		0	1
-belly mottled; throat salt and p		0	1
+belly mottled; thrbelly mottled; throat salt and p		0	1
 bicolored dewlap dark orange bas		0	1
 bicolored dewlap-dark orange bas		0	1
 black throat		0	1
@@ -493,12 +512,15 @@ Body with slightly more green th		0	1
 Born 7/18/1971 to UAZ34319		0	1
 Born 7/19/1971 from UAZ34328		0	1
 both	hermaphrodite	0	1
+breeding adult female	female	0	1
 broad orange line mid-dorsal; th		0	1
 brown in life		0	1
 Brown nuptial pads, throat yello		0	1
 brown nuptial pads, yellow throa		0	1
 captive for ca 1 year		0	1
 cat. says M, label says M; mount	male	0	1
+Chick		0	1
+chick 3-6 days		0	1
 Cochise		0	1
 could not determine	indeterminable	0	1
 D	unknown	0	1
@@ -523,6 +545,8 @@ F	female	0	1
 F-	female	0	1
 F  [=M]	unknown	0	1
 F  [F struck through]	female	0	1
+F  Adult	female	0	1
+F  Age 5 yrs.	female	0	1
 F  juvenile	female	0	1
 F !	female	0	1
 F & 2 juv.	female	0	1
@@ -537,11 +561,20 @@ F (cat. lists as F juv.)	female	0	1
 F (cat. says none, looks like F)	female	0	1
 F (cataloged M)	female	0	1
 F (dark)	female	0	1
+F (flacid)	female	0	1
+F (full dev. eggs)	female	0	1
+f (gran)	female	0	1
+f (Gran.)	female	0	1
+F (HY)	female	0	1
+F (LF 15x8)	female	0	1
+F (LF=0.7)	female	0	1
 F (light)	female	0	1
 F (M ?)	in question	0	1
 F (M juv.)	unknown	0	1
 F (M)	unknown	0	1
 F (originally cataloged as F)	female	0	1
+F (OSE)	female	0	1
+F (probably)	female	0	1
 F (with curved line resting on t	female	0	1
 F )?)	in question	0	1
 F *	female	0	1
@@ -595,17 +628,44 @@ F = [M]	unknown	0	1
 F = M	unknown	0	1
 F =[M]	unknown	0	1
 F =M ?	in question	0	1
+F 10 days old	female	0	1
+F 1971HY	female	0	1
+F 1976 HY	female	0	1
+F 1977HY	female	0	1
+F 1979HY	female	0	1
+F 1980 HY	female	0	1
+F 1980HY	female	0	1
+F 1981 HY	female	0	1
+F 1981HY	female	0	1
+F 1st year	female	0	1
+F 1st yr.	female	0	1
+F 1st yr. HY	female	0	1
+F 3 yrs.	female	0	1
+F 5 yr.	female	0	1
+F 6 days old	female	0	1
+F 6 yrs.	female	0	1
+F 74HY	female	0	1
 F AD	female	0	1
+F Ad.	female	0	1
 F Adu.	female	0	1
 F adult	female	0	1
+F Age 3 yrs.	female	0	1
+F age 31 days	female	0	1
+F Age 7 yrs.	female	0	1
+F Age 8 yrs.	female	0	1
+F age 9 yrs.	female	0	1
 F AHY	female	0	1
 F br	female	0	1
 F br.	female	0	1
 F by diseection	female	0	1
 F by dissection	female	0	1
+F -class Ia-b	female	0	1
 F F	female	0	1
+F hatched about 1 June, 1979	female	0	1
 F IMM	female	0	1
 F imm.	female	0	1
+F Imm. YY	female	0	1
+F immature	female	0	1
 F JUV	female	0	1
 F JUV.	female	0	1
 F juv. winter phase	female	0	1
@@ -623,24 +683,31 @@ F OR IMM	unknown	0	1
 F OR JUV	unknown	0	1
 F or M	unknown	0	1
 F or M juv	unknown	0	1
+F partial imm.	female	0	1
 F pregnant	female	0	1
 F prob.	female	0	1
+F S.Ad.	female	0	1
+F subad.	female	0	1
+F subadult	female	0	1
 F with eggs	female	0	1
 f	female	0	1
 F!	female	0	1
 F! [M]	unknown	0	1
 F(?)	in question	0	1
 f(?), adult	in question	0	1
+F(?)/sub-adult	female	0	1
 F(?)M	in question	0	1
 F(?M juv)	in question	0	1
 F(?M)	in question	0	1
 F(a M im - L.F)	unknown	0	1
 f(by Plumage)	female	0	1
+F(HY)	female	0	1
 F(M juv.)	unknown	0	1
 F(M)	unknown	0	1
 F(M?)	in question	0	1
 F*	female	0	1
 F, "juv"	female	0	1
+F, 1st year	female	0	1
 f, adult	female	0	1
 F, ägg	female	0	1
 F, by dissection	female	0	1
@@ -654,15 +721,52 @@ F, U	female | unknown	0	1
 F.	female	0	1
 f. adult	female	0	1
 F.female	female	0	1
+F/(yearling)	female	0	1
+F/08 days old	female	0	1
+F/1 day old	female	0	1
+F/10 days	female	0	1
+F/10 days old	female	0	1
+F/13 days	female	0	1
+F/14 days old	female	0	1
+F/17 months	female	0	1
+F/19 months	female	0	1
+F/2 days	female	0	1
+F/2 years	female	0	1
+F/20 days	female	0	1
+F/21 days	female	0	1
+F/25 days	female	0	1
+F/3 days old	female	0	1
+F/30 days	female	0	1
+F/4 yrs.GON=3.5x1.8	female	0	1
+F/40 days	female	0	1
+F/41 days	female	0	1
+F/42 days old	female	0	1
+F/6 days	female	0	1
+F/6 years	female	0	1
+F/8 days old	female	0	1
+F/8 years	female	0	1
+F/86 days	female	0	1
+F/9 days old	female	0	1
 F/AD	female	0	1
+F/adult	female	0	1
+F/class Ia	female	0	1
+F/first year	female	0	1
 F/FLEDGLING	female	0	1
+F/HY	female	0	1
 F/IMM	female	0	1
+F/imm.	female	0	1
+F/imm.GON=16.1x5.2	female	0	1
 F/immature	female	0	1
 F/J	female	0	1
 F/JUV	female	0	1
+F/juv.	female	0	1
 F/juvenile	female	0	1
 F/M	unknown	0	1
+F/NA	female	0	1
 F/NESTLING	female	0	1
+F/yearling	female	0	1
+F/ylg.	female	0	1
+F/yrlg.	female	0	1
 F; confirmed by dissection	female	0	1
 F; imm.	female	0	1
 F?	in question	0	1
@@ -713,6 +817,10 @@ FELMALE	female	0	1
 FEMAL	female	0	1
 FEMALAE	female	0	1
 female	female	1	1
+Female - ?	female	0	1
+Female - Adult	female	0	1
+Female - HY	female	0	1
+Female - S.Ad.	female	0	1
 female (? - see note)/male (? - 	in question	0	1
 Female (?)	in question	0	1
 female (?, see note)	female	0	1
@@ -724,10 +832,13 @@ Female (by gonads))	female	0	1
 female (by plumage)	female	0	1
 female (fide Sclater 1888, Cat. 	female	0	1
 female (fide Sclater, 1888, Cat.	female	0	1
+female (HY)	female	0	1
 female (identified later as)	female	0	1
 female (in register)	female	0	1
 female (lact)	female	0	1
 female (later identified as)	female	0	1
+Female (LF=1.8)	female	0	1
+Female (LF=3.9)	female	0	1
 Female (likely)	female	0	1
 female (M)	unknown	0	1
 female (male, on label)	female	0	1
@@ -755,6 +866,7 @@ Female [Male]	female | male	0	1
 Female + Male + Nest	female | male	0	1
 FEMALE 23	female	0	1
 Female 42 mm SVL	female	0	1
+Female adult	female	0	1
 Female and 1 newborn	female	0	1
 female and male	female | male	0	1
 Female br.	female	0	1
@@ -762,6 +874,7 @@ Female by plumage	female	0	1
 Female eggs N=11	female	0	1
 Female eggs N=15	female	0	1
 female female	female	0	1
+female fledgling	female	0	1
 Female full od well developed eg	female	0	1
 Female gravid	female	0	1
 Female neonate	female	0	1
@@ -781,6 +894,7 @@ Female with embryos	female	0	1
 Female with four eggs, liver tis	female	0	1
 Female with six eggs	female	0	1
 Female(?)	in question	0	1
+female(imm)	female	0	1
 female(s)-certain	in question	0	1
 female(s)-uncertain	in question	0	1
 female, 11 eggs removed	female	0	1
@@ -791,16 +905,21 @@ Female, 4 eggs	female	0	1
 Female, 4 large ova 4X5 mm	female	0	1
 Female, 51 mm SVL	female	0	1
 Female, 6 eggs	female	0	1
+female, adult	female	0	1
 Female, birth to 12 8/14-18/1989	female	0	1
 Female, but has male plumage	female	0	1
 Female, ca 70 cm total length	female	0	1
 Female, coll gravid	female	0	1
 Female, eggs laid 8-9 May 1979	female	0	1
 Female, eggs N=8	female	0	1
+Female, flaccid	female	0	1
 Female, gave birth 08/19-19/1989	female	0	1
 Female, gave birth 09/11-15/1989	female	0	1
+female, granular	female	0	1
 Female, gravid	female	0	1
 Female, gravid w/ 42 eggs	female	0	1
+female, imm	female	0	1
+female, immature?	female	0	1
 Female, laid 27 eggs Aug 24, 198	female	0	1
 female, male	female | male	1	1
 Female, nest	female	0	1
@@ -818,8 +937,13 @@ female/male	female | male	0	1
 female/male (on label)	female | male	0	1
 female?	in question	0	1
 Female[illeg]	female	0	1
+female-adult	female	0	1
 Femalegave birth to 5 live, 2 st	female	0	1
+female-granular	female	0	1
 Female-Gravid	female	0	1
+female-HY	female	0	1
+female-imm.	female	0	1
+female-juv	female	0	1
 females	female	0	1
 FEMAMLE	female	0	1
 femella	female	0	1
@@ -834,8 +958,10 @@ Fledgling [Female ?]	in question	0	1
 Fledgling [Sex ?]	in question	0	1
 Fledgling Female	female	0	1
 Fledgling Male	male	0	1
+fledgling/unknown	unknown	0	1
 fm		0	1
 Fn.	female	0	1
+F-not stated on tag	female	0	1
 found dead at campsite		0	1
 found DOR		0	1
 FR	female	0	1
@@ -894,10 +1020,13 @@ hembra preg 2-2 emb 15mm	female	0	1
 hembra SA	female	0	1
 hembra?	female	0	1
 HERMAPHRODI	hermaphrodite	0	1
+hermaphrodidic	hermaphrodite	0	1
 hermaphrodite	hermaphrodite	1	1
 hg	unknown	0	1
 hona	female	0	1
+HY		0	1
 HY male	male	0	1
+Hybrid		0	1
 I		0	1
 IM	unknown	0	1
 Im.	unknown	0	1
@@ -905,24 +1034,29 @@ IMF	unknown	0	1
 IMM	unknown	0	1
 IMM ?	unknown	0	1
 imm F	female	0	1
+imm male	male	0	1
 imm.		0	1
 Imm. (cat. lists M adult)	male	0	1
 imm. F	female	0	1
 IMM. FEMALE?	in question	0	1
+imm. M	male	0	1
 imm.?	unknown	0	1
 IMM?	unknown	0	1
 immature		0	1
 Immature (HY) Female	female	0	1
 Immature (HY) Male	male	0	1
+immature ?		0	1
 Immature [= Fledgling] Male	male	0	1
 Immature [Female ?]	in question	0	1
 Immature [Male ?]	in question	0	1
 Immature [Sex ?]	in question	0	1
 Immature Female	female	0	1
 Immature Female ?	in question	0	1
+immature M	male	0	1
 Immature Male	male	0	1
 immature Male, juvenile (calf)	male	0	1
 immature, nestling		0	1
+immature/female	female	0	1
 ind	unknown	0	1
 indet.	unknown	0	1
 indeterminable	indeterminable	1	1
@@ -937,6 +1071,7 @@ juv	unknown	0	1
 JUV ?	unknown	0	1
 juv.	unknown	0	1
 Juv. (cat. lists as F pul)	female	0	1
+juv. male	male	0	1
 Juv. Nestling		0	1
 JUV.?	unknown	0	1
 juv.nestln		0	1
@@ -1021,6 +1156,10 @@ M (?)	in question	0	1
 M (?) (M)	in question	0	1
 M (=F ?)	in question	0	1
 M (=F)	unknown	0	1
+M (10x6.78)	male	0	1
+M (18x9.6)	male	0	1
+M (4.3x3.5)	male	0	1
+M (9x7)	male	0	1
 M (BASED ON PLUMAGE)	male	0	1
 M (by dissection)	male	0	1
 m (by plumage)	male	0	1
@@ -1031,10 +1170,16 @@ M (F ?)	in question	0	1
 M (F!)	unknown	0	1
 M (F(	unknown	0	1
 M (F)	unknown	0	1
+M (gran)	male	0	1
+M (HY)	male	0	1
+M (IMM 3.9x1.2)	male	0	1
 M (imm.?)	male	0	1
 M (info from tissue tube)	male	0	1
 M (juv.)	male	0	1
+m (lap)	male	0	1
 M (light)	male	0	1
+m (LT:1x1)	male	0	1
+M (TSE)	male	0	1
 M ?	in question	0	1
 M ? (F)	in question	0	1
 M ? [=F]	in question	0	1
@@ -1085,19 +1230,52 @@ M + U	male | unknown	0	1
 M ++	male	0	1
 M = [F]	unknown	0	1
 M = F	unknown	0	1
+M 1971 HY	male	0	1
+M 1977 HY	male	0	1
+M 1978 HY	male	0	1
+M 1978HY	male	0	1
+M 1979 HY	male	0	1
+M 1979HY	male	0	1
+M 1980HY	male	0	1
+M 1981 HY	male	0	1
+M 1981HY	male	0	1
+M 1984HY	male	0	1
+M 1st Spring	male	0	1
+M 1st Winter	male	0	1
+M 1st year	male	0	1
+M 1st yr.	male	0	1
+M 2-3 days old	male	0	1
+M 3.5 yrs.	male	0	1
+M 3rd Winter	male	0	1
+M 4yrs.	male	0	1
 M AD	male	0	1
+M Ad.	male	0	1
 M adolescent	male	0	1
 M adult	male	0	1
+M Adult.	male	0	1
+M Age 10 yrs.	male	0	1
+M Age 12 yrs.	male	0	1
+M age 18 days	male	0	1
+M age 3 days	male	0	1
+M Age 4 yrs	male	0	1
+M age 4 yrs.	male	0	1
+M Age 7 yrs	male	0	1
+M Asult	male	0	1
+M based on bill length	male	0	1
 M br	male	0	1
 M br.	male	0	1
 M by call [?]	male	0	1
 M by dissection	male	0	1
 M by plumage *	male	0	1
 M by plummage	male	0	1
+M chick	male	0	1
 M 'CHICK'	male	0	1
 M ext.	male	0	1
 M F	unknown	0	1
+M fledgling	male	0	1
 m g	male	0	1
+M HY	male	0	1
+M HY'76	male	0	1
 M im.	male	0	1
 M imm	male	0	1
 M imm.	male	0	1
@@ -1121,6 +1299,10 @@ M P	male	0	1
 M prob.	male	0	1
 M prop.	male	0	1
 M R	male	0	1
+M S.Adult?	male	0	1
+M SA	male	0	1
+M subad.	male	0	1
+M subadult	male	0	1
 M Test. regr.	male	0	1
 M Test. Scr.	male	0	1
 M test.scr.	male	0	1
@@ -1128,16 +1310,20 @@ M Yg	male	0	1
 M Yg,	male	0	1
 M yng	male	0	1
 M young	male	0	1
+M YY	male	0	1
 M
 	male	0	1
 M!	male	0	1
 M(?)	in question	0	1
 m(?), adult	in question	0	1
 M(?F)	in question	0	1
+m(3x2)	male	0	1
 M(crossed out)	unknown	0	1
 M(F)	unknown	0	1
 M(F?)	in question	0	1
+M(HY)	male	0	1
 M(i.e. upside down "F")	unknown	0	1
+M(LAP)	male	0	1
 M*	male	0	1
 M* with [?] written in pencil af	in question	0	1
 M, 1st year	male	0	1
@@ -1148,18 +1334,51 @@ M, imm.	male	0	1
 m, immature	male	0	1
 M, JUV	male	0	1
 M, juv.	male	0	1
-m, juvenM, juvenile?	male	0	1
+m, juvenile	male	0	1M, juvenile?	male	0	1
 M,F	unknown	0	1
 M.	male	0	1
 m. adult	male	0	1
+M/08 days old	male	0	1
+M/1 day	male	0	1
+M/1 day old	male	0	1
+M/10 days	male	0	1
+M/15 days old	male	0	1
+M/17 days old	male	0	1
+M/19 days old	male	0	1
+M/1st year	male	0	1
+M/2 days	male	0	1
+M/2 days old	male	0	1
+M/2 years	male	0	1
+M/24 days old	male	0	1
+M/3 days old	male	0	1
+M/30 days	male	0	1
+M/31 days old	male	0	1
+M/4 days	male	0	1
+M/41 days	male	0	1
+M/42 days old	male	0	1
+M/6 days old	male	0	1
+M/66 days	male	0	1
 M/AD	male	0	1
+M/adult	male	0	1
+M/adult (?)	male	0	1
 m/f	female | male	0	1
+M/first year	male	0	1
 M/FLEDGLING	male	0	1
+M/HY	male	0	1
 M/IMM	male	0	1
+M/imm.	male	0	1
 M/immature	male	0	1
 M/JUV	male	0	1
+M/juv.	male	0	1
 M/juvenile	male	0	1
+M/NA	male	0	1
 M/NESTLING	male	0	1
+M/second year	male	0	1
+M/sub-ad.	male	0	1
+M/sub-adult	male	0	1
+M/third year	male	0	1
+M/yearling	male	0	1
+M/yrlg.	male	0	1
 M; confirmed by dissection	male	0	1
 M; imm.	male	0	1
 M?	in question	0	1
@@ -1225,6 +1444,7 @@ macho test 5x4	male	0	1
 macho test 8x4	male	0	1
 macho test esc	male	0	1
 macho?	in question	0	1
+make	male	0	1
 male	male	1	1
 Male - 6 months	male	0	1
 MALE  M	male	0	1
@@ -1234,11 +1454,16 @@ male (? - see note)/female (? - 	in question	0	1
 male (?)	in question	0	1
 male (?)/female	female | male	0	1
 male ('?male' on label)	male	0	1
+Male (1st year)	male	0	1
+male (3.7x2.4)	male	0	1
+Male (6.0x4.4)	male	0	1
 Male (by bleeding?)	in question	0	1
 male (by gonads)	male	0	1
 male (by plumage)	male	0	1
+male (HY)	male	0	1
 male (in text)/female (on label)	in question	0	1
 male (in text; female on label)	in question	0	1
+male (LAP)	male	0	1
 male (later identified as)	male	0	1
 Male (likely)	male	0	1
 male (not breeding)	male	0	1
@@ -1259,20 +1484,31 @@ Male [Female ?]	in question	0	1
 Male [Female?]	in question	0	1
 Male [Female]	female | male	0	1
 Male 51 mm SVL	male	0	1
+Male Adult	male	0	1
 Male and Female	female | male	0	1
 Male br.	male	0	1
 Male by plumage	male	0	1
+male downy young	male	0	1
 Male Female	female | male	0	1
+male juvenile	male	0	1
 male male	male	0	1
 Male of pair	male	0	1
 Male(?)	in question	0	1
+male(imm.)	male	0	1
 male(s) & female(s)-certain	female | male	0	1
 male(s) & female(s)-uncertain	in question	0	1
 male(s)-certain	male	0	1
 male(s)-uncertain	in question	0	1
+male, ?	male	0	1
+Male, 2nd winter	male	0	1
 Male, 31 mm SVL	male	0	1
 Male, 52 mm SVL, 28 mm tail	male	0	1
+male, adult	male	0	1
 male, female	female | male	0	1
+male, HY	male	0	1
+male, HY?	male	0	1
+Male, Imm.	male	0	1
+male, immature	male	0	1
 Male, liver tissue collected	male	0	1
 Male, liver tissue taken	male	0	1
 Male, nest	male	0	1
@@ -1285,7 +1521,9 @@ Male, Tissue-liver sample	male	0	1
 Male, Tissue-Liver sample taken	male	0	1
 Male, Tissue-scale clip	male	0	1
 Male, Tissue-scale clips	male	0	1
+male, yy	male	0	1
 male.female	female | male	0	1
+male/adult	male	0	1
 male/female	female | male	0	1
 male/female (in text)	unknown	0	1
 male/female (labelled as)	unknown	0	1
@@ -1293,6 +1531,7 @@ male/female (on label)	unknown	0	1
 Male?	in question	0	1
 Male[?]	in question	0	1
 Male+Female	female | male	0	1
+Male6	male	0	1
 males	male	0	1
 Males + Females	female | male	0	1
 males, females	female | male	1	1
@@ -1310,6 +1549,7 @@ MISSING		0	1
 missing tail and legs		0	1
 Mixed Sexes	female | male	0	1
 M-juv.	male	0	1
+mle	male	0	1
 M--looks F 4/2011ceo	male	0	1
 MM	male	0	1
 Mm.	male	0	1
@@ -1322,6 +1562,30 @@ n.s.	unknown	0	1
 n/	unknown	0	1
 N/A	unknown	0	1
 NA	unknown	0	1
+NA (HY)	unknown	0	1
+NA 3rd year	unknown	0	1
+NA Ad.	unknown	0	1
+NA chick	unknown	0	1
+NA Imm.	unknown	0	1
+NA Juv.	unknown	0	1
+NA/1 day	unknown	0	1
+NA/1 day old	unknown	0	1
+NA/1 month	unknown	0	1
+NA/10 days old	unknown	0	1
+NA/11 days old	unknown	0	1
+NA/3 days old	unknown	0	1
+NA/3 weeks	unknown	0	1
+NA/4 days old	unknown	0	1
+NA/5 days	unknown	0	1
+NA/5 days old	unknown	0	1
+NA/5 months	unknown	0	1
+NA/6 days	unknown	0	1
+NA/7 days old	unknown	0	1
+NA/9 days	unknown	0	1
+NA/imm.	unknown	0	1
+NA/juv.	unknown	0	1
+NA/nestling	unknown	0	1
+NA/sub-adult	unknown	0	1
 Neonate		0	1
 Nest. juv.		0	1
 Nesting Colony		0	1
@@ -1331,6 +1595,7 @@ Nestling Female	female	0	1
 Nestling Male	male	0	1
 Nestlings [Sex ?]	in question	0	1
 newborn		0	1
+newly hatched chick		0	1
 No	unknown	0	1
 no aplicable		0	1
 no data	unknown	0	1
@@ -1381,6 +1646,7 @@ Sex Unknown	unknown	0	1
 Sex?	in question	0	1
 sin datos	unknown	0	1
 skin tissue sample taken		0	1
+SS		0	1
 Stomach contents: Leaf cutter an		0	1
 Striped		0	1
 Striped pattern		0	1
@@ -1435,6 +1701,8 @@ U.male	male | unknown	0	1
 U.S.	unknown	0	1
 U?	in question	0	1
 UAZ egg clutch 3, 1967		0	1
+uknown	unknown	0	1
+un	unknown	0	1
 un.det.	unknown	0	1
 uncertain	unknown	0	1
 underlined M	male	0	1
@@ -1446,16 +1714,36 @@ undeterminable	indeterminable	0	1
 undetermined	unknown	0	1
 undetermined (shot in abdomen)		0	1
 unk	unknown	0	1
+unk  juv.	unknown	0	1
+unk (imm. ?)	unknown	0	1
+UNK imm.	unknown	0	1
+unk, adult	unknown	0	1
+Unk, imm	unknown	0	1
+unk, imm.	unknown	0	1
+unk, mixed symbol	unknown	0	1
+unk, probably M	male	0	1
 unk.	unknown	0	1
+unk. - Imm	unknown	0	1
+unk. juvenile	unknown	0	1
+Unk., (HY)	unknown	0	1
+unk., Juv.	unknown	0	1
 unknowable	indeterminable	0	1
 Unknowm	unknown	0	1
 unknown	unknown	1	1
+unknown (downy young 1-3 days ol	unknown	0	1
+unknown (juvenile)	unknown	0	1
 unknown (shot in abdomen)		0	1
 unknown , female ?	in question	0	1
 unknown , male	male	0	1
 unknown , unknown	unknown	0	1
+unknown adult	unknown	0	1
+unknown downy young	unknown	0	1
 unknown female	female	0	1
+unknown fledgling	unknown	0	1
+unknown juvenile	unknown	0	1
 unknown sex	unknown	0	1
+unknown(imm.)	unknown	0	1
+unknown/adult	unknown	0	1
 unknown; SEE ER	unknown	0	1
 Unknwon	unknown	0	1
 Unkown	unknown	0	1
@@ -1482,3 +1770,4 @@ Young adult		0	1
 Young Adult Male	male	0	1
 Young Female	female	0	1
 Young Male	male	0	1
+yy male	male	0	1
