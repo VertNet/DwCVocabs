@@ -26,6 +26,7 @@ Month	MonthNumber	DayOfYearForFirst	checked
  18			1
  1827 and			1
  1876 and			1
+ 18th			1
  19			1
  1912			1
  1915			1
@@ -34,6 +35,7 @@ Month	MonthNumber	DayOfYearForFirst	checked
  1971			1
  1973 			1
  1991			1
+ 1996 and 1-May			1
  2	2	31	1
  2 or 3			1
  20			1
@@ -52,6 +54,7 @@ Month	MonthNumber	DayOfYearForFirst	checked
  3 Aug	8	212	1
  30			1
  30 Aug	8	212	1
+ 30 September	9	243	1
  31			1
  4	4	90	1
  4 July	7	181	1
@@ -138,6 +141,7 @@ __MAR __1996	3	59	1
 08MAR	3	59	1
 09	9	243	1
 090JUN	6	151	1
+0ctober	10	273	1
 1	1	0	1
 1 1926 or Aug 2			1
 1 Dec	12	334	1
@@ -171,6 +175,7 @@ __MAR __1996	3	59	1
 15			1
 15 1970			1
 15 May	5	120	1
+15th			1
 16			1
 16 Jun	6	151	1
 16 November	11	304	1
@@ -292,14 +297,14 @@ May			1
 29 			1
 29 & 30			1
 29 August	8	212	1
-29 Mar	3	59	1
-29 Oct	10	273	1
-3	3	59	1
-3 APR	4	90	1
-3 or 5			1
-3 or 7			1
-3 Sep	9	30 Jun	6	151	1
+29 Ma3 Sep	9	243	1
 
+3/			1
+3/*/			1
+30			1
+30 198			1
+30 July	7	181	1
+30 Jun	6	151	1
 30 Nov 	11	304	1
 30 October	10	273	1
 31			1
@@ -333,11 +338,13 @@ May			1
 8 Jul	7	181	1
 8/*/			1
 80			1
+8th			1
 9	9	243	1
 9/29/	9	243	1
 9/82	9	243	1
 9-13 Sept	9	243	1
 99			1
+9th			1
 a			1
 a Barcelona l'abril de			1
 AAPR	4	90	1
@@ -350,6 +357,7 @@ and			1
 and 15 Feb			1
 and August of			1
 and Autumn			1
+and September of			1
 and? Jul			1
 anterior			1
 anterior al			1
@@ -491,6 +499,8 @@ July 18 	7	181	1
 July 1963	7	181	1
 July 1964	7	181	1
 July 1970 	7	181	1
+July 1974 (17			1
+July 1974 and 9 August			1
 Jun	6	151	1
 Jun & 27 Jun	6	151	1
 June	6	151	1
@@ -521,6 +531,7 @@ MAT			1
 May	5	120	1
 May-	5	120	1
 May 1959 or			1
+May 1987 and 5 June			1
 May or June			1
 May(?)	5	120	1
 May/June			1
@@ -552,8 +563,8 @@ Oct-	10	273	1
 Oct -	10	273	1
 Oct  28	10	273	1
 Oct & 5 Nov			1
-OCT 1960	10	273	1
-Oct/Dec			1
+OCT 1Oct/Dec			1
+
 Oct/Nov			1
 October	10	273	1
 of			1
@@ -564,7 +575,8 @@ on label: 1997			1
 OPCT	10	273	1
 or			1
 or 10 May			1
-or 21			1or 23 May 			1
+or 21			1
+or 23 May 			1
 or 28 June			1
 or 29 June			1
 or 48			1
@@ -606,6 +618,7 @@ Sept 1969 	9	243	1
 Septbember	9	243	1
 September	9	243	1
 September-	9	243	1
+September 1989	9	243	1
 Septemberr	9	243	1
 Septmeber	9	243	1
 SPE	9	243	1
