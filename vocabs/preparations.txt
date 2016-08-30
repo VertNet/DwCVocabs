@@ -20,6 +20,7 @@ verbatimPrep	StandardPrep	standard	checked
  R DENTARY WITH M/2-3		0	0
  R TIBIOTARSUS CENTRAL TWO-THIRDS SHAFT.		0	0
  skull	skull	0	1
+ tadpoles		0	0
 R M2/.		0	0
 Skull, Fluid	fluid | skull	0	1
 "alcoholic, skull prepared, skin & body dried"		0	0
@@ -1425,6 +1426,7 @@ _ TOOTH		0	0
 0 in 70% EtOH; 1 in skeleton		0	0
 0°C Freezer		0	0
 0°C Freezer Tissue		0	0
+004		0	0
 1		0	0
 1 - 70% ETHANOL; 1 - DRY		0	0
 1 - 70% ETHANOL; 1 - GLYCERIN		0	0
@@ -4780,7 +4782,10 @@ _ TOOTH		0	0
 391 EtOH		0	0
 391 in 70% EtOH		0	0
 392 EtOH		0	0
+3928's tail damaged		0	0
+3935's tail damaged		0	0
 395 EtOH		0	0
+3955's tail damaged		0	0
 396 EtOH		0	0
 3960		0	1
 398 EtOH		0	0
@@ -8496,11 +8501,11 @@ Alcohol/Ethanol - 17		0	0
 Alcohol/Ethanol - 2		0	0
 Alcohol/Ethanol - 3		0	0
 Alcohol/Ethanol - 4		0	0
-Alcohol/Ethanol - 49		0	0
-Alcohol; Photo		0	0
-Alcohol; Photograph		0	0
+AlcoAlcohol; Photograph		0	0
 Alcohol; Photograph - 2		0	0
-alcoAlcoholDry		0	0
+alcohol?		0	0
+alcoholc		0	0
+AlcoholDry		0	0
 alcoholi		0	0
 alcoholic	alcoholic	1	1
 alcoholic  + alc gut		0	0
@@ -10612,9 +10617,10 @@ Anterior half L dentary i/1; molar(2).		0	0
 Anterior half L dentary m/1 m/2.		0	0
 Anterior half L dentary m/1.		0	0
 Anterior half L dentary p/3 p/4 m/1 m/2.		0	0
-Anterior half L dentary p/3 p4 m/1 m/2.		0	0
-Anterior half L dentary p/4 m/1 m/2.		0	0
-Anterior half L dAnterior half L dentary; molar (8).		0	0
+Anterior half L dentAnterior half L dentary p/4 m/1.		0	0
+	0
+Anterior half L dentary.		0	0
+Anterior half L dentary; molar (8).		0	0
 ANTERIOR HALF L HYPOPLASTRON.		0	0
 ANTERIOR HALF L ILIUM & HEAD OF L PUBIS		0	0
 Anterior half L innominate.		0	0
@@ -10704,8 +10710,7 @@ ANTERIOR JAW C/# & P/#		0	0
 ANTERIOR JAW WITH C/# & P/#		0	0
 ANTERIOR JAW WITH ROOTS OF T/#		0	0
 ANTERIOR JAWS		0	0
-ANTERIOR JAWS WITH 2 P/#, FEMUR, ETC		0	0
-anterior l dentary		0	0
+ANTERIOR JAWS WITH 2 P/#,anterior l dentary		0	0
 Anterior L dentary i/1 m/1 m/2 m/3.		0	0
 Anterior L dentary i/1 m/1 m/2.		0	0
 Anterior L dentary i/1 p/3 p/4 m/1 m/2.		0	0
@@ -13103,6 +13108,7 @@ BROKEN R P3/ OR P4/		0	0
 BROKEN RM1 OR RM2		0	0
 BROKEN SKULL		0	0
 BROKEN SKULL WITH T#/		0	0
+broken tail		0	0
 broken tibia		0	0
 BROKEN TOOTH		0	0
 BROKEN UNIT		0	0
@@ -14751,11 +14757,12 @@ CARNASSIAL FRAG		0	0
 carnassial tooth fragments		0	0
 CARNASSIAL TOOTH, P4/-M1/?		0	0
 Carol Spaw		0	0
-carpace fragment		0	0
-Carpal		0	0
-CARPAL  (?MAGNUM)		0	0
-Carpal (? magnum).	CARPAL 3 ?		0	0
-0
+carpaCARPAL ?		0	0
+0	0
+0	0
+Carpal + cast		0	0
+CARPAL 3		0	0
+CARPAL 3 ?		0	0
 Carpal bone		0	0
 CARPAL BONES: L SCAPHOID AND MAGNUM, R UNCIFORM		0	0
 CARPAL CUNEIFORM		0	0
@@ -14888,9 +14895,8 @@ Cast of anterior half of fish		0	0
 Cast of antlers (abnormal) + frontlet		0	0
 CAST OF ARTICULATED SKULL RECONSTRUCTED FROM ISOLATED CRANIAL ELEMENTS OF SEVERAL INDIVIDUALS. | Cast		0	0
 CAST OF ARTICULATED, RECONSTRUCTED SKULL | Cast		0	0
-Cast of astragalus		0	0
-Cast of atlas		0	0
-Cast of axis and cervical vertebraCast of beak and teeth		0	0
+Cast of astragalus		0	Cast of axis and cervical vertebrae		0	0
+Cast of beak and teeth		0	0
 Cast of brain		0	0
 Cast of brain cavity		0	0
 Cast of braincase		0	0
@@ -15465,9 +15471,9 @@ Central portion R dentary p/4 m1.		0	0
 Central portion R dentary p4 m/1.		0	0
 Central portion R dentary with several teeth.		0	0
 Central portion R dentary.		0	0
-Central portion R dentary.  p/4 m/1 m/2 m/3.		0	0
-Central portion R dentary. p/3 p/4 m/CENTRAL PORTION R SCAPULA.		0	0
-0
+Central portion R dentary.  p/4 m/1 m/2 m/3.		Central portion R innominate.		0	0
+/1.		0	0
+CENTRAL PORTION R SCAPULA.		0	0
 Central portion R ulna.		0	0
 Central portion R unerupted lower cheektooth.		0	0
 Central portion scapula.		0	0
@@ -15587,7 +15593,8 @@ cervical vertebrae (2)		0	0
 Cervical vertebrae (mounted, in spirit)		0	0
 cervical vertebrae + dorsal vertebrae + scapula		0	0
 Cervical vertebrae + ribs + humerus etc.		0	0
-Cervical vertebrae + ribs + shoulder girdle (CERVICAL VERTEBRAE, LIMB & FOOT FRAGS		0	0
+CeCERVICAL VERTEBRAE, LIMB & FOOT FRAGS		0	0
+art) + casts		0	0
 CERVICAL VERTEBRAE,METAPODIAL FRAG		0	0
 CERVICAL VERTEBRAE: 4, 5, 7; ASSOCIATION CONJECTURAL: OAP		0	0
 CERVICAL VERTEBRAE; ASSOCIATION ONLY PROBABLE: OAP		0	0
@@ -15712,8 +15719,7 @@ CHEEK TOOTH/,/CHEEK TOOTH FRAG		0	0
 CHEEK TOOTH/,ASTRAGALUS,ULNA FRAG		0	0
 CHEEK TOOTH/,BONE FRAGS		0	0
 CHEEK TOOTH/,CHEEK TOOTH FRAG/,/CHEEK TEETH FRAGS		0	0
-CHEEK TOOTH/,LATERAL METAPODIAL,PHALANX,SESAMOID		0	0
-CHEEK TOOTH; A VERY SMALL CARNIVORE		0	0
+CHEEK TOOTH/,LATERAL METAPODIAL,PHALANCHEEK TOOTH; A VERY SMALL CARNIVORE		0	0
 cheek tooth+astragalus		0	0
 cheek tooth+bone fragments		0	0
 cheek tooth+horn core frags		0	0
@@ -17847,6 +17853,9 @@ D. W. Johnston 1027		0	0
 D. W. Johnston 1051		0	0
 D. W. Johnston 1055		0	0
 D. W. Johnston 1289		0	0
+d.o.a		0	0
+d.o.a.		0	0
+d.o.s		0	0
 D.Paulson 2178 & G.Shugart		0	0
 D.Ryba & G.D.Alcorn		0	0
 D.Takahashi 07/G.Shugart		0	0
@@ -17855,6 +17864,7 @@ D3, D4, ASSOCIATED WITH CM 2549		0	0
 DAEMONELIX WITH STENEOFIBER (PALAEOCASTOR)		0	0
 Dakour, J. 005		0	0
 Dalquest, W.		0	0
+damaged		0	0
 damaged canine		0	0
 DAMAGED CARAPACE & COMPLETE PLASTRON; GOOD SHELL		0	0
 damaged incisor		0	0
@@ -17896,6 +17906,7 @@ deciduous tooth frags		0	0
 deciduous tooth, miscellaneous fragments		0	0
 deciduous upper canine		0	0
 DECIDUOUS?		0	0
+decomposing a bit		0	0
 Def. näbb		0	0
 Deformed buds (mounted, in spirit)		0	0
 DEFORMED/70% ETHANOL		0	0
@@ -19819,6 +19830,8 @@ Diaphysis tibiotarsus.		0	0
 Diaphysys L tibia.		0	0
 Diaphysys R humerus.		0	0
 Diastema and anterior alveoli R dentary.		0	0
+died 7-Jul-96		0	0
+died in captivity- 2-Nov-99		0	0
 Diet analysis  (231 vials)	stomach contents (231 vials)	0	1
 DIGIT		0	0
 DIGIT 1 CO-OSSIFIED PHALANGES 1+2		0	0
@@ -29174,6 +29187,7 @@ EXTRALATERAL PLATE		0	0
 EXTRASCAPULAR		0	0
 EXTRASCAPULARS		0	0
 Extreme proximal tip humerus.		0	0
+extremely dried out (CH3OH added)		0	0
 EXTREMITY OF A SMALL TUSK, ABOUT 14 CM LENGTH & ABOUT 5 CM DIAMETER AT BREAK		0	0
 Eye (in spirit)		0	0
 eye lens, skull		0	0
@@ -31759,10 +31773,14 @@ Fluid, Hemipenis, Hemipenis	fluid | hemipenis	0	1
 Fluid, Hemipenis, Microtechnique	fluid | hemipenis | microtechnique	1	1
 fluid, karyo/col, skull	fluid | karyotype | skull	0	1
 fluid, karyo/NC	fluid | karyotype	0	1
-Fluid, karyo/NC, skin Skin, skull Skull	fluid | karyotype | skin | skull	0	1
-fluid, karyo/NC, skull	fluid | karyotype | skull	0	1
-fluid, karyo/NC, skull Skull	fluid | karyotypFluid, Karyotype, Skin, Skull, tissue	fluid | karyotype | skin | skull | tissue	1	1
-	1
+Fluid, kaFluid, Karyotype	fluid | karyotype	1	1
+ryotype | skull	0	1
+kull	0	1
+Fluid, Karyotype, Skeleton, Skin, Skull	fluid | karyotype | skeleton | skin | skull	1	1
+Fluid, Karyotype, Skeleton, Skull	fluid | karyotype | skeleton | skull	1	1
+Fluid, Karyotype, Skin	fluid | karyotype | skin	1	1
+Fluid, Karyotype, Skin, Skull	fluid | karyotype | skin | skull	1	1
+Fluid, Karyotype, Skin, Skull, tissue	fluid | karyotype | skin | skull | tissue	1	1
 Fluid, Karyotype, Skull	fluid | karyotype | skull	1	1
 Fluid, Karyotype, Skull, tissue	fluid | karyotype | skull | tissue	1	1
 Fluid, Karyotype, tissue	fluid | karyotype | tissue	1	1
@@ -31836,14 +31854,12 @@ Fluid, tissue T-106; Tissue, tissue T-106		0	0
 Fluid, tissue T-107; Tissue, tissue T-107		0	0
 Fluid, tissue T-664; Tissue, tissue T-664		0	0
 Fluid, Tissue, Breast muscle, Tissue, Breast muscle		0	0
-fluid, tissue, cleared and stained		0	0
-fluid, tissue, cleared and stained, tissue		0	0
-fluid, tissue, cleared and stained, tissue, tissue		0	0
-Fluid, Tissue, Dry	dry | fluid | tissue	0	1
-fluid, tissue, dry skeleton		0	0
-fluid, tissue, electric organ discharge recording		0	0
-fluid, tissue, electric organ discharge recording, photograph, tissue		fluid, tissue, photograph, tissue		0	0
-	fluid | hemipenis | microtechnique | tissue	0	1
+fluid, tissue, electric organ discharge recording, photograph, tissue		0	0
+fluid, tissue, fluid	fluid | tissue	0	1
+Fluid, Tissue, Microtechnique	fluid | microtechnique | tissue	0	1
+Fluid, Tissue, Microtechnique, Hemipenis	fluid | hemipenis | microtechnique | tissue	0	1
+fluid, tissue, photograph		0	0
+fluid, tissue, photograph, tissue		0	0
 Fluid, Tissue, Recording	fluid | recording | tissue	0	1
 fluid, tissue, slide		0	0
 Fluid, Tissue, Tissue		0	0
@@ -31939,7 +31955,8 @@ FOOT & LIMB BONES		0	0
 FOOT & LIMB FRAGS		0	0
 FOOT & LIMB FRAGS: 2 VIALS		0	0
 Foot (fragmentary)		0	0
-Foot (in spirit)		0Foot (left)		0	0
+Foot (in spirit)		0	0
+Foot (left)		0	0
 Foot (left, articulated)		0	0
 Foot (left, dried)		0	0
 Foot (left, hind, wax impregnated)		0	0
@@ -47160,9 +47177,8 @@ LCP4, LM1-2		0	0
 LDENTARY W P4-M3		0	0
 LDI1/		0	0
 Ldp/2		0	0
-Ldp/3		0	0
-Ldp/3 ?		0	0
-Ldp/4		0	0
+Ldp/3Ldp/4		0	0
+
 Ldp/x		0	0
 Ldp/x frag		0	0
 LdP?/		0	0
@@ -47178,6 +47194,8 @@ LE	larvae	0	1
 LE (>50)	larvae	0	1
 LE (1)	larva	0	1
 LE (12)	larva	0	1
+LE (13)	larva	0	1
+LE (14)	larva	0	1
 LE (15)	larva	0	1
 LE (18)	larva	0	1
 LE (19)	larva	0	1
@@ -47307,8 +47325,7 @@ left dentary fragment with m1-m2		0	0
 left dentary fragment with P4		0	0
 Left dentary fragment with tooth		0	0
 left Dentary fragments, i1,		0	0
-left dentary in 2 parts		0	0
-left dentary M1-2		0	0
+left dentaryleft dentary M1-2		0	0
 left dentary m1-m2 + assoc? postcrania		0	0
 left dentary M2-3		0	0
 LEFT DENTARY O.	left dentary	0	1
@@ -53889,8 +53906,7 @@ muda (sec)		0	0
 multi molar frag.		0	0
 MULTICUSP I		0	0
 MULTICUSPED TOOTH		0	0
-multiple skeletons	skeletons (multiple)	0	1
-Multiple Skulls - 1		0	0
+multiple skeletons	skeletons (muMultiple Skulls - 1		0	0
 Multiple Skulls - 3		0	0
 Multiple Skulls - 4		0	0
 multiple skulls | multiple skulls		0	0
@@ -53898,7 +53914,8 @@ MUMIFIED TAIL	mummified tail	0	1
 MUMMIFIED	mummy	0	1
 Mummified - 1		0	0
 Mummified - 1; Mandibles - 1		0	0
-Mummified - 1; Skelemummified head only		0	0
+Mummified - 1; Skeleton - 1		0	0
+mummified head only		0	0
 mummified skin of 1 foot only		0	0
 mummified skin, tissue		0	0
 MUMMIFIED SPECIMEN	mummy	0	1
@@ -64143,9 +64160,8 @@ PTERYGOID ?		0	0
 pterygoid | tissue		0	0
 PTERYGOID FRAG ?		0	0
 PTERYGOID FRAG W TEETH		0	0
-PTERYGOID FRAG,TEETH		0	0
-PTERYGOID FRAG+TEETH		0	0
-pterygoid fragment		0	0
+PTERYGOID FRAG,TEETH	pterygoid fragment		0	0
+
 pterygoid fragment?		0	0
 PTERYGOID L		0	0
 PTERYGOID OR PALATINE		0	0
@@ -64153,7 +64169,9 @@ PTERYGOID OR SPLENIAL		0	0
 PTERYGOID TOOTH PLATES		0	0
 PTERYGOID W TEETH		0	0
 PTERYGOID W TEETH ?		0	0
-PTERYGOID W TEETH,PROPODIPTERYGOID, PARTIAL MAX, BITS OF MANDIBLE, IN COUNTERPART, ASSOCIATED		0	0
+PTERYGOID W TEETH,PROPODIAL		0	0
+PTERYGOID, PARIETAL, 2 MAX, DENTARY WITH T/# (3)		0	0
+PTERYGOID, PARTIAL MAX, BITS OF MANDIBLE, IN COUNTERPART, ASSOCIATED		0	0
 PTERYGOID,EXOCCIPITAL		0	0
 PTERYGOID,PARASPHENOID,EXOCCIPITAL		0	0
 PTERYGOID,QUADRATE,QUADRAGOJUGAL		0	0
@@ -64288,8 +64306,7 @@ R & L MAX, M1/-M2/-M3/		0	0
 R & L MAX, PALATE		0	0
 R & L MAX, PREMAX		0	0
 R & L MAX, PREMAX, I1/-I2/		0	0
-R & L MAXILLAE,L P4-M3/,R M1-M3/		0	0
-R & L METACARPALS | Cast		0	0
+R & L MAR & L METACARPALS | Cast		0	0
 R & L P/2-M/3 & 2 M#/		0	0
 R & L P/3-P/4-M/1-M/2, L M/3, ETC, ASSOCIATED		0	0
 R & L P/3-P/4-M/1-M/2-M/3 IN JAWS; L P/2; FRAGS; ASSOCIATED		0	0
@@ -82071,13 +82088,13 @@ skin, skeleton, syrinx, Tissue number not taken		0	0
 skin, skeleton, syrinx, wingspread, Tissue number 3432		0	0
 skin, skeleton, syrinx, wingspread, Tissue number 9701		0	0
 Skin, Skeleton, Tissue	skeleton | skin | tissue	0	1
-skin, skeleton, tissue at YPM 358		0	0
-skin, skeleton, tissue at YPM 555		0	0
+skin, skin, skeleton, tissue at YPM 555		0	0
 skin, skeleton, Tissue number 10068		0	0
 skin, skeleton, Tissue number 10070		0	0
 skin, skeleton, Tissue number 10073		0	0
 skin, skeleton, Tissue number 10097		0	0
-skin, skeleton, Tissueskin, skeleton, Tissue number 10441		0	0
+skin, skeleton, Tissue number 10127		0	0
+skin, skeleton, Tissue number 10441		0	0
 skin, skeleton, Tissue number 10477		0	0
 skin, skeleton, Tissue number 10478		0	0
 skin, skeleton, Tissue number 10479		0	0
@@ -104948,6 +104965,7 @@ tail and 1 foot only		0	0
 Tail and Body "shell"		0	0
 tail bone		0	0
 tail club		0	0
+tail damaged		0	0
 tail feathers		0	0
 TAIL FIN		0	0
 TAIL FIN + PALAEONISCOID GASTRIC RESIDUE		0	0
@@ -104994,8 +105012,7 @@ talonid frag		0	0
 TALONID L /M		0	0
 TALONID L M/#		0	0
 TALONID L M/1		0	0
-TALONID L M/1 OR M/2 7 OTHER TOTTH FRAGS		0	0
-TALONID L M/1 OR M/2 IN DENTARY FRAG		0	0
+TALONID L M/1 OR MTALONID L M/1 OR M/2 IN DENTARY FRAG		0	0
 TALONID L M/1? IN DENTARY FRAG		0	0
 Talonid L P4/.		0	0
 TALONID M/1		0	0
@@ -105004,7 +105021,8 @@ TALONID R M/#		0	0
 TALONID R M/1		0	0
 TALONID R M/1?		0	0
 TALONID R M/3		0	0
-TALONID R M/3 IN DENTATALONID R M/4 IN DENTARY FRAG		0	0
+TALONID R M/3 IN DENTARY FRAG		0	0
+TALONID R M/4 IN DENTARY FRAG		0	0
 talonids		0	0
 Talus		0	0
 TALUS AND CUBOID		0	0
@@ -109584,6 +109602,7 @@ VERTIBRAE		0	0
 VERTS		0	0
 verts & bone frags		0	0
 VERY COMPLETE SPECIMEN		0	0
+very damaged		0	0
 VERY DEEP IMPRESSION OF SMALL SPINE WITH SEGMENT OF BONE (CURIOUS)		0	0
 VERY FAINT & POOR IMPRESSION		0	0
 VERY FAINT IMPRESSION		0	0
@@ -110332,6 +110351,7 @@ wingspread, Tissue number 7041		0	0
 wingspread, Tissue number 7858		0	0
 wingspread, Tissue number 7876		0	0
 wingtissue		0	0
+with geckos		0	0
 With Skin		0	0
 WN		0	0
 WO	wings	0	1
