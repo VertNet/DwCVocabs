@@ -2025,7 +2025,6 @@ caribbean		0	1
 caribbean area		0	1
 caribbean sea		0	1
 caribbean sea island/s		0	1
-Caribbees		0	1
 carinthia	AT	0	1
 caroline i.		0	1
 caroline is		0	1
@@ -2424,7 +2423,6 @@ colony of hong kong	HK	0	1
 colorado	US	0	1
 columba	CO	0	1
 columbia	CO	0	1
-Columbia (South America)	CO	0	1
 columbia ?	CO	0	1
 columbia [colombia]	CO	0	1
 columbia, ecuador		0	1
@@ -2747,7 +2745,6 @@ dom republic	DO	0	1
 domi	DM	0	1
 dominian republic	DO	0	1
 dominica	DM	1	1
-Dominica ?	DM	0	1
 dominica i.w.i.	DM	0	1
 dominica; (lesser antilles)	DM	0	1
 dominica?	DM	0	1
@@ -3057,7 +3054,6 @@ eastern cape	ZA	0	1
 eastern caribbean		0	1
 eastern central atlantic		0	1
 eastern central pacific		0	1
-Eastern Conga	CG	0	1
 eastern congo	CG	0	1
 eastern ecuador	EC	0	1
 'eastern ecuador'	EC	0	1
@@ -3095,7 +3091,6 @@ ecuador	EC	1	1
 'ecuador'	EC	0	1
 ecuador - quito	EC	0	1
 ecuador (?)	EC	0	1
-Ecuador (South America)	EC	0	1
 ecuador ?	EC	0	1
 ecuador or colombia		0	1
 ecuador or peru		0	1
@@ -3378,6 +3373,7 @@ flores is.		0	1
 flores(i.)		0	1
 florida straits	US	0	1
 form	TW	0	1
+Former U.S.S.R.		0	1
 formosa	TW	0	1
 formosa (taiwan)	TW	0	1
 formosa [=taiwan]	TW	0	1
@@ -7015,7 +7011,6 @@ rep of panama	PA	0	1
 rep of south africa	ZA	0	1
 rep of the congo	CD	0	1
 rep. georgia	GE	0	1
-Rep. of the Congo	CG	0	1
 rep. south africa	ZA	0	1
 repub of the congo	CD	0	1
 'repub of the congo'	CD	0	1
@@ -7884,7 +7879,6 @@ sao tome and príncipe	ST	0	1
 sao tomé and príncipe	ST	0	1
 são tomé and príncipe	ST	1	1
 sao tome and principe?	ST	0	1
-Sao Tomé e Principe, Gulf of Guina	ST	0	1
 sao tomé et principe	ST	0	1
 sao tome i	ST	0	1
 sao tome(i.)	ST	0	1
@@ -9371,7 +9365,6 @@ us_ga	US	0	1
 us_mn	US	0	1
 us_va	US	0	1
 usa	US	0	1
-USA - CARIBBEAN	US	0	1
 usa (?)	US	0	1
 usa (by inferen	US	0	1
 usa (by inference(	US	0	1
@@ -9456,15 +9449,16 @@ venezuela, ecuador		0	1
 venezuela, n. coast mt.	VE	0	1
 venezuela, n. coast m'ts	VE	0	1
 venezuela, n. coast mts.	VE	0	1
-venezuela, s.a	VEvenezuèla, s.a.	VE	0	1
+venezuela, s.a	VE	0	1
+venezuela, s.a.	VE	0	1
+venezuèla, s.a.	VE	0	1
 venezuela, surinam		0	1
 venezuela/guyana		0	1
 venezuela; [west indies]	VE	0	1
 venezuela?	VE	0	1
 venezuela-columbia		0	1
-venzuela	VE	0	1
-venzuela or trinidad		0	1
-venzueley	VE	0	1
+venzuela	VE	0	venzueley	VE	0	1
+ad		0	1
 veragua	PA	0	1
 veragua-panama	PA	0	1
 verague	PA	0	1
@@ -9639,8 +9633,7 @@ w. indies, grand cayman i, north side	KY	0	1
 w. indies, guadeloupe	GP	0	1
 w. indies, guadeloupe i	GP	0	1
 w. indies, guadeloupe is.	GP	0	1
-w. indies, jamaica	JM	0	1
-w. indies, jamaica i	JM	0	1
+w. indies,w. indies, jamaica i	JM	0	1
 w. indies, lesser antilles		0	1
 w. indies, martinique	MQ	0	1
 w. indies, martinique i	MQ	0	1
