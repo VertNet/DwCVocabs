@@ -64,6 +64,7 @@ verbatimPrep	StandardPrep	standard	checked
 &		0	0
 & ACROGASTER DAVIESI -- 2 COMPLETE SKELETONS		0	0
 (1 mounted)		0	0
+(alcohol etílic 96º) | tissue		0	0
 (broken)		0	0
 (congelat)		0	0
 (damaged)		0	0
@@ -8498,9 +8499,10 @@ Alcohol/Ethanol - 3		0	0
 Alcohol/Ethanol - 4		0	0
 Alcohol/Ethanol - 49		0	0
 Alcohol; Photo		0	0
-Alcohol; Photograph		0	0
-Alcohol; Photograph - 2		0	0
-alcoAlcoholDry		0	0
+Alcohol; Photograph		0alcohol?		0	0
+raph - 2		0	0
+alcoholc		0	0
+AlcoholDry		0	0
 alcoholi		0	0
 alcoholic	alcoholic	1	1
 alcoholic  + alc gut		0	0
@@ -8615,8 +8617,7 @@ alcoholic + alc gut (2 vials) + 1 aliquot DNA product		0	0
 alcoholic + alc gut + 1 aliquot DNA product		0	0
 alcoholic + alc gut + 13 eggs		0	0
 alcoholic + alc gut + endoparasites		0	0
-alcoholic + alc gut + misc: 1 glass slide		0	0
-alcoholic + alc gut + misc: 1 glass slide +		0	0
+alcoholic + alc gut + misc: 1 glass slidealcoholic + alc gut + misc: 1 glass slide +		0	0
 alcoholic + alc gut + misc: 2 glass slides		0	0
 alcoholic + alc gut + tissue		0	0
 alcoholic + alc gut contents		0	0
@@ -10273,6 +10274,7 @@ animal sencer (alcohol etílic 95º)		0	0
 animal sencer (alcohol etílic 96º)		0	0
 animal sencer (congelat)		0	0
 animal sencer (etílic 70 amb glicerina)		0	0
+animal sencer (etílic 70 amb glicerina) | tissue		0	0
 animal sencer (momificat)		0	0
 animal sencer (sec)		0	0
 animal sencer, ou (alcohol etílic 70º amb 4% glicerina)		0	0
@@ -10612,9 +10614,10 @@ Anterior half L dentary i/1; molar(2).		0	0
 Anterior half L dentary m/1 m/2.		0	0
 Anterior half L dentary m/1.		0	0
 Anterior half L dentary p/3 p/4 m/1 m/2.		0	0
-Anterior half L dentary p/3 p4 m/1 m/2.		0	0
-Anterior half L dentary p/4 m/1 m/2.		0	0
-Anterior half L dAnterior half L dentary; molar (8).		0	0
+Anterior halAnterior half L dentary p/4 m/1.		0	0
+	0
+Anterior half L dentary.		0	0
+Anterior half L dentary; molar (8).		0	0
 ANTERIOR HALF L HYPOPLASTRON.		0	0
 ANTERIOR HALF L ILIUM & HEAD OF L PUBIS		0	0
 Anterior half L innominate.		0	0
@@ -10704,8 +10707,7 @@ ANTERIOR JAW C/# & P/#		0	0
 ANTERIOR JAW WITH C/# & P/#		0	0
 ANTERIOR JAW WITH ROOTS OF T/#		0	0
 ANTERIOR JAWS		0	0
-ANTERIOR JAWS WITH 2 P/#, FEMUR, ETC		0	0
-anterior l dentary		0	0
+ANTERIOR JAWS WITH 2 P/#,anterior l dentary		0	0
 Anterior L dentary i/1 m/1 m/2 m/3.		0	0
 Anterior L dentary i/1 m/1 m/2.		0	0
 Anterior L dentary i/1 p/3 p/4 m/1 m/2.		0	0
@@ -14752,10 +14754,10 @@ carnassial tooth fragments		0	0
 CARNASSIAL TOOTH, P4/-M1/?		0	0
 Carol Spaw		0	0
 carpace fragment		0	0
-Carpal		0	0
-CARPAL  (?MAGNUM)		0	0
-Carpal (? magnum).	CARPAL 3 ?		0	0
-0
+Carpal + cast		0	0
+0	0
+CARPAL 3		0	0
+CARPAL 3 ?		0	0
 Carpal bone		0	0
 CARPAL BONES: L SCAPHOID AND MAGNUM, R UNCIFORM		0	0
 CARPAL CUNEIFORM		0	0
@@ -14889,8 +14891,8 @@ Cast of antlers (abnormal) + frontlet		0	0
 CAST OF ARTICULATED SKULL RECONSTRUCTED FROM ISOLATED CRANIAL ELEMENTS OF SEVERAL INDIVIDUALS. | Cast		0	0
 CAST OF ARTICULATED, RECONSTRUCTED SKULL | Cast		0	0
 Cast of astragalus		0	0
-Cast of atlas		0	0
-Cast of axis and cervical vertebraCast of beak and teeth		0	0
+Cast of atlas		0	Cast of axis and cervical vertebrae		0	0
+Cast of beak and teeth		0	0
 Cast of brain		0	0
 Cast of brain cavity		0	0
 Cast of braincase		0	0
@@ -15465,9 +15467,9 @@ Central portion R dentary p/4 m1.		0	0
 Central portion R dentary p4 m/1.		0	0
 Central portion R dentary with several teeth.		0	0
 Central portion R dentary.		0	0
-Central portion R dentary.  p/4 m/1 m/2 m/3.		0	0
-Central portion R dentary. p/3 p/4 m/CENTRAL PORTION R SCAPULA.		0	0
-0
+Central portion R dentary.  p/4 m/1 m/2 m/3.		Central portion R innominate.		0	0
+/1.		0	0
+CENTRAL PORTION R SCAPULA.		0	0
 Central portion R ulna.		0	0
 Central portion R unerupted lower cheektooth.		0	0
 Central portion scapula.		0	0
@@ -15587,7 +15589,8 @@ cervical vertebrae (2)		0	0
 Cervical vertebrae (mounted, in spirit)		0	0
 cervical vertebrae + dorsal vertebrae + scapula		0	0
 Cervical vertebrae + ribs + humerus etc.		0	0
-Cervical vertebrae + ribs + shoulder girdle (CERVICAL VERTEBRAE, LIMB & FOOT FRAGS		0	0
+CeCERVICAL VERTEBRAE, LIMB & FOOT FRAGS		0	0
+art) + casts		0	0
 CERVICAL VERTEBRAE,METAPODIAL FRAG		0	0
 CERVICAL VERTEBRAE: 4, 5, 7; ASSOCIATION CONJECTURAL: OAP		0	0
 CERVICAL VERTEBRAE; ASSOCIATION ONLY PROBABLE: OAP		0	0
@@ -15712,8 +15715,7 @@ CHEEK TOOTH/,/CHEEK TOOTH FRAG		0	0
 CHEEK TOOTH/,ASTRAGALUS,ULNA FRAG		0	0
 CHEEK TOOTH/,BONE FRAGS		0	0
 CHEEK TOOTH/,CHEEK TOOTH FRAG/,/CHEEK TEETH FRAGS		0	0
-CHEEK TOOTH/,LATERAL METAPODIAL,PHALANX,SESAMOID		0	0
-CHEEK TOOTH; A VERY SMALL CARNIVORE		0	0
+CHEEK TOOTH/,LATERAL METAPODIAL,PHALANCHEEK TOOTH; A VERY SMALL CARNIVORE		0	0
 cheek tooth+astragalus		0	0
 cheek tooth+bone fragments		0	0
 cheek tooth+horn core frags		0	0
@@ -16607,6 +16609,8 @@ COPROLITES, SOME WITH MAMMAL BONE FRAGS		0	0
 COPROLITES,BONE FRAGS		0	0
 COPROLITIC INDIVIDUAL, A+B		0	0
 COPROLTES		0	0
+cor (alcohol etílic 70º amb 4% glicerina) | tissue		0	0
+cor (alcohol etílic 96º) | tissue		0	0
 Coracoid		0	0
 Coracoid (2)		0	0
 Coracoid (2) + femur		0	0
@@ -19915,6 +19919,7 @@ DISASSOCIATED GANOID FIN RAYS		0	0
 DISASSOCIATED HEAD PARTS, NC		0	0
 DISASSOCIATED SKULL, A+B		0	0
 Disc (outer surface)		0	0
+disc intervertebral (etílic 70 amb glicerina) | tissue		0	0
 Discarded		0	0
 DISCARDED 1 DEC 2003		0	0
 DISCARDED- ROTTEN, tissue		0	0
@@ -29743,6 +29748,7 @@ femur, skull, skin		0	0
 FEMUR, SMALL		0	0
 FEMUR, T#/, CALCANEUM, ASTRAGALUS, CUBOID, MAGNUM, FRAGS		0	0
 femur, tarsometatarsus, tibiotarsus, metacarpal, cast, coracoid		0	0
+fèmur, teixit muscular (alcohol etílic 96º) | tissue		0	0
 FEMUR, TIBIA		0	0
 FEMUR, TIBIA & FOOT FRAGS; LARGE ADULT		0	0
 FEMUR, TIBIA, FIBULA, FOOT BONES, ATLAS, TEETH		0	0
@@ -29816,8 +29822,23 @@ FEMURA,TARSOMETATARSI,HUMERUS		0	0
 Femural Head		0	0
 FEMURS		0	0
 Fercula (2)		0	0
+fetge (alcohol etílic 96º) | tissue		0	0
+fetge, esquelet desarticulat, tros de pell, teixit muscular (alcohol etílic 96º) | tissue		0	0
+fetge, pell del peu, teixit muscular (alcohol etílic 96º) | tissue		0	0
+fetge, pell plana, teixit muscular (alcohol etílic 96º) | tissue		0	0
+fetge, teixit (alcohol etílic 96º) | tissue		0	0
+fetge, teixit muscular (alcohol etílic 70º amb 4% glicerina) | tissue		0	0
+fetge, teixit muscular (alcohol etílic 70º) | tissue		0	0
 fetge, teixit muscular (alcohol etílic 96º)		0	0
+fetge, teixit muscular (alcohol etílic 96º) | tissue		0	0
+fetge, teixit muscular (alcohol etílic) | tissue		0	0
+fetge, teixit muscular (congelat) | tissue		0	0
 fetge, teixit muscular (sec)		0	0
+fetge, teixit muscular (sec) | tissue		0	0
+fetge, tros de pell (alcohol etílic 96º) | tissue		0	0
+fetge, tros de pell, teixit muscular (alcohol etílic 70º amb 4% glicerina) | tissue		0	0
+fetge, tros de pell, teixit muscular (alcohol etílic 70º) | tissue		0	0
+fetge, tros de pell, teixit muscular (alcohol etílic 96º) | tissue		0	0
 fetus; alc. Y		0	0
 Few bones from the hind feet, hair, tissue		0	0
 ffragmentary molar columns		0	0
@@ -31739,10 +31760,9 @@ Fluid, fixed in buffered formalin and salt; mallophaga preserved, Y		0	0
 Fluid, fixed in buffered formalin and salt; Syrinx, fixed in buffered formalin and salt		0	0
 Fluid, fixed in formalin and salt		0	0
 fluid, fluid	fluid	0	1
-Fluid, Fluid, Dry	dry | fluid	0	1
-Fluid, Fluid, Dry, Tissue	dry | fluid | tissue	0	1
-Fluid, Fluid, Hemipenis	fluid | hemipenis	0	1
-fluid, fluid, photograph		0	0
+Fluid, fluid, fluid, photograph		0	0
+ hemipenis	0	1
+0	1
 Fluid, Fluid, Tissue	fluid | tissue	0	1
 Fluid, Glans	fluid | glans	1	1
 Fluid, Glans, Karyotype	fluid | glans | karyotype	1	1
@@ -31761,8 +31781,13 @@ fluid, karyo/col, skull	fluid | karyotype | skull	0	1
 fluid, karyo/NC	fluid | karyotype	0	1
 Fluid, karyo/NC, skin Skin, skull Skull	fluid | karyotype | skin | skull	0	1
 fluid, karyo/NC, skull	fluid | karyotype | skull	0	1
-fluid, karyo/NC, skull Skull	fluid | karyotypFluid, Karyotype, Skin, Skull, tissue	fluid | karyotype | skin | skull | tissue	1	1
-	1
+fluid, karyo/NC, skull Skull	fluid | karyotype | skull	0	1
+Fluid, Karyotype	fluid | karyotype	1	1
+Fluid, Karyotype, Skeleton, Skin, Skull	fluid | karyotype | skeleton | skin | skull	1	1
+Fluid, Karyotype, Skeleton, Skull	fluid | karyotype | skeleton | skull	1	1
+Fluid, Karyotype, Skin	fluid | karyotype | skin	1	1
+Fluid, Karyotype, Skin, Skull	fluid | karyotype | skin | skull	1	1
+Fluid, Karyotype, Skin, Skull, tissue	fluid | karyotype | skin | skull | tissue	1	1
 Fluid, Karyotype, Skull	fluid | karyotype | skull	1	1
 Fluid, Karyotype, Skull, tissue	fluid | karyotype | skull | tissue	1	1
 Fluid, Karyotype, tissue	fluid | karyotype | tissue	1	1
@@ -31811,16 +31836,9 @@ Fluid, Skin, Skull, tissue	fluid | skin | skull | tissue	1	1
 Fluid, Skull	fluid | skull	1	1
 fluid, skull Skull	fluid | skull	0	1
 fluid, skull, skin		0	0
-fluid, skull, taxidermy mount		0	0
-Fluid, Skull, tissue	fluid | skull | tissue	0	1
-fluid, slide		0	0
-fluid, slide, electric organ discharge recording		0	0
-fluid, slide, electric organ discharge recording, tissue		0	0
-fluid, slide, slide		0	0
-fluid, slide, tissue		0	0
-fluid, slide, tissue, electric organ discharge recording		0	0
-fluid, sound recordings		0	0
-Fluid, stomach removed		0	0
+fluid, skullFluid, stomach removed		0	0
+
+ organ discharge recording		0	0
 Fluid, stomach removed, Y		0	0
 Fluid, Syrinx, Skeleton, Syrinx		0	0
 Fluid, Syrinx, Skeleton, Tissue (DMSO/EDTA Buffer / No Medium), Syrinx		0	0
@@ -31842,8 +31860,12 @@ fluid, tissue, cleared and stained, tissue, tissue		0	0
 Fluid, Tissue, Dry	dry | fluid | tissue	0	1
 fluid, tissue, dry skeleton		0	0
 fluid, tissue, electric organ discharge recording		0	0
-fluid, tissue, electric organ discharge recording, photograph, tissue		fluid, tissue, photograph, tissue		0	0
-	fluid | hemipenis | microtechnique | tissue	0	1
+fluid, tissue, electric organ discharge recording, photograph, tissue		0	0
+fluid, tissue, fluid	fluid | tissue	0	1
+Fluid, Tissue, Microtechnique	fluid | microtechnique | tissue	0	1
+Fluid, Tissue, Microtechnique, Hemipenis	fluid | hemipenis | microtechnique | tissue	0	1
+fluid, tissue, photograph		0	0
+fluid, tissue, photograph, tissue		0	0
 Fluid, Tissue, Recording	fluid | recording | tissue	0	1
 fluid, tissue, slide		0	0
 Fluid, Tissue, Tissue		0	0
@@ -31907,9 +31929,8 @@ Fluid; Skel; Skin		0	0
 Fluid; Skin		0	0
 Fluid; Skin; Fluid		0	0
 Fluid; Skin; Skel; Skin/toe clip	fluid | skin | skel	0	1
-Fluid; Skin; Skin/toe clip	fluid | skin	0	1
-Fluid; Skin; Tissue		0	0
-Fluid; Syrinx		0	0
+Fluid; Skin; Skin/toe clip	fluid | skiFluid; Syrinx		0	0
+	0	0
 Fluid; Syrinx; Skel		0	0
 Fluid; Syrinx; Skel; Tissue; Genbank; Skin; Wings_tail		0	0
 Fluid; Syrinx; Tissue		0	0
@@ -31939,7 +31960,8 @@ FOOT & LIMB BONES		0	0
 FOOT & LIMB FRAGS		0	0
 FOOT & LIMB FRAGS: 2 VIALS		0	0
 Foot (fragmentary)		0	0
-Foot (in spirit)		0Foot (left)		0	0
+Foot (in spirit)		0	0
+Foot (left)		0	0
 Foot (left, articulated)		0	0
 Foot (left, dried)		0	0
 Foot (left, hind, wax impregnated)		0	0
@@ -32025,8 +32047,7 @@ FOREFOOT, PARTIAL L		0	0
 foreleg SEM		0	0
 FORELEG, RADIUS & ULNA		0	0
 FORELIMB		0	0
-FORELIMB & FOOT (COMPOSITE)		0	0
-FORELIMB & FOOT BONE FRAGS		0	0
+FORELIMB & FOOT (COMPOSITFORELIMB & FOOT BONE FRAGS		0	0
 FORELIMB & FOOT BONES		0	0
 FORELIMB & HIND LIMB BONES; LARGE JUVENILE		0	0
 forelimb (dry) | muscle (95% ethanol)		0	0
@@ -47123,9 +47144,8 @@ LATERAL MID PHALANX		0	0
 Lateral one-third peripheral.		0	0
 lateral osteoderm		0	0
 lateral osteoderm frags (4)		0	0
-lateral osteoderm, juv		0	0
-lateral osteoderms (2)		0	0
-LATERAL PHALANGES		0	0
+lateral osteLATERAL PHALANGES		0	0
+0	0
 LATERAL PHALANX		0	0
 LATERAL PLATE		0	0
 Lateral plate (incomplete) + other fragments		0	0
@@ -47178,6 +47198,8 @@ LE	larvae	0	1
 LE (>50)	larvae	0	1
 LE (1)	larva	0	1
 LE (12)	larva	0	1
+LE (13)	larva	0	1
+LE (14)	larva	0	1
 LE (15)	larva	0	1
 LE (18)	larva	0	1
 LE (19)	larva	0	1
@@ -47280,8 +47302,7 @@ left dentary frag w p3 alveolus, P/4-M/1		0	0
 left dentary frag w partial symphysis, premolar alveoli, m1 alveoli		0	0
 left dentary frag w roots of m/1-m/2		0	0
 left dentary frag with dp4		0	0
-left dentary frag with P/3-M/1		0	0
-left dentary frag, anterior 1/2		0	0
+left dentary fraleft dentary frag, anterior 1/2		0	0
 Left Dentary frag. m1-m3		0	0
 Left Dentary frag. p3-m2		0	0
 Left Dentary frag. p3-p4.		0	0
@@ -50568,6 +50589,7 @@ MANDIBLES,VERTEBRAE,SKIN		0	0
 mandibles/teeth		0	0
 MANDIBULA (PARTIAL), CAUDAL (ARTICULATIVE) END, SEEMS TO INCLUDE MOST OF MANDIBLE EXCEPT ROSTRAL PORTION OF OS DENTALE		0	0
 mandíbula (sec)		0	0
+mandíbula superior (sec) | tissue		0	0
 mandibular and bone frags.		0	0
 mandibular cartilage		0	0
 mandibular cartilage fragment		0	0
@@ -53841,8 +53863,7 @@ MS R JAW, P/4-M/1-M/2		0	0
 M'S,P'S,I'S,SESAMOIDS		0	0
 MS/		0	0
 msc long bone		0	0
-MT		0	0
-MT 2 FUSED		0	0
+MT		0MT 2 FUSED		0	0
 MT DISTAL		0	0
 MT frag		0	0
 MT FRAG PROX END L		0	0
@@ -53898,7 +53919,8 @@ MUMIFIED TAIL	mummified tail	0	1
 MUMMIFIED	mummy	0	1
 Mummified - 1		0	0
 Mummified - 1; Mandibles - 1		0	0
-Mummified - 1; Skelemummified head only		0	0
+Mummified - 1; Skeleton - 1		0	0
+mummified head only		0	0
 mummified skin of 1 foot only		0	0
 mummified skin, tissue		0	0
 MUMMIFIED SPECIMEN	mummy	0	1
@@ -55592,6 +55614,8 @@ ou		0	0
 ou (alcohol etílic 70º amb 4% glicerina)		0	0
 ou (etílic 70 amb glicerina)		0	0
 ou (sec)		0	0
+ou, fetge (alcohol etílic 70º) | tissue		0	0
+ou, teixit muscular (alcohol etílic 96º) | tissue		0	0
 OVARIES	ovaries	0	1
 Ovaries + oviducts + kidneys (in spirit)		0	0
 Ovaries, oviducts, lungs etc. (in spirit)		0	0
@@ -60646,6 +60670,7 @@ pedrer (alcohol etílic 96º)		0	0
 pedrer (etílic 70 amb glicerina)		0	0
 Peel of part of Holotype		0	0
 Peels		0	0
+pell de la trompa, teixit muscular (alcohol etílic 70º) | tissue		0	0
 pell del peu (sec)		0	0
 pell d'estudi		0	0
 pell d'estudi (alcohol etílic 96º)		0	0
@@ -64153,7 +64178,9 @@ PTERYGOID OR SPLENIAL		0	0
 PTERYGOID TOOTH PLATES		0	0
 PTERYGOID W TEETH		0	0
 PTERYGOID W TEETH ?		0	0
-PTERYGOID W TEETH,PROPODIPTERYGOID, PARTIAL MAX, BITS OF MANDIBLE, IN COUNTERPART, ASSOCIATED		0	0
+PTERYGOID W TEETH,PROPODIAL		0	0
+PTERYGOID, PARIETAL, 2 MAX, DENTARY WITH T/# (3)		0	0
+PTERYGOID, PARTIAL MAX, BITS OF MANDIBLE, IN COUNTERPART, ASSOCIATED		0	0
 PTERYGOID,EXOCCIPITAL		0	0
 PTERYGOID,PARASPHENOID,EXOCCIPITAL		0	0
 PTERYGOID,QUADRATE,QUADRAGOJUGAL		0	0
@@ -64249,9 +64276,8 @@ R & L DP/3-DP/4-M/1-M/2		0	0
 R & L FEMORA & TIBIA, JUVENILE		0	0
 R & L FRONTALS		0	0
 R & L HIND FEET (COMPOSITE)		0	0
-R & L HIND LIMBS: 2 FEMORA, 2 TIBIAE, 2 FIBULAE		0	0
-R & L HUMERI		0	0
-R & L I1/ ; R I2/		0	0
+R R & L I1/ ; R I2/		0	0
+, 2 TIBIAE, 2 FIBULAE		0	0
 R & L JAW FRAGS		0	0
 R & L JAW FRAGS, M/1, M/2, P/4		0	0
 R & L JAW RAMI WITH BROKEN I/#-C/#, P/1-M/3		0	0
@@ -64412,8 +64438,8 @@ R ?P/3-P/4 M/3 FRAG, L ?P/4		0	0
 R ?p2, tooth frags		0	0
 R ?P3/		0	0
 r ?p4		0	0
-R ?P4/-M1/, l ?P/4-M/1 L ?P/3, M/1, M/2, ? R M/2		0	0
-R _ M/1, _ M/2		0	0
+R ?P4/-M1/, l ?P/4-M/1 L ?PR _ M/1, _ M/2		0	0
+		0	0
 R _ M/1, M/2 IN JAW FRAG		0	0
 R _ M/1-M/2 IN JAW FRAG		0	0
 R + L astragalus		0	0
@@ -64533,8 +64559,7 @@ r astragalus frag		0	0
 R astragalus frag.		0	0
 R astragalus fragment		0	0
 r astragalus head		0	0
-R ASTRAGALUS INCOMPL		0	0
-R ASTRAGALUS, 2 PROXIMAL METAPODIALS & FRAGS		0	0
+RR ASTRAGALUS, 2 PROXIMAL METAPODIALS & FRAGS		0	0
 R astragalus, chip missing.		0	0
 R ASTRAGALUS, FAIRLY WELL PRESERVED		0	0
 R ASTRAGALUS, SMALL SIZE		0	0
@@ -82048,8 +82073,7 @@ Skin, Skeleton, Skeletal elements, Skeleton, Skeletal elements		0	0
 Skin, Skeleton, Skeleton	skeleton | skin	0	1
 Skin, Skeleton, Skeleton, Tissue, Tissue		0	0
 skin, skeleton, skull and mandible | skin, skeleton, skull and mandible		0	0
-skin, skeleton, stomach - 1	skeleton | skin | stomach - 1	0	1
-skin, skeleton, syrinx, Tissue number 1149		0	0
+skin, skeleton, stomach - 1	skeleskin, skeleton, syrinx, Tissue number 1149		0	0
 skin, skeleton, syrinx, Tissue number 11745		0	0
 skin, skeleton, syrinx, Tissue number 12273 at Smithsonian		0	0
 skin, skeleton, syrinx, Tissue number 1242		0	0
@@ -82077,7 +82101,8 @@ skin, skeleton, Tissue number 10068		0	0
 skin, skeleton, Tissue number 10070		0	0
 skin, skeleton, Tissue number 10073		0	0
 skin, skeleton, Tissue number 10097		0	0
-skin, skeleton, Tissueskin, skeleton, Tissue number 10441		0	0
+skin, skeleton, Tissue number 10127		0	0
+skin, skeleton, Tissue number 10441		0	0
 skin, skeleton, Tissue number 10477		0	0
 skin, skeleton, Tissue number 10478		0	0
 skin, skeleton, Tissue number 10479		0	0
@@ -104954,7 +104979,6 @@ TAIL FIN + PALAEONISCOID GASTRIC RESIDUE		0	0
 TAIL FIN SPINES ?		0	0
 TAIL OF 16+/- CAUDALS, DECAYED		0	0
 tail only		0	0
-TAIL PARTIAL, A+B		0	0
 TAIL PARTIAL, LARGE, NC		0	0
 TAIL PARTIAL, NC		0	0
 Tail showing electric organs (in spirit)		0	0
@@ -105004,7 +105028,8 @@ TALONID R M/#		0	0
 TALONID R M/1		0	0
 TALONID R M/1?		0	0
 TALONID R M/3		0	0
-TALONID R M/3 IN DENTATALONID R M/4 IN DENTARY FRAG		0	0
+TALONID R M/3 IN DENTARY FRAG		0	0
+TALONID R M/4 IN DENTARY FRAG		0	0
 talonids		0	0
 Talus		0	0
 TALUS AND CUBOID		0	0
@@ -105586,7 +105611,15 @@ TEETH+VERTEBRA		0	0
 teeth+vertebrae		0	0
 tegument (etílic 70 amb glicerina)		0	0
 tegument (sec)		0	0
+teixit (alcohol etílic 96º) | tissue		0	0
+teixit muscular (alcohol etílic 70º congelat) | tissue		0	0
+teixit muscular (alcohol etílic 70º) | tissue		0	0
+teixit muscular (alcohol etílic 96º) | tissue		0	0
+teixit muscular (alcohol etílic) | tissue		0	0
+teixit muscular (congelat) | tissue		0	0
+teixit muscular (etílic 70 amb glicerina) | tissue		0	0
 teixit muscular (sec)		0	0
+teixit muscular, orella (alcohol etílic 96º) | tissue		0	0
 TELEOST SKELETON COMPLETE		0	0
 TELEOST SKELETON NEARLY COMPLETE		0	0
 TEMPORAL & AUDITORY AREA FRAG L		0	0
@@ -105602,6 +105635,7 @@ termphalanx		0	0
 TESTES AND KIDNEYS (MICROSLIDES/TISSUE BLOCKS)		0	0
 TESTES AND KIDNEYS (MICROSLIDES/TISSUE BLOCKS), tissue	testes (microslides, tissue blocks) | kidneys (microslides, tissue blocks) | tissue	0	1
 TESTES IN ALCOHOL	testes in alcohol	0	1
+testicles, teixit muscular (alcohol etílic 70º) | tissue		0	0
 Testicular network (in spirit)		0	0
 Testis + epididymis (in spirit)		0	0
 TH	head | tail | body skin in alcohol | tissue	0	1
@@ -107888,7 +107922,13 @@ TROCHLEAE 3+4 OF TARSOMETATARSUS		0	0
 tros de pell		0	0
 tros de pell (alcohol etílic 70º)		0	0
 tros de pell (alcohol etílic 96º)		0	0
+tros de pell (alcohol etílic 96º) | tissue		0	0
 tros de pell (sec)		0	0
+tros de pell (sec) | tissue		0	0
+tros de pell, brànquia, ull (alcohol etílic 96º) | tissue		0	0
+tros de pell, teixit muscular (alcohol etílic 70º) | tissue		0	0
+tros de pell, teixit muscular (alcohol etílic 96º) | tissue		0	0
+tros de pell, teixit muscular (alcohol etílic 96º, alcohol etílic 70º amb 4% glicerina) | tissue		0	0
 TRUNK		0	0
 TRUNK & CAUDAL REGION		0	0
 TRUNK & TAIL VERTEBRAE | Cast		0	0
