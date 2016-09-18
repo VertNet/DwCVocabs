@@ -1971,6 +1971,7 @@ ept one rotten		0	0
 1578 advanced; 1579 infertile?		0	0
 1582 fresh/infertile; 1583 moder		0	0
 1582 fresh/infertile; 1583 moderate.		0	0
+159		0	0
 15K		0	0
 16 day old chicks		0	0
 16 days		0	0
@@ -2195,7 +2196,7 @@ ept one rotten		0	0
 2 begun		0	0
 2 begun, 1 addled		0	0
 2 begun, 1 fresh		0	0
-2 begun, 1 half-hatched, 2 nearl		02 begun, 2 a fifth		0	0
+2 begun, 1 half-hatched, 2 begun, 2 a fifth		0	0
 2 begun, 2 fresh		0	0
 2 begun, 2 medium		0	0
 2 begun; 1 fresh		0	0
@@ -2922,6 +2923,7 @@ ept one rotten		0	0
 25 yr. old		0	0
 25%		0	0
 25% incubated		0	0
+250		0	0
 2503 moderate		0	0
 2506 moderate		0	0
 2553 advanced-feathered		0	0
@@ -3610,9 +3612,8 @@ ept one rotten		0	0
 4 ADULT; 5 JUVENILE		0	0
 4 ADULT; 8 JUVENILE		0	0
 4 adults		0	0
-4 ADULTS AND 3 LARVAE		0	0
-4 adult4 adults, eggs		0	0
-
+4 ADULTS AND 3 LARVAE		0	4 adults, 19 juveniles		0	0
+4 adults, eggs		0	0
 4 advanced, runt infertile		0	0
 4 birds fledged on 20 June-nest 		0	0
 4 birds fledged on 20 June-nest only.		0	0
@@ -3750,9 +3751,9 @@ ept one rotten		0	0
 4 out of 5 eggs piped		0	0
 4 rotten, 1 badly incubated		0	0
 4 samples, all fragments; Layer 		0	0
-4 samples, all fragments; Layer A; Layer B; Layer 		0	0
-4 4 sli. 1 infert.		0	0
-0
+4 samples, all fragments; Layer4 samples; Layers A-D		0	0
+4 showing blood		0	0
+4 sli. 1 infert.		0	0
 4 slight, 1 infertile		0	0
 4 slight, 2 fresh		0	0
 4 slight, 4 fully form		0	0
@@ -3912,7 +3913,8 @@ ept one rotten		0	0
 4606 advanced; 4607 slight; 4608 moderate		0	0
 4611-12; 4614 slight; 4613 moder		0	0
 4611-12; 4614 slight; 4613 moderate		0	0
-4622 fr4630 moderate; 4631 slight		0	0
+4622 fresh; 4623 slight		0	0
+4630 moderate; 4631 slight		0	0
 4632 moderate; 4633 slight		0	0
 4643 moderate; 4635 slight-dead?		0	0
 4643 moderate; 4635 slight-dead? Cracked shell; 46		0	0
@@ -4074,6 +4076,7 @@ ept one rotten		0	0
 50% developed		0	0
 50% incubated		0	0
 50% oss		0	0
+500		0	0
 5015 slight		0	0
 5020-21 slight		0	0
 5022-23 slight		0	0
@@ -4566,13 +4569,11 @@ about @ 1/2		0	0
 About 1  week		0	0
 About 1 1/2 weeks		0	0
 about 1 day		0	0
-about 1 day incubated		0	0
-about 1 or 2 days		0	0
-About 1 Week		0	0
-about 1 week advanced		0	0
-ababout 1.5 weeks		0	0
-0
-d		0	0
+about 1 day incubatedAbout 1 week, egg2- addled		0	0
+About 1 week.		0	0
+about 1.4 complete		0	0
+about 1.5 days		0	0
+about 1.5 weeks		0	0
 About 1/2		0	0
 About 1/2 advanced		0	0
 about 1/2 complete		0	0
@@ -4735,8 +4736,9 @@ About 5 days incubated		0	0
 about 5 days, all uniform		0	0
 About 5 days.		0	0
 about 5 days. 1/3		0	0
-about 5about 5%		0	0
-ys		0	0
+about 5 to 8 days		0	0
+about 5 to 9 days		0	0
+about 5%		0	0
 about 5/8		0	0
 About 50 %		0	0
 about 50%		0	0
@@ -4923,16 +4925,16 @@ Ad skull fully ossified		0	0
 ad SNFO		0	0
 ad SNQFO		0	0
 ad, ASY		0	0
-Ad, SFO breeding		0	0
-Ad.	adult	0	1
+Ad, SFO breeding	Ad.	adult	0	1
 Ad. (?)		0	0
 ad. (8+ yrs)		0	0
 Ad. ?		0	0
 Ad. ? 1 yr.		0	0
 Ad. ? 3 yr.		0	0
 Ad. [?]		0	0
-Ad. Ad. 3 yr.		0	0
-	0
+Ad. 1st & 2nd yr.		0	0
+Ad. 2 yr.		0	0
+Ad. 3 yr.		0	0
 ad. after 3rd year		0	0
 Ad. br.		0	0
 ad. but young		0	0
@@ -5092,7 +5094,8 @@ adult (?)	adult	0	1
 ADULT (1); JUVENILE (		0	0
 adult (15+ yrs. old)	adult	0	1
 adult (49 days)		0	0
-ADULT (BREEDING)	adultADULT (BY PLUMAGE); BURSA NOT FO		0	0
+ADULT (BREEDING)	adult	0	1
+ADULT (BY PLUMAGE); BURSA NOT FO		0	0
 Adult (Dry shell)		0	0
 Adult (hatch year)		0	0
 Adult (im)		0	0
@@ -6269,7 +6272,8 @@ advanced in one
 Advanced in three		0	0
 advanced in two eggs		0	0
 advanced incubation		0	0
-advanceadvanced one third		0	0
+advanced one egg addled		0	0
+advanced one third		0	0
 Advanced one third.		0	0
 advanced partially		0	0
 advanced past middle stage		0	0
@@ -6422,14 +6426,14 @@ AHY (BY PLUMAGE)		0	0
 AHY (SY?)		0	0
 AHY by date and plumage		0	0
 AHY by lack of molt limits		0	0
-AHY by plumage		0	0
-AHY by primary covert pattern an		0	0
-AHY Male	AHY	0	1
+AHYAHY Male	AHY	0	1
+ert pattern an		0	0
 AHY MALE;		0	0
 AHY/ASY	adult	0	1
 AHY/SY		0	0
 AHY; AGED BY BILL/PLUMAGE		0	0
-AHY; BURSA NOT FOUNDAHY; BURSA NOT FOUND; SKULL 100%		0	0
+AHY; BURSA NOT FOUND		0	0
+AHY; BURSA NOT FOUND; SKULL 100%		0	0
 AHY; NO  BURSA; SKULL 100% OSS.		0	0
 AHY; NO BURSA		0	0
 AHY; NO BURSA; SKULL 100 % OSS.		0	0
@@ -6561,8 +6565,7 @@ All four eggs addled		0	0
 All four eggs hatched in captivi		0	0
 All four eggs hatched in captivity.		0	0
 All four eggs hatched in lab.		0	0
-All four eggs hatched in the lab		0	0
-All four eggs hatched in the lab.		0	0
+All four eggs hatched iAll four eggs hatched in the lab.		0	0
 All four eggs hatched normally a		0	0
 All four eggs hatched normally at SCPBRG		0	0
 All four eggs hatched.		0	0
@@ -6702,13 +6705,13 @@ ALTERNATE PLUMAGE; NO BURSA FOUN		0	0
 AMMOCETE		0	0
 AMMOCETES		0	0
 Ammocoete		0	0
-AMMOCOETE LARVA		0	0
-AMMOCOETES		0	0
+AMMOCOETE AMMOCOETES		0	0
 AMMOECETE		0	0
 AMNOCETES		0	0
 Amplexing with UAZ50272		0	0
 Amplexing with UAZ50273		0	0
-AN	adult	an egg in nest on the 17th		0	0
+AN	adult	0	1
+an egg in nest on the 17th		0	0
 anm.		0	0
 Anout one week		0	0
 anvanced		0	0
@@ -6872,12 +6875,13 @@ beg.		0	0
 began		0	0
 began - about 5 days		0	0
 began - fully formed embryos		0	0
-began - slight		0	0
-Began (1/2)		0	0
+bBegan (1/2)		0	0
+
 Began (about 1/3)		0	0
 began (about 1/4)		0	0
 Began 3 days		0	0
-began 3 or 4 days	Began 3-5		0	0
+began 3 or 4 days		0	0
+Began 3-5		0	0
 began a few days		0	0
 began set		0	0
 began to advanced		0	0
@@ -7022,8 +7026,7 @@ Begun, deserted.		0	0
 Begun, eggs missing		0	0
 Begun, embryo forming		0	0
 Begun, embryos formed		0	0
-Begun, first stages		0	0
-begun, fresh		0	0
+Begun, first stages	begun, fresh		0	0
 begun, fresh eggs were in the ne		0	0
 begun, middle stage,small embryo		0	0
 begun, middle stage,small embryos		0	0
@@ -7178,11 +7181,11 @@ bones		0	0
 bones & feathers		0	0
 bones formed (advanced)		0	0
 bones forming		0	0
-bordering "moderate"		0	0
-bordering Considerable		0	0
+bordering "moderatbordering Considerable		0	0
 Bordering moderate		0	0
 BORN 16 JUN 2003 MIAMI METROZOO		0	0
-BornBorn 1966.  Euthanized 3 Novembe		0	0
+Born 1965.  Euthanized 3 Novembe		0	0
+Born 1966.  Euthanized 3 Novembe		0	0
 Born 7/18/1971 to UAZ34319		0	0
 Born 7/19/1971 from UAZ34328		0	0
 BORN CA 1953		0	0
@@ -10143,11 +10146,11 @@ Fresh (6 days)		0	0
 Fresh (A trace of red)		0	0
 Fresh (addled)		0	0
 Fresh (apparently deserted)		0	0
-Fresh (appear somewhat congealed		0	0
-Fresh (at most 2 days		0	0
-fresh (bird incubating)		0	0
+Fresh (appear somefresh (bird incubating)		0	0
 fresh (bird on nest)		0	0
-Fresh (bird on nest? SittFresh (but presumably 2 days)		0	0
+Fresh (bird on nest? Sitting?)		0	0
+fresh (bird sitting)		0	0
+Fresh (but presumably 2 days)		0	0
 Fresh (but several days)		0	0
 Fresh (claw hole in two eggs)		0	0
 Fresh (comm'd)		0	0
@@ -10572,13 +10575,14 @@ Fresh(?)		0	0
 fresh(1 day)		0	0
 fresh(egg #3 showing blood)		0	0
 fresh-(very slight) (contents no		0	0
-fresh-(very slight) (contents normal)		0	0
-fresh,		0	0
-fresh, 1 addled		0	0
-fresh, 1 begun		0	0
-Fresh, 1 day		0	0
-Fresh, 1 day apparently		0	0
-fFresh, 2 eggs showing indication		0	0
+fresh-(very slight) (contentsfresh, 1 egg addled		0	0
+	0
+fresh, 1 started		0	0
+fresh, 10 days		0	0
+fresh, 2 begun		0	0
+fresh, 2 days		0	0
+fresh, 2 days started		0	0
+Fresh, 2 eggs showing indication		0	0
 Fresh, 2 eggs showing indications of incubation		0	0
 fresh, 2 started		0	0
 fresh, 2 trace		0	0
@@ -10708,12 +10712,11 @@ Fresh. 2 eggs got broken.		0	0
 fresh. 4th day no egg was laid s		0	0
 fresh. 4th day no egg was laid so conclude set ful		0	0
 Fresh. Abandoned		0	0
-fresh. Additional information on		0	0
-fresh. bird sitting		0	0
-Fresh. Building 2 weeks ago		0	0
+fresh. Additional information Fresh. Building 2 weeks ago		0	0
 fresh. Comm. Probably deserted		0	0
 fresh. Deserted		0	0
-Fresh. Found 2 Fresh. Found 2 weeks earlier w/ no eggs.		0	0
+Fresh. Found 2 weeks earlier w/ 		0	0
+Fresh. Found 2 weeks earlier w/ no eggs.		0	0
 Fresh. Had yolk. Very undersized		0	0
 Fresh. Marked 2/4		0	0
 fresh. Nearly.		0	0
@@ -10851,15 +10854,16 @@ Fresh-runt no yolk		0	0
 Fresh-set probably incomplete		0	0
 Fresh-single egg found 5-26, sec		0	0
 Fresh-single egg found 5-26, second laid 5-29		0	0
-Fresh-Slight		0	0
-fresh-started		0	0
-fresh-trace		0	0
+Fresh-Slight		0	0fresh-trace		0	0
+
 fresh-very slight		0	0
 fresh--yolkless		0	0
 Fresj		0	0
 friska		0	0
 froglet		0	0
-from 1/From 1994 breeding. 2 samples.		0	0
+from 1/2 to 3/4		0	0
+From 1/3 to about 1/2		0	0
+From 1994 breeding. 2 samples.		0	0
 From 2 To 6 Days		0	0
 from 3 or 4 to about 7 days		0	0
 from 3 or 4 to about 7 days (nea		0	0
@@ -11003,8 +11007,8 @@ hairy		0	0
 Hairy embroys		0	0
 Hale		0	0
 Hale incubated		0	0
-Hale incubated; linfertile		0	0
-Half		0	0
+Hale incubaHalf		0	0
+tile		0	0
 Half advanced		0	0
 half begun		0	0
 half completed		0	0
@@ -11155,8 +11159,7 @@ Hatched in nest; nest fledgled o		0	0
 Hatched in nest; nest fledgled one female.		0	0
 Hatched in Phoenix Zoo		0	0
 hatched in wild		0	0
-Hatched in wild (?)		0	0
-Hatched in wild (3 eggs)		0	0
+HatchedHatched in wild (3 eggs)		0	0
 Hatched in wild (Produced two yo		0	0
 Hatched in wild (Produced two young).		0	0
 Hatched in wild and produced 3 y		0	0
@@ -13682,12 +13685,12 @@ Large-medium embryos		0	0
 Larger embryos: 4		0	0
 Largew embryos		0	0
 Larhe embryos		0	0
-Larhe embryos. Nearly hatched.		0	0
-larva	larva	0	1
-larva (27)		0	0
-larva (3) and salamanders (17)		0	0
+Larhe embryoslarva (3) and salamanders (17)		0	0
 LARVA (AMMOCOETE)		0	0
-larva Larva when collected		0	0
+larva (with rear legs)		0	0
+LARVA AND JUVENILE		0	0
+Larva when captured		0	0
+Larva when collected		0	0
 LARVA, JUVENILE		0	0
 LARVA, JUVENILE, ADUL		0	0
 larva, lot of 1		0	0
@@ -14941,11 +14944,11 @@ One 29 Day Old Chick		0	0
 One 30 Day Old Chick		0	0
 one 7/8 and one rotten		0	0
 one 9 and one about 7 days incub		0	0
-one 9 and one about 7 days incubated		0	0
-One about 1/3. Two about 1/4.		0	0
+one 9 and one aboOne about 1/3. Two about 1/4.		0	0
 one about half, one fresh		0	0
 one addled - one begun		0	0
-one addled 2 1/2 dOne addled plus fragments		0	0
+one addled 2 1/2 done.		0	0
+One addled plus fragments		0	0
 one addled, 3 about half		0	0
 One addled, 4 about five days		0	0
 one addled, about 1/2		0	0
@@ -15510,11 +15513,11 @@ pullusi ?		0	0
 Punctured in deserted nest		0	0
 pup		0	0
 pups	juvenile	0	1
-PURCHASED 10 AUG 2006		0	0
-PURCHASED 14 APRIL 2005; HATCH D		0	0
+PURCHASED 1PURCHASED 14 APRIL 2005; HATCH D		0	0
 PURCHASED 17 OCTOBER 2001 FROM S		0	0
 PURCHASED 4 FEB 2004		0	0
-PURCPURCHASED BY MIAMI METROZOO IN  		0	0
+PURCHASED BY MIAMI METROZOO 5 JU		0	0
+PURCHASED BY MIAMI METROZOO IN  		0	0
 PURCHASED BY MIAMI METROZOO IN J		0	0
 PURCHASED FROM BELGIUM DEALER IN		0	0
 PURCHASED OCTOBER 2002 FROM BELG		0	0
@@ -15815,13 +15818,13 @@ showing blood; small embryos		0	0
 Showing blood; smalle embryos		0	0
 showing blood; well started		0	0
 showing blood?		0	0
-Showing blood-1 Small embryo-1		0	0
-Showing blood-small embryos		0	0
+Showing blood-1 Small embryo-1		0	Showing blood-small embryos		0	0
 showing embryos		0	0
 showing in 1		0	0
 showing in 1 egg		0	0
 Showing in 1 egg.		0	0
 showing in 2		0	0
+showing in 2 eggs		0	0
 Showing in 2 eggs, 2 fresh		0	0
 showing in 2, other fresh		0	0
 Showing in 3		0	0
@@ -16784,12 +16787,12 @@ slightly commenced		0	0
 slightly congealed		0	0
 slightly decomposed		0	0
 Slightly developed		0	0
-Slightly developed embryo		0	0
-Slightly developed embryo.		0	0
-slightly developed, some blood v		0	0
+Slightly developed embryo		0	0slightly developed, some blood v		0	0
 slightly developed, some blood veins showing		0	0
 Slightly fertile		0	0
-Slightly formed		0Slightly Hardened Embryos		0	0
+Slightly formed		0	0
+slightly fresh		0	0
+Slightly Hardened Embryos		0	0
 slightly inc		0	0
 slightly inc.		0	0
 slightly incub.		0	0
@@ -16920,14 +16923,13 @@ small embryos; see card.		0	0
 small embryos; slightly variable		0	0
 Small Embryos>very Small Embryos		0	0
 small embryros		0	0
-Small embs		0	0
-Small embs.		0	0
-Small embyo		0	0
 small embyros		0	0
 small emryos		0	0
 Small enbryos		0	0
 Small eyes		0	0
-Small eyes in embryos		0	0Small feather stage; one egg infertile		0	0
+Small eyes in embryos		0	0
+Small feather stage; one egg inf		0	0
+Small feather stage; one egg infertile		0	0
 small feet formed (well along)		0	0
 small is infertile, large is ful		0	0
 small is infertile, large is fully incubated		0	0
@@ -17071,7 +17073,8 @@ somewhat started		0	0
 Somewhat-not much		0	0
 Somm		0	0
 sp		0	0
-SP26, SpecimSP26, Specimen intact; nest in 8 exclosure. Nest m		0	0
+SP26, Specimen intact; nest in 8		0	0
+SP26, Specimen intact; nest in 8 exclosure. Nest m		0	0
 SP33, specimen intact. Nest mate		0	0
 SP33, specimen intact. Nest material collected		0	0
 SP55, both eggs with large crack		0	0
@@ -17221,8 +17224,7 @@ strong		0	0
 sub		0	0
 sub ad		0	0
 sub ad.		0	0
-sub adult		0	0
-SUB ADULT [SY?] ; NO BURSA		0	0
+sub adult		0SUB ADULT [SY?] ; NO BURSA		0	0
 SUB ADULT BY PLUMAGE		0	0
 SUB ADULT,		0	0
 Sub Adult?	subadult	0	1
@@ -17230,7 +17232,8 @@ sub(?)adult		0	0
 sub.		0	0
 Sub. Ad.		0	0
 Sub.Ad.		0	0
-Sub?		suba		0	0
+Sub?		0	0
+suba		0	0
 sub-abult		0	0
 subad		0	0
 SUB-AD		0	0
@@ -18045,11 +18048,11 @@ varying, fresh to 1/2		0	0
 varying, infertile		0	0
 Varying: one fresh, one slight, 		0	0
 Varying; 3 slight, 1 addled		0	0
-Varying; fresh to slight		0	0
-Vbl from F(infertile?) to v smal		0	0
-Vbl from F(infertile?) to v small embryos		0	0
+VaryiVbl from F(infertile?) to v small embryos		0	0
 Vbl from fresh to considerable		0	0
-Vbl. slight and traceVble from embys to trace of feat		0	0
+Vbl. slight and trace embryo		0	0
+vble embryos		0	0
+Vble from embys to trace of feat		0	0
 Vble from embys to trace of feathers		0	0
 Vble slight to moderate		0	0
 Vble. F to very slight		0	0
@@ -18201,6 +18204,7 @@ very tough embryos		0	0
 very well		0	0
 very well advanced		0	0
 Very well incubated		0	0
+very worn plumage		0	0
 Very young		0	0
 Very young *		0	0
 VERY YOUNG WHEN COLLECTED IN DEC		0	0

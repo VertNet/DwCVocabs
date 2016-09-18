@@ -7770,6 +7770,7 @@ A, INCOMPLETE; SMALL FISH; GOOD		0	0
 A, WHOLE; EXCELLENT		0	0
 A, WHOLE; LONG, SLIM; LONG CAUDAL FULCRA, PALATE MANDIBLE INSIDE; RHAD. SNOUT; FAIR		0	0
 A, WHOLE; SKULL ROOF, ACCESSORY OPERCS		0	0
+A,O		0	0
 A. A. Lindsey		0	0
 A. A. Lindsey (RNP 041)		0	0
 A. A. Nikiforov 01		0	0
@@ -8499,7 +8500,7 @@ Alcohol/Ethanol - 3		0	0
 Alcohol/Ethanol - 4		0	0
 Alcohol/Ethanol - 49		0	0
 Alcohol; Photo		0	0
-Alcohol; Photograph		0alcohol?		0	0
+Alcohol; Phoalcohol?		0	0
 raph - 2		0	0
 alcoholc		0	0
 AlcoholDry		0	0
@@ -8512,6 +8513,7 @@ Alcoholic - 1; Alcoholic - 1		0	0
 Alcoholic - 1; Eggs - 1		0	0
 Alcoholic - 1; Mount - 1		0	0
 Alcoholic - 1; Nest - 1; Tissue - 100		0	0
+Alcoholic - 1; Skin - 1		0	0
 Alcoholic - 1; Skin - 1; Tissue - 100; Syrinx - 1		0	0
 Alcoholic - 1; Syrinx - 1		0	0
 Alcoholic - 1; Syrinx - 1; Mount - 1		0	0
@@ -8617,7 +8619,7 @@ alcoholic + alc gut (2 vials) + 1 aliquot DNA product		0	0
 alcoholic + alc gut + 1 aliquot DNA product		0	0
 alcoholic + alc gut + 13 eggs		0	0
 alcoholic + alc gut + endoparasites		0	0
-alcoholic + alc gut + misc: 1 glass slidealcoholic + alc gut + misc: 1 glass slide +		0	0
+alcoholic +alcoholic + alc gut + misc: 1 glass slide +		0	0
 alcoholic + alc gut + misc: 2 glass slides		0	0
 alcoholic + alc gut + tissue		0	0
 alcoholic + alc gut contents		0	0
@@ -54704,6 +54706,7 @@ numerous vertebrae		0	0
 NWHRC		0	0
 o	other prep	0	1
 O | tissue	other prep | tissue	0	1
+O, M		0	0
 O. C. Feinstein 06/A. M. Tun 08		0	0
 O. C. Hastings		0	0
 O. Dowell, Jr.		0	0
@@ -64275,9 +64278,9 @@ R & L DENTARY, R BROKEN M/1, M/2-M/3		0	0
 R & L DP/3-DP/4-M/1-M/2		0	0
 R & L FEMORA & TIBIA, JUVENILE		0	0
 R & L FRONTALS		0	0
-R & L HIND FEET (COMPOSITE)		0	0
-R R & L I1/ ; R I2/		0	0
-, 2 TIBIAE, 2 FIBULAE		0	0
+R & L HIND FEET (COMPOSITR & L HUMERI		0	0
+ FEMORA, 2 TIBIAE, 2 FIBULAE		0	0
+R & L I1/ ; R I2/		0	0
 R & L JAW FRAGS		0	0
 R & L JAW FRAGS, M/1, M/2, P/4		0	0
 R & L JAW RAMI WITH BROKEN I/#-C/#, P/1-M/3		0	0
@@ -64438,8 +64441,8 @@ R ?P/3-P/4 M/3 FRAG, L ?P/4		0	0
 R ?p2, tooth frags		0	0
 R ?P3/		0	0
 r ?p4		0	0
-R ?P4/-M1/, l ?P/4-M/1 L ?PR _ M/1, _ M/2		0	0
-		0	0
+RR _ M/1, _ M/2		0	0
+ L ?P/3, M/1, M/2, ? R M/2		0	0
 R _ M/1, M/2 IN JAW FRAG		0	0
 R _ M/1-M/2 IN JAW FRAG		0	0
 R + L astragalus		0	0
@@ -64557,9 +64560,9 @@ r astragalus and calcaneum, likely associated		0	0
 R ASTRAGALUS BODY		0	0
 r astragalus frag		0	0
 R astragalus frag.		0	0
-R astragalus fragment		0	0
-r astragalus head		0	0
-RR ASTRAGALUS, 2 PROXIMAL METAPODIALS & FRAGS		0	0
+R astragalus fragment		0	0r astragalus head		0	0
+R ASTRAGALUS INCOMPL		0	0
+R ASTRAGALUS, 2 PROXIMAL METAPODIALS & FRAGS		0	0
 R astragalus, chip missing.		0	0
 R ASTRAGALUS, FAIRLY WELL PRESERVED		0	0
 R ASTRAGALUS, SMALL SIZE		0	0
@@ -64703,8 +64706,7 @@ R DENTARIES		0	0
 R DENTARIES W P1-P4		0	0
 r dentaries, edent		0	0
 R dentary		0	0
-R dentary  d/i  dc/1 dp/2 dp/3 dp/4 ; forming i/1, m/1.		0	0
-R dentary  i/1 m/1 m/2  m/3.		0	0
+R dentary  d/i  dc/1 dp/2 dp/3 dp/4 ; forming i/1, m/1.		0	0R dentary  i/1 m/1 m/2  m/3.		0	0
 R dentary  i/1 m/2 m/3.		0	0
 R dentary  I/1 U/2 M/1-2.		0	0
 R dentary  i/1.		0	0
@@ -64829,8 +64831,7 @@ R DENTARY FRAG W M1-4		0	0
 R DENTARY FRAG W M1-5		0	0
 r dentary frag w m1-m2		0	0
 r dentary frag w m1-m2, i1-p4 alveoli		0	0
-R DENTARY FRAG W M1-M2,BONE FRAG		0	0
-R DENTARY FRAG W M1-M3		0	0
+R DENTARY FRAG W M1-M2,BONE FRAG		0	0R DENTARY FRAG W M1-M3		0	0
 R DENTARY FRAG W M1-M3,L DENTARY FRAG W M1-M2,L DENTARY FRAG W M2-M3		0	0
 R DENTARY FRAG W M1-M4		0	0
 R dentary frag w m2		0	0
@@ -80161,6 +80162,7 @@ Skin - 1; Tissue - 100		0	0
 Skin - 1; Tissue - 100; C & S - 1		0	0
 Skin - 1; Tissue - 100; Skin - 1; Tissue - 100		0	0
 Skin - 1; Tissue - 100; Syrinx - 1		0	0
+Skin - 1; Tissue - 100; Tissue - 1		0	0
 Skin - 1; Tissue - 2	skin - 1 | tissue - 2	0	1
 Skin - 1; Tissue - 30	skin - 1 | tissue - 30	0	1
 Skin - 1; Tissue - 30; Thin section - 1	skin - 1 | tissue - 30 | thin section - 1	0	1
@@ -82072,8 +82074,8 @@ Skin, Skeleton, Right leg, Skeleton, Right leg		0	0
 Skin, Skeleton, Skeletal elements, Skeleton, Skeletal elements		0	0
 Skin, Skeleton, Skeleton	skeleton | skin	0	1
 Skin, Skeleton, Skeleton, Tissue, Tissue		0	0
-skin, skeleton, skull and mandible | skin, skeleton, skull and mandible		0	0
-skin, skeleton, stomach - 1	skeleskin, skeleton, syrinx, Tissue number 1149		0	0
+skin, skeleton, skull skin, skeleton, stomach - 1	skeleton | skin | stomach - 1	0	1
+skin, skeleton, syrinx, Tissue number 1149		0	0
 skin, skeleton, syrinx, Tissue number 11745		0	0
 skin, skeleton, syrinx, Tissue number 12273 at Smithsonian		0	0
 skin, skeleton, syrinx, Tissue number 1242		0	0
@@ -104976,9 +104978,9 @@ tail club		0	0
 tail feathers		0	0
 TAIL FIN		0	0
 TAIL FIN + PALAEONISCOID GASTRIC RESIDUE		0	0
-TAIL FIN SPINES ?		0	0
-TAIL OF 16+/- CAUDALS, DECAYED		0	0
+TAIL FIN SPINETAIL OF 16+/- CAUDALS, DECAYED		0	0
 tail only		0	0
+TAIL PARTIAL, A+B		0	0
 TAIL PARTIAL, LARGE, NC		0	0
 TAIL PARTIAL, NC		0	0
 Tail showing electric organs (in spirit)		0	0
@@ -106128,6 +106130,7 @@ tiny fish bone		0	0
 TINY PAIRED RIBS WITH SQUAMATION, A+B		0	0
 Tissue	tissue	1	1
 Tissue - 1	tissue - 1	0	1
+Tissue - 1; Alcoholic - 1		0	0
 Tissue - 1; Dry Skeleton - 1		0	0
 Tissue - 1; Dry Skeleton - 1; Fluid - 1		0	0
 Tissue - 1; Dry Skeleton - 1; Tissue - 1		0	0
@@ -106214,6 +106217,7 @@ Tissue - 1; Syrinx - 1; Fluid - 1	tissue - 1 | syrinx - 1 | fluid - 1	0	1
 Tissue - 1; Syrinx - 1; Fluid - 1; Skin - 1; Skel - 1	tissue - 1 | syrinx - 1 | fluid - 1 | skin - 1 | skeleton - 1	0	1
 Tissue - 1; Syrinx - 1; Skel - 1	tissue - 1 | syrinx - 1 | skeleton - 1	0	1
 Tissue - 1; Syrinx - 1; Skel - 1; Skin/toe clip - 1	tissue - 1 | syrinx - 1 | skeleton - 1	0	1
+Tissue - 1; Syrinx - 1; Skin - 1		0	0
 Tissue - 1; Thin section - 1; Skin - 1	tissue - 1 | thin section - 1 | skin - 1	0	1
 Tissue - 1; Tissue - 1	tissue - 1 | tissue - 1	0	1
 Tissue - 1; Tissue - 1; Fluid - 12		0	0
@@ -110331,7 +110335,9 @@ Wings_tail; Wings_tail; Skel; Tissue		0	0
 WINGS+TAIL	tail | wings	0	1
 wingspread		0	0
 Wingspread - 1		0	0
+Wingspread - 1; Skin - 1; Tissue - 1		0	0
 Wingspread - 1; Syrinx - 1		0	0
+Wingspread - 1; Syrinx - 1; Tissue - 1		0	0
 Wingspread - 1; Syrinx - 1; Tissue - 100		0	0
 Wingspread - 1; Tissue - 1		0	0
 Wingspread - 1; Tissue - 100		0	0

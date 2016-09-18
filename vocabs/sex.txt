@@ -958,6 +958,7 @@ female.male	female | male	0	1
 female.undet.	female | unknown	0	1
 female/male	female | male	0	1
 female/male (on label)	female | male	0	1
+female; based on plumage	female	0	1
 female?	in question	0	1
 Female[illeg]	female	0	1
 female-adult	female	0	1
@@ -1507,9 +1508,9 @@ male (juv.)	male	0	1
 male (juvenile)	male	0	1
 male (LAP)	male	0	1
 male (later identified as)	male	0	1
-Male (likely)	male	0	1
-male (not breeding)	male	0	1
-male (male (on plumage)	male	0	1
+Male (likely)	male	0	1male (not breeding)	male	0	1
+male (on label)	male	0	1
+male (on plumage)	male	0	1
 male (plumage)	male	0	1
 male (printed in error as female	male	0	1
 male ('probably')	male	0	1
@@ -1666,8 +1667,7 @@ O.B	unknown	0	1
 o/p	unknown	0	1
 O?	unknown	0	1
 O~	unknown	0	1
-O'B	unknown	0	1
-orange head		0	1
+O'B	unkorange head		0	1
 Pima		0	1
 pink tail		0	1
 POSSIBLY FEMALE	in question	0	1
