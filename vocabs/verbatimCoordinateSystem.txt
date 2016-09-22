@@ -1,5 +1,4 @@
-verbatimCoordinateSystem	standardVCS	standard	checked	incorrectable	error
-		0	1	0	
+verbatimVerbatimCoordinateSystem	standardVerbatimCoordinateSystem	standard	checked	incorrectable	error
 
 Decimal degrees		0	1	0	
 "degrees minutes seconds, nearest minute"	degrees minutes seconds	0	1	0	
@@ -80,8 +79,8 @@ degrees deciml minutes	degrees decimal minutes	0	1	0
 degrees decimla minutes	degrees decimal minutes	0	1	0	
 degrees decimlal minutes	degrees decimal minutes	0	1	0	
 degrees degrees	decimal degrees	0	1	0	
-degrees deicmal minutes	degrees decimal minutes	0	1	0	
-degrees mindegrees minutes	degrees minutes seconds	0	1	0	
+degrees deicmal minutes	degrees decimal minutes	degrees minute seconds	degrees minutes seconds	0	1	0	
+degrees minutes	degrees minutes seconds	0	1	0	
 Degrees minutes and seconds	degrees minutes seconds	0	1	0	
 degrees minutes second	degrees minutes seconds	0	1	0	
 degrees minutes seconds	degrees minutes seconds	1	1	0	

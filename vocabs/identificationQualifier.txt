@@ -1,5 +1,4 @@
-identificationQualifier	standardidentificationQualifier	standard	checked
-		0	1
+verbatimIdentificationQualifier	standardIdentificationQualifier	standard	checked
  B1001 TYPE of Pachycephala rufiventris minor, Zietz, 1914 (see SAOA 1(1):15		0	1
  SYNTYPE of Rhipidura mayi, Ashby, 1911 (see Emu 11:41)		0	1
 (=Z. cornutus)		0	1
@@ -952,7 +951,7 @@ ssp	ssp.	0	1
 ssp.	ssp.	1	1
 STICTOS N.SP.	sp. nov.	0	1
 subadult		0	1
-subadult?		0subcl. elasmobranchii		0	1
+subadult?		subcl. elasmobranchii		0	1
 Suborder= Acanthuroidei		0	1
 subsp cf	cf.	0	1
 subsp. 	ssp.	0	1

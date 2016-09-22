@@ -1,5 +1,4 @@
-Month	MonthNumber	DayOfYearForFirst	checked
-			1
+verbatimMonth	monthNumber	dayOfYearForFirst	checked
 ---			1
   Jan	1	0	1
   May 	5	120	1
@@ -297,7 +296,7 @@ May			1
 28 July	7	181	1
 29 			1
 29 & 30			1
-29 August	8	3 or 7			1
+29 August	3 or 7			1
 
 1
 3 Sep	9	243	1

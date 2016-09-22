@@ -1,9 +1,9 @@
-verbatimAgeClass	StandardAgeClass	standard	checked
- 	unknown	0	1
--	unknown	0	1
---	unknown	0	1
----	unknown	0	1
------	unknown	0	1
+verbatimLifeStage	standardLifeStage	standard	checked
+ 		0	1
+-		0	1
+--		0	1
+---		0	1
+-----		0	1
   Juv.	juvenile	0	1
  ?  Juv.	juvenile	0	1
  1/4		0	0
@@ -1009,8 +1009,8 @@ _		0	0
 1 fresh, 2 just began		0	0
 1 fresh, 2 just showing blood		0	0
 1 fresh, 2 large embryo		0	0
-1 Fre1 fresh, 2 showing blood, 1 1/4		0	0
-1 fresh, 2 showing blood, 2 smal		0	0
+1 Fresh, 2 Large Embryos		0	0
+1 fresh1 fresh, 2 showing blood, 2 smal		0	0
 1 fresh, 2 showing blood, 3 very		0	0
 1 fresh, 2 showing blood, 3 very small embryo		0	0
 1 fresh, 2 slight		0	0
@@ -1135,10 +1135,9 @@ _		0	0
 1 incubated (2 young)		0	0
 1 incubated 10-12 days, 1 infert		0	0
 1 incubated 10-12 days, 1 infertile		0	0
-1 incubated, begun		0	0
-apparen		0	0
-1 infert., others far advanced b		0	0
-1 infert., others far advanced but to different de		0	0
+1 incubated
+begun		0	0
+1 incubated, 1 infert., others far advanced but to different de		0	0
 1 infert.; 1 eight days		0	0
 1 infert.; 1 slight; 2 soft embr		0	0
 1 infert.; 1 slight; 2 soft embryos		0	0
@@ -1262,10 +1261,10 @@ apparen		0	0
 1 of 4 eggs-clutch failed		0	0
 1 old tadpole		0	0
 1 one-half; 1 one-eighth		0	0
-1 one-third; 1 highly inc.	1 or 2 days incubated		0	0
-
-1 perfectly fresh, 1 slight, 1, 		0	0
-1 perfectly fresh, 1 slight, 1, much advanced, 1 h		0	0
+1 one-third; 1 highly inc.		0	0
+1 one-third; 3 infert.		0	0
+1 Or 2 Days		0	0
+1 or 2 days incubated		0	1 perfectly fresh, 1 slight, 1, much advanced, 1 h		0	0
 1 Pipped, 2 Nearly So		0	0
 1 rotten, 3 started		0	0
 1 rotten, 6 begun		0	0
@@ -1380,7 +1379,8 @@ apparen		0	0
 1 to 4 large embryos, 5 small em		0	0
 1 to 4 large embryos, 5 small embryo, 6 medium emb		0	0
 1 to 5 days		0	0
-1 trace of bloo1 trace of blood, 2&3 small embryo		0	0
+1 trace of blood, 2&3 small embr		0	0
+1 trace of blood, 2&3 small embryo		0	0
 1 trace, 1 embryo		0	0
 1 Trace, 1 Very Sm. Emb., 2 Sm.emb.		0	0
 1 trace, 1 very small embryo, 2 		0	0
@@ -1509,10 +1509,10 @@ apparen		0	0
 1.75 years		0	0
 1/10		0	0
 1/18-2/22, 3 young hatched & fle		0	0
-1/18-2/22, 3 young hatched & fledged1/2 - 1/3		0	0
-1/2 - 3/4		0	0
-1/2 & 1 addled		0	0
-1/2 (1 addled)		0	0
+1/18-2/22, 3 young hatched & fledged		0	0
+1/2		0	0
+1/2 - 1/3		0	0
+1/2 - 3/4		1/2 (1 addled)		0	0
 1/2 (1 infertile)		0	0
 1/2 (2 infertile)		0	0
 1/2 (started)		0	0
@@ -1698,10 +1698,8 @@ apparen		0	0
 1=3-4 days; 1=1/4; 2=1/2		0	0
 10		0	0
 10 - 12 days		0	0
-10 - 1510 % incubated		0	0
-
-ept one rotten		0	0
-10 ADULT; 30 JUVENILE		0	0
+10 - 15% incubated except one ro		0	0
+10 - 15% incubated ex10 ADULT; 30 JUVENILE		0	0
 10 Days		0	0
 10 days (12)		0	0
 10 days (soft bones)		0	0
@@ -1880,7 +1878,9 @@ ept one rotten		0	0
 13 yr.		0	0
 13.5 days of incubation		0	0
 13+ years		0	0
-1300-01 fresh, 1302 sl1303-05 slight; 1304 no development		0	0
+1300-01 fresh, 1302 slight		0	0
+1303-05 slight; 1304 no developm		0	0
+1303-05 slight; 1304 no development		0	0
 1306-07 fresh; 1308 very slight		0	0
 13-1/3; 4-1/4		0	0
 1312-14 slight; 1315 very slight		0	0
@@ -2196,7 +2196,7 @@ ept one rotten		0	0
 2 begun		0	0
 2 begun, 1 addled		0	0
 2 begun, 1 fresh		0	0
-2 begun, 1 half-hatched, 2 begun, 2 a fifth		0	0
+2 begun, 1 half-ha2 begun, 2 a fifth		0	0
 2 begun, 2 fresh		0	0
 2 begun, 2 medium		0	0
 2 begun; 1 fresh		0	0

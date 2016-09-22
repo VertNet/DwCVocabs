@@ -1,5 +1,4 @@
-verbatimPrep	StandardPrep	standard	checked
-		0	1
+verbatimPreparations	standardPreparations	standard	checked
 -		0	0
 --		0	0
  | tissue	tissue	0	1
@@ -8500,7 +8499,7 @@ Alcohol/Ethanol - 3		0	0
 Alcohol/Ethanol - 4		0	0
 Alcohol/Ethanol - 49		0	0
 Alcohol; Photo		0	0
-Alcohol; Phoalcohol?		0	0
+Alcalcohol?		0	0
 raph - 2		0	0
 alcoholc		0	0
 AlcoholDry		0	0

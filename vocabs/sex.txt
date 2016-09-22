@@ -1,9 +1,9 @@
-verbatimSex	StandardSex	standard	checked
- 	unknown	0	1
--	unknown	0	1
---	unknown	0	1
----	unknown	0	1
-----	unknown	0	1
+verbatimSex	standardSex	standard	checked
+ 		0	1
+-		0	1
+--		0	1
+---		0	1
+----		0	1
 —		0	1
  ?	in question	0	1
 -- [apparantly F]	female	0	1
@@ -178,10 +178,9 @@ M[F]	unknown	0	1
 ?[illeg] [M]	in question	0	1
 ?[M]	in question	0	1
 ?=F	in question	0	1
-?=M	in ?M*	in question	0	1
-	1
-?Male	in question	0	1
-["M" or F ?]	in question	0	1
+?=M	in question	0	1
+?F	in question	0	1
+?["M" or F ?]	in question	0	1
 [?]	in question	0	1
 [?F]	in question	0	1
 [?Female]	in question	0	1
@@ -358,8 +357,8 @@ _	unknown	0	1
 2 M, 1 F	female | male	0	1
 2 Male	male	0	1
 2 Males	male	0	1
-2 Males, 2 Females2 Nestlings		0	1
-
+2 Males, 2 Females	female | male	0	1
+2 Nestlings		0	1
 2 Nestlings [Sex ?]	in question	0	1
 223	unknown	0	1
 227	unknown	0	1
@@ -501,7 +500,8 @@ Amplexing with UAZ50272		0	1
 Amplexing with UAZ50273		0	1
 aOR at 0933 hrs, accidentally hi		0	1
 AOR at 1705 hrs, accidentally hi		0	1
-Apr	unkBanded		0	1
+Apr	unknown	0	1
+Banded		0	1
 belly mottled; throat dark; narr		0	1
 belly mottled; throat salt and p		0	1
 bicolored dewlap dark orange bas		0	1
@@ -1011,7 +1011,7 @@ Gravid		0	1
 Gravid Female	female	0	1
 Green		0	1
 green background color with two 		0	1
-GYNANDROMORPH	gynandromorph	0	1
+GYNANDROMORPH	gynandromorph	1	1
 H	female	0	1
 H g	unknown	0	1
 H P	unknown	0	1
@@ -1508,8 +1508,8 @@ male (juv.)	male	0	1
 male (juvenile)	male	0	1
 male (LAP)	male	0	1
 male (later identified as)	male	0	1
-Male (likely)	male	0	1male (not breeding)	male	0	1
-male (on label)	male	0	1
+Male (likely)	male	0	1
+male (not breeding)male (on label)	male	0	1
 male (on plumage)	male	0	1
 male (plumage)	male	0	1
 male (printed in error as female	male	0	1
@@ -1667,7 +1667,8 @@ O.B	unknown	0	1
 o/p	unknown	0	1
 O?	unknown	0	1
 O~	unknown	0	1
-O'B	unkorange head		0	1
+O'B	unknown	0	1
+orange head		0	1
 Pima		0	1
 pink tail		0	1
 POSSIBLY FEMALE	in question	0	1

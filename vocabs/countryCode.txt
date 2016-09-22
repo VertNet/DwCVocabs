@@ -1,4 +1,4 @@
-country	countryCode	standard	checked
+verbatimCountry	countryCode	standard	checked
  	ZZ	0	1
 '	ZZ	0	1
 -	ZZ	0	1
@@ -12035,8 +12035,8 @@ VATICAN CITY	VA	0	1
 VATICAN CITY (HOLY SEE)	VA	0	1
 VAUDIGNIES BELGIUM	BE	0	1
 VÃXJÃ SWEDEN	SE	0	1
-VÃZON BELGIUM	BE	0	1
-VCTVEN.	VE	0	1
+VÃZON BELGIUM	BE	VEN	VE	0	1
+VEN.	VE	0	1
 VENE	VE	0	1
 VENEÇUELA	VE	0	1
 VENEGUELA	VE	0	1

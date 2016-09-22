@@ -1,11 +1,11 @@
 verbatimReproductiveCondition	standardReproductiveCondition	standard	checked
- 	unknown	0	1
+ 		0	1
 '		0	0
 -		0	0
 --		0	0
 ---	unknown	0	0
---------------------------------------------------	unknown	0	1
------------------------------------------------------------------------------------------------------------------	unknown	0	1
+--------------------------------------------------		0	1
+-----------------------------------------------------------------------------------------------------------------		0	1
  Testes abdominal		0	0
  Testes abdominal, subadult		0	0
  Testes scrotal, large		0	0
@@ -64,7 +64,7 @@ verbatimReproductiveCondition	standardReproductiveCondition	standard	checked
 (vocal slits present)		0	0
 *	unknown	0	1
 *Post lactating male		0	0
-.	unknown	0	1
+.		0	1
 ?	unknown	0	1
 ??	unknown	0	1
 [ no gonad data]		0	0
@@ -2177,7 +2177,7 @@ HOW SEXED: GONADS, BREEDING CONDITION.		0	0
 HOW SEXED: GONADS, BREEDING, ROTTEN.		0	0
 HOW SEXED: GONADS, BREEDING.		0	0
 HOW SEXED: GONADS, CANCEROUS GROWTH IN GONAD AREA, SEXED AT AVIARY.		0	0
-HOW SEXED: GONADS, HOW SEXED: GONADS, DEGENERATED, PARTLY ENLARGED.		0	0
+HOW SEXED: GONADS, DECOMPOSED BUT 2 DUCTS VISIBHOW SEXED: GONADS, DEGENERATED, PARTLY ENLARGED.		0	0
 HOW SEXED: GONADS, DIAGRAM OF TESTES.		0	0
 HOW SEXED: GONADS, DRAWN		0	0
 HOW SEXED: GONADS, DRAWN.		0	0
