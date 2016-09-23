@@ -1,5 +1,4 @@
-genus	standardGenus	family	order	class	phyum	kingdom	authority	standard	checked	error	resolvelater
-								0	1	Not a genus.	0
+genus	standardGenus	family	order	class	phylum	kingdom	authority	standard	checked	error	resolvelater
 -								0	1	Not a genus.	0
  = Conothraupis	Conothraupis	Thraupidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
  Blank								0	1	Not a genus.	0
@@ -2297,7 +2296,7 @@ ASPIDOSCELIS
 ASPIDOSCELIS	Aspidoscelis	Teiidae	Squamata	Reptilia	Chordata	Animalia	The Reptile Database	0	1	Genus misspelled.	0
 ASPIDOSCELISASPIDOSCELIS	Aspidoscelis	Teiidae	Squamata	Reptilia	Chordata	Animalia	The Reptile Database	0	1	Genus misspelled.	0
 Aspidosteus	Aspidosteus	Psammosteidae	Psammosteiformes	Pteraspidomorphi	Chordata	Animalia	Paleobiology Database	1	1		0
-ASPIDURA	AspidAspistor	Aspistor	Ariidae	Siluriformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
+ASPIDURA	Aspidura	Colubridae	Squamata	RepAspistor	Aspistor	Ariidae	Siluriformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Aspitrigla	Chelidonichthys	Triglidae	Scorpaeniformes	Actinopterygii	Chordata	Animalia	Froese, R. and D. Pauly. Editors. 2012. FishBase.	0	1	Genus is a synonym.	0
 Aspius	Aspius	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Aspredinichthys	Aspredinichthys	Aspredinidae	Siluriformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
@@ -6770,6 +6769,7 @@ Curimatidae		Curimatidae	Characiformes	Actinopterygii	Chordata	Animalia		0	1	Gen
 Curimatopsis	Curimatopsis	Curimatidae	Characiformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Curimatus	Curimata	Curimatidae	Characiformes	Actinopterygii	Chordata	Animalia	Froese, R. and D. Pauly. Editors. 2012. FishBase.	0	1	Genus split. Genus is a synonym.	0
 Curnoujus				Aves	Chordata	Animalia		0	1	Genus not found.	0
+Curora	Cuora	Geoemydidae	Testudines	Reptilia	Chordata	Animalia	ITIS	0	1	Genus misspelled.	0
 Current_genus			Chiroptera	Mammalia	Chordata	Animalia		0	1		0
 Curruca	Curruca	Sylviidae	Passeriformes	Aves	Chordata	Animalia	Avibase	1	1		0
 Currucca				Aves	Chordata	Animalia		0	1	Genus not found.	0
@@ -7305,6 +7305,7 @@ Deltoptychius	Deltoptychius	Deltoptychiidae	Menaspiformes	Holocephali	Chordata	A
 Demansia	Demansia	Elapidae	Squamata	Reptilia	Chordata	Animalia	ITIS	1	1		0
 Demiegretta				Aves	Chordata	Animalia		0	1	Genus not found.	0
 Demigretta	Egretta	Ardeidae	Pelecaniformes	Aves	Chordata	Animalia	Avibase	0	1	Genus is a synonym.	0
+Demochelys	Dermochelys	Dermochelyidae	Testudines	Reptilia	Chordata	Animalia	ITIS	0	1	Genus misspelled.	0
 Democricetodon	Democricetodon	Cricetidae	Rodentia	Mammalia	Chordata	Animalia	Paleobiology Database	1	1		0
 Denaea	Denaea	Symmoriidae	Symmoriiformes	Elasmobranchii	Chordata	Animalia	Paleobiology Database	1	1		0
 Denariusa	Denariusa	Chandidae	Perciformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
@@ -11493,9 +11494,9 @@ Hoplarchus	Hoplarchus	Cichlidae	Perciformes	Actinopterygii	Chordata	Animalia	ITI
 Hoplegnathus	Oplegnathus	Oplegnathidae	Perciformes	Actinopterygii	Chordata	Animalia	Catalog of Fishes	0	1	Genus misspelled.	0
 Hoplerythrinus	Hoplerythrinus	Erythrinidae	Characiformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Hopliancistrus	Hopliancistrus	Loricariidae	Siluriformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
-Hoplias	Hoplias	Erythrinidae	Characiformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
-Hoplichthyidae		Hoplichthyidae	Scorpaeniformes	Actinopterygii	Chordata	Animalia		0	1	Genus is a family.	0
-Hoplichthys	HoplichthysHOPLOBATRACHUS	Hoplobatrachus	Dicroglossidae	Anura	Amphibia	Chordata	Animalia	AmphibiaWeb 2014-04-11	1	1		0
+Hoplias	Hoplias	ErytHoplichthyidae		Hoplichthyidae	Scorpaeniformes	Actinopterygii	Chordata	Animalia		0	1	Genus is a family.	0
+Hoplichthys	Hoplichthys	Hoplichthyidae	Scorpaeniformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
+HOPLOBATRACHUS	Hoplobatrachus	Dicroglossidae	Anura	Amphibia	Chordata	Animalia	AmphibiaWeb 2014-04-11	1	1		0
 Hoplobrotula	Hoplobrotula	Ophidiidae	Ophidiiformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Hoplocephalus	Hoplocephalus	Elapidae	Squamata	Reptilia	Chordata	Animalia	ITIS	1	1		0
 HOPLOCERCUS	Hoplocercus	Hoplocercidae	Squamata	Reptilia	Chordata	Animalia	The Reptile Database	1	1		0
@@ -15183,6 +15184,7 @@ Micropygia	Micropygia	Rallidae	Gruiformes	Aves	Chordata	Animalia	ITIS	1	1		0
 Microrhopiae	Microrhopias	Thamnophilidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
 Microrhopias	Microrhopias	Thamnophilidae	Passeriformes	Aves	Chordata	Animalia	ITIS	1	1		0
 Micrormopias	Microrhopias	Thamnophilidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
+Microrus	Micrurus	Elapidae	Squamata	Reptilia	Chordata	Animalia	ITIS	0	1	Genus misspeled.	0
 MICRORYZOMYS	Microryzomys	Cricetidae	Rodentia	Mammalia	Chordata	Animalia	Mammal Species of the World. 2005.	1	1		0
 Microsarcops	Vanellus	Charadriidae	Charadriiformes	Aves	Chordata	Animalia	ITIS	0	1	Genus is a synonym.	0
 Microsareops	Vanellus	Charadriidae	Charadriiformes	Aves	Chordata	Animalia	ITIS	0	1	Genus is a misspelled synonym.	0
@@ -17770,10 +17772,10 @@ Oxyacodon	Oxyacodon	Periptychidae	Condylarthra	Mammalia	Chordata	Animalia	Paleob
 Oxyaena	Oxyaena	Oxyaenidae	Creodonta	Mammalia	Chordata	Animalia	Paleobiology Database	1	1		0
 Oxyaena cf	Oxyaena	Oxyaenidae	Creodonta	Mammalia	Chordata	Animalia	Paleobiology Database	0	1	Genus contains an identification qualifier.	0
 Oxyaenid		Oxyaenidae	Creodonta	Mammalia	Chordata	Animalia		0	1	Genus is a common name for a family.	0
-Oxyaenid cf		Oxyaenidae	Creodonta	Mammalia	Chordata	Animalia	Paleobiology Database	0	1	Genus is a common name for a family with an identification qualifier.	0
-Oxyaenodon	Oxyaenodon	Hyaenodontidae	Creodonta	Mammalia	Chordata	Animalia	Paleobiology Database	1	1		0
+Oxyaenid cf		Oxyaenidae	Creodonta	Mammalia	Chordata	Animalia	Paleobiology Database	0	1	Genus is a common name for a family witOxyaenodon	Oxyaenodon	Hyaenodontidae	Creodonta	Mammalia	Chordata	Animalia	Paleobiology Database	1	1		0
 Oxyaenoides	Oxyaenoides	Hyaenodontidae	Creodonta	Mammalia	Chordata	Animalia	Paleobiology Database	1	1		0
-OXYBELIS	Oxybelis	Colubridae	Squamata	Reptilia	Chordata	Oxybrycon	Oxybrycon	Characidae	Characiformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
+OXYBELIS	Oxybelis	Colubridae	Squamata	Reptilia	Chordata	Animalia	ITIS	1	1		0
+Oxybrycon	Oxybrycon	Characidae	Characiformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Oxycerca				Aves	Chordata	Animalia		0	1	Genus not found.	0
 Oxycercichthys	Oxycercichthys	Pseudochromidae	Perciformes	Actinopterygii	Chordata	Animalia	Catalog of Fishes	1	1		0
 Oxycheilinus	Oxycheilinus	Labridae	Perciformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
@@ -19764,11 +19766,10 @@ Pipistrellus	Pipistrellus	Vespertilionidae	Chiroptera	Mammalia	Chordata	Animalia
 Piplio	Pipilo	Emberizidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
 Piplo	Pipilo	Emberizidae	Passeriformes	Aves	Chordata	Animalia	ITIS	0	1	Genus misspelled.	0
 Piplomorpha				Aves	Chordata	Animalia		0	1	Genus not found.	0
-Pipna	Pipra	Pipridae	Passeriformes	Aves	Chordata	Animalia	ITIS	0	1	Genus misspelled.	0
-Pipra	Pipra	Pipridae	Passeriformes	Aves	Chordata	Animalia	ITIS	1	1		0
-Pipracidea	Pipraeidea	Thraupidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
-Pipraedea	Pipraeidea	Thraupidae	Passeriformes	Pipraeidae		Pipridae	Passeriformes	Aves	Chordata	Animalia		0	1	Genus is a misspelled family.	0
-d.	0
+Pipna	Pipra	PipridaePipracidea	Pipraeidea	Thraupidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
+Pipraedea	Pipraeidea	Thraupidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
+Pipraeida	Pipraeidea	Thraupidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
+Pipraeidae		Pipridae	Passeriformes	Aves	Chordata	Animalia		0	1	Genus is a misspelled family.	0
 Pipraeidea	Pipraeidea	Thraupidae	Passeriformes	Aves	Chordata	Animalia	ITIS	1	1		0
 Pipraèideà				Aves	Chordata	Animalia		0	1	Genus not found.	0
 pipramorpha				Aves	Chordata	Animalia		0	1	Genus not found.	0
@@ -19811,7 +19812,8 @@ PITHECANTHROPUS	Homo	Hominidae	Primates	Mammalia	Chordata	Animalia	Mammal Specie
 Pithecheir	Pithecheir	Muridae	Rodentia	Mammalia	Chordata	Animalia	ITIS	1	1		0
 PITHECIA	Pithecia	Pitheciidae	Primates	Mammalia	Chordata	Animalia	ITIS	1	1		0
 Pithecophaga	Pithecophaga	Accipitridae	Accipitriformes	Aves	Chordata	Animalia	ITIS	1	1		0
-Pitheculites	Pitheculites	Abderitidae	Paucituberculata	Mammalia	Chordata	AnimPithecus	Pithecus	Cercopithecidae	Primates	Mammalia	Chordata	Animalia	Interim Register of Marine and Nonmarine Genera	0	1		0
+Pitheculites	Pitheculites	Abderitidae	Paucituberculata	Mammalia	Chordata	Animalia	Interim Register of Marine and Nonmarine Genera	0	1		0
+Pithecus	Pithecus	Cercopithecidae	Primates	Mammalia	Chordata	Animalia	Interim Register of Marine and Nonmarine Genera	0	1		0
 Pithys	Pithys	Thamnophilidae	Passeriformes	Aves	Chordata	Animalia	ITIS	1	1		0
 Pitikantia	Pitikantia	Diprotodontidae	Diprotodontia	Mammalia	Chordata	Animalia	Paleobiology Database	1	1		0
 Pitilinopus	Ptilinopus	Columbidae	Columbiformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
@@ -24019,12 +24021,12 @@ Spodiopsar	Spodiopsar	Sturnidae	Passeriformes	Aves	Chordata	Animalia	Avibase	1	1
 Spodiornis				Aves	Chordata	Animalia		0	1	Genus not found.	0
 Spondyliosoma	Spondyliosoma	Sparidae	Perciformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 SPONDYLURUS	Spondylurus	Scincidae	Squamata	Reptilia	Chordata	Animalia	National Center for Biotechnology Information	0	1		0
-Spondylus	Spondylus	Spondylidae	Ostreoida	Bivalvia	Mollusca	Animalia	Species 2000 & ITIS Catalogue of Life: April 2013	1	1		0
-SPONGIA	Spongia	Spongiidae	Dictyoceratida	Demospongiae	Porifera	Animalia	ITIS	1	1		0
-Spookfish					Chordata	Animalia		0	1	Genus is a common name.	0
+Spondylus	Spondylus	Spondylidae	Ostreoida	Bivalvia	Mollusca	Spookfish					Chordata	Animalia		0	1	Genus is a common name.	0
+Animalia	ITIS	1	1		0
 Sporadinus				Aves	Chordata	Animalia		0	1	Genus not found.	0
-Sporaeginthus	Amandava	Estrildidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1Sporagra	Spinus	Fringillidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus is a synonym.	0
-led synonym.	0
+Sporaeginthus	Amandava	Estrildidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus is a synonym.	0
+Sporaginthus	Amandava	Estrildidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus is a misspelled synonym.	0
+Sporagra	Spinus	Fringillidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus is a synonym.	0
 Sporaphila	Sporophila	Emberizidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
 Sporathraupis	Sporathraupis	Thraupidae	Passeriformes	Aves	Chordata	Animalia	Avibase	1	1		0
 Sporophela	Sporophila	Emberizidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
@@ -24059,11 +24061,11 @@ Squalodon	Squalodon	Squalodontidae	Cetacea	Mammalia	Chordata	Animalia	Paleobiolo
 Squalogadus	Squalogadus	Macrouridae	Gadiformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Squalomugil	Rhinomugil	Mugilidae	Mugiliformes	Actinopterygii	Chordata	Animalia	Catalog of Fishes	0	1	Genus is a synonym.	0
 Squalus	Squalus	Squalidae	Squaliformes	Elasmobranchii	Chordata	Animalia	Species 2000 & ITIS Catalogue of Life: May 2012	1	1		0
-Squamata			Squamata	Reptilia	Chordata	Animalia	Species 2000 & ITIS Catalogue of Life: May 2012	0	1	Genus is an order.	0
-Squamatan			Squamata	Reptilia	Chordata	Animalia		0	1	Genus is a common name for an order.	0
+Squamata			Squamata	Reptilia	ChordaSquamatan			Squamata	Reptilia	Chordata	Animalia		0	1	Genus is a common name for an order.	0
 Squamicreedia	Squamicreedia	Percophidae	Perciformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Squartarola				Aves	Chordata	Animalia		0	1	Genus not found.	0
-Squatarhina		OreSquatarola	Pluvialis	Charadriidae	Charadriiformes	Aves	Chordata	Animalia	Avibase	0	1	Genus is a synonym.	0
+Squatarhina		Orectolobidae	Orectolobiformes	Elasmobranchii	Chordata	Animalia		0	1	Genus not found.	0
+Squatarola	Pluvialis	Charadriidae	Charadriiformes	Aves	Chordata	Animalia	Avibase	0	1	Genus is a synonym.	0
 Squaterola				Aves	Chordata	Animalia		0	1	Genus not found.	0
 Squatina	Squatina	Squatinidae	Squatiniformes	Elasmobranchii	Chordata	Animalia	Species 2000 & ITIS Catalogue of Life: May 2012	1	1		0
 Squatinactis	Squatinactis	Squatinactidae	Squatinactiformes	Elasmobranchii	Chordata	Animalia	Paleobiology Database	1	1		0
@@ -25235,11 +25237,13 @@ Thamnophilus (Nisius)	Thamnophilus	Thamnophilidae	Passeriformes	Aves	Chordata	An
 Thamnophilus (Picrotes)	Thamnophilus	Thamnophilidae	Passeriformes	Aves	Chordata	Animalia	ITIS	0	1	Genus is a synonym.	0
 Thamnophilus (Rhopochareo)	Thamnophilus	Thamnophilidae	Passeriformes	Aves	Chordata	Animalia	ITIS	0	1	Genus is a synonym.	0
 THAMNOPHIS	Thamnophis	Colubridae	Squamata	Reptilia	Chordata	Animalia	ITIS	1	1		0
+Thamnophis sp.	Thamnophis	Colubridae	Squamata	Reptilia	Chordata	Animalia	ITIS	0	1	Genus contains an identification qualifier.	0
 Thamnophitus	Thamnophilus	Thamnophilidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
 Thamnophulus	Thamnophilus	Thamnophilidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
 Thamnornis	Thamnornis	Sylviidae	Passeriformes	Aves	Chordata	Animalia	ITIS	1	1		0
 Thamnosophis	Thamnosophis	Lamprophiidae	Squamata	Reptilia	Chordata	Animalia	The Reptile Database	1	1		0
 Thamnpphilus	Thamnophilus	Thamnophilidae	Passeriformes	Aves	Chordata	Animalia	ITIS	0	1	Genus misspelled.	0
+Thamrophis	Thamnophis	Colubridae	Squamata	Reptilia	Chordata	Animalia	ITIS	0	1	Genus misspeled.	0
 Thangorodrim	Oxyclaenus	Arctocyonidae	Condylarthra	Mammalia	Chordata	Animalia	Paleobiology Database	0	1	Genus is a synonym.	0
 Thangorodrium		Arctocyonidae	Condylarthra	Mammalia	Chordata	Animalia		0	1	Genus not found.	0
 Thanmnophis	Thamnophis	Colubridae	Squamata	Reptilia	Chordata	Animalia	ITIS	0	1	Genus misspelled.	0
@@ -25414,13 +25418,12 @@ Thryothonis	Thryothorus	Troglodytidae	Passeriformes	Aves	Chordata	Animalia	Aviba
 Thryothorus	Thryothorus	Troglodytidae	Passeriformes	Aves	Chordata	Animalia	Avibase	1	1		0
 Thryothorus 
 
-	Thryothorus	Troglodytidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus contains white space.	0
-Thryothurus	Thryothorus	Troglodytidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
-Thryptacodon	Thryptacodon	Arctocyonidae	Condylarthra	Mammalia	Chordata	Animalia	Paleobiology Database	1	1		0
+	Thryothorus	Troglodytidae	Passeriformes	Aves	Chordata	AThryptacodon	Thryptacodon	Arctocyonidae	Condylarthra	Mammalia	Chordata	Animalia	Paleobiology Database	1	1		0
 Thryptacodon cf	Thryptacodon	Arctocyonidae	Condylarthra	Mammalia	Chordata	Animalia	Paleobiology Database	0	1	Genus contains an identification qualifier.	0
 Thrysitoides	Thrysitoides	Gempylidae	Perciformes	Actinopterygii	Chordata	Animalia	Interim Register of Marine and Nonmarine Genera	0	1		0
-THRYSOIDEA	GymnothorThryssocypris	Thryssocypris	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
-: April 2013	0	1	Genus is a synonym.	0
+THRYSOIDEA	Gymnothorax	Muraenidae	Anguilliformes	Actinopterygii	Chordata	Animalia	Species 2000 & ITIS Catalogue of Life: April 2013	0	1	Genus is a synonym.	0
+Thryssa	Thryssa	Engraulidae	Clupeiformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
+Thryssocypris	Thryssocypris	Cyprinidae	Cypriniformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Thrythorus	Thryothorus	Troglodytidae	Passeriformes	Aves	Chordata	Animalia	Species 2000 & ITIS Catalogue of Life: April 2013	0	1	Genus misspelled.	0
 Thumnophilus	Thamnophilus	Thamnophilidae	Passeriformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
 Thunnus	Thunnus	Scombridae	Perciformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
@@ -25458,7 +25461,8 @@ THYROPTERA	Thyroptera	Thyropteridae	Chiroptera	Mammalia	Chordata	Animalia	ITIS	1
 Thyrorhina				Aves	Chordata	Animalia		0	1	Genus not found.	0
 Thyrothorus	Thryothorus	Troglodytidae	Passeriformes	Aves	Chordata	Animalia	ITIS	0	1	Genus misspelled.	0
 Thyrsites	Thyrsites	Gempylidae	Perciformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
-Thyrsitoides	ThyrsitoThyrsoidea	Gymnothorax	Muraenidae	Anguilliformes	Actinopterygii	Chordata	Animalia	Catalog of Fishes	0	1	Genus is a synonym.	0
+Thyrsitoides	Thyrsitoides	Gempylidae	Perciformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
+Thyrsoidea	Gymnothorax	Muraenidae	Anguilliformes	Actinopterygii	Chordata	Animalia	Catalog of Fishes	0	1	Genus is a synonym.	0
 Thysanactis	Thysanactis	Stomiidae	Stomiiformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Thysanophrys	Thysanophrys	Platycephalidae	Scorpaeniformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Thysochromis	Thysochromis	Cichlidae	Perciformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
@@ -26412,6 +26416,7 @@ Uromys	Uromys	Muridae	Rodentia	Mammalia	Chordata	Animalia	ITIS	1	1		0
 Uronemus	Uronemus	Uronemidae	Dipnoiformes	Sarcopterygii	Chordata	Animalia	Paleobiology Database	1	1		0
 Uroodynamis	Urodynamis	Cuculidae	Cuculiformes	Aves	Chordata	Animalia	Avibase	0	1	Genus misspelled.	0
 Uropelia	Uropelia	Columbidae	Columbiformes	Aves	Chordata	Animalia	ITIS	1	1		0
+Uropeltid		Uropeltidae	Squamata	Reptilia	Chordata			0	1	Genus is a family common name.	0
 UROPELTIS	Uropeltis	Uropeltidae	Squamata	Reptilia	Chordata	Animalia	ITIS	1	1		0
 Urophycis	Urophycis	Gadidae	Gadiformes	Actinopterygii	Chordata	Animalia	ITIS	1	1		0
 Uroplates	Uroplatus	Gekkonidae	Squamata	Reptilia	Chordata	Animalia	Species 2000 & ITIS Catalogue of Life: April 2013	0	1	Genus misspelled.	0

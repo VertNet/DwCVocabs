@@ -925,6 +925,7 @@ sp.7	sp.	0	1
 sp.8	sp.	0	1
 sp.9	sp.	0	1
 sp.A	sp.	0	1
+sp.A.	sp.	0	1
 sp.b	sp.	0	1
 sp.B (cf.bransfordii)	cf. bransfordii	0	1
 sp.C		0	1
@@ -950,8 +951,8 @@ ss cf	cf.	0	1
 ssp	ssp.	0	1
 ssp.	ssp.	1	1
 STICTOS N.SP.	sp. nov.	0	1
-subadult		0	1
-subadult?		subcl. elasmobranchii		0	1
+subadult		0subadult?		0	1
+subcl. elasmobranchii		0	1
 Suborder= Acanthuroidei		0	1
 subsp cf	cf.	0	1
 subsp. 	ssp.	0	1

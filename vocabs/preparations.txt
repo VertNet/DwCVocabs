@@ -104950,6 +104950,7 @@ TABULAR HORN		0	0
 'TABULAR PLATES'		0	0
 tad [?]		0	0
 tadpole		0	0
+tadpoles		0	0
 tail	tail	1	1
 Tail  + body (part)		0	0
 tail - 1	tail - 1	0	1
@@ -104976,8 +104977,8 @@ tail bone		0	0
 tail club		0	0
 tail feathers		0	0
 TAIL FIN		0	0
-TAIL FIN + PALAEONISCOID GASTRIC RESIDUE		0	0
-TAIL FIN SPINETAIL OF 16+/- CAUDALS, DECAYED		0	0
+TAIL FIN + PALAEONISCOID GASTRIC RESIDUE		0	0TAIL FIN SPINES ?		0	0
+TAIL OF 16+/- CAUDALS, DECAYED		0	0
 tail only		0	0
 TAIL PARTIAL, A+B		0	0
 TAIL PARTIAL, LARGE, NC		0	0
@@ -105128,8 +105129,7 @@ TARSOMETATARSI		0	0
 TARSOMETATARSIS ?L		0	0
 TARSOMETATARSUS	tarsometatarsus	0	1
 Tarso-metatarsus		0	0
-tarso-meta-tarsus		0	0
-TARSOMETATARSUS & TIBIOTARSUS DIST END		0	0
+tarso-meta-tTARSOMETATARSUS & TIBIOTARSUS DIST END		0	0
 Tarsometatarsus (14)		0	0
 Tarsometatarsus (2)		0	0
 Tarsometatarsus (3)		0	0
