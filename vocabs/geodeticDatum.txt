@@ -1,6 +1,5 @@
 verbatimGeodeticDatum	standardGeodeticDatum	epsg	standard	checked
 '			0	1
- WGS84	WGS84	4326	0	1
 
 WGS84			0	1
 "International spheroid"	International 1924 ellipsoid	7022	0	1
@@ -100,8 +99,8 @@ Everest India 1830 ellipsoid	Everest India 1830 ellipsoid	7015	1	1
 Everest India 1956 ellipsoid	Everest India 1956 ellipsoid		1	1
 Everest Pakistan ellipsoid	Everest Pakistan ellipsoid		1	1
 Everest W Malaysia 1948 ellipsoid	Everest W Malaysia 1948 ellipsoid	7018	1	1
-Everest W Malaysia 1969 ellipsoid	Everest W Malaysia 1969 ellipsoFalling Rain	not recorded		0	1
-Fnd. Ocotepeque	Ocotepeque 1935		0	1
+Everest W Malaysia 1969 ellipsoid	Everest W Malaysia 1969 ellipsoid	7056	1	1
+Falling RaFnd. Ocotepeque	Ocotepeque 1935		0	1
 Fort Thomas 1955	Fort Thomas 1955	6605	1	1
 Fundamental de Ocotepeque	Ocotepeque 1935		0	1
 Gan 1970	Gan 1970	6684	1	1
@@ -220,8 +219,8 @@ not rec.	not recorded (forced WGS84)	6030	0	1
 not recorded	not recorded (forced WGS84)	6030	0	1
 not recorded (forced WGS84)	not recorded (forced WGS84)	6030	1	1
 not recorded\; assume WGS84 for Australia	not recorded		0	1
-Observatorio Meteorologico 1939	Observatorio Meteorologico 1939	61Ocotepeque	Ocotepeque 1935		0	1
-Ocotepeque 1935	Ocotepeque 1935		1	1
+Observatorio Meteorologico 1939	Observatorio Meteorologico 1939	6182	1	1
+Ocotepeque	Ocotepeque 19Ocotepeque 1935	Ocotepeque 1935		1	1
 Old Egyptian 1907	Old Egyptian 1907	6229	1	1
 Old Hawaiian, Clarke 1866	Old Hawaiian, Clarke 1866		1	1
 Old Hawaiian, International 1924	Old Hawaiian, International 1924		1	1
@@ -304,8 +303,6 @@ WGS82	WGS84	4326	0	1
 WGS83	WGS84	4326	0	1
 WGS84	WGS84	4326	1	1
 WGS-84	WGS84	4326	0	1
-WGS84
-	WGS84	4326	0	1
 WGS84)	WGS84	4326	0	1
 WGS84/NAD83	WGS84	4326	0	1
 WGS84`	WGS84	4326	0	1
