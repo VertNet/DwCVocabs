@@ -2293,12 +2293,6 @@ Holotype of Zygodontomys brevicauda brevicauda ((Allen & Chapman))	holotype	0	1
 Holotype of Zygodontomys brevicauda cherriei ((Allen))	holotype	0	1
 holotype or syntype	holotype	0	1
 HOLOTYPE PUBLISHED IN - WILSON, L. D., R. K. VAUGH AND J. R. DIXON. 1999. ANOTHER NEW SPECIES OF TANTILLA OF THE TAENIATA GROUP FROM CHIAPAS, MEXICO. JOURNAL OF HERPETOLOGY 33 (1): 1-5	holotype	0	1
-Holotype
-Holotype	holotype	0	1
-Holotype
-Paralectotype	holotype	0	1
-Holotype
-Paratype	holotype	0	1
 Holotype, NOTES	holotype	0	1
 Holotype, Paratype	holotype	0	1
 Holotype, Paratype, Type	holotype	0	1
@@ -2325,7 +2319,10 @@ Hypotype	hypotype	1	1
 hypotype; cited	hypotype	0	1
 hypotype; figured and cited	hypotype	0	1
 hypotypes	hypotype	0	1
-iguisolectotype fragment	isolectotype	0	1
+iguana		0	1
+ISOLECTOTIPO	isolectotype	0	1
+isolectotype	isolectotype	1	1
+isolectotype fragment	isolectotype	0	1
 isoneotype	isoneotype	1	1
 isoparatype	isoparatype	1	1
 ISOSINTIPO	isosyntype	0	1
@@ -2415,9 +2412,8 @@ NEOTYPE OF RANA PIPIENS	neotype	0	1
 Neotype of Saguinus niger ((Geoffroy Saint-Hilaire))	neotype	0	1
 NEOTYPE OF SPHAERODACTYLUS MILLEPUNCTATUS	neotype	0	1
 Neo-TYPE specimen ??	neotype	0	1
-Neotype
-Neotype	neotype	0	1
-No tyNone		0	1
+No type		0	1
+None		0	1
 non-type		0	1
 non-types		0	1
 not a TYPE		0	1
@@ -3938,19 +3934,6 @@ PARATYPE OFAMEIVA THORACICA, COPE, 1862, PROC. ACAD. NAT. SCI. PHILADELPHIA, 14:
 PARATYPE OFSPHAERODACTYLUS COPEI CATAPLEXIS, SCHWARTZ AND THOMAS, 1964, QUART. JOUR. FLORIDA ACAD. SCI., 27:236	paratype	0	1
 PARATYPE PUBLISHED IN - WILSON, L. D., R. K. VAUGH AND J. R. DIXON. 1999. ANOTHER NEW SPECIES OF TANTILLA OF THE TAENIATA GROUP FROM CHIAPAS, MEXICO. JOURNAL OF HERPETOLOGY 33 (1): 1-5	paratype	0	1
 PARATYPE SIBON NEBULATA HARTWEGI	paratype	0	1
-Paratype
-Holotype	type	0	1
-Paratype
-Paratype	paratype	0	1
-'Paratype'
-Paratype	paratype	0	1
-Paratype
-Paratype
-Paratype	paratype	0	1
-Paratype
-Paratype
-Paratype
-Paratype	paratype	0	1
 Paratype, NOTES	paratype	0	1
 Paratype, Type	paratype	0	1
 Paratype.	paratype	0	1
@@ -4023,8 +4006,15 @@ PARATYPES OF OEDIPINA PSEUDOUNIFORMIS	paratype	0	1
 PARATYPES OF OEDIPUS BROMELIACIA	paratype	0	1
 PARATYPES OF OEDIPUS FRANKLINI	paratype	0	1
 PARATYPES OF OEDIPUS GOEBELI	paratype	0	1
-PARATYPES OFPARATYPES OF PLETHODON JORDANI TEYAHALEE	paratype	0	1
-. HIST. MISC., 47:1	paratype	0	1
+PARATYPES OF OEDIPUS NASALIS	paratype	0	1
+PARATYPES OF PHYLLOBATES FLOTATOR	paratype	0	1
+PARATYPES OF PHYLLOBATES NUBICOLA	paratype	0	1
+PARATYPES OF PHYLLODACTYLUS DAVISI	paratype	0	1
+PARATYPES OF PHYLLODACTYLUS MAGISTER	paratype	0	1
+PARATYPES OF PLETHODON CINEREUS SERRATUS	paratype	0	1
+PARATYPES OF PLETHODON DIXI, POPE AND FOWLER, 1949, NAT. HIST. MISC., 47:1	paratype	0	1
+PARATYPES OF PLETHODON GORDONI	paratype	0	1
+PARATYPES OF PLETHODON JORDANI TEYAHALEE	paratype	0	1
 PARATYPES OF PLETHODON SHERMANI RABUNENSIS, POPE AND HAIRSTON, 1948, COPEIA, 1948:106	paratype	0	1
 PARATYPES OF PROCTOPORUS RANEYI	paratype	0	1
 PARATYPES OF PSEUDACRIS BRIMLEYI	paratype	0	1
@@ -4122,7 +4112,8 @@ SYNTYPE OF ANOLIS GORGONAE	syntype	0	1
 SYNTYPE OF ANOLIS GRANULICEPS	syntype	0	1
 SYNTYPE OF ANOLIS TROSSULUS	syntype	0	1
 SYNTYPE OF ATELOPUS GRACILIS	syntype	0	1
-SYNTYPE OF Syntype of Callipepla gambelii deserticola	syntype	0	1
+SYNTYPE OF BOGERTIA LUTZAE	syntype	0	1
+Syntype of Callipepla gambelii deserticola	syntype	0	1
 Syntype of Campylorhynchus brunneicapillus sandieg	syntype	0	1
 Syntype of Catharus frantzii waldroni Phillips	syntype	0	1
 Syntype of Catharus frantzii wetmorei	syntype	0	1

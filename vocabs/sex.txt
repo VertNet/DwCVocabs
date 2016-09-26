@@ -10,13 +10,6 @@ verbatimSex	standardSex	standard	checked
 -- [apparantly M]	male	0	1
  F	female	0	1
  M	male	0	1
-
-
-M	male	0	1
-
-M	male	0	1
-
-M[F]	unknown	0	1
 "		0	1
 "?"	in question	0	1
 "?"[=M]	in question	0	1
@@ -180,7 +173,11 @@ M[F]	unknown	0	1
 ?=F	in question	0	1
 ?=M	in question	0	1
 ?F	in question	0	1
-?["M" or F ?]	in question	0	1
+?Female	in question	0	1
+?M	in question	0	1
+?M*	in question	0	1
+?Male	in question	0	1
+["M" or F ?]	in question	0	1
 [?]	in question	0	1
 [?F]	in question	0	1
 [?Female]	in question	0	1
@@ -1349,8 +1346,6 @@ M Yg,	male	0	1
 M yng	male	0	1
 M young	male	0	1
 M YY	male	0	1
-M
-	male	0	1
 M!	male	0	1
 M(?)	in question	0	1
 m(?), adult	in question	0	1
@@ -1509,7 +1504,8 @@ male (juvenile)	male	0	1
 male (LAP)	male	0	1
 male (later identified as)	male	0	1
 Male (likely)	male	0	1
-male (not breeding)male (on label)	male	0	1
+male (not breeding)	male	0	1
+male (on label)	male	0	1
 male (on plumage)	male	0	1
 male (plumage)	male	0	1
 male (printed in error as female	male	0	1

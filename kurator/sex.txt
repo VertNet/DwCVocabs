@@ -10,13 +10,6 @@ sex	standard	vetted
 -- [APPARANTLY M]	male	1
  F	female	1
  M	male	1
-
-
-M	male	1
-
-M	male	1
-
-M[F]	unknown	1
 "		1
 "?"	in question	1
 "?"[=M]	in question	1
@@ -1353,8 +1346,6 @@ M YG,	male	1
 M YNG	male	1
 M YOUNG	male	1
 M YY	male	1
-M
-	male	1
 M!	male	1
 M(?)	in question	1
 M(?), ADULT	in question	1

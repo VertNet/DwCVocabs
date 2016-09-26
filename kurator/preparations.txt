@@ -128,8 +128,6 @@ AL+T+ECTO	alcoholic | ectoparasite | tissue	1
 AL+T+ECTO +CH	alcoholic | chromosomes | ectoparasite | tissue	1
 AL+T+ECTO+CH	alcoholic | chromosomes | ectoparasite | tissue	1
 ALC	alcoholic	1
-ALCFLUID, SKULL, TISSUE	alcoholic | fluid | skull | tissue	1
-ALCFLUID, TISSUE	alcoholic | fluid | tissue	1
 ALC, TISSUE	alcoholic | tissue	1
 ALC/CARC	alcoholic | carcass	1
 ALC+SCHMOO	alcoholic | schmoo	1
@@ -260,8 +258,6 @@ C&S, TISSUE, DRY, HEMIPENIS	cleared and stained | dry | hemipenis | tissue	1
 C&S, TISSUE, FLUID	cleared and stained | fluid | tissue	1
 CAPE/PAW/SKEL	cape | paw | skeleton	1
 CARAPACE (DRY)	carapace	1
-CARCASSFLUID, SKELSKELETON, SKIN, SKULL, TISSUE	carcass | fluid | skeleton | skin | skull | tissue	1
-CARCASSFLUID, SKIN, SKULL, TISSUE	carcass | fluid | skin | skull | tissue	1
 CAST	cast	1
 CAST OF UPPER AND LOWER TOOTHROWS	cast (upper and lower tooth rows)	1
 CAST SKIN	cast skin	1
@@ -680,9 +676,6 @@ FLUID HEAD AND PARTIAL SKELETON	fluid head | partial skeleton	1
 FLUID HEAD FEET IN SKIN	fluid head and feet in skin	1
 FLUID SKIN	fluid skin	1
 FLUID SKIN AND EMBRYOS	fluid skin | embryos	1
-FLUIDFLUID, SKULL	fluid | skull	1
-FLUID,  SKULL	fluid | skull	1
-FLUID, ?????SKIN, SKULL	fluid | skin | skull	1
 FLUID, C&S	cleared and stained | fluid	1
 FLUID, C&S, DRY	dry | cleared and stained | fluid	1
 FLUID, C&S, DRY, FLUID	dry | cleared and stained | fluid	1
@@ -714,9 +707,7 @@ FLUID, HEMIPENIS, HEMIPENIS	fluid | hemipenis	1
 FLUID, HEMIPENIS, MICROTECHNIQUE	fluid | hemipenis | microtechnique	1
 FLUID, KARYO/COL, SKULL	fluid | karyotype | skull	1
 FLUID, KARYO/NC	fluid | karyotype	1
-FLUID, KARYO/NC, SKIN SKIN, SKULL SKULL	fluid | karyotype | skin | skull	1
 FLUID, KARYO/NC, SKULL	fluid | karyotype | skull	1
-FLUID, KARYO/NC, SKULL SKULL	fluid | karyotype | skull	1
 FLUID, KARYOTYPE	fluid | karyotype	1
 FLUID, KARYOTYPE, SKELETON, SKIN, SKULL	fluid | karyotype | skeleton | skin | skull	1
 FLUID, KARYOTYPE, SKELETON, SKULL	fluid | karyotype | skeleton | skull	1
@@ -749,12 +740,9 @@ FLUID, SKELETON, SKIN	fluid | skeleton | skin	1
 FLUID, SKELETON, SKIN, SKULL	fluid | skeleton | skin | skull	1
 FLUID, SKELETON, SKULL	fluid | skeleton | skull	1
 FLUID, SKIN	fluid | skin	1
-FLUID, SKIN SKIN, SKULL SKULL	fluid | skin | skull	1
 FLUID, SKIN, SKULL	fluid | skin | skull	1
-FLUID, SKIN, SKULL SKULL	fluid | skin | skull	1
 FLUID, SKIN, SKULL, TISSUE	fluid | skin | skull | tissue	1
 FLUID, SKULL	fluid | skull	1
-FLUID, SKULL SKULL	fluid | skull	1
 FLUID, SKULL, TISSUE	fluid | skull | tissue	1
 FLUID, TISSUE	fluid | tissue	1
 FLUID, TISSUE, DRY	dry | fluid | tissue	1
@@ -1965,8 +1953,6 @@ SKIN, SKEL, STOM, TISSUES - 1	skeleton | skin | stomach | tissues - 1	1
 SKIN, SKELEON	skin | skeleton	1
 SKIN, SKELETON	skeleton | skin	1
 SKIN, SKELETON (FEW WING BONES)	skin | skeleton | wing bones	1
-SKIN, SKELETON
-	skin | skeleton	1
 SKIN, SKELETON, FEATHERS	skin | skeleton | feathers	1
 SKIN, SKELETON, MISC. FEATHERS	skin | skeleton | feathers	1
 SKIN, SKELETON, SKELETON	skeleton | skin	1
@@ -2386,8 +2372,6 @@ SYRINX - NULL; TISSUE - 1; SKIN - 1	syrinx - null | tissue - 1 | skin - 1	1
 SYRINX; SKIN/TOE CLIP; SKIN; SKEL; FLUID; TISSUE	syrinx | skin | skeleton | fluid | tissue	1
 T +ECTO	ectoparasite | tissue	1
 TA	alcoholic | tissue	1
-TA
-	alcoholic | tissue	1
 TAIL	tail	1
 TAIL - 1	tail - 1	1
 TAIL & 2 WINGS	tail | wings	1
