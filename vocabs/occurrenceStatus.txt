@@ -2,4 +2,5 @@ verbatimOccurrenceStatus	standardOccurrenceStatus	standard	checked
 0	absent	0	1
 1	present	0	1
 absent	absent	1	1
+occStat		0	1
 present	present	1	1
