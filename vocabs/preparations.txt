@@ -13207,6 +13207,7 @@ Burned Notes: Mostly Calcined or close to it		0	0
 Burned Notes: Nearly Calcined		0	0
 Burned Notes: Possibly 17 burned, most of these are calcined		0	0
 Burned Notes: The majority of these are Calcined		0	0
+Burned specimen count: 79		0	0
 burrow		0	0
 BURROW CONTAINING BONES		0	0
 burrow fillings (3)		0	0
@@ -22145,16 +22146,40 @@ ELEMENT, LARGE, NC		0	0
 ELEMENT, NC		0	0
 Element.		0	0
 Element: 1st Phalanx		0	0
+Element: 1st Phalanx, ElementURI: UBERON:0004302, Portion: Proximal 1/4, Side: L		0	0
+Element: 1st Phalanx, ElementURI: UBERON:0004302, Portion: Proximal 1/4, Side: L, Burned specimen count: 1		0	0
+Element: 1st Phalanx, ElementURI: UBERON:0004302, Portion: Whole		0	0
+Element: 1st Phalanx, ElementURI: UBERON:0004302, Portion: Whole, Modifications: Deep circumferential cut on the longitudianl axis i.e. splitting to make a fishhook?		0	0
+Element: 1st Phalanx, ElementURI: UBERON:0004302, Portion: Whole, Modified specimen count: 1, Modifications: Deep circumferential cut on the longitudianl axis i.e. splitting to make a fishhook?		0	0
 Element: 1st Phalanx, Portion: Whole		0	0
 Element: 1st Phalanx, Portion: Whole, Modifications: Deep circumferential cut on the longitudianl axis i.e. splitting to make a fishhook?		0	0
 Element: 1st Thoracic Vertebra		0	0
+Element: 1st Thoracic Vertebra, ElementURI: UBERON:0004626, Portion: Nearly Whole		0	0
 Element: 1st Thoracic Vertebra, Portion: Nearly Whole		0	0
 Element: 1st Thoracic Vertebra, Portion: Nearly Whole, Fused:  		0	0
+Element: 2nd Phalanx, ElementURI: UBERON:0004301, Portion: Nearly Whole		0	0
+Element: 2nd Phalanx, ElementURI: UBERON:0004301, Portion: Proximal Epiphysis, Fused specimen count: 0		0	0
+Element: 2nd Phalanx, ElementURI: UBERON:0004301, Portion: Proximal Epiphysis, Fused specimen count: No		0	0
+Element: 2nd Phalanx, ElementURI: UBERON:0004301, Portion: Proximal Epiphysis, Fused: No		0	0
+Element: 2nd Phalanx, ElementURI: UBERON:0004301, Portion: Proximal Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: 2nd Phalanx, ElementURI: UBERON:0004301, Portion: Proximal Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: 2nd Phalanx, ElementURI: UBERON:0004301, Portion: Whole/Nearly Whole		0	0
 Element: 2nd Phalanx, Portion: Nearly Whole		0	0
 Element: 2nd Phalanx, Portion: Proximal Epiphysis		0	0
 Element: 2nd Phalanx, Portion: Whole/Nearly Whole		0	0
+Element: 7th Cervical Vertebra, ElementURI: UBERON:0004616, Portion: Whole		0	0
 Element: 7th Cervical Vertebra, Portion: Whole		0	0
+Element: Acetablum+Illium, ElementURI: UBERON:0001269; UBERON:0001273, Portion: Fragment, Side: R		0	0
 Element: Acetablum+Illium, Portion: Fragment, Side: R		0	0
+Element: Acetabulum, ElementURI: UBERON:0001269, Portion: Fragment		0	0
+Element: Acetabulum, ElementURI: UBERON:0001269, Portion: Fragment, Side: ?		0	0
+Element: Acetabulum, ElementURI: UBERON:0001269, Portion: Fragment, Side: L		0	0
+Element: Acetabulum, ElementURI: UBERON:0001269, Portion: Fragment, Side: R		0	0
+Element: Acetabulum, ElementURI: UBERON:0001269, Portion: Fragment, Side: R, Modifications: Cutmarks?		0	0
+Element: Acetabulum, ElementURI: UBERON:0001269, Portion: Fragment, Side: R, Modified specimen count: 1, Modifications: Cutmarks?		0	0
+Element: Acetabulum, ElementURI: UBERON:0001269, Portion: Nearly Whole, Side: R		0	0
+Element: Acetabulum, ElementURI: UBERON:0001269, Portion: Whole, Side: L		0	0
+Element: Acetabulum, ElementURI: UBERON:0001269, Portion: Whole, Side: R		0	0
 Element: Acetabulum, Portion: Fragment		0	0
 Element: Acetabulum, Portion: Fragment, Side: ?		0	0
 Element: Acetabulum, Portion: Fragment, Side: L		0	0
@@ -22163,19 +22188,47 @@ Element: Acetabulum, Portion: Fragment, Side: R, Modifications: Cutmarks?		0	0
 Element: Acetabulum, Portion: Nearly Whole, Side: R		0	0
 Element: Acetabulum, Portion: Whole, Side: L		0	0
 Element: Acetabulum, Portion: Whole, Side: R		0	0
+Element: Acetabulum+Illium, ElementURI: UBERON:0001279; UBERON:0001263, Portion: Fragment, Side: L		0	0
+Element: Acetabulum+Illium, ElementURI: UBERON:0001279; UBERON:0001263, Portion: Fragment, Side: R		0	0
+Element: Acetabulum+Illium, ElementURI: UBERON:0001279; UBERON:0001263, Portion: Nearly Whole, Side: L		0	0
 Element: Acetabulum+Illium, Portion: Fragment, Side: L		0	0
 Element: Acetabulum+Illium, Portion: Fragment, Side: R		0	0
 Element: Acetabulum+Illium, Portion: Nearly Whole, Side: L		0	0
+Element: Actetabulum+Illium, ElementURI: UBERON:0001279; UBERON:0001263, Portion: Fragment, Side: R, Modifications: Cutmarks		0	0
+Element: Actetabulum+Illium, ElementURI: UBERON:0001279; UBERON:0001263, Portion: Fragment, Side: R, Modified specimen count: 1, Modifications: Cutmarks		0	0
 Element: Actetabulum+Illium, Portion: Fragment, Side: R, Modifications: Cutmarks		0	0
+Element: Antler, ElementURI: UBERON:0006971, Portion: Fragment		0	0
+Element: Antler, ElementURI: UBERON:0006971, Portion: Pedicle+Beam		0	0
+Element: Antler, ElementURI: UBERON:0006971, Portion: Tine		0	0
+Element: Antler, ElementURI: UBERON:0006971, Portion: Tine Fragment		0	0
 Element: Antler, Portion: Fragment		0	0
 Element: Antler, Portion: Pedicle+Beam		0	0
 Element: Antler, Portion: Tine		0	0
 Element: Antler, Portion: Tine Fragment		0	0
+Element: Antler?, ElementURI: UBERON:0006971, Portion: Corona Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Antler?, ElementURI: UBERON:0006971, Portion: Corona Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Astragalus, ElementURI: UBERON:0002395, Portion: Fragment, Side: L		0	0
+Element: Astragalus, ElementURI: UBERON:0002395, Portion: Fragment, Side: L, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Astragalus, ElementURI: UBERON:0002395, Portion: Fragment, Side: L, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Astragalus, ElementURI: UBERON:0002395, Portion: Nearly Whole, Side: R		0	0
+Element: Astragalus, ElementURI: UBERON:0002395, Portion: Whole, Side: L		0	0
+Element: Astragalus, ElementURI: UBERON:0002395, Portion: Whole, Side: R		0	0
 Element: Astragalus, Portion: Fragment, Side: L		0	0
 Element: Astragalus, Portion: Nearly Whole, Side: R		0	0
 Element: Astragalus, Portion: Whole, Side: L		0	0
 Element: Astragalus, Portion: Whole, Side: R		0	0
 Element: Calcaneum		0	0
+Element: Calcaneum, ElementURI: UBERON:0001450, Portion: Distal 1/2, Side: L		0	0
+Element: Calcaneum, ElementURI: UBERON:0001450, Portion: Nearly Whole, Side: R		0	0
+Element: Calcaneum, ElementURI: UBERON:0001450, Portion: Nearly Whole, Side: R, Modifications: Cutmarks?		0	0
+Element: Calcaneum, ElementURI: UBERON:0001450, Portion: Nearly Whole, Side: R, Modified specimen count: 1, Modifications: Cutmarks?		0	0
+Element: Calcaneum, ElementURI: UBERON:0001450, Portion: Whole, Side: L		0	0
+Element: Calcaneum, ElementURI: UBERON:0001450, Portion: Whole, Side: R		0	0
+Element: Calcaneum, ElementURI: UBERON:0001450, Portion: Whole, Side: R, Fused specimen count: 0		0	0
+Element: Calcaneum, ElementURI: UBERON:0001450, Portion: Whole, Side: R, Fused specimen count: No		0	0
+Element: Calcaneum, ElementURI: UBERON:0001450, Portion: Whole, Side: R, Fused: No		0	0
+Element: Calcaneum, ElementURI: UBERON:0001450, Portion: Whole/Nearly Whole, Side: L		0	0
+Element: Calcaneum, ElementURI: UBERON:0001450, Portion: Whole/Nearly Whole, Side: R		0	0
 Element: Calcaneum, Portion: Distal 1/2, Side: L		0	0
 Element: Calcaneum, Portion: Distal 2/3, Side: R		0	0
 Element: Calcaneum, Portion: Nearly Whole, Side: L		0	0
@@ -22186,31 +22239,112 @@ Element: Calcaneum, Portion: Whole, Side: L		0	0
 Element: Calcaneum, Portion: Whole, Side: R		0	0
 Element: Calcaneum, Portion: Whole/Nearly Whole, Side: L		0	0
 Element: Calcaneum, Portion: Whole/Nearly Whole, Side: R		0	0
+Element: Calcaneus, ElementURI: UBERON:0001450, Portion: Distal 2/3, Side: R		0	0
+Element: Calcaneus, ElementURI: UBERON:0001450, Portion: Fragment, Side: R		0	0
+Element: Calcaneus, ElementURI: UBERON:0001450, Portion: Nearly Whole, Side: L		0	0
+Element: Calcaneus, ElementURI: UBERON:0001450, Portion: Nearly Whole, Side: R		0	0
+Element: Calcaneus, ElementURI: UBERON:0001450, Portion: Proximal 2/3, Side: R		0	0
 Element: Calcaneus, Portion: Fragment, Side: R		0	0
 Element: Calcaneus, Portion: Nearly Whole, Side: L		0	0
 Element: Carapace		0	0
+Element: Carapace, ElementURI: UBERON:0008275, Portion: Fragment, Fused specimen count: 1		0	0
+Element: Carapace, ElementURI: UBERON:0008275, Portion: Fragment, Fused specimen count: Yes		0	0
+Element: Carapace, ElementURI: UBERON:0008275, Portion: Fragment, Fused: Yes		0	0
 Element: Carapace, Portion: Fragment		0	0
 Element: Carapace/Plastron		0	0
 Element: Carapace/Plastron , Portion: Fragment		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned Notes: 1 Calcined; 2 burned gray, Burned Notes: 1 Calcined; 2 burned gray		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned Notes: 2 Calcined, Burned Notes: 2 Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned Notes: 4 Calcined, Burned Notes: 4 Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned Notes: 8 Calcined, Burned Notes: 8 Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned Notes: All but one are Calcined, remainder is burned blue, Burned Notes: All but one are Calcined, remainder is burned blue		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned Notes: Almost all are calcined, Burned Notes: Almost all are calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned Notes: Almost Calcined, Burned Notes: Almost Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned Notes: Burned blue/gray, Burned Notes: Burned blue/gray		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned Notes: Majority are Calcined, Burned Notes: Majority are Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned Notes: Most are calcined, Burned Notes: Most are calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned Notes: Nearly Calcined, Burned Notes: Nearly Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 1		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 1, Burned Notes: Almost Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 1, Burned Notes: Nearly Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 10		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 10, Burned Notes: Almost all are calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 10, Burned Notes: Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 11, Burned Notes: Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 13		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 13, Burned Notes: 8 Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 18		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 2		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 2, Burned Notes: Burned blue/gray		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 2, Burned Notes: Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 25, Burned Notes: Most are calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 3		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 3, Burned Notes: 1 Calcined; 2 burned gray		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 3, Burned Notes: 2 Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 3, Burned Notes: Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 37, Burned Notes: Majority are calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 4		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 4, Burned Notes: Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 4, Burned Notes: Majority are Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 5		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 5, Burned Notes: 4 Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 5, Burned Notes: Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 6, Burned Notes: All but one are Calcined, remainder is burned blue		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 6, Burned Notes: Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 7		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 7, Burned Notes: Calcined		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 8		0	0
+Element: Carapace/Plastron, ElementURI: UBERON:0008271, Portion: Fragment, Burned specimen count: 9		0	0
 Element: Carapace/Plastron, Portion: Fragment		0	0
 Element: Carpal/Tarsal		0	0
+Element: Carpal/Tarsal, ElementURI: UBERON:0001435; UBERON:0001447, Portion: Fragment		0	0
+Element: Carpal/Tarsal, ElementURI: UBERON:0001435; UBERON:0001447, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Carpal/Tarsal, ElementURI: UBERON:0001435; UBERON:0001447, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Carpal/Tarsal, ElementURI: UBERON:0001435; UBERON:0001447, Portion: Whole		0	0
+Element: Carpal/Tarsal, ElementURI: UBERON:0001435; UBERON:0001447, Portion: Whole, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Carpal/Tarsal, ElementURI: UBERON:0001435; UBERON:0001447, Portion: Whole, Burned specimen count: 1, Burned Notes: Calcined		0	0
 Element: Carpal/Tarsal, Portion: Fragment		0	0
 Element: Carpal/Tarsal, Portion: Whole		0	0
 Element: Caudal Vertebra		0	0
+Element: Caudal Vertebra, ElementURI: UBERON:0001095, Portion: Fragment		0	0
+Element: Caudal Vertebra, ElementURI: UBERON:0001095, Portion: Nearly Whole		0	0
+Element: Caudal Vertebra, ElementURI: UBERON:0001095, Portion: Whole		0	0
 Element: Caudal Vertebra, Portion: Fragment		0	0
 Element: Caudal Vertebra, Portion: Nearly Whole		0	0
 Element: Caudal Vertebra, Portion: Whole		0	0
+Element: Cervical Vertebra, ElementURI: UBERON:0002413, Portion: Body		0	0
+Element: Cervical Vertebra, ElementURI: UBERON:0002413, Portion: Body Fragment		0	0
+Element: Cervical Vertebra, ElementURI: UBERON:0002413, Portion: Centrum		0	0
+Element: Cervical Vertebra, ElementURI: UBERON:0002413, Portion: Nearly Whole		0	0
 Element: Cervical Vertebra, Portion: Body		0	0
 Element: Cervical Vertebra, Portion: Body Fragment		0	0
 Element: Cervical Vertebra, Portion: Centrum		0	0
 Element: Cervical Vertebra, Portion: Nearly Whole		0	0
+Element: Cleithrum, ElementURI: UBERON:0004741, Portion: Posterior 1/4, Side: L		0	0
 Element: Cleithrum, Portion: Posterior 1/4, Side: L		0	0
+Element: Condyle, ElementURI: UBERON:0009979, Portion: Fragment		0	0
 Element: Condyle, Portion: Fragment		0	0
 Element: Coracoid		0	0
+Element: Coracoid, ElementURI: UBERON:0004743, Portion: Body, Side: L		0	0
+Element: Coracoid, ElementURI: UBERON:0004743, Portion: Distal 1/3, Side: L, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Coracoid, ElementURI: UBERON:0004743, Portion: Distal 1/3, Side: L, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Coracoid, ElementURI: UBERON:0004743, Portion: Glenoid Facet, Side: R		0	0
+Element: Coracoid, ElementURI: UBERON:0004743, Portion: Glenoid+Scapular Facet, Side: R		0	0
+Element: Coracoid, ElementURI: UBERON:0004743, Portion: Nearly Whole, Side: R		0	0
 Element: Coracoid, Portion: Body, Side: L		0	0
 Element: Coracoid, Portion: Glenoid Facet, Side: R		0	0
 Element: Coracoid, Portion: Glenoid+Scapular Facet, Side: R		0	0
 Element: Coracoid, Portion: Nearly Whole, Side: R		0	0
+Element: Cranium, ElementURI: UBERON:0003128, Portion: Basisphenoid		0	0
+Element: Cranium, ElementURI: UBERON:0003128, Portion: Fragment		0	0
+Element: Cranium, ElementURI: UBERON:0003128, Portion: Occipital		0	0
+Element: Cranium, ElementURI: UBERON:0003128, Portion: Occipital Condyle, Side: L		0	0
+Element: Cranium, ElementURI: UBERON:0003128, Portion: Orbital Rim, Side: R		0	0
+Element: Cranium, ElementURI: UBERON:0003128, Portion: Temporal Fragment, Side: R		0	0
+Element: Cranium, ElementURI: UBERON:0003128, Portion: UID Bone		0	0
 Element: Cranium, Portion: Basisphenoid		0	0
 Element: Cranium, Portion: Fragment		0	0
 Element: Cranium, Portion: Occipital		0	0
@@ -22218,15 +22352,30 @@ Element: Cranium, Portion: Occipital Condyle, Side: L		0	0
 Element: Cranium, Portion: Orbital Rim, Side: R		0	0
 Element: Cranium, Portion: Temporal Fragment, Side: R		0	0
 Element: Cranium, Portion: UID Bone		0	0
+Element: Cuneiform, ElementURI: UBERON:0010721, Portion: Whole, Side: R		0	0
 Element: Cuneiform, Portion: Whole, Side: R		0	0
+Element: Dens, ElementURI: UBERON:0004096, Portion: Fragment		0	0
 Element: Dens, Portion: Fragment		0	0
 Element: Dentary		0	0
+Element: Dentary, ElementURI: UBERON:0004742, Portion: Medial Fragment		0	0
 Element: Dentary, Portion: Medial Fragment		0	0
 Element: Dorsal Spine		0	0
+Element: Dorsal Spine, ElementURI: UBERON:2002261, Portion: Proximal 1/2		0	0
 Element: Dorsal Spine, Portion: Proximal 1/2		0	0
+Element: Entoplastron, ElementURI: UBERON:0011659, Portion: Anterior 1/2		0	0
+Element: Entoplastron, ElementURI: UBERON:0011659, Portion: Fragment		0	0
 Element: Entoplastron, Portion: Anterior 1/2		0	0
 Element: Entoplastron, Portion: Fragment		0	0
 Element: Epiplastron		0	0
+Element: Epiplastron, ElementURI: UBERON:0011658, Portion: Fragment, Side: L, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Epiplastron, ElementURI: UBERON:0011658, Portion: Fragment, Side: L, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Epiplastron, ElementURI: UBERON:0011658, Portion: Lateral Fragment, Side: R		0	0
+Element: Epiplastron, ElementURI: UBERON:0011658, Portion: Medial Fragment, Side: R		0	0
+Element: Epiplastron, ElementURI: UBERON:0011658, Portion: Nearly Whole, Side: L		0	0
+Element: Epiplastron, ElementURI: UBERON:0011658, Portion: Nearly Whole, Side: R		0	0
+Element: Epiplastron, ElementURI: UBERON:0011658, Portion: Posterior 2/3, Side: R		0	0
+Element: Epiplastron, ElementURI: UBERON:0011658, Portion: Whole, Side: L		0	0
+Element: Epiplastron, ElementURI: UBERON:0011658, Portion: Whole, Side: R		0	0
 Element: Epiplastron, Portion: Lateral Fragment, Side: R		0	0
 Element: Epiplastron, Portion: Medial Fragment, Side: R		0	0
 Element: Epiplastron, Portion: Nearly Whole, Side: L		0	0
@@ -22235,6 +22384,63 @@ Element: Epiplastron, Portion: Posterior 2/3, Side: R		0	0
 Element: Epiplastron, Portion: Whole, Side: L		0	0
 Element: Epiplastron, Portion: Whole, Side: R		0	0
 Element: Femur		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 1/3, Side: L		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 1/3, Side: L, Fused specimen count: 0		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 1/3, Side: L, Fused specimen count: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 1/3, Side: L, Fused: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 1/4, Side: L		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 1/4, Side: L, Fused specimen count: 0		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 1/4, Side: L, Fused specimen count: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 1/4, Side: L, Fused: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 1/4, Side: R		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 1/4, Side: R, Fused specimen count: 0		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 1/4, Side: R, Fused specimen count: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 1/4, Side: R, Fused: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 2/3, Side: L		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal 2/3, Side: R		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal Epiphysis, Side: L, Fused specimen count: 0		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal Epiphysis, Side: L, Fused specimen count: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Distal Epiphysis, Side: L, Fused: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head Epiphysis, Side: R, Fused specimen count: 0		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head Epiphysis, Side: R, Fused specimen count: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head Epiphysis, Side: R, Fused: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head, Burned Notes: Burned gray/white, Burned Notes: Burned gray/white		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head, Burned specimen count: 1, Burned Notes: Burned gray/white		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head, Side: ?		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head, Side: ?, Burned specimen count: 1		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head, Side: R		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head, Side: R, Burned Notes: Burned gray, Burned Notes: Burned gray		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head, Side: R, Burned specimen count: 1, Burned Notes: Burned gray		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head, Side: R, Fused specimen count: 0, Fused Notes: not fused		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head, Side: R, Fused specimen count: No, Fused Notes: not fused		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Head, Side: R, Fused: No, Fused Notes: not fused		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Intercondyloid Fossa, Side: R		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Intercondyloid Fossa, Side: R, Burned specimen count: 1		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Intertrochanteric Line, Side: L		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Medial Condyle, Side: L		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Minor Trochanter, Side: R		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Nearly Whole, Side: L		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Proxiaml 1/3, Side: R		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Proximal 1/3, Side: R		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Proximal 1/4, Side: L		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Proximal 1/4, Side: R, Fused specimen count: 0		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Proximal 1/4, Side: R, Fused specimen count: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Proximal 1/4, Side: R, Fused: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Shaft Fragment		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Shaft Fragment, Modified specimen count: 1, Modifications: Cutmarks		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Shaft Fragment, Side: ?		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Shaft Fragment, Side: L		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Shaft Fragment, Side: L, Fused specimen count: 0		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Shaft Fragment, Side: L, Fused specimen count: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Shaft Fragment, Side: L, Fused: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Shaft Fragment, Side: R		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Supracondylar Fossa, Side: R		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Supracondylar Fossa, Side: R, Fused specimen count: 0		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Supracondylar Fossa, Side: R, Fused specimen count: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Supracondylar Fossa, Side: R, Fused: No		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Trochanter Minor, Side: L, Burned Notes: Nearly Calcined, Burned Notes: Nearly Calcined		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Trochanter Minor, Side: L, Burned specimen count: 1, Burned Notes: Nearly Calcined		0	0
+Element: Femur, ElementURI: UBERON:0003826, Portion: Trochlea		0	0
 Element: Femur, Portion: Distal 1/3, Side: L		0	0
 Element: Femur, Portion: Distal 1/4, Side: L		0	0
 Element: Femur, Portion: Distal 1/4, Side: R		0	0
@@ -22258,12 +22464,63 @@ Element: Femur, Portion: Shaft Fragment, Side: L		0	0
 Element: Femur, Portion: Shaft Fragment, Side: R		0	0
 Element: Femur, Portion: Supracondylar Fossa, Side: R		0	0
 Element: Femur, Portion: Trochlea		0	0
+Element: Fibula, ElementURI: UBERON:0001446, Portion: Fragment, Side: R		0	0
+Element: Fibula, ElementURI: UBERON:0001446, Portion: Nearly Whole, Side: L		0	0
+Element: Fibula, ElementURI: UBERON:0001446, Portion: Proximal 1/3		0	0
+Element: Fibula, ElementURI: UBERON:0001446, Portion: Proximal 1/3, Burned specimen count: 1		0	0
+Element: Fibula, ElementURI: UBERON:0001446, Portion: Whole, Side: L		0	0
+Element: Fibula, ElementURI: UBERON:0001446, Portion: Whole, Side: R		0	0
+Element: Fibula, ElementURI: UBERON:0001446, Portion: Whole, Side: R, Burned Notes: Nearly calcined, Burned Notes: Nearly calcined		0	0
+Element: Fibula, ElementURI: UBERON:0001446, Portion: Whole, Side: R, Burned specimen count: 1, Burned Notes: Nearly calcined		0	0
+Element: Fibula, ElementURI: UBERON:0001446, Portion: Whole/Nearly Whole, Side: L		0	0
 Element: Fibula, Portion: Fragment, Side: R		0	0
 Element: Fibula, Portion: Nearly Whole, Side: L		0	0
 Element: Fibula, Portion: Whole, Side: L		0	0
 Element: Fibula, Portion: Whole, Side: R		0	0
 Element: Fibula, Portion: Whole/Nearly Whole, Side: L		0	0
 Element: Humerus		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Deltoid Crest, Side: L		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Diaphysis, Side: R		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 1/2, Side: L		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 1/2, Side: L, Burned specimen count: 1		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 1/2, Side: R		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 1/3, Modifications: Cutmarks?		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 1/3, Modified specimen count: 1, Modifications: Cutmarks?		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 1/3, Side: L		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 1/3, Side: R		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 1/4, Side: L		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 1/4, Side: R		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 1/8, Side: L		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 2/3, Side: L		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 3/4, Side: L		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal 3/4, Side: R		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Distal Condyle Fragment, Side: L		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Head, Side: R		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Head, Side: R, Burned specimen count: 1		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Major Tubercle, Side: R, Fused specimen count: 0		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Major Tubercle, Side: R, Fused specimen count: No		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Major Tubercle, Side: R, Fused: No		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Minor Tubercle, Side: L, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Minor Tubercle, Side: L, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Olecranon Fossa, Side: L		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal 1/2, Side: R, Fused specimen count: 0		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal 1/2, Side: R, Fused specimen count: No		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal 1/2, Side: R, Fused: No		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal 1/3, Side: L		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal 1/3, Side: L, Fused specimen count: 0		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal 1/3, Side: L, Fused specimen count: No		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal 1/3, Side: L, Fused: No		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal 1/3, Side: R		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal 1/4, Side: L		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal 2/3, Side: R		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal Epiphysis, Side: L, Fused specimen count: 0		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal Epiphysis, Side: L, Fused specimen count: No		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Proximal Epiphysis, Side: L, Fused: No		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Radial Fossa, Side: R		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Shaft Fragment		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Shaft Fragment, Burned specimen count: 1		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Shaft Fragment, Side: L?		0	0
+Element: Humerus, ElementURI: UBERON:0004250, Portion: Shaft Fragment, Side: R		0	0
 Element: Humerus, Portion: Deltoid Crest, Side: L		0	0
 Element: Humerus, Portion: Diaphysis, Side: R		0	0
 Element: Humerus, Portion: Distal 1/2, Side: R		0	0
@@ -22289,9 +22546,25 @@ Element: Humerus, Portion: Radial Fossa, Side: R		0	0
 Element: Humerus, Portion: Shaft Fragment		0	0
 Element: Humerus, Portion: Shaft Fragment, Side: L?		0	0
 Element: Humerus, Portion: Shaft Fragment, Side: R		0	0
+Element: Humerus/Femur, ElementURI: UBERON:0004250; UBERON:0003826, Portion: Distal 1/2, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Humerus/Femur, ElementURI: UBERON:0004250; UBERON:0003826, Portion: Distal 1/2, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Humerus/Femur, ElementURI: UBERON:0004250; UBERON:0003826, Portion: Shaft Fragment		0	0
 Element: Humerus/Femur, Portion: Shaft Fragment		0	0
 Element: Hyo/Hypoplastron		0	0
+Element: Hyo/Hypoplastron, ElementURI: UBERON:0014707; UBERON:0011660, Portion: Fragment		0	0
+Element: Hyo/Hypoplastron, ElementURI: UBERON:0014707; UBERON:0011660, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Hyo/Hypoplastron, ElementURI: UBERON:0014707; UBERON:0011660, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Hyo/Hypoplastron, ElementURI: UBERON:0014707; UBERON:0011660, Portion: Fragment, Side: L, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Hyo/Hypoplastron, ElementURI: UBERON:0014707; UBERON:0011660, Portion: Fragment, Side: L, Burned specimen count: 1, Burned Notes: Calcined		0	0
 Element: Hyo/Hypoplastron, Portion: Fragment		0	0
+Element: Hyoplastron, ElementURI: UBERON:0014707, Portion: Anterior 1/4, Side: L		0	0
+Element: Hyoplastron, ElementURI: UBERON:0014707, Portion: Anterior 1/8, Side: R		0	0
+Element: Hyoplastron, ElementURI: UBERON:0014707, Portion: Anterior Fragment, Side: R		0	0
+Element: Hyoplastron, ElementURI: UBERON:0014707, Portion: Fragment, Side: L, Burned Notes: Burned gray, blue in some places, Burned Notes: Burned gray, blue in some places		0	0
+Element: Hyoplastron, ElementURI: UBERON:0014707, Portion: Fragment, Side: L, Burned specimen count: 1, Burned Notes: Burned gray, blue in some places		0	0
+Element: Hyoplastron, ElementURI: UBERON:0014707, Portion: Fragment, Side: R		0	0
+Element: Hyoplastron, ElementURI: UBERON:0014707, Portion: Nearly Whole, Side: L		0	0
+Element: Hyoplastron, ElementURI: UBERON:0014707, Portion: Nearly Whole, Side: R		0	0
 Element: Hyoplastron, Portion: Anterior 1/4, Side: L		0	0
 Element: Hyoplastron, Portion: Anterior 1/8, Side: R		0	0
 Element: Hyoplastron, Portion: Anterior Fragment, Side: R		0	0
@@ -22299,6 +22572,17 @@ Element: Hyoplastron, Portion: Fragment, Side: R		0	0
 Element: Hyoplastron, Portion: Nearly Whole, Side: L		0	0
 Element: Hyoplastron, Portion: Nearly Whole, Side: R		0	0
 Element: Hypoplastron		0	0
+Element: Hypoplastron, ElementURI: UBERON:0011660, Portion: Anterior 1/4, Side: L		0	0
+Element: Hypoplastron, ElementURI: UBERON:0011660, Portion: Fragment		0	0
+Element: Hypoplastron, ElementURI: UBERON:0011660, Portion: Fragment, Side: L, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Hypoplastron, ElementURI: UBERON:0011660, Portion: Fragment, Side: L, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Hypoplastron, ElementURI: UBERON:0011660, Portion: Lateral 1/3, Side: L		0	0
+Element: Hypoplastron, ElementURI: UBERON:0011660, Portion: Medial 1/2, Side: R		0	0
+Element: Hypoplastron, ElementURI: UBERON:0011660, Portion: Posterior 1/8, Side: R		0	0
+Element: Hypoplastron, ElementURI: UBERON:0011660, Portion: Posterior Fragment, Side: L		0	0
+Element: Hypoplastron, ElementURI: UBERON:0011660, Portion: Posterior Fragment, Side: R		0	0
+Element: Hypoplastron, ElementURI: UBERON:0011660, Portion: Whole, Side: L		0	0
+Element: Hypoplastron, ElementURI: UBERON:0011660, Portion: Whole, Side: R		0	0
 Element: Hypoplastron, Portion: Anterior 1/4, Side: L		0	0
 Element: Hypoplastron, Portion: Fragment		0	0
 Element: Hypoplastron, Portion: Lateral 1/3, Side: L		0	0
@@ -22309,6 +22593,24 @@ Element: Hypoplastron, Portion: Posterior Fragment, Side: R		0	0
 Element: Hypoplastron, Portion: Whole, Side: L		0	0
 Element: Hypoplastron, Portion: Whole, Side: R		0	0
 Element: Illium		0	0
+Element: Illium, ElementURI: UBERON:0001263, Portion: Fragment, Side: R		0	0
+Element: Illium, ElementURI: UBERON:0001263, Portion: Medial Fragment, Side: R		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Anterior Fragment		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Distal 1/4		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Distal 1/4, Side: L		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Distal 1/4, Side: L, Burned specimen count: 1		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Distal Fragment, Side: L		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Fragment, Side: L		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Fragment, Side: R		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Illiac Crest, Side: ?		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Illiac Wing, Side: R		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Lunate Surface, Side: L		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Medial Fragment		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Medial Fragment, Side: L		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Medial Fragment, Side: R		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Nearly Whole, Side: L		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Nearly Whole, Side: R		0	0
+Element: Illium, ElementURI: UBERON:0001273, Portion: Posterior Fragment, Side: R		0	0
 Element: Illium, Portion: Anterior Fragment		0	0
 Element: Illium, Portion: Distal 1/4		0	0
 Element: Illium, Portion: Distal Fragment, Side: L		0	0
@@ -22323,39 +22625,173 @@ Element: Illium, Portion: Medial Fragment, Side: R		0	0
 Element: Illium, Portion: Nearly Whole, Side: L		0	0
 Element: Illium, Portion: Nearly Whole, Side: R		0	0
 Element: Illium, Portion: Posterior Fragment, Side: R		0	0
+Element: Illium/Ischium/Coracoid, ElementURI: UBERON:0001273; UBERON:0001274; UBERON:0004743, Portion: Distal 1/2, Side: ?		0	0
 Element: Illium/Ischium/Coracoid, Portion: Distal 1/2, Side: ?		0	0
+Element: Illium+Acetabulum, ElementURI: UBERON:0001273; UBERON:0001269, Portion: Fragment, Side: L		0	0
+Element: Illium+Acetabulum, ElementURI: UBERON:0001273; UBERON:0001269, Portion: Fragment, Side: R		0	0
+Element: Illium+Acetabulum, ElementURI: UBERON:0001273; UBERON:0001269, Portion: Nearly Whole, Side: L		0	0
+Element: Illium+Acetabulum, ElementURI: UBERON:0001273; UBERON:0001269, Portion: Nearly Whole, Side: R		0	0
 Element: Illium+Acetabulum, Portion: Fragment, Side: L		0	0
 Element: Illium+Acetabulum, Portion: Fragment, Side: R		0	0
 Element: Illium+Acetabulum, Portion: Nearly Whole, Side: L		0	0
 Element: Illium+Acetabulum, Portion: Nearly Whole, Side: R		0	0
+Element: Illium+Acetabulum+Ischium, ElementURI: UBERON:0001273; UBERON:0001269; UBERON:0001274, Portion: Fragment, Side: L		0	0
 Element: Illium+Acetabulum+Ischium, Portion: Fragment, Side: L		0	0
 Element: Incisor		0	0
 Element: Incisor (Bottom)		0	0
+Element: Incisor (Bottom), ElementURI: UBERON:0001098, Portion: Anterior 1/2		0	0
+Element: Incisor (Bottom), ElementURI: UBERON:0001098, Portion: Whole		0	0
 Element: Incisor (Bottom), Portion: Anterior 1/2		0	0
 Element: Incisor (Bottom), Portion: Whole		0	0
+Element: Incisor, ElementURI: UBERON:0001098, Portion: Fragment, Side: LR		0	0
 Element: Incisor, Portion: Fragment, Side: LR		0	0
 Element: Innomiate, Portion: Nearly Whole, Side: L		0	0
 Element: Innomiate, Portion: Nearly Whole, Side: R		0	0
+Element: Innominate, ElementURI: UBERON:0001272, Portion: Nearly Whole, Side: L		0	0
+Element: Innominate, ElementURI: UBERON:0001272, Portion: Nearly Whole, Side: R		0	0
+Element: Innominate, ElementURI: UBERON:0001272, Portion: Whole, Side: R		0	0
 Element: Innominate, Portion: Nearly Whole, Side: L		0	0
 Element: Innominate, Portion: Whole, Side: R		0	0
+Element: Ischium, ElementURI: UBERON:0001274, Portion: Anterior 1/3, Side: R		0	0
+Element: Ischium, ElementURI: UBERON:0001274, Portion: Anterior Fragment, Side: L		0	0
+Element: Ischium, ElementURI: UBERON:0001274, Portion: Anterior Fragment, Side: R		0	0
+Element: Ischium, ElementURI: UBERON:0001274, Portion: Fragment, Side: R		0	0
+Element: Ischium, ElementURI: UBERON:0001274, Portion: Nearly Whole, Side: R		0	0
 Element: Ischium, Portion: Anterior 1/3, Side: R		0	0
 Element: Ischium, Portion: Anterior Fragment, Side: L		0	0
 Element: Ischium, Portion: Anterior Fragment, Side: R		0	0
 Element: Ischium, Portion: Fragment, Side: R		0	0
 Element: Ischium, Portion: Nearly Whole, Side: R		0	0
+Element: Ischium+Acetabulum, ElementURI: UBERON:0001274; UBERON:0001269, Portion: Ischiadic Spine, Side: R		0	0
+Element: Ischium+Acetabulum, ElementURI: UBERON:0001274; UBERON:0001269, Portion: Nearly Whole, Side: L		0	0
 Element: Ischium+Acetabulum, Portion: Ischiadic Spine, Side: R		0	0
 Element: Ischium+Acetabulum, Portion: Nearly Whole, Side: L		0	0
 Element: Longbone		0	0
 Element: Longbone , Portion: Fragment		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Epiphyseal Fragment		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Epiphysis		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned Notes: 6 Calcined, Burned Notes: 6 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 1		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 10, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 11		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 13, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 2, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 28, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 3		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 3, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 4		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 4, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 6, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 7, Burned Notes: 6 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 7, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 8		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Burned specimen count: 9		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Modifications: cutmarks, Burned specimen count: 10, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Modifications: Cutmarks, Burned specimen count: 10, Burned Notes: Majority are calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Modifications: Drilled, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Modified specimen count: 1, Modifications: cutmarks, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Modified specimen count: 1, Modifications: Cutmarks, Burned Notes: Majority are calcined, Burned Notes: Majority are calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment, Modified specimen count: 1, Modifications: Drilled, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned Notes: 1 Calcined, Burned Notes: 1 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned Notes: 2 Calcined, Burned Notes: 2 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned Notes: 3 Calcined, Burned Notes: 3 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned Notes: 5 Calcined, Burned Notes: 5 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned Notes: 7 Calcined, Burned Notes: 7 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned Notes: Burned gray/blue, Burned Notes: Burned gray/blue		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned Notes: Most are calcined, Burned Notes: Most are calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned Notes: Possibly 17 burned, most of these are calcined, Burned Notes: Possibly 17 burned, most of these are calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned Notes: The majority of these are Calcined, Burned Notes: The majority of these are Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 1		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 1, Burned Notes: Burned gray/blue		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 10		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 10, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 10, Burned Notes: Most are Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 11		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 12, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 13, Burned Notes: The majority of these are Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 14, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 16		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 2		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 2, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 20, Burned Notes: Possibly 17 burned, most of these are calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 3		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 3, Burned Notes: 1 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 3, Burned Notes: 2 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 3, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 31		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 4		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 4, Burned Notes: 3 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 4, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 5		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 50		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 6		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 6, Burned Notes: 5 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 6, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 7		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 7, Burned Notes: 2 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 7, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 8, Burned Notes: 7 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 8, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 9		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Burned specimen count: 9, Burned Notes: Most are calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Fused specimen count: 0		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Fused specimen count: No		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Fused: No		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Modifications: Abraded, Burned specimen count: 1		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Modifications: Cutmark, Burned specimen count: 22, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Modifications: Cutmarks, Burned specimen count: 24, Burned Notes: Majority of these are Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Modifications: Cutmarks, Burned specimen count: 3, Burned Notes: 2 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Modifications: Cutmarks, Burned specimen count: 7, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Modified specimen count: 1, Modifications: Abraded		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Modified specimen count: 1, Modifications: Cutmarks, Burned Notes: 2 Calcined, Burned Notes: 2 Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Modified specimen count: 1, Modifications: Cutmarks, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Modified specimen count: 1, Modifications: Cutmarks, Burned Notes: Majority of these are Calcined, Burned Notes: Majority of these are Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Modified specimen count: X, Modifications: Cutmark, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Terminal Diaphysis Fragment, Fused specimen count: 0, Burned specimen count: 1, Burned Notes: Burned blue		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Terminal Diaphysis Fragment, Fused specimen count: No, Burned Notes: Burned blue, Burned Notes: Burned blue		0	0
+Element: Longbone, ElementURI: UBERON:0002495, Portion: Terminal Diaphysis Fragment, Fused: No, Burned Notes: Burned blue, Burned Notes: Burned blue		0	0
 Element: Longbone, Portion: Epiphyseal Fragment		0	0
 Element: Longbone, Portion: Epiphysis		0	0
 Element: Longbone, Portion: Fragment		0	0
 Element: Longbone, Portion: Shaft Fragment		0	0
 Element: Lumbar Vertebra		0	0
+Element: Lumbar Vertebra #3, ElementURI: UBERON:0004619, Portion: Nearly Whole		0	0
 Element: Lumbar Vertebra #3, Portion: Nearly Whole		0	0
+Element: Lumbar Vertebra #4, ElementURI: UBERON:0004620, Portion: Nearly Whole		0	0
 Element: Lumbar Vertebra #4, Portion: Nearly Whole		0	0
+Element: Lumbar Vertebra #5, ElementURI: UBERON:0004621, Portion: Nearly Whole		0	0
 Element: Lumbar Vertebra #5, Portion: Nearly Whole		0	0
+Element: Lumbar Vertebra #6, ElementURI: UBERON:0002414, Portion: Anterior 2/3		0	0
 Element: Lumbar Vertebra #6, Portion: Anterior 2/3		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Articular Facet		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Body		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Body Fragment		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Centrum		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Cranial Articular Process		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Cranial Articular Process, Burned Notes: Almost Calcined, Burned Notes: Almost Calcined		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Cranial Articular Process, Burned specimen count: 1, Burned Notes: Almost Calcined		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Cranial Facet Fragment		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Dorsal Fragment		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Fragment		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Nearly Whole		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Nearly Whole, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Nearly Whole, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Nearly Whole, Fused specimen count: 0		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Nearly Whole, Fused specimen count: No		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Nearly Whole, Fused: No		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Spinous Process		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Spinous Process, Burned specimen count: 1		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Whole		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Whole/Nearly Whole		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Whole/Nearly Whole, Fused specimen count: 0, Fused Notes: Centrums aren't fused		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Whole/Nearly Whole, Fused specimen count: No, Fused Notes: Centrums aren't fused		0	0
+Element: Lumbar Vertebra, ElementURI: UBERON:0002414, Portion: Whole/Nearly Whole, Fused: No, Fused Notes: Centrums aren't fused		0	0
 Element: Lumbar Vertebra, Portion: Articular Facet		0	0
 Element: Lumbar Vertebra, Portion: Body		0	0
 Element: Lumbar Vertebra, Portion: Body Fragment		0	0
@@ -22369,19 +22805,52 @@ Element: Lumbar Vertebra, Portion: Spinous Process		0	0
 Element: Lumbar Vertebra, Portion: Whole		0	0
 Element: Lumbar Vertebra, Portion: Whole/Nearly Whole		0	0
 Element: Lumbar Vertebra, Portion: Whole/Nearly Whole, Fused Notes: Centrums aren't fused		0	0
+Element: Lunar, ElementURI: UBERON:0001428, Portion: Whole, Side: L		0	0
 Element: Lunar, Portion: Whole, Side: L		0	0
+Element: M1, ElementURI: UBERON:0018376, Portion: Nearly Whole, Side: L		0	0
+Element: M1, ElementURI: UBERON:0018376, Portion: Whole, Side: L		0	0
+Element: M1, ElementURI: UBERON:0018376, Portion: Whole, Side: R		0	0
 Element: M1, Portion: Nearly Whole, Side: L		0	0
 Element: M1, Portion: Whole, Side: L		0	0
 Element: M1, Portion: Whole, Side: R		0	0
+Element: M1/2, ElementURI: UBERON:0018376; UBERON:0018606, Portion: Whole, Side: R		0	0
 Element: M1/2, Portion: Whole, Side: R		0	0
+Element: M2, ElementURI: UBERON:0018606, Portion: Whole, Side: R		0	0
 Element: M2, Portion: Whole, Side: R		0	0
+Element: M3, ElementURI: UBERON:0018377, Portion: Whole		0	0
+Element: M3, ElementURI: UBERON:0018377, Portion: Whole, Side: R		0	0
+Element: M3, ElementURI: UBERON:0018377, Portion: Whole, Side: R, Fused specimen count: 0		0	0
+Element: M3, ElementURI: UBERON:0018377, Portion: Whole, Side: R, Fused specimen count: No		0	0
+Element: M3, ElementURI: UBERON:0018377, Portion: Whole, Side: R, Fused: No		0	0
 Element: M3, Portion: Whole		0	0
 Element: M3, Portion: Whole, Side: R		0	0
+Element: Maginal #9, ElementURI: UBERON:0011666, Portion: Lateral 1/2, Side: R		0	0
 Element: Maginal #9, Portion: Lateral 1/2, Side: R		0	0
+Element: Maginal, ElementURI: UBERON:0011666, Portion: Fragment		0	0
 Element: Maginal, Portion: Fragment		0	0
+Element: Magnum, ElementURI: UBERON:0001432, Portion: Nearly Whole, Side: R		0	0
+Element: Magnum, ElementURI: UBERON:0001432, Portion: Whole, Side: R		0	0
 Element: Magnum, Portion: Nearly Whole, Side: R		0	0
 Element: Magnum, Portion: Whole, Side: R		0	0
 Element: Mandible		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Ascending Ramus, Side: L		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Body		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Diastema, Side: R, Fused specimen count: 0		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Diastema, Side: R, Fused specimen count: No		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Diastema, Side: R, Fused: No		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Fragment		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Fragment, Burned specimen count: 1		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Horizontal Ramus, Side: ?		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Horizontal Ramus, Side: R		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Horizontal Ramus, Side: R?		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Mandibular Foramen, Side: R		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Medial Fragment, Side: L		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Medial Fragment, Side: R		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Mental Foramen+Symphasis, Side: L		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Nearly Whole, Side: L		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Nearly Whole, Side: R		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Posterior 1/3, Side: L		0	0
+Element: Mandible, ElementURI: UBERON:0003278, Portion: Posterior 2/3, Side: R		0	0
 Element: Mandible, Portion: Ascending Ramus, Side: L		0	0
 Element: Mandible, Portion: Body		0	0
 Element: Mandible, Portion: Diastema, Side: R		0	0
@@ -22397,53 +22866,127 @@ Element: Mandible, Portion: Nearly Whole, Side: L		0	0
 Element: Mandible, Portion: Nearly Whole, Side: R		0	0
 Element: Mandible, Portion: Posterior 1/3, Side: L		0	0
 Element: Mandible, Portion: Posterior 2/3, Side: R		0	0
+Element: Mandible/Maxilla, ElementURI: UBERON:0003278; UBERON:0002397, Portion: Fragment		0	0
+Element: Mandible/Maxilla, ElementURI: UBERON:0003279; UBERON:0002397, Portion: Fragment		0	0
+Element: Mandible/Maxilla, ElementURI: UBERON:0004302, Portion: Fragment		0	0
 Element: Mandible/Maxilla, Portion: Fragment		0	0
+Element: Mandible+M3+M2, ElementURI: UBERON:0003278; UBERON:0018377; UBERON:0018606, Portion: Body Fragment, Side: L		0	0
 Element: Mandible+M3+M2, Portion: Body Fragment, Side: L		0	0
 Element: Mandibular Fossa , Portion: Nearly Whole, Side: L		0	0
+Element: Mandibular Fossa, Portion: Nearly Whole, Side: L		0	0
 Element: Marginal		0	0
 Element: Marginal #10		0	0
+Element: Marginal #10, ElementURI: UBERON:0011666, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Marginal #10, ElementURI: UBERON:0011666, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Marginal #10, ElementURI: UBERON:0011666, Portion: Nearly Whole, Side: R		0	0
+Element: Marginal #10, ElementURI: UBERON:0011666, Portion: Whole, Side: L, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Marginal #10, ElementURI: UBERON:0011666, Portion: Whole, Side: L, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Marginal #10, ElementURI: UBERON:0011666, Portion: Whole, Side: R, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Marginal #10, ElementURI: UBERON:0011666, Portion: Whole, Side: R, Burned specimen count: 1, Burned Notes: Calcined		0	0
 Element: Marginal #10, Portion: Nearly Whole, Side: R		0	0
 Element: Marginal #2		0	0
+Element: Marginal #2, ElementURI: UBERON:0011666, Portion: Fragment, Side: R		0	0
+Element: Marginal #2, ElementURI: UBERON:0011666, Portion: Nearly Whole, Side: L		0	0
+Element: Marginal #2, ElementURI: UBERON:0011666, Portion: Posterior 1/2, Side: R		0	0
+Element: Marginal #2, ElementURI: UBERON:0011666, Portion: Whole, Side: L		0	0
 Element: Marginal #2, Portion: Fragment, Side: R		0	0
 Element: Marginal #2, Portion: Nearly Whole, Side: L		0	0
 Element: Marginal #2, Portion: Posterior 1/2, Side: R		0	0
 Element: Marginal #2, Portion: Whole, Side: L		0	0
 Element: Marginal #3		0	0
+Element: Marginal #3, ElementURI: UBERON:0011666, Portion: Fragment, Side: L		0	0
+Element: Marginal #3, ElementURI: UBERON:0011666, Portion: Fragment, Side: L, Burned specimen count: 1		0	0
+Element: Marginal #3, ElementURI: UBERON:0011666, Portion: Nearly Whole, Side: L		0	0
+Element: Marginal #3, ElementURI: UBERON:0011666, Portion: Nearly Whole, Side: L, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Marginal #3, ElementURI: UBERON:0011666, Portion: Nearly Whole, Side: L, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Marginal #3, ElementURI: UBERON:0011666, Portion: Nearly Whole, Side: R		0	0
 Element: Marginal #3, Portion: Fragment, Side: L		0	0
 Element: Marginal #3, Portion: Nearly Whole, Side: L		0	0
 Element: Marginal #3, Portion: Nearly Whole, Side: R		0	0
 Element: Marginal #6		0	0
+Element: Marginal #6, ElementURI: UBERON:0011666, Portion: Nearly Whole, Side: L		0	0
 Element: Marginal #6, Portion: Nearly Whole, Side: L		0	0
 Element: Marginal #7		0	0
+Element: Marginal #7, ElementURI: UBERON:0011666, Portion: Fragment, Side: L, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Marginal #7, ElementURI: UBERON:0011666, Portion: Fragment, Side: L, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Marginal #7, ElementURI: UBERON:0011666, Portion: Lateral 1/2, Side: R		0	0
 Element: Marginal #7, Portion: Lateral 1/2, Side: R		0	0
 Element: Marginal #8		0	0
+Element: Marginal #8, ElementURI: UBERON:0011666, Portion: Lateral 1/2, Side: R		0	0
+Element: Marginal #8, ElementURI: UBERON:0011666, Portion: Nearly Whole, Side: L		0	0
+Element: Marginal #8, ElementURI: UBERON:0011666, Portion: Whole, Side: R		0	0
 Element: Marginal #8, Portion: Lateral 1/2, Side: R		0	0
 Element: Marginal #8, Portion: Nearly Whole, Side: L		0	0
 Element: Marginal #8, Portion: Whole, Side: R		0	0
+Element: Marginal #9, ElementURI: UBERON:0011666, Portion: Fragment, Side: R		0	0
+Element: Marginal #9, ElementURI: UBERON:0011666, Portion: Nearly Whole, Side: L		0	0
+Element: Marginal #9, ElementURI: UBERON:0011666, Portion: Whole, Side: R		0	0
 Element: Marginal #9, Portion: Fragment, Side: R		0	0
 Element: Marginal #9, Portion: Nearly Whole, Side: L		0	0
 Element: Marginal #9, Portion: Whole, Side: R		0	0
 Element: Marginal , Portion: Fragment		0	0
+Element: Marginal, ElementURI: UBERON:0011666, Portion: Fragment		0	0
+Element: Marginal, ElementURI: UBERON:0011666, Portion: Fragment, Burned Notes: Burned blue/gray, nearly Calcined, Burned Notes: Burned blue/gray, nearly Calcined		0	0
+Element: Marginal, ElementURI: UBERON:0011666, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Marginal, ElementURI: UBERON:0011666, Portion: Fragment, Burned specimen count: 1, Burned Notes: Burned blue/gray, nearly Calcined		0	0
+Element: Marginal, ElementURI: UBERON:0011666, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Marginal, ElementURI: UBERON:0011666, Portion: Fragment, Side: ?, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Marginal, ElementURI: UBERON:0011666, Portion: Fragment, Side: ?, Burned specimen count: 2, Burned Notes: Calcined		0	0
 Element: Marginal, Portion: Fragment		0	0
 Element: Maxilla		0	0
+Element: Maxilla, ElementURI: UBERON:0002397, Portion: Medial Fragment, Side: L		0	0
+Element: Maxilla, ElementURI: UBERON:0002397, Portion: Posterior 1/3, Side: R		0	0
 Element: Maxilla, Portion: Medial Fragment, Side: L		0	0
 Element: Maxilla, Portion: Posterior 1/3, Side: R		0	0
 Element: Metacarpal II		0	0
+Element: Metacarpal II, ElementURI: UBERON:0003646, Portion: Nearly Whole, Side: R		0	0
 Element: Metacarpal II, Portion: Nearly Whole, Side: R		0	0
+Element: Metacarpal III, ElementURI: UBERON:0003647, Portion: Whole, Side: R		0	0
 Element: Metacarpal IV		0	0
+Element: Metacarpal IV, ElementURI: UBERON:0003648, Portion: Proximal 2/3, Side: R		0	0
 Element: Metacarpal IV, Portion: Proximal 2/3, Side: R		0	0
+Element: Metacarpal, ElementURI: UBERON:0002374, Portion: Distal 1/2, Fused specimen count: 0		0	0
+Element: Metacarpal, ElementURI: UBERON:0002374, Portion: Distal 1/2, Fused specimen count: No		0	0
+Element: Metacarpal, ElementURI: UBERON:0002374, Portion: Distal 1/2, Fused: No		0	0
+Element: Metacarpal, ElementURI: UBERON:0002374, Portion: Distal 1/4 (shaft)		0	0
 Element: Metacarpal, Portion: Distal 1/2		0	0
 Element: Metacarpal, Portion: Distal 1/4 (shaft)		0	0
 Element: Metacarpal/tarsal		0	0
+Element: Metacarpal/tarsal, ElementURI: UBERON:0002374; UBERON:0001448, Portion: Fragment		0	0
+Element: Metacarpal/tarsal, ElementURI: UBERON:0002374; UBERON:0001448, Portion: Shaft Fragment		0	0
 Element: Metacarpal/tarsal, Portion: Fragment		0	0
 Element: Metacarpal/tarsal, Portion: Shaft Fragment		0	0
 Element: Metacarpus III , Portion: Whole, Side: R		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Distal 1/3, Side: ?		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Distal 1/3, Side: ?, Fused specimen count: 0		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Distal 1/3, Side: ?, Fused specimen count: No		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Distal 1/3, Side: ?, Fused: No		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Distal 1/4		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Distal 1/4, Side: ?		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Distal Epiphysis, Side: ?, Fused specimen count: 0		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Distal Epiphysis, Side: ?, Fused specimen count: No		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Distal Epiphysis, Side: ?, Fused: No		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Proximal 1/2, Side: L		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Proximal 1/3, Side: L		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Proximal 1/4, Side: L, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Metacarpus, ElementURI: UBERON:0004453, Portion: Proximal 1/4, Side: L, Burned specimen count: 1, Burned Notes: Calcined		0	0
 Element: Metacarpus, Portion: Distal 1/3, Side: ?		0	0
 Element: Metacarpus, Portion: Distal 1/4		0	0
 Element: Metacarpus, Portion: Distal 1/4, Side: ?		0	0
 Element: Metacarpus, Portion: Distal Epiphysis, Side: ?		0	0
 Element: Metacarpus, Portion: Proximal 1/2, Side: L		0	0
 Element: Metacarpus, Portion: Proximal 1/3, Side: L		0	0
+Element: Metapodial, ElementURI: UBERON:0003821, Portion: Distal 1/4		0	0
+Element: Metapodial, ElementURI: UBERON:0003821, Portion: Distal Condyle Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Metapodial, ElementURI: UBERON:0003821, Portion: Distal Condyle Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Metapodial, ElementURI: UBERON:0003821, Portion: Distal Epiphysis		0	0
+Element: Metapodial, ElementURI: UBERON:0003821, Portion: Distal Epiphysis, Fused specimen count: 0		0	0
+Element: Metapodial, ElementURI: UBERON:0003821, Portion: Distal Epiphysis, Fused specimen count: 0, Fused Notes: Not fused		0	0
+Element: Metapodial, ElementURI: UBERON:0003821, Portion: Distal Epiphysis, Fused specimen count: No		0	0
+Element: Metapodial, ElementURI: UBERON:0003821, Portion: Distal Epiphysis, Fused specimen count: No, Fused Notes: Not fused		0	0
+Element: Metapodial, ElementURI: UBERON:0003821, Portion: Distal Epiphysis, Fused: No		0	0
+Element: Metapodial, ElementURI: UBERON:0003821, Portion: Distal Epiphysis, Fused: No, Fused Notes: Not fused		0	0
+Element: Metapodial, ElementURI: UBERON:0003821, Portion: Shaft Fragment		0	0
 Element: Metapodial, Portion: Distal 1/4		0	0
 Element: Metapodial, Portion: Distal Epiphysis		0	0
 Element: Metapodial, Portion: Distal Epiphysis, Fused Notes: Not fused		0	0
@@ -22452,45 +22995,122 @@ Element: Metatarsal , Portion: Fragment		0	0
 Element: Metatarsal , Portion: Plantar Groove		0	0
 Element: Metatarsal , Portion: Proximal 1/2, Side: L		0	0
 Element: Metatarsal , Portion: Shaft Fragment		0	0
+Element: Metatarsal V, ElementURI: UBERON:0003654, Portion: Shaft Fragment, Side: L		0	0
 Element: Metatarsal V, Portion: Shaft Fragment, Side: L		0	0
+Element: Metatarsal, ElementURI: UBERON:0001448, Portion: Fragment		0	0
+Element: Metatarsal, ElementURI: UBERON:0001448, Portion: Plantar Groove		0	0
+Element: Metatarsal, ElementURI: UBERON:0001448, Portion: Proximal 1/2, Side: L		0	0
+Element: Metatarsal, ElementURI: UBERON:0001448, Portion: Shaft Fragment		0	0
+Element: Metatarsal, ElementURI: UBERON:0001448, Portion: Shaft Fragment, Burned Notes: 1 Calcined, Burned Notes: 1 Calcined		0	0
+Element: Metatarsal, ElementURI: UBERON:0001448, Portion: Shaft Fragment, Burned specimen count: 1, Burned Notes: 1 Calcined		0	0
 Element: Metatarsal/carpal 		0	0
 Element: Metatarsal/carpal , Portion: Distal 2/3		0	0
+Element: Metatarsal/carpal, ElementURI: UBERON:0001448; UBERON:0002374, Portion: Distal 2/3		0	0
 Element: Metatarsus , Portion: Distal 2/3, Side: ?		0	0
 Element: Metatarsus , Portion: Proximal 1/4, Side: L		0	0
 Element: Metatarsus , Portion: Shaft Fragment		0	0
+Element: Metatarsus, ElementURI: UBERON:0000983, Portion: Distal 2/3, Side: ?, Fused specimen count: 0		0	0
+Element: Metatarsus, ElementURI: UBERON:0000983, Portion: Distal 2/3, Side: ?, Fused specimen count: No		0	0
+Element: Metatarsus, ElementURI: UBERON:0000983, Portion: Distal 2/3, Side: ?, Fused: No		0	0
+Element: Metatarsus, ElementURI: UBERON:0000983, Portion: Proximal 1/2, Side: L		0	0
+Element: Metatarsus, ElementURI: UBERON:0000983, Portion: Proximal 1/4, Side: L		0	0
+Element: Metatarsus, ElementURI: UBERON:0000983, Portion: Proximal 1/8, Side: R, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Metatarsus, ElementURI: UBERON:0000983, Portion: Proximal 1/8, Side: R, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Metatarsus, ElementURI: UBERON:0000983, Portion: Shaft Fragment		0	0
+Element: Metatarsus, ElementURI: UBERON:0000983, Portion: Shaft Fragment, Burned specimen count: 1		0	0
+Element: Metatarsus, ElementURI: UBERON:0000983, Portion: Shaft Fragment, Modifications: Cutmarks		0	0
+Element: Metatarsus, ElementURI: UBERON:0000983, Portion: Shaft Fragment, Modified specimen count: 1, Modifications: Cutmarks		0	0
 Element: Metatarsus, Portion: Proximal 1/2, Side: L		0	0
 Element: Metatarsus, Portion: Shaft Fragment, Modifications: Cutmarks		0	0
+Element: Molar (Upper), ElementURI: UBERON:0003655, Portion: Nearly Whole		0	0
 Element: Molar (Upper), Portion: Nearly Whole		0	0
 Element: Molar , Portion: Crown		0	0
 Element: Molar , Portion: Fragment		0	0
+Element: Molar, ElementURI: UBERON:0003655, Portion: Crown, Fused specimen count: 0		0	0
+Element: Molar, ElementURI: UBERON:0003655, Portion: Crown, Fused specimen count: No		0	0
+Element: Molar, ElementURI: UBERON:0003655, Portion: Crown, Fused: No		0	0
+Element: Molar, ElementURI: UBERON:0003655, Portion: Fragment		0	0
 Element: Molar2, Portion: Whole, Side: R		0	0
 Element: Neural		0	0
 Element: Neural #2		0	0
+Element: Neural #2, ElementURI: UBERON:0011669, Portion: Posterior 1/2, Burned Notes: Burned blue/gray, Burned Notes: Burned blue/gray		0	0
+Element: Neural #2, ElementURI: UBERON:0011669, Portion: Posterior 1/2, Burned specimen count: 1, Burned Notes: Burned blue/gray		0	0
+Element: Neural #2, ElementURI: UBERON:0011669, Portion: Whole		0	0
 Element: Neural #2, Portion: Whole		0	0
 Element: Neural , Portion: Nearly Whole		0	0
+Element: Neural, ElementURI: UBERON:0011669, Portion: Fragment		0	0
+Element: Neural, ElementURI: UBERON:0011669, Portion: Fragment, Burned Notes: Burned blue/gray, Burned Notes: Burned blue/gray		0	0
+Element: Neural, ElementURI: UBERON:0011669, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Neural, ElementURI: UBERON:0011669, Portion: Fragment, Burned specimen count: 1, Burned Notes: Burned blue/gray		0	0
+Element: Neural, ElementURI: UBERON:0011669, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Neural, ElementURI: UBERON:0011669, Portion: Fragment, Side: ?, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Neural, ElementURI: UBERON:0011669, Portion: Fragment, Side: ?, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Neural, ElementURI: UBERON:0011669, Portion: Nearly Whole		0	0
+Element: Neural, ElementURI: UBERON:0011669, Portion: Whole		0	0
 Element: Neural, Portion: Fragment		0	0
 Element: Neural, Portion: Nearly Whole		0	0
 Element: Neural, Portion: Whole		0	0
 Element: Nuchal		0	0
+Element: Nuchal, ElementURI: UBERON:0011671, Portion: Fragment		0	0
+Element: Nuchal, ElementURI: UBERON:0011671, Portion: Fragment, Burned specimen count: 1		0	0
+Element: Nuchal, ElementURI: UBERON:0011671, Portion: Medial Fragment		0	0
+Element: Nuchal, ElementURI: UBERON:0011671, Portion: Nearly Whole		0	0
 Element: Nuchal, Portion: Medial Fragment		0	0
 Element: Nuchal, Portion: Nearly Whole		0	0
+Element: Occipital Condyle, ElementURI: UBERON:0006811, Portion: Nearly Whole, Side: R		0	0
 Element: Occipital Condyle, Portion: Nearly Whole, Side: R		0	0
+Element: Patella, ElementURI: UBERON:0002446, Portion: Nearly Whole, Side: R?		0	0
+Element: Patella, ElementURI: UBERON:0002446, Portion: Whole, Side: L		0	0
 Element: Patella, Portion: Nearly Whole, Side: R?		0	0
 Element: Patella, Portion: Whole, Side: L		0	0
 Element: Pectoral Spine		0	0
+Element: Pectoral Spine, ElementURI: UBERON:0001130, Portion: Proximal 1/4, Side: L		0	0
+Element: Pectoral Spine, ElementURI: UBERON:0001130, Portion: Proximal 1/4, Side: R		0	0
+Element: Pectoral Spine, ElementURI: UBERON:0001130, Portion: Proximal 1/4, Side: R, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Pectoral Spine, ElementURI: UBERON:0001130, Portion: Proximal 1/4, Side: R, Burned specimen count: 1, Burned Notes: Calcined		0	0
 Element: Pectoral Spine, Portion: Proximal 1/4, Side: L		0	0
 Element: Pectoral Spine, Portion: Proximal 1/4, Side: R		0	0
+Element: Pelvic Bone, ElementURI: UBERON:2100623, Portion: Distal Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Pelvic Bone, ElementURI: UBERON:2100623, Portion: Distal Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Petrosal, ElementURI: UBERON:0001694, Portion: Fragment		0	0
+Element: Petrosal, ElementURI: UBERON:0001694, Portion: Nearly Whole, Side: R		0	0
+Element: Petrosal, ElementURI: UBERON:0001694, Portion: Whole, Side: L		0	0
+Element: Petrosal, ElementURI: UBERON:0001694, Portion: Whole, Side: L, Burned Notes: Burned gray, Burned Notes: Burned gray		0	0
+Element: Petrosal, ElementURI: UBERON:0001694, Portion: Whole, Side: L, Burned specimen count: 1, Burned Notes: Burned gray		0	0
+Element: Petrosal/Auditory Bulla, ElementURI: UBERON:0001694; UBERON:0008959, Portion: Fragment		0	0
+Element: Petrosal/Auditory Bulla, ElementURI: UBERON:0001694; UBERON:0008959, Portion: Fragment, Burned specimen count: 1		0	0
 Element: Petrousal, Portion: Fragment		0	0
 Element: Petrousal, Portion: Nearly Whole, Side: R		0	0
 Element: Petrousal, Portion: Whole, Side: L		0	0
 Element: Peural #1, Portion: Medial Fragment, Side: R		0	0
 Element: Phalanx		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Distal 1/4		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Distal 1/4, Burned Notes: Burned brown/black, Burned Notes: Burned brown/black		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Distal 1/4, Burned specimen count: 1, Burned Notes: Burned brown/black		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Distal 1/8		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Distal 1/8, Burned specimen count: 1		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Distal 2/3		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Fragment		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Nearly Whole, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Nearly Whole, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Proximal 1/2		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Proximal 1/2, Burned specimen count: 1		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Proximal 1/4, Side: ?, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Proximal 1/4, Side: ?, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Proximal 1/8, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Proximal 1/8, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Proximal Fragment		0	0
+Element: Phalanx, ElementURI: UBERON:0003221, Portion: Whole		0	0
 Element: Phalanx, Portion: Distal 1/4		0	0
 Element: Phalanx, Portion: Distal 2/3		0	0
 Element: Phalanx, Portion: Fragment		0	0
 Element: Phalanx, Portion: Proximal Fragment		0	0
 Element: Phalanx, Portion: Whole		0	0
 Element: Plastron		0	0
+Element: Plastron, ElementURI: UBERON:0008276, Portion: Fragment		0	0
+Element: Plastron, ElementURI: UBERON:0008276, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Plastron, ElementURI: UBERON:0008276, Portion: Fragment, Burned specimen count: 1		0	0
+Element: Plastron, ElementURI: UBERON:0008276, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
 Element: Plastron, Portion: Fragment		0	0
 Element: Plerual #1, Portion: Distal 1/4, Side: R		0	0
 Element: Plerual #5, Portion: Distal 1/3, Side: L		0	0
@@ -22498,52 +23118,165 @@ Element: Plerual #7, Portion: Nearly Whole, Side: L		0	0
 Element: Plerual , Portion: Proximal 1/3, Side: ?		0	0
 Element: Pleural		0	0
 Element: Pleural #1		0	0
+Element: Pleural #1, ElementURI: UBERON:0011667, Portion: Distal 1/4, Side: L		0	0
+Element: Pleural #1, ElementURI: UBERON:0011667, Portion: Distal 1/4, Side: R		0	0
+Element: Pleural #1, ElementURI: UBERON:0011667, Portion: Medial Fragment, Side: R		0	0
+Element: Pleural #1, ElementURI: UBERON:0011667, Portion: Nearly Whole, Side: R		0	0
 Element: Pleural #1, Portion: Distal 1/4, Side: L		0	0
 Element: Pleural #1, Portion: Nearly Whole, Side: R		0	0
+Element: Pleural #2, ElementURI: UBERON:0011667, Portion: Proximal 1/2, Side: R		0	0
+Element: Pleural #2, ElementURI: UBERON:0011667, Portion: Proximal 1/3, Side: L, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Pleural #2, ElementURI: UBERON:0011667, Portion: Proximal 1/3, Side: L, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Pleural #2, ElementURI: UBERON:0011667, Portion: Proximal 2/3, Side: R		0	0
 Element: Pleural #2, Portion: Proximal 1/2, Side: R		0	0
 Element: Pleural #2, Portion: Proximal 2/3, Side: R		0	0
 Element: Pleural #4		0	0
+Element: Pleural #4, ElementURI: UBERON:0011667, Portion: Proximal 1/4		0	0
+Element: Pleural #4, ElementURI: UBERON:0011667, Portion: Proximal 2/3, Side: L		0	0
+Element: Pleural #4, ElementURI: UBERON:0011667, Portion: Proximal 2/3, Side: R		0	0
+Element: Pleural #4, ElementURI: UBERON:0011667, Portion: Whole, Side: L		0	0
 Element: Pleural #4, Portion: Proximal 1/4		0	0
 Element: Pleural #4, Portion: Proximal 2/3, Side: L		0	0
 Element: Pleural #4, Portion: Proximal 2/3, Side: R		0	0
 Element: Pleural #4, Portion: Whole, Side: L		0	0
+Element: Pleural #5, ElementURI: UBERON:0011667, Portion: Distal 1/3, Side: L		0	0
+Element: Pleural #5, ElementURI: UBERON:0011667, Portion: Proximal 2/3, Side: R		0	0
+Element: Pleural #5, ElementURI: UBERON:0011667, Portion: Whole, Side: L		0	0
 Element: Pleural #5, Portion: Proximal 2/3, Side: R		0	0
 Element: Pleural #5, Portion: Whole, Side: L		0	0
+Element: Pleural #7, ElementURI: UBERON:0011667, Portion: Nearly Whole, Side: L		0	0
+Element: Pleural #7, ElementURI: UBERON:0011667, Portion: Proximal 1/2, Side: R		0	0
 Element: Pleural #7, Portion: Proximal 1/2, Side: R		0	0
 Element: Pleural #8		0	0
+Element: Pleural #8, ElementURI: UBERON:0011667, Portion: Medial Fragment, Side: R		0	0
+Element: Pleural #8, ElementURI: UBERON:0011667, Portion: Proximal 1/3, Side: L, Burned Notes: Burned piece is blue/gray, Burned Notes: Burned piece is blue/gray		0	0
+Element: Pleural #8, ElementURI: UBERON:0011667, Portion: Proximal 1/3, Side: L, Burned specimen count: 1, Burned Notes: Burned piece is blue/gray		0	0
+Element: Pleural #8, ElementURI: UBERON:0011667, Portion: Proximal 1/8, Side: ?		0	0
+Element: Pleural #8, ElementURI: UBERON:0011667, Portion: Proximal 1/8, Side: ?, Burned specimen count: 1		0	0
 Element: Pleural #8, Portion: Medial Fragment, Side: R		0	0
 Element: Pleural , Portion: Fragment		0	0
 Element: Pleural , Portion: Medial Fragment		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Fragment		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Fragment, Burned Notes: Burned gray, Burned Notes: Burned gray		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Fragment, Burned specimen count: 1		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Fragment, Burned specimen count: 2, Burned Notes: Burned gray		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Fragment, Burned specimen count: 3, Burned Notes: Calcined		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Medial Fragment		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Medial Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Medial Fragment, Burned specimen count: 3, Burned Notes: Calcined		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Nearly Whole		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Proximal 1/3, Side: ?		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Proximal 1/4		0	0
+Element: Pleural, ElementURI: UBERON:0011667, Portion: Proximal 1/8		0	0
 Element: Pleural, Portion: Fragment		0	0
 Element: Pleural, Portion: Medial Fragment		0	0
 Element: Pleural, Portion: Nearly Whole		0	0
 Element: Pleural, Portion: Proximal 1/4		0	0
 Element: Pleural, Portion: Proximal 1/8		0	0
+Element: PM1, ElementURI: UBERON:0018294, Portion: Crown Fragment, Side: L, Fused specimen count: ?		0	0
+Element: PM1, ElementURI: UBERON:0018294, Portion: Crown Fragment, Side: L, Fused specimen count: Unclear		0	0
+Element: PM1, ElementURI: UBERON:0018294, Portion: Crown Fragment, Side: L, Fused: Unclear		0	0
+Element: PM1, ElementURI: UBERON:0018294, Portion: Whole, Side: L		0	0
+Element: PM1, ElementURI: UBERON:0018294, Portion: Whole, Side: R		0	0
 Element: PM1, Portion: Crown Fragment, Side: L, Fused: ?		0	0
 Element: PM1, Portion: Whole, Side: L		0	0
 Element: PM1, Portion: Whole, Side: R		0	0
+Element: PM2, ElementURI: UBERON:0018640, Portion: Whole		0	0
+Element: PM2, ElementURI: UBERON:0018640, Portion: Whole, Side: L		0	0
+Element: PM2, ElementURI: UBERON:0018640, Portion: Whole, Side: L, Fused specimen count: 0		0	0
+Element: PM2, ElementURI: UBERON:0018640, Portion: Whole, Side: L, Fused specimen count: No		0	0
+Element: PM2, ElementURI: UBERON:0018640, Portion: Whole, Side: L, Fused: No		0	0
+Element: PM2, ElementURI: UBERON:0018640, Portion: Whole, Side: R		0	0
 Element: PM2, Portion: Whole		0	0
 Element: PM2, Portion: Whole, Side: L		0	0
 Element: PM2, Portion: Whole, Side: R		0	0
+Element: PM3, ElementURI: UBERON:0007120, Portion: Nearly Whole, Side: L		0	0
+Element: PM3, ElementURI: UBERON:0007120, Portion: Whole, Side: L		0	0
+Element: PM3, ElementURI: UBERON:0007120, Portion: Whole, Side: R		0	0
+Element: PM3, ElementURI: UBERON:0007120, Portion: Whole, Side: R, Fused specimen count: 0		0	0
+Element: PM3, ElementURI: UBERON:0007120, Portion: Whole, Side: R, Fused specimen count: No		0	0
+Element: PM3, ElementURI: UBERON:0007120, Portion: Whole, Side: R, Fused: No		0	0
 Element: PM3, Portion: Nearly Whole, Side: L		0	0
 Element: PM3, Portion: Whole, Side: L		0	0
 Element: PM3, Portion: Whole, Side: R		0	0
 Element: PM4		0	0
+Element: PM4, ElementURI: UBERON:0018647, Portion: Nearly Whole, Side: R		0	0
+Element: PM4, ElementURI: UBERON:0018647, Portion: Whole, Side: L		0	0
 Element: PM4, Portion: Nearly Whole, Side: R		0	0
 Element: PM4, Portion: Whole, Side: L		0	0
+Element: Premolar (Upper), ElementURI: UBERON:0007120, Portion: Whole, Side: R		0	0
 Element: Premolar (Upper), Portion: Whole, Side: R		0	0
+Element: Proximal Phalanx, ElementURI: UBERON:0004302, Portion: Nearly Whole		0	0
+Element: Proximal Phalanx, ElementURI: UBERON:0004302, Portion: Whole		0	0
 Element: Proximal Phalanx, Portion: Nearly Whole		0	0
 Element: Proximal Phalanx, Portion: Whole		0	0
+Element: Pubis, ElementURI: UBERON:0001275, Portion: Fragment		0	0
+Element: Pubis, ElementURI: UBERON:0001275, Portion: Fragment, Side: R		0	0
+Element: Pubis, ElementURI: UBERON:0001275, Portion: Medial 1/2, Side: L		0	0
 Element: Pubis, Portion: Fragment		0	0
 Element: Pubis, Portion: Fragment, Side: R		0	0
 Element: Pubis, Portion: Medial 1/2, Side: L		0	0
+Element: Pubis+Acetabulum, ElementURI: UBERON:0001275; UBERON:0002446, Portion: Fragment, Side: L		0	0
 Element: Pubis+Acetabulum, Portion: Fragment, Side: L		0	0
 Element: Pygal		0	0
+Element: Pygal, ElementURI: UBERON:0011670, Portion: Whole		0	0
 Element: Pygal, Portion: Whole		0	0
 Element: Radius 		0	0
 Element: Radius , Portion: Distal 1/3, Side: L		0	0
 Element: Radius , Portion: Distal 2/3, Side: L		0	0
 Element: Radius , Portion: Shaft Fragment		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Body		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Body, Side: R, Burned Notes: Burned black, Burned Notes: Burned black		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Body, Side: R, Burned specimen count: 14, Burned Notes: Burned black		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/3, Side: L		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/3, Side: R		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/3, Side: R, Fused specimen count: 0		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/3, Side: R, Fused specimen count: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/3, Side: R, Fused: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/3+Epiphysis, Side: L, Fused specimen count: 0		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/3+Epiphysis, Side: L, Fused specimen count: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/3+Epiphysis, Side: L, Fused: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/4, Side: L		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/4, Side: R, Fused specimen count: 0		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/4, Side: R, Fused specimen count: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/4, Side: R, Fused: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/8, Side: R		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/8, Side: R, Fused specimen count: 0		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/8, Side: R, Fused specimen count: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 1/8, Side: R, Fused: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 2/3, Side: L		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 2/3, Side: L, Fused specimen count: 0		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 2/3, Side: L, Fused specimen count: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal 2/3, Side: L, Fused: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal Epiphysis, Side: L, Fused specimen count: 0		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal Epiphysis, Side: L, Fused specimen count: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal Epiphysis, Side: L, Fused: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal Epiphysis, Side: R, Fused specimen count: 0		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal Epiphysis, Side: R, Fused specimen count: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Distal Epiphysis, Side: R, Fused: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Medial Fragment		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Nearly Whole, Side: R		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Neck, Side: R		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Neck, Side: R, Burned specimen count: 1		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Proximal 1/2, Side: L		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Proximal 1/2, Side: R		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Proximal 1/3, Side: L		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Proximal 1/3, Side: L, Fused specimen count: 0		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Proximal 1/3, Side: L, Fused specimen count: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Proximal 1/3, Side: L, Fused: No		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Proximal 1/3, Side: L, Modifications: Striations		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Proximal 1/3, Side: L, Modified specimen count: 1, Modifications: Striations		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Proximal 1/3, Side: R		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Proximal 1/4, Side: ?		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Proximal 1/4, Side: R		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Proximal 1/8, Side: L		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Shaft Fragment		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Shaft Fragment, Side: ?		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Shaft Fragment, Side: L		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Shaft Fragment, Side: R		0	0
+Element: Radius, ElementURI: UBERON:0001423, Portion: Whole, Side: L		0	0
 Element: Radius, Portion: Body		0	0
 Element: Radius, Portion: Distal 1/3, Side: L		0	0
 Element: Radius, Portion: Distal 1/3, Side: R		0	0
@@ -22569,23 +23302,79 @@ Element: Radius, Portion: Shaft Fragment, Side: ?		0	0
 Element: Radius, Portion: Shaft Fragment, Side: L		0	0
 Element: Radius, Portion: Shaft Fragment, Side: R		0	0
 Element: Radius, Portion: Whole, Side: L		0	0
+Element: Radius/Tibia, ElementURI: UBERON:0001423; UBERON:0000979, Portion: Shaft Fragment, Side: R?, Burned Notes: Burned dark brown to black, Burned Notes: Burned dark brown to black		0	0
+Element: Radius/Tibia, ElementURI: UBERON:0001423; UBERON:0000979, Portion: Shaft Fragment, Side: R?, Burned specimen count: 1, Burned Notes: Burned dark brown to black		0	0
 Element: Radius?		0	0
+Element: Radius?, ElementURI: UBERON:0001423, Portion: Proximal 1/4, Side: R		0	0
+Element: Radius?, ElementURI: UBERON:0001423, Portion: Shaft Fragment		0	0
+Element: Radius?, ElementURI: UBERON:0001423, Portion: Shaft Fragment, Side: ?		0	0
+Element: Radius?, ElementURI: UBERON:0001423, Portion: Shaft Fragment, Side: L, Fused specimen count: 0, Modifications: Cutmarks		0	0
+Element: Radius?, ElementURI: UBERON:0001423, Portion: Shaft Fragment, Side: L, Fused specimen count: No, Modified specimen count: 1, Modifications: Cutmarks		0	0
+Element: Radius?, ElementURI: UBERON:0001423, Portion: Shaft Fragment, Side: L, Fused: No, Modified specimen count: 1, Modifications: Cutmarks		0	0
+Element: Radius?, ElementURI: UBERON:0001423, Portion: Shaft Fragment, Side: R, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Radius?, ElementURI: UBERON:0001423, Portion: Shaft Fragment, Side: R, Burned specimen count: 1, Burned Notes: Calcined		0	0
 Element: Radius?, Portion: Proximal 1/4, Side: R		0	0
 Element: Radius?, Portion: Shaft Fragment		0	0
 Element: Radius?, Portion: Shaft Fragment, Side: ?		0	0
 Element: Radius?, Portion: Shaft Fragment, Side: L, Modifications: Cutmarks		0	0
+Element: Radius+Ulna, ElementURI: UBERON:0001423; UBERON:0001424, Portion: Distal 1/4, Side: L		0	0
 Element: Radius+Ulna, Portion: Distal 1/4, Side: L		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Articular Surface		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Body Fragment		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Body Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Body Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Fragment		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Fragment, Burned specimen count: 1		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Medial Fragment		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Proximal 1/4		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Proximal 1/8, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Proximal 1/8, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Tubercle, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Rib, ElementURI: UBERON:0002228, Portion: Tubercle, Burned specimen count: 1, Burned Notes: Calcined		0	0
 Element: Rib, Portion: Articular Surface		0	0
 Element: Rib, Portion: Body Fragment		0	0
 Element: Rib, Portion: Fragment		0	0
 Element: Rib, Portion: Medial Fragment		0	0
 Element: Rib, Portion: Proximal 1/4		0	0
 Element: Sacpula, Portion: Distal 1/3, Side: L		0	0
+Element: Sacrum, ElementURI: UBERON:0003690, Portion: Base Fragment		0	0
+Element: Sacrum, ElementURI: UBERON:0003690, Portion: Nearly Whole		0	0
+Element: Sacrum, ElementURI: UBERON:0003690, Portion: Whole		0	0
 Element: Sacrum, Portion: Base Fragment		0	0
 Element: Sacrum, Portion: Nearly Whole		0	0
 Element: Sacrum, Portion: Whole		0	0
+Element: Scaphoid, ElementURI: UBERON:0001427, Portion: Fragment, Side: L, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Scaphoid, ElementURI: UBERON:0001427, Portion: Fragment, Side: L, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Scaphoid, ElementURI: UBERON:0001427, Portion: Fragment, Side: R, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Scaphoid, ElementURI: UBERON:0001427, Portion: Fragment, Side: R, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Scaphoid, ElementURI: UBERON:0001427, Portion: Whole, Side: L		0	0
+Element: Scaphoid, ElementURI: UBERON:0001427, Portion: Whole, Side: R		0	0
 Element: Scaphoid, Portion: Whole, Side: L		0	0
 Element: Scaphoid, Portion: Whole, Side: R		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Caudal Border, Side: L		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Distal 1/2, Side: L		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Distal 1/2, Side: R		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Distal 1/3, Side: L		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Distal 1/3, Side: L, Modifications: Cutmarks		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Distal 1/3, Side: L, Modified specimen count: 1, Modifications: Cutmarks		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Distal 1/3, Side: R		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Distal 1/4, Side: ?		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Distal 1/4, Side: L		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Distal 1/4, Side: R		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Distal 1/8, Side: R		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Distal 2/3, Side: R		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Fragment		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Fragment, Burned specimen count: 2, Burned Notes: Calcined		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Glenoid Fossa, Side: R		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Medial Fragment, Side: L		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Medial Fragment, Side: R		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Nearly Whole, Side: L		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Nearly Whole, Side: R		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Neumatic Foramen, Side: L		0	0
+Element: Scapula, ElementURI: UBERON:0006849, Portion: Spine Fragment, Side: L		0	0
 Element: Scapula, Portion: Caudal Border, Side: L		0	0
 Element: Scapula, Portion: Distal 1/2, Side: L		0	0
 Element: Scapula, Portion: Distal 1/2, Side: R		0	0
@@ -22606,20 +23395,54 @@ Element: Scapula, Portion: Nearly Whole, Side: R		0	0
 Element: Scapula, Portion: Neumatic Foramen, Side: L		0	0
 Element: Scapula, Portion: Spine Fragment, Side: L		0	0
 Element: Scapula/Precoracoid		0	0
+Element: Scapula/Precoracoid, ElementURI: UBERON:0006849; UBERON:0011246, Portion: Fragment		0	0
+Element: Scapula/Precoracoid, ElementURI: UBERON:0006849; UBERON:0011246, Portion: Fragment, Side: ?		0	0
+Element: Scapula/Precoracoid, ElementURI: UBERON:0006849; UBERON:0011246, Portion: Nearly Whole, Side: R		0	0
 Element: Scapula/Precoracoid, Portion: Fragment		0	0
 Element: Scapula/Precoracoid, Portion: Fragment, Side: ?		0	0
 Element: Scapula/Precoracoid, Portion: Nearly Whole, Side: R		0	0
+Element: Scapula?, ElementURI: UBERON:0006849, Portion: Glenoid Fossa?, Side: L?		0	0
 Element: Scapula?, Portion: Glenoid Fossa?, Side: L?		0	0
+Element: Sesamoid, ElementURI: UBERON:0001479, Portion: Whole		0	0
+Element: Sesamoid, ElementURI: UBERON:0001479, Portion: Whole, Burned Notes: Burned black, Burned Notes: Burned black		0	0
+Element: Sesamoid, ElementURI: UBERON:0001479, Portion: Whole, Burned specimen count: 1		0	0
+Element: Sesamoid, ElementURI: UBERON:0001479, Portion: Whole, Burned specimen count: 1, Burned Notes: Burned black		0	0
+Element: Spine, ElementURI: UBERON:0001130, Portion: Fragment		0	0
 Element: Spine, Portion: Fragment		0	0
+Element: Spinous/Transverse Process, ElementURI: UBERON:0001077, Portion: Fragment		0	0
 Element: Spinous/Transverse Process, Portion: Fragment		0	0
+Element: Synsacral Vertebrae, ElementURI: UBERON:0007805, Portion: Nearly Whole		0	0
 Element: Synscaral Vertebrae, Portion: Nearly Whole		0	0
 Element: Tarsometarsus		0	0
+Element: Tarsometarsus, ElementURI: UBERON:0008195, Portion: Diaphysis		0	0
+Element: Tarsometarsus, ElementURI: UBERON:0008195, Portion: Shaft Fragment		0	0
+Element: Tarsometarsus, ElementURI: UBERON:0008195, Portion: Shaft Fragment, Modifications: Shaped, Burned specimen count: 1, Burned Notes: Burned blue-gray		0	0
+Element: Tarsometarsus, ElementURI: UBERON:0008195, Portion: Shaft Fragment, Modified specimen count: 1, Modifications: Shaped, Burned Notes: Burned blue-gray, Burned Notes: Burned blue-gray		0	0
+Element: Tarsometarsus, ElementURI: UBERON:0008195, Portion: Spur, Side: R		0	0
 Element: Tarsometarsus, Portion: Diaphysis		0	0
 Element: Tarsometarsus, Portion: Shaft Fragment		0	0
 Element: Tarsometarsus, Portion: Spur, Side: R		0	0
+Element: Thoracic Vertebra #1, ElementURI: UBERON:0004626, Portion: Body Fragment		0	0
+Element: Thoracic Vertebra #1, ElementURI: UBERON:0004626, Portion: Body Fragment, Fused specimen count: 0		0	0
+Element: Thoracic Vertebra #1, ElementURI: UBERON:0004626, Portion: Body Fragment, Fused specimen count: No		0	0
+Element: Thoracic Vertebra #1, ElementURI: UBERON:0004626, Portion: Body Fragment, Fused: No		0	0
+Element: Thoracic Vertebra #1, ElementURI: UBERON:0004626, Portion: Centrum		0	0
+Element: Thoracic Vertebra #1, ElementURI: UBERON:0004626, Portion: Nearly Whole		0	0
+Element: Thoracic Vertebra #1, ElementURI: UBERON:0004626, Portion: Nearly Whole, Fused specimen count: 0		0	0
+Element: Thoracic Vertebra #1, ElementURI: UBERON:0004626, Portion: Nearly Whole, Fused specimen count: No		0	0
+Element: Thoracic Vertebra #1, ElementURI: UBERON:0004626, Portion: Nearly Whole, Fused: No		0	0
 Element: Thoracic Vertebra #1, Portion: Body Fragment		0	0
 Element: Thoracic Vertebra #1, Portion: Centrum		0	0
 Element: Thoracic Vertebra #1, Portion: Nearly Whole		0	0
+Element: Thoracic Vertebra, ElementURI: UBERON:0002347, Portion: Body		0	0
+Element: Thoracic Vertebra, ElementURI: UBERON:0002347, Portion: Centrum		0	0
+Element: Thoracic Vertebra, ElementURI: UBERON:0002347, Portion: Centrum Epiphysis		0	0
+Element: Thoracic Vertebra, ElementURI: UBERON:0002347, Portion: Fragment		0	0
+Element: Thoracic Vertebra, ElementURI: UBERON:0002347, Portion: Nearly Whole		0	0
+Element: Thoracic Vertebra, ElementURI: UBERON:0002347, Portion: Nearly Whole, Fused specimen count: 0		0	0
+Element: Thoracic Vertebra, ElementURI: UBERON:0002347, Portion: Nearly Whole, Fused specimen count: No		0	0
+Element: Thoracic Vertebra, ElementURI: UBERON:0002347, Portion: Nearly Whole, Fused: No		0	0
+Element: Thoracic Vertebra, ElementURI: UBERON:0002347, Portion: Spinous Process		0	0
 Element: Thoracic Vertebra, Portion: Body		0	0
 Element: Thoracic Vertebra, Portion: Centrum		0	0
 Element: Thoracic Vertebra, Portion: Centrum Epiphysis		0	0
@@ -22627,7 +23450,128 @@ Element: Thoracic Vertebra, Portion: Fragment		0	0
 Element: Thoracic Vertebra, Portion: Nearly Whole		0	0
 Element: Thoracic Vertebra, Portion: Spinous Process		0	0
 Element: Thoracic/Precaudal Vertebra		0	0
+Element: Thoracic/Precaudal Vertebra, ElementURI: UBERON:0002347; UBERON:0011677, Portion: Nearly Whole		0	0
 Element: Thoracic/Precaudal Vertebra, Portion: Nearly Whole		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Cochlea, Side: L, Burned Notes: Burned blue/gray, almost Calcined in some places, Burned Notes: Burned blue/gray, almost Calcined in some places		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Cochlea, Side: L, Burned specimen count: 1, Burned Notes: Burned blue/gray, almost Calcined in some places		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Cranial Margin, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Crest, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/2, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/2, Side: L, Modifications: Cutmarks		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/2, Side: L, Modified specimen count: 1, Modifications: Cutmarks		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/3, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/3, Side: R		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/3, Side: R, Modifications: cutmarks		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/3, Side: R, Modifications: Cutmarks?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/3, Side: R, Modified specimen count: 1, Modifications: cutmarks		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/3, Side: R, Modified specimen count: 1, Modifications: Cutmarks?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/4 (shaft), Side: R, Modifications: Cutmarks?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/4 (shaft), Side: R, Modified specimen count: 1, Modifications: Cutmarks?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/4, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/4, Side: L, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/4, Side: L, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/4, Side: L, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/4, Side: L, Modifications: Cutmarks?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/4, Side: L, Modified specimen count: 1, Modifications: Cutmarks?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/4, Side: R		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/4, Side: R, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/4, Side: R, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/4, Side: R, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/8, Side: ?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/8, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/8, Side: L, Burned Notes: Looks like there is some partial burning on the medial maleus, Burned Notes: Looks like there is some partial burning on the medial maleus		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/8, Side: L, Burned specimen count: 1, Burned Notes: Looks like there is some partial burning on the medial maleus		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/8, Side: L, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/8, Side: L, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/8, Side: L, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/8, Side: R		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/8, Side: R, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/8, Side: R, Burned specimen count: 1		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 1/8, Side: R, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal 2/3, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal Epiphysis, Side: R, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal Epiphysis, Side: R, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Distal Epiphysis, Side: R, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Lateral Condyle Fragment, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Lateral Face, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Medial Face, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Medial Face, Side: R, Modifications: Cutmarks		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Medial Face, Side: R, Modified specimen count: 1, Modifications: Cutmarks		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Muscular Line		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Nutrient Foramen, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Nutrient Foramen, Side: R		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Popiteal Line, Side: R		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Popliteal Line, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Popliteal Line, Side: R		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/2, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/3 Caudal Face, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/3, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/3, Side: R		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/3, Side: R, Fused specimen count: ?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/3, Side: R, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/3, Side: R, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/3, Side: R, Fused specimen count: Unclear		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/3, Side: R, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/3, Side: R, Fused: Unclear		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4 Lat/Caudal Face, Side: L, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4 Lat/Caudal Face, Side: L, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4 Lat/Caudal Face, Side: L, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: L, Fused specimen count: ?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: L, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: L, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: L, Fused specimen count: Unclear		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: L, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: L, Fused: Unclear		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: L, Modifications: cutmarks		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: L, Modified specimen count: 1, Modifications: cutmarks		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: R		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: R, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: R, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: R, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: R, Modifications: Cutmarks		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/4, Side: R, Modified specimen count: 1, Modifications: Cutmarks		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/8, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/8, Side: L, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/8, Side: L, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/8, Side: L, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/8, Side: R, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/8, Side: R, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal 1/8, Side: R, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Epiphysis, Side: ?, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Epiphysis, Side: ?, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Epiphysis, Side: ?, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Epiphysis, Side: L, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Epiphysis, Side: L, Fused specimen count: 0, Fused Notes: Not fused		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Epiphysis, Side: L, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Epiphysis, Side: L, Fused specimen count: No, Fused Notes: Not fused		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Epiphysis, Side: L, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Epiphysis, Side: L, Fused: No, Fused Notes: Not fused		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Epiphysis, Side: R, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Epiphysis, Side: R, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Epiphysis, Side: R, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Fragment, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Fragment, Side: R, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Fragment, Side: R, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Proximal Fragment, Side: R, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment, Side: ?, Modifications: Cutmarks?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment, Side: ?, Modified specimen count: 1, Modifications: Cutmarks?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment, Side: L, Modifications: Cutmarks		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment, Side: L, Modified specimen count: 1, Modifications: Cutmarks		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment, Side: L?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment, Side: R		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment, Side: R, Burned Notes: Burned black, Burned Notes: Burned black		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment, Side: R, Burned specimen count: 1, Burned Notes: Burned black		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment, Side: R, Fused specimen count: 0		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment, Side: R, Fused specimen count: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Shaft Fragment, Side: R, Fused: No		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Tibial Tuberosity, Side: ?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Tibial Tuberosity, Side: L		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Tibial Tuberosity, Side: R, Fused specimen count: ?		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Tibial Tuberosity, Side: R, Fused specimen count: Unclear		0	0
+Element: Tibia, ElementURI: UBERON:0000979, Portion: Tibial Tuberosity, Side: R, Fused: Unclear		0	0
 Element: Tibia, Portion: Cranial Margin, Side: L		0	0
 Element: Tibia, Portion: Crest, Side: L		0	0
 Element: Tibia, Portion: Distal 1/2, Side: L		0	0
@@ -22683,12 +23627,25 @@ Element: Tibia, Portion: Shaft Fragment, Side: R		0	0
 Element: Tibia, Portion: Tibial Tuberosity, Side: ?		0	0
 Element: Tibia, Portion: Tibial Tuberosity, Side: L		0	0
 Element: Tibia, Portion: Tibial Tuberosity, Side: R, Fused: ?		0	0
+Element: Tibia?, ElementURI: UBERON:0000979, Portion: Fragment		0	0
 Element: Tibia?, Portion: Fragment		0	0
 Element: Tibiotarsus		0	0
+Element: Tibiotarsus, ElementURI: UBERON:0008194, Portion: Hypotarsal Ridge, Side: R?		0	0
+Element: Tibiotarsus, ElementURI: UBERON:0008194, Portion: Proximal 1/2, Side: R, Fused specimen count: 0, Fused Notes: Less than a year, but older than 3 months		0	0
+Element: Tibiotarsus, ElementURI: UBERON:0008194, Portion: Proximal 1/2, Side: R, Fused specimen count: No, Fused Notes: Less than a year, but older than 3 months		0	0
+Element: Tibiotarsus, ElementURI: UBERON:0008194, Portion: Proximal 1/2, Side: R, Fused: No, Fused Notes: Less than a year, but older than 3 months		0	0
+Element: Tibiotarsus, ElementURI: UBERON:0008194, Portion: Shaft Fragment, Side: L		0	0
 Element: Tibiotarsus, Portion: Hypotarsal Ridge, Side: R?		0	0
 Element: Tibiotarsus, Portion: Proximal 1/2, Side: R, Fused Notes: Less than a year, but older than 3 months		0	0
 Element: Tibiotarsus, Portion: Shaft Fragment, Side: L		0	0
 Element: Tooth		0	0
+Element: Tooth, ElementURI: UBERON:0001091, Portion: Crown		0	0
+Element: Tooth, ElementURI: UBERON:0001091, Portion: Crown Fragment		0	0
+Element: Tooth, ElementURI: UBERON:0001091, Portion: Fragment		0	0
+Element: Tooth, ElementURI: UBERON:0001091, Portion: Root Fragment		0	0
+Element: Tooth, ElementURI: UBERON:0001091, Portion: Root, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Tooth, ElementURI: UBERON:0001091, Portion: Root, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Tooth, ElementURI: UBERON:0001091, Portion: Whole		0	0
 Element: Tooth, Portion: Crown		0	0
 Element: Tooth, Portion: Crown Fragment		0	0
 Element: Tooth, Portion: Fragment		0	0
@@ -22696,15 +23653,113 @@ Element: Tooth, Portion: Root Fragment		0	0
 Element: Tooth, Portion: Whole		0	0
 Element: UID Bone		0	0
 Element: UID Bone , Portion: Fragment		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: 1 Calcined, Burned Notes: 1 Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: 3 Calcined, Burned Notes: 3 Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: 4 Calcined, Burned Notes: 4 Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: 7 Calcined, Burned Notes: 7 Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: Almost all are Calcined, Burned Notes: Almost all are Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: Almost Calcined, Burned Notes: Almost Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: Burned blue, Burned Notes: Burned blue		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: Burned gray/blue, Burned Notes: Burned gray/blue		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: Majority are calcined, Burned Notes: Majority are calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: Majority of these are Calcined, Burned Notes: Majority of these are Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: Many are calcined, Burned Notes: Many are calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned Notes: Mostly Calcined or close to it, Burned Notes: Mostly Calcined or close to it		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 1		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 1, Burned Notes: Almost Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 1, Burned Notes: Burned blue		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 10		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 10, Burned Notes: 3 Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 10, Burned Notes: Almost all are Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 10, Burned Notes: Mostly Calcined or close to it		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 11, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 11, Burned Notes: Majority of these are calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 12		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 13		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 13, Burned Notes: Majority are calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 14		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 15		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 16, Burned Notes: 7 Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 16, Burned Notes: Majority are calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 17		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 18, Burned Notes: Almost Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 18, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 2		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 2, Burned Notes: Almost Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 2, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 21		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 21, Burned Notes: Mostly Calcined or close to it		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 23		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 24		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 25		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 3		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 3, Burned Notes: 1 Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 3, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 36, Burned Notes: Majority of these are Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 4		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 4, Burned Notes: Burned gray/blue		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 4, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 5		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 5, Burned Notes: 4 Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 5, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 52		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 56, Burned Notes: Many are calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 6		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 6, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 7		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 7, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 79		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 8		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 8, Burned Notes: 7 Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 9		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 9, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Burned specimen count: 9, Burned Notes: Majority of these are calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Modifications: Cutmarks?, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Modifications: Shaped		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Modified specimen count: 1, Modifications: Cutmarks?, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: UID Bone, ElementURI: UBERON:0001474, Portion: Fragment, Modified specimen count: 1, Modifications: Shaped		0	0
 Element: UID Bone, Portion: Fragment		0	0
 Element: UID Bone, Portion: Fragment, Burned Notes: Calcined		0	0
 Element: UID Bone, Portion: Fragment, Modifications: Shaped 		0	0
 Element: UID Cranium		0	0
+Element: UID Cranium, ElementURI: UBERON:0003128, Portion: Fragment		0	0
+Element: UID Cranium, ElementURI: UBERON:0003128, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: UID Cranium, ElementURI: UBERON:0003128, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
 Element: UID Cranium, Portion: Fragment		0	0
 Element: UID Shell		0	0
 Element: UID Shell, Portion: Fragment		0	0
 Element: Ulna		0	0
 Element: Ulna , Portion: Proximal 1/4, Side: L		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Distal 1/8, Side: L		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Lateral Coronoid Process, Side: R		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Medial Fragment, Side: ?		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Olecranon Tuberosity, Side: L, Burned Notes: Burned gray, Burned Notes: Burned gray		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Olecranon Tuberosity, Side: L, Burned specimen count: 1, Burned Notes: Burned gray		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Olecranon Tuberosity, Side: L, Fused specimen count: 0		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Olecranon Tuberosity, Side: L, Fused specimen count: No		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Olecranon Tuberosity, Side: L, Fused: No		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Proximal 1/3, Side: L		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Proximal 1/3, Side: R		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Proximal 1/3, Side: R, Modifications: Cutmarks		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Proximal 1/3, Side: R, Modifications: Scored		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Proximal 1/3, Side: R, Modified specimen count: 1, Modifications: Cutmarks		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Proximal 1/3, Side: R, Modified specimen count: 1, Modifications: Scored		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Proximal 1/4, Side: L		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Proximal 1/4, Side: R		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Proximal 2/3, Side: R		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Proximal 3/4, Side: L		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Proximal Fragment, Side: R		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Styloid Process, Side: L, Fused specimen count: 0		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Styloid Process, Side: L, Fused specimen count: No		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Styloid Process, Side: L, Fused: No		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Trochlear Notch, Side: L		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Trochlear Notch, Side: R		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Trochlear Notch, Side: R, Burned specimen count: 1		0	0
+Element: Ulna, ElementURI: UBERON:0001424, Portion: Trochlear Notch+Cuadal Border, Side: L		0	0
 Element: Ulna, Portion: Distal 1/8, Side: L		0	0
 Element: Ulna, Portion: Lateral Coronoid Process, Side: R		0	0
 Element: Ulna, Portion: Medial Fragment, Side: ?		0	0
@@ -22722,11 +23777,47 @@ Element: Ulna, Portion: Styloid Process, Side: L		0	0
 Element: Ulna, Portion: Trochlear Notch, Side: L		0	0
 Element: Ulna, Portion: Trochlear Notch, Side: R		0	0
 Element: Ulna, Portion: Trochlear Notch+Cuadal Border, Side: L		0	0
+Element: Unciform, ElementURI: UBERON:0001433, Portion: Fragment, Side: R		0	0
+Element: Unciform, ElementURI: UBERON:0001433, Portion: Whole, Side: R, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Unciform, ElementURI: UBERON:0001433, Portion: Whole, Side: R, Burned specimen count: 1, Burned Notes: Calcined		0	0
 Element: Unciform, Portion: Fragment, Side: R		0	0
 Element: Valve		0	0
 Element: Valve, Portion: Fragment		0	0
+Element: Valve, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Valve, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
 Element: Valve, Portion: Fragment, Side: R		0	0
 Element: Vertebra		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Articular Facet		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Articular Facet, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Articular Facet, Burned specimen count: 1		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Articular Facet, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Body		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Body Fragment		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Body Fragment, Fused specimen count: 0		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Body Fragment, Fused specimen count: No		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Body Fragment, Fused: No		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Centrum Epiphysis		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Centrum Epiphysis, Fused specimen count: 0		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Centrum Epiphysis, Fused specimen count: No		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Centrum Epiphysis, Fused: No		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Dorsal Fragment		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Dorsal Fragment, Burned specimen count: 1		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Fragment		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Fragment, Burned specimen count: 1		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Fragment, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Fragment, Fused specimen count: 0, Fused Notes: The centrum doesnt look fused		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Fragment, Fused specimen count: No, Fused Notes: The centrum doesnt look fused		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Fragment, Fused: No, Fused Notes: The centrum doesnt look fused		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Nearly Whole		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Nearly Whole, Burned Notes: Burned blue, Burned Notes: Burned blue		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Nearly Whole, Burned Notes: Calcined, Burned Notes: Calcined		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Nearly Whole, Burned specimen count: 1		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Nearly Whole, Burned specimen count: 1, Burned Notes: Burned blue		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Nearly Whole, Burned specimen count: 1, Burned Notes: Calcined		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Process/Tubercle		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Whole		0	0
+Element: Vertebra, ElementURI: UBERON:0002412, Portion: Whole/Nearly Whole		0	0
 Element: Vertebra, Portion: Articular Facet		0	0
 Element: Vertebra, Portion: Body		0	0
 Element: Vertebra, Portion: Body Fragment		0	0
@@ -22747,6 +23838,12 @@ Element: Xiphiplastron		0	0
 Element: Xiphiplastron , Portion: Anterior 1/4, Side: L		0	0
 Element: Xiphiplastron , Portion: Whole, Side: L		0	0
 Element: Xiphiplastron , Portion: Whole, Side: R		0	0
+Element: Xiphiplastron, ElementURI: UBERON:0011661, Portion: Anterior 1/4, Side: L		0	0
+Element: Xiphiplastron, ElementURI: UBERON:0011661, Portion: Anterior 1/8, Side: L		0	0
+Element: Xiphiplastron, ElementURI: UBERON:0011661, Portion: Fragment		0	0
+Element: Xiphiplastron, ElementURI: UBERON:0011661, Portion: Posterior 1/4, Side: L		0	0
+Element: Xiphiplastron, ElementURI: UBERON:0011661, Portion: Whole, Side: L		0	0
+Element: Xiphiplastron, ElementURI: UBERON:0011661, Portion: Whole, Side: R		0	0
 Element: Xiphiplastron, Portion: Anterior 1/8, Side: L		0	0
 Element: Xiphiplastron, Portion: Fragment		0	0
 Element: Xiphiplastron, Portion: Posterior 1/4, Side: L		0	0

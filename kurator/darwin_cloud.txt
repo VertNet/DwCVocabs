@@ -15,11 +15,15 @@ BED	bed	1	dwc
 BEHAVIOR	behavior	1	dwc		
 BIBLIOGRAPHICCITATION	bibliographicCitation	1	dcterms		
 CATALOGNUMBER	catalogNumber	1	dwc		
+CATNUM	catalogNumber	1	dwc		
 CLASS	class	1	dwc		
 COLLECTIONCODE	collectionCode	1	dwc		
 COLLECTIONID	collectionID	1	dwc		
+COLLECTOR	recordedBy	1	dwc		
 CONTINENT	continent	1	dwc		
+CONTINENT/OCEAN		1	dwc		Maps to continent for continents and waterBody for oceans.
 COORDINATEPRECISION	coordinatePrecision	1	dwc		
+COORDINATES	verbatimCoordinates	1	dwc		
 COORDINATEUNCERTAINTYINMETERS	coordinateUncertaintyInMeters	1	dwc		
 COUNTRY	country	1	dwc		
 COUNTRYCODE	countryCode	1	dwc		
@@ -27,6 +31,7 @@ COUNTY	county	1	dwc
 DATAGENERALIZATIONS	dataGeneralizations	1	dwc		
 DATASETID	datasetID	1	dwc		
 DATASETNAME	datasetName	1	dwc		
+DATE		1			Could be one of many fields.
 DATEIDENTIFIED	dateIdentified	1	dwc		
 DAY	day	1	dwc		
 DAYCOLLECTED	day	1	dwc		
@@ -41,6 +46,7 @@ DCTERMS:RIGHTSHOLDER	rightsHolder	1	dcterms
 DCTERMS:TYPE	type	1	dcterms		
 DECIMALLATITUDE	decimalLatitude	1	dwc		
 DECIMALLONGITUDE	decimalLongitude	1	dwc		
+DETERMINED BY	identifiedBy	1	dwc		
 DISPOSITION	disposition	1	dwc		
 DWC:ACCEPTEDNAMEUSAGE	acceptedNameUsage	1	dwc		
 DWC:ACCEPTEDNAMEUSAGEID	acceptedNameUsageID	1	dwc		
@@ -217,6 +223,7 @@ EVENTREMARKS	eventRemarks	1	dwc
 EVENTTIME	eventTime	1	dwc		
 EXTRACTIONID		1		FIMS	
 FAMILY	family	1	dwc		
+FIELD #		1			Could be a recordNumber or a fieldNumber.
 FIELDNOTES	fieldNotes	1	dwc		
 FIELDNUMBER	fieldNumber	1	dwc		
 FOOTPRINTSPATIALFIT	footprintSpatialFit	1	dwc		
@@ -274,6 +281,7 @@ LOCATIONREMARKS	locationRemarks	1	dwc
 LON	verbatimLongitude	1	dwc		If dwc:verbatimLongitude not populated
 LONG	verbatimLongitude	1	dwc		If dwc:verbatimLongitude not populated
 LONGITUDE	verbatimLongitude	1	dwc		If dwc:verbatimLongitude not populated
+LOT COUNT	individualCount	1	dwc		
 LOWESTBIOSTRATIGRAPHICZONE	lowestBiostratigraphicZone	1	dwc		
 MATERIALSAMPLEID	materialSampleID	1	dwc		
 MAXIMUMDEPTHINMETERS	maximumDepthInMeters	1	dwc		
@@ -314,10 +322,12 @@ PARENTEVENTID	parentEventID	1	dwc
 PARENTNAMEUSAGE	parentNameUsage	1	dwc		
 PARENTNAMEUSAGEID	parentNameUsageID	1	dwc		
 PERMITINFORMATION		1		FIMS	
+PHOTO	associatedMedia	1	dwc		There could be other fields that also map into associatedMedia.
 PHYLUM	phylum	1	dwc		
 PLATEID		1		FIMS	
 POINTRADIUSSPATIALFIT	pointRadiusSpatialFit	1	dwc		
 PREPARATIONS	preparations	1	dwc		
+PREPARATOR		1			This may be in addition to a collector.
 PRESERVATIVE		1		FIMS	Contributes to dwc:preparations
 PREVIOUSIDENTIFICATIONS	previousIdentifications	1	dwc		
 PREVIOUSTISSUEID	otherCatalogNumbers	1	dwc	FIMS	Contributes "tissue" to dwc:preparations if present
@@ -339,6 +349,7 @@ SPECIES	specificEpithet	1	dwc
 SPECIFICEPITHET	specificEpithet	1	dwc		
 STARTDAYOFYEAR	startDayOfYear	1	dwc		
 STATEPROVINCE	stateProvince	1	dwc		
+SUBFAMILY		1			Can be mapped into dwc:higherClassification with other fields.
 SUBGENUS	subgenus	1	dwc		
 SUBSPECIES	infraspecificEpithet	1	dwc		
 SUBSTRATUM		1		FIMS	
