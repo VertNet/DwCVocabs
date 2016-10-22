@@ -1507,7 +1507,7 @@ ROUND/WING/SKEL, TISSUE	skeleton | round skin | tissue | wing	1
 S0	skin in alcohol	1
 SA	alcoholic carcass	1
 SALTED SKIN	wing (salted)	1
-SB	skin in alcohol | body skeleton	1
+SB	body skeleton | skin | skull	1
 SCALES (DRY)	scales	1
 SCALP	scalp	1
 SCALP/SKEL	scalp | skeleton	1

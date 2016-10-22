@@ -822,6 +822,7 @@ verbatimReproductiveCondition	standardReproductiveCondition	standard	checked
 4 embs: 18x12mm = 5g		0	0
 4 embs: 1lf,3rt		0	0
 4 embs: 1lf,3rt = 2mm		0	0
+4 embs: 1R, 3L, CR=20mm		0	0
 4 embs: 1rt&3lf, undev		0	0
 4 embs: 2 R, 2 L		0	0
 4 embs: 2(L)&2(R)=11mm		0	0
@@ -855,6 +856,7 @@ verbatimReproductiveCondition	standardReproductiveCondition	standard	checked
 4 embs: 3 R, 1 L; 21 mm		0	0
 4 embs: 3(R)&1(L); undev		0	0
 4 embs: 3mm		0	0
+4 embs: 3R, 1L, CR=5mm		0	0
 4 embs: 5mm		0	0
 4 embs: 6mm		0	0
 4 embs: 7mm		0	0
@@ -23340,6 +23342,7 @@ testes 10x5;		0	0
 testes 10x5mm		0	0
 testes 10x6 mm		0	0
 testes 10x6;		0	0
+testes 10x7		0	0
 Testes 11 mm;		0	0
 testes -11 X 7		0	0
 testes 11 x 8		0	0
@@ -23380,6 +23383,7 @@ testes 16x7 mm		0	0
 testes 17 x 12;		0	0
 testes 17;		0	0
 testes 17x10 mm		0	0
+testes 18 x 30		0	0
 testes 18 x 34, epid +		0	0
 testes 18mm		0	0
 testes 19 x 13 mm;		0	0
@@ -23462,6 +23466,7 @@ testes 3X5		0	0
 testes 3X6		0	0
 testes 4 mm;		0	0
 testes 4 X 1.5 mm		0	0
+testes 4 x 10		0	0
 testes 4 X 2		0	0
 testes 4 X 3		0	0
 testes 4 x 3 mm;		0	0
