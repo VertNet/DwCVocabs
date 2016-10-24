@@ -2,18 +2,27 @@ verbatimIdentificationQualifier	standardIdentificationQualifier	standard	checked
  B1001 TYPE of Pachycephala rufiventris minor, Zietz, 1914 (see SAOA 1(1):15		0	1
  SYNTYPE of Rhipidura mayi, Ashby, 1911 (see Emu 11:41)		0	1
 (=Z. cornutus)		0	1
+(Achirostomias)  n. sp.	sp. nov.	0	1
 (Alburnops) sp.	sp.	0	1
 (Alburnops) sp. longirostris	sp.	0	1
 (Alvordius) sp.	sp.	0	1
 (aurulenta subsp.)	ssp.	0	1
+(Biradiostomias) sp.	sp.	0	1
 (budytes ?) sp.	sp.	0	1
 (Catonotus) sp.	sp.	0	1
 (cyprinella) sp.	sp.	0	1
 (Doration) sp.	sp.	0	1
 (Etheostoma) sp.	sp.	0	1
 (gyroloides subsp.)	ssp.	0	1
+(Hapclonus) sp.	sp.	0	1
 (Loricariichthys)sp.	sp.	0	1
 (Nanostoma) sp.	sp.	0	1
+(Nominostomias ) n. sp.	sp. nov.	0	1
+(Nominostomias) n. sp. A	sp. nov.	0	1
+(Nominostomias) n. sp. B	sp. nov.	0	1
+(Nominostomias) sp.	sp.	0	1
+(Nominostomias) sp. #1	sp.	0	1
+(Nominostomias) sp. (#2)	sp.	0	1
 (probably)	in question	0	1
 (Pteronotropist) sp.	sp.	0	1
 (s.s.) sp.	sp.	0	1
@@ -106,6 +115,7 @@ verbatimIdentificationQualifier	standardIdentificationQualifier	standard	checked
 ?sp; very big	species in question	0	1
 ?species	species in question	0	1
 ?subfam	subfamily in question	0	1
+[n. gen., n. sp.]	gen. nov.	0	1
 `		0	1
 {billsi n. sp.}	sp. nov.	0	1
 {chilala n. sp.}	sp. nov.	0	1
@@ -389,23 +399,41 @@ megalotis X sp.	megalotis X sp.	0	1
 n sp.	sp. nov.	0	1
 n sp. "L402"	sp. nov.	0	1
 n. sp.	sp. nov.	0	1
+n. sp. #1	sp. nov.	0	1
+n. sp. #2	sp. nov.	0	1
+n. sp. (cf. achirus)	sp. nov. (cf. achirus)	0	1
+n. sp. (cf. fitzsimonsi)	sp. nov. (cf. fitzsimonsi)	0	1
+n. sp. (cf. pusillus)	sp. nov. (cf. pusillus)	0	1
+n. sp. (cf. regani)	sp. nov. (cf. regani)	0	1
+n. sp. (cf. signifera)	sp. nov. (cf. signifera)	0	1
+n. sp. (cf. theta)	sp. nov. (cf. theta)	0	1
 n. sp. (ms)	sp. nov.	0	1
+n. sp. (yucatana group)	sp. nov. (yucatana group)	0	1
+n. sp. [blue-spotted]	sp. nov.	0	1
 n. sp. “bimaculatus”	sp. nov.	0	1
 n. sp. “Congo”	sp. nov.	0	1
 n. sp. “negro/alto orinoco”	sp. nov.	0	1
 n. sp. “Rufiji”	sp. nov.	0	1
 n. sp. “tailspot”	sp. nov.	0	1
 n. sp. 1		0	1
+n. sp. 10	sp. nov.	0	1
+n. sp. 2	sp. nov.	0	1
+n. sp. 3	sp. nov.	0	1
+n. sp. 6	sp. nov.	0	1
 n. sp. 7	sp. nov.	0	1
 n. sp. 8	sp. nov.	0	1
 n. sp. a	sp. nov.	0	1
 n. sp. b	sp. nov.	0	1
+n. sp. B (short gland)	sp. nov.	0	1
 n. sp. c	sp. nov.	0	1
 n. sp. d	sp. nov.	0	1
+n. sp. J	sp. nov.	0	1
 n. sp. ms	sp. nov.	0	1
+n. sp. Q	sp. nov.	0	1
 n.sp.	sp. nov.	0	1
 n.sp. "common"	sp. nov.	0	1
 n.sp. "tavi"	sp. nov.	0	1
+n.sp. (cf. reticulatus)	sp. nov. (cf. reticulatus)	0	1
 n.sp. (ms)	sp. nov.	0	1
 n.sp. 1		0	1
 n.sp. a	sp. nov.	0	1
@@ -460,6 +488,7 @@ probable	in question	0	1
 probably	id in question	0	1
 proserpina x Notropis sp.	proserpina X Notropis sp.	0	1
 Q sp	species in question	0	1
+regani (n. ssp.)	ssp. nov. (regani)	0	1
 regularis x sp.	sp.	0	1
 remarks:2 = W.D. Dodd. No. 451.B1002, B1003 PARATYPES of Pachycephala rufiventris minor, Zietz, 1914 (see SAOA 1(1):15. W.D. Dodd No. 519.		0	1
 rhina,binoculata,inornata	species in question	0	1
@@ -497,6 +526,7 @@ sp nr	cf.	0	1
 sp.	sp.	1	1
 sp. "6"	sp. nov.	0	1
 sp. "A"		0	1
+sp. "atrox/patrox"	sp.	0	1
 sp. "B"		0	1
 sp. "b&w"	sp. nov.	0	1
 sp. "b+w"	sp. nov.	0	1
@@ -527,6 +557,14 @@ sp. # 1	sp.	0	1
 sp. #1	sp. nov.	0	1
 sp. #2	sp. nov.	0	1
 sp. #4	sp. nov.	0	1
+sp. (? alba)	sp.	0	1
+sp. (? azureus)	sp.	0	1
+sp. (? fernandezianus)	sp.	0	1
+sp. (? hollandi)	sp.	0	1
+sp. (? lispus)	sp.	0	1
+sp. (? n. sp.)	sp.	0	1
+sp. (? newnesi)	sp.	0	1
+sp. (? sinensis)	sp.	0	1
 sp. (?palumbus)	sp.	0	1
 sp. (albino)	sp.	0	1
 sp. (alnorum or trailli ?)	sp.	0	1
@@ -545,14 +583,33 @@ sp. (calamarina-group)	sp.	0	1
 sp. (catharinae-group)	sp.	0	1
 sp. (Caura, Orinoco)	sp.	0	1
 sp. (cephalica-clade)	sp.	0	1
+sp. (cf. brevispinis)	cf. brevispinis	0	1
+sp. (cf. eos)	cf. eos	0	1
+sp. (cf. flavobrunneus)	cf. flavobrunneus	0	1
+sp. (cf. limbatus)	cf. limbatus	0	1
+sp. (cf. mediterraneus)	cf. mediterraneus	0	1
+sp. (cf. melanostoma)	cf. melanostoma	0	1
+sp. (cf. minutilus)	cf. minutilus	0	1
+sp. (cf. mollis)	cf. mollis	0	1
+sp. (cf. paradoxum)	cf. paradoxum	0	1
+sp. (cf. platophrys)	cf. platophrys	0	1
+sp. (cf. pulcher)	cf. pulcher	0	1
+sp. (cf. valdiviae)	cf. valdiviae	0	1
+sp. (cf. vexillaris)	cf. vexillaris	0	1
 sp. (chalconota-group)	sp.	0	1
 sp. (cocos long-nose)	sp.	0	1
 sp. (coelomys)	sp.	0	1
+sp. (dendriticus ?)	species in question	0	1
+sp. (draco group)	cf. draco group	0	1
 sp. (E. umbrinus or E. quadrivittatus)	sp.	0	1
+sp. (ebelingi ?)	species in question	0	1
 sp. (fuscoauratus-group)	sp.	0	1
 sp. (fuscus complex)	sp.	0	1
 sp. (grammicus-group)	sp.	0	1
+sp. (group I)	sp.	0	1
+sp. (group II)	sp.	0	1
 sp. ('group ii')	sp.	0	1
+sp. (group III)	sp.	0	1
 sp. (Holston)	sp.	0	1
 sp. (hybrid)	sp.	0	1
 sp. (hybrid?)	sp.	0	1
@@ -562,6 +619,7 @@ sp. (lateralis group)	sp.	0	1
 sp. (lemniscatus-group)	sp.	0	1
 sp. (lesueurii complex)	sp.	0	1
 sp. (macconnelli / oleagineus)	sp.	0	1
+sp. (macronema)	cf. macronema	0	1
 sp. (margaritifera-complex)	sp.	0	1
 sp. (melanoleucus-group)	sp.	0	1
 sp. (melanonotus group)	sp.	0	1
@@ -577,6 +635,7 @@ sp. (perpusillus group)	sp.	0	1
 sp. (philadelphia X tolmei)	philadelphia X tolmei	0	1
 sp. (pipiens complex)	sp.	0	1
 sp. (podicipinus-wagneri complex)	sp.	0	1
+sp. (possibly bifilis)	cf. bifilis	0	1
 sp. (possibly tolmiei)	sp.	0	1
 sp. (pratti group)	sp.	0	1
 sp. (prob. hybrid elegans X flaveolus)	sp.	0	1
@@ -584,6 +643,8 @@ sp. (quechua-group)	sp.	0	1
 sp. (redband)	sp.	0	1
 sp. (rk sp3)	sp.	0	1
 sp. (ruber group)	sp.	0	1
+sp. (sajori)	cf. sajori	0	1
+sp. (schmidti-group)	cf. schmidti-group	0	1
 sp. (shag)	sp.	0	1
 sp. (speciosa or trichas)	sp.	0	1
 sp. (spumarius-complex)	sp.	0	1
@@ -593,12 +654,15 @@ sp. (taeniura)	sp.	0	1
 sp. (Tallapoosa sculpin)	sp.	0	1
 sp. (temporaria-group)	sp.	0	1
 sp. (trailii / alnorum [?])	sp.	0	1
+sp. (Type A)	sp.	0	1
+sp. (type B)	sp.	0	1
 sp. (urunguensis-group)	sp.	0	1
 sp. (variegatus-group)	sp.	0	1
 sp. (xantha ms)	sp.	0	1
 sp. ?	species in question	0	1
 sp. ??	species in question	0	1
 sp. ???	species in question	0	1
+sp. [? terminata]	cf. terminata	0	1
 sp. “adiposa larga”	sp. nov.	0	1
 sp. “banded”	sp. nov.	0	1
 sp. “brown”	sp. nov.	0	1
@@ -666,23 +730,24 @@ sp. '2'	sp.	0	1
 sp. 28	sp.	0	1
 sp. 3	sp.	0	1
 sp. 3 - Colorado	sp.	0	1
-sp. 303	sp. 303	0	1
-sp. 304	sp. 304	0	1
+sp. 3 (cf. orientalis)	cf. orientalis	0	1
+sp. 303	sp.	0	1
+sp. 304	sp.	0	1
 sp. 305 longimanus	sp. 305 longimanus	0	1
 sp. 306 (paracanthus)	sp. 306 (paracanthus)	0	1
 sp. 307 (bilineatus)	sp. 307 (bilineatus)	0	1
 sp. 308 (comatus)	sp. 308 (comatus)	0	1
 sp. 309 (rectisetus)	sp. 309 (rectisetus)	0	1
-sp. 311	sp. 311	0	1
-sp. 312	sp. 312	0	1
+sp. 311	sp.	0	1
+sp. 312	sp.	0	1
 sp. 314 xavierfilhoi	sp. 314 xavierfilhoi	0	1
 sp. 316 holdenae	sp. 316 holdenae	0	1
 sp. 319 marinhoi	sp. 319 marinhoi	0	1
-sp. 324	sp. 324	0	1
-sp. 325	sp. 325	0	1
+sp. 324	sp.	0	1
+sp. 325	sp.	0	1
 sp. 326 amati	sp. 326 amati	0	1
 sp. 328 riccardiae	sp. 328 riccardiae	0	1
-sp. 330	sp. 330	0	1
+sp. 330	sp.	0	1
 sp. 338 nocturnigrus	sp. 338 nocturnigrus	0	1
 sp. 36	sp.	0	1
 sp. 4	sp.	0	1
@@ -697,9 +762,11 @@ sp. 8	sp.	0	1
 sp. 9	sp.	0	1
 sp. 9 dfh	sp.	0	1
 sp. A	sp.	0	1
+sp. A  (n. sp.)	sp. nov.	0	1
 sp. A.	sp.	0	1
 sp. A/C	sp.	0	1
 sp. aff. galaxias	aff. galaxias	0	1
+sp. aff. lavenbergi	aff. lavenbergi	0	1
 sp. aff. lysina	aff. lysina	0	1
 sp. aff. marinus	aff. marinus	0	1
 sp. aff. punctitaeniatus	aff. punctitaeniatus	0	1
@@ -905,6 +972,7 @@ sp. white-chest	sp.	0	1
 sp. X	sp.	0	1
 sp. X sp.	sp. X sp.	0	1
 sp. X venustus	sp. X venustus	0	1
+sp. Y	sp.	0	1
 sp..	sp.	0	1
 sp.;	sp.	0	1
 sp.”ventuari”	sp. nov.	0	1

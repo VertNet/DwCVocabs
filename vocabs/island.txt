@@ -142,7 +142,6 @@ Waterbody	IslandGroup	Island
 	Canadian Arctic Archipelago	Southampton
 	Canadian Arctic Archipelago	Victoria
 	Gorong Islands	Gorom
-	Greater Sunda Islands	Borneo
 	Greater Sunda Islands	Java
 	Greater Sunda Islands	Sulawesi
 	Greater Sunda Islands	Sumatra
@@ -315,6 +314,7 @@ Caribbean Sea		Margarita
 Caribbean Sea		Mujeres
 Caribbean Sea		Navassa
 Caribbean Sea		Quiribrí
+Caribbean Sea		Tobago
 Caribbean Sea	ABC Islands	Aruba
 Caribbean Sea	ABC Islands	Bonaire
 Caribbean Sea	ABC Islands	Curaçao
@@ -449,13 +449,13 @@ Dry Bay		Bear
 Dutch Harbor	Aleutian Islands	Amaknak
 Duwamish Waterway		Kellogg
 East Penobscot Bay		Oak
-Eastern North Pacific Ocean		Vancouver
-Eastern North Pacific Ocean	Aleutian Islands	Unimak
-Eastern North Pacific Ocean	Alexander Archipelago	Back
-Eastern North Pacific Ocean	Alexander Archipelago	Prince of Wales
-Eastern North Pacific Ocean	Alexander Archipelago	Revillagigedo
-Eastern North Pacific Ocean	Alexander Archipelago	Wrangell
-Eastern North Pacific Ocean	Hawaiian Islands	Oahu
+Eastern Northern Pacific Ocean		Vancouver
+Eastern Northern Pacific Ocean	Aleutian Islands	Unimak
+Eastern Northern Pacific Ocean	Alexander Archipelago	Back
+Eastern Northern Pacific Ocean	Alexander Archipelago	Prince of Wales
+Eastern Northern Pacific Ocean	Alexander Archipelago	Revillagigedo
+Eastern Northern Pacific Ocean	Alexander Archipelago	Wrangell
+Eastern Northern Pacific Ocean	Hawaiian Islands	Oahu
 English Channel	British Isles	Isle of Wight
 English Channel	Channel Islands	Guernsey
 English Channel	Channel Islands	Jersey
@@ -689,7 +689,6 @@ Indian Ocean	Silhouette Group	Silhouette
 Indian Ocean	Socotra Archipelago	Abdal Kuri
 Indian Ocean	Socotra Archipelago	Socotra
 Indian Ocean	Southern Coral Group	Île Platte
-Indian Ocean	Sunda Islands	Sumatra
 Indian Ocean	Zanzibar Archipelago	Mafia
 Indian Ocean	Zanzibar Archipelago	Pemba
 Indian Ocean	Zanzibar Archipelago	Zanzibar
@@ -804,6 +803,7 @@ Matttick Creek		Long Island
 Mayor Channel	Southern Gulf Islands	Great Chain
 Mediterranean Sea		Corsica
 Mediterranean Sea		Cyprus
+Mediterranean Sea		Malta
 Mediterranean Sea		Sardegna
 Mediterranean Sea		Sicilia
 Mediterranean Sea	Illes Balears	Eivissa
@@ -836,453 +836,7 @@ Narraguagus Bay		Fosters
 Nelson River		Delta
 New York Bay		Staten Island
 Niagara River		Grand
-North Atlantic Ocean		Anastasia
-North Atlantic Ocean		Anatasia
-North Atlantic Ocean		Appledore Island
-North Atlantic Ocean		Assateague
-North Atlantic Ocean		Block
-North Atlantic Ocean		Bogue Banks
-North Atlantic Ocean		Boularderie
-North Atlantic Ocean		Bulls
-North Atlantic Ocean		Cape Breton
-North Atlantic Ocean		Cape Sable Island
-North Atlantic Ocean		Cedar
-North Atlantic Ocean		Cedros
-North Atlantic Ocean		Chapel
-North Atlantic Ocean		Chappaquiddick
-North Atlantic Ocean		Chincoteague Island
-North Atlantic Ocean		Cobb
-North Atlantic Ocean		Deer Isle
-North Atlantic Ocean		Devils
-North Atlantic Ocean		Dewees
-North Atlantic Ocean		Elliott Key
-North Atlantic Ocean		Fenwick
-North Atlantic Ocean		Fire Island
-North Atlantic Ocean		Fishermans
-North Atlantic Ocean		Flake
-North Atlantic Ocean		Funk
-North Atlantic Ocean		Gannet
-North Atlantic Ocean		Great Cranberry
-North Atlantic Ocean		Great Gull
-North Atlantic Ocean		Great Island
-North Atlantic Ocean		Haddock
-North Atlantic Ocean		Hare
-North Atlantic Ocean		Hartman
-North Atlantic Ocean		Herring
-North Atlantic Ocean		Hog
-North Atlantic Ocean		Hunting
-North Atlantic Ocean		Île-de-Sein
-North Atlantic Ocean		Isle Au Haut
-North Atlantic Ocean		Isle of Palms
-North Atlantic Ocean		Islesboro
-North Atlantic Ocean		Jock
-North Atlantic Ocean		Jupiter
-North Atlantic Ocean		Kimball
-North Atlantic Ocean		Little Black Island
-North Atlantic Ocean		Little Bulls
-North Atlantic Ocean		Long Beach
-North Atlantic Ocean		Long Beach Barrier Island
-North Atlantic Ocean		Long Island
-North Atlantic Ocean		Long Pine Key
-North Atlantic Ocean		Lower Goose
-North Atlantic Ocean		Manticus
-North Atlantic Ocean		Marthas Vineyard
-North Atlantic Ocean		Martha's Vineyard
-North Atlantic Ocean		Merritt
-North Atlantic Ocean		Metompkin
-North Atlantic Ocean		Monhegan
-North Atlantic Ocean		Monomoy
-North Atlantic Ocean		Morris
-North Atlantic Ocean		Mount Desert Island
-North Atlantic Ocean		Mount Desert Rock
-North Atlantic Ocean		Muskeget
-North Atlantic Ocean		Nantucket
-North Atlantic Ocean		Newfoundland
-North Atlantic Ocean		Noirmoutier
-North Atlantic Ocean		Nomans Land
-North Atlantic Ocean		Örfirisey
-North Atlantic Ocean		Orr's
-North Atlantic Ocean		Outer Heron
-North Atlantic Ocean		Paradise Key
-North Atlantic Ocean		Penguin
-North Atlantic Ocean		Plum
-North Atlantic Ocean		Puffin
-North Atlantic Ocean		Ragged
-North Atlantic Ocean		Ram
-North Atlantic Ocean		Red
-North Atlantic Ocean		Roque
-North Atlantic Ocean		Rouge
-North Atlantic Ocean		Round
-North Atlantic Ocean		Seabrook
-North Atlantic Ocean		Seal
-North Atlantic Ocean		Seguin
-North Atlantic Ocean		South Cabot
-North Atlantic Ocean		Spotted
-North Atlantic Ocean		Stage
-North Atlantic Ocean		Sullivans
-North Atlantic Ocean		Swans
-North Atlantic Ocean		Tuckernuck
-North Atlantic Ocean		Tumble Down Dick
-North Atlantic Ocean		Wallops
-North Atlantic Ocean		White Island
-North Atlantic Ocean		Wooden Ball
-North Atlantic Ocean		Wreck
-North Atlantic Ocean	Abaco Cays	Abaco
-North Atlantic Ocean	Ambergris Cays	Big Ambergris Cay
-North Atlantic Ocean	Archipiélago Chinijo	La Graciosa
-North Atlantic Ocean	Archipiélago Chinijo	Montaña Clara
-North Atlantic Ocean	Azores	Corvo
-North Atlantic Ocean	Azores	Faial
-North Atlantic Ocean	Azores	Flores
-North Atlantic Ocean	Azores	Graciosa
-North Atlantic Ocean	Azores	Pico
-North Atlantic Ocean	Azores	Santa Maria
-North Atlantic Ocean	Azores	São Jorge
-North Atlantic Ocean	Azores	São Miguel
-North Atlantic Ocean	Azores	Terceira
-North Atlantic Ocean	Bahamas	Abaco
-North Atlantic Ocean	Bahamas	Acklins
-North Atlantic Ocean	Bahamas	Andros
-North Atlantic Ocean	Bahamas	Atwood Cay
-North Atlantic Ocean	Bahamas	Bimini
-North Atlantic Ocean	Bahamas	Cat Island
-North Atlantic Ocean	Bahamas	Crooked
-North Atlantic Ocean	Bahamas	Elbow Cay
-North Atlantic Ocean	Bahamas	Eleuthera
-North Atlantic Ocean	Bahamas	Fanny Cay
-North Atlantic Ocean	Bahamas	Grand Bahama
-North Atlantic Ocean	Bahamas	Great Exuma
-North Atlantic Ocean	Bahamas	Great Inagua
-North Atlantic Ocean	Bahamas	Great Ragged Island
-North Atlantic Ocean	Bahamas	Highbourne Key
-North Atlantic Ocean	Bahamas	Inagua
-North Atlantic Ocean	Bahamas	Little Inagua
-North Atlantic Ocean	Bahamas	Little San Salvador
-North Atlantic Ocean	Bahamas	Long Island
-North Atlantic Ocean	Bahamas	Mangrove Cay
-North Atlantic Ocean	Bahamas	New Providence
-North Atlantic Ocean	Bahamas	North Andros
-North Atlantic Ocean	Bahamas	Ragged Island
-North Atlantic Ocean	Bahamas	Rum Cay
-North Atlantic Ocean	Bahamas	Samana Cay
-North Atlantic Ocean	Bahamas	San Salvador
-North Atlantic Ocean	Bahamas	Seal Cay
-North Atlantic Ocean	Bahamas	Verd Cay
-North Atlantic Ocean	Bahamas	Washerwoman Key
-North Atlantic Ocean	Barlavento Islands	Boa Vista
-North Atlantic Ocean	Barlavento Islands	Raso
-North Atlantic Ocean	Barlavento Islands	Sal
-North Atlantic Ocean	Barlavento Islands	Santo Antão
-North Atlantic Ocean	Barlavento Islands	São Nicolau
-North Atlantic Ocean	Barlavento Islands	São Vicente
-North Atlantic Ocean	Barrier Islands	Lea-Hutaff
-North Atlantic Ocean	Barrier Islands	Little Sapelo
-North Atlantic Ocean	Barrier Islands	North Topsail
-North Atlantic Ocean	Barrier Islands	Sapelo
-North Atlantic Ocean	Barrier Islands	Topsail
-North Atlantic Ocean	Barrier Islands	Tybee
-North Atlantic Ocean	Barrier Islands	Wolf
-North Atlantic Ocean	Bermuda	Cooper's Island
-North Atlantic Ocean	Bermuda	Ireland Island
-North Atlantic Ocean	Bermuda	Main Island
-North Atlantic Ocean	Bermuda	Nonsuch
-North Atlantic Ocean	Bermuda	Saint David's
-North Atlantic Ocean	Bermuda	Somerset
-North Atlantic Ocean	Bermuda	Swan
-North Atlantic Ocean	Caicos Islands	Long Cay
-North Atlantic Ocean	Caicos Islands	Middle Caicos
-North Atlantic Ocean	Caicos Islands	South Caicos
-North Atlantic Ocean	Core Banks	Portsmouth
-North Atlantic Ocean	Deserta Islands	Deserta Grande Island
-North Atlantic Ocean	Dog Islands	Natsatuk
-North Atlantic Ocean	Florida Keys	Fiesta Key
-North Atlantic Ocean	Florida Keys	Key West
-North Atlantic Ocean	Florida Keys	Matacumbe Key
-North Atlantic Ocean	Ilhas Selvagens	Selvagem Grande
-North Atlantic Ocean	Inner Hebrides	Colonsay
-North Atlantic Ocean	Inner Hebrides	Islay
-North Atlantic Ocean	Inner Hebrides	Isle of Skye
-North Atlantic Ocean	Inner Hebrides	Soa
-North Atlantic Ocean	Islas Canarias	Alegranza
-North Atlantic Ocean	Islas Canarias	El Hierro
-North Atlantic Ocean	Islas Canarias	Fuerteventura
-North Atlantic Ocean	Islas Canarias	Gran Canaria
-North Atlantic Ocean	Islas Canarias	Gran Piton
-North Atlantic Ocean	Islas Canarias	La Gomera
-North Atlantic Ocean	Islas Canarias	Lanzarote
-North Atlantic Ocean	Islas Canarias	Tenerife
-North Atlantic Ocean	Isles of Shoals	Appledore Island
-North Atlantic Ocean	Las Canarias	Tenerife
-North Atlantic Ocean	Lesser Antilles	Dominica
-North Atlantic Ocean	Little Caldwell Islands	Little Caldwell
-North Atlantic Ocean	Lucayan Archipelago	Provodenciales
-North Atlantic Ocean	Madeiras	Porto Santo
-North Atlantic Ocean	Midway Atoll	Eastern Island
-North Atlantic Ocean	Midway Atoll	Sand
-North Atlantic Ocean	Muscle Ridge Islands	Great Pond
-North Atlantic Ocean	Okak Islands	Okak
-North Atlantic Ocean	Outer Banks	Bodie
-North Atlantic Ocean	Outer Banks	Ocracoke
-North Atlantic Ocean	Outer Banks	Pea
-North Atlantic Ocean	Outer Hebrides	Saint Kilda
-North Atlantic Ocean	Ramea Islands	Great Island
-North Atlantic Ocean	Saint Pierre and Miquelon	Miquelon
-North Atlantic Ocean	Saint Pierre and Miquelon	Saint Pierre
-North Atlantic Ocean	Sea Islands	Amelia
-North Atlantic Ocean	Sea Islands	Cat
-North Atlantic Ocean	Sea Islands	Cumberland
-North Atlantic Ocean	Sea Islands	Edisto
-North Atlantic Ocean	Sea Islands	Folly
-North Atlantic Ocean	Sea Islands	Little Cumberland
-North Atlantic Ocean	Sea Islands	Ossabaw
-North Atlantic Ocean	Sea Islands	Saint Catherine
-North Atlantic Ocean	Sea Islands	Saint Catherines
-North Atlantic Ocean	Sea Islands	Saint Helena
-North Atlantic Ocean	Sea Islands	Saint Simon
-North Atlantic Ocean	Sea Islands	Wassaw
-North Atlantic Ocean	Sotavento Islands	Brava
-North Atlantic Ocean	Sotavento Islands	Fogo
-North Atlantic Ocean	Sotavento Islands	Santiago
-North Atlantic Ocean	Turks Islands	Grand Turk
-North Atlantic Ocean	Vestmannaeyjar Islands	Heimaey
-North Atlantic Ocean	Virginia Barrier Islands	Cobb
 North Bay		Goose
-North Pacific Ocean		Alexander
-North Pacific Ocean		Año Nuevo
-North Pacific Ocean		Asunción
-North Pacific Ocean		Bear
-North Pacific Ocean		Bodelteh
-North Pacific Ocean		Carrol
-North Pacific Ocean		Castle
-North Pacific Ocean		Cerralvo
-North Pacific Ocean		Clipperton
-North Pacific Ocean		Cocos
-North Pacific Ocean		Coronado
-North Pacific Ocean		Cortes Bank
-North Pacific Ocean		Destruction
-North Pacific Ocean		Forrester
-North Pacific Ocean		Fox
-North Pacific Ocean		Guadalupe
-North Pacific Ocean		Guadelupe
-North Pacific Ocean		Hope
-North Pacific Ocean		Isabel
-North Pacific Ocean		Isabela
-North Pacific Ocean		Isla del Coco
-North Pacific Ocean		James
-North Pacific Ocean		Kains
-North Pacific Ocean		Magdalena
-North Pacific Ocean		Malpelo
-North Pacific Ocean		Midun
-North Pacific Ocean		Natividad
-North Pacific Ocean		Ozette
-North Pacific Ocean		Palmyra Atoll
-North Pacific Ocean		San Geronimo
-North Pacific Ocean		San Jeronimo
-North Pacific Ocean		San Martín
-North Pacific Ocean		San Roque
-North Pacific Ocean		Santa Margarita
-North Pacific Ocean		Taiwan
-North Pacific Ocean		Triangle
-North Pacific Ocean		Ugaiushak
-North Pacific Ocean		Vancouver
-North Pacific Ocean		Vargas
-North Pacific Ocean		Wake
-North Pacific Ocean		Wickaninnish
-North Pacific Ocean	Ailinglaplap Atoll	Bock
-North Pacific Ocean	Aleutian Islands	Amak
-North Pacific Ocean	Aleutian Islands	Amlia
-North Pacific Ocean	Aleutian Islands	Buldir
-North Pacific Ocean	Aleutian Islands	Deer
-North Pacific Ocean	Aleutian Islands	Poperechnoi
-North Pacific Ocean	Alexander Archilepago	Kupreanof
-North Pacific Ocean	Alexander Archipelago	Admiralty
-North Pacific Ocean	Alexander Archipelago	Baranof
-North Pacific Ocean	Alexander Archipelago	Canyon
-North Pacific Ocean	Alexander Archipelago	Chichagof
-North Pacific Ocean	Alexander Archipelago	Coronation
-North Pacific Ocean	Alexander Archipelago	Dall
-North Pacific Ocean	Alexander Archipelago	Douglas
-North Pacific Ocean	Alexander Archipelago	Etolin
-North Pacific Ocean	Alexander Archipelago	Inian
-North Pacific Ocean	Alexander Archipelago	Kosciusko
-North Pacific Ocean	Alexander Archipelago	Kruzof
-North Pacific Ocean	Alexander Archipelago	Kuiu
-North Pacific Ocean	Alexander Archipelago	Kupreanof
-North Pacific Ocean	Alexander Archipelago	Kupreanoff
-North Pacific Ocean	Alexander Archipelago	Mitkof
-North Pacific Ocean	Alexander Archipelago	Naked Island
-North Pacific Ocean	Alexander Archipelago	Prince of Wales
-North Pacific Ocean	Alexander Archipelago	Saint Lazaria
-North Pacific Ocean	Alexander Archipelago	Wrangell
-North Pacific Ocean	Alexander Archipelago	Yakobi
-North Pacific Ocean	Andreanof Islands	Adak
-North Pacific Ocean	Andreanof Islands	Atka
-North Pacific Ocean	Barren Islands	East Amatuli
-North Pacific Ocean	Barren Islands	West Amatuli
-North Pacific Ocean	Bolkus Islands	Main Bolkus Island
-North Pacific Ocean	Caroline Islands	Angaur
-North Pacific Ocean	Caroline Islands	Auluptagel
-North Pacific Ocean	Caroline Islands	Condor Reef
-North Pacific Ocean	Caroline Islands	Kapingamarangi Atoll
-North Pacific Ocean	Caroline Islands	Koror
-North Pacific Ocean	Caroline Islands	Kosrae
-North Pacific Ocean	Caroline Islands	Lukunor Atoll
-North Pacific Ocean	Caroline Islands	Nukuoro Atoll
-North Pacific Ocean	Caroline Islands	Sanryo
-North Pacific Ocean	Caroline Islands	Ulithi Atoll
-North Pacific Ocean	Channel Islands	Anacapa
-North Pacific Ocean	Channel Islands	San Clemente
-North Pacific Ocean	Channel Islands	San Miguel
-North Pacific Ocean	Channel Islands	San Nicolas
-North Pacific Ocean	Channel Islands	Santa Barbara
-North Pacific Ocean	Channel Islands	Santa Catalina
-North Pacific Ocean	Channel Islands	Santa Cruz
-North Pacific Ocean	Channel Islands	Santa Rosa
-North Pacific Ocean	Chuuk Atoll	Fefan
-North Pacific Ocean	Chuuk Atoll	Weno
-North Pacific Ocean	Commander Islands	Bering
-North Pacific Ocean	Coronados	Coronado Norte
-North Pacific Ocean	Coronados	Coronado Sur
-North Pacific Ocean	Coronados	Pilón de Azúcar
-North Pacific Ocean	Enewetak Atoll	Jinimi
-North Pacific Ocean	Enewetak Atoll	Parry
-North Pacific Ocean	Farallon Islands	Southeast Farallon
-North Pacific Ocean	Farallon Islands	Southeast Farallon Islands
-North Pacific Ocean	Fox Islands	Akatun
-North Pacific Ocean	Fox Islands	Akun
-North Pacific Ocean	Fox Islands	Bogoslof
-North Pacific Ocean	Fox Islands	Egg & Sedanka Islands
-North Pacific Ocean	Fox Islands	Sanak
-North Pacific Ocean	Fox Islands	Umnak
-North Pacific Ocean	Fox Islands	Unalaska
-North Pacific Ocean	French Frigate Shoals	East Island
-North Pacific Ocean	French Frigate Shoals	Little Gin
-North Pacific Ocean	French Frigate Shoals	Tern
-North Pacific Ocean	Haida Gwaii	Charlotte
-North Pacific Ocean	Haida Gwaii	Chatham
-North Pacific Ocean	Haida Gwaii	Cox
-North Pacific Ocean	Haida Gwaii	Coxes
-North Pacific Ocean	Haida Gwaii	East Copper
-North Pacific Ocean	Haida Gwaii	Frederick
-North Pacific Ocean	Haida Gwaii	George
-North Pacific Ocean	Haida Gwaii	Graham
-North Pacific Ocean	Haida Gwaii	Green
-North Pacific Ocean	Haida Gwaii	Gribbell
-North Pacific Ocean	Haida Gwaii	Harrison
-North Pacific Ocean	Haida Gwaii	Hibben
-North Pacific Ocean	Haida Gwaii	Hippa
-North Pacific Ocean	Haida Gwaii	Hotspring
-North Pacific Ocean	Haida Gwaii	Kunga
-North Pacific Ocean	Haida Gwaii	Kunghit
-North Pacific Ocean	Haida Gwaii	Langara
-North Pacific Ocean	Haida Gwaii	Legace
-North Pacific Ocean	Haida Gwaii	Lina
-North Pacific Ocean	Haida Gwaii	Louise
-North Pacific Ocean	Haida Gwaii	Lyell
-North Pacific Ocean	Haida Gwaii	Mackenzie
-North Pacific Ocean	Haida Gwaii	Moresby
-North Pacific Ocean	Haida Gwaii	Morseby
-North Pacific Ocean	Haida Gwaii	North
-North Pacific Ocean	Haida Gwaii	Ogilvie
-North Pacific Ocean	Haida Gwaii	Ramsay
-North Pacific Ocean	Haida Gwaii	Rankine
-North Pacific Ocean	Haida Gwaii	Reef
-North Pacific Ocean	Haida Gwaii	Shag Rock
-North Pacific Ocean	Haida Gwaii	Talunkwan
-North Pacific Ocean	Haida Gwaii	Tanu
-North Pacific Ocean	Haida Gwaii	Wathus
-North Pacific Ocean	Hall Islands	Nomwin Atoll
-North Pacific Ocean	Hawaiian Islands	East Island
-North Pacific Ocean	Hawaiian Islands	Hawaii
-North Pacific Ocean	Hawaiian Islands	Kahoolawe
-North Pacific Ocean	Hawaiian Islands	Kauai
-North Pacific Ocean	Hawaiian Islands	Ka'ula Rock
-North Pacific Ocean	Hawaiian Islands	Lanai
-North Pacific Ocean	Hawaiian Islands	Lehua
-North Pacific Ocean	Hawaiian Islands	Mānana
-North Pacific Ocean	Hawaiian Islands	Maui
-North Pacific Ocean	Hawaiian Islands	Molokai
-North Pacific Ocean	Hawaiian Islands	Molokini
-North Pacific Ocean	Hawaiian Islands	Na Mokulua
-North Pacific Ocean	Hawaiian Islands	Niihau
-North Pacific Ocean	Hawaiian Islands	Oahu
-North Pacific Ocean	Hawaiian Islands	Sand
-North Pacific Ocean	Islands of Four Mountains	Chagulak
-North Pacific Ocean	Islands of Four Mountains	Chuginadak
-North Pacific Ocean	Islands of Four Mountains	Kagamil
-North Pacific Ocean	Islands of Four Mountains	Yunaska
-North Pacific Ocean	Islas Magdalenas	Grosse
-North Pacific Ocean	Islas Marías	Maria Cleofas
-North Pacific Ocean	Islas Marías	María Cleofas
-North Pacific Ocean	Islas Marías	María Madre
-North Pacific Ocean	Islas Marías	María Magdalena
-North Pacific Ocean	Islas Marías	San Juanito
-North Pacific Ocean	Islas Revillagigedo	Clarion
-North Pacific Ocean	Islas Revillagigedo	Clarión
-North Pacific Ocean	Islas Revillagigedo	Roca Partida
-North Pacific Ocean	Islas Revillagigedo	San Benedicto
-North Pacific Ocean	Islas Revillagigedo	Socorro
-North Pacific Ocean	Islas San Benito	Benito del Centro
-North Pacific Ocean	Islas San Benito	Benito del Oeste
-North Pacific Ocean	Japanese Archipelago	Honshu
-North Pacific Ocean	Johnston Atoll	East Island
-North Pacific Ocean	Johnston Atoll	Johnston
-North Pacific Ocean	Johnston Atoll	North Island
-North Pacific Ocean	Johnston Atoll	Sand
-North Pacific Ocean	Kodiak Archipelago	Whale
-North Pacific Ocean	Krenitzin Islands	Aiktak
-North Pacific Ocean	Krenitzin Islands	Avatanak
-North Pacific Ocean	Krenitzin Islands	Tigalda
-North Pacific Ocean	Kure Atoll	Green Island
-North Pacific Ocean	Line Islands	Caroline Atoll
-North Pacific Ocean	Line Islands	Christmas
-North Pacific Ocean	Line Islands	Fanning
-North Pacific Ocean	Line Islands	Kingman Reef
-North Pacific Ocean	Line Islands	Kiritimati Atoll
-North Pacific Ocean	Line Islands	Palmyra Atoll
-North Pacific Ocean	Line Islands	Teraina
-North Pacific Ocean	Marianas	Guam
-North Pacific Ocean	Marianas	Maug
-North Pacific Ocean	Marianas	Saipan
-North Pacific Ocean	Marianas	Tinian
-North Pacific Ocean	Marianas	Verrados
-North Pacific Ocean	Marshall Islands	Ailinglaplap Atoll
-North Pacific Ocean	Marshall Islands	Arno Atoll
-North Pacific Ocean	Marshall Islands	Kio
-North Pacific Ocean	Midway Atoll	Eastern Island
-North Pacific Ocean	Midway Atoll	Midway
-North Pacific Ocean	Midway Atoll	Sand
-North Pacific Ocean	Near Islands	Agattu
-North Pacific Ocean	Near Islands	Attu
-North Pacific Ocean	Nomoi Islands	Satawan Atoll
-North Pacific Ocean	Northwestern Hawaiian Islands	Gardner Pinnacles
-North Pacific Ocean	Northwestern Hawaiian Islands	Kure Atoll
-North Pacific Ocean	Northwestern Hawaiian Islands	La Perouse Pinnacle
-North Pacific Ocean	Northwestern Hawaiian Islands	Ladd Bank
-North Pacific Ocean	Northwestern Hawaiian Islands	Laysan
-North Pacific Ocean	Northwestern Hawaiian Islands	Lisianski
-North Pacific Ocean	Northwestern Hawaiian Islands	Maro Reef
-North Pacific Ocean	Northwestern Hawaiian Islands	Necker
-North Pacific Ocean	Northwestern Hawaiian Islands	Nero Bank
-North Pacific Ocean	Northwestern Hawaiian Islands	Nihoa
-North Pacific Ocean	Northwestern Hawaiian Islands	Pearl And Hermes Reef
-North Pacific Ocean	Northwestern Hawaiian Islands	St. Rogatien Bank
-North Pacific Ocean	Phoenix Islands	Baker
-North Pacific Ocean	Phoenix Islands	Howland
-North Pacific Ocean	Ralik Chain	Enewetak Atoll
-North Pacific Ocean	Rat Islands	Amchitka
-North Pacific Ocean	Rat Islands	Kiska
-North Pacific Ocean	Rat Islands	Little Kiska
-North Pacific Ocean	Rat Islands	Segula
-North Pacific Ocean	Scott Islands	Lanz
-North Pacific Ocean	Senyavin Islands	Pohnpei
-North Pacific Ocean	Shumagin Islands	Big Koninski
-North Pacific Ocean	Shumagin Islands	Big Koniuji
-North Pacific Ocean	Shumagin Islands	Nagai
-North Pacific Ocean	Shumagin Islands	Popof
-North Pacific Ocean	Shumagin Islands	Unga
-North Pacific Ocean	South Farallon Islands	South Farallon
-North Pacific Ocean	Tatoosh Islands	Tatoosh
 North Sea	British Isles	Fair Isle
 North Sea	Farne Islands	Farne Island
 North Sea	Frisian Islands	Texel
@@ -1296,6 +850,452 @@ North Sea	Shetland Islands	Mainland
 North Sea	Shetland Islands	Yell
 North Sea	West Frisian Islands	Schiermonnikoog
 North Sea	West Frisian Islands	Texel
+Northern Atlantic Ocean		Anastasia
+Northern Atlantic Ocean		Anatasia
+Northern Atlantic Ocean		Appledore Island
+Northern Atlantic Ocean		Assateague
+Northern Atlantic Ocean		Block
+Northern Atlantic Ocean		Bogue Banks
+Northern Atlantic Ocean		Boularderie
+Northern Atlantic Ocean		Bulls
+Northern Atlantic Ocean		Cape Breton
+Northern Atlantic Ocean		Cape Sable Island
+Northern Atlantic Ocean		Cedar
+Northern Atlantic Ocean		Cedros
+Northern Atlantic Ocean		Chapel
+Northern Atlantic Ocean		Chappaquiddick
+Northern Atlantic Ocean		Chincoteague Island
+Northern Atlantic Ocean		Cobb
+Northern Atlantic Ocean		Deer Isle
+Northern Atlantic Ocean		Devils
+Northern Atlantic Ocean		Dewees
+Northern Atlantic Ocean		Elliott Key
+Northern Atlantic Ocean		Fenwick
+Northern Atlantic Ocean		Fire Island
+Northern Atlantic Ocean		Fishermans
+Northern Atlantic Ocean		Flake
+Northern Atlantic Ocean		Funk
+Northern Atlantic Ocean		Gannet
+Northern Atlantic Ocean		Great Cranberry
+Northern Atlantic Ocean		Great Gull
+Northern Atlantic Ocean		Great Island
+Northern Atlantic Ocean		Haddock
+Northern Atlantic Ocean		Hare
+Northern Atlantic Ocean		Hartman
+Northern Atlantic Ocean		Herring
+Northern Atlantic Ocean		Hog
+Northern Atlantic Ocean		Hunting
+Northern Atlantic Ocean		Île-de-Sein
+Northern Atlantic Ocean		Isle Au Haut
+Northern Atlantic Ocean		Isle of Palms
+Northern Atlantic Ocean		Islesboro
+Northern Atlantic Ocean		Jock
+Northern Atlantic Ocean		Jupiter
+Northern Atlantic Ocean		Kimball
+Northern Atlantic Ocean		Little Black Island
+Northern Atlantic Ocean		Little Bulls
+Northern Atlantic Ocean		Long Beach
+Northern Atlantic Ocean		Long Beach Barrier Island
+Northern Atlantic Ocean		Long Island
+Northern Atlantic Ocean		Long Pine Key
+Northern Atlantic Ocean		Lower Goose
+Northern Atlantic Ocean		Manticus
+Northern Atlantic Ocean		Marthas Vineyard
+Northern Atlantic Ocean		Martha's Vineyard
+Northern Atlantic Ocean		Merritt
+Northern Atlantic Ocean		Metompkin
+Northern Atlantic Ocean		Monhegan
+Northern Atlantic Ocean		Monomoy
+Northern Atlantic Ocean		Morris
+Northern Atlantic Ocean		Mount Desert Island
+Northern Atlantic Ocean		Mount Desert Rock
+Northern Atlantic Ocean		Muskeget
+Northern Atlantic Ocean		Nantucket
+Northern Atlantic Ocean		Newfoundland
+Northern Atlantic Ocean		Noirmoutier
+Northern Atlantic Ocean		Nomans Land
+Northern Atlantic Ocean		Örfirisey
+Northern Atlantic Ocean		Orr's
+Northern Atlantic Ocean		Outer Heron
+Northern Atlantic Ocean		Paradise Key
+Northern Atlantic Ocean		Penguin
+Northern Atlantic Ocean		Plum
+Northern Atlantic Ocean		Puffin
+Northern Atlantic Ocean		Ragged
+Northern Atlantic Ocean		Ram
+Northern Atlantic Ocean		Red
+Northern Atlantic Ocean		Roque
+Northern Atlantic Ocean		Rouge
+Northern Atlantic Ocean		Round
+Northern Atlantic Ocean		Seabrook
+Northern Atlantic Ocean		Seal
+Northern Atlantic Ocean		Seguin
+Northern Atlantic Ocean		South Cabot
+Northern Atlantic Ocean		Spotted
+Northern Atlantic Ocean		Stage
+Northern Atlantic Ocean		Sullivans
+Northern Atlantic Ocean		Swans
+Northern Atlantic Ocean		Tuckernuck
+Northern Atlantic Ocean		Tumble Down Dick
+Northern Atlantic Ocean		Wallops
+Northern Atlantic Ocean		White Island
+Northern Atlantic Ocean		Wooden Ball
+Northern Atlantic Ocean		Wreck
+Northern Atlantic Ocean	Abaco Cays	Abaco
+Northern Atlantic Ocean	Ambergris Cays	Big Ambergris Cay
+Northern Atlantic Ocean	Archipiélago Chinijo	La Graciosa
+Northern Atlantic Ocean	Archipiélago Chinijo	Montaña Clara
+Northern Atlantic Ocean	Azores	Corvo
+Northern Atlantic Ocean	Azores	Faial
+Northern Atlantic Ocean	Azores	Flores
+Northern Atlantic Ocean	Azores	Graciosa
+Northern Atlantic Ocean	Azores	Pico
+Northern Atlantic Ocean	Azores	Santa Maria
+Northern Atlantic Ocean	Azores	São Jorge
+Northern Atlantic Ocean	Azores	São Miguel
+Northern Atlantic Ocean	Azores	Terceira
+Northern Atlantic Ocean	Bahamas	Abaco
+Northern Atlantic Ocean	Bahamas	Acklins
+Northern Atlantic Ocean	Bahamas	Andros
+Northern Atlantic Ocean	Bahamas	Atwood Cay
+Northern Atlantic Ocean	Bahamas	Bimini
+Northern Atlantic Ocean	Bahamas	Cat Island
+Northern Atlantic Ocean	Bahamas	Crooked
+Northern Atlantic Ocean	Bahamas	Elbow Cay
+Northern Atlantic Ocean	Bahamas	Eleuthera
+Northern Atlantic Ocean	Bahamas	Fanny Cay
+Northern Atlantic Ocean	Bahamas	Grand Bahama
+Northern Atlantic Ocean	Bahamas	Great Exuma
+Northern Atlantic Ocean	Bahamas	Great Inagua
+Northern Atlantic Ocean	Bahamas	Great Ragged Island
+Northern Atlantic Ocean	Bahamas	Highbourne Key
+Northern Atlantic Ocean	Bahamas	Inagua
+Northern Atlantic Ocean	Bahamas	Little Inagua
+Northern Atlantic Ocean	Bahamas	Little San Salvador
+Northern Atlantic Ocean	Bahamas	Long Island
+Northern Atlantic Ocean	Bahamas	Mangrove Cay
+Northern Atlantic Ocean	Bahamas	New Providence
+Northern Atlantic Ocean	Bahamas	North Andros
+Northern Atlantic Ocean	Bahamas	Ragged Island
+Northern Atlantic Ocean	Bahamas	Rum Cay
+Northern Atlantic Ocean	Bahamas	Samana Cay
+Northern Atlantic Ocean	Bahamas	San Salvador
+Northern Atlantic Ocean	Bahamas	Seal Cay
+Northern Atlantic Ocean	Bahamas	Verd Cay
+Northern Atlantic Ocean	Bahamas	Washerwoman Key
+Northern Atlantic Ocean	Barlavento Islands	Boa Vista
+Northern Atlantic Ocean	Barlavento Islands	Raso
+Northern Atlantic Ocean	Barlavento Islands	Sal
+Northern Atlantic Ocean	Barlavento Islands	Santo Antão
+Northern Atlantic Ocean	Barlavento Islands	São Nicolau
+Northern Atlantic Ocean	Barlavento Islands	São Vicente
+Northern Atlantic Ocean	Barrier Islands	Lea-Hutaff
+Northern Atlantic Ocean	Barrier Islands	Little Sapelo
+Northern Atlantic Ocean	Barrier Islands	North Topsail
+Northern Atlantic Ocean	Barrier Islands	Sapelo
+Northern Atlantic Ocean	Barrier Islands	Topsail
+Northern Atlantic Ocean	Barrier Islands	Tybee
+Northern Atlantic Ocean	Barrier Islands	Wolf
+Northern Atlantic Ocean	Bermuda	Cooper's Island
+Northern Atlantic Ocean	Bermuda	Ireland Island
+Northern Atlantic Ocean	Bermuda	Main Island
+Northern Atlantic Ocean	Bermuda	Nonsuch
+Northern Atlantic Ocean	Bermuda	Saint David's
+Northern Atlantic Ocean	Bermuda	Somerset
+Northern Atlantic Ocean	Bermuda	Swan
+Northern Atlantic Ocean	Caicos Islands	Long Cay
+Northern Atlantic Ocean	Caicos Islands	Middle Caicos
+Northern Atlantic Ocean	Caicos Islands	South Caicos
+Northern Atlantic Ocean	Core Banks	Portsmouth
+Northern Atlantic Ocean	Deserta Islands	Deserta Grande Island
+Northern Atlantic Ocean	Dog Islands	Natsatuk
+Northern Atlantic Ocean	Florida Keys	Fiesta Key
+Northern Atlantic Ocean	Florida Keys	Key West
+Northern Atlantic Ocean	Florida Keys	Matacumbe Key
+Northern Atlantic Ocean	Ilhas Selvagens	Selvagem Grande
+Northern Atlantic Ocean	Inner Hebrides	Colonsay
+Northern Atlantic Ocean	Inner Hebrides	Islay
+Northern Atlantic Ocean	Inner Hebrides	Isle of Skye
+Northern Atlantic Ocean	Inner Hebrides	Soa
+Northern Atlantic Ocean	Islas Canarias	Alegranza
+Northern Atlantic Ocean	Islas Canarias	El Hierro
+Northern Atlantic Ocean	Islas Canarias	Fuerteventura
+Northern Atlantic Ocean	Islas Canarias	Gran Canaria
+Northern Atlantic Ocean	Islas Canarias	Gran Piton
+Northern Atlantic Ocean	Islas Canarias	La Gomera
+Northern Atlantic Ocean	Islas Canarias	Lanzarote
+Northern Atlantic Ocean	Islas Canarias	Tenerife
+Northern Atlantic Ocean	Isles of Shoals	Appledore Island
+Northern Atlantic Ocean	Las Canarias	Tenerife
+Northern Atlantic Ocean	Lesser Antilles	Dominica
+Northern Atlantic Ocean	Little Caldwell Islands	Little Caldwell
+Northern Atlantic Ocean	Lucayan Archipelago	Provodenciales
+Northern Atlantic Ocean	Madeiras	Porto Santo
+Northern Atlantic Ocean	Midway Atoll	Eastern Island
+Northern Atlantic Ocean	Midway Atoll	Sand
+Northern Atlantic Ocean	Muscle Ridge Islands	Great Pond
+Northern Atlantic Ocean	Okak Islands	Okak
+Northern Atlantic Ocean	Outer Banks	Bodie
+Northern Atlantic Ocean	Outer Banks	Ocracoke
+Northern Atlantic Ocean	Outer Banks	Pea
+Northern Atlantic Ocean	Outer Hebrides	Saint Kilda
+Northern Atlantic Ocean	Ramea Islands	Great Island
+Northern Atlantic Ocean	Saint Pierre and Miquelon	Miquelon
+Northern Atlantic Ocean	Saint Pierre and Miquelon	Saint Pierre
+Northern Atlantic Ocean	Sea Islands	Amelia
+Northern Atlantic Ocean	Sea Islands	Cat
+Northern Atlantic Ocean	Sea Islands	Cumberland
+Northern Atlantic Ocean	Sea Islands	Edisto
+Northern Atlantic Ocean	Sea Islands	Folly
+Northern Atlantic Ocean	Sea Islands	Little Cumberland
+Northern Atlantic Ocean	Sea Islands	Ossabaw
+Northern Atlantic Ocean	Sea Islands	Saint Catherine
+Northern Atlantic Ocean	Sea Islands	Saint Catherines
+Northern Atlantic Ocean	Sea Islands	Saint Helena
+Northern Atlantic Ocean	Sea Islands	Saint Simon
+Northern Atlantic Ocean	Sea Islands	Wassaw
+Northern Atlantic Ocean	Sotavento Islands	Brava
+Northern Atlantic Ocean	Sotavento Islands	Fogo
+Northern Atlantic Ocean	Sotavento Islands	Santiago
+Northern Atlantic Ocean	Turks Islands	Grand Turk
+Northern Atlantic Ocean	Vestmannaeyjar Islands	Heimaey
+Northern Atlantic Ocean	Virginia Barrier Islands	Cobb
+Northern Pacific Ocean		Alexander
+Northern Pacific Ocean		Año Nuevo
+Northern Pacific Ocean		Asunción
+Northern Pacific Ocean		Bear
+Northern Pacific Ocean		Bodelteh
+Northern Pacific Ocean		Carrol
+Northern Pacific Ocean		Castle
+Northern Pacific Ocean		Cerralvo
+Northern Pacific Ocean		Clipperton
+Northern Pacific Ocean		Cocos
+Northern Pacific Ocean		Coronado
+Northern Pacific Ocean		Cortes Bank
+Northern Pacific Ocean		Destruction
+Northern Pacific Ocean		Forrester
+Northern Pacific Ocean		Fox
+Northern Pacific Ocean		Guadalupe
+Northern Pacific Ocean		Guadelupe
+Northern Pacific Ocean		Hope
+Northern Pacific Ocean		Isabel
+Northern Pacific Ocean		Isabela
+Northern Pacific Ocean		Isla del Coco
+Northern Pacific Ocean		James
+Northern Pacific Ocean		Kains
+Northern Pacific Ocean		Magdalena
+Northern Pacific Ocean		Malpelo
+Northern Pacific Ocean		Midun
+Northern Pacific Ocean		Natividad
+Northern Pacific Ocean		Ozette
+Northern Pacific Ocean		Palmyra Atoll
+Northern Pacific Ocean		Rocas Alijos
+Northern Pacific Ocean		San Geronimo
+Northern Pacific Ocean		San Jeronimo
+Northern Pacific Ocean		San Martín
+Northern Pacific Ocean		San Roque
+Northern Pacific Ocean		Santa Margarita
+Northern Pacific Ocean		Taiwan
+Northern Pacific Ocean		Triangle
+Northern Pacific Ocean		Ugaiushak
+Northern Pacific Ocean		Vancouver
+Northern Pacific Ocean		Vargas
+Northern Pacific Ocean		Wake
+Northern Pacific Ocean		Wickaninnish
+Northern Pacific Ocean	Ailinglaplap Atoll	Bock
+Northern Pacific Ocean	Aleutian Islands	Amak
+Northern Pacific Ocean	Aleutian Islands	Amlia
+Northern Pacific Ocean	Aleutian Islands	Buldir
+Northern Pacific Ocean	Aleutian Islands	Deer
+Northern Pacific Ocean	Aleutian Islands	Poperechnoi
+Northern Pacific Ocean	Alexander Archilepago	Kupreanof
+Northern Pacific Ocean	Alexander Archipelago	Admiralty
+Northern Pacific Ocean	Alexander Archipelago	Baranof
+Northern Pacific Ocean	Alexander Archipelago	Canyon
+Northern Pacific Ocean	Alexander Archipelago	Chichagof
+Northern Pacific Ocean	Alexander Archipelago	Coronation
+Northern Pacific Ocean	Alexander Archipelago	Dall
+Northern Pacific Ocean	Alexander Archipelago	Douglas
+Northern Pacific Ocean	Alexander Archipelago	Etolin
+Northern Pacific Ocean	Alexander Archipelago	Inian
+Northern Pacific Ocean	Alexander Archipelago	Kosciusko
+Northern Pacific Ocean	Alexander Archipelago	Kruzof
+Northern Pacific Ocean	Alexander Archipelago	Kuiu
+Northern Pacific Ocean	Alexander Archipelago	Kupreanof
+Northern Pacific Ocean	Alexander Archipelago	Kupreanoff
+Northern Pacific Ocean	Alexander Archipelago	Mitkof
+Northern Pacific Ocean	Alexander Archipelago	Naked Island
+Northern Pacific Ocean	Alexander Archipelago	Prince of Wales
+Northern Pacific Ocean	Alexander Archipelago	Saint Lazaria
+Northern Pacific Ocean	Alexander Archipelago	Wrangell
+Northern Pacific Ocean	Alexander Archipelago	Yakobi
+Northern Pacific Ocean	Andreanof Islands	Adak
+Northern Pacific Ocean	Andreanof Islands	Atka
+Northern Pacific Ocean	Barren Islands	East Amatuli
+Northern Pacific Ocean	Barren Islands	West Amatuli
+Northern Pacific Ocean	Bolkus Islands	Main Bolkus Island
+Northern Pacific Ocean	Caroline Islands	Angaur
+Northern Pacific Ocean	Caroline Islands	Auluptagel
+Northern Pacific Ocean	Caroline Islands	Condor Reef
+Northern Pacific Ocean	Caroline Islands	Kapingamarangi Atoll
+Northern Pacific Ocean	Caroline Islands	Koror
+Northern Pacific Ocean	Caroline Islands	Kosrae
+Northern Pacific Ocean	Caroline Islands	Lukunor Atoll
+Northern Pacific Ocean	Caroline Islands	Nukuoro Atoll
+Northern Pacific Ocean	Caroline Islands	Sanryo
+Northern Pacific Ocean	Caroline Islands	Ulithi Atoll
+Northern Pacific Ocean	Channel Islands	Anacapa
+Northern Pacific Ocean	Channel Islands	San Clemente
+Northern Pacific Ocean	Channel Islands	San Miguel
+Northern Pacific Ocean	Channel Islands	San Nicolas
+Northern Pacific Ocean	Channel Islands	Santa Barbara
+Northern Pacific Ocean	Channel Islands	Santa Catalina
+Northern Pacific Ocean	Channel Islands	Santa Cruz
+Northern Pacific Ocean	Channel Islands	Santa Rosa
+Northern Pacific Ocean	Chuuk Atoll	Fefan
+Northern Pacific Ocean	Chuuk Atoll	Weno
+Northern Pacific Ocean	Commander Islands	Bering
+Northern Pacific Ocean	Coronados	Coronado Norte
+Northern Pacific Ocean	Coronados	Coronado Sur
+Northern Pacific Ocean	Coronados	Pilón de Azúcar
+Northern Pacific Ocean	Enewetak Atoll	Jinimi
+Northern Pacific Ocean	Enewetak Atoll	Parry
+Northern Pacific Ocean	Farallon Islands	Southeast Farallon
+Northern Pacific Ocean	Farallon Islands	Southeast Farallon Islands
+Northern Pacific Ocean	Fox Islands	Akatun
+Northern Pacific Ocean	Fox Islands	Akun
+Northern Pacific Ocean	Fox Islands	Bogoslof
+Northern Pacific Ocean	Fox Islands	Egg & Sedanka Islands
+Northern Pacific Ocean	Fox Islands	Sanak
+Northern Pacific Ocean	Fox Islands	Umnak
+Northern Pacific Ocean	Fox Islands	Unalaska
+Northern Pacific Ocean	French Frigate Shoals	East Island
+Northern Pacific Ocean	French Frigate Shoals	Little Gin
+Northern Pacific Ocean	French Frigate Shoals	Tern
+Northern Pacific Ocean	Haida Gwaii	Charlotte
+Northern Pacific Ocean	Haida Gwaii	Chatham
+Northern Pacific Ocean	Haida Gwaii	Cox
+Northern Pacific Ocean	Haida Gwaii	Coxes
+Northern Pacific Ocean	Haida Gwaii	East Copper
+Northern Pacific Ocean	Haida Gwaii	Frederick
+Northern Pacific Ocean	Haida Gwaii	George
+Northern Pacific Ocean	Haida Gwaii	Graham
+Northern Pacific Ocean	Haida Gwaii	Green
+Northern Pacific Ocean	Haida Gwaii	Gribbell
+Northern Pacific Ocean	Haida Gwaii	Harrison
+Northern Pacific Ocean	Haida Gwaii	Hibben
+Northern Pacific Ocean	Haida Gwaii	Hippa
+Northern Pacific Ocean	Haida Gwaii	Hotspring
+Northern Pacific Ocean	Haida Gwaii	Kunga
+Northern Pacific Ocean	Haida Gwaii	Kunghit
+Northern Pacific Ocean	Haida Gwaii	Langara
+Northern Pacific Ocean	Haida Gwaii	Legace
+Northern Pacific Ocean	Haida Gwaii	Lina
+Northern Pacific Ocean	Haida Gwaii	Louise
+Northern Pacific Ocean	Haida Gwaii	Lyell
+Northern Pacific Ocean	Haida Gwaii	Mackenzie
+Northern Pacific Ocean	Haida Gwaii	Moresby
+Northern Pacific Ocean	Haida Gwaii	Morseby
+Northern Pacific Ocean	Haida Gwaii	North
+Northern Pacific Ocean	Haida Gwaii	Ogilvie
+Northern Pacific Ocean	Haida Gwaii	Ramsay
+Northern Pacific Ocean	Haida Gwaii	Rankine
+Northern Pacific Ocean	Haida Gwaii	Reef
+Northern Pacific Ocean	Haida Gwaii	Shag Rock
+Northern Pacific Ocean	Haida Gwaii	Talunkwan
+Northern Pacific Ocean	Haida Gwaii	Tanu
+Northern Pacific Ocean	Haida Gwaii	Wathus
+Northern Pacific Ocean	Hall Islands	Nomwin Atoll
+Northern Pacific Ocean	Hawaiian Islands	East Island
+Northern Pacific Ocean	Hawaiian Islands	Hawaii
+Northern Pacific Ocean	Hawaiian Islands	Kahoolawe
+Northern Pacific Ocean	Hawaiian Islands	Kauai
+Northern Pacific Ocean	Hawaiian Islands	Ka'ula Rock
+Northern Pacific Ocean	Hawaiian Islands	Lanai
+Northern Pacific Ocean	Hawaiian Islands	Lehua
+Northern Pacific Ocean	Hawaiian Islands	Mānana
+Northern Pacific Ocean	Hawaiian Islands	Maui
+Northern Pacific Ocean	Hawaiian Islands	Molokai
+Northern Pacific Ocean	Hawaiian Islands	Molokini
+Northern Pacific Ocean	Hawaiian Islands	Na Mokulua
+Northern Pacific Ocean	Hawaiian Islands	Niihau
+Northern Pacific Ocean	Hawaiian Islands	Oahu
+Northern Pacific Ocean	Hawaiian Islands	Sand
+Northern Pacific Ocean	Islands of Four Mountains	Chagulak
+Northern Pacific Ocean	Islands of Four Mountains	Chuginadak
+Northern Pacific Ocean	Islands of Four Mountains	Kagamil
+Northern Pacific Ocean	Islands of Four Mountains	Yunaska
+Northern Pacific Ocean	Islas Magdalenas	Grosse
+Northern Pacific Ocean	Islas Marías	Maria Cleofas
+Northern Pacific Ocean	Islas Marías	María Cleofas
+Northern Pacific Ocean	Islas Marías	María Madre
+Northern Pacific Ocean	Islas Marías	María Magdalena
+Northern Pacific Ocean	Islas Marías	San Juanito
+Northern Pacific Ocean	Islas Revillagigedo	Clarion
+Northern Pacific Ocean	Islas Revillagigedo	Clarión
+Northern Pacific Ocean	Islas Revillagigedo	Roca Partida
+Northern Pacific Ocean	Islas Revillagigedo	San Benedicto
+Northern Pacific Ocean	Islas Revillagigedo	Socorro
+Northern Pacific Ocean	Islas San Benito	Benito del Centro
+Northern Pacific Ocean	Islas San Benito	Benito del Oeste
+Northern Pacific Ocean	Japanese Archipelago	Honshu
+Northern Pacific Ocean	Johnston Atoll	East Island
+Northern Pacific Ocean	Johnston Atoll	Johnston
+Northern Pacific Ocean	Johnston Atoll	North Island
+Northern Pacific Ocean	Johnston Atoll	Sand
+Northern Pacific Ocean	Kodiak Archipelago	Whale
+Northern Pacific Ocean	Krenitzin Islands	Aiktak
+Northern Pacific Ocean	Krenitzin Islands	Avatanak
+Northern Pacific Ocean	Krenitzin Islands	Tigalda
+Northern Pacific Ocean	Kure Atoll	Green Island
+Northern Pacific Ocean	Line Islands	Christmas
+Northern Pacific Ocean	Line Islands	Fanning
+Northern Pacific Ocean	Line Islands	Kingman Reef
+Northern Pacific Ocean	Line Islands	Kiritimati Atoll
+Northern Pacific Ocean	Line Islands	Palmyra Atoll
+Northern Pacific Ocean	Line Islands	Teraina
+Northern Pacific Ocean	Marianas	Guam
+Northern Pacific Ocean	Marianas	Maug
+Northern Pacific Ocean	Marianas	Saipan
+Northern Pacific Ocean	Marianas	Tinian
+Northern Pacific Ocean	Marianas	Verrados
+Northern Pacific Ocean	Marshall Islands	Ailinglaplap Atoll
+Northern Pacific Ocean	Marshall Islands	Arno Atoll
+Northern Pacific Ocean	Marshall Islands	Kio
+Northern Pacific Ocean	Midway Atoll	Eastern Island
+Northern Pacific Ocean	Midway Atoll	Midway
+Northern Pacific Ocean	Midway Atoll	Sand
+Northern Pacific Ocean	Near Islands	Agattu
+Northern Pacific Ocean	Near Islands	Attu
+Northern Pacific Ocean	Nomoi Islands	Satawan Atoll
+Northern Pacific Ocean	Northwestern Hawaiian Islands	Gardner Pinnacles
+Northern Pacific Ocean	Northwestern Hawaiian Islands	Kure Atoll
+Northern Pacific Ocean	Northwestern Hawaiian Islands	La Perouse Pinnacle
+Northern Pacific Ocean	Northwestern Hawaiian Islands	Ladd Bank
+Northern Pacific Ocean	Northwestern Hawaiian Islands	Laysan
+Northern Pacific Ocean	Northwestern Hawaiian Islands	Lisianski
+Northern Pacific Ocean	Northwestern Hawaiian Islands	Maro Reef
+Northern Pacific Ocean	Northwestern Hawaiian Islands	Necker
+Northern Pacific Ocean	Northwestern Hawaiian Islands	Nero Bank
+Northern Pacific Ocean	Northwestern Hawaiian Islands	Nihoa
+Northern Pacific Ocean	Northwestern Hawaiian Islands	Pearl And Hermes Reef
+Northern Pacific Ocean	Northwestern Hawaiian Islands	St. Rogatien Bank
+Northern Pacific Ocean	Phoenix Islands	Baker
+Northern Pacific Ocean	Phoenix Islands	Howland
+Northern Pacific Ocean	Ralik Chain	Enewetak Atoll
+Northern Pacific Ocean	Rat Islands	Amchitka
+Northern Pacific Ocean	Rat Islands	Kiska
+Northern Pacific Ocean	Rat Islands	Little Kiska
+Northern Pacific Ocean	Rat Islands	Segula
+Northern Pacific Ocean	Scott Islands	Lanz
+Northern Pacific Ocean	Senyavin Islands	Pohnpei
+Northern Pacific Ocean	Shumagin Islands	Big Koninski
+Northern Pacific Ocean	Shumagin Islands	Big Koniuji
+Northern Pacific Ocean	Shumagin Islands	Nagai
+Northern Pacific Ocean	Shumagin Islands	Popof
+Northern Pacific Ocean	Shumagin Islands	Unga
+Northern Pacific Ocean	South Farallon Islands	South Farallon
+Northern Pacific Ocean	Tatoosh Islands	Tatoosh
 Northwest Passages		Jenny Lind
 Norwegian Sea	Faroe Islands	Suðuroy
 Nuka Bay		Nuka
@@ -1456,169 +1456,40 @@ Snake River		Nielson
 Snake River		Penawawa
 Snohomish River		Spencer
 Somes Sound		Bar
-South Atlantic Ocean		Ascencion
-South Atlantic Ocean		Ascension
-South Atlantic Ocean		Isla de Lobos
-South Atlantic Ocean		Saint Helana
-South Atlantic Ocean		Saint Helena
-South Atlantic Ocean		Shark Island
-South Atlantic Ocean	Arquipélago de Trindade e Martim Vaz	Trindade
-South Atlantic Ocean	Arquipélago Fernando de Noronha	Booby
-South Atlantic Ocean	Arquipélago Trindade e Martim Vaz	Trindade
-South Atlantic Ocean	Falkland Islands	Coffin
-South Atlantic Ocean	Falkland Islands	East Falkland
-South Atlantic Ocean	Falkland Islands	Kidney
-South Atlantic Ocean	Falkland Islands	New
-South Atlantic Ocean	Falkland Islands	Pebble
-South Atlantic Ocean	Falkland Islands	Saunders
-South Atlantic Ocean	Falkland Islands	South Jason
-South Atlantic Ocean	Falkland Islands	Weddell
-South Atlantic Ocean	Falkland Islands	West Falkland
-South Atlantic Ocean	Ilhabela	São Sebastião
-South Atlantic Ocean	Jason Islands	Steeple Jason
-South Atlantic Ocean	South Georgia Islands	Annenkov
-South Atlantic Ocean	South Georgia Islands	Bird Island
-South Atlantic Ocean	South Georgia Islands	South Georgia
-South Atlantic Ocean	Tristan da Cunha	Gough
-South Atlantic Ocean	Tristan da Cunha Islands	Gough
-South Atlantic Ocean	Tristan da Cunha Islands	Inaccessible Island
-South Atlantic Ocean	Tristan da Cunha Islands	Inacessible Island
-South Atlantic Ocean	Tristan da Cunha Islands	Nightingale
 South China Sea		Besar
 South China Sea		Tioman
 South China Sea	Greater Sunda Islands	Borneo
 South China Sea	Greater Sunda Islands	Java
 South China Sea	Greater Sunda Islands	Labuan
 South China Sea	Greater Sunda Islands	Muara
-South China Sea	Indonesian Archipelago	Borneo
-South Pacific Ocean		Asia
-South Pacific Ocean		Broughton
-South Pacific Ocean		Isla de Pascua
-South Pacific Ocean		Islet S of Noumea
-South Pacific Ocean		Lobos de Tierra
-South Pacific Ocean		Macquarie
-South Pacific Ocean		Malpelo
-South Pacific Ocean		Mocha
-South Pacific Ocean		Nauru
-South Pacific Ocean		New Guinea
-South Pacific Ocean		Niue
-South Pacific Ocean		Norfolk
-South Pacific Ocean		North Island
-South Pacific Ocean		San Gallán
-South Pacific Ocean		South Island
-South Pacific Ocean		Tasmania
-South Pacific Ocean	Admiralty Islands	Manus
-South Pacific Ocean	Aleipata Islands	Nu'ulua
-South Pacific Ocean	Archipiélago de Chiloé	Isla Grande de Chiloé
-South Pacific Ocean	Archipiélago de Tierra del Fuego	Isla de Hornos
-South Pacific Ocean	Archipiélago de Tierra del Fuego	Navarino
-South Pacific Ocean	Chatham Islands	Chatham
-South Pacific Ocean	Chatham Islands	Star Keys
-South Pacific Ocean	Chincha	Central
-South Pacific Ocean	Chincha	Norte Chincha
-South Pacific Ocean	Cook Islands	Mangaia
-South Pacific Ocean	Cook Islands	Penrhyn Atoll
-South Pacific Ocean	Cook Islands	Suwarrow
-South Pacific Ocean	D'Entrecasteaux Islands	Fergusson
-South Pacific Ocean	Fiji	Vanua Levu
-South Pacific Ocean	Great Barrier Reef	Bett Reef
-South Pacific Ocean	Great Barrier Reef	Endeavour Reef
-South Pacific Ocean	Great Barrier Reef	Flynn Reef
-South Pacific Ocean	Great Barrier Reef	Great Barrier Reef
-South Pacific Ocean	Great Barrier Reef	Green
-South Pacific Ocean	Great Barrier Reef	Heron
-South Pacific Ocean	Great Barrier Reef	Hook
-South Pacific Ocean	Great Barrier Reef	Linnet Reef
-South Pacific Ocean	Great Barrier Reef	Lizard
-South Pacific Ocean	Great Barrier Reef	Low Isles
-South Pacific Ocean	Great Barrier Reef	Michaelmas Cay
-South Pacific Ocean	Great Barrier Reef	One Tree
-South Pacific Ocean	Great Barrier Reef	Pixie Reef
-South Pacific Ocean	Great Barrier Reef	Wistari Reef
-South Pacific Ocean	Great Barrier Reef	Yonge Reef
-South Pacific Ocean	Hoorn Islands	Futuna
-South Pacific Ocean	Islas de los Desventurados	San Félix
-South Pacific Ocean	Kadavu	Kadavu
-South Pacific Ocean	Kadavu Group	Kadavu
-South Pacific Ocean	Lau Archipelago	Fulaga
-South Pacific Ocean	Lau Archipelago	Mago
-South Pacific Ocean	Lau Archipelago	Ogea Levu
-South Pacific Ocean	Lau Archipelago	Olorua
-South Pacific Ocean	Lau Archipelago	Ono-i-Lau
-South Pacific Ocean	Lau Archipelago	Tavunasithi
-South Pacific Ocean	Lau Archipelago	Vatoa
-South Pacific Ocean	Lau Archipelago	Wangava
-South Pacific Ocean	Line Islands	Caroline Atoll
-South Pacific Ocean	Line Islands	Jarvis
-South Pacific Ocean	Line Islands	Malden
-South Pacific Ocean	Line Islands	Starbuck
-South Pacific Ocean	Lomaiviti Archipelago	Koro
-South Pacific Ocean	Lomaiviti Archipelago	Ovalau
-South Pacific Ocean	Loyalty Islands	Lifou
-South Pacific Ocean	Loyalty Islands	Mare
-South Pacific Ocean	Loyalty Islands	Ouvéa
-South Pacific Ocean	Malay Archipelago	New Guinea
-South Pacific Ocean	Mamanuca Islands	Kadavulailai
-South Pacific Ocean	Mamanuca Islands	Vanua Levu
-South Pacific Ocean	Mamanuca Islands	Yanuya
-South Pacific Ocean	Manu'a Islands	Ofu
-South Pacific Ocean	Manu'a Islands	Ta'u
-South Pacific Ocean	Marquesas Islands	Clark Bank
-South Pacific Ocean	Marquesas Islands	Eiao
-South Pacific Ocean	Marquesas Islands	Fatuhiva
-South Pacific Ocean	Marquesas Islands	Hatutaa
-South Pacific Ocean	Marquesas Islands	Hivaoa
-South Pacific Ocean	Marquesas Islands	Marquesas Islands
-South Pacific Ocean	Marquesas Islands	Nukuhiva
-South Pacific Ocean	Marquesas Islands	Tahuata Island
-South Pacific Ocean	Marquesas Islands	Ua Huka
-South Pacific Ocean	Marquesas Islands	Ua Pau
-South Pacific Ocean	Marquesas Islands	Uahuka
-South Pacific Ocean	Marquesas Islands	Uapou
-South Pacific Ocean	Moala Islands	Moala
-South Pacific Ocean	New Caledonia	Balabio
-South Pacific Ocean	New Caledonia	Grand Terre
-South Pacific Ocean	New Caledonia	Neba
-South Pacific Ocean	New Zealand	South Island
-South Pacific Ocean	Nggela Islands	Little Florida Island
-South Pacific Ocean	Nggela Islands	Nggela Sule
-South Pacific Ocean	Paumotus	Henderson
-South Pacific Ocean	Phoenix Islands	Birnie
-South Pacific Ocean	Phoenix Islands	Orona
-South Pacific Ocean	Pitcairn Islands	Ducie
-South Pacific Ocean	Pitcairn Islands	Henderson
-South Pacific Ocean	Pitcairn Islands	Oeno
-South Pacific Ocean	Pitcairn Islands	Pitcairn
-South Pacific Ocean	Rennell Islands	Rennell
-South Pacific Ocean	Ringgold Isles	Nanuku Levu
-South Pacific Ocean	Rotuma	Rotuma
-South Pacific Ocean	Russell Islands	Hoi
-South Pacific Ocean	Samoan Islands	Aunu'u
-South Pacific Ocean	Samoan Islands	Nu'ulua
-South Pacific Ocean	Samoan Islands	Rose Atoll
-South Pacific Ocean	Samoan Islands	Savai'i
-South Pacific Ocean	Samoan Islands	Ta‘ū
-South Pacific Ocean	Samoan Islands	Tutuila
-South Pacific Ocean	Samoan Islands	Upolu
-South Pacific Ocean	Santa Cruz Islands	Vanikoro
-South Pacific Ocean	Shortland Islands	Fauro
-South Pacific Ocean	Solomon Islands	Bougainville
-South Pacific Ocean	Solomon Islands	Choiseul
-South Pacific Ocean	Solomon Islands	Guadalcanal
-South Pacific Ocean	Solomon Islands	Makira
-South Pacific Ocean	Solomon Islands	Malaupaina
-South Pacific Ocean	Solomon Islands	New Georgia
-South Pacific Ocean	Tokelau	Tokelau
-South Pacific Ocean	Tonga Islands	Haareva Island
-South Pacific Ocean	Tonga Islands	Tokū
-South Pacific Ocean	Tuamotu Archipelago	Tepoto
-South Pacific Ocean	Tuamotu Archipelago	Vanavana
-South Pacific Ocean	Vanuatu	Efate
-South Pacific Ocean	Vanuatu	Paama
-South Pacific Ocean	Viti Levu	Vatulele
-South Pacific Ocean	Viti Levu	Viti Levu
-South Pacific Ocean	Wallis Islands	Uvea
-South Pacific Ocean	Wallis Islands	Wallis
+Southern Atlantic Ocean		Ascencion
+Southern Atlantic Ocean		Ascension
+Southern Atlantic Ocean		Isla de Lobos
+Southern Atlantic Ocean		Saint Helana
+Southern Atlantic Ocean		Saint Helena
+Southern Atlantic Ocean		Shark Island
+Southern Atlantic Ocean	Arquipélago de Trindade e Martim Vaz	Trindade
+Southern Atlantic Ocean	Arquipélago Fernando de Noronha	Booby
+Southern Atlantic Ocean	Arquipélago Trindade e Martim Vaz	Trindade
+Southern Atlantic Ocean	Falkland Islands	Coffin
+Southern Atlantic Ocean	Falkland Islands	East Falkland
+Southern Atlantic Ocean	Falkland Islands	Kidney
+Southern Atlantic Ocean	Falkland Islands	New
+Southern Atlantic Ocean	Falkland Islands	Pebble
+Southern Atlantic Ocean	Falkland Islands	Saunders
+Southern Atlantic Ocean	Falkland Islands	South Jason
+Southern Atlantic Ocean	Falkland Islands	Weddell
+Southern Atlantic Ocean	Falkland Islands	West Falkland
+Southern Atlantic Ocean	Ilhabela	São Sebastião
+Southern Atlantic Ocean	Jason Islands	Steeple Jason
+Southern Atlantic Ocean	South Georgia Islands	Annenkov
+Southern Atlantic Ocean	South Georgia Islands	Bird Island
+Southern Atlantic Ocean	South Georgia Islands	South Georgia
+Southern Atlantic Ocean	Tristan da Cunha	Gough
+Southern Atlantic Ocean	Tristan da Cunha Islands	Gough
+Southern Atlantic Ocean	Tristan da Cunha Islands	Inaccessible Island
+Southern Atlantic Ocean	Tristan da Cunha Islands	Inacessible Island
+Southern Atlantic Ocean	Tristan da Cunha Islands	Nightingale
 Southern Ocean		Petermann Island
 Southern Ocean		Seymour
 Southern Ocean	Archipel des Kerguelen	Kerguelen
@@ -1645,6 +1516,138 @@ Southern Ocean	South Shetland Islands	Nelson
 Southern Ocean	South Shetland Islands	Roberts
 Southern Ocean	South Shetland Islands	Smith
 Southern Ocean	South Shetland Islands	South Shetland
+Southern Pacific Ocean		Asia
+Southern Pacific Ocean		Broughton
+Southern Pacific Ocean		Isla de Pascua
+Southern Pacific Ocean		Islet S of Noumea
+Southern Pacific Ocean		Lobos de Tierra
+Southern Pacific Ocean		Macquarie
+Southern Pacific Ocean		Malpelo
+Southern Pacific Ocean		Mocha
+Southern Pacific Ocean		Nauru
+Southern Pacific Ocean		New Guinea
+Southern Pacific Ocean		Niue
+Southern Pacific Ocean		Norfolk
+Southern Pacific Ocean		North Island
+Southern Pacific Ocean		San Gallán
+Southern Pacific Ocean		South Island
+Southern Pacific Ocean		Tasmania
+Southern Pacific Ocean	Admiralty Islands	Manus
+Southern Pacific Ocean	Aleipata Islands	Nu'ulua
+Southern Pacific Ocean	Archipiélago de Chiloé	Isla Grande de Chiloé
+Southern Pacific Ocean	Archipiélago de Tierra del Fuego	Isla de Hornos
+Southern Pacific Ocean	Archipiélago de Tierra del Fuego	Navarino
+Southern Pacific Ocean	Chatham Islands	Chatham
+Southern Pacific Ocean	Chatham Islands	Star Keys
+Southern Pacific Ocean	Chincha	Central
+Southern Pacific Ocean	Chincha	Norte Chincha
+Southern Pacific Ocean	Cook Islands	Mangaia
+Southern Pacific Ocean	Cook Islands	Penrhyn Atoll
+Southern Pacific Ocean	Cook Islands	Suwarrow
+Southern Pacific Ocean	D'Entrecasteaux Islands	Fergusson
+Southern Pacific Ocean	Fiji	Vanua Levu
+Southern Pacific Ocean	Great Barrier Reef	Bett Reef
+Southern Pacific Ocean	Great Barrier Reef	Endeavour Reef
+Southern Pacific Ocean	Great Barrier Reef	Flynn Reef
+Southern Pacific Ocean	Great Barrier Reef	Great Barrier Reef
+Southern Pacific Ocean	Great Barrier Reef	Green
+Southern Pacific Ocean	Great Barrier Reef	Heron
+Southern Pacific Ocean	Great Barrier Reef	Hook
+Southern Pacific Ocean	Great Barrier Reef	Linnet Reef
+Southern Pacific Ocean	Great Barrier Reef	Lizard
+Southern Pacific Ocean	Great Barrier Reef	Low Isles
+Southern Pacific Ocean	Great Barrier Reef	Michaelmas Cay
+Southern Pacific Ocean	Great Barrier Reef	One Tree
+Southern Pacific Ocean	Great Barrier Reef	Pixie Reef
+Southern Pacific Ocean	Great Barrier Reef	Wistari Reef
+Southern Pacific Ocean	Great Barrier Reef	Yonge Reef
+Southern Pacific Ocean	Hoorn Islands	Futuna
+Southern Pacific Ocean	Islas de los Desventurados	San Félix
+Southern Pacific Ocean	Kadavu	Kadavu
+Southern Pacific Ocean	Kadavu Group	Kadavu
+Southern Pacific Ocean	Lau Archipelago	Fulaga
+Southern Pacific Ocean	Lau Archipelago	Mago
+Southern Pacific Ocean	Lau Archipelago	Ogea Levu
+Southern Pacific Ocean	Lau Archipelago	Olorua
+Southern Pacific Ocean	Lau Archipelago	Ono-i-Lau
+Southern Pacific Ocean	Lau Archipelago	Tavunasithi
+Southern Pacific Ocean	Lau Archipelago	Vatoa
+Southern Pacific Ocean	Lau Archipelago	Wangava
+Southern Pacific Ocean	Line Islands	Caroline Atoll
+Southern Pacific Ocean	Line Islands	Jarvis
+Southern Pacific Ocean	Line Islands	Malden
+Southern Pacific Ocean	Line Islands	Starbuck
+Southern Pacific Ocean	Lomaiviti Archipelago	Koro
+Southern Pacific Ocean	Lomaiviti Archipelago	Ovalau
+Southern Pacific Ocean	Loyalty Islands	Lifou
+Southern Pacific Ocean	Loyalty Islands	Mare
+Southern Pacific Ocean	Loyalty Islands	Ouvéa
+Southern Pacific Ocean	Malay Archipelago	New Guinea
+Southern Pacific Ocean	Mamanuca Islands	Kadavulailai
+Southern Pacific Ocean	Mamanuca Islands	Vanua Levu
+Southern Pacific Ocean	Mamanuca Islands	Yanuya
+Southern Pacific Ocean	Manu'a Islands	Ofu
+Southern Pacific Ocean	Manu'a Islands	Ta'u
+Southern Pacific Ocean	Marquesas Islands	Clark Bank
+Southern Pacific Ocean	Marquesas Islands	Eiao
+Southern Pacific Ocean	Marquesas Islands	Fatuhiva
+Southern Pacific Ocean	Marquesas Islands	Hatutaa
+Southern Pacific Ocean	Marquesas Islands	Hivaoa
+Southern Pacific Ocean	Marquesas Islands	Marquesas Islands
+Southern Pacific Ocean	Marquesas Islands	Nukuhiva
+Southern Pacific Ocean	Marquesas Islands	Tahuata Island
+Southern Pacific Ocean	Marquesas Islands	Ua Huka
+Southern Pacific Ocean	Marquesas Islands	Ua Pau
+Southern Pacific Ocean	Marquesas Islands	Uahuka
+Southern Pacific Ocean	Marquesas Islands	Uapou
+Southern Pacific Ocean	Moala Islands	Moala
+Southern Pacific Ocean	New Caledonia	Balabio
+Southern Pacific Ocean	New Caledonia	Grand Terre
+Southern Pacific Ocean	New Caledonia	Neba
+Southern Pacific Ocean	New Zealand	South Island
+Southern Pacific Ocean	Nggela Islands	Little Florida Island
+Southern Pacific Ocean	Nggela Islands	Nggela Sule
+Southern Pacific Ocean	Paumotus	Henderson
+Southern Pacific Ocean	Phoenix Islands	Birnie
+Southern Pacific Ocean	Phoenix Islands	Kanton
+Southern Pacific Ocean	Phoenix Islands	Orona
+Southern Pacific Ocean	Pitcairn Islands	Ducie
+Southern Pacific Ocean	Pitcairn Islands	Henderson
+Southern Pacific Ocean	Pitcairn Islands	Oeno
+Southern Pacific Ocean	Pitcairn Islands	Pitcairn
+Southern Pacific Ocean	Rennell Islands	Rennell
+Southern Pacific Ocean	Ringgold Isles	Nanuku Levu
+Southern Pacific Ocean	Rotuma	Rotuma
+Southern Pacific Ocean	Russell Islands	Hoi
+Southern Pacific Ocean	Samoan Islands	Aunu'u
+Southern Pacific Ocean	Samoan Islands	Nu'ulua
+Southern Pacific Ocean	Samoan Islands	Rose Atoll
+Southern Pacific Ocean	Samoan Islands	Savai'i
+Southern Pacific Ocean	Samoan Islands	Swains
+Southern Pacific Ocean	Samoan Islands	Ta‘ū
+Southern Pacific Ocean	Samoan Islands	Tutuila
+Southern Pacific Ocean	Samoan Islands	Upolu
+Southern Pacific Ocean	Santa Cruz Islands	Vanikoro
+Southern Pacific Ocean	Shortland Islands	Fauro
+Southern Pacific Ocean	Solomon Islands	Bougainville
+Southern Pacific Ocean	Solomon Islands	Choiseul
+Southern Pacific Ocean	Solomon Islands	Guadalcanal
+Southern Pacific Ocean	Solomon Islands	Makira
+Southern Pacific Ocean	Solomon Islands	Malaupaina
+Southern Pacific Ocean	Solomon Islands	New Georgia
+Southern Pacific Ocean	Tokelau	Tokelau
+Southern Pacific Ocean	Tonga Islands	Haareva Island
+Southern Pacific Ocean	Tonga Islands	Tokū
+Southern Pacific Ocean	Tuamotu Archipelago	Tepoto
+Southern Pacific Ocean	Tuamotu Archipelago	Vanavana
+Southern Pacific Ocean	Tuvalu	Funafuti Atoll
+Southern Pacific Ocean	Tuvalu	Niutao
+Southern Pacific Ocean	Vanuatu	Efate
+Southern Pacific Ocean	Vanuatu	Paama
+Southern Pacific Ocean	Viti Levu	Vatulele
+Southern Pacific Ocean	Viti Levu	Viti Levu
+Southern Pacific Ocean	Wallis Islands	Uvea
+Southern Pacific Ocean	Wallis Islands	Wallis
 St. Lawrence River		Cacouna Rock
 St. Lawrence River	Hochelaga Archipelago	Montréal
 St. Mary's River		Sugar
@@ -1700,29 +1703,30 @@ Upper New York Harbor		Liberty
 Wai Abung	Greater Sunda Islands	Sumatra
 Wellfleet Harbor		Lieutenant
 Wellington Bay	Canadian Arctic Archipelago	Victoria
-Western North Atlantic Ocean		Isla de Enmedio
-Western North Pacific Ocean		Moneron
-Western North Pacific Ocean	Kuril Islands	Anuchina
-Western North Pacific Ocean	Kuril Islands	Brat Chirpoyev
-Western North Pacific Ocean	Kuril Islands	Chirpoy
-Western North Pacific Ocean	Kuril Islands	Iturup
-Western North Pacific Ocean	Kuril Islands	Ketoy
-Western North Pacific Ocean	Kuril Islands	Kharimkotan
-Western North Pacific Ocean	Kuril Islands	Kunashir
-Western North Pacific Ocean	Kuril Islands	Makarushi
-Western North Pacific Ocean	Kuril Islands	Matua
-Western North Pacific Ocean	Kuril Islands	Onekotan
-Western North Pacific Ocean	Kuril Islands	Paramushir
-Western North Pacific Ocean	Kuril Islands	Polonskogo
-Western North Pacific Ocean	Kuril Islands	Rasshua
-Western North Pacific Ocean	Kuril Islands	Shiashkotan
-Western North Pacific Ocean	Kuril Islands	Shikotan
-Western North Pacific Ocean	Kuril Islands	Shumshu
-Western North Pacific Ocean	Kuril Islands	Simushir
-Western North Pacific Ocean	Kuril Islands	Tanfilyeva
-Western North Pacific Ocean	Kuril Islands	Urup
-Western North Pacific Ocean	Kuril Islands	Ushishir
-Western North Pacific Ocean	Kuril Islands	Yuri
-Western North Pacific Ocean	Kuril Islands	Zelyonyi
+Western Northern Atlantic Ocean		Isla de Enmedio
+Western Northern Pacific Ocean		Moneron
+Western Northern Pacific Ocean	Kuril Islands	Anuchina
+Western Northern Pacific Ocean	Kuril Islands	Brat Chirpoyev
+Western Northern Pacific Ocean	Kuril Islands	Chirpoy
+Western Northern Pacific Ocean	Kuril Islands	Iturup
+Western Northern Pacific Ocean	Kuril Islands	Ketoy
+Western Northern Pacific Ocean	Kuril Islands	Kharimkotan
+Western Northern Pacific Ocean	Kuril Islands	Kunashir
+Western Northern Pacific Ocean	Kuril Islands	Makarushi
+Western Northern Pacific Ocean	Kuril Islands	Matua
+Western Northern Pacific Ocean	Kuril Islands	Onekotan
+Western Northern Pacific Ocean	Kuril Islands	Paramushir
+Western Northern Pacific Ocean	Kuril Islands	Polonskogo
+Western Northern Pacific Ocean	Kuril Islands	Rasshua
+Western Northern Pacific Ocean	Kuril Islands	Shiashkotan
+Western Northern Pacific Ocean	Kuril Islands	Shikotan
+Western Northern Pacific Ocean	Kuril Islands	Shumshu
+Western Northern Pacific Ocean	Kuril Islands	Simushir
+Western Northern Pacific Ocean	Kuril Islands	Tanfilyeva
+Western Northern Pacific Ocean	Kuril Islands	Urup
+Western Northern Pacific Ocean	Kuril Islands	Ushishir
+Western Northern Pacific Ocean	Kuril Islands	Yuri
+Western Northern Pacific Ocean	Kuril Islands	Zelyonyi
+Western Tropical Pacific Oceam	Phoenix Islands	Kanton
 Willapa Bay		Long Island
 Wood Pond		Hog

@@ -1,4 +1,5 @@
 month	standard	vetted
+   		1
 ---		1
   JAN	1	1
   MAY 	5	1
@@ -104,6 +105,7 @@ month	standard	vetted
 & 27 NOV 		1
 & 30 JUNE		1
 & 6  APRIL		1
+(?)		1
 (4) MAY	5	1
 (AUG)	8	1
 (AUG?)-	8	1
@@ -131,11 +133,14 @@ __MAR __1996	3	1
 01MAR1993;		1
 02		1
 03	3	1
+04AUG	8	1
 05	5	1
 06MAY	5	1
 08MAR	3	1
+08NOV	11	1
 09	9	1
 090JUN	6	1
+09NOV	11	1
 0CTOBER	10	1
 1	1	1
 1 1926 OR AUG 2		1
@@ -284,6 +289,7 @@ __MAR __1996	3	1
 26 AUG 	8	1
 26 FEB	2	1
 27		1
+27JAN	1	1
 28		1
 28 JULY	7	1
 29 		1
@@ -304,8 +310,10 @@ __MAR __1996	3	1
 30 JUN	6	1
 30 NOV 	11	1
 30 OCTOBER	10	1
+30JUN	6	1
 31		1
 31 JULY	7	1
+31JAN	1	1
 31MAY		1
 4	4	1
 4 APR	4	1

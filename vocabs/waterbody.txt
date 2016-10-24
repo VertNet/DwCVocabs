@@ -32,7 +32,7 @@ Alamoosook Lake
 Alamuchee Creek
 Alapaha River - Suwannee River
 Alaqua Creek - Gulf of Mexico
-Albemarle Sound - North Atlantic Ocean
+Albemarle Sound - Northern Atlantic Ocean
 Albermarle Lake
 Albermarle Sound
 Alcovy River
@@ -54,7 +54,7 @@ Alsup Creek
 Alta Lake
 Altamaha
 Altamaha River
-Altamaha River - North Atlantic Ocean
+Altamaha River - Northern Atlantic Ocean
 Altamaha River Drainage
 Altamaha River, Ocmulgee River
 Alum Fork
@@ -153,7 +153,7 @@ Ayish Bayou
 Back Bay
 Back Bay of Biloxi
 Back Creek
-Back River - Savannah River - North Atlantic Ocean
+Back River - Savannah River - Northern Atlantic Ocean
 Backbone Creek
 Badwater Lakes
 Baffin Bay
@@ -727,7 +727,7 @@ Capitol Lake
 Captive Reared
 Caribbean ea
 Caribbean Sea
-Caribbean Sea - North Atlantic Ocean
+Caribbean Sea - Northern Atlantic Ocean
 Carlos Lake
 Carmans River
 Carribean Sea
@@ -1233,12 +1233,14 @@ Eastern Atlantic Ocean
 Eastern Central Atlantic Ocean
 Eastern Central Pacific Ocean
 Eastern Indian Ocean
-Eastern North Atlantic Ocean
-Eastern North Pacific Ocean
+Eastern Northern Atlantic Ocean
+Eastern Northern Pacific Ocean
 Eastern Pacific Ocean
-Eastern South Atlantic Ocean
-Eastern South Pacific Ocean
+Eastern Southern Atlantic Ocean
+Eastern Southern Pacific Ocean
 eastern trib. of Scutchalo Creek
+Eastern Tropical Atlantic Ocean
+Eastern Tropical Pacific Ocean
 Eastport Branch
 Ebenezer Branch
 Econfina Creek - St. Andrews Bay
@@ -1553,7 +1555,7 @@ Gulf of Maine
 Gulf of Mannar
 Gulf of Mexico
 Gulf of Mexico - Atlantic Ocean
-Gulf of Mexico - North Atlantic Ocean
+Gulf of Mexico - Northern Atlantic Ocean
 Gulf of Oman
 Gulf of Panama
 Gulf of Papua
@@ -2378,7 +2380,7 @@ Long Branch Creek
 Long Creek
 Long Creek Swamp
 Long Island Sound
-Long Island Sound - North Atlantic Ocean
+Long Island Sound - Northern Atlantic Ocean
 Long Lake
 Los Angeles River
 Lost Lake Bayou
@@ -2610,7 +2612,7 @@ Mississippi River, Obion River
 Mississippi River, unnamed borrow pit
 Mississippi Sound
 Mississippi Sound - Gulf of Mexico
-Mississippi Sound - Gulf of Mexico - North Atlantic Ocean
+Mississippi Sound - Gulf of Mexico - Northern Atlantic Ocean
 Missouri
 Missouri River
 Missouri River - Mississippi River
@@ -2625,7 +2627,7 @@ Mkushi River
 Mobile  River
 Mobile Bay
 Mobile Bay - Gulf of Mexico
-Mobile Bay - Gulf of Mexico - North Atlantic Ocean
+Mobile Bay - Gulf of Mexico - Northern Atlantic Ocean
 Mobile Bay - Mobile River
 Mobile River
 Mobile River - Gulf of Mexico
@@ -2710,7 +2712,7 @@ Murual Creek
 Muscatatuck River
 Musconetcong River
 Muscongus Bay
-Muscongus Bay - North Atlantic Ocean
+Muscongus Bay - Northern Atlantic Ocean
 Muskegon River - Lake Michigan
 Mustang Creek
 Mustang Creek.
@@ -2783,8 +2785,6 @@ Nolichucky River, North Broad River
 Nolin River
 Nolte Creek
 none given
-North acific Ocean
-North Atlantic Ocean
 North Bay
 North Bayou
 North Concho River
@@ -2802,7 +2802,6 @@ North Lake
 North Landing River
 North Llano River
 North Meherrin River
-North Pacific Ocean
 North Platte River
 North Platte River - Missouri River - Mississippi River
 North Prong Jacks Fork
@@ -2814,10 +2813,14 @@ North Sandy Creek, unnamed tributary
 North Sea
 North Sylamore Creek
 North Tippah Creek
+Northern Atlantic Ocean
+Northern Pacific Ocean
 Northern Seas
 Northumberland Strait
 Northwest Atlantic Ocean
 Northwest Passages
+Northwestern Atlantic Ocean
+Northwestern Pacific Ocean
 Norton Bay
 Norton Sound
 Norwegian Sea
@@ -2873,7 +2876,7 @@ Oconee River - Altamaha River
 Octoucalofa Creek
 Odums Creek
 Ogeechee River
-Ogeechee River - North Atlantic Ocean
+Ogeechee River - Northern Atlantic Ocean
 Ogontz River
 Ogooué River
 Ogoouè River
@@ -2923,7 +2926,7 @@ Osage River - Missouri River
 Osborne Creek
 Oscar Creek
 Osewgo River
-Ossabaw Sound - North Atlantic Ocean
+Ossabaw Sound - Northern Atlantic Ocean
 Oswegat River
 Oswegatchie River
 Oswegatchie River, Black River
@@ -2960,7 +2963,7 @@ Palmer Creek
 Palo Duro Creek
 Pamlico River
 Pamlico Sound
-Pamlico Sound - North Atlantic Ocean
+Pamlico Sound - Northern Atlantic Ocean
 Pamunkey River
 Pangani River
 Panola-Quitman Waterway
@@ -3614,7 +3617,7 @@ Saline River
 Salish Sea
 Salkehatchee River
 Salkehatchee River - Combahee River
-Salkehatchee River - North Atlantic Ocean
+Salkehatchee River - Northern Atlantic Ocean
 Sallisaw Creek
 Salmon Creek
 Salmon River
@@ -3707,7 +3710,7 @@ Savages Ditch
 Savanna River Drainage
 Savannah
 Savannah River
-Savannah River - North Atlantic Ocean
+Savannah River - Northern Atlantic Ocean
 Savannah River drainage
 Sawney’s Creek - Santee River
 Sawyer Ditch Canal
@@ -3869,7 +3872,6 @@ Sougahatchee Creek - Tallapoosa River - Alabama River
 Souinlovey Creek
 South Alum Creek
 South Anna River
-South Atlantic Ocean
 South Branch Holston
 South Branch Magowah Creek
 South Branch Magowah Creek, tributary
@@ -3879,7 +3881,7 @@ South Chickamauga Creek - Tennessee River
 South China Sea
 South Conchos River
 South Florida River
-South Florida River - North Atlantic Ocean
+South Florida River - Northern Atlantic Ocean
 South Fork Ahtanum River
 South Fork Coles Creek
 South Fork Creek
@@ -3891,9 +3893,7 @@ South Fork New
 South Fork New River - Ohio River - Mississippi River
 South Fork Red River
 South Fork Spring River
-South Indian Ocean
 South Lake
-South Pacific Ocean
 South Platte River
 South Platte River - Missouri River - Mississippi River
 South River - Altamaha River
@@ -3902,8 +3902,16 @@ South Tulip Creek
 South Twin Lake
 Southeast Atlantic Ocean
 Southeast Pacific Ocean
+Southeastern Atlantic Ocean
+Southeastern Tropical Pacific Ocean
+Southern Atlantic Ocean
+Southern Indian Ocean
 Southern Ocean
+Southern Pacific Ocean
 Southwest Pacific Ocean
+Southwestern Atlantic Ocean
+Southwestern Indian Ocean
+Southwestern Pacific Ocean
 Sowannee River
 Spafford Creek
 Spanaway Lake
@@ -4344,7 +4352,7 @@ Wabash Lake
 Wabash River
 Wabasis Lake
 Waccamaw River
-Waccamaw River - Winyah Bay - North Atlantic Ocean
+Waccamaw River - Winyah Bay - Northern Atlantic Ocean
 Waccasassa Bay
 Waccasassa River
 Wacissa River
@@ -4442,11 +4450,15 @@ West Twin Lake
 West Water Creek
 Western Atlantic Ocean
 Western Indian Ocean
-Western North Atlantic Ocean
-Western North Pacific Ocean
+Western Northern Atlantic Ocean
+Western Northern Pacific Ocean
+Western Pacific Oceam
 Western Pacific Ocean
-Western South Atlantic Ocean
-Western South Pacific Ocean
+Western Southern Atlantic Ocean
+Western Southern Pacific Ocean
+Western Tropical Atlantic Ocean
+Western Tropical Pacific Oceam
+Western Tropical Pacific Ocean
 Westfield River
 Wet Water Creek, backwater slough
 Wheeler Lake  - Tennessee River - Ohio River - Mississippi River
@@ -4507,7 +4519,7 @@ Willow Branch Creek
 Willow Creek
 Wilson Branch
 Wilson Creek
-Wimbee Creek - Bull River - North Atlantic Ocean
+Wimbee Creek - Bull River - Northern Atlantic Ocean
 Winans Creek
 Wind River
 Winnewana Lake

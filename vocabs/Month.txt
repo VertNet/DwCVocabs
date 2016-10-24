@@ -1,4 +1,5 @@
 verbatimMonth	monthNumber	dayOfYearForFirst	checked
+   			1
 ---			1
   Jan	1	0	1
   May 	5	120	1
@@ -104,6 +105,7 @@ verbatimMonth	monthNumber	dayOfYearForFirst	checked
 & 27 Nov 			1
 & 30 June			1
 & 6  April			1
+(?)			1
 (4) May	5	120	1
 (Aug)	8	212	1
 (Aug?)-	8	212	1
@@ -131,11 +133,14 @@ __MAR __1996	3	59	1
 01Mar1993;			1
 02			1
 03	3	59	1
+04Aug	8	212	1
 05	5	120	1
 06MAY	5	120	1
 08MAR	3	59	1
+08Nov	11	304	1
 09	9	243	1
 090JUN	6	151	1
+09Nov	11	304	1
 0ctober	10	273	1
 1	1	0	1
 1 1926 or Aug 2			1
@@ -284,6 +289,7 @@ __MAR __1996	3	59	1
 26 Aug 	8	212	1
 26 Feb	2	31	1
 27			1
+27Jan	1	0	1
 28			1
 28 July	7	181	1
 29 			1
@@ -304,8 +310,10 @@ __MAR __1996	3	59	1
 30 Jun	6	151	1
 30 Nov 	11	304	1
 30 October	10	273	1
+30Jun	6	151	1
 31			1
 31 July	7	181	1
+31Jan	1	0	1
 31May			1
 4	4	90	1
 4 Apr	4	90	1

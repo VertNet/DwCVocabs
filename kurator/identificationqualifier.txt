@@ -2,18 +2,27 @@ identificationqualifier	standard	vetted
  B1001 TYPE OF PACHYCEPHALA RUFIVENTRIS MINOR, ZIETZ, 1914 (SEE SAOA 1(1):15		1
  SYNTYPE OF RHIPIDURA MAYI, ASHBY, 1911 (SEE EMU 11:41)		1
 (=Z. CORNUTUS)		1
+(ACHIROSTOMIAS)  N. SP.	sp. nov.	1
 (ALBURNOPS) SP.	sp.	1
 (ALBURNOPS) SP. LONGIROSTRIS	sp.	1
 (ALVORDIUS) SP.	sp.	1
 (AURULENTA SUBSP.)	ssp.	1
+(BIRADIOSTOMIAS) SP.	sp.	1
 (BUDYTES ?) SP.	sp.	1
 (CATONOTUS) SP.	sp.	1
 (CYPRINELLA) SP.	sp.	1
 (DORATION) SP.	sp.	1
 (ETHEOSTOMA) SP.	sp.	1
 (GYROLOIDES SUBSP.)	ssp.	1
+(HAPCLONUS) SP.	sp.	1
 (LORICARIICHTHYS)SP.	sp.	1
 (NANOSTOMA) SP.	sp.	1
+(NOMINOSTOMIAS ) N. SP.	sp. nov.	1
+(NOMINOSTOMIAS) N. SP. A	sp. nov.	1
+(NOMINOSTOMIAS) N. SP. B	sp. nov.	1
+(NOMINOSTOMIAS) SP.	sp.	1
+(NOMINOSTOMIAS) SP. #1	sp.	1
+(NOMINOSTOMIAS) SP. (#2)	sp.	1
 (PROBABLY)	in question	1
 (PTERONOTROPIST) SP.	sp.	1
 (S.S.) SP.	sp.	1
@@ -106,6 +115,7 @@ identificationqualifier	standard	vetted
 ?SP; VERY BIG	species in question	1
 ?SPECIES	species in question	1
 ?SUBFAM	subfamily in question	1
+[N. GEN., N. SP.]	gen. nov.	1
 `		1
 {BILLSI N. SP.}	sp. nov.	1
 {CHILALA N. SP.}	sp. nov.	1
@@ -389,23 +399,41 @@ MEGALOTIS X SP.	megalotis X sp.	1
 N SP.	sp. nov.	1
 N SP. "L402"	sp. nov.	1
 N. SP.	sp. nov.	1
+N. SP. #1	sp. nov.	1
+N. SP. #2	sp. nov.	1
+N. SP. (CF. ACHIRUS)	sp. nov. (cf. achirus)	1
+N. SP. (CF. FITZSIMONSI)	sp. nov. (cf. fitzsimonsi)	1
+N. SP. (CF. PUSILLUS)	sp. nov. (cf. pusillus)	1
+N. SP. (CF. REGANI)	sp. nov. (cf. regani)	1
+N. SP. (CF. SIGNIFERA)	sp. nov. (cf. signifera)	1
+N. SP. (CF. THETA)	sp. nov. (cf. theta)	1
 N. SP. (MS)	sp. nov.	1
+N. SP. (YUCATANA GROUP)	sp. nov. (yucatana group)	1
+N. SP. [BLUE-SPOTTED]	sp. nov.	1
 N. SP. “BIMACULATUS”	sp. nov.	1
 N. SP. “CONGO”	sp. nov.	1
 N. SP. “NEGRO/ALTO ORINOCO”	sp. nov.	1
 N. SP. “RUFIJI”	sp. nov.	1
 N. SP. “TAILSPOT”	sp. nov.	1
 N. SP. 1		1
+N. SP. 10	sp. nov.	1
+N. SP. 2	sp. nov.	1
+N. SP. 3	sp. nov.	1
+N. SP. 6	sp. nov.	1
 N. SP. 7	sp. nov.	1
 N. SP. 8	sp. nov.	1
 N. SP. A	sp. nov.	1
 N. SP. B	sp. nov.	1
+N. SP. B (SHORT GLAND)	sp. nov.	1
 N. SP. C	sp. nov.	1
 N. SP. D	sp. nov.	1
+N. SP. J	sp. nov.	1
 N. SP. MS	sp. nov.	1
+N. SP. Q	sp. nov.	1
 N.SP.	sp. nov.	1
 N.SP. "COMMON"	sp. nov.	1
 N.SP. "TAVI"	sp. nov.	1
+N.SP. (CF. RETICULATUS)	sp. nov. (cf. reticulatus)	1
 N.SP. (MS)	sp. nov.	1
 N.SP. 1		1
 N.SP. A	sp. nov.	1
@@ -460,6 +488,7 @@ PROBABLE	in question	1
 PROBABLY	id in question	1
 PROSERPINA X NOTROPIS SP.	proserpina X Notropis sp.	1
 Q SP	species in question	1
+REGANI (N. SSP.)	ssp. nov. (regani)	1
 REGULARIS X SP.	sp.	1
 REMARKS:2 = W.D. DODD. NO. 451.B1002, B1003 PARATYPES OF PACHYCEPHALA RUFIVENTRIS MINOR, ZIETZ, 1914 (SEE SAOA 1(1):15. W.D. DODD NO. 519.		1
 RHINA,BINOCULATA,INORNATA	species in question	1
@@ -497,6 +526,7 @@ SP NR	cf.	1
 SP.	sp.	1
 SP. "6"	sp. nov.	1
 SP. "A"		1
+SP. "ATROX/PATROX"	sp.	1
 SP. "B"		1
 SP. "B&W"	sp. nov.	1
 SP. "B+W"	sp. nov.	1
@@ -527,6 +557,14 @@ SP. # 1	sp.	1
 SP. #1	sp. nov.	1
 SP. #2	sp. nov.	1
 SP. #4	sp. nov.	1
+SP. (? ALBA)	sp.	1
+SP. (? AZUREUS)	sp.	1
+SP. (? FERNANDEZIANUS)	sp.	1
+SP. (? HOLLANDI)	sp.	1
+SP. (? LISPUS)	sp.	1
+SP. (? N. SP.)	sp.	1
+SP. (? NEWNESI)	sp.	1
+SP. (? SINENSIS)	sp.	1
 SP. (?PALUMBUS)	sp.	1
 SP. (ALBINO)	sp.	1
 SP. (ALNORUM OR TRAILLI ?)	sp.	1
@@ -545,14 +583,33 @@ SP. (CALAMARINA-GROUP)	sp.	1
 SP. (CATHARINAE-GROUP)	sp.	1
 SP. (CAURA, ORINOCO)	sp.	1
 SP. (CEPHALICA-CLADE)	sp.	1
+SP. (CF. BREVISPINIS)	cf. brevispinis	1
+SP. (CF. EOS)	cf. eos	1
+SP. (CF. FLAVOBRUNNEUS)	cf. flavobrunneus	1
+SP. (CF. LIMBATUS)	cf. limbatus	1
+SP. (CF. MEDITERRANEUS)	cf. mediterraneus	1
+SP. (CF. MELANOSTOMA)	cf. melanostoma	1
+SP. (CF. MINUTILUS)	cf. minutilus	1
+SP. (CF. MOLLIS)	cf. mollis	1
+SP. (CF. PARADOXUM)	cf. paradoxum	1
+SP. (CF. PLATOPHRYS)	cf. platophrys	1
+SP. (CF. PULCHER)	cf. pulcher	1
+SP. (CF. VALDIVIAE)	cf. valdiviae	1
+SP. (CF. VEXILLARIS)	cf. vexillaris	1
 SP. (CHALCONOTA-GROUP)	sp.	1
 SP. (COCOS LONG-NOSE)	sp.	1
 SP. (COELOMYS)	sp.	1
+SP. (DENDRITICUS ?)	species in question	1
+SP. (DRACO GROUP)	cf. draco group	1
 SP. (E. UMBRINUS OR E. QUADRIVITTATUS)	sp.	1
+SP. (EBELINGI ?)	species in question	1
 SP. (FUSCOAURATUS-GROUP)	sp.	1
 SP. (FUSCUS COMPLEX)	sp.	1
 SP. (GRAMMICUS-GROUP)	sp.	1
+SP. (GROUP I)	sp.	1
+SP. (GROUP II)	sp.	1
 SP. ('GROUP II')	sp.	1
+SP. (GROUP III)	sp.	1
 SP. (HOLSTON)	sp.	1
 SP. (HYBRID)	sp.	1
 SP. (HYBRID?)	sp.	1
@@ -562,6 +619,7 @@ SP. (LATERALIS GROUP)	sp.	1
 SP. (LEMNISCATUS-GROUP)	sp.	1
 SP. (LESUEURII COMPLEX)	sp.	1
 SP. (MACCONNELLI / OLEAGINEUS)	sp.	1
+SP. (MACRONEMA)	cf. macronema	1
 SP. (MARGARITIFERA-COMPLEX)	sp.	1
 SP. (MELANOLEUCUS-GROUP)	sp.	1
 SP. (MELANONOTUS GROUP)	sp.	1
@@ -577,6 +635,7 @@ SP. (PERPUSILLUS GROUP)	sp.	1
 SP. (PHILADELPHIA X TOLMEI)	philadelphia X tolmei	1
 SP. (PIPIENS COMPLEX)	sp.	1
 SP. (PODICIPINUS-WAGNERI COMPLEX)	sp.	1
+SP. (POSSIBLY BIFILIS)	cf. bifilis	1
 SP. (POSSIBLY TOLMIEI)	sp.	1
 SP. (PRATTI GROUP)	sp.	1
 SP. (PROB. HYBRID ELEGANS X FLAVEOLUS)	sp.	1
@@ -584,6 +643,8 @@ SP. (QUECHUA-GROUP)	sp.	1
 SP. (REDBAND)	sp.	1
 SP. (RK SP3)	sp.	1
 SP. (RUBER GROUP)	sp.	1
+SP. (SAJORI)	cf. sajori	1
+SP. (SCHMIDTI-GROUP)	cf. schmidti-group	1
 SP. (SHAG)	sp.	1
 SP. (SPECIOSA OR TRICHAS)	sp.	1
 SP. (SPUMARIUS-COMPLEX)	sp.	1
@@ -593,12 +654,15 @@ SP. (TAENIURA)	sp.	1
 SP. (TALLAPOOSA SCULPIN)	sp.	1
 SP. (TEMPORARIA-GROUP)	sp.	1
 SP. (TRAILII / ALNORUM [?])	sp.	1
+SP. (TYPE A)	sp.	1
+SP. (TYPE B)	sp.	1
 SP. (URUNGUENSIS-GROUP)	sp.	1
 SP. (VARIEGATUS-GROUP)	sp.	1
 SP. (XANTHA MS)	sp.	1
 SP. ?	species in question	1
 SP. ??	species in question	1
 SP. ???	species in question	1
+SP. [? TERMINATA]	cf. terminata	1
 SP. “ADIPOSA LARGA”	sp. nov.	1
 SP. “BANDED”	sp. nov.	1
 SP. “BROWN”	sp. nov.	1
@@ -666,23 +730,24 @@ SP. '2'	sp.	1
 SP. 28	sp.	1
 SP. 3	sp.	1
 SP. 3 - COLORADO	sp.	1
-SP. 303	sp. 303	1
-SP. 304	sp. 304	1
+SP. 3 (CF. ORIENTALIS)	cf. orientalis	1
+SP. 303	sp.	1
+SP. 304	sp.	1
 SP. 305 LONGIMANUS	sp. 305 longimanus	1
 SP. 306 (PARACANTHUS)	sp. 306 (paracanthus)	1
 SP. 307 (BILINEATUS)	sp. 307 (bilineatus)	1
 SP. 308 (COMATUS)	sp. 308 (comatus)	1
 SP. 309 (RECTISETUS)	sp. 309 (rectisetus)	1
-SP. 311	sp. 311	1
-SP. 312	sp. 312	1
+SP. 311	sp.	1
+SP. 312	sp.	1
 SP. 314 XAVIERFILHOI	sp. 314 xavierfilhoi	1
 SP. 316 HOLDENAE	sp. 316 holdenae	1
 SP. 319 MARINHOI	sp. 319 marinhoi	1
-SP. 324	sp. 324	1
-SP. 325	sp. 325	1
+SP. 324	sp.	1
+SP. 325	sp.	1
 SP. 326 AMATI	sp. 326 amati	1
 SP. 328 RICCARDIAE	sp. 328 riccardiae	1
-SP. 330	sp. 330	1
+SP. 330	sp.	1
 SP. 338 NOCTURNIGRUS	sp. 338 nocturnigrus	1
 SP. 36	sp.	1
 SP. 4	sp.	1
@@ -697,9 +762,11 @@ SP. 8	sp.	1
 SP. 9	sp.	1
 SP. 9 DFH	sp.	1
 SP. A	sp.	1
+SP. A  (N. SP.)	sp. nov.	1
 SP. A.	sp.	1
 SP. A/C	sp.	1
 SP. AFF. GALAXIAS	aff. galaxias	1
+SP. AFF. LAVENBERGI	aff. lavenbergi	1
 SP. AFF. LYSINA	aff. lysina	1
 SP. AFF. MARINUS	aff. marinus	1
 SP. AFF. PUNCTITAENIATUS	aff. punctitaeniatus	1
@@ -905,6 +972,7 @@ SP. WHITE-CHEST	sp.	1
 SP. X	sp.	1
 SP. X SP.	sp. X sp.	1
 SP. X VENUSTUS	sp. X venustus	1
+SP. Y	sp.	1
 SP..	sp.	1
 SP.;	sp.	1
 SP.”VENTUARI”	sp. nov.	1
