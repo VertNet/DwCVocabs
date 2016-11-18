@@ -109,6 +109,7 @@ Waterbody	IslandGroup	Island
 		Tholen
 		Tierra del Fuego
 		Treasure Island
+		Trinidad
 		Upper Sugar Loaf
 		Vancouver
 		Wainwright
@@ -1552,7 +1553,6 @@ Southern Pacific Ocean	Cook Islands	Mangaia
 Southern Pacific Ocean	Cook Islands	Penrhyn Atoll
 Southern Pacific Ocean	Cook Islands	Suwarrow
 Southern Pacific Ocean	D'Entrecasteaux Islands	Fergusson
-Southern Pacific Ocean	Fiji	Vanua Levu
 Southern Pacific Ocean	Great Barrier Reef	Bett Reef
 Southern Pacific Ocean	Great Barrier Reef	Endeavour Reef
 Southern Pacific Ocean	Great Barrier Reef	Flynn Reef
@@ -1570,16 +1570,11 @@ Southern Pacific Ocean	Great Barrier Reef	Wistari Reef
 Southern Pacific Ocean	Great Barrier Reef	Yonge Reef
 Southern Pacific Ocean	Hoorn Islands	Futuna
 Southern Pacific Ocean	Islas de los Desventurados	San Félix
-Southern Pacific Ocean	Kadavu	Kadavu
 Southern Pacific Ocean	Kadavu Group	Kadavu
-Southern Pacific Ocean	Lau Archipelago	Fulaga
-Southern Pacific Ocean	Lau Archipelago	Mago
-Southern Pacific Ocean	Lau Archipelago	Ogea Levu
-Southern Pacific Ocean	Lau Archipelago	Olorua
 Southern Pacific Ocean	Lau Archipelago	Ono-i-Lau
 Southern Pacific Ocean	Lau Archipelago	Tavunasithi
-Southern Pacific Ocean	Lau Archipelago	Vatoa
 Southern Pacific Ocean	Lau Archipelago	Wangava
+Southern Pacific Ocean	Lau Islands	Vatoa
 Southern Pacific Ocean	Line Islands	Caroline Atoll
 Southern Pacific Ocean	Line Islands	Jarvis
 Southern Pacific Ocean	Line Islands	Malden
@@ -1591,7 +1586,6 @@ Southern Pacific Ocean	Loyalty Islands	Mare
 Southern Pacific Ocean	Loyalty Islands	Ouvéa
 Southern Pacific Ocean	Malay Archipelago	New Guinea
 Southern Pacific Ocean	Mamanuca Islands	Kadavulailai
-Southern Pacific Ocean	Mamanuca Islands	Vanua Levu
 Southern Pacific Ocean	Mamanuca Islands	Yanuya
 Southern Pacific Ocean	Manu'a Islands	Ofu
 Southern Pacific Ocean	Manu'a Islands	Ta'u
@@ -1614,6 +1608,7 @@ Southern Pacific Ocean	New Caledonia	Neba
 Southern Pacific Ocean	New Zealand	South Island
 Southern Pacific Ocean	Nggela Islands	Little Florida Island
 Southern Pacific Ocean	Nggela Islands	Nggela Sule
+Southern Pacific Ocean	Northern Lau Islands	Mago
 Southern Pacific Ocean	Paumotus	Henderson
 Southern Pacific Ocean	Phoenix Islands	Birnie
 Southern Pacific Ocean	Phoenix Islands	Kanton
@@ -1624,7 +1619,7 @@ Southern Pacific Ocean	Pitcairn Islands	Oeno
 Southern Pacific Ocean	Pitcairn Islands	Pitcairn
 Southern Pacific Ocean	Rennell Islands	Rennell
 Southern Pacific Ocean	Ringgold Isles	Nanuku Levu
-Southern Pacific Ocean	Rotuma	Rotuma
+Southern Pacific Ocean	Rotuma Group	Rotuma
 Southern Pacific Ocean	Russell Islands	Hoi
 Southern Pacific Ocean	Samoan Islands	Aunu'u
 Southern Pacific Ocean	Samoan Islands	Nu'ulua
@@ -1642,6 +1637,9 @@ Southern Pacific Ocean	Solomon Islands	Guadalcanal
 Southern Pacific Ocean	Solomon Islands	Makira
 Southern Pacific Ocean	Solomon Islands	Malaupaina
 Southern Pacific Ocean	Solomon Islands	New Georgia
+Southern Pacific Ocean	Southern Lau Islands	Fulaga
+Southern Pacific Ocean	Southern Lau Islands	Ogea Levu
+Southern Pacific Ocean	Southern Lau Islands	Olorua
 Southern Pacific Ocean	Tokelau	Tokelau
 Southern Pacific Ocean	Tonga Islands	Haareva Island
 Southern Pacific Ocean	Tonga Islands	Tokū
@@ -1649,10 +1647,11 @@ Southern Pacific Ocean	Tuamotu Archipelago	Tepoto
 Southern Pacific Ocean	Tuamotu Archipelago	Vanavana
 Southern Pacific Ocean	Tuvalu	Funafuti Atoll
 Southern Pacific Ocean	Tuvalu	Niutao
+Southern Pacific Ocean	Vanua Levu Group	Vanua Levu
 Southern Pacific Ocean	Vanuatu	Efate
 Southern Pacific Ocean	Vanuatu	Paama
-Southern Pacific Ocean	Viti Levu	Vatulele
-Southern Pacific Ocean	Viti Levu	Viti Levu
+Southern Pacific Ocean	Viti Levu Group	Vatulele
+Southern Pacific Ocean	Viti Levu Group	Viti Levu
 Southern Pacific Ocean	Wallis Islands	Uvea
 Southern Pacific Ocean	Wallis Islands	Wallis
 St. Lawrence River		Cacouna Rock

@@ -550,6 +550,7 @@ _		0	0
 ~ 12 days		0	0
 ~ 18 days		0	0
 ~ 20 days		0	0
+~ 20 years		0	0
 ~ 3 mo.		0	0
 ~1 day		0	0
 ~10days, Originally Seen 12 July		0	0
@@ -732,6 +733,7 @@ _		0	0
 1 adult (large)		0	0
 1 adult (medium)		0	0
 1 adult (small)		0	0
+1 adult and 1 juvenile		0	0
 1 adult female with eggs		0	0
 1 ADULT FEMALE; 2 LAR		0	0
 1 adult male, 1 juvenile		0	0
@@ -751,6 +753,7 @@ _		0	0
 1 ADULT; 29 JUVENILE		0	0
 1 ADULT; 3 JUVENILE		0	0
 1 ADULT; 8 JUVENILE		0	0
+1 adult|6 eggs		0	0
 1 adv., 3 infertile?		0	0
 1 advancec; 1 addled		0	0
 1 advanced 2 addled		0	0
@@ -6087,6 +6090,7 @@ adult; very old		0	0
 adult; young		0	0
 adult?	adult	0	1
 Adult`	adult	0	1
+adult|egg		0	0
 adult+young		0	0
 adult11.1 g	adult	0	1
 adulta	adult	0	1
@@ -8578,6 +8582,7 @@ E-E-a-a-A		0	0
 E-E-E		0	0
 e-E-E-a		0	0
 e-e-e-e		0	0
+eft		0	0
 EG	egg	0	1
 egg	egg	0	1
 Egg #0311		0	0
@@ -8804,6 +8809,7 @@ egg- cases	egg case	0	1
 EGG CASES AND EMBRYO		0	0
 EGG CASES, EMBRYOS		0	0
 egg cluster		0	0
+Egg clutch		0	0
 Egg crushed; fragments		0	0
 Egg died early		0	0
 Egg failed with large embryo.		0	0
@@ -8869,6 +8875,7 @@ Egg#1-infertile; egg#2 found cracked in nest, late		0	0
 Egg(s) Failed		0	0
 egg/embryo		0	0
 Egg; Embryo		0	0
+egg|larval		0	0
 Egg1- Fresh, egg2- Slight		0	0
 Egg1- fresh, egg2- very slightly		0	0
 Egg1- fresh, egg2- very slightly.		0	0
@@ -12879,6 +12886,7 @@ Juvenile; skull not fully oss.	juvenile	0	1
 Juvenile; skull not oss.	juvenile	0	1
 juvenile?	juvenile	0	1
 Juvenile? skull 80% oss.	juvenile	0	1
+juvenile|egg		0	0
 juveniles	juvenile	0	1
 JUVENILES & ADULTS		0	0
 juveniles hatched		0	0
@@ -15545,6 +15553,7 @@ RECEIVED BY MMZ 15 OCOTBER 1999		0	0
 Recently laid		0	0
 recorded as not recorded		0	0
 Red & yellow sacks		0	0
+red eft		0	0
 red eggs		0	0
 Red showing		0	0
 red skinned		0	0
@@ -17798,6 +17807,7 @@ UKN	unknown	0	1
 uknown	unknown	0	1
 un	unknown	0	1
 unborn		0	0
+unborn young		0	0
 uncertain		0	0
 uncertain & hatched		0	0
 uncertain-pre 1980		0	0

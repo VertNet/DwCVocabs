@@ -174,12 +174,14 @@ ft.	0.30	0	1
 ft. (alt)	0.30	0	1
 ft. below sea level	0.30	0	1
 ft."	0.30	0	1
+ft.)	0.30	0	1
 ft?	0.30	0	1
 ft]	0.30	0	1
 FT+	0.30	0	1
 FTHM	1.82	0	1
 FTMS	1.82	0	1
 fy	0.30	0	1
+GPS co-ordinates provided by O		0	1
 high tide	0.00	0	1
 high tide level	0.00	0	1
 Höhe		0	1
@@ -205,6 +207,7 @@ land	0.00	0	1
 LITTORAL	0.00	0	1
 lm		0	1
 m	1.00	1	1
+m (from Google Earth)	1.00	0	1
 M (GPS)	1.00	0	1
 M (MAIN ISLAND)	1.00	0	1
 M (MUST BE FATHOMS)	1.82	0	1
@@ -217,6 +220,7 @@ M ELEVATION	1.00	0	1
 m gear		0	1
 m m	1.00	0	1
 M RIVER	0.00	0	1
+m site	1.00	0	1
 M WIRE	1.00	0	1
 m"	1.00	0	1
 m(?)	1.00	0	1
@@ -233,14 +237,11 @@ MET	1.00	0	1
 meter	1.00	0	1
 meter below sea level	1.00	0	1
 METER EQ*	1.00	0	1
-METER WIRE	1.00	0	1
-meters	1.00	0	1
-METERS (AVERAGE)	1.00	0	1
-METERS (BOTTOM)	1.00	0	1
-METERS (UNCLEAR)	1.00	0	1METERS?	1.00	0	1
-0	1
-
-	1.00	0	1
+METER WIRE	1.00METERS MAXIMUM GEAR DEPTH	1.00	0	1
+METERS OF WIRE	1.00	0	1
+METERS TRAWL	1.00	0	1
+METERS*	1.00	0	1
+METERS?	1.00	0	1
 METERSETERS	1.00	0	1
 METERTS	1.00	0	1
 metres	1.00	0	1
