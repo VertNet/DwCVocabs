@@ -696,6 +696,8 @@ F subad.	female	0	1
 F subadult	female	0	1
 F with eggs	female	0	1
 f	female	0	1
+Ffemale	female	0	1
+Fmalefemale	female | male	0	1
 F!	female	0	1
 F! [M]	unknown	0	1
 F(?)	in question	0	1
@@ -912,6 +914,8 @@ Female with eggs	female	0	1
 Female with embryos	female	0	1
 Female with four eggs, liver tis	female	0	1
 Female with six eggs	female	0	1
+femalemale	female | male	0	1
+femaleundet.	female | unknown	0	1
 Female(?)	in question	0	1
 female(imm)	female	0	1
 female(s)-certain	in question	0	1
@@ -1347,6 +1351,7 @@ M Yg,	male	0	1
 M yng	male	0	1
 M young	male	0	1
 M YY	male	0	1
+Mmale	male	0	1
 M!	male	0	1
 M(?)	in question	0	1
 m(?), adult	in question	0	1
@@ -1536,6 +1541,8 @@ Male Female	female | male	0	1
 male juvenile	male	0	1
 male male	male	0	1
 Male of pair	male	0	1
+malefemale	female | male	0	1
+maleundet.	male | unknown	0	1
 Male(?)	in question	0	1
 male(imm.)	male	0	1
 male(s) & female(s)-certain	female | male	0	1
@@ -1735,6 +1742,9 @@ toadlet		0	1
 Transformed or nearly so		0	1
 Transforming larva		0	1
 u	unknown	0	1
+Ufemale	female | unknown	0	1
+Umale	male | unknown	0	1
+Uundet.	unknown	0	1
 u, adult	unknown	0	1
 u, immature	unknown	0	1
 u, immautre	unknown	0	1
@@ -1753,6 +1763,8 @@ uncertain	unknown	0	1
 underlined M	male	0	1
 Underside of tail red, belly and		0	1
 undet.	unknown	0	1
+undet.female	female | unknown	0	1
+undet.male	male | unknown	0	1
 undet..female	female | unknown	0	1
 undet..male	male | unknown	0	1
 undeterminable	indeterminable	0	1

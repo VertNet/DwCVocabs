@@ -17489,6 +17489,7 @@ cranium/partial skel/fetal bones		0	0
 cranium/partial skeleton		0	0
 cranium/partial skeleton/scapula		0	0
 cranium+ L dentary		0	0
+cranium+2front limbs only | cranium+2front limbs only		0	0
 cranium+dentaries		0	0
 cranium+dentaries in articulation		0	0
 cranium+dentaries in articulation, partial skeleton		0	0
@@ -38284,6 +38285,13 @@ hide (dry); tissue (dry); skeleton (dry) sample		0	0
 hide (dry); tissue (ethanol); skeleton (dry)		0	0
 hide (dry); tissue (unknown); skeleton (dry)		0	0
 Hide | Hide		0	0
+Hide and mandible | Hide and mandible		0	0
+Hide and partial skeleton | Hide and partial skeleton		0	0
+Hide and post-cranial skeleton | Hide and post-cranial skeleton		0	0
+Hide and skeleton | Hide and skeleton		0	0
+Hide and skull | Hide and skull		0	0
+Hide and skull and partial skeleton | Hide and skull and partial skeleton		0	0
+Hide and skull, and left front paw | Hide and skull, and left front paw		0	0
 Hide to Skull 23993		0	0
 Hide, flat | Hide, flat		0	0
 hide, skeleton		0	0
@@ -62024,6 +62032,7 @@ PARTIAL SKULL WITH LOWER JAW		0	0
 PARTIAL SKULL WITH M1/-M3/		0	0
 PARTIAL SKULL WITH M2/		0	0
 PARTIAL SKULL WITH M2/ & M3/ IN FLOWSTONE		0	0
+Partial Skull with mandible  and footbones | Partial Skull with mandible  and footbones		0	0
 Partial skull with mandible | Partial skull with mandible		0	0
 PARTIAL SKULL WITH MAX, CRANIUM & BOTH JAWS, 2 DORSALS, 7 CAUDALS, RIBS, CHEVRONS, PARTIAL PUBIS, ILIUM, FEMUR, OTHER BONES		0	0
 PARTIAL SKULL WITH MAX, JAW FRAGS		0	0
@@ -75194,6 +75203,7 @@ RODENT GNAWED TURTLE		0	0
 RODENT GNAWED TURTLE BONE		0	0
 rodent/lagomorph incisor frag		0	0
 rodent/lagomorph incisors		0	0
+rolled skin | rolled skin		0	0
 ROOT FRAGS		0	0
 ROOT OF MOLAR		0	0
 rör		0	0
@@ -76410,6 +76420,7 @@ shell and limb bone frags		0	0
 Shell and limb Frags		0	0
 shell and limb frags, assoc subadult		0	0
 SHELL AND OTHER FRAGMENTS		0	0
+Shell and partial skeleton | Shell and partial skeleton		0	0
 Shell and partial skull | Shell and partial skull		0	0
 shell and plastron, assoc		0	0
 shell and postcranial elements, assoc		0	0
@@ -76418,6 +76429,7 @@ Shell and skeletal fragments.		0	0
 shell and skeleton - 1		0	0
 Shell and skeleton | Shell and skeleton		0	0
 Shell and skull | Shell and skull		0	0
+Shell and skull with vertebral column | Shell and skull with vertebral column		0	0
 shell and some post cranial in pieces		0	0
 SHELL AND TWO PRESERVED SKINS	shell | two preserved skins	0	1
 SHELL BONE		0	0
@@ -76576,6 +76588,7 @@ Shell, skull and postvertebral column | Shell, skull and postvertebral column		0
 Shell, skull and skeleton | Shell, skull and skeleton		0	0
 Shell, skull and vertebral column | Shell, skull and vertebral column		0	0
 Shell, skull, mandible and partial vertebral column | Shell, skull, mandible and partial vertebral column		0	0
+Shell, skull, mandible and vertebral column | Shell, skull, mandible and vertebral column		0	0
 Shell, Skull, Skeleton		0	0
 Shell, skull, tail, and partial skeleton | Shell, skull, tail, and partial skeleton		0	0
 Shell, skulll and postvertebral column | Shell, skulll and postvertebral column		0	0
@@ -77535,6 +77548,7 @@ Skeleton - 3		0	0
 Skeleton - 4		0	0
 Skeleton - 564	skeleton	0	1
 Skeleton - 8		0	0
+Skeleton - front paws | Skeleton - front paws		0	0
 skeleton - lower jaw missing		0	0
 skeleton - mounted		0	0
 skeleton - skull & jaws missing		0	0
@@ -78276,6 +78290,7 @@ skeleton on slab; no counterpart		0	0
 SKELETON ONLY	skeleton	0	1
 Skeleton only (postcranial)		0	0
 skeleton only | skeleton only		0	0
+skeleton only | skeleton only		0	0
 SKELETON ONLY, NO SKULL	skeleton	0	1
 Skeleton only.	skeleton	0	1
 skeleton only. | skeleton only.		0	0
@@ -82089,6 +82104,7 @@ Skin - 50; Tissue - 1	skin - 50 | tissue - 1	0	1
 Skin - 50; Tissue - 50	skin - 50 | tissue - 50	0	1
 Skin - 8		0	0
 skin  and skull		0	0
+skin  and skull | skin  and skull		0	0
 Skin - frozen.  Freeze dried.		0	0
 Skin - Mount only		0	0
 Skin - no tail		0	0
@@ -82930,6 +82946,7 @@ skin +skel		0	0
 skin +skel | tissue		0	0
 Skin = Relaxed Mount		0	0
 Skin an Skeleton | Skin an Skeleton		0	0
+Skin and  Skeleton and Alcoholic Skeleton | Skin and  Skeleton and Alcoholic Skeleton		0	0
 Skin and 2 Skulls - 1		0	0
 Skin and 2 Skulls - 3		0	0
 Skin and Baculum - 1		0	0
@@ -82939,11 +82956,14 @@ skin and full skeleton | skin and full skeleton		0	0
 Skin and Leg Bones		0	0
 skin and mandible	mandible | skin	1	0
 skin and mandible (cranium?)	mandible | skin	1	0
+Skin and mandible | Skin and mandible		0	0
 skin and part skeleton | skin and part skeleton		0	0
 Skin and part. skel.	partial skeleton | skin	1	0
 skin and partial mandible	partial mandible | skin	1	0
 Skin and Partial Skeleton	partial skeleton | skin	1	0
 Skin and Partial Skeleton - 1		0	0
+Skin and partial skeleton | Skin and partial skeleton		0	0
+Skin and partial skeleton, phalanges only | Skin and partial skeleton, phalanges only		0	0
 skin and post cranial skeleton | skin and post cranial skeleton		0	0
 skin and scull	skin | skull	1	0
 Skin and skel	skeleton | skin	1	0
@@ -82952,6 +82972,7 @@ Skin and Skeleton - 1		0	0
 Skin and Skeleton (no skull)		0	0
 skin and skeleton ** | skin and skeleton **		0	0
 Skin and Skeleton | Skin and Skeleton		0	0
+skin and skeleton | skin and skeleton		0	0
 Skin and Skeleton, Carcass in Alcohol | Skin and Skeleton, Carcass in Alcohol		0	0
 skin and skeleton, no skull | skin and skeleton, no skull		0	0
 skin and skell	skeleton | skin	1	0
@@ -82964,16 +82985,20 @@ Skin and Skull - 2		0	0
 Skin and Skull (?)	skin | skull	1	0
 Skin and Skull (disarticulated)		0	0
 skin and skull | skin and skull		0	0
+Skin and skull and bacculum | Skin and skull and bacculum		0	0
 Skin and Skull and Baculum - 1		0	0
 Skin and Skull and Mandible - 1		0	0
 Skin and Skull and Partial Skeleton - 1		0	0
 Skin and Skull and Skeleton - 1		0	0
+Skin and skull and tip of tail | Skin and skull and tip of tail		0	0
+Skin and skull | Skin and skull		0	0
 skin and skull, SKIN MISSING 5/2012		0	0
 skin and skull. | skin and skull.		0	0
 skin and skull; Viscera in formulin | skin and skull; Viscera in formulin		0	0
 skin and skull; Viscera in formulin; ectoparasites in alcohol | skin and skull; Viscera in formulin; ectoparasites in alcohol		0	0
 Skin and Skull? - 1		0	0
 skin and skulll | skin and skulll		0	0
+Skin and tail | Skin and tail		0	0
 Skin andSkeleton | Skin andSkeleton		0	0
 Skin chip		0	0
 skin chip and tissue		0	0
@@ -83161,6 +83186,7 @@ SKIN WITH SKULL AND LIMB BONES		0	0
 SKIN WITH SKULL IN FLUID	fluid skin with skull	0	1
 skin with skull in situ | skin with skull in situ		0	0
 skin		0	0
+skin | skin		0	0
 skin&skull		0	0
 Skin(1981 0211)/Skel(1981 0216)		0	0
 Skin(1981 1110)/Skel(1983 1003)		0	0
@@ -103504,6 +103530,8 @@ skull only *		0	0
 skull only | skull only		0	0
 skull only | tissue		0	0
 skull only + 3 vertebrae | skull only + 3 vertebrae		0	0
+skull only | skull only		0	0
+skull only | skull only		0	0
 skull only*		0	0
 skull only, broken		0	0
 Skull only, mandibles	skull | mandibles	0	1
@@ -104086,6 +104114,7 @@ SKULL WITH FEMUR		0	0
 SKULL WITH FRONTAL BONE + P#/		0	0
 SKULL WITH GOOD TOP		0	0
 SKULL WITH GOOD TOP & POOR T#/		0	0
+Skull with half mandible | Skull with half mandible		0	0
 Skull with horn (left) + jaw		0	0
 Skull with horn (right) + jaw + skeleton (partially cleaned)		0	0
 SKULL WITH HORN CORES BROKEN OFF		0	0
@@ -104695,6 +104724,7 @@ SKULL, MALE, LARGE, CRUSHED LATERALLY		0	0
 skull, mand | skull, mand		0	0
 skull, mandible		0	0
 skull, mandible | skull, mandible		0	0
+skull, mandible and atlas only | skull, mandible and atlas only		0	0
 skull, mandible and atlas only. | skull, mandible and atlas only.		0	0
 Skull, mandible, and headshield only | Skull, mandible, and headshield only		0	0
 Skull, mandible, and skeleton | Skull, mandible, and skeleton		0	0
@@ -104887,6 +104917,7 @@ skull, skeleton, other prep	other prep | skeleton | skull	0	1
 Skull, Skeleton, Skin		0	0
 skull, skin		0	0
 skull, skin, alcoholic		0	0
+skull, skin, and skeleton | skull, skin, and skeleton		0	0
 skull, skin, and skeleton. | skull, skin, and skeleton.		0	0
 skull, skin, atlas		0	0
 skull, skin, complete skeleton		0	0
@@ -105384,6 +105415,7 @@ SKULL+LOWER JAW+NECK VERTEBRAE+SHELL (DRY)	lower jaw | shell | skull | neck vert
 SKULL+LWR MANDIBLE		0	0
 skull+mandible		0	0
 SKULL+MANDIBLE+PES+MANUS		0	0
+skull+mandibles+few vertebrae | skull+mandibles+few vertebrae		0	0
 skull+mandibles+few .vertebrae | skull+mandibles+few .vertebrae		0	0
 SKULL+MATRIX SLAB W DENTARIES,VERTEBRAL+RIB ELEMENTS		0	0
 SKULL+OSTEODERM FRAGS		0	0

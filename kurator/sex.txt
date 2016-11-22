@@ -696,6 +696,8 @@ F SUBAD.	female	1
 F SUBADULT	female	1
 F WITH EGGS	female	1
 F	female	1
+FFEMALE	female	1
+FMALEFEMALE	female | male	1
 F!	female	1
 F! [M]	unknown	1
 F(?)	in question	1
@@ -912,6 +914,8 @@ FEMALE WITH EGGS	female	1
 FEMALE WITH EMBRYOS	female	1
 FEMALE WITH FOUR EGGS, LIVER TIS	female	1
 FEMALE WITH SIX EGGS	female	1
+FEMALEMALE	female | male	1
+FEMALEUNDET.	female | unknown	1
 FEMALE(?)	in question	1
 FEMALE(IMM)	female	1
 FEMALE(S)-CERTAIN	in question	1
@@ -1347,6 +1351,7 @@ M YG,	male	1
 M YNG	male	1
 M YOUNG	male	1
 M YY	male	1
+MMALE	male	1
 M!	male	1
 M(?)	in question	1
 M(?), ADULT	in question	1
@@ -1536,6 +1541,8 @@ MALE FEMALE	female | male	1
 MALE JUVENILE	male	1
 MALE MALE	male	1
 MALE OF PAIR	male	1
+MALEFEMALE	female | male	1
+MALEUNDET.	male | unknown	1
 MALE(?)	in question	1
 MALE(IMM.)	male	1
 MALE(S) & FEMALE(S)-CERTAIN	female | male	1
@@ -1735,6 +1742,9 @@ TOADLET		1
 TRANSFORMED OR NEARLY SO		1
 TRANSFORMING LARVA		1
 U	unknown	1
+UFEMALE	female | unknown	1
+UMALE	male | unknown	1
+UUNDET.	unknown	1
 U, ADULT	unknown	1
 U, IMMATURE	unknown	1
 U, IMMAUTRE	unknown	1
@@ -1753,6 +1763,8 @@ UNCERTAIN	unknown	1
 UNDERLINED M	male	1
 UNDERSIDE OF TAIL RED, BELLY AND		1
 UNDET.	unknown	1
+UNDET.FEMALE	female | unknown	1
+UNDET.MALE	male | unknown	1
 UNDET..FEMALE	female | unknown	1
 UNDET..MALE	male | unknown	1
 UNDETERMINABLE	indeterminable	1
