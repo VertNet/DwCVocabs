@@ -8532,6 +8532,7 @@ alcholic + alc stomach		0	0
 alcholic + alc stomach | tissue		0	0
 alcholic head		0	0
 alcholic head | tissue		0	0
+ALCO		0	0
 alcohlic		0	0
 Alcohoilc		0	0
 alcohol	alcoholic	0	1
@@ -12493,6 +12494,7 @@ BABY, NC		0	0
 BACK HALF BODY, A+B		0	0
 BACK OF SKULL, A+B		0	0
 BACK-BROKEN DORSAL & CAUDAL COLUMN, JUVENILE, IN COUNTERPART		0	0
+BACU		0	0
 BACULA		0	0
 Baculum	baculum	1	1
 baculum  (complete); postcranial skeleton (complete); skull (complete)		0	0
@@ -12607,6 +12609,7 @@ BADLY CRUSHED, COMPLETE SPECIMEN--FAIR		0	0
 BADLY FRAGMENTED SKELETONS		0	0
 BADLY WEATHERED SKULL		0	0
 bagged		0	0
+BALE		0	0
 baleen	baleen	1	1
 Baleen - 1		0	0
 baleen (1 plate)		0	0
@@ -13256,6 +13259,7 @@ Buffer		0	0
 Bukplåt		0	0
 bulk lot		0	0
 bulk lot of teeth		0	0
+BULL		0	0
 BULLA	bulla	0	1
 BULLA FRAG		0	0
 bulla fragment		0	0
@@ -56435,6 +56439,7 @@ NEUROCRANIUM, A+B		0	0
 NEUROCRANIUM, P+C		0	0
 NEUROCRANIUM, WHOLE, EXCELLENT		0	0
 new aenig. genus		0	0
+NICO		0	0
 nine isolated cheek teeth, maxillary frag w M		0	0
 nineteen isolated cheek teeth		0	0
 Nine-tenths L ulna.		0	0
@@ -62435,6 +62440,7 @@ Parts of vertebral column + ribs  (part mounted)		0	0
 PARTS, A+B		0	0
 PARTS, NC		0	0
 PARTS; A+B		0	0
+PASK		0	0
 PATCH OF ARTICULATED GASTRALIS; VERTEBRAL ELEMENTS ON PARTIAL COUNTERPART		0	0
 PATCH OF DENTICLES		0	0
 PATCH OF SCALES		0	0
@@ -76655,6 +76661,7 @@ Shoulder-girdle + sturnum + vertebrae + ribs		0	0
 Showing two young in pouch (in spirit)		0	0
 SHOWS COMPLETE COLUMN		0	0
 SHP		0	0
+SHSK		0	0
 Shugart, G. W.		0	0
 Shugart, G. W. 1602		0	0
 Sick, J. 02		0	0
@@ -81919,6 +81926,7 @@ Skelett		0	0
 skelettdelar och kranium		0	0
 SKELL ONLY	shell	0	1
 SKELL,R+L DENTARY		0	0
+SKELLT		0	0
 skel-no skull	skeleton	0	1
 SKELSTUDY+WING	skeleton | study skin | wing	0	1
 SKELSTUDY+WING | TWO TUBES: PECTORAL, LIVER, HEART		0	0
@@ -101606,8 +101614,11 @@ Skinov. '51		0	0
 Skins		0	0
 SKINS AND RATTLES	skins | rattles	0	1
 Skin-semi		0	0
+SKINT		0	0
 SkinU		0	0
 SkinY		0	0
+SKIT		0	0
+SKKU		0	0
 skn/wing/tissue saved		0	0
 SKNOWN) 36.156.6		0	0
 SKNOWN) 36.156.7		0	0
@@ -101620,6 +101631,7 @@ SKO(part)+T	partial skull | tissue	0	1
 SKO+T	skull | tissue	0	1
 SKON)		0	0
 sktissue		0	0
+SKUL		0	0
 Skul (damaged)l with jaw		0	0
 Skul (sectioned)l with jaw		0	0
 skul/post-cranial		0	0
@@ -105471,6 +105483,9 @@ SKULLS,VERTEBRAE,LIMB BONES		0	0
 SKULLS; JAWS; LIMB BONES; ETC. OF VARIOUS INDIVIDUALS FOUND TOGETHER		0	0
 SKULLS+BONES (DRY)	bones | skull	0	1
 skulls+jaws, approx 14 individuals		0	0
+SKULLT		0	0
+SKULT		0	0
+SKUT & limbs		0	0
 SL		0	0
 SLAB CONTAINING MANY FISH		0	0
 SLAB MOUNT OF COMPLETE SKELETON | Cast		0	0
@@ -105994,6 +106009,16 @@ SS,partial skeleton		0	0
 SS,Tongue		0	0
 ss: head, neck only		0	0
 SS;partial skeleton		0	0
+SSKE		0	0
+SSKEL		0	0
+SSKELT		0	0
+SSKL		0	0
+SSKU		0	0
+SSKU T		0	0
+SSKUL		0	0
+SSKULL		0	0
+SSKULT		0	0
+SSKUT		0	0
 SSM		0	0
 sss		0	0
 sstissue		0	0
@@ -107183,6 +107208,7 @@ TBT frag		0	0
 TE	alcoholic | tissue	0	1
 teaching		0	1
 teaching skel/wing/tail	skeleton | tail | wing	0	1
+TEET		0	0
 TEETH	teeth	0	1
 'TEETH'		0	0
 Teeth  (molars, right lower)		0	0
