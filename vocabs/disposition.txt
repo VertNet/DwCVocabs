@@ -1,4 +1,5 @@
 verbatimDisposition	standardDisposition	standard	checked
+ E		0	0
  No	missing	0	1
  Yes	in collection	0	1
 "Given to National Museum & exchanged Jan. '90 for	voucher elsewhere	0	1
@@ -278,6 +279,14 @@ Duplicate sent to Bombay Nat. Soc., March 1938	duplicate elsewhere	0	1
 Duplicate sent to Bristish Museum, March 1938	duplicate elsewhere	0	1
 Duplicate sent to British Museum, March 1938	duplicate elsewhere	0	1
 duplicates elsewhere	duplicate elsewhere	0	1
+E		0	0
+E, O		0	0
+E,0		0	0
+E,D		0	0
+E,G		0	0
+E,O		0	0
+E,O,D		0	0
+E,O,G		0	0
 Ex with Cleveland mus, Feb 192[illeg]	voucher elsewhere	0	1
 Ex with S.I. Nov.27, 1889	voucher elsewhere	0	1
 Ex. - Tackapausha Museum	voucher elsewhere	0	1
@@ -2100,6 +2109,7 @@ From John Akhurst	in collection	0	1
 From L.B. Davenport	in collection	0	1
 Fta. St. University	in collection	0	1
 G		0	1
+G, O		0	0
 GA to CSIRO, Canberra	voucher elsewhere	0	1
 Gift - City College - 1969	voucher elsewhere	0	1
 Gift - City College - Mar 1969	voucher elsewhere	0	1
@@ -2565,6 +2575,7 @@ Given to Univ. Kansas Feb. 2, '54	voucher elsewhere	0	1
 Given to Vassar College, Mar 1917	voucher elsewhere	0	1
 Given to W.H. Phelps, in exchange, 9 Sep 1941	voucher elsewhere	0	1
 Giving in exchange to Cornell University, May 1972	voucher elsewhere	0	1
+H,E,O		0	0
 Holotype		0	1
 HolotypeOn Loan		0	1
 Humboldt	voucher elsewhere	0	1
@@ -2718,6 +2729,11 @@ Nov 1966;Exchange H.B. Hough, Ontario, Canada	voucher elsewhere	0	1
 Nov. 1903; Exchanged with J & J Mailliard	voucher elsewhere	0	1
 NYC Area Exhibit, returned to collection 1-87	in collection	0	1
 NYC Exhibit, Sept 1983	voucher elsewhere	0	1
+O		0	0
+O, G		0	0
+O,D		0	0
+O,E		0	0
+O,G		0	0
 OE	voucher elsewhere	0	1
 On exhibit	voucher elsewhere	0	1
 On exhibit - mount taken from Biology of Birds Hal	voucher elsewhere	0	1
