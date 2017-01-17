@@ -13354,6 +13354,7 @@ C		0	0
 C & S		0	0
 C & S - 0		0	0
 C & S - 1		0	0
+C & S - 1; Stomach Contents - 1		0	0
 C & S + skin - 1		0	0
 C ?		0	0
 C and S - 1	cleared and stained	0	1
@@ -24230,9 +24231,12 @@ estómac (etílic 70 amb glicerina)		0	0
 estómac, aparell reproductor (etílic 70 amb glicerina)		0	0
 ET	alcoholic	0	1
 ETHANOL		0	0
+Ethanol - 0		0	0
 Ethanol - 1		0	0
 Ethanol - 1; Ethanol - 1		0	0
 Ethanol - 1; Ethanol - 1; Ethanol - 1		0	0
+Ethanol - 1; Hemipenis - 1		0	0
+Ethanol - 1; Tissue		0	0
 Ethanol - 1; Tissue - 100		0	0
 Ethanol - 10		0	0
 Ethanol - 11		0	0
@@ -40233,6 +40237,11 @@ ISOLATED VERTEBRAE		0	0
 ISOPROPANOL		0	0
 Isopropanol - 0		0	0
 Isopropanol - 1		0	0
+Isopropanol - 1; C & S - 1; C & S - 1		0	0
+Isopropanol - 1; Hemipenis - 1		0	0
+Isopropanol - 1; Skeleton - 1		0	0
+Isopropanol - 1; Skeleton + skin - 1		0	0
+Isopropanol - 1; Tissue - 100		0	0
 Isopropanol - 10		0	0
 Isopropanol - 11		0	0
 Isopropanol - 14		0	0
@@ -77524,6 +77533,7 @@ Skeleton - 1; Carapace		0	0
 Skeleton - 1; Flat skin - 1		0	0
 Skeleton - 1; Fluid - 1		0	0
 Skeleton - 1; Fluid - 1; Tissue - 1; Skin		0	0
+Skeleton - 1; Hemipenis - 1; Skin - 1		0	0
 Skeleton - 1; Isopropanol - 1		0	0
 Skeleton - 1; Misc. - 1		0	0
 Skeleton - 1; Mounted - 1		0	0
@@ -108243,11 +108253,16 @@ Tissue - 10; Wings_tail - 2; Skel - 1	tissue - 10 | wings_tail - 2 | skeleton - 
 Tissue - 100		0	0
 Tissue - 100; Alcoholic - 1		0	0
 Tissue - 100; C & S - 1		0	0
+Tissue - 100; C & S - 1; Stomach Contents - 1		0	0
 Tissue - 100; C & S + skin - 1		0	0
+Tissue - 100; Ethanol - 0		0	0
 Tissue - 100; Ethanol - 1		0	0
 Tissue - 100; Formalin - 1		0	0
 Tissue - 100; Isopropanol - 0		0	0
 Tissue - 100; Isopropanol - 1		0	0
+Tissue - 100; Isopropanol - 1; C & S - 1; C & S - 1		0	0
+Tissue - 100; Isopropanol - 1; Skeleton - 1		0	0
+Tissue - 100; Isopropanol - 1; Stomach Contents - 1		0	0
 Tissue - 100; Isopropanol - 12		0	0
 Tissue - 100; Isopropanol - 14		0	0
 Tissue - 100; Isopropanol - 19		0	0
@@ -108262,6 +108277,7 @@ Tissue - 100; Skeleton - 0		0	0
 Tissue - 100; Skeleton - 1		0	0
 Tissue - 100; Skeleton - 1; Skin - 1		0	0
 Tissue - 100; Skeleton + skin - 1		0	0
+Tissue - 100; Skeleton + skin - 1; Hemipenis - 1		0	0
 Tissue - 100; Skin - 1		0	0
 Tissue - 100; Skin - 1; Skeleton - 1		0	0
 Tissue - 100; Skin - 1; Syrinx - 1		0	0
