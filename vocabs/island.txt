@@ -6,42 +6,66 @@ Waterbody	IslandGroup	Island
 		Artificial Island
 		Avery
 		Avery Island
-		Baffin
 		Baillie-Hamilton
+		Banty
+		Barren
+		Belle
 		Bellows
+		Big
 		Billys
+		Bird
 		Bird Rock
 		Boscawen
 		Bread and Cheese
+		Burdell
 		Calumet
+		Campbell
+		Canyon
 		Cape Breton
 		Captree
 		Carroll
+		Cat
 		Cedar
+		Center
 		Chañaral
+		Channel
 		Chimon
+		Cobblestone
+		Cochrane's
 		Cockburn
 		Contramaestre
+		Copper
+		Cove
+		Craig
 		Cross
+		Cypress
 		Dauphin
+		Davis
 		De Horsey
+		Dewees
 		Disko
+		Doame
 		Dog
 		Drayton
 		Duck
 		Duke of York
 		East Timbalier
 		Egg
-		Elrington
+		Eider
 		Emerald Isle
-		Evans
-		Evans (Bishop Rock)
+		Fairfield
 		Fidalgo
 		Fir
+		Fire
+		Fisherman's
 		Flat
+		Flood
 		Galveston
+		Gillham
 		Goeree-Overflakkee
+		Goose
 		Gorgona
+		Grand
 		Grand Isle
 		Grassy
 		Greeenland
@@ -56,71 +80,94 @@ Waterbody	IslandGroup	Island
 		Hutchinson
 		Hypluxo
 		Ihla Grande
-		Île d'Anticosti
 		Ilha de Maracá
 		Ilha do Cardoso
-		Isla de las Mujeres
 		Isla de Pascua
+		Isla Victoria
 		Isle of Sarkardlet
 		Itaparica
 		James
 		Jekyll
 		Jones
 		Jupiter
+		Kiger
 		Knotts
 		Kuiu
+		Laguna Dam
 		Little Galoo
+		Little Land
 		Little Pine
+		Long
 		Long Island
 		Longboat Key
 		Macaca
 		Madagascar
 		Magdalena
 		Marion
+		Marsh
+		Merritt
 		Mocha
 		Monkey
+		Moosehead Treasure
 		Mud
 		Mustang
 		New Guinea
 		Nonamesset
+		Norton
 		Ono
+		Otter
 		Padre
+		Point Lobos
 		Port George
 		Princess Royal
 		Pupuya
 		Radio
 		Ransom Point
+		Rattlesnake
 		Riverside
 		Rock
 		Saint Helena
 		Saint James
 		Sakhalin
+		Salicornia
 		Samish
 		Sandy Hook
 		Santa Rosa
 		Santo
+		Seal
 		Seymour
 		Shell
 		Skidaway
 		Socorro
+		Staten
 		Staten Island
 		Stock
+		Table
 		Taipa
 		Tholen
 		Tierra del Fuego
 		Treasure Island
 		Trinidad
+		Tubbs
+		Turr
 		Upper Sugar Loaf
+		Van Grachin
 		Vancouver
+		Vita Rocks
 		Wainwright
 		Walpole
 		Wassaw
+		Wendle
 		Whale
 		White Marsh
 		Willard
 		Willow
 	Aasiaat Archipelago	Aasiaat
+	Aleutian Islands	Aleun
 	Alexander Archipeago	Noyes
+	Alexander Archipelago	Canyon
+	Alexander Archipelago	Castle
+	Alexander Archipelago	Cat
 	Alor Islands	Alor
 	Archipiélago de Chiloé	Chiloé
 	Archipiélago de Chiloé	Isla Grande de Chiloé
@@ -144,9 +191,14 @@ Waterbody	IslandGroup	Island
 	British Isles	Hexham
 	British Isles	Tiree
 	Canadian Arctic Archipelago	Baffin
+	Canadian Arctic Archipelago	Baillie
 	Canadian Arctic Archipelago	Banks
+	Canadian Arctic Archipelago	Bantes
+	Canadian Arctic Archipelago	Beloeil
 	Canadian Arctic Archipelago	Southampton
 	Canadian Arctic Archipelago	Victoria
+	Cape Breton Islands	Bird
+	Cape Breton Islands	Cape Breton
 	Gorong Islands	Gorom
 	Greater Sunda Islands	Java
 	Greater Sunda Islands	Sulawesi
@@ -161,6 +213,7 @@ Waterbody	IslandGroup	Island
 	Kai Islands	Kai Kecil
 	Kai Islands	Taam
 	Kepulauan Banggai	Peling
+	LaHave Islands	Indian
 	Lesser Sunda Islands	Bali
 	Lesser Sunda Islands	Flores
 	Lesser Sunda Islands	Komodo
@@ -171,8 +224,8 @@ Waterbody	IslandGroup	Island
 	Lesser Sunda Islands	Sumba
 	Lesser Sunda Islands	Sumbawa
 	Lesser Sunda Islands	Timor
-	Long Island and New York City barrier Islands	East Fire Island
-	Long Island and New York City barrier Islands	Fire Island
+	Long Island and New York City Barrier Islands	East Fire Island
+	Long Island and New York City Barrier Islands	Fire Island
 	Malay Archipelago	Papua
 	Maluku Islands	Ambon
 	Maluku Islands	Batjan
@@ -185,7 +238,9 @@ Waterbody	IslandGroup	Island
 	Maluku Islands	Teor
 	Maluku Islands	Ternate
 	Maluku Islands	Timur Laut
+	Maurelle Islands	Anguilla
 	Natuna Islands	Natuna Besar
+	Newfoundland	Newfoundland
 	Nias Islands	Nias
 	North Atlantic Ocean	Sea Islands
 	Outer Banks	Hatteras
@@ -199,8 +254,18 @@ Waterbody	IslandGroup	Island
 	Raja Ampat Islands	Misool
 	Raja Ampat Islands	Waigeo
 	Riau Islands	Batam
+	Sammish Bay	Sammish
+	San Juan Islands	Bird Rock
+	San Juan Islands	Blakely
+	San Juan Islands	Brown
+	San Juan Islands	Colville
+	San Juan Islands	Decatur
+	San Juan Islands	Flattop
+	San Juan Islands	Johns
+	San Juan Islands	Jones
 	San Juan Islands	Lopez
 	San Juan Islands	Orcas
+	San Juan Islands	Penguin
 	San Juan Islands	Shaw
 	San Juan Islands	Waldron
 	Sangihe Islands	Sangir Besar
@@ -212,6 +277,7 @@ Waterbody	IslandGroup	Island
 	Sula Islands	Mangole
 	Sula Islands	Sula Besi
 	Sula Islands	Taliabu
+	Tierra del Fuego	Isla Grande de Tierra del Fuego
 	Upernavik Archipelago	Kittorsaq
 	Visayas	Negros
 Adriatic Sea		Korčula
@@ -225,6 +291,7 @@ Amazonas		Marajó
 Amazonas	Arquipélago do Marajó	Marajó
 Arabian Sea	Khuriya Muriya Islands	Al-Hasikiyah
 Aransas Bay		Lydia Ann
+Arcata Bay		Daby
 Arctic Ocean	Anzhu Islands	New Siberia
 Arctic Ocean	Sverdrup Islands	Axel Heiberg
 Arep River	Bismarck Archipelago	New Britain
@@ -242,7 +309,7 @@ Barents Sea		Kolguyev
 Barents Sea	Svalbard	Bjørnøya
 Barents Sea	Svalbard	Spitsbergen
 Barents Sea	Svalbard	Spitzbergen
-Barkley Sound		Vancouver
+Barrow Strait	Queen Elizabeth Islands	Cornwallis
 Bass Strait		King
 Bass Strait		Phillip
 Bay of Bengal	Andaman Islands	Middle Andaman
@@ -253,27 +320,40 @@ Bay of Bengal	Andaman Islands	South Andaman
 Bay of Bengal	Nicobar Islands	Car Nicobar
 Bay of Bengal	Nicobar Islands	Great Nicobar
 Bay of Fundy		Campobello
+Bay of Fundy		White Horse
 Bay of Fundy	Grand Manan Archipelago	Grand Manan
 Bay of Fundy	Grand Manan Archipelago	Hay
 Bay of Fundy	Grand Manan Archipelago	Kent
 Bay of Fundy	Grand Manan Archipelago	Outer Wood
 Bay of Fundy	Grand Manan Archipelago	Sheep
 Bay of Fundy	Grand Manan Archipelago	Wood
+Bay of Fundy	Grand Manan Islands	Grand Manan
 Bay of Isles		Knight
 Bay of Isles	South Georgia Islands	South Georgia
 Beagle Channel	Tierra del Fuego	Gable
 Beaufort Sea		Baillie
-Beaufort Sea		Cooper
+Beaufort Sea		Barter
+Beaufort Sea		Doctor
+Beaufort Sea		Flaxman
+Beaufort Sea		Herschel
 Beaufort Sea		Herschel Island
 Beaufort Sea		Langley Island
 Beaufort Sea		Richards
 Beaufort Sea		Richards Island
+Beaufort Sea		Stump
+Beaufort Sea	Plover Islands	Cooper
+Beaufort Sea	Plover Islands	Deadman's
 Behm Canal		Grant
 Bellingham Bay		Eliza
+Bering Sea		Big Punuk
+Bering Sea		Deer
+Bering Sea		Glen
+Bering Sea		Green
 Bering Sea		Kigigak
 Bering Sea		King
 Bering Sea		Nelson
 Bering Sea		Nunivak
+Bering Sea		Operl
 Bering Sea		Pinnacle Reef
 Bering Sea		Punuk
 Bering Sea		Saint Lawrence
@@ -282,23 +362,27 @@ Bering Sea		Seal
 Bering Sea		Sledge
 Bering Sea	Aleutian Islands	Igitkin
 Bering Sea	Aleutian Islands	Ogliuga
-Bering Sea	Commander Islands	Bering Island
+Bering Sea	Aleutian Islands	Shemya
 Bering Sea	Commander Islands	Medny
 Bering Sea	Pribilof Islands	Otter
 Bering Sea	Pribilof Islands	Saint George
 Bering Sea	Pribilof Islands	Saint Paul
+Bering Sea	Pribilof Islands	Walrrus
 Bering Sea	Pribilof Islands	Walrus
+Bering Strait		Sarichef
 Bering Strait	Diomede Islands	Big Diomede
 Bering Strait	Diomede Islands	Little Diomede
 Bismarck Sea		Admosin
 Bismarck Sea		Dampier Island
 Block Island Sound		Block
 Block Island Sound		Plum
+Bolinas Lagoon		Kent
 Boothbay Harbor		Damariscove
 Boston Harbor		Calf
 Boston Harbor		Peddocks
 Boston Harbor		Thompson
 Bradore Bay		Paroque
+Bristol Bay	Walrus Islands	Round
 Broken Bay		Lion
 Buzzards Bay		Bird
 Buzzards Bay		Ram
@@ -309,6 +393,8 @@ Buzzards Bay	Elizabeth Islands	Pasque
 Buzzards Bay	Elizabeth Islands	Penikese
 Buzzards Bay	Weepecket Islands	Weepecket
 Cambridge Bay	Canadian Arctic Archipelago	Victoria
+Cape Fear River		Battery
+Caribbean  Sea		Cancún
 Caribbean Sea		Caye Caulker
 Caribbean Sea		Cozumel
 Caribbean Sea		Cuba
@@ -409,6 +495,8 @@ Carribean Sea		Galeta
 Casco Bay		Bailey
 Casco Bay		Halfway Rock
 Casco Bay		Orr's
+Case Inlet		Harstine
+Cedar Bay		Block
 Celebes Sea	Greater Sunda Islands	Sulawesi
 Celtic Sea	Isles of Scilly	Bryher
 Celtic Sea	Isles of Scilly	St Mary's
@@ -421,19 +509,24 @@ Chesapeake Bay		Kent
 Chesapeake Bay		Poplar
 Chesapeake Bay		Tilghman
 Chincoteague Bay		Big Bay Marsh
+Chincoteague Bay		Chincoteague
 Chincoteague Bay		Robbins Tump
 Chokoloskee Bay		Chokoloskee
 Choptank River		Rooster
-Clayoquot Sound		Vancouver
+Chuckchi Sea	Seahorse Islands	Seahorse
+Clear Lake		Rattlesnake
 Clearwater River		Fir
 Columbia River		East Sand
 Columbia River		Government
 Columbia River		Kirk
+Columbia River		Miller
 Columbia River		Puget
 Columbia River		Rice
 Columbia River		Rock Island
 Columbia River		Sauvie
 Columbia River		Washburn
+Columbia River		Whitcomb
+Columbia River	Blalock Islands	Blalock
 Columbia River	Bridgeport Bar Islands	Bridgeport Bar Island #1
 Columbia River	Bridgeport Bar Islands	Bridgeport Bar Island #10
 Columbia River	Bridgeport Bar Islands	Bridgeport Bar Island #11
@@ -441,27 +534,26 @@ Columbia River	Bridgeport Bar Islands	Bridgeport Bar Island #2
 Columbia River	Bridgeport Bar Islands	Bridgeport Bar Island #9
 Columbia River	Bridgeport Bar Islands	Bridgeport Island #3
 Columbia River	Bridgeport Bar Islands	Bridgeport Island #7
-Conception Bay		Baccalieu
 Coral Sea		Double
 Coral Sea		Dunk
 Coral Sea		Hinchinbrook
 Crab Bay		Evans
+Crater Lake		Wizard
 Currituck Sound		Knotts
 Danau Lindu	Greater Sunda Islands	Sulawesi
 Danau Poso	Greater Sunda Islands	Sulawesi
 Dease Strait	Finlayson Islands	Finlayson
 Delaware River		Pea Patch
+Detroit River		Grassy
+Devil's Lake		Graham
 Disko Bay		Greenland
 Dry Bay		Bear
-Dutch Harbor	Aleutian Islands	Amaknak
+Dutch Harbor	Fox Islands	Amaknak
 Duwamish Waterway		Kellogg
 East Penobscot Bay		Oak
-Eastern Northern Pacific Ocean		Vancouver
 Eastern Northern Pacific Ocean	Aleutian Islands	Unimak
-Eastern Northern Pacific Ocean	Alexander Archipelago	Back
 Eastern Northern Pacific Ocean	Alexander Archipelago	Prince of Wales
 Eastern Northern Pacific Ocean	Alexander Archipelago	Revillagigedo
-Eastern Northern Pacific Ocean	Alexander Archipelago	Wrangell
 Eastern Northern Pacific Ocean	Hawaiian Islands	Oahu
 English Channel	British Isles	Isle of Wight
 English Channel	Channel Islands	Guernsey
@@ -471,6 +563,7 @@ Essequibo River		Leguan
 Essequibo River		Wakenaam
 Firth of Clyde	British Isles	Arran
 Firth of Clyde	British Isles	Isle of Arran
+Flatehead  Lake		Wild Horse
 Foxe Basin		Rowley
 Fraser River		Lulu
 Fraser River		Nicoman
@@ -487,31 +580,83 @@ Golfo de Guayaquil		Santa Clara
 Grays Harbor		Mini-Moon
 Grays Harbor		Moon
 Grays Harbor		Rennie
+Grays Harbor		Whitcomb
 Great Australian Bight		Sandy Hook
+Great Salt Lake		Egg
 Great Salt Lake		Gunnison
+Great Salt Lake		Hat
+Great Slave Lake		Stoney
 Great South Bay		Gilgo
 Green Bay		Washington
 Guantánamo Bay		Cuba
+Gulf of Alaska		Augustine
+Gulf of Alaska		Channel
+Gulf of Alaska		Chenega
+Gulf of Alaska		Cheval
 Gulf of Alaska		Chisik
+Gulf of Alaska		Culross
+Gulf of Alaska		Danger
+Gulf of Alaska		Egg
+Gulf of Alaska		Elizabeth
+Gulf of Alaska		Elrington
+Gulf of Alaska		Evans
+Gulf of Alaska		Fish
+Gulf of Alaska		Grass
+Gulf of Alaska		Gravina
+Gulf of Alaska		Green
+Gulf of Alaska		Gull
 Gulf of Alaska		Hawkins
+Gulf of Alaska		Heart
+Gulf of Alaska		Herendeen
+Gulf of Alaska		Hesketh
 Gulf of Alaska		Hinchinbrook
+Gulf of Alaska		Ingot
+Gulf of Alaska		Kalgin
+Gulf of Alaska		Kayak
+Gulf of Alaska		Kokinhenik
+Gulf of Alaska		Latouche
+Gulf of Alaska		Little Green
 Gulf of Alaska		Martin
 Gulf of Alaska		Matushka
 Gulf of Alaska		Middleton
 Gulf of Alaska		Montague
+Gulf of Alaska		Naked
 Gulf of Alaska		Natoa
 Gulf of Alaska		Nuka
+Gulf of Alaska		Olsen
+Gulf of Alaska		Rugged
+Gulf of Alaska		Tanker
+Gulf of Alaska		Twoheaded
+Gulf of Alaska		Ushagat
+Gulf of Alaska		Whale
+Gulf of Alaska		Yukon
+Gulf of Alaska	Barren Islands	East Amatuli
+Gulf of Alaska	Barren Islands	Sugarloaf
+Gulf of Alaska	Barren Islands	West Amatuli
+Gulf of Alaska	Chugach Islands	Chugach
+Gulf of Alaska	Chugach Islands	Perl
+Gulf of Alaska	Evans Island	Bishop Rock
 Gulf of Alaska	Kodiak Archipelago	Afognak
 Gulf of Alaska	Kodiak Archipelago	Afognak or Shuyak
 Gulf of Alaska	Kodiak Archipelago	Big Fort
 Gulf of Alaska	Kodiak Archipelago	Chiniak
+Gulf of Alaska	Kodiak Archipelago	Chirikof
+Gulf of Alaska	Kodiak Archipelago	Hog
+Gulf of Alaska	Kodiak Archipelago	Kateekuk
 Gulf of Alaska	Kodiak Archipelago	Kodiak
 Gulf of Alaska	Kodiak Archipelago	Long Island
 Gulf of Alaska	Kodiak Archipelago	Marmot
+Gulf of Alaska	Kodiak Archipelago	Nuka
 Gulf of Alaska	Kodiak Archipelago	Raspberry
 Gulf of Alaska	Kodiak Archipelago	Shuyak
 Gulf of Alaska	Kodiak Archipelago	Sitkalidak
 Gulf of Alaska	Kodiak Archipelago	Spruce
+Gulf of Alaska	Kodiak Island Archipelago	Ladder
+Gulf of Alaska	Kodiak Island Archipelago	Lamb
+Gulf of Alaska	Kodiak Island Archipelago	Mary
+Gulf of Alaska	Kodiak Island Archipelago	Raspberry
+Gulf of Alaska	Kodiak Island Archipelago	Spruce
+Gulf of Alaska	Kodiak Island Archipelago	Woody
 Gulf of Alaska	Pye Islands	Ragged
 Gulf of Alaska	Semidi Islands	Chowiet
 Gulf of Alaska	Semidi Islands	North Semidi
@@ -524,6 +669,7 @@ Gulf of Guinea		Bioko
 Gulf of Guinea	Príncipe	Príncipe
 Gulf of Guinea	São Tomé	São Tomé
 Gulf of Maine		Green
+Gulf of Maine		Little Duck Isle
 Gulf of Maine		Machias Seal
 Gulf of Maine		Old Man
 Gulf of Maine		Petit Manan
@@ -551,12 +697,14 @@ Gulf of Mexico		Rock Island
 Gulf of Mexico		Saint George
 Gulf of Mexico		Sanibel
 Gulf of Mexico		Santa Rosa
+Gulf of Mexico		Shell Keys
 Gulf of Mexico		Smith
 Gulf of Mexico		South Padre
 Gulf of Mexico		Terra Ceia
 Gulf of Mexico	Cedar Keys	Cedar Key
 Gulf of Mexico	Cedar Keys	Snake Key
 Gulf of Mexico	Cedar Keys	Way Key
+Gulf of Mexico	Dry Tortugas	Bird Key
 Gulf of Mexico	Dry Tortugas	Bush Key
 Gulf of Mexico	Dry Tortugas	Garden Key
 Gulf of Mexico	Dry Tortugas Islands	Bird Keys
@@ -593,16 +741,22 @@ Gulf of Mexico	Florida Keys	Summerland Key
 Gulf of Mexico	Florida Keys	Upper Matecumbe Key
 Gulf of Mexico	Florida Keys	Upper Sugarloaf Key
 Gulf of Mexico	Florida Keys	Water Key
+Gulf of Mexico	Texas Barrier Islands	Mustang
+Gulf of Mexico	Texas Barrier Islands	Padre
 Gulf of Panama	Las Perlas	Isla del Rey
 Gulf of Paria	Five Islands	Nelson
 Gulf of Saint Lawrence		Bonaventure
 Gulf of Saint Lawrence		Perroquets
 Gulf of Saint Lawrence		Prince Edward Island
 Gulf of Saint Lawrence	Bonaventure	Bonaventure
+Gulf of Saint Lawrence	Îles de la Madeleine	Alright
 Gulf of Saint Lawrence	Îles de la Madeleine	Cap-aux-Meules
 Gulf of Saint Lawrence	Îles de la Madeleine	Rochers-aux-Oiseaux
 Gulf of Saint Lawrence	Isle-aux-Grues	Grosse Île
 Gulf of Saint Lawrence	Isle-aux-Grues	Grosse Isle
+Gulf of Saint Lawrence	Magdalen Islands	Great Bird
+Gulf of Saint Lawrence	Magdalen Islands	Grosse Isle
+Gulf of Saint Lawrence	Magdalen Islands	Magdalen
 Gulf of St. Lawrence	Îles de la Madeleine	Cap-aux-Meules
 Gulf of Thailand		Ko Khram Yai
 Hanauma Bay	Hawaiian Islands	Oahu
@@ -617,6 +771,7 @@ Hingham Bay		Slate
 Hingham Bay		Spinnaker
 Hodges Narrows		Hog
 Horseshoe Bay	Bermuda	Main Island
+Housatonic River		Duck
 Howe Sound		Bowen
 Hudson Bay		Bill Of Portland
 Hudson Bay		Dunne Foxe
@@ -627,6 +782,7 @@ Hudson Bay	Belcher Islands	Wiegand
 Hudson River		Green
 Hudson River		Van Schaick
 Hudson Strait	Button Islands	Lacy
+Hudson Strait	Canadian Arctic Archipelago	Big
 Hudson Strait	Canadian Arctic Archipelago	Mill
 Indian Ocean		Barrow
 Indian Ocean		Christmas
@@ -706,17 +862,22 @@ Irish Sea	British Isles	Anglesey
 Irish Sea	British Isles	Isle of Man
 Isle au Haut Bay		Brimstone
 Jamaica Bay		Long Island
+James Bay		Charlton
 Java Sea	Lesser Sunda Islands	Bali
 Java Sea	Lesser Sunda Islands	Flores
 Java Sea	Lesser Sunda Islands	Sumba
 Java Sea	Lesser Sunda Islands	Sumbawa
 Kachemak Bay		Gull
+Katchemak Bay		Sixty Foot Rock
 Kennebecasis River		Long Island
 Korea Strait		Geoje
 Korea Strait		Jeju
 Korean Strait		Jeju
+Kotzebue Sound		Chamisso
+Kotzebue Sound		Kotzebue
 Labrador Sea	Gannet Islands	Gannet
 Lac La Martre		Big Island
+Lacy Cove		South Rock
 Lago de Pátzcuaro		Isla de Janitzio
 Lago Enriquillo	Greater Antilles	Hispaniola
 Lago Enriquillo, Río Yaque del Sur, Lago Enriquillo	Greater Antilles	Hispaniola
@@ -727,7 +888,9 @@ Lake Erie		Gibralter
 Lake Erie		Pelee
 Lake Erie		South Bass
 Lake Erie		Starve
+Lake Erie	Bass Islands	South Bass
 Lake Erie	Sister Islands	Middle Sister
+Lake Huron		Bois Blanc
 Lake Huron		Cove
 Lake Huron		Drummond
 Lake Huron		Great Duck
@@ -745,6 +908,7 @@ Lake Michigan		Gull
 Lake Michigan		High
 Lake Michigan		Hog
 Lake Michigan		South Fox Island
+Lake Michigan		Washington
 Lake Michigan	Beaver Island Archipelago	Beaver
 Lake Michigan	Beaver Island Archipelago	Hat
 Lake Michigan	Beaver Island Archipelago	Shoe
@@ -765,24 +929,32 @@ Long Island Sound		Falkner
 Long Island sound		Great Gull
 Long Island Sound		Long Island
 Mackenzie Bay	Canadian Arctic Archipelago	Kendall
+Mackenzie River		Perry
 Malheur Lake		Malheur
 Malvo River	Bismarck Archipelago	New Britain
+Mar de Cortés		Alcatraz
 Mar de Cortés		Angel de la Guarda
+Mar de Cortés		Blanca
 Mar de Cortés		Carmen
+Mar de Cortés		Cayo
+Mar de Cortés		Consag Rock
 Mar de Cortés		Danzante
 Mar de Cortés		Encantada
-Mar de Cortés		Espiritu Santo
+Mar de Cortés		Espíritu Santo
 Mar de Cortés		Estanque
 Mar de Cortés		Jacques Cousteau
+Mar de Cortés		La Gaviota
 Mar de Cortés		Mejia
 Mar de Cortés		Monserrate
 Mar de Cortés		Partida
+Mar de Cortés		Pelican
 Mar de Cortés		Raza
 Mar de Cortés		Salsipuedes
 Mar de Cortés		San Diego
 Mar de Cortés		San Francisco
 Mar de Cortés		San Ildefonso
 Mar de Cortés		San Jorge
+Mar de Cortés		San Jose
 Mar de Cortés		San José
 Mar de Cortés		San Lorenzo
 Mar de Cortés		San Lorenzo Sur
@@ -792,6 +964,7 @@ Mar de Cortés		San Pedro Martir
 Mar de Cortés		San Pedro Nolasco
 Mar de Cortés		Santa Catalina
 Mar de Cortés		Santa Cruz
+Mar de Cortés		Smith
 Mar de Cortés		Tortuga
 Mar de Cortés	Islas Grandes	San Estaban
 Mar de Cortés	Islas Grandes	San Esteban
@@ -826,7 +999,11 @@ Milne Bay		New Guinea
 Milne Bay	Louisiade Archipelago	Misima
 Mississippi Sound		Deer
 Mississippi Sound		Horn
+Mitrofania Bay		Brother
+Moffett Lagoon		Neumann
 Mona Passage	Greater Antilles	Mona
+Mono Lake		Negit
+Mono Lake		Paoha
 Montauk Inlet		Long Island
 Moose River		Moose Factory
 Moriches Inlet		Long Island
@@ -835,6 +1012,8 @@ Mount Sinai Harbor		Long Island
 Muscongus Bay		Hog
 Muscongus Bay		Ross
 Nantucket Sound		Monomoy
+Napa River		Knight
+Napa River		Mare
 Napeague Bay		Long Island
 Nares Strait	Queen Elizabeth Islands	Pim
 Narragansett Bay		Conanicut
@@ -844,7 +1023,42 @@ Narraguagus Bay		Fosters
 Nelson River		Delta
 New York Bay		Staten Island
 Niagara River		Grand
+North Atlantic Ocean		Chappaquiddick
+North Atlantic Ocean		Hog
+North Atlantic Ocean		Long
+North Atlantic Ocean		Martha's Vineyard
+North Atlantic Ocean		Mount Desert
+North Atlantic Ocean		Paul's
+North Atlantic Ocean		Saint George
+North Atlantic Ocean		Sapalo
+North Atlantic Ocean		Shelter
+North Atlantic Ocean		Trumpet
+North Atlantic Ocean	Barrier Islands	Key Biscayne
+North Atlantic Ocean	Barrier Islands	Virginia Key
+North Atlantic Ocean	Elizabeth Islands	Naushon
+North Atlantic Ocean	Elizabeth Islands	Nonamessett
+North Atlantic Ocean	Golden Isles	Jekyll
+North Atlantic Ocean	Golden Isles	Sea
+North Atlantic Ocean	Golden Isles	St. Simons
+North Atlantic Ocean	Outer Banks	Roanoke
 North Bay		Goose
+North Pacific Ocean		Terminal
+North Pacific Ocean	Channel Islands of California	Prince
+North Pacific Ocean	Channel Islands of California	San Clemente
+North Pacific Ocean	Channel Islands of California	San Miguel
+North Pacific Ocean	Channel Islands of California	San Nicolas
+North Pacific Ocean	Channel Islands of California	Santa Barbara
+North Pacific Ocean	Channel Islands of California	Santa Catalina
+North Pacific Ocean	Channel Islands of California	Santa Cruz
+North Pacific Ocean	Channel Islands of California	Santa Rosa
+North Pacific Ocean	Farallon Ids.	Southeast Farallon
+North Pacific Ocean	Farallon Islands	Murre Rock
+North Pacific Ocean	Farallon Islands	North Farallon
+North Pacific Ocean	Farallon Islands	South Farallon
+North Pacific Ocean	Farallon Islands	Southeast Farallon
+North Pacific Ocean	The Anacapas	East Anacapa
+North Pacific Ocean	The Anacapas	Middle Anacapa
+North Pacific Ocean	The Anacapas	West Anacapa
 North Sea	British Isles	Fair Isle
 North Sea	Farne Islands	Farne Island
 North Sea	Frisian Islands	Texel
@@ -862,14 +1076,15 @@ Northern Atlantic Ocean		Anastasia
 Northern Atlantic Ocean		Anatasia
 Northern Atlantic Ocean		Appledore Island
 Northern Atlantic Ocean		Assateague
+Northern Atlantic Ocean		Baccalieu
 Northern Atlantic Ocean		Block
 Northern Atlantic Ocean		Bogue Banks
 Northern Atlantic Ocean		Boularderie
 Northern Atlantic Ocean		Bulls
 Northern Atlantic Ocean		Cape Breton
 Northern Atlantic Ocean		Cape Sable Island
+Northern Atlantic Ocean		Cartwright
 Northern Atlantic Ocean		Cedar
-Northern Atlantic Ocean		Cedros
 Northern Atlantic Ocean		Chapel
 Northern Atlantic Ocean		Chappaquiddick
 Northern Atlantic Ocean		Chincoteague Island
@@ -889,7 +1104,6 @@ Northern Atlantic Ocean		Great Gull
 Northern Atlantic Ocean		Great Island
 Northern Atlantic Ocean		Haddock
 Northern Atlantic Ocean		Hare
-Northern Atlantic Ocean		Hartman
 Northern Atlantic Ocean		Herring
 Northern Atlantic Ocean		Hog
 Northern Atlantic Ocean		Hunting
@@ -897,10 +1111,10 @@ Northern Atlantic Ocean		Île-de-Sein
 Northern Atlantic Ocean		Isle Au Haut
 Northern Atlantic Ocean		Isle of Palms
 Northern Atlantic Ocean		Islesboro
-Northern Atlantic Ocean		Jock
+Northern Atlantic Ocean		Jack's
 Northern Atlantic Ocean		Jupiter
 Northern Atlantic Ocean		Kimball
-Northern Atlantic Ocean		Little Black Island
+Northern Atlantic Ocean		Little Black
 Northern Atlantic Ocean		Little Bulls
 Northern Atlantic Ocean		Long Beach
 Northern Atlantic Ocean		Long Beach Barrier Island
@@ -919,7 +1133,6 @@ Northern Atlantic Ocean		Mount Desert Island
 Northern Atlantic Ocean		Mount Desert Rock
 Northern Atlantic Ocean		Muskeget
 Northern Atlantic Ocean		Nantucket
-Northern Atlantic Ocean		Newfoundland
 Northern Atlantic Ocean		Noirmoutier
 Northern Atlantic Ocean		Nomans Land
 Northern Atlantic Ocean		Örfirisey
@@ -1034,6 +1247,7 @@ Northern Atlantic Ocean	Islas Canarias	La Gomera
 Northern Atlantic Ocean	Islas Canarias	Lanzarote
 Northern Atlantic Ocean	Islas Canarias	Tenerife
 Northern Atlantic Ocean	Isles of Shoals	Appledore Island
+Northern Atlantic Ocean	Kodiak Archipelago	Hartman
 Northern Atlantic Ocean	Las Canarias	Tenerife
 Northern Atlantic Ocean	Lesser Antilles	Dominica
 Northern Atlantic Ocean	Little Caldwell Islands	Little Caldwell
@@ -1042,12 +1256,13 @@ Northern Atlantic Ocean	Madeiras	Porto Santo
 Northern Atlantic Ocean	Midway Atoll	Eastern Island
 Northern Atlantic Ocean	Midway Atoll	Sand
 Northern Atlantic Ocean	Muscle Ridge Islands	Great Pond
+Northern Atlantic Ocean	Newfoundland	Great
+Northern Atlantic Ocean	Newfoundland	Newfoundland
 Northern Atlantic Ocean	Okak Islands	Okak
 Northern Atlantic Ocean	Outer Banks	Bodie
 Northern Atlantic Ocean	Outer Banks	Ocracoke
 Northern Atlantic Ocean	Outer Banks	Pea
 Northern Atlantic Ocean	Outer Hebrides	Saint Kilda
-Northern Atlantic Ocean	Ramea Islands	Great Island
 Northern Atlantic Ocean	Saint Pierre and Miquelon	Miquelon
 Northern Atlantic Ocean	Saint Pierre and Miquelon	Saint Pierre
 Northern Atlantic Ocean	Sea Islands	Amelia
@@ -1070,39 +1285,53 @@ Northern Atlantic Ocean	Vestmannaeyjar Islands	Heimaey
 Northern Atlantic Ocean	Virginia Barrier Islands	Cobb
 Northern Pacific Ocean		Alexander
 Northern Pacific Ocean		Año Nuevo
+Northern Pacific Ocean		Aristazabal
 Northern Pacific Ocean		Asunción
+Northern Pacific Ocean		Bare
 Northern Pacific Ocean		Bear
+Northern Pacific Ocean		Bird Rock
 Northern Pacific Ocean		Bodelteh
 Northern Pacific Ocean		Carrol
 Northern Pacific Ocean		Castle
+Northern Pacific Ocean		Castle Rock
+Northern Pacific Ocean		Cedros
 Northern Pacific Ocean		Cerralvo
 Northern Pacific Ocean		Clipperton
 Northern Pacific Ocean		Cocos
 Northern Pacific Ocean		Coronado
 Northern Pacific Ocean		Cortes Bank
 Northern Pacific Ocean		Destruction
-Northern Pacific Ocean		Forrester
 Northern Pacific Ocean		Fox
+Northern Pacific Ocean		Green Rock
 Northern Pacific Ocean		Guadalupe
 Northern Pacific Ocean		Guadelupe
 Northern Pacific Ocean		Hope
 Northern Pacific Ocean		Isabel
 Northern Pacific Ocean		Isabela
+Northern Pacific Ocean		Isla de Los Jollas
+Northern Pacific Ocean		Isla de los Mangles
 Northern Pacific Ocean		Isla del Coco
 Northern Pacific Ocean		James
 Northern Pacific Ocean		Kains
 Northern Pacific Ocean		Magdalena
 Northern Pacific Ocean		Malpelo
 Northern Pacific Ocean		Midun
+Northern Pacific Ocean		Muskeget
+Northern Pacific Ocean		Nantucket
 Northern Pacific Ocean		Natividad
+Northern Pacific Ocean		Nootka
 Northern Pacific Ocean		Ozette
 Northern Pacific Ocean		Palmyra Atoll
+Northern Pacific Ocean		Pilot Rock
+Northern Pacific Ocean		Princess Royal
 Northern Pacific Ocean		Rocas Alijos
 Northern Pacific Ocean		San Geronimo
 Northern Pacific Ocean		San Jeronimo
 Northern Pacific Ocean		San Martín
 Northern Pacific Ocean		San Roque
+Northern Pacific Ocean		Santa Isabela
 Northern Pacific Ocean		Santa Margarita
+Northern Pacific Ocean		Table
 Northern Pacific Ocean		Taiwan
 Northern Pacific Ocean		Triangle
 Northern Pacific Ocean		Ugaiushak
@@ -1115,30 +1344,97 @@ Northern Pacific Ocean	Aleutian Islands	Amak
 Northern Pacific Ocean	Aleutian Islands	Amlia
 Northern Pacific Ocean	Aleutian Islands	Buldir
 Northern Pacific Ocean	Aleutian Islands	Deer
+Northern Pacific Ocean	Aleutian Islands	Little Tanaga
 Northern Pacific Ocean	Aleutian Islands	Poperechnoi
+Northern Pacific Ocean	Aleutian Islands	Rock
+Northern Pacific Ocean	Aleutian Islands	Umnak
 Northern Pacific Ocean	Alexander Archilepago	Kupreanof
 Northern Pacific Ocean	Alexander Archipelago	Admiralty
+Northern Pacific Ocean	Alexander Archipelago	Back
+Northern Pacific Ocean	Alexander Archipelago	Baker
 Northern Pacific Ocean	Alexander Archipelago	Baranof
+Northern Pacific Ocean	Alexander Archipelago	Betton
 Northern Pacific Ocean	Alexander Archipelago	Canyon
+Northern Pacific Ocean	Alexander Archipelago	Catherine
 Northern Pacific Ocean	Alexander Archipelago	Chichagof
+Northern Pacific Ocean	Alexander Archipelago	Clover
 Northern Pacific Ocean	Alexander Archipelago	Coronation
 Northern Pacific Ocean	Alexander Archipelago	Dall
+Northern Pacific Ocean	Alexander Archipelago	Deer
 Northern Pacific Ocean	Alexander Archipelago	Douglas
+Northern Pacific Ocean	Alexander Archipelago	Duke
+Northern Pacific Ocean	Alexander Archipelago	Eagle
+Northern Pacific Ocean	Alexander Archipelago	El Capitan
+Northern Pacific Ocean	Alexander Archipelago	Esquibel
 Northern Pacific Ocean	Alexander Archipelago	Etolin
+Northern Pacific Ocean	Alexander Archipelago	Fair
+Northern Pacific Ocean	Alexander Archipelago	Farm
+Northern Pacific Ocean	Alexander Archipelago	Forrester
+Northern Pacific Ocean	Alexander Archipelago	Gagarin
+Northern Pacific Ocean	Alexander Archipelago	Grant
+Northern Pacific Ocean	Alexander Archipelago	Gravina
+Northern Pacific Ocean	Alexander Archipelago	Grief
+Northern Pacific Ocean	Alexander Archipelago	Halleck
+Northern Pacific Ocean	Alexander Archipelago	Hassler
+Northern Pacific Ocean	Alexander Archipelago	Heceta
+Northern Pacific Ocean	Alexander Archipelago	Herbert Graves
+Northern Pacific Ocean	Alexander Archipelago	Hill
+Northern Pacific Ocean	Alexander Archipelago	Hoot
+Northern Pacific Ocean	Alexander Archipelago	Horseshoe
 Northern Pacific Ocean	Alexander Archipelago	Inian
+Northern Pacific Ocean	Alexander Archipelago	Kadin
+Northern Pacific Ocean	Alexander Archipelago	Keene
 Northern Pacific Ocean	Alexander Archipelago	Kosciusko
 Northern Pacific Ocean	Alexander Archipelago	Kruzof
 Northern Pacific Ocean	Alexander Archipelago	Kuiu
 Northern Pacific Ocean	Alexander Archipelago	Kupreanof
 Northern Pacific Ocean	Alexander Archipelago	Kupreanoff
+Northern Pacific Ocean	Alexander Archipelago	Limb
+Northern Pacific Ocean	Alexander Archipelago	Lincoln
+Northern Pacific Ocean	Alexander Archipelago	Long
+Northern Pacific Ocean	Alexander Archipelago	Lowrie
+Northern Pacific Ocean	Alexander Archipelago	Lulu
+Northern Pacific Ocean	Alexander Archipelago	Mary
+Northern Pacific Ocean	Alexander Archipelago	Middle
 Northern Pacific Ocean	Alexander Archipelago	Mitkof
+Northern Pacific Ocean	Alexander Archipelago	Moser
 Northern Pacific Ocean	Alexander Archipelago	Naked Island
+Northern Pacific Ocean	Alexander Archipelago	Noyes
+Northern Pacific Ocean	Alexander Archipelago	Onslow
+Northern Pacific Ocean	Alexander Archipelago	Orr
+Northern Pacific Ocean	Alexander Archipelago	Owl
+Northern Pacific Ocean	Alexander Archipelago	Palisade
+Northern Pacific Ocean	Alexander Archipelago	Partofshikof
 Northern Pacific Ocean	Alexander Archipelago	Prince of Wales
+Northern Pacific Ocean	Alexander Archipelago	Read
+Northern Pacific Ocean	Alexander Archipelago	Saint Ignace
 Northern Pacific Ocean	Alexander Archipelago	Saint Lazaria
+Northern Pacific Ocean	Alexander Archipelago	San
+Northern Pacific Ocean	Alexander Archipelago	San Fernando
+Northern Pacific Ocean	Alexander Archipelago	San Juan
+Northern Pacific Ocean	Alexander Archipelago	Sangao
+Northern Pacific Ocean	Alexander Archipelago	Santa Rita
+Northern Pacific Ocean	Alexander Archipelago	Sergief
+Northern Pacific Ocean	Alexander Archipelago	Shelikof
+Northern Pacific Ocean	Alexander Archipelago	Shelter
+Northern Pacific Ocean	Alexander Archipelago	Shrubby
+Northern Pacific Ocean	Alexander Archipelago	Suemez
+Northern Pacific Ocean	Alexander Archipelago	Sukkwan
+Northern Pacific Ocean	Alexander Archipelago	Swan
+Northern Pacific Ocean	Alexander Archipelago	Tatoosh
+Northern Pacific Ocean	Alexander Archipelago	Thorne
+Northern Pacific Ocean	Alexander Archipelago	Tuxekan
+Northern Pacific Ocean	Alexander Archipelago	Warren
+Northern Pacific Ocean	Alexander Archipelago	Whale Head
+Northern Pacific Ocean	Alexander Archipelago	Woewodski
+Northern Pacific Ocean	Alexander Archipelago	Woronkokski
 Northern Pacific Ocean	Alexander Archipelago	Wrangell
 Northern Pacific Ocean	Alexander Archipelago	Yakobi
+Northern Pacific Ocean	Alexander Archipelago	Zarembo
 Northern Pacific Ocean	Andreanof Islands	Adak
 Northern Pacific Ocean	Andreanof Islands	Atka
+Northern Pacific Ocean	Andreanof Islands	Kanaga
+Northern Pacific Ocean	Andreanof Islands	Tanaga
 Northern Pacific Ocean	Barren Islands	East Amatuli
 Northern Pacific Ocean	Barren Islands	West Amatuli
 Northern Pacific Ocean	Bolkus Islands	Main Bolkus Island
@@ -1152,14 +1448,14 @@ Northern Pacific Ocean	Caroline Islands	Lukunor Atoll
 Northern Pacific Ocean	Caroline Islands	Nukuoro Atoll
 Northern Pacific Ocean	Caroline Islands	Sanryo
 Northern Pacific Ocean	Caroline Islands	Ulithi Atoll
-Northern Pacific Ocean	Channel Islands	Anacapa
-Northern Pacific Ocean	Channel Islands	San Clemente
-Northern Pacific Ocean	Channel Islands	San Miguel
-Northern Pacific Ocean	Channel Islands	San Nicolas
-Northern Pacific Ocean	Channel Islands	Santa Barbara
-Northern Pacific Ocean	Channel Islands	Santa Catalina
-Northern Pacific Ocean	Channel Islands	Santa Cruz
-Northern Pacific Ocean	Channel Islands	Santa Rosa
+Northern Pacific Ocean	Channel Islands of California	Anacapa
+Northern Pacific Ocean	Channel Islands of California	San Clemente
+Northern Pacific Ocean	Channel Islands of California	San Miguel
+Northern Pacific Ocean	Channel Islands of California	San Nicolas
+Northern Pacific Ocean	Channel Islands of California	Santa Barbara
+Northern Pacific Ocean	Channel Islands of California	Santa Catalina
+Northern Pacific Ocean	Channel Islands of California	Santa Cruz
+Northern Pacific Ocean	Channel Islands of California	Santa Rosa
 Northern Pacific Ocean	Chuuk Atoll	Fefan
 Northern Pacific Ocean	Chuuk Atoll	Weno
 Northern Pacific Ocean	Commander Islands	Bering
@@ -1172,6 +1468,7 @@ Northern Pacific Ocean	Farallon Islands	Southeast Farallon
 Northern Pacific Ocean	Farallon Islands	Southeast Farallon Islands
 Northern Pacific Ocean	Fox Islands	Akatun
 Northern Pacific Ocean	Fox Islands	Akun
+Northern Pacific Ocean	Fox Islands	Akutan
 Northern Pacific Ocean	Fox Islands	Bogoslof
 Northern Pacific Ocean	Fox Islands	Egg & Sedanka Islands
 Northern Pacific Ocean	Fox Islands	Sanak
@@ -1180,11 +1477,15 @@ Northern Pacific Ocean	Fox Islands	Unalaska
 Northern Pacific Ocean	French Frigate Shoals	East Island
 Northern Pacific Ocean	French Frigate Shoals	Little Gin
 Northern Pacific Ocean	French Frigate Shoals	Tern
+Northern Pacific Ocean	Gavanski Islands	Gavanski
+Northern Pacific Ocean	Gravina Islands	Annette
 Northern Pacific Ocean	Haida Gwaii	Charlotte
 Northern Pacific Ocean	Haida Gwaii	Chatham
 Northern Pacific Ocean	Haida Gwaii	Cox
 Northern Pacific Ocean	Haida Gwaii	Coxes
+Northern Pacific Ocean	Haida Gwaii	Cumshewa
 Northern Pacific Ocean	Haida Gwaii	East Copper
+Northern Pacific Ocean	Haida Gwaii	Flowery Islet
 Northern Pacific Ocean	Haida Gwaii	Frederick
 Northern Pacific Ocean	Haida Gwaii	George
 Northern Pacific Ocean	Haida Gwaii	Graham
@@ -1194,14 +1495,17 @@ Northern Pacific Ocean	Haida Gwaii	Harrison
 Northern Pacific Ocean	Haida Gwaii	Hibben
 Northern Pacific Ocean	Haida Gwaii	Hippa
 Northern Pacific Ocean	Haida Gwaii	Hotspring
+Northern Pacific Ocean	Haida Gwaii	Kingsway Rock
 Northern Pacific Ocean	Haida Gwaii	Kunga
 Northern Pacific Ocean	Haida Gwaii	Kunghit
 Northern Pacific Ocean	Haida Gwaii	Langara
 Northern Pacific Ocean	Haida Gwaii	Legace
 Northern Pacific Ocean	Haida Gwaii	Lina
+Northern Pacific Ocean	Haida Gwaii	Lost
 Northern Pacific Ocean	Haida Gwaii	Louise
 Northern Pacific Ocean	Haida Gwaii	Lyell
 Northern Pacific Ocean	Haida Gwaii	Mackenzie
+Northern Pacific Ocean	Haida Gwaii	McCreight
 Northern Pacific Ocean	Haida Gwaii	Moresby
 Northern Pacific Ocean	Haida Gwaii	Morseby
 Northern Pacific Ocean	Haida Gwaii	North
@@ -1209,9 +1513,12 @@ Northern Pacific Ocean	Haida Gwaii	Ogilvie
 Northern Pacific Ocean	Haida Gwaii	Ramsay
 Northern Pacific Ocean	Haida Gwaii	Rankine
 Northern Pacific Ocean	Haida Gwaii	Reef
+Northern Pacific Ocean	Haida Gwaii	Ross
+Northern Pacific Ocean	Haida Gwaii	Saint James
 Northern Pacific Ocean	Haida Gwaii	Shag Rock
 Northern Pacific Ocean	Haida Gwaii	Talunkwan
 Northern Pacific Ocean	Haida Gwaii	Tanu
+Northern Pacific Ocean	Haida Gwaii	Tar
 Northern Pacific Ocean	Haida Gwaii	Wathus
 Northern Pacific Ocean	Hall Islands	Nomwin Atoll
 Northern Pacific Ocean	Hawaiian Islands	East Island
@@ -1229,10 +1536,12 @@ Northern Pacific Ocean	Hawaiian Islands	Na Mokulua
 Northern Pacific Ocean	Hawaiian Islands	Niihau
 Northern Pacific Ocean	Hawaiian Islands	Oahu
 Northern Pacific Ocean	Hawaiian Islands	Sand
+Northern Pacific Ocean	Inian Islands	Inian
 Northern Pacific Ocean	Islands of Four Mountains	Chagulak
 Northern Pacific Ocean	Islands of Four Mountains	Chuginadak
 Northern Pacific Ocean	Islands of Four Mountains	Kagamil
 Northern Pacific Ocean	Islands of Four Mountains	Yunaska
+Northern Pacific Ocean	Islas de Todos Santos	Todos Santos
 Northern Pacific Ocean	Islas Magdalenas	Grosse
 Northern Pacific Ocean	Islas Marías	Maria Cleofas
 Northern Pacific Ocean	Islas Marías	María Cleofas
@@ -1255,6 +1564,7 @@ Northern Pacific Ocean	Kodiak Archipelago	Whale
 Northern Pacific Ocean	Krenitzin Islands	Aiktak
 Northern Pacific Ocean	Krenitzin Islands	Avatanak
 Northern Pacific Ocean	Krenitzin Islands	Tigalda
+Northern Pacific Ocean	Krenitzin Islands	Ugamak
 Northern Pacific Ocean	Kure Atoll	Green Island
 Northern Pacific Ocean	Line Islands	Christmas
 Northern Pacific Ocean	Line Islands	Fanning
@@ -1262,6 +1572,8 @@ Northern Pacific Ocean	Line Islands	Kingman Reef
 Northern Pacific Ocean	Line Islands	Kiritimati Atoll
 Northern Pacific Ocean	Line Islands	Palmyra Atoll
 Northern Pacific Ocean	Line Islands	Teraina
+Northern Pacific Ocean	Marble Islands	Marble
+Northern Pacific Ocean	Marble Islands	South Marble
 Northern Pacific Ocean	Marianas	Guam
 Northern Pacific Ocean	Marianas	Maug
 Northern Pacific Ocean	Marianas	Saipan
@@ -1299,15 +1611,20 @@ Northern Pacific Ocean	Scott Islands	Lanz
 Northern Pacific Ocean	Senyavin Islands	Pohnpei
 Northern Pacific Ocean	Shumagin Islands	Big Koninski
 Northern Pacific Ocean	Shumagin Islands	Big Koniuji
+Northern Pacific Ocean	Shumagin Islands	Dolgoi
 Northern Pacific Ocean	Shumagin Islands	Nagai
 Northern Pacific Ocean	Shumagin Islands	Popof
 Northern Pacific Ocean	Shumagin Islands	Unga
 Northern Pacific Ocean	South Farallon Islands	South Farallon
 Northern Pacific Ocean	Tatoosh Islands	Tatoosh
 Northwest Passages		Jenny Lind
+Norton Sound		Besboro
+Norton Sound		Saint Michael
 Norwegian Sea	Faroe Islands	Suðuroy
 Nuka Bay		Nuka
+Okefenokee Swamp		Chesser
 Okefenokee Swamp		Floyds
+Orca Inlet		Spike
 Pacific Ocean		Gorgona
 Pacific Ocean		Isla de la Plata
 Pacific Ocean	Galápagos	Baltra
@@ -1352,15 +1669,18 @@ Possession Sound		Camano
 Potomac River		Cobb
 Potomac River		Plummers
 Prince William Sound		Applegate
+Prince William Sound		Bainbridge
+Prince William Sound		Bligh
 Prince William Sound		Crafton
+Prince William Sound		Disk
 Prince William Sound		Eleanor
 Prince William Sound		Esther
 Prince William Sound		Ingot
 Prince William Sound		Knight
-Prince William Sound		Knight (Snag Island)
 Prince William Sound		Little Smith
 Prince William Sound		Perry
 Prince William Sound		Seal
+Prince William Sound	Knight Island	Snag
 Puget  Sound		Squaxin
 Puget Sound		Anderson
 Puget Sound		Bainbridge
@@ -1372,12 +1692,14 @@ Puget Sound		Maury
 Puget Sound		Vashon
 Puget Sound		Whidbey
 Puget Sound	San Juan Islands	Lummi
+Pyramid Lake		Anaho
 Quatsino Sound		Vancouver
 Queen Charlotte Sound		Hunter
 Queen Charlotte Sound		Spider
 Queen Charlotte Sound		Table
 Queen Charlotte Sound	Bardswell Group	Dufferin
 Queen Charlotte Sound	Bardswell Group	Wurtele
+Queen Charlotte Strait		Nigei
 Queen Maud Gulf		Jenny Lind
 Queen Maud Gulf		Perry
 Red Sea		Gezira Tawila
@@ -1392,28 +1714,36 @@ Río Ozama	Greater Antilles	Hispaniola
 Río Yaque del Sur	Greater Antilles	Hispaniola
 Río Yaque del Sur, Lago Enriquillo	Greater Antilles	Hispaniola
 Río Yuna	Greater Antilles	Hispaniola
+Rosario Strait	San Juan Islands	Bird Rocks
 Ross Sea	Ross Archipelago	Beaufort
 Ross Sea	Ross Archipelago	Ross
 Sabine Lake		Pleasure
 Saco Bay		Stratton
 Saco Bay		Stratton Island
+Sacramento River		Tyler
+Sacramento River		Van Sickle
+Sacramento-San Joaquin River Delta		Andrus
 Sacramento-San Joaquin River Delta		Bacon
+Sacramento-San Joaquin River Delta		Bradford
 Sacramento-San Joaquin River Delta		Venice
 Saginaw Bay		Charity
+Saginaw Bay		Lone Tree
+Saint Lawrence River		Anticosti
 Saint Lawrence River		Belle Island
 Saint Lawrence River		Douglas
 Saint Lawrence River		Florence Island
 Saint Lawrence River		Harbor Island
-Saint Lawrence River		Île d'Anticosti
 Saint Lawrence River		Île d'Orleans
 Saint Lawrence River		Ironsides Island
 Saint Lawrence River		Iroquois Island
 Saint Lawrence River		Kipp Island
+Saint Lawrence River		Orleans
 Saint Lawrence River		Welcome Island
 Saint Lawrence River		Wellesley Island
 Saint Lawrence River		Whiskey Island
 Saint Lawrence River	Hochelaga Archipelago	Île Perot
 Saint Lawrence River	Hochelaga Archipelago	Montréal
+Saint Lawrence River	Isle-aux-Grues	Ile-aux-Grues
 Salish Sea		Buck
 Salish Sea		Camano
 Salish Sea		Cypress
@@ -1441,15 +1771,29 @@ Salish Sea	San Juan Islands	Sentinel
 Salish Sea	San Juan Islands	Skipjack
 Salish Sea	San Juan Islands	Stuart
 Salish Sea	San Juan Islands	Sucia
+Salton Sea		Bird
+Salton Sea		Echo
+Salton Sea		Pelican
 Samish Bay		Samish
 San Francisco Bay		Bay Farm
 San Francisco Bay		Sheep
+San Francisco Bay	San Francisco Bay Islands	Alcatraz
+San Francisco Bay	San Francisco Bay Islands	Angel
+San Francisco Bay	San Francisco Bay Islands	Bay Farm
+San Francisco Bay	San Francisco Bay Islands	Government
+San Francisco Bay	San Francisco Bay Islands	Treasure
+San Francisco Bay	San Francisco Bay Islands	Yerba Buena
 San Joaquin River delta		Grizzly
-Sandwich Bay		Cartwright
+San Joaquin River delta		Jersey
+San Joaquin River delta		Joyce
+San Joaquin River delta		Quimby
+San Joaquin River delta		Ryer
+San Joaquin River delta		Victoria
+San Joaquin River delta		Wheeler
+San Joaquin River delta		Woodward
 Sea of Okhotsk	Eugénie Archipelago	Karamzina
 Sea of Okhotsk	Eugénie Archipelago	Reyneke
 Sea of Okhotsk	Shantar Islands	Bolshoy Shantar
-Sechart Channel		Vancouver
 Sermo River	Malay Archipelago	Papua
 Shark Bay		Bernier
 Shark Bay		Dorre
@@ -1458,6 +1802,7 @@ Shelikof Strait	Kodiak Archipelago	Kodiak
 Shelkikof Strait	Kodiak Archipelago	Kodiak
 Shelter Island Sound		Shelter
 Shinnecock Bay		Long Island
+Sitka Sound		Kutkan
 Sitka Sound		Stewart
 Smith Sound		Littleton
 Snake River		Nielson
@@ -1657,19 +2002,20 @@ Southern Pacific Ocean	Wallis Islands	Wallis
 St. Lawrence River		Cacouna Rock
 St. Lawrence River	Hochelaga Archipelago	Montréal
 St. Mary's River		Sugar
-Stag Bay	Alexander Archipelago	Chicagof
 Stag Bay	Alexander Archipelago	Chichagof
 Stage Island Bay		Stage
+Steinberger Slough		Bair
 Strait of Georgia		Balaklava
 Strait of Georgia		Bowen
 Strait of Georgia		Bramham
 Strait of Georgia		Duncan
 Strait of Georgia		Gambier
 Strait of Georgia		Hope
-Strait of Georgia		Hornby
 Strait of Georgia		Hurst
 Strait of Georgia		Mandarte
+Strait of Georgia		Mitlenatch
 Strait of Georgia		Passage
+Strait of Georgia		Ruth
 Strait of Georgia		Savary
 Strait of Georgia		Sea Island
 Strait of Georgia		Texada
@@ -1678,6 +2024,8 @@ Strait of Georgia		Vansittart
 Strait of Georgia	Discovery Islands	Cortes
 Strait of Georgia	Gordon Islands	Doyle
 Strait of Georgia	Gulf Islands	Sydney
+Strait of Georgia	Northern Gulf Islands	Hornby
+Strait of Georgia	Northern Gulf Islands	Texada
 Strait of Georgia	Southern Gulf Islands	Galiano
 Strait of Georgia	Southern Gulf Islands	Mayne Island
 Strait of Georgia	Southern Gulf Islands	North Pender
@@ -1691,7 +2039,14 @@ Strait of Juan de Fuca		Mandarte
 Strait of Juan de Fuca		Protection
 Strait of Juan de Fuca		Smith
 Strait of Juan de Fuca		Strongtide
+Strait of Juan de Fuca		Waddah
 Straits of Florida		Key West
+Straits of Florida	Florida Keys	Big Pine Key
+Straits of Florida	Florida Keys	Key West
+Straits of Florida	Florida Keys	Long Pine Key
+Straits of Florida	Florida Keys	Lower Matecumbe Key
+Straits of Florida	Florida Keys	Sugar Loaf Key
+Susitna River		Delta
 Tasman Sea		Bruny
 Tasman Sea		Montague
 Tasman Sea		Mutton Bird
@@ -1705,7 +2060,10 @@ Tji Beureum	Greater Sunda Islands	Java
 Torres Strait	Torres Strait Islands	Moa
 Unalaska Bay	Fox Islands	Amaknak
 Union Bay		Foster
+Upper New York Bay		Bedloe
 Upper New York Harbor		Liberty
+Utah Lake		Bird
+Virginia Barrier Islands		Hog
 Wai Abung	Greater Sunda Islands	Sumatra
 Wellfleet Harbor		Lieutenant
 Wellington Bay	Canadian Arctic Archipelago	Victoria
@@ -1735,4 +2093,8 @@ Western Northern Pacific Ocean	Kuril Islands	Yuri
 Western Northern Pacific Ocean	Kuril Islands	Zelyonyi
 Western Tropical Pacific Oceam	Phoenix Islands	Kanton
 Willapa Bay		Long Island
+Willapa Bay		Pine
 Wood Pond		Hog
+Yakutat Bay		Khantaak
+Yukon River		Marten
+Yukon River		Salmon

@@ -27,6 +27,7 @@ m	1.00	0	1
 "bill legs and orbit "b		0	1
 "dehydrated		0	1
 "dehydrated "d		0	1
+"GPS co-ordinates provided by 		0	1
 "Houndwood"		0	1
 "ovary diagram on ta		0	1
 "ovary diagram on ta "o		0	1
@@ -111,6 +112,7 @@ datos pendientes		0	1
 DEAD ON SPOIL ISLANDS	0.00	0	1
 Decimal Degrees		0	1
 E. Flower Garden	0.00	0	1
+EL		0	1
 EPIBENTHIC		0	1
 f	0.30	0	1
 F (FEET OR FATHOMS)		0	1
@@ -206,6 +208,7 @@ LAMB. C.		0	1
 land	0.00	0	1
 LITTORAL	0.00	0	1
 lm		0	1
+LOCA		0	1
 m	1.00	1	1
 m (from Google Earth)	1.00	0	1
 M (GPS)	1.00	0	1
@@ -235,9 +238,9 @@ maters	1.00	0	1
 meadows behind Quarry		0	1
 MET	1.00	0	1
 meter	1.00	0	1
-meter below sea level	1.00	0	1
-METER EQ*	1.00	0	1
-METER WIRE	1.00METERS MAXIMUM GEAR DEPTH	1.00	0	1
+meter beloMETERS (UNCLEAR)	1.00	0	1
+METERS BOTTOM DEPTH	1.00	0	1
+METERS MAXIMUM GEAR DEPTH	1.00	0	1
 METERS OF WIRE	1.00	0	1
 METERS TRAWL	1.00	0	1
 METERS*	1.00	0	1

@@ -26,11 +26,22 @@ verbatimPreparations	standardPreparations	standard	checked
 "antler, right"		0	0
 "art. surface limb" - from card cat.		0	0
 "block of brea with bones"		0	0
+"broken shell, some post cranial elemets"		0	0
+"complete skeleton, carapace and esophogeal spines"		0	0
 "dist. art. radius-ulna" from card cat.		0	0
 "distal articular radius+ulna" from card cat.		0	0
+"dried partial skull, skeleton + salted carapace"		0	0
+"dried skull, esophageal spines in 70% ethanol, dried tissue"		0	0
+"dried skull, eye sclerites, flipper bones, neck vertebrae, stomach in 70% ethanol"		0	0
+"dried skull, eyes in 70%ethanol"		0	0
+"dried skull, partial skeleton and esophageal spines"		0	0
+"dried skull, skeleton and salted carapace"		0	0
+"dried skull, skeleton and salted partial carapace"		0	0
+"dried skull, skeleton, salted carapace and dried tissue" | "skull cut in half| necropsied|dried tissue, tissue in 95% ethanol, frozen tissue, and tissue frozen 95% ethanol|emaciated|curved carapace width (widest point from ridge 4 to the left to ridge 4 		0	0
 "fissure fills"		0	0
 "hairy" morph		0	0
 "horns" only		0	0
+"left, front flipper"		0	0
 "Leg		0	0
 "lot of leg bones"		0	0
 "Mount, Blood"	mount | blood	0	1
@@ -45,6 +56,12 @@ verbatimPreparations	standardPreparations	standard	checked
 "plastic, skel for mount"		0	0
 "skel, no skull"		0	0
 "skel, wing and tail"		0	0
+"skeleton, carapace"		0	0
+"skeleton, carapace, tissue dried and frozen in 95% etoh"		0	0
+"skeleton, carapace, tissue sample"		0	0
+"skeleton, shell no skull"		0	0
+"skeleton, shell, skull"		0	0
+"skeleton, skull, shell"		0	0
 "Skeleton, Wing (02), Tissue"	skeleton | tissue | wing	0	1
 "Skeleton, Wing (2), Tissue"	skeleton | tissue | wing	0	1
 "Skin & Wing, DNA,  partial skel in freerer"	DNA | partial skeleton (frozen) | skin | wing	0	1
@@ -54,8 +71,11 @@ verbatimPreparations	standardPreparations	standard	checked
 "Skin, Wing"	skin | wing	0	1
 "skin, wing, DNA & partial skeleton"	DNA | partial skeleton | skin | wing	0	1
 "skin/skull, teaching"		0	0
+"skull, partial skeleton and carapace"		0	0
 "skull, partial"		0	0
 "skull, partial/anlters"		0	0
+"skull, skeleton and carapace"		0	0
+"skull, skeleton and carapace" | "Tissue sent to Laura Bennett, Nova Scotia Leatherback Turtle Working Group"		0	0
 "tibia prox. art." from card cat		0	0
 "wing, par skeleton"	partial skeleton | wing	0	1
 "wings, 2 spread"		0	0
@@ -1907,6 +1927,8 @@ _ TOOTH		0	0
 1 whole body dried		0	0
 1 whole body in 70 percent ethanol		0	0
 1- whole body in 70 percent ethanol		0	0
+1 whole body in 70 percent ethanol + dry tissue | "tissue sample removed for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 October 2005 to 24 April 2006"		0	0
+1 whole body in 70 percent ethanol + dry tissue | "tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|tissue  sample sent for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 Oc		0	0
 1 whole body in 70 percent ethanol + dry tissue | tissue sample removed for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 October 2005 to 24 April 2006		0	0
 1 whole body in 70 percent ethanol + dry tissue | tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|tissue  sample sent for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 Oct		0	0
 1 whole body in 70% ethanol		0	0
@@ -21392,6 +21414,7 @@ Dried - 5		0	0
 Dried - 6		0	0
 Dried - 9		0	0
 dried carapace		0	0
+dried carapace and tissue | "tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|carapace with tissue attached sent for DNA analysis on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 October 20		0	0
 dried carapace and tissue | tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|carapace with tissue attached sent for DNA analysis on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 October 200		0	0
 dried carcass		0	0
 dried carcass, skull		0	0
@@ -105814,6 +105837,7 @@ SPECIMENS IN ALCOHOL, ONE SKULL	specimens in alcohol | one skull	0	1
 SPECIMENS IN ALCOHOL, SIX SKELETONS	specimens in alcohol | six skeletons	0	1
 SPECIMENS IN FORMALIN, 1 CLEARED AND STAINED	specimens in formalin | one cleared and stained	0	1
 SPECIMENT COMPLETE MINUS PAIRED FINS		0	0
+SPENA		0	0
 Spenethmoid.		0	0
 spermaceti		0	0
 Spermatophores (in spirit)		0	0
@@ -111811,6 +111835,7 @@ whole body in 70 percent ethanol|dried tissue		0	0
 whole body in 70%  ethanol		0	0
 whole body in 70% ethanol		0	0
 whole body in 70% ethanol + dried tissue		0	0
+whole body in 70% ethanol + dried tissue | "tissue removed for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 October 2005 to 24 April 2006"		0	0
 whole body in 70% ethanol + dried tissue | tissue removed for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 October 2005 to 24 April 2006		0	0
 whole body in 70% ethanol + tissue		0	0
 whole body in 70% ethanol + tissue frozen in 95% ethanol		0	0
@@ -111914,6 +111939,7 @@ Whole specimen + head (mounted, in spirit)		0	0
 Whole specimen + skeleton (mounted, in spirit)		0	0
 Whole specimen attached to teat (in spirit)		0	0
 whole specimen in 70% ethanol		0	0
+whole specimen in 70% ethanol | "tissued: brain, kidney, liver and skin"		0	0
 whole specimen in 70% ethanol | tissued: brain, kidney, liver and skin		0	0
 whole specimen in 75% isopropyl		0	0
 Whole specimen in cocoon (in spirit)		0	0
