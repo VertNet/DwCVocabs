@@ -6,8 +6,10 @@ verbatimGeodeticDatum	standardGeodeticDatum	epsg	standard	checked
 (WGS66) World Geodetic System 1966	(WGS66) World Geodetic System 1966	6760	0	1
 (WGS72) World Geodetic System 1972	(WGS72) World Geodetic System 1972	6322	0	1
 (WGS84) World Geodetic System 1984	WGS84	4326	0	1
+?			0	1
 [ORNIS]GeodeticDatum]	not recorded		0	1
 -110.854167			0	1
+1121 m			0	1
 115.106995			0	1
 153311.1			0	1
 1628.192			0	1
@@ -47,6 +49,7 @@ Astronomic Station Ponape (1951)	Astronomic Station Ponape (1951)		0	1
 Astronomic Station Ponape 1951	Astronomic Station Ponape 1951		1	1
 Astronomical Station 1952	Astronomical Station 1952	6711	1	1
 AUA	AGD66	4202	0	1
+Australian Geodetic			0	1
 Australian Geodetic 1966	AGD66	4202	0	1
 Australian Geodetic Datum 1966	Australian Geodetic Datum 1966	6202	0	1
 Australian Geodetic Datum 1984	Australian Geodetic Datum 1984	6203	0	1
@@ -89,6 +92,7 @@ DL &TJH			0	1
 DL and TJH			0	1
 DOS 1968	DOS 1968		1	1
 Easter Island 1967	Easter Island 1967	6719	1	1
+EGS84	WGS84		0	1
 Europa Technologies,	not recorded		0	1
 European 1950	European 1950	6230	1	1
 European 1979	European 1979	6668	1	1
@@ -180,6 +184,7 @@ NAD1927	NAD27	4267	0	1
 NAD1983	NAD83	4269	0	1
 NAD2	NAD27	4267	0	1
 NAD227	NAD27	4267	0	1
+NAD23	NAD83		0	1
 NAD237	NAD27	4267	0	1
 NAD24	NAD27	4267	0	1
 NAD27	NAD27	4267	1	1
@@ -206,6 +211,7 @@ NAD87			0	1
 NAD8e	NAD83	4269	0	1
 NADS27	NAD27	4267	0	1
 Nahrwan	Nahrwan		1	1
+Named place by Googl	WGS84		0	1
 Naparima 1972	Naparima 1972	6271	1	1
 Naparima, BWI	Naparima, BWI		1	1
 North American Datum 1927	NAD27	4267	0	1
@@ -283,8 +289,11 @@ Wake Island Astro 1952	Wake Island Astro 1952	6733	1	1
 Wake-Eniwetok 1960	Wake-Eniwetok 1960	6732	1	1
 Waldo			0	1
 WG84	WGS84	4326	0	1
+WGA84	WGS84		0	1
 WGIS84	WGS84	4326	0	1
 WGS	WGS84	4326	0	1
+WGS  84	WGS84		0	1
+WGS 084	WGS84		0	1
 WGS 1984	WGS84	4326	0	1
 WGS 72	WGS72	4326	0	1
 WGS 83	WGS84	4326	0	1
@@ -297,6 +306,7 @@ WGS4	WGS84	4326	0	1
 WGS48	WGS84	4326	0	1
 WGS66	WGS66	4326	1	1
 WGS72	WGS72	4326	1	1
+WGS74	WGS84		0	1
 WGS8	WGS84	4326	0	1
 WGS82	WGS84	4326	0	1
 WGS83	WGS84	4326	0	1
@@ -317,6 +327,8 @@ WGS984	WGS84	4326	0	1
 WGSI4	WGS84	4326	0	1
 WGSW84	WGS84	4326	0	1
 World Geodetic System 1984	World Geodetic System 1984	4326	0	1
+WS 84	WGS84		0	1
+WSG 84	WGS84		0	1
 WSG84	WGS84	4326	0	1
 WSGS 84	WGS84	4326	0	1
 WSGS84	WGS84	4326	0	1

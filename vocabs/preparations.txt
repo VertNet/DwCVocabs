@@ -4031,6 +4031,7 @@ _ TOOTH		0	0
 26 R JAWS, 26 L JAWS, 3 L MAX		0	0
 26 SKULLS		0	0
 26 T/#		0	0
+26 teeth/partial mandibles/tissue		0	0
 26 teeth/partial mandibles/tissue | tissue		0	0
 26 UROSTYLES		0	0
 260 EtOH		0	0
@@ -11368,6 +11369,7 @@ art		0	0
 art. surface limb - from card cat.		0	0
 Arterial arches (in spirit)		0	0
 Arterial system (in spirit)		0	0
+artial skel, tissue,M		0	0
 ARTICUALTED HEAD IN LATERAL VIEW, NC		0	0
 Articular		0	0
 Articular (fragments)		0	0
@@ -12593,7 +12595,9 @@ baculum, skull, skin		0	0
 baculum, skull, skin, complete skeleton	baculum | complete skeleton | skin | skull	0	1
 BACULUM,PHALANX,M3/		0	0
 Baculum.	baculum	0	1
+baculum/skull fragments/tissue		0	0
 baculum/skull fragments/tissue | tissue		0	0
+baculum/tissue		0	0
 baculum/tissue | tissue		0	0
 baculum; postcranial skeleton (complete)		0	0
 baculum; postcranial skeleton (complete); skin (pelt); skull (complete)		0	0
@@ -12867,6 +12871,7 @@ body skel | tissue		0	0
 body skel, with ear bone		0	0
 body skel/tissue		0	0
 body skel/tissue | tissue		0	0
+body skel/tissue,muscle		0	0
 body skeleton		0	0
 BODY SKELETON ONLY	body skeleton	0	1
 body used for molecular		0	0
@@ -16537,16 +16542,63 @@ complete skel only		0	0
 complete skel only + misc: wing		0	0
 complete skel only + misc: wing | tissue		0	0
 complete skel, scalp		0	0
+complete skel,SN		0	0
 complete skel.		0	0
 Complete skel. only		0	0
 complete skel/art. flipper		0	0
 complete skel/art. flipper/x-rays R&L flippers		0	0
 complete skel/flat skin/tissue		0	0
+complete skel/partial skin/tissue		0	0
 complete skel/partial skin/tissue | tissue		0	0
 complete skel/tail		0	0
+complete skel/tail/tissue		0	0
 complete skel/tail/tissue | tissue		0	0
 complete skel/tissue		0	0
 complete skel/tissue | tissue		0	0
+complete skel/tissue,Baculum		0	0
+complete skel/tissue,K		0	0
+complete skel/tissue,KL		0	0
+complete skel/tissue,KLH		0	0
+complete skel/tissue,KSH		0	0
+complete skel/tissue,L		0	0
+complete skel/tissue,L (good)		0	0
+complete skel/tissue,L, H (OK)		0	0
+complete skel/tissue,L, K, H, V (poor)		0	0
+complete skel/tissue,L,K		0	0
+complete skel/tissue,L-1		0	0
+complete skel/tissue,LH-1		0	0
+complete skel/tissue,LH-1, SN		0	0
+complete skel/tissue,LHK-1		0	0
+complete skel/tissue,LHK-1, SN		0	0
+complete skel/tissue,LK		0	0
+complete skel/tissue,LKH		0	0
+complete skel/tissue,LKH (OK)		0	0
+complete skel/tissue,LKHM (poor)		0	0
+complete skel/tissue,LM		0	0
+complete skel/tissue,M		0	0
+complete skel/tissue,M, baculum		0	0
+complete skel/tissue,M, flea		0	0
+complete skel/tissue,M-1		0	0
+complete skel/tissue,M-1, M-2		0	0
+complete skel/tissue,M-1. M-2		0	0
+complete skel/tissue,ML		0	0
+complete skel/tissue,MT, baculum		0	0
+complete skel/tissue,S		0	0
+complete skel/tissue,S (good)		0	0
+complete skel/tissue,S, bot fly		0	0
+complete skel/tissue,S, L, (good)		0	0
+complete skel/tissue,S,L		0	0
+complete skel/tissue,S,L,H		0	0
+complete skel/tissue,SKH		0	0
+complete skel/tissue,SL		0	0
+complete skel/tissue,SLK		0	0
+complete skel/tissue,SLK, bot fly larva		0	0
+complete skel/tissue,T: Muscle		0	0
+complete skel/tissue,tissue taken HLK		0	0
+complete skel/tissue,tissue taken KL		0	0
+complete skel/tissue,tissue taken LK-1		0	0
+complete skel/tissue,Tissues: 2 vials of muscle (good)		0	0
+complete skel/tissue; alc.		0	0
 complete skel/tissue; alc.  | tissue		0	0
 complete skel/x-ray R flipper		0	0
 complete skel/x-ray R flipper/art. flipper		0	0
@@ -16554,8 +16606,11 @@ complete skel/x-rays body and flippers		0	0
 complete skel/x-rays R&L flippers		0	0
 complete skel/x-rays R&L flippers/art. flipper		0	0
 complete skel; 		0	0
+complete skel; alc. embryo		0	0
 complete skel; alc. embryo | tissue		0	0
+complete skel; alc. gut		0	0
 complete skel; alc. gut | tissue		0	0
+complete skel; alc. gut,uterus		0	0
 complete skel; alc. gut,uterus | tissue		0	0
 complete skel; alc. skin		0	0
 complete skeletion, tissue		0	0
@@ -16638,6 +16693,9 @@ complete skeleton/stomach/tissue		0	0
 complete skeleton/tissue		0	0
 complete skeleton/tissue | tissue		0	0
 complete skeleton/tissue saved		0	0
+complete skeleton/tissue,endo&ecto parasites, tissue: LHM		0	0
+complete skeleton/tissue,LKH		0	0
+complete skeleton/tissue,M		0	0
 complete skeleton/wing/tissue		0	0
 complete skeleton/wing/tissue saved		0	0
 complete skeleton;		0	0
@@ -17515,6 +17573,7 @@ cranium/partial skel		0	0
 cranium/partial skel/fetal bones		0	0
 cranium/partial skeleton		0	0
 cranium/partial skeleton/scapula		0	0
+cranium/pelt		0	0
 cranium+ L dentary		0	0
 cranium+2front limbs only | cranium+2front limbs only		0	0
 cranium+dentaries		0	0
@@ -21963,6 +22022,7 @@ ectoloph		0	0
 ectoloph fragment		0	0
 ECTOMESOCUNEIFORM L		0	0
 ECTOPARASITE:  ALC	ectoparasite (alcohol)	0	1
+ectoparasites		0	0
 ECTOPTERYGOID		0	0
 ECTOPTERYGOID ?		0	0
 ECTOPTERYGOID FRAG		0	0
@@ -31560,6 +31620,7 @@ FEMUR NO EPIPH L		0	0
 FEMUR NO EPIPHYSES L		0	0
 FEMUR NO HEAD L		0	0
 FEMUR ONE-THIRD PROX R		0	0
+femur only		0	0
 femur only | femur only		0	0
 femur only, mounted		0	0
 FEMUR OR HUMERUS		0	0
@@ -31893,6 +31954,7 @@ flat | tissue		0	0
 flat + wing		0	0
 flat body skin only		0	0
 flat mount		0	0
+flat pelt/complete skeleton/tissue		0	0
 flat pelt/complete skeleton/tissue | tissue		0	0
 Flat Round Skin		0	0
 Flat Round Skin and Castor Glands		0	0
@@ -31985,8 +32047,11 @@ Flat Skin, untanned		0	0
 flat skin, wing - 1	flat skin | wing - 1	0	1
 flat skin, wing, complete skeleton		0	0
 flat skin, wing, complete skeleton, other		0	0
+flat skin/complete skel/tissue		0	0
 flat skin/complete skel/tissue | tissue		0	0
+flat skin/skeleton/tissue		0	0
 flat skin/skeleton/tissue | tissue		0	0
+flat skin/skull/body skel/tissue		0	0
 flat skin/skull/body skel/tissue | tissue		0	0
 flat skin/skull/tissue		0	0
 flat skin; skull		0	0
@@ -37948,6 +38013,7 @@ Head L femur.		0	0
 Head L humerus.		0	0
 Head L ulna.		0	0
 Head Mount		0	0
+head mount, partial skull		0	0
 HEAD NECK VERTEBRAE RIBS GIRDLES (DRY + GLYCERIN)	girdles | head | neck | ribs | vertebrae	0	1
 head of femur		0	0
 HEAD OF FEMUR FRAG		0	0
@@ -38500,6 +38566,7 @@ HORNS O.	horns	0	1
 Horns only		0	0
 horns only  (skin discarded 2000)		0	0
 horns only (skin discarded 2000)		0	0
+horns, skullcap, foot		0	0
 Hörselgång		0	0
 host Plebeia sp.  6, PT		0	0
 HP	shmoo | partial skeleton	0	1
@@ -50192,7 +50259,9 @@ líquido, cráneo	fluid | skull	0	1
 LIVE		0	0
 Live (flying)		0	0
 Live Mount		0	0
+live mount skin		0	0
 live mount, partial skeleton, tissue		0	0
+live mount/partial skeleton		0	0
 live; no longer in collection		0	0
 Liver - 1|skin - 1		0	0
 liver (95% ethanol)		0	0
@@ -52482,6 +52551,7 @@ mandible/partial skel		0	0
 mandible/partial skel/fetus bones		0	0
 mandible/partial skel/pelvis		0	0
 mandible/post-cranial		0	0
+mandible/tissue		0	0
 mandible/tissue | tissue		0	0
 MANDIBLE: P/4-M/# AND ASSOCIATED POSTCRANIAL FRAGMENTS		0	0
 mandible; 2 cheek teeth		0	0
@@ -52513,6 +52583,7 @@ MANDIBLES,TEETH,LIMB FRAGS		0	0
 MANDIBLES,VERTEBRAE		0	0
 MANDIBLES,VERTEBRAE,SKIN		0	0
 mandibles/teeth		0	0
+mandibles/tissue		0	0
 MANDIBULA (PARTIAL), CAUDAL (ARTICULATIVE) END, SEEMS TO INCLUDE MOST OF MANDIBLE EXCEPT ROSTRAL PORTION OF OS DENTALE		0	0
 mandíbula (sec)		0	0
 mandíbula superior (sec) | tissue		0	0
@@ -60101,6 +60172,7 @@ partial cranium, r+l dentaries, scutes+skeleton		0	0
 partial cranium/horns		0	0
 partial cranium/mandible		0	0
 partial cranium/mandible/body skeleton		0	0
+partial cranium/tissue		0	0
 partial cranium/tissue | tissue		0	0
 partial cranium/tusks		0	0
 partial cranium/tusks (2)		0	0
@@ -61665,6 +61737,7 @@ partial skel (+ 1 dried foot for the teaching collection) | tissue		0	0
 partial skel (front leg & scapula)		0	0
 partial skel + other (surrogate puppet) + DNA (muscle)	DNA (muscle) | partial skeleton | surrogate puppet	0	1
 partial skel + wing + DNA (heart+muscle)	DNA (heart, muscle) | partial skeleton | wing	0	1
+partial skel, skull		0	0
 Partial Skel, Wing, DNA	DNA | partial skeleton | wing	0	1
 Partial Skel. & Skin		0	0
 partial skel/baculum	baculum | partial skeleton	0	1
@@ -61855,7 +61928,9 @@ partial skeleton, wing, tissue, round skin		0	0
 Partial skeleton.		0	0
 PARTIAL SKELETON. P+C		0	0
 PARTIAL SKELETON.P+C		0	0
+partial skeleton/tissue		0	0
 partial skeleton/tissue | tissue		0	0
+partial skeleton/tissue,M-1		0	0
 PARTIAL SKELETON: 10 CERVICALS, 13 DORSALS, 5 SACRALS, CAUDALS 1-7, RIBS, L SCAPULA, R CORACOID		0	0
 PARTIAL SKELETON: CERVICALS 2-15, DORSALS 1-10, SACRALS 1-5, CAUDALS 1-12, 18 RIBVS, L SCAPULA, L CORACOID, R ILIUM & FRAG OF L, PUBES, ISCHIA, R FEMUR, BOTH STERNAL PLATES, CLAVICLE?		0	0
 PARTIAL SKELETON: CRANIAL FRAG, PARTIAL L JAW WITH ALVEOLI FOR P/3-P/4-M/1, CANINE & OTHER TOOTH FRAGS, PARTIAL L & R HUMERI, L ULNA, L & R PARTIAL FEMORA, L INNOMINATE, PHALANGES, CARPALS, PATELLAS, FRAGS		0	0
@@ -62277,8 +62352,10 @@ PARTIAL SKULL, VERTEBRAL FRAGS, RIBS		0	0
 PARTIAL SKULL,HUMERI		0	0
 PARTIAL SKULL,LIMBS		0	0
 Partial skull.		0	0
+partial skull/ tissue		0	0
 partial skull/ tissue | tissue		0	0
 partial skull/skeleton		0	0
+partial skull/tusks		0	0
 partial skull/tusks/baculum		0	0
 PARTIAL SKULL: BACK HALF WITH L & R M2/-M3/		0	0
 PARTIAL SKULL: BRAINCASE WITH GOOD OCCIPUT		0	0
@@ -62625,9 +62702,11 @@ pellets		0	0
 pellets | tissue		0	0
 pelt	pelt	1	1
 pelt (tanned)		0	0
+pelt/complete skel/tissue		0	0
 pelt/complete skel/tissue | tissue		0	0
 pelt/skel	pelt | skeleton	0	1
 pelt/skeleton	pelt | skeleton	0	1
+pelt/skeleton/tissue		0	0
 pelt/skeleton/tissue | tissue		0	0
 pelt/skull	pelt | skull	0	1
 PELVES		0	0
@@ -74269,6 +74348,7 @@ RIB LARGE, NC		0	0
 RIB MASS IN SHALY CLAY, TANGLED		0	0
 RIB ON MOUNTED SKELETON		0	0
 RIB ON MOUNTED SKELETON, RIBS, SESAMOID, METACARPAL 4, PHALANX 1		0	0
+rib only		0	0
 RIB OR DENTARY FRAG		0	0
 RIB PARTIAL		0	0
 RIB PATHOLOGICAL		0	0
@@ -75347,6 +75427,7 @@ ROSTRUM,R MAXILLA,L DENTARY		0	0
 ROSTRUM,R+L DENTARY		0	0
 ROSTRUM,TEETH		0	0
 rostrum.		0	0
+rostrum/mandibles/tissue		0	0
 rostrum/mandibles/tissue | tissue		0	0
 ROSTRUM; 2 L HUMERI; SCAPULA; 2 L FEMORA; RADIUS; 2 ULNAE		0	0
 ROSTRUM+PALATE W P4-M1		0	0
@@ -75919,6 +76000,7 @@ scalp skin/skeleton		0	0
 scalp skin/skull		0	0
 scalp skin/skull/body skel		0	0
 scalp/complete skel		0	0
+scalp/complete skel/tissue		0	0
 scalp/complete skel/tissue | tissue		0	0
 scalp/rump skin/partial skel		0	0
 scalp/rump skin/skull/body skel		0	0
@@ -75929,6 +76011,7 @@ scalp/skull	scalp | skull	0	1
 scalp/skull/antlers	antlers | scalp | skull	0	1
 scalp/skull/body skel		0	0
 scalp/skull/body skel | tissue		0	0
+scalp/skull/tissue		0	0
 scalp/skull/tissue | tissue		0	0
 scalp/wing	scalp | wing	0	1
 scalp/wing | tissue		0	0
@@ -77227,6 +77310,7 @@ skel/pelt	pelt | skeleton	0	1
 skel/scalp	scalp | skeleton	0	1
 SKEL/SKIN	skeleton | skin	0	1
 skel/tail	skeleton | tail	0	1
+skel/tissue/pelt patches		0	0
 skel/tissue/pelt patches | tissue		0	0
 skel/two wings	skeleton | wings	0	1
 skel/wing	skeleton | wing	0	1
@@ -78303,6 +78387,7 @@ SKELETON MINUS SKULL, PLUS BONASA UMBELLUS LIMB BONES		0	0
 SKELETON MINUS SOME RIBS		0	0
 Skeleton minus Trunk		0	0
 Skeleton missing Skull		0	0
+skeleton mount		0	0
 Skeleton Mount - 1		0	0
 SKELETON MOUNTED		0	0
 SKELETON MOUNTED,POSTCRANIAL BONES		0	0
@@ -81747,6 +81832,7 @@ Skeleton, Tissue, Tissue		0	0
 Skeleton, Tissue, Tissue, Skin (Schmoo), Skin (Schmoo)		0	0
 Skeleton, Tissue, Tissue, Skin, Skin		0	0
 skeleton, tissue, wing	skeleton | tissue | wing	0	1
+skeleton, tissue,L		0	0
 SKELETON, WING	skeleton | wing	0	1
 Skeleton, Wing (02), Tissue	skeleton | wings | tissue	0	1
 Skeleton, Wing (2), Tissue	skeleton | wings | tissue	0	1
@@ -81855,8 +81941,10 @@ SKELETON/SKIN	skeleton | skin	0	1
 SKELETON/SKIN/WING	skeleton | skin | wing	0	1
 SKELETON/SKIN/WING/FEATHERS	skeleton | skin | wing | feathers	0	1
 Skeleton/tissue		0	0
+skeleton/tissue (Baculum?)		0	0
 skeleton/tissue | tissue		0	0
 skeleton/tissue saved		0	0
+skeleton/tissue,M		0	0
 skeleton/tissue/ectos		0	0
 skeleton/tissue/feathers		0	0
 SKELETON/WING	skeleton | wing	0	1
@@ -83081,8 +83169,10 @@ Skin only, 130, 68, 50, 0.8		0	0
 Skin only, now Foot only 		0	0
 SKIN ONLY/MUMMIFIED	mummy (skin)	0	1
 SKIN ONLY/SKELETON	skin | skeleton	0	1
+skin only/tissue		0	0
 skin only/tissue | tissue		0	0
 Skin only: destroyed	skin (destroyed)	0	1
+skin only; alc. whole body		0	0
 skin only; alc. whole body | tissue		0	0
 skin or hide		0	0
 Skin patch		0	0
@@ -101112,6 +101202,7 @@ Skin, Y; Wings_tail, Y		0	0
 Skin, Y; Wings_tail, Y; Skel, Y		0	0
 Skin, Y; Wings_tail, Y; Tissue, Y; Syrinx, Y; Skel, Y		0	0
 Skin, Ys		0	0
+skin,L		0	0
 SKIN,SKELETON	skin | skeleton	0	1
 skin,skull		0	0
 skin,skull |liver|heart, kidney		0	0
@@ -101137,11 +101228,17 @@ skin/alcoholic	alcoholic | skin	0	1
 Skin/baculum	baculum | skin	0	1
 Skin/Body		0	0
 skin/body skel		0	0
+skin/body skel/tissue		0	0
 skin/body skel/tissue | tissue		0	0
+skin/body skel/tissue,LHK-1		0	0
+skin/body skel/tissue,SLK		0	0
+skin/body skel/tissue,SLKH		0	0
+skin/body skel/tissue,Tissue taken L		0	0
 SKIN/BODY SKELETON	skin | body skeleton	0	1
 SKIN/BODY SKELETON/SK	skin | body skeleton | skull	0	1
 skin/body skell		0	0
 skin/claws	claws | skin	0	1
+skin/complete skel/tissue,LHK		0	0
 skin/cranium		0	0
 skin/cranium only		0	0
 skin/cranium/partial skeleton/pelvis/sacrum		0	0
@@ -101153,13 +101250,16 @@ skin/lower jaw/ scapula & long bones		0	0
 Skin/mandible	mandible | skin	0	1
 skin/mandible/body skel		0	0
 skin/mandibles		0	0
+skin/mandibles/body skel		0	0
 skin/mandibles/body skel | tissue		0	0
 SKIN/MOUNT	skin | mount	0	1
 skin/other - 1		0	0
 skin/partial		0	0
 skin/partial cranium/mandible		0	0
 skin/partial skel	partial skeleton | skin	0	1
+skin/partial skel/tissue		0	0
 skin/partial skel/tissue | tissue		0	0
+skin/partial skel/tissue,Tissue: M		0	0
 skin/partial skeleton		0	0
 skin/partial skull		0	0
 skin/qing/tissue saved		0	0
@@ -101184,6 +101284,7 @@ skin/skeleton | tissue		0	0
 SKIN/SKELETON/FEATHERS	skin | skeleton | feathers	0	1
 Skin/Skeleton/Tissue		0	0
 skin/skeleton/tissue | tissue		0	0
+skin/skeleton/tissue,LK		0	0
 skin/skeleton? - 1		0	0
 skin/skell	skeleton | skin	0	1
 skin/skul	skin | skull	0	1
@@ -101191,7 +101292,9 @@ skin/skull	skin | skull	0	1
 skin/skull | tissue		0	0
 skin/skull +		0	0
 skin/skull absent/body skel		0	0
+skin/skull fragments		0	0
 skin/skull fragments | tissue		0	0
+skin/skull fragments/tissue		0	0
 skin/skull fragments/tissue | tissue		0	0
 skin/skull teaching	skin | skull	0	1
 skin/skull(dup)		0	0
@@ -101205,39 +101308,111 @@ skin/skull/body skel  | tissue		0	0
 skin/skull/body skel (fragments)		0	0
 skin/skull/body skel | tissue		0	0
 skin/skull/body skel(mummified)		0	0
+skin/skull/body skel/baculum/tissue		0	0
 skin/skull/body skel/baculum/tissue | tissue		0	0
 skin/skull/body skel/tissue		0	0
 skin/skull/body skel/tissue | tissue		0	0
+skin/skull/body skel/tissue,endo & ecto parasites, tissue: SLK		0	0
+skin/skull/body skel/tissue,HM		0	0
+skin/skull/body skel/tissue,HSK-1		0	0
+skin/skull/body skel/tissue,KHM		0	0
+skin/skull/body skel/tissue,KL, tick		0	0
+skin/skull/body skel/tissue,KLH		0	0
+skin/skull/body skel/tissue,L		0	0
+skin/skull/body skel/tissue,LH, SB		0	0
+skin/skull/body skel/tissue,LH-1, SB		0	0
+skin/skull/body skel/tissue,LHK		0	0
+skin/skull/body skel/tissue,LHM		0	0
+skin/skull/body skel/tissue,LK		0	0
+skin/skull/body skel/tissue,LKH		0	0
+skin/skull/body skel/tissue,LM		0	0
+skin/skull/body skel/tissue,M		0	0
+skin/skull/body skel/tissue,S		0	0
+skin/skull/body skel/tissue,S,K,L,H		0	0
+skin/skull/body skel/tissue,SK, baculum		0	0
+skin/skull/body skel/tissue,SKML		0	0
+skin/skull/body skel/tissue,SLK		0	0
+skin/skull/body skel/tissue,SLKH		0	0
+skin/skull/body skel/tissue,T: SLK		0	0
+skin/skull/body skel/tissue,T:S,K,L		0	0
+skin/skull/body skel/tissue,tissue taken L-1		0	0
+skin/skull/body skel/tissue,Tissue taken M		0	0
+skin/skull/body skel/tissue,tissue taken M-2		0	0
+skin/skull/body skel/tissue,Tissue taken SLK		0	0
+skin/skull/body skel/tissue,tissue taken SLKHM		0	0
+skin/skull/body skel/tissue,tissue taken: L, H		0	0
+skin/skull/body skel/tissue,tissue taken: L, M		0	0
+skin/skull/body skel/tissue,Tissue taken: S, L (good)		0	0
+skin/skull/body skel/tissue,tissue taken: S, L, K (good)		0	0
+skin/skull/body skel/tissue,tissue taken: S, L, K, H, M (good)		0	0
+skin/skull/body skel/tissue,tissue: LKH (spleen was black)		0	0
+skin/skull/body skel/tissue,Tissue: M		0	0
+skin/skull/body skel/tissue,tissues taken: S, L, K		0	0
+skin/skull/body skel;		0	0
 skin/skull/body skel;  | tissue		0	0
+skin/skull/body skel; alc.		0	0
 skin/skull/body skel; alc.   | tissue		0	0
+skin/skull/body skel; alc. embryo		0	0
 skin/skull/body skel; alc. embryo | tissue		0	0
+skin/skull/body skel; alc. embryos		0	0
 skin/skull/body skel; alc. embryos | tissue		0	0
 skin/skull/body skel; alc. gut		0	0
 skin/skull/body skel; alc. gut | tissue		0	0
+skin/skull/body skel; alc. gut parasites: a, b		0	0
 skin/skull/body skel; alc. gut parasites: a, b | tissue		0	0
+skin/skull/body skel; alc. gut parasites: a, b, c,		0	0
 skin/skull/body skel; alc. gut parasites: a, b, c, | tissue		0	0
 skin/skull/body skel; alc. gut, repro, kidneys		0	0
 skin/skull/body skel; alc. gut,kidney		0	0
+skin/skull/body skel; alc. gut,uterus		0	0
 skin/skull/body skel; alc. gut,uterus | tissue		0	0
+skin/skull/body skel; alc. testicle		0	0
 skin/skull/body skel; alc. testicle | tissue		0	0
+skin/skull/body skel; alc. uterus		0	0
 skin/skull/body skel; alc. uterus | tissue		0	0
+skin/skull/body skel; alc. uterus, embryos		0	0
 skin/skull/body skel; alc. uterus, embryos | tissue		0	0
+skin/skull/body skel; alc. uterus, ovaries		0	0
 skin/skull/body skel; alc. uterus, ovaries | tissue		0	0
 skin/skull/leg bones		0	0
 skin/skull/partial body skel		0	0
 skin/skull/partial skel		0	0
 skin/skull/partial skel | tissue		0	0
+skin/skull/partial skel/tissue		0	0
 skin/skull/partial skel/tissue | tissue		0	0
+skin/skull/partial skel/tissue,S,L,K		0	0
+skin/skull/partial skel/tissue,SLK		0	0
 skin/skull/partial skeleton		0	0
 skin/skull/scalp/antlers/jaw	antlers | jaw | scalp | skin | skull	0	1
 skin/skull/scapula		0	0
 skin/skull/skel	skeleton | skin | skull	0	1
 Skin/skull/tissue		0	0
 skin/skull/tissue | tissue		0	0
+skin/skull/tissue,FLK		0	0
+skin/skull/tissue,H		0	0
+skin/skull/tissue,HL		0	0
+skin/skull/tissue,HLK		0	0
+skin/skull/tissue,KL		0	0
+skin/skull/tissue,L		0	0
+skin/skull/tissue,L, parasite in liver		0	0
+skin/skull/tissue,L,H		0	0
+skin/skull/tissue,LH		0	0
+skin/skull/tissue,LHK		0	0
+skin/skull/tissue,LHK-1		0	0
+skin/skull/tissue,LHK-1, SN		0	0
+skin/skull/tissue,LHK-1, SS		0	0
+skin/skull/tissue,LK		0	0
+skin/skull/tissue,LK, baculum		0	0
+skin/skull/tissue,LKH		0	0
+skin/skull/tissue,LKH-1		0	0
+skin/skull/tissue,LKMH		0	0
+skin/skull/tissue,M		0	0
+skin/skull/tissue,SLK		0	0
 skin/skull?	skin | skull	0	1
 skin/stom/tissue saved		0	0
 Skin/Tissue		0	0
 skin/tissue saved		0	0
+skin/tissue,SLK		0	0
 skin/tissue/ectoparasites		0	0
 skin/tissue/sing		0	0
 skin/tissue/stom/ectoparasites		0	0
@@ -103259,7 +103434,10 @@ Skull Fragments, Long Bone, Atlas? | Skull Fragments, Long Bone, Atlas?		0	0
 SKULL FRAGMENTS, WEATHERED. COLLECTED FROM SURFACE.		0	0
 Skull fragments.		0	0
 skull fragments/partial skel		0	0
+skull fragments/tissue		0	0
 skull fragments/tissue | tissue		0	0
+skull fragments/tissue,M		0	0
+skull fragments/tissue,MH		0	0
 SKULL FRAGS		0	0
 skull frag's		0	0
 SKULL FRAGS & JAW		0	0
@@ -103413,6 +103591,7 @@ SKULL IN FAIR CONDITION, CRUSHED LATERALLY. NOTE: CANINES UNUSUALLY LARGE, LONG,
 SKULL IN FAIR PRESERVATION		0	0
 SKULL IN FINE CONDITION		0	0
 SKULL IN FINE PRESERVATION		0	0
+skull in fragments/partial body skeleton		0	0
 SKULL IN FRAGS		0	0
 skull in matrix		0	0
 skull in nodule		0	0
@@ -103588,12 +103767,42 @@ skull only, without facial bones		0	0
 Skull only.	skull	0	1
 skull only. | skull only.		0	0
 skull only.. | skull only..		0	0
+skull only/ tissue		0	0
 skull only/ tissue | tissue		0	0
+skull only/baculum/tissue		0	0
 skull only/baculum/tissue | tissue		0	0
 skull only/tissue		0	0
 skull only/tissue  | tissue		0	0
 skull only/tissue | tissue		0	0
+skull only/tissue,HLK		0	0
+skull only/tissue,HLM		0	0
+skull only/tissue,HLM-1		0	0
+skull only/tissue,K		0	0
+skull only/tissue,KH		0	0
+skull only/tissue,KHM		0	0
+skull only/tissue,KL		0	0
+skull only/tissue,KL, GI tract		0	0
+skull only/tissue,KLH		0	0
+skull only/tissue,KLM		0	0
+skull only/tissue,L		0	0
+skull only/tissue,LHK		0	0
+skull only/tissue,LHK-1, SK		0	0
+skull only/tissue,LK		0	0
+skull only/tissue,LKH		0	0
+skull only/tissue,Lysed blood		0	0
+skull only/tissue,M		0	0
+skull only/tissue,M-1		0	0
+skull only/tissue,ML		0	0
+skull only/tissue,S		0	0
+skull only/tissue,S,L,K		0	0
+skull only/tissue,S,L,K,H		0	0
+skull only/tissue,SKH		0	0
+skull only/tissue,SL		0	0
+skull only/tissue,tissue taken L-1		0	0
+skull only/tissue,tissue taken M-1		0	0
+skull only/tissue. SKIN TO TC		0	0
 skull only/tissue. SKIN TO TC | tissue		0	0
+skull only; alc. gut		0	0
 skull only; alc. gut | tissue		0	0
 skull only?	skull	0	1
 skull ony(antlers removed ) | skull ony(antlers removed )		0	0
@@ -105256,11 +105465,14 @@ skull/baculum | tissue		0	0
 skull/baculum/hyoid/histopath		0	0
 Skull/baculum/tissue		0	0
 skull/baculum/tissue | tissue		0	0
+skull/baculum/tissue,HLM		0	0
+skull/baculum/tissue,S		0	0
 skull/femur		0	0
 skull/fetal bones		0	0
 skull/forelimb	forelimb | skull	0	1
 skull/forelimb/scalp	forelimb | scalp | skull	0	1
 skull/front flippers		0	0
+skull/front legs/tissue		0	0
 skull/front legs/tissue | tissue		0	0
 skull/hind limbs		0	0
 skull/horns	horns | skull	0	1
@@ -105274,6 +105486,7 @@ skull/partial skel	partial skeleton | skull	0	1
 skull/partial skel/atlas/fetal bones		0	0
 skull/partial skel/fetal bones		0	0
 skull/partial skel/pelvis		0	0
+skull/partial skel/tissue		0	0
 skull/partial skel/tissue | tissue		0	0
 skull/partial skeleton		0	0
 skull/partial skeleton/fetal bones		0	0
@@ -105282,6 +105495,7 @@ skull/partial skin/tissue		0	0
 Skull/pelvis		0	0
 skull/pelvis/femur		0	0
 skull/post-cranial		0	0
+skull/R wing/tissue		0	0
 skull/R wing/tissue | tissue		0	0
 skull/right rear foot		0	0
 skull/scalp	scalp | skull	0	1
@@ -105293,14 +105507,22 @@ skull/skel/scalp	scalp | skeleton | skull	0	1
 skull/skeleton		0	0
 skull/skin		0	0
 skull/skin alc	alcoholic | skin | skull	0	1
+skull/skin/tissue		0	0
 skull/skin/tissue | tissue		0	0
 skull/tail	skull | tail	0	1
 SKULL/TAIL/FEMUR/TIBIA (DRY)	femur | skull | tail | tibia	0	1
+skull/tanned pelt		0	0
 Skull/tissue		0	0
 skull/tissue | tissue		0	0
+skull/tissue,L		0	0
+skull/tissue,M		0	0
+skull/tissue,M, baculum		0	0
+skull/tissue/baculum		0	0
 skull/tissue/baculum | tissue		0	0
 skull/tooth	skull | tooth	0	1
 skull/vertebrae	skull | vertebrae	0	1
+skull/vertebrae/tissue,HLM		0	0
+skull/wings		0	0
 skull/wings/tail	skull | tail | wings	0	1
 SKULL:  5 SKULLS, 4 PR LOWER J	5 skulls | 4 partial lower jaws	0	1
 SKULL:  R DENTARY ONLY	skull | right dentary	0	1
@@ -107063,6 +107285,7 @@ TANK 4-A		0	0
 TANK 59		0	0
 tanned cape		0	0
 tanned hide	tanned skin	0	1
+tanned hide/tissue only		0	0
 tanned hide/tissue only | tissue		0	0
 TANNED SKIN	tanned skin	0	1
 Tanned Skin - 1		0	0
@@ -107596,6 +107819,8 @@ TEETH/,PHALANGES		0	0
 TEETH/,PODIALS		0	0
 TEETH/+/TEETH		0	0
 Teeth/bone/tissue		0	0
+Teeth/bone/tissue,M (bottom of mandibles, poor quality)		0	0
+Teeth/bone/tissue,M (poor quality, bottom of mandibles)		0	0
 teeth/partial skull		0	0
 TEETH; A+B		0	0
 TEETH; BONE FRAGS		0	0
@@ -108473,9 +108698,16 @@ Tissue number none taken		0	0
 Tissue number not taken		0	0
 Tissue number Y		0	0
 tissue only		0	0
+tissue only (ALL TISSUE SENT TO SCHWARTZ)		0	0
 tissue only (ALL TISSUE SENT TO SCHWARTZ) | tissue		0	0
 tissue only | tissue		0	0
+tissue only,Bite muscles dissected and sent to Santana Lab.		0	0
+tissue only,Jaw muscle data		0	0
+tissue only,M		0	0
+tissue only,thigh muscle		0	0
+tissue only,tissue taken:M,		0	0
 tissue only.		0	0
+tissue only; SKELETON TO T.C.		0	0
 tissue only; SKELETON TO T.C. | tissue		0	0
 Tissue Sample		0	0
 TISSUE SAMPLE IN BRINE, tissue		0	0
@@ -110513,6 +110745,7 @@ UPPER ANT. TOOTH		0	0
 upper antemolar		0	0
 Upper bill.		0	0
 upper canine		0	0
+Upper canines		0	0
 upper carnassial		0	0
 UPPER CARNASSIAL, M1/		0	0
 upper cheek teeth		0	0

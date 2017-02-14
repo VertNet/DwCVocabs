@@ -232,13 +232,16 @@ M*	1.00	0	1
 m.	1.00	0	1
 m?	1.00	0	1
 m\		0	1
+m`	1.00	0	1
 Madden Creek		0	1
 maissing		0	1
 maters	1.00	0	1
 meadows behind Quarry		0	1
 MET	1.00	0	1
-meter	1.00	0	1
-meter beloMETERS (UNCLEAR)	1.00	0	1
+meter	1.00	0	METERS (BOTTOM)	1.00	0	1
+
+0	1
+METERS (UNCLEAR)	1.00	0	1
 METERS BOTTOM DEPTH	1.00	0	1
 METERS MAXIMUM GEAR DEPTH	1.00	0	1
 METERS OF WIRE	1.00	0	1
@@ -311,6 +314,7 @@ Shallow		0	1
 shore	0.00	0	1
 shore?	0.00	0	1
 Shoreline		0	1
+sl		0	1
 Sn Patton Valley Rd.		0	1
 spruce		0	1
 spruce-Shepherdia		0	1
