@@ -23,6 +23,7 @@ verbatimGeodeticDatum	standardGeodeticDatum	epsg	standard	checked
 42.356157			0	1
 5047			0	1
 76.137987			0	1
+-9.47			0	1
 Adams			0	1
 ADG 66	AGD66	4202	0	1
 Adindan	Adindan	6201	1	1
@@ -281,6 +282,7 @@ unknown	not recorded (forced WGS84)	6030	0	1
 UTM			0	1
 UTM NAD27, NAD83 Decimal Degrees	NAD83	4269	0	1
 UTM zone 17M			0	1
+UTM54			0	1
 UTMG NAD27, Decimal Degrees NAD83	NAD83	4269	0	1
 Viti Levu 1916	Viti Levu 1916	6731	1	1
 Voirol 1874	Voirol 1874		1	1

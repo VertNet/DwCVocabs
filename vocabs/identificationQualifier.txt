@@ -13,6 +13,9 @@ verbatimIdentificationQualifier	standardIdentificationQualifier	standard	checked
 (Catonotus) sp.	sp.	0	1
 (cyprinella) sp.	sp.	0	1
 (Doration) sp.	sp.	0	1
+(Duméril & Bibron, 1839)		0	1
+(Duméril & Bibron, 1841)		0	1
+(Duméril, 1853)		0	1
 (Etheostoma) sp.	sp.	0	1
 (gyroloides subsp.)	ssp.	0	1
 (Hapclonus) sp.	sp.	0	1
@@ -137,6 +140,7 @@ verbatimIdentificationQualifier	standardIdentificationQualifier	standard	checked
 155 m.m. s.l.		0	1
 180mm s.l., (dried)		0	1
 190 m.m. s.l.		0	1
+1967		0	1
 200 m.m. s.l.		0	1
 212 m.m. s.l.		0	1
 215 m.m. s.l.		0	1
@@ -165,6 +169,7 @@ verbatimIdentificationQualifier	standardIdentificationQualifier	standard	checked
 670 m.m. s.l.		0	1
 740m.m.s.l.tip of tail ab		0	1
 aegyptiaca X sp.	aegyptiaca X sp.	0	1
+aff maldivensis	aff. Maldivensis	0	1
 aff sp	aff.	0	1
 aff.	aff.	1	1
 Along with B548 & B549 SYNTYPE of Sericornis maculatus houtmanensis, Zietz, 1921, (see SAOA 6(2): 44-5). W.D. Dodd No. 119.		0	1
@@ -207,13 +212,30 @@ c.f. Spilogale	cf. Spilogale	0	1
 c.f. tigris	cf. tigris	0	1
 cactorum sp. nov.	sp. nov.	0	1
 cf	cf.	0	1
+cf achirus	cf. achirus	0	1
+cf aculeatus	cf. aculeatus	0	1
+cf aequipinnis	cf. aequipinnis	0	1
+cf affinis	cf. affinis	0	1
+cf aliciae	cf. aliciae	0	1
+cf antipodianus	cf. antipodianus	0	1
+cf atrum	cf. atrum	0	1
+cf barbatus	cf. barbatus	0	1
+cf Bolinichthys	cf. Bolinichthys	0	1
+cf bougainvillii	cf. bougainvillii	0	1
+cf boulengeri	cf. boulengeri	0	1
+cf brachygnathum	cf. brachygnathum	0	1
+cf calcea	cf. calcea	0	1
 cf Chaetodipus	cf. Chaetodipus	0	1
 cf cinerea	cf. cinerea	0	1
 cf cinereoargenteus	cf. cinereoargenteus	0	1
 cf class	cf.	0	1
+cf cribroris	cf. cribroris	0	1
+cf dunckeri	cf. dunckeri	0	1
+cf effulgens	cf. effulgens	0	1
 cf fam	cf.	0	1
 cf fam cf gen	cf.	0	1
 cf family	cf.	0	1
+cf filamentosus	cf. filamentosus	0	1
 cf flaviventris	cf. flaviventris	0	1
 cf fm	cf.	0	1
 cf gen	cf.	0	1
@@ -225,11 +247,31 @@ cf genus	cf.	0	1
 cf genus and species	cf.	0	1
 cf gn	cf.	0	1
 cf gn cf sp	cf.	0	1
+cf hellwaldii	cf. hellwaldii	0	1
+cf indicus	cf. indicus	0	1
+cf intima	cf. intima	0	1
+cf longimanus	cf. longimanus	0	1
+cf lucifer	cf. lucifer	0	1
+cf luetkeni	cf. luetkeni	0	1
+cf malayana	cf. malayana	0	1
+cf melbournensis	cf. melbournensis	0	1
+cf microcephalus	cf. microcephalus	0	1
+cf nigrescens	cf. nigrescens	0	1
+cf oblongus	cf. oblongus	0	1
+cf obtusirostre	cf. obtusirostre	0	1
+cf occidentalis	cf. occidentalis	0	1
+cf olidus	cf. olidus	0	1
 cf order	cf.	0	1
 cf other_id	cf.	0	1
 cf otherid	cf.	0	1
 cf Ovis canadensis	cf. Ovis canadensis	0	1
+cf paucimaculatus	cf. paucimaculatus	0	1
+cf philippinensis	cf. philippinensis	0	1
+cf pontohi	cf. pontohi	0	1
+cf quadrispinosa	cf. quadrispinosa	0	1
 cf Rhabdognathus rarus.	cf. Rhabdognathus rarus	0	1
+cf rhomboidea	cf. rhomboidea	0	1
+cf scheelei	cf. scheelei	0	1
 cf sp	cf.	0	1
 cf sp cf gn	cf.	0	1
 cf sp, ?genus, worn	cf.	0	1
@@ -239,10 +281,14 @@ cf sp.	cf.	0	1
 cf sp; ?genus	cf.	0	1
 cf species	cf.	0	1
 cf Spilogale	cf. Spilogale	0	1
+cf spinifera	cf. spinifera	0	1
+cf stenodactylum	cf. stenodactylum	0	1
 cf subfam	cf.	0	1
 cf suborder	cf.	0	1
 cf subsp	cf.	0	1
 cf subspecies	cf.	0	1
+cf vaigiensis	cf. vaigiensis	0	1
+cf viridis	cf. viridis	0	1
 cf, so,	cf.	0	1
 cf.	cf.	0	1
 cf. A. nobilis	cf. nobilis	0	1
@@ -301,6 +347,8 @@ dfh sp.4	sp.	0	1
 dfh sp.6	sp.	0	1
 dfh sp.8	sp.	0	1
 dfh sp.9	sp.	0	1
+Dr Glenn Shea - Australian Museum		0	1
+Dr Paul Oliver - Museum Victoria		0	1
 egregia or sp. nov.	species in question	0	1
 EmydidC		0	1
 Erinaceoidea		0	1
@@ -324,6 +372,7 @@ fm cf	cf.	0	1
 FM GN ?	family, genus in question	0	1
 FM?	family in question	0	1
 fusca n. sp.	sp. nov.	0	1
+G J. Witten		0	1
 galbula ssp. bullockii	ssp.	0	1
 gardineri n.sp.	sp. nov.	0	1
 ge ?	genus in question	0	1
@@ -370,6 +419,7 @@ gn cf	cf.	0	1
 gn cf sg cf	cf.	0	1
 gn cf sp cf	cf.	0	1
 gn?	genus in question	0	1
+Gray, 1842		0	1
 gs ?	genus in question	0	1
 gs cf	cf.	0	1
 gulosus X sp.	gulosus X sp.	0	1
@@ -509,6 +559,7 @@ or nr	cf.	0	1
 or Pliohippus	genus in question	0	1
 oreas x Nocomis sp.	oreas x Nocomis sp.	0	1
 Otophryne sp.	sp.	0	1
+Ovophis monticolo (Günther, 1964)		0	1
 palm sp. 1	palm sp. 1	0	1
 palm sp.1	palm sp.1	0	1
 pandora X R. sp.	pandora X R. sp.	0	1
@@ -1203,6 +1254,7 @@ Unidentified		0	1
 venusta x sp.	venusta X sp.	0	1
 Vespertilionoidea cf fm	cf.	0	1
 vivax X sp.	vivax X sp.	0	1
+Waite & Longman, 1920		0	1
 websteri sp.nov.	sp. nov.	0	1
 willii gen & sp		0	1
 wood-masoni n.	sp. nov.	0	1

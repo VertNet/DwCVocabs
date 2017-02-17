@@ -13,6 +13,9 @@ identificationqualifier	standard	vetted
 (CATONOTUS) SP.	sp.	1
 (CYPRINELLA) SP.	sp.	1
 (DORATION) SP.	sp.	1
+(DUMÉRIL & BIBRON, 1839)		1
+(DUMÉRIL & BIBRON, 1841)		1
+(DUMÉRIL, 1853)		1
 (ETHEOSTOMA) SP.	sp.	1
 (GYROLOIDES SUBSP.)	ssp.	1
 (HAPCLONUS) SP.	sp.	1
@@ -137,6 +140,7 @@ identificationqualifier	standard	vetted
 155 M.M. S.L.		1
 180MM S.L., (DRIED)		1
 190 M.M. S.L.		1
+1967		1
 200 M.M. S.L.		1
 212 M.M. S.L.		1
 215 M.M. S.L.		1
@@ -165,6 +169,7 @@ identificationqualifier	standard	vetted
 670 M.M. S.L.		1
 740M.M.S.L.TIP OF TAIL AB		1
 AEGYPTIACA X SP.	aegyptiaca X sp.	1
+AFF MALDIVENSIS	aff. Maldivensis	1
 AFF SP	aff.	1
 AFF.	aff.	1
 ALONG WITH B548 & B549 SYNTYPE OF SERICORNIS MACULATUS HOUTMANENSIS, ZIETZ, 1921, (SEE SAOA 6(2): 44-5). W.D. DODD NO. 119.		1
@@ -207,13 +212,30 @@ C.F. SPILOGALE	cf. Spilogale	1
 C.F. TIGRIS	cf. tigris	1
 CACTORUM SP. NOV.	sp. nov.	1
 CF	cf.	1
+CF ACHIRUS	cf. achirus	1
+CF ACULEATUS	cf. aculeatus	1
+CF AEQUIPINNIS	cf. aequipinnis	1
+CF AFFINIS	cf. affinis	1
+CF ALICIAE	cf. aliciae	1
+CF ANTIPODIANUS	cf. antipodianus	1
+CF ATRUM	cf. atrum	1
+CF BARBATUS	cf. barbatus	1
+CF BOLINICHTHYS	cf. Bolinichthys	1
+CF BOUGAINVILLII	cf. bougainvillii	1
+CF BOULENGERI	cf. boulengeri	1
+CF BRACHYGNATHUM	cf. brachygnathum	1
+CF CALCEA	cf. calcea	1
 CF CHAETODIPUS	cf. Chaetodipus	1
 CF CINEREA	cf. cinerea	1
 CF CINEREOARGENTEUS	cf. cinereoargenteus	1
 CF CLASS	cf.	1
+CF CRIBRORIS	cf. cribroris	1
+CF DUNCKERI	cf. dunckeri	1
+CF EFFULGENS	cf. effulgens	1
 CF FAM	cf.	1
 CF FAM CF GEN	cf.	1
 CF FAMILY	cf.	1
+CF FILAMENTOSUS	cf. filamentosus	1
 CF FLAVIVENTRIS	cf. flaviventris	1
 CF FM	cf.	1
 CF GEN	cf.	1
@@ -225,11 +247,31 @@ CF GENUS	cf.	1
 CF GENUS AND SPECIES	cf.	1
 CF GN	cf.	1
 CF GN CF SP	cf.	1
+CF HELLWALDII	cf. hellwaldii	1
+CF INDICUS	cf. indicus	1
+CF INTIMA	cf. intima	1
+CF LONGIMANUS	cf. longimanus	1
+CF LUCIFER	cf. lucifer	1
+CF LUETKENI	cf. luetkeni	1
+CF MALAYANA	cf. malayana	1
+CF MELBOURNENSIS	cf. melbournensis	1
+CF MICROCEPHALUS	cf. microcephalus	1
+CF NIGRESCENS	cf. nigrescens	1
+CF OBLONGUS	cf. oblongus	1
+CF OBTUSIROSTRE	cf. obtusirostre	1
+CF OCCIDENTALIS	cf. occidentalis	1
+CF OLIDUS	cf. olidus	1
 CF ORDER	cf.	1
 CF OTHER_ID	cf.	1
 CF OTHERID	cf.	1
 CF OVIS CANADENSIS	cf. Ovis canadensis	1
+CF PAUCIMACULATUS	cf. paucimaculatus	1
+CF PHILIPPINENSIS	cf. philippinensis	1
+CF PONTOHI	cf. pontohi	1
+CF QUADRISPINOSA	cf. quadrispinosa	1
 CF RHABDOGNATHUS RARUS.	cf. Rhabdognathus rarus	1
+CF RHOMBOIDEA	cf. rhomboidea	1
+CF SCHEELEI	cf. scheelei	1
 CF SP	cf.	1
 CF SP CF GN	cf.	1
 CF SP, ?GENUS, WORN	cf.	1
@@ -239,10 +281,14 @@ CF SP.	cf.	1
 CF SP; ?GENUS	cf.	1
 CF SPECIES	cf.	1
 CF SPILOGALE	cf. Spilogale	1
+CF SPINIFERA	cf. spinifera	1
+CF STENODACTYLUM	cf. stenodactylum	1
 CF SUBFAM	cf.	1
 CF SUBORDER	cf.	1
 CF SUBSP	cf.	1
 CF SUBSPECIES	cf.	1
+CF VAIGIENSIS	cf. vaigiensis	1
+CF VIRIDIS	cf. viridis	1
 CF, SO,	cf.	1
 CF.	cf.	1
 CF. A. NOBILIS	cf. nobilis	1
@@ -301,6 +347,8 @@ DFH SP.4	sp.	1
 DFH SP.6	sp.	1
 DFH SP.8	sp.	1
 DFH SP.9	sp.	1
+DR GLENN SHEA - AUSTRALIAN MUSEUM		1
+DR PAUL OLIVER - MUSEUM VICTORIA		1
 EGREGIA OR SP. NOV.	species in question	1
 EMYDIDC		1
 ERINACEOIDEA		1
@@ -324,6 +372,7 @@ FM CF	cf.	1
 FM GN ?	family, genus in question	1
 FM?	family in question	1
 FUSCA N. SP.	sp. nov.	1
+G J. WITTEN		1
 GALBULA SSP. BULLOCKII	ssp.	1
 GARDINERI N.SP.	sp. nov.	1
 GE ?	genus in question	1
@@ -370,6 +419,7 @@ GN CF	cf.	1
 GN CF SG CF	cf.	1
 GN CF SP CF	cf.	1
 GN?	genus in question	1
+GRAY, 1842		1
 GS ?	genus in question	1
 GS CF	cf.	1
 GULOSUS X SP.	gulosus X sp.	1
@@ -509,6 +559,7 @@ OR NR	cf.	1
 OR PLIOHIPPUS	genus in question	1
 OREAS X NOCOMIS SP.	oreas x Nocomis sp.	1
 OTOPHRYNE SP.	sp.	1
+OVOPHIS MONTICOLO (GÜNTHER, 1964)		1
 PALM SP. 1	palm sp. 1	1
 PALM SP.1	palm sp.1	1
 PANDORA X R. SP.	pandora X R. sp.	1
@@ -1203,6 +1254,7 @@ UNIDENTIFIED		1
 VENUSTA X SP.	venusta X sp.	1
 VESPERTILIONOIDEA CF FM	cf.	1
 VIVAX X SP.	vivax X sp.	1
+WAITE & LONGMAN, 1920		1
 WEBSTERI SP.NOV.	sp. nov.	1
 WILLII GEN & SP		1
 WOOD-MASONI N.	sp. nov.	1
