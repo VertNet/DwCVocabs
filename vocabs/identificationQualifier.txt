@@ -2,6 +2,7 @@ verbatimIdentificationQualifier	standardIdentificationQualifier	standard	checked
  B1001 TYPE of Pachycephala rufiventris minor, Zietz, 1914 (see SAOA 1(1):15		0	1
  sp.	sp.	0	1
  SYNTYPE of Rhipidura mayi, Ashby, 1911 (see Emu 11:41)		0	1
+"		0	1
 (=Z. cornutus)		0	1
 (Achirostomias)  n. sp.	sp. nov.	0	1
 (Alburnops) sp.	sp.	0	1
@@ -32,6 +33,7 @@ verbatimIdentificationQualifier	standardIdentificationQualifier	standard	checked
 (s.s.) sp.	sp.	0	1
 (slhumops) sp. longinostris	sp.	0	1
 (sp. nov)	sp. nov.	0	1
+(sp.)	sp.	0	1
 (sp.?)	sp.	0	1
 (Ulocentra) sp.	sp.	0	1
 *specimen lost		0	1
@@ -354,6 +356,7 @@ EmydidC		0	1
 Erinaceoidea		0	1
 Eryops also		0	1
 Euryodus also		0	1
+ex. gr.	ex. gr.	0	1
 fa ?	family in question	0	1
 fa ? ;ge ?	family, genus in question	0	1
 fa ? ;ge ? ;sp ?	family, genus, species in question	0	1
@@ -436,6 +439,7 @@ incertae sedis	incertae sedis	1	1
 indet sp.	sp.	0	1
 indet. sp.	sp.	0	1
 indet. sp. 1	sp.	0	1
+informal	informal	0	1
 inornatus x sp. Uniparens		0	1
 isolepis sp.1	sp.	0	1
 isolepis sp.2	sp.	0	1

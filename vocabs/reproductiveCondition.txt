@@ -416,6 +416,7 @@ verbatimReproductiveCondition	standardReproductiveCondition	standard	checked
 1L+3R embryos, 3+mm SW		0	0
 1L+3R embryos, 33mm SW, 35mm CR		0	0
 1L+4R embryos, 21mm SW, 18mm CR		0	0
+1R necrotic embryo = 0mm, 1L embryo = 12mm		0	0
 1R plac scar, 1L emb		0	0
 1R, 0L placental scars		0	0
 1R, 1L emb.   1: 2 = 6 mammae.		0	0
@@ -1422,6 +1423,7 @@ verbatimReproductiveCondition	standardReproductiveCondition	standard	checked
 6 embryos; 2mm		0	0
 6 embryos; 5mm		0	0
 6 embryos; 8 mm		0	0
+6 embryos=15mm		0	0
 6 embs		0	0
 6 embs, 13 mm		0	0
 6 embs/2 R/4 L/cr < 2 mm		0	0
@@ -1462,6 +1464,7 @@ verbatimReproductiveCondition	standardReproductiveCondition	standard	checked
 6 embs:CR=9mm		0	0
 6 embyros, 13mm		0	0
 6 fetus L horn, CR=5mm		0	0
+6 fetuses=15mm		0	0
 6 mammae		0	0
 6 mammae, well developed		0	0
 6 mammaes		0	0
@@ -1612,6 +1615,18 @@ ABDOMEN DAMAGED - COULD NOT SEX.		0	0
 ABDOMEN DAMAGED, UNABLE TO SEX.		0	0
 abdomen looks like breeding ovaries slightly enlarged		0	0
 abdominal		0	0
+abdominal; testes = 10mm		0	0
+abdominal; testes = 11mm		0	0
+abdominal; testes = 17mm		0	0
+abdominal; testes = 3mm		0	0
+abdominal; testes = 4mm		0	0
+abdominal; testes = 5mm		0	0
+abdominal; testes = 6mm		0	0
+abdominal; testes = 7mm		0	0
+abdominal; testes=10mm		0	0
+abdominal; testes=4mm		0	0
+abdominal; testes=5mm		0	0
+abdominal; testes=7mm		0	0
 aborted		0	0
 aborted 1 young		0	0
 active uterus		0	0
@@ -2034,13 +2049,17 @@ embryo 15 X 14		0	0
 embryo 17mm;		0	0
 Embryo 1L+0R=1; 16mmSW, 19mmCR		0	0
 Embryo 1L=1, 8mmSW		0	0
+embryo 1L=35mm		0	0
 Embryo 1R+ 2L CR=9mm;		0	0
+embryo 2L, 3R=23mm		0	0
 Embryo 2L+2R=4, 10mmSW		0	0
 embryo 2R 3L, CR 4 mm;		0	0
 Embryo 2R+2L CR= 8mm;		0	0
 embryo 3L, CR=17mm		0	0
 embryo 3R, 2L--12mm;		0	0
+embryo 4L=3mm		0	0
 Embryo 4R+1L=5, 2mmSW		0	0
+embryo 5R=3mm 		0	0
 embryo none		0	0
 embryo of ROMM 19766		0	0
 embryo of RROMM 20327		0	0
@@ -2074,7 +2093,12 @@ embryo= 30		0	0
 embryo= 30mm		0	0
 embryo= 42		0	0
 Embryo= 9mm 2L 2R;		0	0
+embryo=19mm		0	0
+embryo=1mm		0	0
+embryo=2mm		0	0
+embryo=6mm		0	0
 embryos		0	0
+embryos  4L, 3R = 5mm		0	0
 embryos "L" 7mm;		0	0
 Embryos (3): 7x7, 7x7, 1x3mm		0	0
 embryos >4, 12mmSW		0	0
@@ -2118,7 +2142,16 @@ Embryos 1L 2R CR = 7mm		0	0
 Embryos 1L 3R CR = 16 mm, Lactating		0	0
 Embryos 1L(12)mm+2R(7,10)mm=3		0	0
 Embryos 1L(25)mm+2R(23,23)mm=3		0	0
+embryos 1L, 1R=3mm		0	0
+embryos 1L, 1R=58mm		0	0
 embryos 1L, 2L		0	0
+embryos 1L, 2R = 7mm		0	0
+embryos 1L, 2R= 22x12mm		0	0
+embryos 1L, 2R=12mm		0	0
+embryos 1L, 2R=15x9mm		0	0
+embryos 1L, 2R=23mm		0	0
+embryos 1L, 3R = 7mm		0	0
+embryos 1L, 3R=14mm		0	0
 Embryos 1L+0R=1, 19mmSW		0	0
 Embryos 1L+1R		0	0
 Embryos 1L+1R; 3x2mmSW		0	0
@@ -2170,6 +2203,7 @@ Embryos 1L+5R=6; 24mmCR; 19mmSW		0	0
 Embryos 1L+5R=6; 24mmSW		0	0
 Embryos 1L+6R=7, 4mm		0	0
 Embryos 1L+8R, 3mmSW, litter size=9		0	0
+embryos 1R, 3L=3mm		0	0
 Embryos 1R+0L=1, 10mmCR		0	0
 Embryos 1R+0L=1, 5mmSW		0	0
 Embryos 1R+0L=1, 7mmCR		0	0
@@ -2189,9 +2223,22 @@ Embryos 2L(22x15)mm+4R(23x17)mm=6		0	0
 Embryos 2L(8,8)mm+2R(9,9)mm=4		0	0
 Embryos 2L, 13mmSW, 23mmCR		0	0
 Embryos 2L, 18mm		0	0
+embryos 2L, 1R = 5mm		0	0
 embryos 2L, 1R;		0	0
+embryos 2L, 2R = 18mm		0	0
+embryos 2L, 2R = 4mm		0	0
+embryos 2L, 2R = 8mm		0	0
+embryos 2L, 2R=13mm		0	0
+embryos 2L, 2R=14mm		0	0
+embryos 2L, 2R=3mm		0	0
+embryos 2L, 2R=4mm		0	0
+embryos 2L, 2R=5mm		0	0
+embryos 2L, 3R = 10mm		0	0
 embryos 2L, 3R;		0	0
+embryos 2L, 3R=22mm		0	0
+embryos 2L, 3R=3mm		0	0
 Embryos 2L, 4.5mmSW; Litter size=2		0	0
+embryos 2L, 5R=8mm		0	0
 Embryos 2L+0R, 8mmSW, 7mmCR		0	0
 Embryos 2L+0R=2, 12mmCR		0	0
 Embryos 2L+0R=2, 15x13mm width (CR)		0	0
@@ -2288,9 +2335,13 @@ Embryos 2L+4R=6		0	0
 Embryos 2L+4R=6, 18mmSW		0	0
 Embryos 2L+5R, 15mmSW, 16mmCR		0	0
 Embryos 2L+5R=7, 20mmSW, 37mmCR		0	0
+embryos 2L=17mm		0	0
 Embryos 2L=2, 23mmCR		0	0
 embryos 2R, 1L, 16mm each;		0	0
 Embryos 2R, 2L, CR=14		0	0
+embryos 2R, 2L=11mm		0	0
+embryos 2R, 2L=9mm		0	0
+embryos 2R, 3L=12mm		0	0
 Embryos 2R, 8.5mm SW, 9mm CR;		0	0
 Embryos 2R+0L=2; 10mmCR		0	0
 Embryos 2R+1L, 5mmSW, Litter size=3		0	0
@@ -2304,13 +2355,20 @@ Embryos 2R+2L=4, 9mmSW, 7mmCR		0	0
 Embryos 2R+3L=5		0	0
 Embryos 2R+4L=6, 5mmCR		0	0
 Embryos 2R+4L=6, 9mmSW		0	0
+embryos 2R=13mm		0	0
+embryos 2R=14mm		0	0
 Embryos 2R=2, 4mmSW		0	0
 Embryos 2R1L, 12mm		0	0
 Embryos 3L 2R 10mm CR length, Scars 2L2R		0	0
 Embryos 3L 2R CR = 16 mm, lactating		0	0
 Embryos 3L(4,2,4)mm+3R(4,4,4)mm=6		0	0
 embryos 3L, 1L		0	0
+embryos 3L, 1R = 15mm; 1R resorbed embryo = 7mm		0	0
+embryos 3L, 2R = 8mm		0	0
+embryos 3L, 2R=1mm		0	0
+embryos 3L, 2R=23mm		0	0
 embryos 3L, 3R;		0	0
+embryos 3L, 3R=19 mm		0	0
 embryos 3L;		0	0
 Embryos 3L+0R, 8mmSW, 7mmCR;		0	0
 Embryos 3L+0R=3, 4mm		0	0
@@ -2367,6 +2425,7 @@ Embryos 3L+4R=7, 12mmCR		0	0
 Embryos 3L+4R=7, 4mmSW		0	0
 Embryos 3L+5R, 13mmSW		0	0
 Embryos 3L+6R=9, 5mmSW		0	0
+embryos 3L=44mm		0	0
 Embryos 3R 2L LR= 15mm;		0	0
 Embryos 3R+2L=5, 18mmSW		0	0
 Embryos 3R+2L=5, 19mmCR		0	0
@@ -2404,6 +2463,7 @@ Embryos 4L+4R=8, 8mm dia.		0	0
 Embryos 4L+6R=10, 10mmSW		0	0
 Embryos 4mmSW; Litter size=7		0	0
 Embryos 4R + 0L		0	0
+embryos 4R, 2L=7mm		0	0
 embryos 4R; uterine scars 3L		0	0
 Embryos 4R+0L=4		0	0
 Embryos 4R+1L=5		0	0
@@ -2529,6 +2589,12 @@ embryos R-2, L-2mm, CR=12mm		0	0
 Embryos R-2, L-6		0	0
 embryos R4, L2, all 20 x 14		0	0
 Embryos R-6		0	0
+embryos RL, 2L=1mm		0	0
+embryos x3= no measurement		0	0
+embryos x4 =no measurements		0	0
+embryos x4=36mm		0	0
+embryos x4=40mm		0	0
+embryos x6=15mm		0	0
 Embryos, 0L+1R=1, 3x2mm, small		0	0
 embryos, 1 mm (?)		0	0
 embryos, 3R, 2L		0	0
@@ -2797,6 +2863,12 @@ Embryos: R-7, L-5		0	0
 embryos;		0	0
 Embryos? ~4-5 small swellings in uterus		0	0
 embryos= 2R, 2L, 1.5mm diameter		0	0
+embryos=14mm		0	0
+embryos=18mm		0	0
+embryos=1L, 3R		0	0
+embryos=3mm		0	0
+embryos=4mm		0	0
+embryos=7mm		0	0
 embryos-0		0	0
 Embryos-1		0	0
 Embryos-1, 28mm		0	0
@@ -2835,6 +2907,7 @@ Embs:2(R),3(L);CR=15mm		0	0
 Embs:3x2; CR=small		0	0
 embuyos R-6, L-1, CR=~5mm		0	0
 Embyos 1R+4L=5, 3mmSW; lactating		0	0
+embyro 2L, 2R=17mm		0	0
 Embyro scars		0	0
 embyro scars: R-1, L-2		0	0
 Embyros 2L+2R=4, 9mmSW, 12mmCR		0	0
@@ -3089,6 +3162,8 @@ foetus preserved;		0	0
 follicles granular		0	0
 follicles minute		0	0
 follicles ripe		0	0
+forearm=31 tragus=4; nulliparous		0	0
+forearm=36 tragus=5; nulliparous		0	0
 formative	formative	1	1
 FOUND NO EVIDENCE OF GONADS.		0	0
 four placental scars		0	0
@@ -21026,6 +21101,7 @@ lactating and gravid;		0	0
 Lactating Embryo 2R+2L;		0	0
 Lactating just ended, mammae withered		0	0
 lactating no embryo;		0	0
+lactating no embryos		0	0
 Lactating Placental Scar 2R 2L;		0	0
 Lactating Placental Scars 2R 3L;		0	0
 Lactating Plactential Scars 2R 2L;		0	0
@@ -22266,6 +22342,7 @@ nulliparous; nipples small		0	0
 nulliparous; no emb		0	0
 nulliparous; ORIGINAL ID AS A MALE		0	0
 nulliparous; pregnant ?		0	0
+nulliparous; tragus=5		0	0
 nulliparous; uterus enlarged		0	0
 nulliparous; uterus thickened		0	0
 nulliparous; V: closed		0	0
@@ -23191,6 +23268,8 @@ plac. scars: L-5, R-0		0	0
 placenta scars 2R+ 2L;		0	0
 placental scars		0	0
 Placental scars 2L 1R;		0	0
+placental scars 2L, 1R		0	0
+placental scars 2L, 2R		0	0
 Placental scars 2R 3L;		0	0
 placental scars 5 & 4		0	0
 Placental scars L-2, R-4		0	0
@@ -24215,6 +24294,7 @@ Scar:1(R),0(L)		0	0
 scaring, lactating		0	0
 Scars 1L 1R		0	0
 scars 1L 2R Uterus swollen		0	0
+scars 1L, 2R		0	0
 Scars 1L+1R=2		0	0
 Scars 1L+3R=4		0	0
 scars 1R, 2L		0	0
@@ -24311,6 +24391,16 @@ scrotal, x15		0	0
 scrotal, x6		0	0
 scrotal, x7		0	0
 scrotal: L- 7x11mm		0	0
+scrotal; testes = 11mm		0	0
+scrotal; testes = 12mm		0	0
+scrotal; testes = 14mm		0	0
+scrotal; testes = 16mm		0	0
+scrotal; testes = 17mm		0	0
+scrotal; testes = 18mm		0	0
+scrotal; testes = 18mm; tub. vis.		0	0
+scrotal; testes = 19mm		0	0
+scrotal; testes = 21mm		0	0
+scrotal; testes = 22mm		0	0
 scrotal?		0	0
 scrotum 25mm. Open rolling hills, mixed woodland, some dense brush. Soil loamy. Conditions wet-normal. Trapped in tunnel through 8-10" grass in grass/brush open area.;		0	0
 scrotum 27;		0	0
@@ -24437,6 +24527,7 @@ single lg. egg		0	0
 sired 1 offspring: Isaac born July 2000		0	0
 SKETCH OF OVARY ON FIELD TAG.		0	0
 skin tissue sample taken		0	0
+slightly swollen		0	0
 Slightly thickened		0	0
 small		0	0
 small eggs		0	0
@@ -28401,6 +28492,7 @@ Testes 4.5x3mm		0	0
 Testes 4.5x3mm, scrotal		0	0
 Testes 4.5x4mm		0	0
 testes 4.6 x 1.5		0	0
+testes 4.7 x 4.1 cm		0	0
 testes 4.9 x 3		0	0
 testes 40mm;		0	0
 Testes 40x24 mm		0	0
@@ -28900,6 +28992,9 @@ testes abd., 4 x 7		0	0
 testes abd., 5 x 6		0	0
 testes abd., 6 x 10		0	0
 testes abd., 6X11		0	0
+testes abdm=2mm		0	0
+testes abdm=3mm		0	0
+testes abdm=7mm		0	0
 testes abdomial; T = 2 x 1		0	0
 testes abdominal		0	0
 testes abdominal = 13x7		0	0
@@ -28963,6 +29058,7 @@ Testes abdominal; T = 5 x 4		0	0
 testes abdominal; T = 6 x 2		0	0
 testes abdominal; T 10 mm		0	0
 testes abdominal; testes-2		0	0
+testes abdominal=8mm		0	0
 Testes abdonimal: 4.5x3mm		0	0
 Testes abdonminal		0	0
 testes about 150mm		0	0
@@ -29295,6 +29391,16 @@ testes scrotal; T = 9 x 6		0	0
 testes scrotal; T = 9 x 7		0	0
 testes scrotal; T = 9mm in length		0	0
 testes scrotal; testes-4		0	0
+testes scrotal=16mm		0	0
+testes scrotal=17mm		0	0
+testes scrotal=19mm		0	0
+testes scrotal=20mm		0	0
+testes scrotal=22mm		0	0
+testes scrotal=2mm		0	0
+testes scrotal=3mm		0	0
+testes scrotal=4mm		0	0
+testes scrotal=5mm		0	0
+testes scrotal=9mm		0	0
 testes sctotal		0	0
 testes semiscrotal		0	0
 testes semiscrotal ?		0	0
@@ -29974,6 +30080,7 @@ testes= 2.7x3.9mm		0	0
 testes= 2.7x4mm		0	0
 testes= 2.8x4.4mm		0	0
 testes= 20.4x10.5mm,epid+		0	0
+testes= 20mm		0	0
 testes= 20x11.5mm, epid +		0	0
 testes= 20x12 *		0	0
 testes= 20x9mm, epid +		0	0
@@ -30363,29 +30470,61 @@ testes= RL 6x4mm, epidid.=vis. tubule		0	0
 testes=1.1x2.1mm ova <1mm		0	0
 testes=1.5x2, epid -		0	0
 testes=1.7x4.0mm, epid -		0	0
+testes=10mm		0	0
 testes=10x7 mm		0	0
 testes=10x8 & 8x7 mm		0	0
+testes=11mm		0	0
 testes=12.2x25.7, epid +		0	0
+testes=12mm		0	0
+testes=13mm		0	0
 testes=140x240, 140x230mm		0	0
+testes=14mm		0	0
 testes=14x21mm, epid +		0	0
+testes=15mm		0	0
+testes=16mm		0	0
+testes=17mm		0	0
+testes=18mm		0	0
+testes=19mm		0	0
+testes=1mm		0	0
 testes=2.5x1.5 mm		0	0
 testes=2.5x4mm, epid -		0	0
 testes=2.6x4.1mm		0	0
 testes=20.2x10.4, epid +		0	0
+testes=20mm		0	0
+testes=21mm		0	0
+testes=22mm		0	0
 testes=24x14mm		0	0
+testes=25mm		0	0
+testes=26mm		0	0
+testes=27mm		0	0
+testes=28mm		0	0
+testes=29mm		0	0
+testes=2mm		0	0
 testes=2x3mm		0	0
 testes=3 x 5 mm; epid. ?		0	0
 testes=3 x 5 mm; epid. +		0	0
+testes=30mm		0	0
 Testes=36x27mm		0	0
+testes=37mm		0	0
+testes=38mm		0	0
+testes=3mm		0	0
 testes=3x2mm, epid -		0	0
 testes=3x4mm, epid -?		0	0
 testes=4.0x6.0 mm,epid.-		0	0
+testes=45mm		0	0
+testes=4mm		0	0
 testes=4x2.5mm		0	0
 testes=5 x 7 mm; epid. +		0	0
+testes=55mm		0	0
+testes=5mm		0	0
+testes=6mm		0	0
 testes=6x3.5mm		0	0
+testes=7mm		0	0
+testes=8mm		0	0
 testes=8x10mm, epid -		0	0
 testes=8x12mm, epid -		0	0
 testes=8x5mm		0	0
+testes=9mm		0	0
 testes=9x13mm, epid -		0	0
 testes=9x5		0	0
 testes=L 23x10;R 21x10mm		0	0
@@ -32604,6 +32743,7 @@ V: open; N: med		0	0
 V: open; N: small		0	0
 V=C; N=S		0	0
 Vag closed		0	0
+vag closed, nulliparous		0	0
 Vag closed, parous		0	0
 Vag closed, parous-no emb		0	0
 Vag closed; no embs		0	0
@@ -32631,17 +32771,58 @@ Vag open; parous, no embs		0	0
 Vag open; parous, scars		0	0
 Vag plugged, lact		0	0
 Vag turg, no embs		0	0
+vag, open, uterus swollen		0	0
 Vag. closed		0	0
+vag. closed ; no embroys, no scars		0	0
+vag. closed ; no embryos, no scars		0	0
 vag. closed, non parous		0	0
 Vag. closed, parous		0	0
+vag. closed, uterus swollen		0	0
+vag. closed,uterus swollen		0	0
+vag. closed; embryos 0L, 2R = 4mm		0	0
+vag. closed; embryos 1L, 1R = 19mm		0	0
+vag. closed; embryos 1L, 2R - 5mm		0	0
+vag. closed; embryos 1L, 2R = 4 mm		0	0
+vag. closed; embryos 1L, 2R = 5mm		0	0
+vag. closed; embryos 1L, 2R=30mm		0	0
+vag. closed; embryos 2L, 1R = 7mm		0	0
+vag. closed; embryos 2L, 2R = 4mm		0	0
+vag. closed; embryos 3L, 2R = 23mm		0	0
+vag. closed; embryos 3L, 2R = 5mm		0	0
+vag. closed; embryos 3L, 3R = 4mm		0	0
+vag. closed; embryos 4L, 2R=5mm		0	0
+vag. closed; no embryos, no scars		0	0
 Vag. closed; no embs		0	0
+vag. closed; no embyros, no scars		0	0
 Vag. closed; nonparous		0	0
+vag. closed; nulliparous		0	0
 Vag. closed; parous		0	0
 Vag. closed; plac. scars		0	0
+vag. closed; scars 0L, 1R		0	0
+vag. closed; scars 1R, 1L		0	0
+vag. closed; scars 2L, 0R		0	0
+vag. closed; scars 2L, 1R		0	0
+vag. closed; scars 2L, 2R		0	0
+vag. closed; uterus swollen		0	0
+vag. closed; uterus swollen; nulliparous		0	0
 Vag. clsd; parous; no emb		0	0
 Vag. clsd; parous; scars		0	0
 Vag. clsed; parous-scars		0	0
+vag. open		0	0
 vag. open, nipp. sma, plac. scars:2R, 3L		0	0
+vag. open; ccars 2L, 4R		0	0
+vag. open; embryos 1L, 1R = 6mm		0	0
+vag. open; embryos 1L, 2R = 18mm		0	0
+vag. open; nulliparous		0	0
+vag. open; parous		0	0
+vag. open; scars 1L, 1R		0	0
+vag. open; scars 2L 0R		0	0
+vag. open; scars 2L, 1R		0	0
+vag. open; Scars 2L, 2R		0	0
+vag. open; uterus swollen; parous		0	0
+vag. open; wlightly swollen		0	0
+vag.closed; embryos 3L, 0R = 15mm		0	0
+vag.open; parous		0	0
 vagina clos; nonparous		0	0
 Vagina closed		0	0
 Vagina closed, clitoris 4mm		0	0
@@ -32752,6 +32933,7 @@ very decayed		0	0
 VERY DRY.		0	0
 Very large yellow eggs		0	0
 very small eggs		0	0
+very small embryos		0	0
 Very swollen uterus		0	0
 very thin uterus		0	0
 very thin, complete winter pelage		0	0

@@ -113,7 +113,13 @@ month	standard	vetted
 (NO		1
 (SPRING)		1
 )CT0BER	10	1
+*		1
 */*/		1
+/		1
+/ /		1
+/ /1944 		1
+//		1
+/1963 		1
 ?		1
 ?-		1
 ? MARCH	3	1
@@ -136,6 +142,7 @@ __MAR __1996	3	1
 04AUG	8	1
 05	5	1
 06MAY	5	1
+07JUN	7	1
 08MAR	3	1
 08NOV	11	1
 09	9	1
@@ -175,6 +182,7 @@ __MAR __1996	3	1
 15		1
 15 1970		1
 15 MAY	5	1
+15JUN	6	1
 15TH		1
 16		1
 16 JUN	6	1
@@ -485,6 +493,7 @@ FEB-	2	1
 FEB -	2	1
 FEB 1923; 24 MAY		1
 FEB AND EARLY MAR		1
+FEB/JUN		1
 FEBRUARY	2	1
 FEBUARY	2	1
 FEBURARY	2	1
@@ -569,6 +578,7 @@ MAY 1987 AND 5 JUNE		1
 MAY OR JUNE		1
 MAY(?)	5	1
 MAY/JUNE		1
+MEET		1
 MID		1
 MMAR	3	1
 MRA	3	1

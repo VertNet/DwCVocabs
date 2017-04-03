@@ -78,6 +78,8 @@ Waterbody	IslandGroup	Island
 		Hilton Head
 		Hispaniola
 		Hog
+		Hokkaido
+		Honshu
 		Hutchinson
 		Hypluxo
 		Ihla Grande
@@ -94,6 +96,7 @@ Waterbody	IslandGroup	Island
 		Kiger
 		Knotts
 		Kuiu
+		Kyushu
 		Laguna Dam
 		Little Galoo
 		Little Land
@@ -127,6 +130,7 @@ Waterbody	IslandGroup	Island
 		Rattlesnake
 		Riverside
 		Rock
+		Sado
 		Saint Helena
 		Saint James
 		Sakhalin
@@ -138,6 +142,7 @@ Waterbody	IslandGroup	Island
 		Seal
 		Seymour
 		Shell
+		Sjælland
 		Skidaway
 		Socorro
 		Staten
@@ -239,7 +244,10 @@ Waterbody	IslandGroup	Island
 	Maluku Islands	Teor
 	Maluku Islands	Ternate
 	Maluku Islands	Timur Laut
+	Marshall Islands	Janet
+	Marshall Islands	Rongelap Atoll
 	Maurelle Islands	Anguilla
+	Mindanao	Mindanao
 	Natuna Islands	Natuna Besar
 	Newfoundland	Newfoundland
 	Nias Islands	Nias
@@ -1043,6 +1051,7 @@ North Atlantic Ocean	Golden Isles	Jekyll
 North Atlantic Ocean	Golden Isles	Sea
 North Atlantic Ocean	Golden Isles	St. Simons
 North Atlantic Ocean	Outer Banks	Roanoke
+North Atlantic Ocean	Plana Cays	East Plana Cay
 North Bay		Goose
 North Pacific Ocean		Terminal
 North Pacific Ocean	Channel Islands of California	Prince
@@ -1817,6 +1826,9 @@ South China Sea	Greater Sunda Islands	Borneo
 South China Sea	Greater Sunda Islands	Java
 South China Sea	Greater Sunda Islands	Labuan
 South China Sea	Greater Sunda Islands	Muara
+South Pacific Ocean	Cook Islands	Atiu
+South Pacific Ocean	Cook Islands	Rarotonga
+South Pacific Ocean	Tongatapu Group	`Eua
 Southern Atlantic Ocean		Ascencion
 Southern Atlantic Ocean		Ascension
 Southern Atlantic Ocean		Isla de Lobos
@@ -1952,6 +1964,7 @@ Southern Pacific Ocean	Moala Islands	Moala
 Southern Pacific Ocean	New Caledonia	Balabio
 Southern Pacific Ocean	New Caledonia	Grand Terre
 Southern Pacific Ocean	New Caledonia	Neba
+Southern Pacific Ocean	New Georgia Islands	New Georgia
 Southern Pacific Ocean	New Zealand	South Island
 Southern Pacific Ocean	Nggela Islands	Little Florida Island
 Southern Pacific Ocean	Nggela Islands	Nggela Sule

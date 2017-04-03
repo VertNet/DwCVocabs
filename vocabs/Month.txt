@@ -113,7 +113,13 @@ verbatimMonth	monthNumber	dayOfYearForFirst	checked
 (no			1
 (spring)			1
 )ct0ber	10	273	1
+*			1
 */*/			1
+/			1
+/ /			1
+/ /1944 			1
+//			1
+/1963 			1
 ?			1
 ?-			1
 ? March	3	59	1
@@ -136,6 +142,7 @@ __MAR __1996	3	59	1
 04Aug	8	212	1
 05	5	120	1
 06MAY	5	120	1
+07Jun	7	181	1
 08MAR	3	59	1
 08Nov	11	304	1
 09	9	243	1
@@ -175,6 +182,7 @@ __MAR __1996	3	59	1
 15			1
 15 1970			1
 15 May	5	120	1
+15Jun	6	151	1
 15th			1
 16			1
 16 Jun	6	151	1
@@ -485,6 +493,7 @@ Feb-	2	31	1
 Feb -	2	31	1
 Feb 1923; 24 May			1
 Feb and early Mar			1
+Feb/Jun			1
 February	2	31	1
 Febuary	2	31	1
 Feburary	2	31	1
@@ -569,6 +578,7 @@ May 1987 and 5 June			1
 May or June			1
 May(?)	5	120	1
 May/June			1
+Meet			1
 Mid			1
 MMAR	3	59	1
 MRA	3	59	1
