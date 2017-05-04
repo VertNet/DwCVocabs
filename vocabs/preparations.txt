@@ -21520,6 +21520,10 @@ DRIED/ SMALL JAR, tissue		0	0
 dRP4		0	0
 Dry	dry	1	1
 Dry   2 rör		0	0
+dry  (skeleton)		0	0
+dry  (skeleton) - 1		0	0
+dry  (skeleton) - 1; Skin&Viscera  (EtOH) - 1		0	0
+dry  (skeleton); EtOH - 1		0	0
 Dry - Alk		0	0
 Dry & Slide(s)		0	0
 Dry | 		0	0
@@ -24535,9 +24539,59 @@ ETHMOID		0	0
 EtOH	alcoholic	0	1
 EtOH - 1	alcoholic	0	1
 EtOH - 1; EtOH - 1	alcoholic	0	1
+EtOH - 1; jar - 1		0	0
 EtOH - 1; Skin only - 1; skeleton - 1		0	0
+EtOH - 10		0	0
+EtOH - 11		0	0
+EtOH - 12		0	0
+EtOH - 126		0	0
+EtOH - 13		0	0
+EtOH - 14		0	0
+EtOH - 146		0	0
+EtOH - 15		0	0
+EtOH - 16		0	0
+EtOH - 17		0	0
+EtOH - 18		0	0
+EtOH - 187		0	0
+EtOH - 19		0	0
 EtOH - 2	alcoholic	0	1
+EtOH - 20		0	0
+EtOH - 23		0	0
+EtOH - 24		0	0
+EtOH - 25		0	0
+EtOH - 26		0	0
+EtOH - 28		0	0
+EtOH - 29		0	0
+EtOH - 3		0	0
+EtOH - 30		0	0
+EtOH - 31		0	0
+EtOH - 33		0	0
+EtOH - 34		0	0
+EtOH - 35		0	0
+EtOH - 36		0	0
+EtOH - 37		0	0
+EtOH - 38		0	0
+EtOH - 4		0	0
+EtOH - 40		0	0
+EtOH - 43		0	0
+EtOH - 45		0	0
+EtOH - 48		0	0
 EtOH - 5		0	0
+EtOH - 55		0	0
+EtOH - 57		0	0
+EtOH - 58		0	0
+EtOH - 59		0	0
+EtOH - 6		0	0
+EtOH - 61		0	0
+EtOH - 62		0	0
+EtOH - 68		0	0
+EtOH - 7		0	0
+EtOH - 72		0	0
+EtOH - 73		0	0
+EtOH - 8		0	0
+EtOH - 85		0	0
+EtOH - 9		0	0
+EtOH - 92		0	0
 EtOH | 		0	0
 EtOH | 1		0	0
 EtOH | 100		0	0
@@ -31224,6 +31278,7 @@ EtOH + shed skin	alcoholic | shed skin	0	1
 EtOH + Skeleton	alcoholic | skeleton	0	1
 EtOH, tissue		0	0
 EtOH/Skeleton - 1	skeleton in alcohol	0	1
+EtOH; dry  (skeleton) - 1		0	0
 EUTHERIA		0	0
 EUTOPLASTRON		0	0
 EXCELLENT COMPLETE SPECIMEN		0	0
@@ -40685,6 +40740,7 @@ J.L.K. 2		0	0
 J.R.M. 4		0	0
 jar		0	0
 jar - 1		0	0
+jar - 1; EtOH - 1		0	0
 jar - 2		0	0
 jaw	jaw	1	1
 Jaw - 1		0	0
@@ -83451,6 +83507,9 @@ skin with skull in situ | skin with skull in situ		0	0
 skin		0	0
 skin | skin		0	0
 skin&skull		0	0
+Skin&Viscera  (EtOH)		0	0
+Skin&Viscera  (EtOH) - 1		0	0
+Skin&Viscera  (EtOH) - 1; Skeleton  (Dry) - 1		0	0
 Skin(1981 0211)/Skel(1981 0216)		0	0
 Skin(1981 1110)/Skel(1983 1003)		0	0
 Skin(1983 1115)/Skel(1983 0927)		0	0
@@ -101976,6 +102035,7 @@ Skul (damaged)l with jaw		0	0
 Skul (sectioned)l with jaw		0	0
 skul/post-cranial		0	0
 skull	skull	1	1
+Skull  (dry) - 1; EtOH - 1		0	0
 skull  | skeleton | liver (95% ethanol)		0	0
 Skull - 0		0	0
 Skull - 1		0	0
