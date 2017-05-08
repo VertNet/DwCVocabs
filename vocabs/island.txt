@@ -206,6 +206,15 @@ Waterbody	IslandGroup	Island
 	Cape Breton Islands	Bird
 	Cape Breton Islands	Cape Breton
 	Gorong Islands	Gorom
+	Greater Antilles	Culebra
+	Greater Antilles	Culebrita
+	Greater Antilles	Desecheo
+	Greater Antilles	Luis Peña
+	Greater Antilles	Magueyes
+	Greater Antilles	Mona
+	Greater Antilles	Puerto Rico
+	Greater Antilles	Rat
+	Greater Antilles	Vieques
 	Greater Sunda Islands	Java
 	Greater Sunda Islands	Sulawesi
 	Greater Sunda Islands	Sumatra
@@ -430,21 +439,17 @@ Caribbean Sea	Archipiélago Los Roques	Los Roques
 Caribbean Sea	Bocas Islands	Monos
 Caribbean Sea	Cayman Islands	Cayman Brac
 Caribbean Sea	Cayman Islands	Grand Cayman
-Caribbean Sea	Culebra Archipelago	Culebra
 Caribbean Sea	Greater Antilles	Alta Velo
 Caribbean Sea	Greater Antilles	Beata
 Caribbean Sea	Greater Antilles	Catalina
+Caribbean Sea	Greater Antilles	Culebra
 Caribbean Sea	Greater Antilles	Gonâve
 Caribbean Sea	Greater Antilles	Hispaniola
 Caribbean Sea	Greater Antilles	Île à Vache
 Caribbean Sea	Greater Antilles	Île de la Tortue
 Caribbean Sea	Greater Antilles	Jamaica
-Caribbean Sea	Greater Antilles	Magueyes
-Caribbean Sea	Greater Antilles	Mona
 Caribbean Sea	Greater Antilles	Puerto Rico
-Caribbean Sea	Greater Antilles	Rat Island
 Caribbean Sea	Greater Antilles	Saona
-Caribbean Sea	Greater Antilles	Vieques
 Caribbean Sea	Grenadines	Bequia
 Caribbean Sea	Grenadines	Bettowia
 Caribbean Sea	Grenadines	Union
@@ -1722,6 +1727,7 @@ Río Grande	Archipiélago de Chiloé	Isla Grande de Chiloé
 Río Hanabana		Cuba
 Río Huelde	Archipiélago de Chiloé	Isla Grande de Chiloé
 Río Magdalena		Isla de Salamanca
+Río Maricao	Greater Antilles	Puerto Rico
 Río Ozama	Greater Antilles	Hispaniola
 Río Yaque del Sur	Greater Antilles	Hispaniola
 Río Yaque del Sur, Lago Enriquillo	Greater Antilles	Hispaniola

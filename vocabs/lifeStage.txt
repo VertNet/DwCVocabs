@@ -4445,6 +4445,7 @@ _		0	0
 6 infertile; 5 formed embryos		0	0
 6 j.		0	0
 6 juveniles		0	0
+6 juveniles y 1 adulto		0	0
 6 K		0	0
 6 larvae		0	0
 6 mo.		0	0
@@ -6469,6 +6470,7 @@ ADULTby plumage	adult	0	1
 Adultl	adult	0	1
 adulto	adult	0	1
 adulto; en muda	adult, in molt	0	1
+Adultos		0	0
 ADULTRSC		0	0
 ADULTS		0	0
 ADULTS & AMMOCETES		0	0
