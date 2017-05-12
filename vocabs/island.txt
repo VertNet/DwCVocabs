@@ -72,6 +72,7 @@ Waterbody	IslandGroup	Island
 		Greeenland
 		Green
 		Greenland
+		Guadelupe
 		Harker's
 		Heather
 		Herschel
@@ -121,6 +122,7 @@ Waterbody	IslandGroup	Island
 		Ono
 		Otter
 		Padre
+		Pelee
 		Point Lobos
 		Port George
 		Princess Royal
@@ -142,6 +144,7 @@ Waterbody	IslandGroup	Island
 		Seal
 		Seymour
 		Shell
+		Sicilia
 		Sjælland
 		Skidaway
 		Socorro
@@ -150,6 +153,7 @@ Waterbody	IslandGroup	Island
 		Stock
 		Table
 		Taipa
+		Taiwan
 		Tholen
 		Tierra del Fuego
 		Treasure Island
@@ -169,11 +173,13 @@ Waterbody	IslandGroup	Island
 		Willard
 		Willow
 	Aasiaat Archipelago	Aasiaat
+	Aldabra Atoll	Ile Picard
 	Aleutian Islands	Aleun
 	Alexander Archipeago	Noyes
 	Alexander Archipelago	Canyon
 	Alexander Archipelago	Castle
 	Alexander Archipelago	Cat
+	Alexander Archipelago	Prince of Wales
 	Alor Islands	Alor
 	Archipiélago de Chiloé	Chiloé
 	Archipiélago de Chiloé	Isla Grande de Chiloé
@@ -187,6 +193,8 @@ Waterbody	IslandGroup	Island
 	Archipiélago Juan Fernández	Alejandro Selkirk
 	Archipiélago Juan Fernández	Robinson Crusoe
 	Archipiélago Juan Fernández	Santa Clara
+	Bahamas	Grand Bahama
+	Bahamas	Long Island
 	Banda Islands	Banda
 	Banda Islands	Banda Besar
 	Bangka-Belitung Islands	Bangka
@@ -209,6 +217,8 @@ Waterbody	IslandGroup	Island
 	Greater Antilles	Culebra
 	Greater Antilles	Culebrita
 	Greater Antilles	Desecheo
+	Greater Antilles	Hispaniola
+	Greater Antilles	Jamaica
 	Greater Antilles	Luis Peña
 	Greater Antilles	Magueyes
 	Greater Antilles	Mona
@@ -219,9 +229,14 @@ Waterbody	IslandGroup	Island
 	Greater Sunda Islands	Sulawesi
 	Greater Sunda Islands	Sumatra
 	Greater Sunda Islands	Togian
+	Guadeloupe	Grand-Terre
 	Hoorn Islands	Alofi
 	Islas de los Timbales	Timbales
 	Islas Desventuradas	San Ambrosio
+	Japanese Archipelago	Hokkaido
+	Japanese Archipelago	Honshu
+	Japanese Archipelago	Kyushu
+	Japanese Archipelago	Yaku
 	Juan Fernández Islands	Alejandro Selkirk
 	Juan Fernández Islands	Robinson Crusoe
 	Kai Islands	Kai Besar
@@ -289,6 +304,7 @@ Waterbody	IslandGroup	Island
 	San Juan Islands	Waldron
 	Sangihe Islands	Sangir Besar
 	Schouten Islands	Yapen
+	Sea Islands	Amelia
 	Selayar Islands	Tanah Jampea
 	Singapore	Palawan
 	Singapore	Salu
@@ -299,6 +315,7 @@ Waterbody	IslandGroup	Island
 	Tierra del Fuego	Isla Grande de Tierra del Fuego
 	Upernavik Archipelago	Kittorsaq
 	Visayas	Negros
+	Windward Islands	Dominica
 Adriatic Sea		Korčula
 Adriatic Sea	North-Dalmation Archipelago	Pag
 Aegean Sea		Falconera Island
@@ -1073,6 +1090,8 @@ North Pacific Ocean	Farallon Islands	Murre Rock
 North Pacific Ocean	Farallon Islands	North Farallon
 North Pacific Ocean	Farallon Islands	South Farallon
 North Pacific Ocean	Farallon Islands	Southeast Farallon
+North Pacific Ocean	Hawaiian Islands	Hawaii
+North Pacific Ocean	Hawaiian Islands	Maui
 North Pacific Ocean	The Anacapas	East Anacapa
 North Pacific Ocean	The Anacapas	Middle Anacapa
 North Pacific Ocean	The Anacapas	West Anacapa
@@ -1728,6 +1747,7 @@ Río Hanabana		Cuba
 Río Huelde	Archipiélago de Chiloé	Isla Grande de Chiloé
 Río Magdalena		Isla de Salamanca
 Río Maricao	Greater Antilles	Puerto Rico
+Río Ochos	Greater Antilles	Jamaica
 Río Ozama	Greater Antilles	Hispaniola
 Río Yaque del Sur	Greater Antilles	Hispaniola
 Río Yaque del Sur, Lago Enriquillo	Greater Antilles	Hispaniola
