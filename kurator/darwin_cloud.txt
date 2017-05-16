@@ -1,4 +1,5 @@
 fieldname	standard	vetted	namespace	source	comment
+ABUNDANCE	individualCount	1	Arctos		
 ACCEPTEDNAMEUSAGE	acceptedNameUsage	1	dwc		
 ACCEPTEDNAMEUSAGEID	acceptedNameUsageID	1	dwc		
 ACCESSRIGHTS	accessRights	1	dcterms		
@@ -34,6 +35,7 @@ DATASETNAME	datasetName	1	dwc
 DATE		1			Could be one of many fields.
 DATEIDENTIFIED	dateIdentified	1	dwc		
 DAY	day	1	dwc		
+DAY_COLLECTED	day	1	Arctos		
 DAYCOLLECTED	day	1	dwc		
 DAYIDENTIFIED	dayIdentified	1	dwcloud		Contributes to dwc:dateIdentified
 DCTERMS:ACCESSRIGHTS	accessRights	1	dcterms		
@@ -44,6 +46,8 @@ DCTERMS:MODIFIED	modified	1	dcterms
 DCTERMS:REFERENCES	references	1	dcterms		
 DCTERMS:RIGHTSHOLDER	rightsHolder	1	dcterms		
 DCTERMS:TYPE	type	1	dcterms		
+DEC_LAT	decimalLatitude	1	Arctos		
+DEC_LONG	decimalLongitude	1	Arctos		
 DECIMALLATITUDE	decimalLatitude	1	dwc		
 DECIMALLONGITUDE	decimalLongitude	1	dwc		
 DETERMINED BY	identifiedBy	1	dwc		
@@ -260,6 +264,7 @@ INFRASPECIFICEPITHET	infraspecificEpithet	1	dwc
 INSTITUTIONCODE	institutionCode	1	dwc		
 INSTITUTIONID	institutionID	1	dwc		
 ISLAND	island	1	dwc		
+ISLAND_GROUP	islandGroup	1	Arctos		
 ISLANDGROUP	islandGroup	1	dwc		
 KINGDOM	kingdom	1	dwc		
 LANGUAGE	language	1	dcterms		
@@ -294,6 +299,7 @@ MINIMUMDISTANCEABOVESURFACEINMETERS	minimumDistanceAboveSurfaceInMeters	1	dwc
 MINIMUMELEVATIONINMETERS	minimumElevationInMeters	1	dwc		
 MODIFIED	modified	1	dcterms		
 MONTH	month	1	dwc		
+MONTH_COLLECTED	month	1	Arctos		
 MONTHCOLLECTED	month	1	dwc		
 MONTHIDENTIFIED	monthIdentified	1	dwcloud		Contributes to dwc:dateIdentified
 MUNICIPALITY	municipality	1	dwc		
@@ -341,13 +347,16 @@ SAMPLESIZEUNIT	sampleSizeUnit	1	dwc
 SAMPLESIZEVALUE	sampleSizeValue	1	dwc		
 SAMPLINGEFFORT	samplingEffort	1	dwc		
 SAMPLINGPROTOCOL	samplingProtocol	1	dwc		
+SCIENTIFIC_NAME	scientificName	1	Arctos		
 SCIENTIFICNAME	scientificName	1	dwc		
 SCIENTIFICNAMEAUTHORSHIP	scientificNameAuthorship	1	dwc		
 SCIENTIFICNAMEID	scientificNameID	1	dwc		
 SEX	sex	1	dwc		
+SPEC_LOCALITY	locality	1	Arctos		
 SPECIES	specificEpithet	1	dwc		
 SPECIFICEPITHET	specificEpithet	1	dwc		
 STARTDAYOFYEAR	startDayOfYear	1	dwc		
+STATE_PROV	stateProvince	1	Arctos		
 STATEPROVINCE	stateProvince	1	dwc		
 SUBFAMILY		1			Can be mapped into dwc:higherClassification with other fields.
 SUBGENUS	subgenus	1	dwc		
@@ -361,10 +370,12 @@ TAXONREMARKS	taxonRemarks	1	dwc
 TISSUESTORAGEID		1		FIMS	
 TYPE	type	1	dcterms		
 TYPESTATUS	typeStatus	1	dwc		
+USE_LICENSE_URL	accessRights	1	Arctos		
 VERBATIMCOORDINATES	verbatimCoordinates	1	dwc		
 VERBATIMCOORDINATESYSTEM	verbatimCoordinateSystem	1	dwc		
 VERBATIMDEPTH	verbatimDepth	1	dwc		
 VERBATIMELEVATION	verbatimElevation	1	dwc		
+VERBATIM_DATE	verbatimEventDate	1	Arctos		
 VERBATIMEVENTDATE	verbatimEventDate	1	dwc		
 VERBATIMLATITUDE	verbatimLatitude	1	dwc		
 VERBATIMLOCALITY	verbatimLocality	1	dwc		
@@ -377,5 +388,6 @@ WEIGHT	weight	1	dwcloud		dynamicProperties as weight, or MeasurementOrFact
 WELLID		1		FIMS	
 WORMSID	taxonID	1	dwc	FIMS	
 YEAR	year	1	dwc		
+YEAR_COLLECTED	year	1	Arctos		
 YEARCOLLECTED	year	1	dwc		
 YEARIDENTIFIED	yearIdentified	1	dwcloud		Contributes to dwc:dateIdentified
