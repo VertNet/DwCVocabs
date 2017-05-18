@@ -3,6 +3,8 @@ identificationqualifier	standard	vetted
  SP.	sp.	1
  SYNTYPE OF RHIPIDURA MAYI, ASHBY, 1911 (SEE EMU 11:41)		1
 "		1
+"SP. 1"	sp.	1
+"SP. 2"	sp.	1
 (=Z. CORNUTUS)		1
 (ACHIROSTOMIAS)  N. SP.	sp. nov.	1
 (ALBURNOPS) SP.	sp.	1
@@ -198,6 +200,7 @@ BAILEYI N. SP.	sp. nov.	1
 BALSODICHTHYS X SP.	balsodichthys X sp.	1
 BELLENDENENSIS N.SP.	sp. nov.	1
 BIG		1
+BOTULUM N. SP.	sp. nov.	1
 BROKEN		1
 BUFO SP.	sp.	1
 C		1
@@ -213,6 +216,7 @@ C.F. OVIS C.F. CANADENSIS	cf. canadensis	1
 C.F. SPILOGALE	cf. Spilogale	1
 C.F. TIGRIS	cf. tigris	1
 CACTORUM SP. NOV.	sp. nov.	1
+CANDICHORUM (SP.?)	sp.	1
 CF	cf.	1
 CF ACHIRUS	cf. achirus	1
 CF ACULEATUS	cf. aculeatus	1
@@ -314,6 +318,7 @@ CF. OTHERID	cf.	1
 CF. SP	cf.	1
 CF. SP, SPP	cf.	1
 CF. SP.	cf.	1
+CF. SP. 2		1
 CF. SP., ?SP.	cf.	1
 CF. SP.; WORN	cf.	1
 CF. SPECIES	cf.	1
@@ -332,6 +337,7 @@ CL?	class in question	1
 CLASS ?	class in question	1
 CLASS CF	cf.	1
 COLCHICUS MONGOLICUS X COLCHICUS SSP.	colchicus mongolicus X colchicus ssp.	1
+CRASSUM SP. NOV	sp. nov.	1
 CRYPTODIRA		1
 CURIOSUS SP. NO	sp. nov.	1
 CYANELLUS X L. SP.	cyanellus x L. sp.	1
@@ -422,6 +428,7 @@ GN CF	cf.	1
 GN CF SG CF	cf.	1
 GN CF SP CF	cf.	1
 GN?	genus in question	1
+GRANDMARIAE N. SP.	sp. nov.	1
 GRAY, 1842		1
 GS ?	genus in question	1
 GS CF	cf.	1
@@ -445,6 +452,7 @@ ISOLEPIS SP.1	sp.	1
 ISOLEPIS SP.2	sp.	1
 ISP.	isp.	1
 JANITOR N. SP.	sp. nov.	1
+JASONI N. SP.	sp. nov.	1
 JUVENILE		1
 JUVENILE?		1
 KOBELTI N. SP.	sp. nov.	1
@@ -453,6 +461,7 @@ LARGE		1
 LARGE SP.	sp.	1
 LEPOSTERNON SP.	sp.	1
 LEUCIODUS X SP.	leuciodus X sp.	1
+LEVINAE N. SP.	sp. nov.	1
 LJH MAGNOLIA SP.1	LJH magnolia sp.1	1
 LJH MAGNOLIA SP.2	LJH magnolia sp.2	1
 LJH N.SP.IIIA	LJH n.sp.IIIa	1
@@ -470,12 +479,14 @@ LJH N.SP.XXI	LJH n.sp.XXI	1
 LJH N.SP.XXIX	LJH n.sp.XXIX	1
 LJH N.SP.XXX	LJH n.sp.XXX	1
 LJH N.SP.XXXI	LJH n.sp.XXXI	1
+LOBATUM N. SP.	sp. nov.	1
 LUTRENSA X SP.	lutrensa X sp.	1
 MACROCHIRUS X SP.	macrochirus X sp.	1
 MALE		1
 MALTHE X SP.	malthe x sp.	1
 MAULDINENSIS SP. NOV.	mauldinensis sp. nov.	1
 MEGALOTIS X SP.	megalotis X sp.	1
+MOAI N. SP.	sp. nov.	1
 N SP.	sp. nov.	1
 N SP. "L402"	sp. nov.	1
 N. GEN. N. SP.	n. gen. n. sp.	1
@@ -496,8 +507,11 @@ N. SP. “CONGO”	sp. nov.	1
 N. SP. “NEGRO/ALTO ORINOCO”	sp. nov.	1
 N. SP. “RUFIJI”	sp. nov.	1
 N. SP. “TAILSPOT”	sp. nov.	1
-N. SP. 1		1
+N. SP. 1	sp. nov.	1
 N. SP. 10	sp. nov.	1
+N. SP. 11	sp. nov.	1
+N. SP. 12	sp. nov.	1
+N. SP. 13	sp. nov.	1
 N. SP. 2	sp. nov.	1
 N. SP. 3	sp. nov.	1
 N. SP. 4	n. sp. 4	1
@@ -505,6 +519,7 @@ N. SP. 5	n. sp. 5	1
 N. SP. 6	sp. nov.	1
 N. SP. 7	sp. nov.	1
 N. SP. 8	sp. nov.	1
+N. SP. 9	sp. nov.	1
 N. SP. A	sp. nov.	1
 N. SP. B	sp. nov.	1
 N. SP. B (SHORT GLAND)	sp. nov.	1
@@ -521,14 +536,15 @@ N.SP. "COMMON"	sp. nov.	1
 N.SP. "TAVI"	sp. nov.	1
 N.SP. (CF. RETICULATUS)	sp. nov. (cf. reticulatus)	1
 N.SP. (MS)	sp. nov.	1
-N.SP. 1		1
+N.SP. 1	sp. nov.	1
+N.SP. 9	sp. nov.	1
 N.SP. A	sp. nov.	1
 N.SP. CF NOVAECALEDONIAE	sp. nov.	1
 N.SP. 'COMMON'	sp. nov.	1
-N.SP. CORAL SEA	sp.	1
-N.SP.1	sp.	1
-N.SP.2	sp.	1
-N.SP.3		1
+N.SP. CORAL SEA	sp. nov.	1
+N.SP.1	sp. nov.	1
+N.SP.2	sp. nov.	1
+N.SP.3	sp. nov.	1
 N.SP.SP.2	sp. nov.	1
 N.SP.SP.3	sp. nov.	1
 N.SP.SP.5	sp. nov.	1
@@ -544,8 +560,10 @@ NR	cf.	1
 NR GN	cf.	1
 NR SP	cf.	1
 NR.	cf.	1
+NSP. 6	sp. nov.	1
 OI ?	id in question	1
 OI CF	id in question	1
+OKADAI N. SP.	sp. nov.	1
 OKRA SP.1	okra sp.1	1
 OR ?	order in question	1
 OR ? ;FA ?	order, family in question	1
@@ -736,8 +754,10 @@ SP. (PARVICEPS GROUP)	sp.	1
 SP. (PEREGRINA OR RUFICAPILLA ?)	sp.	1
 SP. (PERPUSILLUS GROUP)	sp.	1
 SP. (PHILADELPHIA X TOLMEI)	philadelphia X tolmei	1
+SP. (PINK)	sp.	1
 SP. (PIPIENS COMPLEX)	sp.	1
 SP. (PODICIPINUS-WAGNERI COMPLEX)	sp.	1
+SP. (POOR CONDITION)	sp.	1
 SP. (POSSIBLY BIFILIS)	cf. bifilis	1
 SP. (POSSIBLY TOLMIEI)	sp.	1
 SP. (PRATTI GROUP)	sp.	1
@@ -761,7 +781,9 @@ SP. (TYPE A)	sp.	1
 SP. (TYPE B)	sp.	1
 SP. (URUNGUENSIS-GROUP)	sp.	1
 SP. (VARIEGATUS-GROUP)	sp.	1
+SP. (WHITE)	sp.	1
 SP. (XANTHA MS)	sp.	1
+SP. (YELLOW)	sp.	1
 SP. ?	species in question	1
 SP. ??	species in question	1
 SP. ???	species in question	1
@@ -826,6 +848,7 @@ SP. “YUPUKARI”	sp. nov.	1
 SP. 1	sp.	1
 SP. '1'	sp.	1
 SP. 1 (CF. MACROPHTHALMA)	cf. macrophthalma	1
+SP. 1.	sp.	1
 SP. 10	sp.	1
 SP. 11	sp.	1
 SP. 12	sp. 12	1
@@ -921,14 +944,17 @@ SP. A WITZKE 1976	sp. A Witzke 1976	1
 SP. A WITZKE AND STRIMPLE	sp. A Witzke and Strimple	1
 SP. A.	sp.	1
 SP. A/C	sp.	1
+SP. AFF. ATTENUATUM TYPE 2	aff. attenuatum type 2	1
+SP. AFF. FURCATUM TYPE 1	aff. furcatum type 1	1
 SP. AFF. GALAXIAS	aff. galaxias	1
+SP. AFF. JAEGERSTENI TYPE 1	aff. jaegersteni type 1	1
 SP. AFF. LAVENBERGI	aff. lavenbergi	1
 SP. AFF. LYSINA	aff. lysina	1
 SP. AFF. MARINUS	aff. marinus	1
 SP. AFF. PUNCTITAENIATUS	aff. punctitaeniatus	1
 SP. ALBOGULARIS	sp.	1
 SP. B	sp.	1
-SP. B (D?)		1
+SP. B (D?)	sp.	1
 SP. B AFF. GRANULOSUS	sp. B aff. granulosus	1
 SP. B CF. PARAFORBESI	sp. b cf. paraforbesi	1
 SP. B SENSU RISTEDT	sp. B sensu Ristedt	1
@@ -1074,6 +1100,7 @@ SP. J SENSU RISTEDT	sp. J sensu Ristedt	1
 SP. K	sp.	1
 SP. K SENSU RISTEDT	sp. K sensu Ristedt	1
 SP. KIM-2	sp.	1
+SP. L	sp.	1
 SP. L260	sp. nov.	1
 SP. L333	sp. nov.	1
 SP. L340	sp. nov.	1
@@ -1142,6 +1169,9 @@ SP. TAIL MOYENNE,NOV.SP.B	sp. tail moyenne,nov.sp.B	1
 SP. 'TALLAPOOSA SCULPIN'	sp.	1
 SP. 'TEAPA'	sp.	1
 SP. TENUICAUDA	sp.	1
+SP. TS2	sp.	1
+SP. TS3	sp.	1
+SP. TYPE 1	sp.	1
 SP. UNDET.	sp. incert.	1
 SP. UNNAMED	sp.	1
 SP. VADAMANS	sp.	1
@@ -1237,6 +1267,7 @@ SUBSP. 	ssp.	1
 SUBSPECIES IN QUESTION	subspecies in question	1
 SUBSPECIES QUESTIONED	subspecies in question	1
 SUBSPECIES UNCERTAIN		1
+SUSANAE N. SP.	sp. nov.	1
 TABIRA SSP. 1	ssp.	1
 TBLIDENTIFICATIONQUALIFIER.IDENTQUALIFIERNAME: GENUS AND SPECIES UNCERTAIN, FAMILY IDENTIFIED; TBLIDENTIFICATIONQUALIFIER.IDENTQUALIFIERCODE: GENUS ? SPECIES ?, FAMILY KNOWN;		1
 TBLIDENTIFICATIONQUALIFIER.IDENTQUALIFIERNAME: GENUS AND SPECIES UNKNOWN, FAMILY IDENTIFIED; TBLIDENTIFICATIONQUALIFIER.IDENTQUALIFIERCODE: GENUS BLANK AND SPECIES BLANK OR "SP.", FAMILY KNOWN;		1
@@ -1248,6 +1279,7 @@ TBLIDENTIFICATIONQUALIFIER.IDENTQUALIFIERNAME: SOME UNCERTAINTY AS TO IDENTIFICA
 TBLIDENTIFICATIONQUALIFIER.IDENTQUALIFIERNAME: SUBSPECIES UNCERTAIN; TBLIDENTIFICATIONQUALIFIER.IDENTQUALIFIERCODE: GENUS SPECIES SUBSPECIES ?;	ssp.	1
 TBLIDENTIFICATIONQUALIFIER.IDENTQUALIFIERNAME: UNIDENTIFIED; TBLIDENTIFICATIONQUALIFIER.IDENTQUALIFIERCODE: GENUS AND SPECIES AND FAMILY VACANT OR BLANK;		1
 TENT SP	species in question	1
+TENUE SP. NOV.	sp. nov.	1
 TRIBE: MICROTINI		1
 TRIMERORHACHIS ALSO		1
 UINTASORICINAE		1
@@ -1260,6 +1292,7 @@ VESPERTILIONOIDEA CF FM	cf.	1
 VIVAX X SP.	vivax X sp.	1
 WAITE & LONGMAN, 1920		1
 WEBSTERI SP.NOV.	sp. nov.	1
+WHITE SP.	sp.	1
 WILLII GEN & SP		1
 WOOD-MASONI N.	sp. nov.	1
 WORN		1

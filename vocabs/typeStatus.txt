@@ -82,6 +82,7 @@ verbatimTypeStatus	standardTypeStatus	standard	checked
 = TYPE: C. walteri	type	0	1
 2 SYNTYPES in U.S.N.M.		0	1
 21 Oct 2004		0	1
+3rd TOPOTYPE	topotype	0	1
 A	allotype	0	1
 A type	type	0	1
 A. helice cited		0	1
@@ -97,6 +98,7 @@ ALLOTYPE OF PSEUDEMYS FLORIDANA SUWANNIENSIS	allotype	0	1
 ALLOTYPE OF SYNCOPE ANTENORI	allotype	0	1
 ALLOTYPE OF TRITURUS GRANULOSUS TWITTYI	allotype	0	1
 ALLOTYPE OF TRITURUS PERSTRIATUS	allotype	0	1
+AToL voucher		0	1
 authentic		0	1
 authentic material		0	1
 C.-n. sp. paratype; figured and cited; A.-cited	paratype	0	1
@@ -121,6 +123,7 @@ Cotype [=Paratype]	cotype	0	1
 Co-TYPE of Oestrelata nigripennis	cotype	0	1
 Co-Type specimen	cotype	0	1
 Cotype, Syntype	cotype	0	1
+CO-TYPE.	cotype	0	1
 COTYPE?	cotype	0	1
 Co-type?	cotype	0	1
 cotypes	cotype	0	1
@@ -153,6 +156,7 @@ Genotype, Holotype	holotype	0	1
 H	holotype	0	1
 HOLO	holotype	0	1
 HOLO*	holotype	0	1
+HOLO/PARATY	holotype | paratype	0	1
 holotip	holotype	0	1
 HOLOTIPO	holotype	0	1
 Holotye of Dryobates villosus scrippsae	holotype	0	1
@@ -2314,6 +2318,7 @@ Holoytpe of Amphispiza belli xerophilus	holotype	0	1
 homeotype	homeotype	1	1
 homeotypes	homeotype	0	1
 homotype	homeotype	0	1
+HOPOTYPE	holotype	0	1
 Hypoparatype	hypoparatype	1	1
 Hypotype	hypotype	1	1
 hypotype; cited	hypotype	0	1
@@ -2339,6 +2344,7 @@ Lectoparatype	lectoparatype	1	1
 Lectoparatypes	lectoparatype	0	1
 LECTOTIPO	lectotype	0	1
 Lectotype	lectotype	1	1
+LECTOTYPE & PARALECTOTYE	lectotype | paralectotype	0	1
 Lectotype + Paratypes	type	0	1
 lectotype fragment	lectotype	1	1
 LECTOTYPE OF AESTRELATA VOCIFERANS, SHUFELDT, R.W. 1916. THE BIRD-CAVES OF THE BERMUDAS AND THEIR FORMER INHABITANTS. IBIS, 623-637. PAGE 633, PUBLISHED 2 OCTOBER 1916.	lectotype	0	1
@@ -2394,6 +2400,7 @@ NEAR TOPOTYPE OF OTOCORYS NIGRIFRONS PRZEWALSKI		0	1
 NEAR-TOPOTYPE OF SAXICOLA MACULARIA QUOY & GAIMARD		0	1
 NEAR-TOPOTYPE; COLLECTED 12 MI SW OF TYPE LOCALITY MOUNT CARMEL		0	1
 NEO	neotype	0	1
+NEOPARATYPE	neoparatype	0	1
 NÉOPARATYPE	neoparatype	0	1
 Neotype	neotype	1	1
 NÉOTYPE	neotype	0	1
@@ -2428,6 +2435,7 @@ PARA	paratype	0	1
 PARA*	paratype	0	1
 paralecotype	paralectotype	0	1
 Paralecto	paralectotype	0	1
+PARALECTOTY	paralectotype	0	1
 PARALECTOTYPE	paralectotype	1	1
 PARALECTOTYPE OF [AMMODRAMUS] [SANDWICHENSIS] [BRUNNESCENS], BUTLER, A. W. 1888. ON A NEW SUBSPECIES OF AMMODRAMUS SANDWICHENSIS FROM MEXICO ***NAMED COTYPE BUT NOT CONSUBSPECIFIC**. AUK, 264-266. PAGE 265, PUBLISHED JULY 1888.	paralectotype	0	1
 PARALECTOTYPE OF AESTRELATA VOCIFERANS, SHUFELDT, R.W. 1916. THE BIRD-CAVES OF THE BERMUDAS AND THEIR FORMER INHABITANTS. IBIS, 623-637. PAGE 633, PUBLISHED 2 OCTOBER 1916.	paralectotype	0	1
@@ -2923,6 +2931,7 @@ PARATOPOTYPES OF UTA ANTIQUUS	paratopotype	0	1
 PARATOPOTYPES PLETHODON WELLERI	paratopotype	0	1
 PARATOPTO	paratopotype	0	1
 PARATOPTYPES OF BUFO PISINNUS	paratopotype	0	1
+PARATYE	paratype	0	1
 Paratype	paratype	1	1
 'Paratype'	paratype	0	1
 Paratype - Avila-Pires, T.C.S. & M.S. Hoogmoed. On two new species of Pseudogonatodes Ruthven, 1915 (Reptilia:Squamata: Gekkonidae), with remarks on the distribution of some other sphaerodactyl lizards.Zool. Med. Leiden 73 (12), 6.iii.2000: 209-223.	paratype	0	1
@@ -2935,6 +2944,7 @@ Paratype (No.52)	paratype	0	1
 PARATYPE (SYNTYPE)  OF SPHENOMORPHUS JAGORII DIVERGENS, TAYLOR, 1922, PHILIPPINE BUR. SCI., PUBL. 17:194	syntype	0	1
 PARATYPE (SYNTYPE) OF EURYCEA TYNERENSIS, MOORE AND HUGHES, 1939, AMER. MIDLAND NAT., 22:697	syntype	0	1
 PARATYPE (SYNTYPE) OF SPHENOMORPHUS JAGORII DIVERGENS, TAYLOR, 1922, PHILIPPINE BUR. SCI., PUBL. 17:194	syntype	0	1
+PARATYPE ?	paratype	0	1
 PARATYPE ATRACTUS SANCTAEMARTAE, DUNN, 1946, OCCAS. PAPER MUS. ZOOL. UNIV. MICHIGAN, 493:2	paratype	0	1
 PARATYPE CHIROPTEROTRITON CHONDROSTEGA CRACENS	paratype	0	1
 PARATYPE DIPSAS INDICA ECUADORENSIS	paratype	0	1
@@ -4056,7 +4066,9 @@ PARATYPES PSEUDOBRANCHUS STRIATUS SPHENISCUS	paratype	0	1
 PARATYPES PSEUDOEURYCEA EXSPECTATA	paratype	0	1
 PARATYPES PSEUDOPALUDICOLA BOLIVIANA	paratype	0	1
 PARATYPES TOMODACTYLUS GRANDIS	paratype	0	1
+PARATYPES.	paratype	0	1
 paratypes; figured and cited	paratype	0	1
+PARAYTPE	paratype	0	1
 Part of Holotype	holotype	0	1
 Part of Paratype	paratype	0	1
 Parte del holotipo	holotype	0	1
@@ -4105,6 +4117,7 @@ SYN	syntype	0	1
 Syn TYPE	syntype	0	1
 Syn Type of P. superciliaris	syntype	0	1
 Syn Type S.g. chapmani B[illeg][illeg][illeg][illeg]oz, 1941	syntype	0	1
+SYNON. TYPE	syntype	0	1
 Syntype	syntype	1	1
 syntype fragment	syntype	0	1
 SYNTYPE OF AETHOPYGA AROLASI BOURNS & WORCESTER	syntype	0	1
@@ -4382,6 +4395,7 @@ TOPOTYPE OF ZELEDONIA INSPERATA RIDGWAY (EX CHERRIE MS)	topotype	0	1
 TOPOTYPE OR NEAR-TOPOTYPE OF RALLUS LONGIROSTRIS SCOTTII SENNETT	topotype	0	1
 topotype or paratype	type	0	1
 Topotype!	topotype	0	1
+TOPOTYPE.	topotype	0	1
 Topotypes	topotype	0	1
 TOPOTypical specimen	topotype	0	1
 tStatus		0	1
@@ -4433,6 +4447,8 @@ TYPE H. caerulea victoriae	type	0	1
 Type Host	type	0	1
 TYPE if centralis	type	0	1
 Type Lawr.	type	0	1
+TYPE LOCAL		0	1
+TYPE LOT		0	1
 type material	type	0	1
 TYPE new genus & species	type	0	1
 TYPE Not a Type ?		0	1
@@ -4691,6 +4707,7 @@ Type: P. pacifica	type	0	1
 type?	type	0	1
 Type?? Type of saulae	type	0	1
 TYPE=aberration of barrali	type	0	1
+TYPE-LOT		0	1
 TYPEMATERIAL	type	0	1
 TYPEof tucopiae	type	0	1
 Types	type	0	1

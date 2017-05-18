@@ -76577,6 +76577,7 @@ SEGMENT VENTRAL BORDER R SCAPULA.		0	0
 sehll frag		0	0
 SELETON, WING, FEATHERS	skeleton | wing | feathers	0	1
 SEM	stub for scanning electron microscope	0	1
+SEM (fixed in glutaraldehyle, preserved in SEM stub)		0	0
 SEM hind leg		0	0
 sem specimen		0	0
 SEMI-ARTICULATED INDIVIDUAL IN REGURGITATED BOLUS; A+B		0	0
@@ -105947,6 +105948,7 @@ Slabs with fossil fish.		0	0
 Slater, J. R.		0	0
 Slater, J. R. and M. L. Johnson		0	0
 SLICE THROUGH NECK OF SCAPULA.		0	0
+slide (fixed in slide, preserved in slide)		0	0
 slide ,Skel	skeleton | slide	0	1
 slide ,wing ,Skel	skeleton | slide | wing	0	1
 slide mounted		0	0
@@ -108793,6 +108795,8 @@ tissue (ethanol); hide (dry)		0	0
 tissue (ethanol); skeleton (dry)		0	0
 tissue (ethanol); tissue (frozen: -20°C); tissue (ethanol); tissue (ethanol); hide (dry); tissue (ethanol); tissue (ethanol); tissue (ethanol); tissue (ethanol)		0	0
 tissue (ethanol); whole animal (ethanol)		0	0
+tissue (fixed in EtOH, preserved in 95% EtOH)		0	0
+tissue (fixed in frozen, preserved in frozen)		0	0
 tissue (frozen: -20°C); hide (dry)		0	0
 tissue (frozen: -20°C); skeleton (dry)		0	0
 Tissue (Liquid Nitrogen) (Liquid Nitrogen)		0	0
@@ -112240,8 +112244,33 @@ Whole (EtOH)	whole animal (ETOH)	0	1
 Whole (EtOH) - 1		0	0
 Whole (EtOH) - 1; Skeleton - 1		0	0
 Whole (EtOH); Skeleton	skeleton | whole animal (ETOH)	0	1
+whole (fixed in 10% formalin, preserved in 8% formalin)		0	0
+whole (fixed in 5% formalin, preserved in 50% EtOH)		0	0
+whole (fixed in 8% formalin, preserved in 50% EtOH)		0	0
+whole (fixed in Bouin's fixative, preserved in 70% EtOH)		0	0
+whole (fixed in Bouin's fixative, preserved in Bouin's fluid)		0	0
+whole (fixed in DMSO, preserved in 50% EtOH)		0	0
+whole (fixed in DMSO, preserved in 95% EtOH)		0	0
+whole (fixed in dry, preserved in dry)		0	0
+whole (fixed in EtOH, preserved in 50% EtOH)		0	0
+whole (fixed in EtOH, preserved in 95% EtOH)		0	0
+whole (fixed in EtOH, preserved in dry)		0	0
+whole (fixed in frozen, preserved in 50% EtOH)		0	0
+whole (fixed in glutaraldehyde, preserved in 50% EtOH)		0	0
+whole (fixed in glutaraldehyde, preserved in glutaraldehyde)		0	0
+whole (fixed in glutaraldehyde, preserved in resin block)		0	0
+whole (fixed in isopropanol, preserved in 50% EtOH)		0	0
+whole (fixed in isopropanol, preserved in 50% isopropanol)		0	0
+whole (fixed in N/A, preserved in photo only)		0	0
+whole (fixed in OsO4, preserved in 95% EtOH)		0	0
+whole (fixed in OsO4, preserved in OsO4)		0	0
+whole (fixed in paraformaldehyde, preserved in 50% EtOH)		0	0
+whole (fixed in paraformaldehyde, preserved in paraformaldehyde)		0	0
+whole (fixed in Prefer, preserved in Prefer)		0	0
+whole (fixed in RNAlater, preserved in RNAlater)		0	0
 Whole (Formalin)	whole animal (formalin)	0	1
 Whole (Formalin) - 1		0	0
+whole (preserved in beta-mercaptoethanol)		0	0
 Whole +  part dissection + heads (in spirit)		0	0
 Whole animal		0	0
 whole animal (cleared and stained)		0	0

@@ -3,6 +3,8 @@ verbatimIdentificationQualifier	standardIdentificationQualifier	standard	checked
  sp.	sp.	0	1
  SYNTYPE of Rhipidura mayi, Ashby, 1911 (see Emu 11:41)		0	1
 "		0	1
+"sp. 1"	sp.	0	1
+"sp. 2"	sp.	0	1
 (=Z. cornutus)		0	1
 (Achirostomias)  n. sp.	sp. nov.	0	1
 (Alburnops) sp.	sp.	0	1
@@ -198,6 +200,7 @@ baileyi n. sp.	sp. nov.	0	1
 balsodichthys X sp.	balsodichthys X sp.	0	1
 BELLENDENENSIS N.SP.	sp. nov.	0	1
 big		0	1
+botulum n. sp.	sp. nov.	0	1
 broken		0	1
 Bufo sp.	sp.	0	1
 c		0	1
@@ -213,6 +216,7 @@ c.f. Ovis c.f. canadensis	cf. canadensis	0	1
 c.f. Spilogale	cf. Spilogale	0	1
 c.f. tigris	cf. tigris	0	1
 cactorum sp. nov.	sp. nov.	0	1
+candichorum (sp.?)	sp.	0	1
 cf	cf.	0	1
 cf achirus	cf. achirus	0	1
 cf aculeatus	cf. aculeatus	0	1
@@ -314,6 +318,7 @@ cf. otherid	cf.	0	1
 cf. sp	cf.	0	1
 cf. sp, spp	cf.	0	1
 cf. sp.	cf.	0	1
+cf. sp. 2		0	1
 cf. sp., ?sp.	cf.	0	1
 cf. sp.; worn	cf.	0	1
 cf. species	cf.	0	1
@@ -332,6 +337,7 @@ CL?	class in question	0	1
 class ?	class in question	0	1
 class cf	cf.	0	1
 colchicus mongolicus X colchicus ssp.	colchicus mongolicus X colchicus ssp.	0	1
+crassum sp. nov	sp. nov.	0	1
 Cryptodira		0	1
 curiosus sp. no	sp. nov.	0	1
 cyanellus x L. sp.	cyanellus x L. sp.	0	1
@@ -422,6 +428,7 @@ gn cf	cf.	0	1
 gn cf sg cf	cf.	0	1
 gn cf sp cf	cf.	0	1
 gn?	genus in question	0	1
+grandmariae n. sp.	sp. nov.	0	1
 Gray, 1842		0	1
 gs ?	genus in question	0	1
 gs cf	cf.	0	1
@@ -445,6 +452,7 @@ isolepis sp.1	sp.	0	1
 isolepis sp.2	sp.	0	1
 isp.	isp.	1	1
 janitor n. sp.	sp. nov.	0	1
+jasoni n. sp.	sp. nov.	0	1
 juvenile		0	1
 juvenile?		0	1
 kobelti n. sp.	sp. nov.	0	1
@@ -453,6 +461,7 @@ large		0	1
 large sp.	sp.	0	1
 Leposternon sp.	sp.	0	1
 leuciodus X sp.	leuciodus X sp.	0	1
+levinae n. sp.	sp. nov.	0	1
 LJH magnolia sp.1	LJH magnolia sp.1	0	1
 LJH magnolia sp.2	LJH magnolia sp.2	0	1
 LJH n.sp.IIIa	LJH n.sp.IIIa	0	1
@@ -470,12 +479,14 @@ LJH n.sp.XXI	LJH n.sp.XXI	0	1
 LJH n.sp.XXIX	LJH n.sp.XXIX	0	1
 LJH n.sp.XXX	LJH n.sp.XXX	0	1
 LJH n.sp.XXXI	LJH n.sp.XXXI	0	1
+lobatum n. sp.	sp. nov.	0	1
 lutrensa X sp.	lutrensa X sp.	0	1
 macrochirus X sp.	macrochirus X sp.	0	1
 male		0	1
 malthe x sp.	malthe x sp.	0	1
 mauldinensis sp. nov.	mauldinensis sp. nov.	0	1
 megalotis X sp.	megalotis X sp.	0	1
+moai n. sp.	sp. nov.	0	1
 n sp.	sp. nov.	0	1
 n sp. "L402"	sp. nov.	0	1
 n. gen. n. sp.	n. gen. n. sp.	0	1
@@ -496,8 +507,11 @@ n. sp. “Congo”	sp. nov.	0	1
 n. sp. “negro/alto orinoco”	sp. nov.	0	1
 n. sp. “Rufiji”	sp. nov.	0	1
 n. sp. “tailspot”	sp. nov.	0	1
-n. sp. 1		0	1
+n. sp. 1	sp. nov.	0	1
 n. sp. 10	sp. nov.	0	1
+n. sp. 11	sp. nov.	0	1
+n. sp. 12	sp. nov.	0	1
+n. sp. 13	sp. nov.	0	1
 n. sp. 2	sp. nov.	0	1
 n. sp. 3	sp. nov.	0	1
 n. sp. 4	n. sp. 4	0	1
@@ -505,6 +519,7 @@ n. sp. 5	n. sp. 5	0	1
 n. sp. 6	sp. nov.	0	1
 n. sp. 7	sp. nov.	0	1
 n. sp. 8	sp. nov.	0	1
+n. sp. 9	sp. nov.	0	1
 n. sp. a	sp. nov.	0	1
 n. sp. b	sp. nov.	0	1
 n. sp. B (short gland)	sp. nov.	0	1
@@ -521,14 +536,15 @@ n.sp. "common"	sp. nov.	0	1
 n.sp. "tavi"	sp. nov.	0	1
 n.sp. (cf. reticulatus)	sp. nov. (cf. reticulatus)	0	1
 n.sp. (ms)	sp. nov.	0	1
-n.sp. 1		0	1
+n.sp. 1	sp. nov.	0	1
+n.sp. 9	sp. nov.	0	1
 n.sp. a	sp. nov.	0	1
 n.sp. cf novaecaledoniae	sp. nov.	0	1
 n.sp. 'common'	sp. nov.	0	1
-n.sp. Coral Sea	sp.	0	1
-n.sp.1	sp.	0	1
-n.sp.2	sp.	0	1
-n.sp.3		0	1
+n.sp. Coral Sea	sp. nov.	0	1
+n.sp.1	sp. nov.	0	1
+n.sp.2	sp. nov.	0	1
+n.sp.3	sp. nov.	0	1
 n.sp.sp.2	sp. nov.	0	1
 n.sp.sp.3	sp. nov.	0	1
 n.sp.sp.5	sp. nov.	0	1
@@ -544,8 +560,10 @@ nr	cf.	0	1
 nr gn	cf.	0	1
 nr sp	cf.	0	1
 nr.	cf.	0	1
+nsp. 6	sp. nov.	0	1
 oi ?	id in question	0	1
 oi cf	id in question	0	1
+okadai n. sp.	sp. nov.	0	1
 okra sp.1	okra sp.1	0	1
 or ?	order in question	0	1
 or ? ;fa ?	order, family in question	0	1
@@ -736,8 +754,10 @@ sp. (parviceps group)	sp.	0	1
 sp. (peregrina or ruficapilla ?)	sp.	0	1
 sp. (perpusillus group)	sp.	0	1
 sp. (philadelphia X tolmei)	philadelphia X tolmei	0	1
+sp. (pink)	sp.	0	1
 sp. (pipiens complex)	sp.	0	1
 sp. (podicipinus-wagneri complex)	sp.	0	1
+sp. (poor condition)	sp.	0	1
 sp. (possibly bifilis)	cf. bifilis	0	1
 sp. (possibly tolmiei)	sp.	0	1
 sp. (pratti group)	sp.	0	1
@@ -761,7 +781,9 @@ sp. (Type A)	sp.	0	1
 sp. (type B)	sp.	0	1
 sp. (urunguensis-group)	sp.	0	1
 sp. (variegatus-group)	sp.	0	1
+sp. (white)	sp.	0	1
 sp. (xantha ms)	sp.	0	1
+sp. (yellow)	sp.	0	1
 sp. ?	species in question	0	1
 sp. ??	species in question	0	1
 sp. ???	species in question	0	1
@@ -826,6 +848,7 @@ sp. “yupukari”	sp. nov.	0	1
 sp. 1	sp.	0	1
 sp. '1'	sp.	0	1
 sp. 1 (cf. macrophthalma)	cf. macrophthalma	0	1
+sp. 1.	sp.	0	1
 sp. 10	sp.	0	1
 sp. 11	sp.	0	1
 sp. 12	sp. 12	0	1
@@ -921,14 +944,17 @@ sp. A Witzke 1976	sp. A Witzke 1976	0	1
 sp. A Witzke and Strimple	sp. A Witzke and Strimple	0	1
 sp. A.	sp.	0	1
 sp. A/C	sp.	0	1
+sp. aff. attenuatum type 2	aff. attenuatum type 2	0	1
+sp. aff. furcatum type 1	aff. furcatum type 1	0	1
 sp. aff. galaxias	aff. galaxias	0	1
+sp. aff. jaegersteni type 1	aff. jaegersteni type 1	0	1
 sp. aff. lavenbergi	aff. lavenbergi	0	1
 sp. aff. lysina	aff. lysina	0	1
 sp. aff. marinus	aff. marinus	0	1
 sp. aff. punctitaeniatus	aff. punctitaeniatus	0	1
 sp. albogularis	sp.	0	1
 sp. B	sp.	0	1
-sp. B (D?)		0	1
+sp. B (D?)	sp.	0	1
 sp. B aff. granulosus	sp. B aff. granulosus	0	1
 sp. b cf. paraforbesi	sp. b cf. paraforbesi	0	1
 sp. B sensu Ristedt	sp. B sensu Ristedt	0	1
@@ -1074,6 +1100,7 @@ sp. J sensu Ristedt	sp. J sensu Ristedt	0	1
 sp. K	sp.	0	1
 sp. K sensu Ristedt	sp. K sensu Ristedt	0	1
 sp. kim-2	sp.	0	1
+sp. L	sp.	0	1
 sp. L260	sp. nov.	0	1
 sp. L333	sp. nov.	0	1
 sp. L340	sp. nov.	0	1
@@ -1142,6 +1169,9 @@ sp. tail moyenne,nov.sp.B	sp. tail moyenne,nov.sp.B	0	1
 sp. 'Tallapoosa sculpin'	sp.	0	1
 sp. 'Teapa'	sp.	0	1
 sp. tenuicauda	sp.	0	1
+sp. TS2	sp.	0	1
+sp. TS3	sp.	0	1
+sp. Type 1	sp.	0	1
 sp. undet.	sp. incert.	0	1
 sp. unnamed	sp.	0	1
 sp. vadamans	sp.	0	1
@@ -1237,6 +1267,7 @@ subsp. 	ssp.	0	1
 subspecies in question	subspecies in question	1	1
 subspecies questioned	subspecies in question	0	1
 Subspecies uncertain		0	1
+susanae n. sp.	sp. nov.	0	1
 tabira ssp. 1	ssp.	0	1
 tblidentificationqualifier.identqualifiername: Genus and Species uncertain, Family identified; tblidentificationqualifier.identqualifiercode: Genus ? species ?, Family known;		0	1
 tblidentificationqualifier.identqualifiername: Genus and Species unknown, Family identified; tblidentificationqualifier.identqualifiercode: Genus blank and species blank or "sp.", Family known;		0	1
@@ -1248,6 +1279,7 @@ tblidentificationqualifier.identqualifiername: Some uncertainty as to identifica
 tblidentificationqualifier.identqualifiername: Subspecies uncertain; tblidentificationqualifier.identqualifiercode: Genus species subspecies ?;	ssp.	0	1
 tblidentificationqualifier.identqualifiername: Unidentified; tblidentificationqualifier.identqualifiercode: Genus AND species AND family vacant or blank;		0	1
 tent sp	species in question	0	1
+tenue sp. nov.	sp. nov.	0	1
 tribe: Microtini		0	1
 trimerorhachis also		0	1
 Uintasoricinae		0	1
@@ -1260,6 +1292,7 @@ Vespertilionoidea cf fm	cf.	0	1
 vivax X sp.	vivax X sp.	0	1
 Waite & Longman, 1920		0	1
 websteri sp.nov.	sp. nov.	0	1
+white sp.	sp.	0	1
 willii gen & sp		0	1
 wood-masoni n.	sp. nov.	0	1
 worn		0	1
