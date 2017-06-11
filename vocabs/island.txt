@@ -1,16 +1,17 @@
 Waterbody	IslandGroup	Island
 		Alexander
-		Amelia
 		Anticosti
 		Artificial
 		Artificial Island
 		Avery
-		Avery Island
 		Baillie-Hamilton
+		Bakers
 		Banty
+		Barbonis
 		Barren
 		Belle
 		Bellows
+		Bermuda
 		Big
 		Billys
 		Bird
@@ -35,6 +36,7 @@ Waterbody	IslandGroup	Island
 		Cochrane's
 		Cockburn
 		Contramaestre
+		Cooper's
 		Copper
 		Cove
 		Craig
@@ -112,12 +114,14 @@ Waterbody	IslandGroup	Island
 		Marsh
 		Merritt
 		Mocha
+		Mohawk
 		Monkey
 		Moosehead Treasure
 		Mud
 		Mustang
 		New Guinea
 		Nonamesset
+		Nonsuch
 		Norton
 		Ono
 		Otter
@@ -125,6 +129,7 @@ Waterbody	IslandGroup	Island
 		Pelee
 		Point Lobos
 		Port George
+		Prince Edward
 		Princess Royal
 		Pupuya
 		Radio
@@ -144,6 +149,7 @@ Waterbody	IslandGroup	Island
 		Seal
 		Seymour
 		Shell
+		Shelter
 		Sicilia
 		Sjælland
 		Skidaway
@@ -151,6 +157,7 @@ Waterbody	IslandGroup	Island
 		Staten
 		Staten Island
 		Stock
+		Sullivan's
 		Table
 		Taipa
 		Taiwan
@@ -173,6 +180,7 @@ Waterbody	IslandGroup	Island
 		Willard
 		Willow
 	Aasiaat Archipelago	Aasiaat
+	ABC Islands	Curaçao
 	Aldabra Atoll	Ile Picard
 	Aleutian Islands	Aleun
 	Alexander Archipeago	Noyes
@@ -213,6 +221,8 @@ Waterbody	IslandGroup	Island
 	Canadian Arctic Archipelago	Victoria
 	Cape Breton Islands	Bird
 	Cape Breton Islands	Cape Breton
+	Channel Islands	Catalina
+	Dry Tortugas	Loggerhead Key
 	Gorong Islands	Gorom
 	Greater Antilles	Culebra
 	Greater Antilles	Culebrita
@@ -231,6 +241,7 @@ Waterbody	IslandGroup	Island
 	Greater Sunda Islands	Togian
 	Guadeloupe	Grand-Terre
 	Hoorn Islands	Alofi
+	Islas de las Perlas	Pedro González
 	Islas de los Timbales	Timbales
 	Islas Desventuradas	San Ambrosio
 	Japanese Archipelago	Hokkaido
@@ -244,6 +255,7 @@ Waterbody	IslandGroup	Island
 	Kai Islands	Taam
 	Kepulauan Banggai	Peling
 	LaHave Islands	Indian
+	Leeward Antilles	Curaçao
 	Lesser Sunda Islands	Bali
 	Lesser Sunda Islands	Flores
 	Lesser Sunda Islands	Komodo
@@ -303,6 +315,8 @@ Waterbody	IslandGroup	Island
 	San Juan Islands	Shaw
 	San Juan Islands	Waldron
 	Sangihe Islands	Sangir Besar
+	São Tomé and Príncipe	Príncipe
+	São Tomé and Príncipe	São Tomé
 	Schouten Islands	Yapen
 	Sea Islands	Amelia
 	Selayar Islands	Tanah Jampea
@@ -480,7 +494,6 @@ Caribbean Sea	Islas de la Bahía	Guanaja
 Caribbean Sea	Islas de la Bahía	Roatán
 Caribbean Sea	Islas de la Bahía	Útila
 Caribbean Sea	Islas Santanilla	Great Swan
-Caribbean Sea	Leeward Antilles	Curaçao
 Caribbean Sea	Leeward Islands	Anguilla
 Caribbean Sea	Leeward Islands	Antigua
 Caribbean Sea	Leeward Islands	Barbuda
@@ -575,6 +588,7 @@ Currituck Sound		Knotts
 Danau Lindu	Greater Sunda Islands	Sulawesi
 Danau Poso	Greater Sunda Islands	Sulawesi
 Dease Strait	Finlayson Islands	Finlayson
+Deep Creek		Long Island
 Delaware River		Pea Patch
 Detroit River		Grassy
 Devil's Lake		Graham
@@ -607,6 +621,7 @@ Frobisher Bay	Canadian Arctic Archipelago	Coffin
 Galveston Bay		Bird
 Gambier Bay	Alexander Archipelago	Admiralty
 Gardiners Bay		Gardiners
+Georgian Bay		Griffith
 Glacier Bay		North Marble
 Golfo de Guayaquil		Santa Clara
 Golfo de Panamá	Islas de las Perlas	Pedro González
@@ -699,8 +714,8 @@ Gulf of Aqaba		El Hamira
 Gulf of Aqaba		Fara'un
 Gulf of Chiriquí	Islas Contreras	Brincancon
 Gulf of Guinea		Bioko
-Gulf of Guinea	Príncipe	Príncipe
-Gulf of Guinea	São Tomé	São Tomé
+Gulf of Guinea	São Tomé and Príncipe	Príncipe
+Gulf of Guinea	São Tomé and Príncipe	São Tomé
 Gulf of Maine		Green
 Gulf of Maine		Little Duck Isle
 Gulf of Maine		Machias Seal
@@ -1752,6 +1767,7 @@ Río Ozama	Greater Antilles	Hispaniola
 Río Yaque del Sur	Greater Antilles	Hispaniola
 Río Yaque del Sur, Lago Enriquillo	Greater Antilles	Hispaniola
 Río Yuna	Greater Antilles	Hispaniola
+Rockaway Inlet		Long Island
 Rosario Strait	San Juan Islands	Bird Rocks
 Ross Sea	Ross Archipelago	Beaufort
 Ross Sea	Ross Archipelago	Ross

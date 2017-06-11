@@ -20023,6 +20023,7 @@ DERMOPTEROTIC,SCALES,SKULL FRAGS		0	0
 DERMOSPHENOTIC		0	0
 Dertrum		0	0
 DESICCATED/DRY JAR		0	0
+Desiccation		0	0
 Destructive sample		0	0
 Destructive Tissue		0	0
 DETACHED SCALES		0	0
@@ -21477,6 +21478,7 @@ Dried - 4		0	0
 Dried - 5		0	0
 Dried - 6		0	0
 Dried - 9		0	0
+Dried bird skin		0	0
 dried carapace		0	0
 dried carapace and tissue | "tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|carapace with tissue attached sent for DNA analysis on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 October 20		0	0
 dried carapace and tissue | tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|carapace with tissue attached sent for DNA analysis on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 October 200		0	0
@@ -34918,9 +34920,12 @@ FRAMED, WELL PRESERVED SPECIMEN HAVING A TOTAL LENGTH OF 25 CM & SHOWING SCALE O
 free rib frag		0	0
 FREE VERTEBRA.		0	0
 Freeze dried	freeze-dried	0	1
+Freeze dried - Head/Right+Left Feet		0	0
 freeze dried mount	freeze-dried mount	0	1
 freeze dried skin	freeze-dried skin	0	1
 freeze-dried	freeze-dried	1	1
+Freeze-dried (mount)		0	0
+Freeze-dried (study skin)		0	0
 freeze-dried skin		0	0
 Freezer	frozen	0	1
 Freezer | tissue		0	0
@@ -57060,6 +57065,7 @@ One-third R dentary.		0	0
 One-third unerupted lower cheek tooth.		0	0
 only horns remain		0	0
 ONLY SECOND KNOWN EXAMPLE, TOTAL LENGTH 95 CM, MOUNTED IN WALL PANEL		0	0
+Oological - 1 Egg		0	0
 OPERCLE		0	0
 opercles		0	0
 OPERCULA		0	0
@@ -57751,6 +57757,21 @@ osteoderms+teeth		0	0
 osteoderms+vertebra		0	0
 osteoderms+vertebra, unassoc		0	0
 OSTEODERMSS		0	0
+Osteological		0	0
+Osteological - Bill		0	0
+Osteological - Partial Skeleton		0	0
+Osteological - Skeleton		0	0
+Osteological - Skull		0	0
+Osteological - Skull/Bone Fragments		0	0
+Osteological - Skull/Bone Fragments/Vertebra		0	0
+Osteological - Skull/Fragments		0	0
+Osteological - Skull/Full Skeleton		0	0
+Osteological - Skull/One Vertebra		0	0
+Osteological - Skull/Partial Skeleton		0	0
+Osteological - Skull/Skeleton		0	0
+Osteological - Skull/Vertebrae/Fragments		0	0
+Osteological - Sternum		0	0
+Osteological Mount - Full articulated Skull/Skeleton		0	0
 osteology		0	0
 OSTEOSCUTE		0	0
 osteoscutes		0	0
@@ -62649,6 +62670,7 @@ partial splanchnocranium w r P3-4, M1-3		0	0
 partial splanchnocranium w two l+r incisors, l C1, l+r P1-4, M1-3		0	0
 partial splanchnocranium+associated fragments		0	0
 PARTIAL STERNUM		0	0
+Partial Study Skin - Tail/Right Wing & Osteological - Skull/Skeleton		0	0
 partial suprapygal		0	0
 partial synsacral vertebra		0	0
 partial synsacrum		0	0
@@ -82287,6 +82309,7 @@ SKELLT		0	0
 skel-no skull	skeleton	0	1
 SKELSTUDY+WING	skeleton | study skin | wing	0	1
 SKELSTUDY+WING | TWO TUBES: PECTORAL, LIVER, HEART		0	0
+SKELT		0	0
 SKELTON		0	0
 SKELTON, BONELESS SKIN	skeleton | skin	0	1
 SKELTON, HEAD SKIN	skeleton | head skin	0	1
@@ -106729,6 +106752,8 @@ STUDY | TWO TUBES; SALT BUFFER		0	0
 study skin	study skin	0	1
 Study skin - 1		0	0
 study skin  and skull		0	0
+Study Skin & Osteological - Partial Skeleton		0	0
+Study Skin & Osteological - Skeleton		0	0
 Study Skin & Partial Alcoholic		0	0
 Study Skin & Partial Skeleton		0	0
 Study Skin & Partial Skeleton & Spread Wing		0	0
@@ -106802,6 +106827,7 @@ STUDY+WING | TWO TUBES; MUSCLE, LIVER, HEART		0	0
 STUDY+WING | TWO TUBES; PECTORAL, HEART, LIVER		0	0
 STUDY+WING | TWO TUBES; PECTORAL, LIVER, HEART		0	0
 STUDY+WING | TWO TUBES; PECTORAL, LIVER, HEARTTWO TUBES; PECTORAL, LIVER, HEART		0	0
+Stuffed		0	0
 STUFFED (DRY)	stuffed	0	1
 STUFFED DRIED SKIN	stuffed dried skin	0	1
 stuffed dry skin (skull in skin)		0	0
@@ -107693,6 +107719,7 @@ taxidermic mount; skull; skeleton; horn		0	0
 TAXIDERMIED MOUNT, SKELETON	mount | skeleton	0	1
 Taxidermy		0	0
 Taxidermy Mount	taxidermy mount	0	1
+Taxidermy Mount (model)		0	0
 TAXIDERMY MOUNT | tissue		0	0
 taxidermy mount, skin		0	0
 taxidermy mount, skull		0	0
