@@ -6,6 +6,7 @@ verbatimPreparations	standardPreparations	standard	checked
 -- | tissue		0	0
  ~25 vertebrae		0	0
  1 tooth		0	0
+ 3 snails		0	0
  4 vertebrae		0	0
  6 bone fragments		0	0
  70% EtOH	70% alcohol	0	1
@@ -111,8 +112,8 @@ verbatimPreparations	standardPreparations	standard	checked
 "skin, wing, DNA & partial skeleton"	DNA | partial skeleton | skin | wing	0	1
 "skin/skull, teaching"		0	0
 "skull, partial skeleton and carapace"		0	0
-"skull, partial"		0	0
-"sk"skull, skeleton and carapace"		0	0
+"skull, pa"skull, partial/anlters"		0	0
+"skull, skeleton and carapace"		0	0
 "skull, skeleton and carapace" | "Tissue sent to Laura Bennett, Nova Scotia Leatherback Turtle Working Group"		0	0
 "tibia prox. art." from card cat		0	0
 "wing, par skeleton"	partial skeleton | wing	0	1
@@ -1446,6 +1447,7 @@ _ TOOTH		0	0
 `EGGS	eggs	0	1
 |liver		0	0
 |muscle|brain		0	0
+~ 6 partial trilobites		0	0
 ~ fifteen small fragments		0	0
 ~1 m (3-4 ft) long trace fossil		0	0
 ~10 shell fragments		0	0
@@ -1453,27 +1455,52 @@ _ TOOTH		0	0
 ~10 teeth		0	0
 ~10 teeth (very small)		0	0
 ~10 vertebrae		0	0
+~100 shells		0	0
 ~100 teeth		0	0
+~12 corals		0	0
+~12 echinoids		0	0
+~130 valves		0	0
 ~146 mixed verts.		0	0
 ~15 vertebraes (or partial), one good humerous and many misc. bone fragments		0	0
+~150 snails, 15 bivalves		0	0
 ~19 pieces of shell (edge pieces)		0	0
+~20 shells		0	0
+~20 shells and fragments		0	0
 ~20 teeth		0	0
 ~20 vertebrae		0	0
 ~20 vertebrae and many bone fragments		0	0
+~200 fossils		0	0
 ~200 teeth		0	0
+~200 valves		0	0
 ~200 vertebae		0	0
+~22 urchins		0	0
+~23 Blastoids		0	0
 ~23 bone fragments		0	0
+~25 Shells, not all same taxa		0	0
 ~25 teeth		0	0
+~250 valves, snails, scaphopods		0	0
+~3 fragments		0	0
+~30 shells		0	0
+~30 snails, 1 coprolite, 1 baculite		0	0
 ~30 teeth		0	0
 ~30 vertebrae and miscellaneous fragments		0	0
 ~30 whole bodies in 10 percent formalin		0	0
 ~32 teeth		0	0
+~40 mixed fossils		0	0
+~40 shells		0	0
 ~40 teeth		0	0
+~40 valves		0	0
+~5 mixed fossils		0	0
 ~5 vertebrae and miscellaneous fragments		0	0
+~50 mixed molluscs, mostly gastropod		0	0
+~50 shells		0	0
 ~50 teeth		0	0
+~55 shells		0	0
+~60 fossils		0	0
 ~66 vertebrae, 1 tibia, skull fragments, rib fragments,  1 ptyergoid and one partial dentary		0	0
 ~7 costals, 2 neurals		0	0
 ~7 teeth		0	0
+~70 shells		0	0
 ‘		0	0
 + alc gut		0	0
 + DIPLOMYSTUS DUBERTRETI -- 2 SPECIMENS, NEARLY COMPLETE		0	0
@@ -1525,6 +1552,8 @@ _ TOOTH		0	0
 0		0	0
 0 EtOH		0	0
 0 Formalin		0	0
+0 fossils		0	0
+0 fossils present		0	0
 0 in 70% EtOH		0	0
 0 in 70% EtOH; 1 in skeleton		0	0
 0°C Freezer		0	0
@@ -1534,6 +1563,7 @@ _ TOOTH		0	0
 1 - 70% ETHANOL; 1 - GLYCERIN		0	0
 1  tooth		0	0
 1 (toe?) bone		0	0
+1 1/2 Steinkerns		0	0
 1 1-BLADED MAX		0	0
 1 2" turd		0	0
 1 2ND PHALANX. ALSO INCLUDES MISCELLANEOUS BONES INCLUDING MYOTIS, EPTESICUS, DIDELPHIS, LEPORID, NEOTOMA, MICROTUS CF PENNSYLVANICUS, TAMIAS, SCIURUS, ONDATRA, MUSTELA CF FRENATA, MEPHITIS, BONASA, MELEAGRIS, WOODPECKER, CRYPTOBRANCHUS, ECTOPISTES, FISH		0	0
@@ -1552,6 +1582,7 @@ _ TOOTH		0	0
 1 alcoholic pouch young		0	0
 1 alcoholic tadpole		0	0
 1 almost complete bone		0	0
+1 Ammonite		0	0
 1 and 1/2 deciduous incisor.		0	0
 1 ANTERIOR P/#		0	0
 1 ANTERIOR R M#/		0	0
@@ -1560,6 +1591,13 @@ _ TOOTH		0	0
 1 AXIS; 1 LUMBAR VERTEBRAE		0	0
 1 badly eroded vertebra		0	0
 1 Base of Tooth		0	0
+1 belemnite		0	0
+1 Bivalve		0	0
+1 Bivalve Steinkern		0	0
+1 Bivalve Valve		0	0
+1 blastoid		0	0
+1 blastoid w/ bryozoa matrix		0	0
+1 block cemented fossils		0	0
 1 BONE		0	0
 1 bone (femur?)		0	0
 1 Bone (Flipper Element?)		0	0
@@ -1573,8 +1611,11 @@ _ TOOTH		0	0
 1 bone fragment in matrix, 1 loose fragment 		0	0
 1 bone fragments		0	0
 1 bone, possibly the humerus		0	0
+1 Brachiopod		0	0
+1 broken shell		0	0
 1 Broken tooth		0	0
 1 broken vertebra		0	0
+1 Burrow		0	0
 1 C#/		0	0
 1 C&S		0	0
 1 C/#		0	0
@@ -1587,6 +1628,7 @@ _ TOOTH		0	0
 1 carapace and pelvic girdle		0	0
 1 carpace bone (large: ~10.5 inches by 2.75 inches)		0	0
 1 CARPOMETACARPUS; R DISTAL HUMERUS; L HUMERUS; PROXIMAL & DISTAL		0	0
+1 cast		0	0
 1 caudal vertebra		0	0
 1 caudal vertebra (small)		0	0
 1 caudal vertebra (terminal)		0	0
@@ -1598,9 +1640,13 @@ _ TOOTH		0	0
 1 cervical vertebra and 1 small bone fragment		0	0
 1 CHEEK T#/		0	0
 1 CHEEK T/#		0	0
+1 clam		0	0
+1 clam, 4 others		0	0
 1 claw	claw	1	0
+1 claw fragment		0	0
 1 clutch of 5 eggs only		0	0
 1 clutch of 5 eggs only | tissue		0	0
+1 colony		0	0
 1 complete bone		0	0
 1 COMPLETE JAW; JAW, R P/1-M/3; L I/1-I/4; R I/1-I/4; L P/1-P/4; HUMERUS		0	0
 1 COMPLETE T#/ PLATE		0	0
@@ -1610,12 +1656,17 @@ _ TOOTH		0	0
 1 COMPLETE, 2 PARTIAL CERVICALS		0	0
 1 Condyle of an Astragulus		0	0
 1 coprolite		0	0
+1 Coral		0	0
 1 Costal Fragment		0	0
+1 Crab Claw 		0	0
 1 CRANIAL & 158 POSTCRANIAL ELEMENTS		0	0
+1 crinoid		0	0
+1 Crinoid fossil		0	0
 1 CRUSHED CARAPACE IN FLOWSTONE (FLUORINE SAMPLE REMOVED), ISOLATED CARAPACE & PLASTRAL FRAG OF AT LEAST ONE MORE TURTLE		0	0
 1 dentricle		0	0
 1 dermal denticle		0	0
 1 dermal scute		0	0
+1 Disarticulated Specimen		0	0
 1 Distal Caudal Vertebra and Neural Arch Fragment		0	0
 1 DORSAL VERTEBRA		0	0
 1 Dorsal Vertebra (eroded)		0	0
@@ -1623,6 +1674,8 @@ _ TOOTH		0	0
 1 DP4/, 3 P4/, 16 M1/-M2/, 5 M3/, 1 P/4, 7 M/1-M/2, 2 M/3		0	0
 1 Dry		0	0
 1 Dry skeleton		0	0
+1 Echinoderm		0	0
+1 Echinoid test plate		0	0
 1 egg		0	0
 1 egg [4		0	0
 1 egg | tissue		0	0
@@ -1645,6 +1698,7 @@ _ TOOTH		0	0
 1 egg only		0	0
 1 egg only | tissue		0	0
 1 eggshell fragment		0	0
+1 Endocast		0	0
 1 Epiphysis		0	0
 1 eroded tooth		0	0
 1 eroded vertebra		0	0
@@ -1666,20 +1720,28 @@ _ TOOTH		0	0
 1 flipper bone (humerus) 		0	0
 1 flipper element		0	0
 1 Formalin		0	0
+1 fossil		0	0
 1 FRAG		0	0
 1 FRAG SKULL (FROM LOC 13); 1 L JAW (FROM LOC 20)		0	0
 1 FRAG VERTEBRA		0	0
 1 fragentary tooth		0	0
 1 Fragmentary Crushing Toothplate		0	0
+1 fragmented valve		0	0
 1 gar scale		0	0
+1 Gastropod Steinkern		0	0
+1 Gastropod Steinkern & 2 Bivalve Steinkerns		0	0
+1 ghost shrimp abdomen		0	0
 1 GOOD SCALE, ANOTHER SCALE		0	0
 1 GOOD TOOTH		0	0
+1 Gooseneck varnacle left upper latus		0	0
 1 hair		0	0
 1 hair ball only		0	0
+1 Half of Ammonite		0	0
 1 hatchling + egg shell only		0	0
 1 HEAD & 1 SKULL ROOF		0	0
 1 head spine		0	0
 1 head spine root		0	0
+1 Heteromorph Ammonite		0	0
 1 Huge Tooth		0	0
 1 humerus		0	0
 1 Hypoplaston & 1 turtle Carapace Frag. 		0	0
@@ -1704,6 +1766,8 @@ _ TOOTH		0	0
 1 in C&S		0	0
 1 in skeleton		0	0
 1 Incisor Fragment		0	0
+1 Individual		0	0
+1 Individual, Both Valves		0	0
 1 infertile egg		0	0
 1 ISOLATED M#/, 1 ISOLATED P#/		0	0
 1 JAW		0	0
@@ -1792,6 +1856,7 @@ _ TOOTH		0	0
 1 large jaw fragment with teeth and 11 small fragments		0	0
 1 large jaw fragment with teeth and 2 bone fragments		0	0
 1 Large Partial Tooth		0	0
+1 large slab		0	0
 1 large tooth		0	0
 1 large tooth (nice condition)		0	0
 1 Large Tooth Crown		0	0
@@ -1799,6 +1864,7 @@ _ TOOTH		0	0
 1 large tooth with a partially broken tip		0	0
 1 large tooth, 1 small bone fragment		0	0
 1 large tooth, very nice shape		0	0
+1 large valve		0	0
 1 large vert. and 4 vert. frags		0	0
 1 large vertebra		0	0
 1 large vertebra (badly eroded)		0	0
@@ -1942,6 +2008,7 @@ _ TOOTH		0	0
 1 lot of guano only		0	0
 1 lot of guano only | tissue		0	0
 1 lower jaw bone		0	0
+1 Lower Valve		0	0
 1 m		0	0
 1 M 3 fragmentary		0	0
 1 M#/		0	0
@@ -2006,7 +2073,9 @@ _ TOOTH		0	0
 1 neural		0	0
 1 neural arch		0	0
 1 Neurocranium		0	0
+1 operculum		0	0
 1 Other		0	0
+1 Oyster Valve		0	0
 1 P#/		0	0
 1 P#/ OF THE MILK SERIES		0	0
 1 P/#		0	0
@@ -2014,21 +2083,30 @@ _ TOOTH		0	0
 1 P/#, 1 T#/		0	0
 1 P4/, 9 M1/-M2/, 3 M3/, 13 M/1-M/2, 2 M/3		0	0
 1 pair of horns only		0	0
+1 pair of valves		0	0
 1 palatine and extra articulated bone		0	0
 1 palatine tooth 		0	0
 1 partial bone		0	0
+1 Partial Chamber		0	0
+1 partial claw		0	0
 1 Partial Costal Bone		0	0
+1 Partial Endocast		0	0
 1 PARTIAL L CARPOMETACARPUS; 2 PARTIAL R CARPOMETACARPUS		0	0
 1 partial limb/girdle bone 		0	0
+1 Partial Lower Valve		0	0
 1 Partial Mandibular Plate		0	0
+1 Partial Mold		0	0
 1 Partial Osteoderm		0	0
 1 Partial Rostral Denticle		0	0
+1 partial shell		0	0
+1 partial shell cast		0	0
 1 PARTIAL SKULL, ALL T#/		0	0
 1 partial tooth		0	0
 1 partial tooth and 3 bone fragments		0	0
 1 partial tooth and jaw fragment		0	0
 1 Partial Tooth Crown		0	0
 1 partial tooth plate		0	0
+1 Partial Valve		0	0
 1 partial vertebra		0	0
 1 partial vertebra, badly eroded		0	0
 1 pedal phalanx only		0	0
@@ -2036,9 +2114,13 @@ _ TOOTH		0	0
 1 PERFECT PARASYMPHYSIAL TOOTH		0	0
 1 Peripheral, 1 Hypoplastron (Not Associated)		0	0
 1 PIECE		0	0
+1 piece (shell fragments)		0	0
+1 piece (solitary)		0	0
 1 Piece / Fragment		0	0
+1 Piece of a Colony		0	0
 1 piece, broken in half		0	0
 1 placoid scale ("button type")		0	0
+1 Plate from Calyx		0	0
 1 possible coprolite		0	0
 1 posterior caudal vertebra		0	0
 1 PREMOLAR, MILK SERIES?		0	0
@@ -2048,6 +2130,7 @@ _ TOOTH		0	0
 1 pterygoid tooth		0	0
 1 pterygoid tooth (good shape)		0	0
 1 Pterygoid Toothplate (Worn)		0	0
+1 Pygidium		0	0
 1 R C#/, 1 L C#/, LARGE SIZE		0	0
 1 R JAW		0	0
 1 R JAW, 2 HUMERI, 1 R INNOMINATE		0	0
@@ -2099,6 +2182,10 @@ _ TOOTH		0	0
 1 scute, 1 bone fragment		0	0
 1 sectioned (mounted, in spirit)		0	0
 1 shed antler only		0	0
+1 shell		0	0
+1 shell (modern pulmonate)		0	0
+1 shell *		0	0
+1 shell frag.		0	0
 1 shell fragment		0	0
 1 SIDE OF MAX, JAW RAMUS		0	0
 1 SKULL		0	0
@@ -2112,13 +2199,19 @@ _ TOOTH		0	0
 1 small coprolite		0	0
 1 Small Fragment		0	0
 1 small piece		0	0
+1 small slab		0	0
 1 small thoracic vertebra (eroded)		0	0
 1 small tooth		0	0
 1 small vertebra		0	0
 1 small vertebra (eroded)		0	0
 1 small vertebra (thoracic)		0	0
+1 snail		0	0
+1 Snail Steinkern		0	0
+1 specimen		0	0
 1 specimen in spirit		0	0
 1 spine		0	0
+1 starfish		0	0
+1 Steinkern		0	0
 1 T#/		0	0
 1 T#/ & FOOT BONES		0	0
 1 T#/ & POSTERIOR DORSAL VERTEBRA		0	0
@@ -2144,6 +2237,7 @@ _ TOOTH		0	0
 1 TARSAL		0	0
 1 TARSOMETATARSUS RERESENTING FOUR TAXA, OTHER ELEMENTS		0	0
 1 terminal caudal vertebra and process		0	0
+1 test		0	0
 1 thoracic vert. In 2 pieces		0	0
 1 thoracic vertebra		0	0
 1 Thoracic Vertebra (Badly Weathered)		0	0
@@ -2197,9 +2291,7 @@ _ TOOTH		0	0
 `		0	0
 1 tooth, 2 bone fragments		0	0
 1 TOOTH, 2 FRAGS		0	0
-1 tooth, 2 partial claspers		0	0
-1 tooth, 3 various bones		0	0
-1 tooth, 4 dental exotoses		0	0
+1 tooth, 21 tooth, 4 dental exotoses		0	0
 1 tooth, 8+ verts., some cartilage		0	0
 1 Tooth, pathologically deformed		0	0
 1 tooth, pterygoid?		0	0
@@ -2208,12 +2300,15 @@ _ TOOTH		0	0
 1 toothplate tooth		0	0
 1 tooth--pterygoid		0	0
 1 track		0	0
+1 trilobite		0	0
 1 TRUNK VERTEBRA		0	0
 1 UNIT		0	0
 1 upper canine only		0	0
 1 upper lateral tooth		0	0
 1 UPPER MOLAR & 1 LOWER MOLAR		0	0
 1 Upper Tooth Plate		0	0
+1 valve		0	0
+1 Valve Fragment		0	0
 1 vert		0	0
 1 vert and 2 misc. frags		0	0
 1 vert. + 16 osteoderms		0	0
@@ -2256,9 +2351,10 @@ _ TOOTH		0	0
 1 vertebra and less than 20 bone fragments		0	0
 1 Vertebra and Several Small Skull Fragments		0	0
 1 Vertebra and Skull and Jaw Fragments		0	0
-1 Vertebra and Skull Fragment (?)		0	01 vertebra in matrix		0	0
-
-gment		0	0
+1 Vertebra and Skull Fragment (?)		0	0
+1 vertebra and small bone fragment		0	0
+1 vertebra in 2 pieces		0	0
+1 vertebra in matrix		0	0
 1 vertebra, 1 jaw fragment with teeth		0	0
 1 Vertebra, 1 partially fused vertebra ?		0	0
 1 vertebra, 1 tooth		0	0
@@ -2294,8 +2390,7 @@ gment		0	0
 1- whole body in 70 percent ethanol		0	0
 1 whole body in 70 percent ethanol + dry tissue | "tissue sample removed for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 October 2005 to 24 April 2006"		0	0
 1 whole body in 70 percent ethanol + dry tissue | "tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|tissue  sample sent for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 Oc		0	0
-1 whole body in 70 percent ethanol + dry tissue | tissue sample removed for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 October 2005 to 24 April 2006		0	0
-1 whole body in 70 percent ethanol + dry tissue | tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|tissue  sample sent for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 Oct		0	0
+1 whole body in 70 percent ethanol + dry tissue | tissue sample removed for DNA analysis- on loan Z05-1 whole body in 70 percent ethanol + dry tissue | tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|tissue  sample sent for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 Oct		0	0
 1 whole body in 70% ethanol		0	0
 1 Wing + Tail only		0	0
 1 Wing only		0	0
@@ -2308,6 +2403,7 @@ gment		0	0
 1_ SPECIMENS ON SAME SLAB		0	0
 10 - 70% ETHANOL; 2 - DRY		0	0
 10 alcoholic eggs		0	0
+10 Bivalve Steinkerns		0	0
 10 bone fragments		0	0
 10 bone fragments (jaw?)		0	0
 10 bone fragments | tissue		0	0
@@ -2348,11 +2444,13 @@ gment		0	0
 10 L MAX		0	0
 10 L MAX, 1 R MAX		0	0
 10 L MAX, 8 R MAX, 3 PARTIAL SKULLS		0	0
-10 L; 9 R FRONTOPARIETALS; 4 L; 2 R PTERYGOIDS; 2 R SQUAMOSALS; 6 SPHENETHMOIDS; PARASPHENOID; 2 R JAWS; 20 ATLASES; 30 SACRA; L & R CLAV10 LIMB BONES		0	0
-ent ethanol		0	0
+10 L; 9 R FRONTOPARIETALS; 4 L; 2 R PTERYGOIDS; 2 R SQUAMOSALS; 6 SPHENETHMOIDS; PARASPHENOID; 2 R JAWS; 20 ATLASES; 30 SACRA; L & R CLAVICLES		0	0
+10 larvae in 70 percent ethanol		0	0
+10 LIMB BONES		0	0
 10 M/1 OR M/2		0	0
 10 M2/		0	0
 10 M3/		0	0
+10 mixed fossils		0	0
 10 MOLARS		0	0
 10 MOLARS & PREMOLARS		0	0
 10 MOLARS, INCLUDING 2 L M/1		0	0
@@ -2473,9 +2571,11 @@ ent ethanol		0	0
 11 in 70% EtOH; 2 in C&S		0	0
 11 in 70% EtOH; 3 in C&S		0	0
 11 in 70% EtOH; 4 in C&S		0	0
+11 Inarticulate Brachiopod shell frags.		0	0
 11 INCISORS		0	0
 11 ISOLATED TEETH		0	0
-11 ISOLATED TEETH, DISTAL11 JAWS, C/#-M/3; LENGTH: 6.8 MM		0	0
+11 ISOLATED TEETH, DISTAL L HUMERUS		0	0
+11 JAWS, C/#-M/3; LENGTH: 6.8 MM		0	0
 11 L & 7 R WHOLE OR PARTIAL JAWS		0	0
 11 L JAWS, 13 R JAWS, 7 L MAX, 7 R MAX		0	0
 11 L JAWS, 23 R JAWS, 6 MAX, 4 SKULLS		0	0
@@ -2500,6 +2600,8 @@ ent ethanol		0	0
 11 R JAWS, 20 L JAWS, 4 R MAX, 4 L MAX		0	0
 11 R M/1; 7 L M/1; 1 L M3/; R MAX, M2/-M3/; PALATE WITH L M1/ & R M1/; 26 ISOLATED MOLARS		0	0
 11 radia frags		0	0
+11 Sea Urchin test frags.		0	0
+11 shells		0	0
 11 SKULLS		0	0
 11 SPECIMENS IN ALCOHOL, 1 SKELETON		0	0
 11 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED		0	0
@@ -2610,6 +2712,7 @@ ent ethanol		0	0
 12 R M1/		0	0
 12 rib fragments		0	0
 12 rib fragments | tissue		0	0
+12 shells		0	0
 12 SKULLS		0	0
 12 SMALL TRAYS OF BROKEN VERTEBRAL COLUMN		0	0
 12 SPECIMENS IN ALCOHOL, 1 SKELETON		0	0
@@ -2620,6 +2723,7 @@ ent ethanol		0	0
 12 Teeth (Very Small) - Indeterminate Juvenile		0	0
 12 tooth fragments; 2 are ivory		0	0
 12 TRUNK VERTEBRAE		0	0
+12 various bivalves		0	0
 12 vertebra		0	0
 12 VERTEBRAE		0	0
 12 VERTEBRAE & RIBS, VERY LARGE, IN PARTIAL COUNTERPART; ASSOCIATED		0	0
@@ -2719,6 +2823,7 @@ ent ethanol		0	0
 13 R JAWS; R M/1		0	0
 13 SKULL FRAGS, ASSOCIATED		0	0
 13 SKULLS		0	0
+13 specimens		0	0
 13 tadpoles		0	0
 13 TEETH		0	0
 13 TEETH OF VARYING SIZE BELONGING TO MORE THAN 1 INDIVIDUAL		0	0
@@ -2849,6 +2954,7 @@ ent ethanol		0	0
 149 in 70% EtOH		0	0
 14Teeth		0	0
 1-5		0	0
+15 Belemnite Phragmocones, some w/ sponge		0	0
 15 bone fragments		0	0
 15 bone fragments (including jaw)		0	0
 15 CAUDAL VERTEBRAE, A+B		0	0
@@ -2935,6 +3041,7 @@ ent ethanol		0	0
 159 in 70% EtOH		0	0
 16		0	0
 16 1-BLADED T/#		0	0
+16 blastoids		0	0
 16 bone fragments and 3 small vertebrae		0	0
 16 EtOH		0	0
 16 Formalin		0	0
@@ -2997,6 +3104,7 @@ ent ethanol		0	0
 168 in 70% EtOH		0	0
 169 EtOH		0	0
 169 in 70% EtOH		0	0
+17 Bivalves		0	0
 17 bone fragments including one jaw fragment and teeth		0	0
 17 bone frags		0	0
 17 eggs only		0	0
@@ -3025,12 +3133,14 @@ ent ethanol		0	0
 17 M3/ (TOOTH TYPE A)		0	0
 17 oral teeth		0	0
 17 parietal (8.5 fused parietal), 17 frontal (8.5 fused frontal), 3 squamosal, 10 dentary, 6 maxilla, 2 crania.		0	0
+17 partial shells		0	0
 17 POSTCRANIAL ELEMENTS		0	0
 17 PYGAL VERTEBRAE		0	0
 17 R JAWS		0	0
 17 R JAWS, 11 L JAWS		0	0
 17 R JAWS, 17 L JAWS, ONE OF WHICH HAS A HEALED FRACTURE		0	0
 17 R M/1, 25 L M/1		0	0
+17 shells		0	0
 17 SLABS BEARING FOSSIL FISH		0	0
 17 T#/		0	0
 17 Teeth		0	0
@@ -3088,8 +3198,10 @@ ent ethanol		0	0
 18 L M/1		0	0
 18 L M/1, 15 R M/1		0	0
 18 larvae in formalin		0	0
+18 Mandible crushing surfaces 		0	0
 18 P/4-M/2		0	0
 18 PARTIAL L JAWS; 18 PARTIAL R JAWS; ISOLATED TEETH		0	0
+18 partial shells		0	0
 18 R JAWS WITH M/1		0	0
 18 SCAPULA FRAGS		0	0
 18 T-BEARING BONES IN INDIVIDUAL TRAYS		0	0
@@ -3121,6 +3233,7 @@ ent ethanol		0	0
 189 EtOH		0	0
 189 in 70% EtOH		0	0
 19 astragali/calcanea		0	0
+19 blastoids		0	0
 19 bone frags, <6cm		0	0
 19 caudal vertebrae		0	0
 19 cross-sectioned I on slides		0	0
@@ -3154,7 +3267,8 @@ ent ethanol		0	0
 19 vertebra, 10 jaw fragments, 1 atlas fragment		0	0
 19 VERTEBRAE		0	0
 190 in 70% EtOH		0	0
-1900 EtOH		0	0191 EtOH		0	0
+1900 EtOH		0	0
+191 EtOH		0	0
 191 in 70% EtOH		0	0
 192 in 70% EtOH		0	0
 193 EtOH		0	0
@@ -3204,16 +3318,17 @@ ent ethanol		0	0
 2 - 70% ETHANOL; 1 - GLYCERIN		0	0
 2  caudal vertebrae		0	0
 2-  whole body in 70 percent ethanol		0	0
+2 "screws" / colonies		0	0
 2 /DP		0	0
 2 /M FRAG,M FRAG/		0	0
-2 ?assoc. premolars		0	0
-2 ABNORMAL T#/		0	0
+2 ?assoc. pr2 ABNORMAL T#/		0	0
 2 alc eggs		0	0
 2 alc eggs | tissue		0	0
 2 alc eggs*		0	0
 2 alcoholic juvs		0	0
 2 alcoholic snakes		0	0
 2 alcoholic young		0	0
+2 ammonites attached 		0	0
 2 ANTERIOR CAUDAL CENTRA, 4 SPINES, 3 ARCHES		0	0
 2 anterior dentaries and 4 teeth		0	0
 2 anterior thoracic vertebrae		0	0
@@ -3233,6 +3348,10 @@ ent ethanol		0	0
 2 ATLAS, 4 AXIS, 9 CERVICAL 3-7		0	0
 2 ATLASES		0	0
 2 ATLASES; L PECTORAL GIRDLE; 2 R FEMORA		0	0
+2 baculites, 4 shells		0	0
+2 Bivalve shell fragments		0	0
+2 Bivalve Steinkerns		0	0
+2 blastoids		0	0
 2 bone fragments		0	0
 2 bone fragments (jaw?)		0	0
 2 bone fragments (one is possibly an ilium)		0	0
@@ -3249,6 +3368,7 @@ ent ethanol		0	0
 2 bones, several vertebrae, and teeth		0	0
 2 bony fish tooth fragments		0	0
 2 boxes of bone fragments		0	0
+2 Brachiopod Shells		0	0
 2 BRAIN CASTS (PARTS) GNAWED, CALCANEUM, ETC		0	0
 2 BRAINCASES		0	0
 2 BROAD BASED, LARGE TEETH		0	0
@@ -3283,7 +3403,8 @@ ent ethanol		0	0
 2 CERVICAL VERTEBRAE & RIB		0	0
 2 CERVICAL VERTEBRAE, BROKEN DORSAL VERTEBRA, 3 SESAMOIDS		0	0
 2 CERVICAL VERTEBRAE; HUMERUS		0	0
-2 cervical vertebrae+cervical ribs, artic. L manus, R manus frags, pedal phalan2 CERVICALS, 8 DORSALS, 31 CAUDALS, RIBS, CHEVRONS, R ILIUM, PUBIS, ISCHIUM, & SCAPULA-CORACOID; BEAUTIFULLY PRESERVED & UNCRUSHED		0	0
+2 cervical vertebrae+cervical ribs, artic. L manus, R manus frags, pedal phalanges+frags		0	0
+2 CERVICALS, 8 DORSALS, 31 CAUDALS, RIBS, CHEVRONS, R ILIUM, PUBIS, ISCHIUM, & SCAPULA-CORACOID; BEAUTIFULLY PRESERVED & UNCRUSHED		0	0
 2 cervicle vertebrae 		0	0
 2 CHEEK T#/ | Cast		0	0
 2 CHEEK T/# | Cast		0	0
@@ -3292,10 +3413,15 @@ ent ethanol		0	0
 2 cheek teeth in mnd frag		0	0
 2 CHEVRONS & 1 CAUDAL		0	0
 2 CLAWS		0	0
+2 colonies		0	0
 2 complete, 4 partial vertebrae		0	0
 2 coprolites		0	0
 2 CORACOIDS, PARTS OF 2 SCAPULAE, 44 VERTEBRAE, PARTS OF NUMEROUS RIBS		0	0
+2 coral, 9 shells		0	0
+2 corals		0	0
+2 crab concretions		0	0
 2 CRANIALS; 5 POSTCRANIALS		0	0
+2 Crinoid stem frags.		0	0
 2 degraded frozen tissue, 2 FD hair, 2 FD bone, skull and partial skeleton		0	0
 2 degraded frozen tissue, 2 hair and 1 bone		0	0
 2 degraded frozen tissue, 2 hair, 1 bone and partial skeleton		0	0
@@ -3334,6 +3460,8 @@ ent ethanol		0	0
 2 DP/3-P/4		0	0
 2 DP/4		0	0
 2 DRAWERS OF FRAG CRANIAL & POSTCRANIAL ELEMENTS		0	0
+2 Echinoderm Spines		0	0
+2 echinoids		0	0
 2 EDENTULOUS JAWS & INCISOR FRAGS		0	0
 2 EDENTULOUS JAWS WITH I/1		0	0
 2 EGGS	eggs	0	1
@@ -3347,6 +3475,7 @@ ent ethanol		0	0
 2 eggshell fragments		0	0
 2 eggshells		0	0
 2 eggshells | tissue		0	0
+2 elongate Bivalve Steinkerns		0	0
 2 entoplastra+1 epiplastron		0	0
 2 eroded vertebrae		0	0
 2 eroded vertebrae, 3 teeth, and jaw fragments with teeth		0	0
@@ -3369,6 +3498,7 @@ ent ethanol		0	0
 2 flipper elements (one broken) -good shape		0	0
 2 FOOT BONES | Cast		0	0
 2 Formalin		0	0
+2 fossils		0	0
 2 FRAG L MAX, WHOLE &/OR FRAG JAWS: 10 L, 7 R		0	0
 2 frags		0	0
 2 FRAGS OF DORSAL VERTEBRA ARCH		0	0
@@ -3378,9 +3508,11 @@ ent ethanol		0	0
 2 furcula fragments | tissue		0	0
 2 FUSED SACRAL VERTEBRAE		0	0
 2 fused vertebrae		0	0
+2 Gastropod Steinkerns		0	0
 2 GOOD SKELETONS ON SLAB		0	0
 2 GOOD TEETH		0	0
 2 hair, 1 bone, skull and partial skeleton		0	0
+2 halves		0	0
 2 HEADS, NC		0	0
 2 HIND FEET; ASSOCIATION CONJECTURAL: OAP		0	0
 2 HORN CORES		0	0
@@ -3426,6 +3558,7 @@ ent ethanol		0	0
 2 individuals in this piece		0	0
 2 INDIVIDUALS ON SAME SLAB		0	0
 2 infertile eggs		0	0
+2 Irregular Echinoids		0	0
 2 isol teeth		0	0
 2 ISOLATED JAWS; UNASSOCIATED; & VARIOUS POSTCRANIAL REMAINS (LOT #); 9 SPECIMENS TOTAL WITH 2 A+B		0	0
 2 ISOLATED M#/		0	0
@@ -3491,6 +3624,7 @@ ent ethanol		0	0
 2 JAWS, SKULL FRAGMENT, 2 VERTEBRAE		0	0
 2 JAWS, TIBIA, 2 FEMORA, 2 HUMERI, PELVIS, INCISOR, FRAGS		0	0
 2 JAWS, UNASSOCIATED		0	0
+2 juv. Oyster left valves		0	0
 2 L & 1 R EDENTULOUS PARTIAL JAWS; R MAX, P4/-M1/-M2/		0	0
 2 L & 1 R SCAPULAE FRAGS; 1 R SCAPULA FRAG; JUVENILE		0	0
 2 L & 10 R JAWS OR M/1		0	0
@@ -3696,6 +3830,7 @@ ent ethanol		0	0
 2 large palatines with fangs		0	0
 2 LARGE RIB FRAGS		0	0
 2 LARGE RIB PIECES		0	0
+2 Large Rudists		0	0
 2 large shell fragments andone small shell fragment		0	0
 2 LARGE SPECIMENS ON SAME SLAB: SEE ALSO CM25556		0	0
 2 LARGE SPECIMENS ON SAME SLAB: SEE ALSO CM25557		0	0
@@ -3813,6 +3948,7 @@ ent ethanol		0	0
 2 MOLARS: 1 COMPLETE, 1 BROKEN, VERY WORN		0	0
 2 MOLARS; DISTAL END FEMUR; RADIUS; METACARPALS; METATARSALS; 3 CERVICALS		0	0
 2 MOSTLY COMPLETE AND 2 PARTIAL DORSAL VERTEBRAE & ASSOCIATED FRAGMENTS.		0	0
+2 Nautiloid chamber Steinkerns		0	0
 2 neruals, 4 peripherals, 1 plastron element		0	0
 2 NEURAL ARCHES OF ANTERIOR CAUDALS OR SACRALS; & LAST 4 DORSALS & SACRALS 1-4 FOUND PACKAGED ON TOP OF BOX 395 PRESUMABLY BOX 410; 310/G		0	0
 2 neurals + misc shell frags		0	0
@@ -3820,6 +3956,7 @@ ent ethanol		0	0
 2 OSSIFIED PHALANGES | Cast		0	0
 2 osteoderms		0	0
 2 OTOLITHS		0	0
+2 Oyster Steinkerns		0	0
 2 P		0	0
 2 P & FRAGS		0	0
 2 P#/		0	0
@@ -3850,6 +3987,7 @@ ent ethanol		0	0
 2 PARASPHENOIDS		0	0
 2 Partial "sets" of teeth		0	0
 2 PARTIAL CORACOIDS; PARTIAL FEMUR; PARTIAL STERNUM		0	0
+2 partial crabs		0	0
 2 partial humeri, 2 other appendicular elements		0	0
 2 PARTIAL INCISORS		0	0
 2 PARTIAL JAW RAMI		0	0
@@ -3904,6 +4042,7 @@ ent ethanol		0	0
 2 Partial Teeth (Not Associated)		0	0
 2 Partial Vertebrae (eroded)		0	0
 2 partial verts.		0	0
+2 Partial Walking Legs		0	0
 2 PATELLA		0	0
 2 PECTORAL LIMB FRAGS		0	0
 2 pedal phalanges		0	0
@@ -3926,6 +4065,7 @@ ent ethanol		0	0
 2 PHALANX,SCAPHOLUNAR,ASTRAGALUS,CALCANEUM,METATARSAL 5,METACARPAL 3,TOOTH,VERTEBRA,CAUDAL VERTEBRA		0	0
 2 Pickles		0	0
 2 pieces		0	0
+2 pieces (heteromorph)		0	0
 2 pieces (with embedded verts)		0	0
 2 pieces of coprolite		0	0
 2 pieces of jaw bone / incisor teeth		0	0
@@ -3949,6 +4089,7 @@ ent ethanol		0	0
 2 PROXIMAL R HUMERUS		0	0
 2 PROXIMAL ULNA		0	0
 2 PTERYGOID TEETH		0	0
+2 Pyrite Nodules		0	0
 2 QUADRATES; 19 POSTCRANIAL ELEMENTS		0	0
 2 QUADRATES; STERNUM; CORACOIDES; TARSOMETATARSUS; ULNA		0	0
 2 R & 2 L HUMERI; R ILIUM; SEVERAL FRAG PERIPHERALS; COSTALS; NEURALS; & PLASTRAL FRAGS; 1 CERVICAL VERTEBRA		0	0
@@ -4087,6 +4228,7 @@ ent ethanol		0	0
 2 ribs, 1 vert		0	0
 2 RIBS, NEARLY WHOLE		0	0
 2 right lower canine only		0	0
+2 right valves & juv. left valve		0	0
 2 rostra		0	0
 2 rostra, 2 jaw fragments, at least 2 individuals represented		0	0
 2 rostral denticles		0	0
@@ -4109,6 +4251,7 @@ ent ethanol		0	0
 2 SETS, L M/1-M/3, TOPOTYPES		0	0
 2 shell fragments		0	0
 2 Shell Frags		0	0
+2 shells		0	0
 2 SHELLS, LIMB BONES		0	0
 2 Skeletons - 1		0	0
 2 Skeletons - 2		0	0
@@ -4133,8 +4276,10 @@ ent ethanol		0	0
 2 SKULLS, 2 R M1/-M3/, 2 L M1/-M3/		0	0
 2 SKULLS, 3 R JAWS, L JAW		0	0
 2 SKULLS, L JAW, R JAW		0	0
+2 slabs (part & counterpart) a & b		0	0
 2 SLABS WITH FAIRLY GOOD IMPRESSIONS, 1 COMPLETE		0	0
 2 SLABS, MANY TINY FISH		0	0
+2 slabs: part & counterpart invert traces		0	0
 2 small bone fragments		0	0
 2 small bone frags.		0	0
 2 small boxes of small bone frags		0	0
@@ -4147,6 +4292,8 @@ ent ethanol		0	0
 2 small tooth fragments		0	0
 2 small vertebrae		0	0
 2 Small Verts & One Tooth 		0	0
+2 snails		0	0
+2 specimen		0	0
 2 SPECIMENS		0	0
 2 specimens in piece		0	0
 2 SPECIMENS IN SAME BLOCK, SKULL & BODY, PARTIALLY DISARTICULATED (BLOCK BROKEN IN 4 PIECES)		0	0
@@ -4158,6 +4305,8 @@ ent ethanol		0	0
 2 SPINES, ASSOCIATED		0	0
 2 spread wings and 2 dried feet only		0	0
 2 spread wings and 2 dried feet only | tissue		0	0
+2 Steinkern frags.		0	0
+2 Steinkerns		0	0
 2 T#/		0	0
 2 T/#		0	0
 2 T/# & FRAGS		0	0
@@ -4216,9 +4365,10 @@ ent ethanol		0	0
 2 TEETH/, PROX TIBIA EPIPHYSIS		0	0
 2 teeth; lower cheek teeth and lower molar		0	0
 2 terminal caudal vertebrae (small)		0	0
+2 Test Plates		0	0
 2 TIBIA FRAGS		0	0
-2 TIBIA,PATELLA,CALCANEUM,CUBOID,METACARPAL 2 TIBIAE		0	0
-BAR VERTEBRA,CAUDAL VERTEBRA		0	0
+2 TIBIA,PATELLA,CALCANEUM,CUBOID,METACARPAL 5,PHALANX,C,LUMBAR VERTEBRA,CAUDAL VERTEBRA		0	0
+2 TIBIAE		0	0
 2 TIBIAE, 2 FEMORA, PELVIS, OTHER FRAGS		0	0
 2 TIBIAE, FEMUR, ULNA, 2 RADII, OTHER FRAGS; LARGE JUVENILE		0	0
 2 TIBIAE, HUMERUS		0	0
@@ -4230,8 +4380,7 @@ BAR VERTEBRA,CAUDAL VERTEBRA		0	0
 2 tissue and partial skeleton		0	0
 2 tissue, 1 bone and a few wing bones		0	0
 2 tissue, 1 bone and partial skeleton		0	0
-2 tissue, 1 bone, skull and partial skeleton, wing		0	0
-2 tissue, 2 hair, 1 bone		0	0
+2 tissue, 1 bone, skull and partial s2 tissue, 2 hair, 1 bone		0	0
 2 tissue, 2 hair, 1 bone and alcohol		0	0
 2 tissue, 2 hair, 1 bone and fluid		0	0
 2 tissue, 2 hair, 1 bone and partial skeleton		0	0
@@ -4264,6 +4413,8 @@ BAR VERTEBRA,CAUDAL VERTEBRA		0	0
 2 upper molariform teeth		0	0
 2 UPPER MOLARIFORMS | Cast		0	0
 2 upper partial molars		0	0
+2 valve fragments		0	0
+2 valves		0	0
 2 vert		0	0
 2 Vert.		0	0
 2 vertebra 		0	0
@@ -4319,8 +4470,8 @@ BAR VERTEBRA,CAUDAL VERTEBRA		0	0
 2 vertebral frags		0	0
 2 VERTS		0	0
 2 verts (badly eroded)		0	0
-2 Verts (termi2 verts and 2 partial verts		0	0
-gment		0	0
+2 Verts (terminal caudal) and one small bone fragment		0	0
+2 verts and 2 partial verts		0	0
 2 Verts.		0	0
 2 verts. and 9 bone frags. (all badly eroded)		0	0
 2 very large shell fragments		0	0
@@ -4350,6 +4501,7 @@ gment		0	0
 20 alc pouch young only		0	0
 20 EtOH		0	0
 20 Formalin		0	0
+20 fragments		0	0
 20 in 70% EtOH		0	0
 20 in 70% EtOH; 2 in 95% EtOH		0	0
 20 in 70% EtOH; 2 in C&S		0	0
@@ -4443,6 +4595,7 @@ gment		0	0
 214 in 70% EtOH		0	0
 215 EtOH		0	0
 215 in 70% EtOH		0	0
+215 specimen		0	0
 216 in 70% EtOH		0	0
 217 EtOH		0	0
 217 in 70% EtOH		0	0
@@ -4457,7 +4610,8 @@ gment		0	0
 22 incisors, & mandibular frags.		0	0
 22 ISOLATED M/1		0	0
 22 ISOLATED TEETH | Cast		0	0
-22 JAWS, C/#-M22 L & 17 R JAWS &/OR M/1		0	0
+22 JAWS, C/#-M/3; LENGTH: 6.5 MM		0	0
+22 L & 17 R JAWS &/OR M/1		0	0
 22 L & 26 R JAWS OR M/1		0	0
 22 L & 34 R WHOLE OR PARTIAL JAWS MINUS M/1; 10 L & 12 R JAWS, M/1; 25 L & 39 R M/1; SKULL; 3 PALATES; 21 L & 18 R JAWS		0	0
 22 L JAWS		0	0
@@ -4471,6 +4625,7 @@ gment		0	0
 22 MEDIAN & POSTMEDIAN CAUDAL VERTEBRAE WITH A FEW ATTACHED CHEVRONS, DISTAL END R ISCHIUM (POSSIBLY ASSOCIATED)		0	0
 22 PRECAUDAL VERTEBRAE; 2 CAUDAL VERTEBRAE		0	0
 22 SMALL TRAYS CONTAINING MATRIX, BEARING TEETH		0	0
+22 specimen		0	0
 22 teeth		0	0
 22 VERTEBRAE		0	0
 22 vertebral centra: 2 with zygapophyses; ilium, tibia, and 1 other limb element		0	0
@@ -4494,6 +4649,7 @@ gment		0	0
 229 in 70% EtOH		0	0
 229 L JAWS		0	0
 2295 EtOH		0	0
+23 Calyx, Miscellaneous Stem Fragments		0	0
 23 EtOH		0	0
 23 Formalin		0	0
 23 IN 70% ETHANOL, 5 CLEARED AND STAINED		0	0
@@ -4515,6 +4671,7 @@ gment		0	0
 23 POSTCRANIAL ELEMENTS		0	0
 23 R P/3, 19 L P/3, 2 L JAW FRAG WITH P/3		0	0
 23 shell frags		0	0
+23 shells		0	0
 23 TEETH		0	0
 23 whole bodies in 5 % formalin		0	0
 23 whole bodies in 70 percent ethanol		0	0
@@ -4616,6 +4773,7 @@ gment		0	0
 257 in 70% EtOH		0	0
 258 in 70% EtOH		0	0
 259 EtOH		0	0
+26 echinoids		0	0
 26 EtOH		0	0
 26 Formalin		0	0
 26 in 70% EtOH		0	0
@@ -4659,6 +4817,7 @@ gment		0	0
 269 in 70% EtOH		0	0
 27 EtOH		0	0
 27 Formalin		0	0
+27 Fragments		0	0
 27 in 70% EtOH		0	0
 27 in 70% EtOH; 5 in 95% EtOH		0	0
 27 in 70% EtOH; 5 in C&S		0	0
@@ -4704,6 +4863,7 @@ gment		0	0
 28 L JAWS, 15 R JAWS, 8 MAX, 5 SKULLS		0	0
 28 L JAWS, 29 R JAWS, 17 SKULLS		0	0
 28 M2/		0	0
+28 stems		0	0
 28 TEETH		0	0
 280 EtOH		0	0
 281 EtOH		0	0
@@ -4737,6 +4897,7 @@ gment		0	0
 29 podials		0	0
 29 R JAW, 27 L JAWS, 30 SKULL FRAGS		0	0
 29 R JAWS, 28 L JAWS		0	0
+29 specimen		0	0
 29 teeth		0	0
 29 teeth, 3 vertebrae, cartilage		0	0
 29 vertebrae		0	0
@@ -4791,6 +4952,9 @@ gment		0	0
 3 astragali		0	0
 3 ASTRAGALI, CALCANEUM (OR JUST 3 ASTRAGALI?)		0	0
 3 ASTRAGALI, DISTAL HUMERUS		0	0
+3 Barnacle Plates (Gooseneck)		0	0
+3 Bivalve Steinkerns		0	0
+3 bivalve, 1 gastropod		0	0
 3 bone fragments		0	0
 3 bone fragments (one flipper element?)		0	0
 3 bone fragments and one tooth		0	0
@@ -4820,9 +4984,11 @@ gment		0	0
 3 CHEEK TEETH IN MAX FRAG		0	0
 3 COMPLETE BUCKLER SCUTES; 1 PARTIAL BUCKLER SCUTE ; 1 IMBRICATING SCUTE		0	0
 3 coprolites		0	0
+3 corals		0	0
 3 costals		0	0
 3 cranium fragments		0	0
 3 cranium fragments | tissue		0	0
+3 crinoid stems		0	0
 3 CRUSHED VERTEBRAE		0	0
 3 degraded tissue, 2 hair, wing, skull and partial skeleton		0	0
 3 dentaries (one with m/1); 4 molars.		0	0
@@ -4852,6 +5018,7 @@ gment		0	0
 3 FEMORA,2 ULNAE		0	0
 3 fish Vertebrae		0	0
 3 Formalin		0	0
+3 fossils		0	0
 3 FRAG MAX: R P3/-M3/, R M1/-M3/, R P4/-M2/		0	0
 3 FRAG T/#		0	0
 3 FRAG TRUNK VERTEBRAE		0	0
@@ -4860,6 +5027,7 @@ gment		0	0
 3 FRAGS OF 3 DIFFERENT LIMB BONES		0	0
 3 FRAGS OF JAW RAMI		0	0
 3 fused metapodials		0	0
+3 Gastropod Steinkerns		0	0
 3 GOOD FISH		0	0
 3 HEADS, 1 IN A+B		0	0
 3 HUMERI		0	0
@@ -4922,6 +5090,7 @@ gment		0	0
 3 JAWS, JUVENILE		0	0
 3 JAWS, M/#; 1 JAW; 2 M/#		0	0
 3 JAWS; MAX; 162 ISOLATED TEETH		0	0
+3 Jingle Shells		0	0
 3 L & 1 R PARTIAL JAWS WITH M/1, 7 L & 3 R JAWS		0	0
 3 L & 2 R HUMERI, 2 L & 4 R PARTIAL PALATES, 5 L & 5 R JAWS		0	0
 3 L & 2 R MAX FRAGS, 27 WHOLE & FRAG L JAWS		0	0
@@ -5040,6 +5209,7 @@ gment		0	0
 3 larvae in formalin		0	0
 3 lateral proximal phalanges		0	0
 3 LATEX PEELS OF COMPLETE SKELETON; 1 WITH SKULL IN DORSOLATERAL VIEW; THE OTHERS OF SKULL IN VENTRAL VIEW IN DIFFERENT STAGES OF PREPARATION | Cast		0	0
+3 left oyster valves		0	0
 3 LIMB BONES		0	0
 3 LOWER MOLARS		0	0
 3 lumbar vertebrae.	lumbar vertebrae	0	1
@@ -5101,6 +5271,7 @@ gment		0	0
 3 MOLARS, 8 CRANIAL, 12 POSTCRANIAL		0	0
 3 MOLARS, UNASSOCIATED		0	0
 3 MOLARS; I/#; 1 R CALCANEUM; 1 L CALCANEUM; POSTCRANIALS		0	0
+3 Oyster shell frags.		0	0
 3 P#/, 2 M#/, FRAGS, ASSOCIATED		0	0
 3 P#/; FRAG TOOTH		0	0
 3 P/#, 3 M#/ & MISCELLANEOUS, 4 P#/		0	0
@@ -5118,6 +5289,7 @@ gment		0	0
 3 PARTIAL L JAWS, 3 PARTIAL R JAWS, PARTIAL SKULL, 9 MOLARS, 3 INCISORS		0	0
 3 PARTIAL L JAWS, 7 PARTIAL R JAWS, FRAGS		0	0
 3 PARTIAL L JAWS; 2 PARTIAL R JAWS; L MAX, ALL T#/; ISOLATED I/#		0	0
+3 Partial Legs		0	0
 3 PARTIAL PALATES, ISOLATED INCISOR		0	0
 3 PARTIAL PLATES - POSITIVE; 2 IMPRESSIONS		0	0
 3 PARTIAL R DISTAL TIBIOTARSUS; R CORACOID; PROXIMAL L HUMERUS		0	0
@@ -5234,6 +5406,8 @@ gment		0	0
 3 shell fragments		0	0
 3 shell fragments and vertebra		0	0
 3 Shell Frags.		0	0
+3 Shell frags., 8 Steinkern frags.		0	0
+3 shells		0	0
 3 SKELETONS		0	0
 3 SKELETONS ON SLAB		0	0
 3 Skull Fragments		0	0
@@ -5244,11 +5418,15 @@ gment		0	0
 3 slabs with amphibian tracks		0	0
 3 small bone fragments		0	0
 3 small fragments		0	0
+3 snails		0	0
+3 snails, 20 coral		0	0
 3 specimens		0	0
 3 SPECIMENS & CRUSTACEANS ON SAME SLAB		0	0
 3 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED		0	0
 3 specimens; amber cloudy		0	0
+3 spines		0	0
 3 squailcorax teeth + one misc. tooth		0	0
+3 Steinkerns		0	0
 3 T#/ | Cast		0	0
 3 T/#		0	0
 3 T/# | Cast		0	0
@@ -5309,6 +5487,8 @@ gment		0	0
 3 UNASSOC MOLARS		0	0
 3 UPPER INCISOR FRAGS		0	0
 3 upper L cheektooth.	upper left cheekteeth	0	1
+3 Valve Fragments		0	0
+3 valves		0	0
 3 vertebra		0	0
 3 vertebra / 1 partial vertebra		0	0
 3 vertebra | tissue		0	0
@@ -5323,10 +5503,10 @@ gment		0	0
 3 vertebrae (thoracic) in fair shape		0	0
 3 vertebrae | tissue		0	0
 3 Vertebrae and 1 Bone Fragment		0	0
-3 vertebrae and 2 fragements (all thoracic)		0	0
-3 vertebrae and 4 bone fragments		0	0
+3 vertebrae and 2 fragements (all thora3 vertebrae and 4 bone fragments		0	0
 3 vertebrae and several jaw fragments		0	0
-3 vertebrae crus3 vertebrae with large crests, 8 miscellaneous fragments		0	0
+3 vertebrae crushed and eroded		0	0
+3 vertebrae with large crests, 8 miscellaneous fragments		0	0
 3 VERTEBRAE, 2 RIBS, GASTRALIA, METAPODIAL		0	0
 3 vertebrae, 3 teeth, 1 miscellaneous fragment		0	0
 3 Vertebrae, Jaw Fragment, Proximal Humerus, misc. parts		0	0
@@ -5344,6 +5524,7 @@ gment		0	0
 3%FORMALIN		0	0
 3.5 M#/ & INCISOR FRAGS		0	0
 3.5 Vertebrae and 2 teeth		0	0
+30 Echinoid spine frags.		0	0
 30 EtOH		0	0
 30 in 70% EtOH		0	0
 30 in 70% EtOH; 3 in C&S		0	0
@@ -5358,6 +5539,7 @@ gment		0	0
 30 POSTCRANIAL ELEMENTS		0	0
 30 PRECAUDAL VERTEBRAE; 3 CAUDAL VERTEBRAE; R JAW		0	0
 30 R JAWS, 7 R M/1		0	0
+30 shells		0	0
 30 T, APPROXIMATELY		0	0
 30 tiny vertebrae and 3 small bone fragments		0	0
 30 tooth plate fragments		0	0
@@ -5445,6 +5627,8 @@ gment		0	0
 33 L, 26 R JAWS &/OR M/1; 6 L M3/ & 7 R M3/		0	0
 33 M1/, 7 M/3, 2 R JAWS EDENTULOUS		0	0
 33 PRECAUDAL VERTEBRAE		0	0
+33 shells		0	0
+33 specimen		0	0
 33 Teeth		0	0
 33 VERTEBRAE; LIMB BONE; OCCIPITAL CONDYLE; RIB FRAG		0	0
 330 EtOH		0	0
@@ -5603,6 +5787,7 @@ gment		0	0
 4 ASTRAGALI (OR 3?)		0	0
 4 ASTRAGALI, 1 NAVICULAR		0	0
 4 badly eroded centra		0	0
+4 Bivalves		0	0
 4 bone fragments		0	0
 4 bone fragments (1 in matrix) and 2 vertebrae		0	0
 4 bone fragments (skull?)		0	0
@@ -5623,8 +5808,11 @@ gment		0	0
 4 CHEEK TEETH | Cast		0	0
 4 cheekteeth and fragments, fragments dentary.		0	0
 4 cheekteeth, humerus, fragment ulna.		0	0
+4 clams		0	0
+4 claw frags.		0	0
 4 CLAWS OF THE MANUS		0	0
 4 COMPLETE SHELLS IN BLOCK OF MATRIX		0	0
+4 Crab Pieces		0	0
 4 DECIDUOUS TEETH		0	0
 4 DENTICLES		0	0
 4 DISTAL FEMORA, 3 PROXIMAL FEMORA		0	0
@@ -5646,6 +5834,7 @@ gment		0	0
 4 fetal skulls		0	0
 4 FISH ON SAME SLAB		0	0
 4 flipper bones, 1 vertebra, 1 miscellaneous		0	0
+4 forams		0	0
 4 Formalin		0	0
 4 FRAG T/# IN JAW FRAGS		0	0
 4 Fragments		0	0
@@ -5653,6 +5842,8 @@ gment		0	0
 4 Frags		0	0
 4 FRAGS OF JAW RAMI		0	0
 4 FRAGS WITH 2 TEETH EACH		0	0
+4 Gastropod Steinkerns		0	0
+4 Gorgonian axis frags.		0	0
 4 HEAD PLATES		0	0
 4 I		0	0
 4 in 70% EtOH		0	0
@@ -5811,6 +6002,7 @@ gment		0	0
 4 pieces of cartilage		0	0
 4 pieces of chalk matrix with embedded fish bones		0	0
 4 PIECES OF DENTAL APPARATUS		0	0
+4 Pieces of Wood Replaced by Teredina		0	0
 4 PRECAUDAL VERTEBRAE		0	0
 4 PREMOLARS		0	0
 4 PROXIMAL ANTLER		0	0
@@ -5855,6 +6047,7 @@ gment		0	0
 4 SETS ISOLATED MOLARS		0	0
 4 SHED TEETH, 1 A+B		0	0
 4 Shell Fragments + 3 Flipper Elements		0	0
+4 shells		0	0
 4 Skull/ Vertebral Frags		0	0
 4 SKULLS		0	0
 4 SKULLS & FRAGS		0	0
@@ -5863,6 +6056,8 @@ gment		0	0
 4 SKULLS; 8 ROSTRUMS WITH PALATE		0	0
 4 small jaw fragments		0	0
 4 SMALL ROCK FRAGS CONTAINING FOSSIL GANOID SCALES		0	0
+4 Snail steinkerns		0	0
+4 snails		0	0
 4 specimens		0	0
 4 SPINES. THERE IS A SYSTEMATIC CARD FOR THIS NUMBER UNDER ORTHACANTHUS COMPRESSUS.		0	0
 4 spines/stingers		0	0
@@ -5896,6 +6091,7 @@ gment		0	0
 4 tooth plates		0	0
 4 toothplate teeth		0	0
 4 TRIANGLES		0	0
+4 trilobites		0	0
 4 TRUNK VERTEBRAE		0	0
 4 UPPER MOLARS		0	0
 4 UPR CHEEK TEETH,I/		0	0
@@ -6107,6 +6303,8 @@ gment		0	0
 5 ARTICULATED CAUDAL VERTEBRAE		0	0
 5 ARTICULATED POSTERIOR CERVICALS (OR PERHAPS 4 CERVICALS & FIRST DORSAL) OF MEDIUM-SIZED ANIMAL		0	0
 5 astragali		0	0
+5 belemnites in matrix		0	0
+5 Bivalve Steinkerns		0	0
 5 Bone / Shell Fragments		0	0
 5 bone fragments		0	0
 5 bone fragments | tissue		0	0
@@ -6121,9 +6319,11 @@ gment		0	0
 5 CERVICAL VERTEBRAE 5 IN SERIES INCLUDING ATLAS		0	0
 5 CERVICALS & RIB		0	0
 5 CHEEK T/#		0	0
+5 clams		0	0
 5 CLAWS		0	0
 5 claws from left flipper	5 claws from left flipper	1	0
 5 coprolites		0	0
+5 Crab Claw Frags.		0	0
 5 DENTARY FRAGS. W TEETH		0	0
 5 distal humerus frags		0	0
 5 DISTAL PHALANGES		0	0
@@ -6252,6 +6452,7 @@ gment		0	0
 5 MOLARS		0	0
 5 MOLARS, 1 ASTRAGALUS		0	0
 5 MOUNTED TEETH		0	0
+5 Nautiloid Steinkerns		0	0
 5 nests only		0	0
 5 nests only | tissue		0	0
 5 OSTEOSCUTES		0	0
@@ -6277,8 +6478,10 @@ gment		0	0
 5 pedal phalanges		0	0
 5 pedal phalanges | tissue		0	0
 5 phalanges		0	0
+5 pieces		0	0
 5 pieces of cartilage		0	0
 5 pieces of coprolite		0	0
+5 poor phosphatic Bivalve Steinkerns		0	0
 5 PRECAUDAL VERTEBRAE		0	0
 5 R JAW, PARTIAL PALATE, R MAX, FEMUR		0	0
 5 R JAWS		0	0
@@ -6310,11 +6513,15 @@ gment		0	0
 5 shark vert		0	0
 5 Shell Fragments		0	0
 5 Shell Frags		0	0
+5 shells		0	0
 5 SKIN PLATES		0	0
 5 SKULLS		0	0
 5 SKULLS, 16 PALATES, 6 R MAX, 2 L MAX		0	0
 5 SKULLS, 4 PALATES		0	0
 5 SKULLS, 4 R M1/, 3 R M2/, 2 R M3/, 4 L M1/-M3/		0	0
+5 small Uncoiled Ammonite Steinkerns		0	0
+5 snails		0	0
+5 specimen		0	0
 5 SPECIMENS IN ALCOHOL, 2 CLEARED AND STAINED		0	0
 5 spine fragments		0	0
 5 T#/		0	0
@@ -6363,6 +6570,7 @@ gment		0	0
 50 in 70% EtOH; 4 in 95% EtOH		0	0
 50 L JAWS, 48 R JAWS		0	0
 50 phalanges		0	0
+50 specimens		0	0
 50 teeth		0	0
 50 TRUNK VERTEBRAE; R PALATINE		0	0
 50 VERTEBRAE		0	0
@@ -6473,6 +6681,8 @@ gment		0	0
 6 ASSOCIATED TEETH		0	0
 6 Associated Vertebrae (1 Thoracic, 4 Intermediate Caudals, 1 Terminal Caudal, and 1 vertebral Fragment)		0	0
 6 astragali		0	0
+6 Bivalve Steinkerns		0	0
+6 blastoids		0	0
 6 bone fragments		0	0
 6 bone fragments | tissue		0	0
 6 bones/fragments including 1 very large fragment		0	0
@@ -6495,6 +6705,7 @@ gment		0	0
 6 Formalin		0	0
 6 fragments		0	0
 6 FRAGS		0	0
+6 Gooseneck pieces *		0	0
 6 HUMERUS; 1 CARPOMETACARPUS; 2 SCAPULA; 7 CORACOID		0	0
 6 I#/, 4 I/#, PARTIAL PALATE		0	0
 6 in 70% EtOH		0	0
@@ -6509,6 +6720,7 @@ gment		0	0
 6 in 95% EtOH		0	0
 6 in C&S		0	0
 6 INCISORS		0	0
+6 internal molds		0	0
 6 ISOLATED TEETH		0	0
 6 ISOLATED TEETH, M#/, M/#		0	0
 6 ISOLATED UPPER INCISORS		0	0
@@ -6608,7 +6820,9 @@ gment		0	0
 6 R M2/		0	0
 6 R MAX, 5 L MAX		0	0
 6 rib fragments, 1 vertebra		0	0
+6 Shell fragments		0	0
 6 SHELL FRAGS		0	0
+6 shells		0	0
 6 SKULLS		0	0
 6 SMALL BLOCKS, WITH TEETH		0	0
 6 small vertebrae		0	0
@@ -6630,6 +6844,8 @@ gment		0	0
 6 TRUNK VERTEBRAE		0	0
 6 TRUNK VERTEBRAE; L JAW		0	0
 6 upper cheekteeth, 1 L P2/.		0	0
+6 valve fragments		0	0
+6 valves		0	0
 6 various shark teeth		0	0
 6 vertebra		0	0
 6 vertebra | tissue		0	0
@@ -6648,6 +6864,7 @@ gment		0	0
 6 whole bodies 10 percent formalin		0	0
 6 whole bodies in 10 percent formalin		0	0
 6 whole bodies in 5% formalin		0	0
+6 worm tube Steinkerns		0	0
 6" SEGMENT OF BODY WITH ARTICULATED VERTEBRAE; RIBS & GASTRALIA; A+B		0	0
 60 EtOH		0	0
 60 in 70% EtOH		0	0
@@ -6738,13 +6955,17 @@ gment		0	0
 7 ARTICULATED TEETH, A+B; SECTIONED		0	0
 7 ASTRAGALI		0	0
 7 bone fragments		0	0
+7 Brachiopods		0	0
 7 cervical vertebrae, bone fragments		0	0
+7 complete and partial valves		0	0
 7 coprolites		0	0
+7 crinoids		0	0
 7 dermal denticles		0	0
 7 eggs		0	0
 7 eggs | tissue		0	0
 7 EtOH		0	0
 7 Formalin		0	0
+7 fragments		0	0
 7 fragments; including: dorsal vertebra, ilium, peripherial, & quadrate		0	0
 7 FRAGS WITH TEETH		0	0
 7 general trunk vertebrae		0	0
@@ -6834,8 +7055,11 @@ gment		0	0
 7 R M/1		0	0
 7 R MAX, 7 L MAX		0	0
 7 R P/3, 1 L P/3, 4 L DISTAL HUMERI, 7 CALCANEA		0	0
+7 shell fragments		0	0
+7 shells		0	0
 7 SKIN PLATES		0	0
 7 SKULLS		0	0
+7 specimen		0	0
 7 sternum fragments		0	0
 7 sternum fragments | tissue		0	0
 7 tadpoles		0	0
@@ -8156,6 +8380,7 @@ gment		0	0
 71 in 70% EtOH		0	0
 71 in 70% EtOH; 2 in C&S		0	0
 71 L JAWS WITH AT LEAST M/1 IN PLACE		0	0
+71 specimens		0	0
 71 WHOLE OR PARTIAL R JAWS		0	0
 711 EtOH		0	0
 72 EtOH		0	0
@@ -8241,8 +8466,11 @@ gment		0	0
 8 EtOH		0	0
 8 Feathers		0	0
 8 Formalin		0	0
+8 fragments		0	0
 8 Fragments of Skull and Jaw with Teeth		0	0
 8 FRAGS		0	0
+8 frags. Irregular Sea Urchin 		0	0
+8 Ghost Shrimp Chela frags.		0	0
 8 in 70% EtOH		0	0
 8 in 70% EtOH; 1 in 95% EtOH		0	0
 8 in 70% EtOH; 1 in C&S		0	0
@@ -8310,6 +8538,7 @@ gment		0	0
 8 PARTIAL SKULLS		0	0
 8 PARTIAL SKULLS, 3 R MAX, 1 L MAX		0	0
 8 pharyngeal teeth		0	0
+8 pieces		0	0
 8 podials		0	0
 8 PRECAUDAL VERTEBRAE		0	0
 8 R DP/4 OR P/4		0	0
@@ -8323,8 +8552,11 @@ gment		0	0
 8 right acrocoracoid tips		0	0
 8 segments of fused tiny vertebrae, 1 miscellaneous fragment		0	0
 8 shell fragments (bad shape)		0	0
+8 shells		0	0
 8 SKULLS		0	0
 8 SKULLS, PALATE		0	0
+8 specimen		0	0
+8 Specimens		0	0
 8 SPECIMENS IN ALCOHOL, 1 CLEARED AND STAINED		0	0
 8 tadpoles only		0	0
 8 Tail Feathers only		0	0
@@ -8335,6 +8567,7 @@ gment		0	0
 8 TEETH/		0	0
 8 TRUNK VERTEBRAE		0	0
 8 TRUNK VERTEBRAE; 1 L COMPOUND		0	0
+8 unassociated crab fragments		0	0
 8 vertebra fragments		0	0
 8 VERTEBRAE		0	0
 8 VERTEBRAE & RIBS, STREWN		0	0
@@ -9393,6 +9626,7 @@ acromium, scapula-coracoid		0	0
 adult jaw		0	0
 adult left hypoplastron		0	0
 ADULT MALE, ANTLERS & FRONTAL BONES; ENTIRE SKELETON PRESENT BUT NOT SAVED; C-14 DATE RUN ON UNCHARRED FEMUR & TIBIA: C-14 DATE (I-650)>1, 150+/-100 YRS BP. GIFT OF PENNSYLVANIA GAME COMMISSION.		0	0
+Advanced Oyster, shell, & Steinkern		0	0
 aenig. long costa		0	0
 AGATIZED FRAG OF INTERIOR OF DAEMONELIX		0	0
 Air bladder + alimentary canal (in spirit)		0	0
@@ -11249,6 +11483,7 @@ altas vertebra		0	0
 alular phalanx		0	0
 alular phalanx | tissue		0	0
 ambergris		0	0
+Ammonite		0	0
 amniote trackway		0	0
 amphibian tracks		0	0
 amphibian tracks and fern pinnules		0	0
@@ -11304,6 +11539,7 @@ ANGULARS, A+B		0	0
 ANGULARS, NC		0	0
 Angulars.		0	0
 ANGULOSPLENIALS (LOT #)		0	0
+Animal burrows		0	0
 animal sencer		0	0
 animal sencer (alcohol etílic 100º)		0	0
 animal sencer (alcohol etílic 70º amb 4% glicerina)		0	0
@@ -12277,6 +12513,7 @@ approximately 25 isolated teeth, most fragmentary; several types: at least 3 spe
 APPROXIMATELY 31 POSTCRANIAL & 7 CRANIAL FRAGS		0	0
 Approximately 6-inch segment antler.		0	0
 Approximately half R calcaneum.		0	0
+arachnid impression		0	0
 Arborichnus Tracks		0	0
 Archbold, Greenway & Rand		0	0
 Arizona		0	0
@@ -12292,6 +12529,7 @@ art		0	0
 art. surface limb - from card cat.		0	0
 Arterial arches (in spirit)		0	0
 Arterial system (in spirit)		0	0
+arthropod tracks		0	0
 artial skel, tissue,M		0	0
 ARTICUALTED HEAD IN LATERAL VIEW, NC		0	0
 Articular		0	0
@@ -12616,8 +12854,10 @@ Assorted Bone Fragments		0	0
 assorted bone frags, limbs, vertebrae		0	0
 assorted bones		0	0
 assorted cranial+dentary fragments		0	0
+Assorted Echinoidea		0	0
 assorted elements		0	0
 assorted fragments, including at least one basicranial fragment		0	0
+Assorted Invertebrate Traces		0	0
 assorted jaw fragments I-p/3		0	0
 ASSORTED JAWS		0	0
 ASSORTED JAWS; 2 M#/		0	0
@@ -12919,6 +13159,7 @@ Atlas.	atlas	0	1
 ATLAS; FORE & HIND FOOT FRAGS		0	0
 ATLAS+AXIS		0	0
 ATLASES		0	0
+Attached Oysters on Inoceramus		0	0
 attacking host		0	0
 Attenosaur track		0	0
 Attenosaur track with tail drag and invertebrate traces		0	0
@@ -13457,6 +13698,7 @@ BACK OF SKULL, A+B		0	0
 BACK-BROKEN DORSAL & CAUDAL COLUMN, JUVENILE, IN COUNTERPART		0	0
 BACU		0	0
 BACULA		0	0
+Baculites (1 piece)		0	0
 Baculum	baculum	1	1
 baculum  (complete); postcranial skeleton (complete); skull (complete)		0	0
 baculum  (complete); postcranial skeleton (partial); skin (round); skull (complete)		0	0
@@ -13597,6 +13839,8 @@ banyes (sec)		0	0
 barb		0	0
 Barbara Heller		0	0
 barbes (sec)		0	0
+Barnacle Plates		0	0
+Barnacle Plates (6 carinae)		0	0
 BARREL		0	0
 BARREL, tissue		0	0
 BASAL PART OF SKULL		0	0
@@ -13730,6 +13974,16 @@ BirdPrep - 1	BirdPrep - 1	0	1
 BIRD'S NEST WITH 4 EGGS; COMPLETE ENCRUSTED IN CALCITE; ALMOST CERTAINLY FROM A CAVE		0	0
 bite marks on ammonite shell		0	0
 bits of bone		0	0
+Bivalve Fragments		0	0
+Bivalve prismatic calcite middle layer of frags.		0	0
+Bivalve shell frags.		0	0
+Bivalve shells		0	0
+Bivalve shells (2)		0	0
+Bivalve Steinkern		0	0
+Bivalve Steinkerns		0	0
+Bivalve Steinkerns (2)		0	0
+Bivalve trace		0	0
+Bivalve/Gastropod coprolites		0	0
 Bjorkman, E.		0	0
 BLADE (P/4) | Cast		0	0
 blade frags		0	0
@@ -13882,8 +14136,7 @@ bone fragment, Rt. Astragulus		0	0
 bone fragment, tooth, other girdle element, large		0	0
 Bone fragment.		0	0
 bone fragments		0	0
-Bone fragments (box)		0	0
-Bone fragments (mammal) + teeth (right canine)		0	0
+Bone fragments (Bone fragments (mammal) + teeth (right canine)		0	0
 Bone fragments (ornamented)		0	0
 Bone fragments (unornamented)		0	0
 Bone fragments and crumbs		0	0
@@ -13944,8 +14197,8 @@ BONE HASH INCLUDING TWO OPERCULAR BONES		0	0
 Bone hash, scale		0	0
 bone hash, scale, fin		0	0
 bone impressions		0	0
-bone in bone in matrix		0	0
-ings)		0	0
+bone in lungfish burrow (fillings)		0	0
+bone in matrix		0	0
 bone in nodules		0	0
 BONE LARGE		0	0
 bone process?		0	0
@@ -14068,7 +14321,9 @@ bottom right P4		0	0
 BOWE FRAG		0	0
 box of badly weathered centra		0	0
 Box of Miscellaneous sharks teeth (around 57)		0	0
-BRAIN		Brain (in spirit)		0	0
+brachiopods and crinoids		0	0
+BRAIN		0	0
+Brain (in spirit)		0	0
 BRAIN | Cast		0	0
 Brain + heart (in spirit)		0	0
 Brain + olfactory organs (in spirit)		0	0
@@ -14159,6 +14414,8 @@ BRANCHIAL PLATE		0	0
 BRANCHIAL PLATE FRAG		0	0
 Branchial strainers		0	0
 BRANCHIAL T, A+B		0	0
+Branching Bryozoa		0	0
+Branching Type (contaminant?)		0	0
 BRANCHIOSTEGAL 1		0	0
 BRANCHIOSTEGAL RAY		0	0
 BRANCHIOSTEGAL RAYS		0	0
@@ -14174,6 +14431,7 @@ BRIDGE PERIPHERALS		0	0
 bridge peripherals w plastron frag		0	0
 Broken		0	0
 Broken (in spirit)		0	0
+Broken almost complete ammonite		0	0
 BROKEN BITS OF CUSPS OF TEETH		0	0
 BROKEN CHEEK T/#		0	0
 BROKEN FRAG OF SOMEWHAT DECOMPOSED IVORY REPRESENTING A LARGE TUSK, PROBABLY FROM ABOUT THE MIDDLE OF THE TUSK, WHICH MAY HAVE HAD A DIAMETER OF 5 OR 6 INCHES		0	0
@@ -14241,6 +14499,7 @@ Bryant, G. 235		0	0
 Bryant, G. 236		0	0
 Bryant, G. 97		0	0
 Bryant, G. 98		0	0
+Bryozoans (3)		0	0
 BS	body skeleton	0	1
 BS - 1		0	0
 BS | No		0	0
@@ -14323,6 +14582,7 @@ burrow-ribs and plates		0	0
 burrows		0	0
 burrows in many pieces		0	0
 burrows, associated with VP 3162		0	0
+burrows, striations		0	0
 BUTTRESS FRAG		0	0
 C		0	0
 C & S		0	0
@@ -16006,6 +16266,7 @@ CARPUS		0	0
 Carpus (incomplete) + metacarpals		0	0
 Carpus?		0	0
 CARPUSMETACARPUS		0	0
+Carrier Shell Steinkern		0	0
 CARTILAGE		0	0
 CARTILAGE & T, 9 PIECES & FRAGS		0	0
 Cartilage (Many Pieces)		0	0
@@ -16038,6 +16299,7 @@ Cast of  brain cavity (posterior portion)		0	0
 Cast of  braincase		0	0
 Cast of  maxilla		0	0
 cast of 6th peripheral carapace		0	0
+Cast of a clam shell		0	0
 Cast of a group of small foetal specimens		0	0
 Cast of a metapodial		0	0
 Cast of a nearly complete animal		0	0
@@ -16806,6 +17068,7 @@ CF. SKULL PART.		0	0
 Cf. stylohyoid.		0	0
 CF. SUPRAPYGAL.		0	0
 Cf. ungual phalanx.		0	0
+Chamber Steinkern Frag.		0	0
 charred bone fragment		0	0
 Check -- probably vertebra.		0	0
 CHEEK & 1ST DORSAL, A+B		0	0
@@ -16966,6 +17229,8 @@ CHEEKTOOTH, NO LINGUAL SIDE, UPPER L		0	0
 Cheektooth.		0	0
 CHEEKTOOTH; DENTARY FRAG		0	0
 CHEEKTOOTH; DENTARY P/4 M/1-2 L		0	0
+chela "discs"		0	0
+Chela Frags.		0	0
 Cheloniid Peripheral (frags)		0	0
 Cheney, P. W.		0	0
 Cheney, P. W. 084		0	0
@@ -17105,6 +17370,7 @@ CHEVRONS 11, 12, 13 | Cast		0	0
 CHEWED SKELETON		0	0
 CHHEK TOOTH		0	0
 CHIMAEROID SPINE		0	0
+Chitin frags.		0	0
 CHONDOCRANIUM & JAWS		0	0
 CHONDOCRANIUM.		0	0
 chondral bone		0	0
@@ -17233,6 +17499,7 @@ cleithrum?		0	0
 Cleithrum? fragment		0	0
 CLEVICLE		0	0
 Clint Dose		0	0
+Clionid Sponge boring fillings		0	0
 Cloaca + penis, dissected (in spirit)		0	0
 CLOACAL BONES (DRY)	cloacal bones	0	1
 Cloacal region + vestigial limbs (in phenoxetol)		0	0
@@ -17881,6 +18148,7 @@ COPROLITES, SOME WITH MAMMAL BONE FRAGS		0	0
 COPROLITES,BONE FRAGS		0	0
 COPROLITIC INDIVIDUAL, A+B		0	0
 COPROLTES		0	0
+Coquina indurated shell hash		0	0
 cor (alcohol etílic 70º amb 4% glicerina) | tissue		0	0
 cor (alcohol etílic 96º) | tissue		0	0
 Coracoid		0	0
@@ -18092,6 +18360,15 @@ COUNTERPARTS: FRAG, NO HEAD, A+B		0	0
 C-P1/		0	0
 C-P2/,/P3-P4		0	0
 CP4/		0	0
+Crab carapace frags (2)		0	0
+Crab carapace steinkern		0	0
+Crab Claw		0	0
+Crab Claw (1 piece)		0	0
+Crab Claw Fragments		0	0
+Crab Claws		0	0
+Crab claws (3)		0	0
+Crab Gastons		0	0
+Crab Pieces		0	0
 Cráneo	skull	0	1
 Cràneo	skull	0	1
 Cráneo y Esqueleto	skeleton | skull	0	1
@@ -18633,6 +18910,9 @@ CRANIUM+INCOMPL SKELETON		0	0
 cranium+l dentary		0	0
 CRANIUM+PALATE		0	0
 cranium+r dentary		0	0
+crescentric impressions		0	0
+crinoid columnal and Pentremites Calyx		0	0
+Crinoidal Chert and Crinoid stems		0	0
 Croatulus stomach contents		0	0
 crown of r p3		0	0
 CROWNS OF 2 TEETH		0	0
@@ -18652,8 +18932,14 @@ CRUSHED SKULL, JAWS, SKELETAL FRAGS		0	0
 CRUSHED SKULL, JAWS, TIBIA, FEMUR, HIND TOE BONES		0	0
 CRUSHED SKULL, R M1/-M3/; L P4/-M3/		0	0
 crushing tooth		0	0
+Crustacean chela "disc"		0	0
+Crustacean chela frags.		0	0
 CS		0	0
+Ctenerpeton trace		0	0
 Ctenoid-type scale fragments		0	0
+Cternepeton trace		0	0
+Cternepeton trace with bivalve (?) trace		0	0
+Cternepeton traces		0	0
 CTH		0	0
 CTH ER5		0	0
 CTH FRAG		0	0
@@ -19136,6 +19422,7 @@ D.Ryba & G.D.Alcorn		0	0
 D.Takahashi 07/G.Shugart		0	0
 D?C1/		0	0
 D3, D4, ASSOCIATED WITH CM 2549		0	0
+Dactyl & fixed finger frags.		0	0
 DAEMONELIX WITH STENEOFIBER (PALAEOCASTOR)		0	0
 Dakour, J. 005		0	0
 Dalquest, W.		0	0
@@ -23075,6 +23362,10 @@ EARBONE		0	0
 EARBONE ?		0	0
 ears		0	0
 Eben McMillan		0	0
+Echinoid plates (3 pieces)		0	0
+Echinoid Plates (ambulacral area)		0	0
+Echinoid Spines		0	0
+Echinoid Spines (2)		0	0
 ectocuneiform		0	0
 ECTO-CUNEIFORM		0	0
 ECTOCUNEIFORM ?		0	0
@@ -23395,13 +23686,17 @@ EGGSHELL FRAGS		0	0
 eggshells		0	0
 eggshells and 3 embryos in 70 percent ethanol		0	0
 EIGHT ANTERIOR CAUDAL VERTEBRAE, THE FIRST TWO OF WHICH ARE ONLY NEURAL SPINES		0	0
+Eight barnacles		0	0
+Eight Bivalve Steinkerns		0	0
 Eight bone Frags (jaw)		0	0
 EIGHT FRAGMENTS UNDETERMINED ELEMENTS.		0	0
 Eight Miscellaneous bones		0	0
 EIGHT MISCELLANEOUS UNDET.		0	0
+Eight Partial Pieces		0	0
 Eight pathologic teeth		0	0
 Eight Pieces		0	0
 Eight scutes		0	0
+Eight specimens		0	0
 Eight teeth		0	0
 Eight Teeth (Varying Sizes)		0	0
 Eight tooth fragments		0	0
@@ -32535,6 +32830,7 @@ EXOCCIPITALS		0	0
 EXOSKELETON FRAGS FOUND ASSOCIATED WITH DERMAL PLATES OF STEREOCEPHALUS		0	0
 EXPOSED SPECIMEN, BODY WITH CRUSHED SKULL		0	0
 External auditory area.		0	0
+External cast		0	0
 external mould of partial molar		0	0
 Extra uterine gestation (in spirit)		0	0
 EXTRALATERAL PLATE		0	0
@@ -33357,21 +33653,27 @@ Fish-bed (piece)		0	0
 fissure fills		0	0
 Five Antler Cores		0	0
 five assorted elements		0	0
+Five Bivalve Steinkerns		0	0
 five Bone Fragments		0	0
 Five bones		0	0
 five cheek teeth		0	0
 FIVE DORSAL VERTEBRAE, ARTICULATED		0	0
+Five endocasts		0	0
 Five fragments		0	0
 Five gar scales		0	0
 Five intermediate caudal vertebrae, one terminal caudal, one neural arch, and nine miscellaneous bone fragments		0	0
 five isolated cheek teeth		0	0
 FIVE METAPODIALS, ASSOCIATION UNCERTAIN		0	0
 Five osteoscutes		0	0
+Five Partial		0	0
+Five partial shells		0	0
 Five pieces		0	0
 Five scales		0	0
 Five Scute Fragments		0	0
 Five Shell Fragments		0	0
+Five shells		0	0
 Five skull fragments		0	0
+Five Steinkerns		0	0
 Five teeth		0	0
 Five teeth fragments		0	0
 FIVE TIBIOFIBULA, PARTIAL		0	0
@@ -35579,8 +35881,11 @@ FOSSETTE		0	0
 Fossette area of upper cheek tooth.		0	0
 fossil		0	0
 FOSSIL EGG		0	0
+Fossiliferous cherty limestone		0	0
+Fossiliferous limestone		0	0
 FOSSILIZED BRAIN		0	0
 fossils		0	0
+Fossils from Upper Layer		0	0
 Fötter		0	0
 FOUND PARTLY EMBEDDED		0	0
 Four Bone Fragments		0	0
@@ -35589,10 +35894,12 @@ FOUR CAUDAL VERTEBRAE OF UNCERTAIN ASSOCIATION		0	0
 FOUR CAUDALS		0	0
 FOUR CERVICAL VERTEBRAE.		0	0
 FOUR COPROLITES		0	0
+Four Echinoids		0	0
 Four fish teeth 		0	0
 Four flipper elements		0	0
 Four Flipper Frags		0	0
 Four foetuses attached to one placenta (in spirit)		0	0
+Four fragments		0	0
 FOUR FRAGMENTS OF SHELL.		0	0
 four I		0	0
 four individuals in this piece		0	0
@@ -35606,6 +35913,7 @@ Four large pieces of bone, shark teeth, and ray teeth.		0	0
 FOUR LIMB BONE FRAGMENTS		0	0
 four mandibular frags with cheek teeth		0	0
 four molars		0	0
+Four partial shells		0	0
 Four partial teeth		0	0
 FOUR PHALANGES.		0	0
 Four Pieces		0	0
@@ -35616,6 +35924,7 @@ Four scales		0	0
 Four Scute Fragments		0	0
 Four shell fragments		0	0
 Four Shell Frags.		0	0
+Four Shells		0	0
 four specimens		0	0
 Four spine fragments		0	0
 Four teeth		0	0
@@ -35626,6 +35935,7 @@ Four tooth fragments		0	0
 FOUR VERTEBRAE AND SERIES OF ARTICULATED SCALES		0	0
 FOUR VERTEBRAE.	vertebrae - 4	0	1
 Four vertebral fragments		0	0
+Fourteen colonies / "screws"		0	0
 Fourteen Skull Fragments		0	0
 Fourteen Teeth		0	0
 Fourteen tooth fragments		0	0
@@ -36082,6 +36392,7 @@ fragments including skull and vertebrae		0	0
 Fragments L dentary i/1; 4 cheekteeth.		0	0
 FRAGMENTS L DENTARY P/2, M/1-M/2-M/3		0	0
 FRAGMENTS L DENTARY P/4-M/1		0	0
+Fragments of a test		0	0
 FRAGMENTS OF BODY & HEAD		0	0
 Fragments of carapace.		0	0
 Fragments of cheekteeth.		0	0
@@ -38881,6 +39192,8 @@ gastrolith, coprolite		0	0
 gastrolith, coprolite, miscellaneous fragments		0	0
 GASTROLITHS		0	0
 GASTROLITHS,TEETH,OSTEODERM		0	0
+Gastropod Steinkern		0	0
+Gastropod Steinkerns		0	0
 Genbank - 1; Feather - 1; Skin - 1; Genbank - 1	Genbank - 1 | feather - 1 | skin - 1 | Genbank - 1	0	1
 Genbank - 1; Feather - 1; Tissue - 1; Skel - 1; Genbank - 1	Genbank - 1 | feather - 1 | tissue - 1 | skeleton - 1 | Genbank - 1	0	1
 Genbank - 1; Feather - 2; Genbank - 2	Genbank - 1 | feather - 2 | Genbank - 2	0	1
@@ -39033,6 +39346,15 @@ Genitalia (in spirit)		0	0
 George Benson		0	0
 GG		0	0
 GHCH		0	0
+Ghost Shrimp Abdomen Frag.		0	0
+Ghost Shrimp ant. carapace		0	0
+Ghost Shrimp burrow filling frags.		0	0
+Ghost Shrimp Carapace		0	0
+Ghost Shrimp Carapaces		0	0
+Ghost Shrimp chela		0	0
+Ghost Shrimp chela & dactyl		0	0
+Ghost Shrimp chela (44, 3 with attached dactyles)		0	0
+Ghost shrimp walking legs frags.		0	0
 GIANT INCISOR		0	0
 Gift - 1		0	0
 GIFT TO ERIC HILTON		0	0
@@ -39254,6 +39576,16 @@ GOOD; DISSECTED/70% ETHANOL; 8 MISSING*		0	0
 GOOD; DISSECTED;DAMAGED*/70% ETOH; LARGE JAR		0	0
 GOOD; GLYCERINE		0	0
 GOOD; HEAD ONLY/70% ETHANOL		0	0
+Gooseneck Barnacle		0	0
+Gooseneck Barnacle (tergum)		0	0
+Gooseneck Barnacle carina		0	0
+Gooseneck Barnacle Carina frag.		0	0
+Gooseneck Barnacle Plate		0	0
+Gooseneck Barnacle scuta frags.		0	0
+Gooseneck Barnacle upper lata		0	0
+Gorgonian (soft coral) axes		0	0
+Gorgonian (soft coral) axes frag.		0	0
+Gorgonian axes		0	0
 Goudy, A. B.		0	0
 Gravid uterus (in spirit)		0	0
 GREATER ANTERO-PORTION OF RIGHT LOWER JAW.		0	0
@@ -39882,6 +40214,7 @@ Hemipenis, Fluid, Fluid	fluid | hemipenis	0	1
 Hemipenis, Fluid, Fluid, Dry	dry | fluid | hemipenis	0	1
 Hemipenis, Microtechnique, Fluid	fluid | hemipenis | microtechnique	0	1
 Hemipenis, Tissue, Dry	dry | hemipenis | tissue	0	1
+Heteromorph ammonite Steinkern frag.		0	0
 hide		0	0
 Hide - 2		0	0
 Hide (17 inches x 16 inches)		0	0
@@ -39907,6 +40240,7 @@ hide, skull		0	0
 hide, skull, pelvis		0	0
 hide, skull, tooth, baculum		0	0
 Hígado EtOH		0	0
+High-Spired Snail Steinkern frags.		0	0
 HIND CUNEIFORM		0	0
 HIND FOOT		0	0
 HIND FOOT BONES		0	0
@@ -39986,6 +40320,7 @@ HN		0	0
 HO	head	0	1
 HOLOTYPE JAW, R P/4, L P/3, M/2 & POSTCRANIA		0	0
 HOLOTYPE R DENTARY WITH P/3-P/4		0	0
+holotype, longitudinal striation		0	0
 Hoof		0	0
 Hoof (right)		0	0
 hooves		0	0
@@ -40079,6 +40414,8 @@ horns only  (skin discarded 2000)		0	0
 horns only (skin discarded 2000)		0	0
 horns, skullcap, foot		0	0
 Hörselgång		0	0
+horseshoe crab track		0	0
+horseshoe crab tracks		0	0
 host Plebeia sp.  6, PT		0	0
 HP	shmoo | partial skeleton	0	1
 HP | tissue	partial skeleton | shmoo | tissue	0	1
@@ -40939,6 +41276,7 @@ IMPERFECT TELEOST SKELETON		0	0
 IMPERFECT, POOR IMPRESSION		0	0
 IMPORTANT SKULL, A+B		0	0
 impression		0	0
+Impression and counter impression of a small insect wing (2 pieces)		0	0
 IMPRESSION COMPLETE		0	0
 IMPRESSION IN CONCRETION		0	0
 IMPRESSION IN DARK SANDY SHALE		0	0
@@ -40980,6 +41318,8 @@ in copula pair, PT		0	0
 in drawer in main collection		0	0
 in lungfish burrows		0	0
 in nodules		0	0
+Inarticulate Brachiopod valve		0	0
+Inarticulate Brachiopod valve frags.		0	0
 INCICIORS IN PREMAXILLA FRAGS		0	0
 inciscor		0	0
 incisiform		0	0
@@ -41548,6 +41888,9 @@ inominate frag		0	0
 inominate fragment		0	0
 Inominate fragments		0	0
 Insect "cocoons) + invertebrate (fragments)		0	0
+insect burrows		0	0
+Insect Wing		0	0
+insect wing impression		0	0
 INSECTIVORE JAW		0	0
 INSICOR		0	0
 inside skin		0	0
@@ -41607,6 +41950,18 @@ INTERVERTEBRAL DISK FRAG		0	0
 Intestine (in spirit)		0	0
 Intestine with spiral valve (in spirit)		0	0
 Inverclavicle		0	0
+invertebrate  tracks		0	0
+invertebrate burrow		0	0
+invertebrate burrows		0	0
+Invertebrate trace		0	0
+Invertebrate trace (bivalve ?)		0	0
+Invertebrate Trace (Bivalve)		0	0
+Invertebrate trace (Bivalve?)		0	0
+Invertebrate trace (Horseshoe Crab?)		0	0
+Invertebrate traces		0	0
+invertebrate tracks		0	0
+invertebrate tracks - scorpion?		0	0
+invertebrate tracks, slab and counter slab		0	0
 Irwin, M.		0	0
 Is		0	0
 I'S		0	0
@@ -43988,6 +44343,7 @@ Jewett, S. G. 2892/2985		0	0
 JG		0	0
 JHG 06		0	0
 Jim Ke		0	0
+Jingle Shell		0	0
 JLM		0	0
 JM 5282		0	0
 John F. Miller		0	0
@@ -50407,6 +50763,7 @@ L. U. Kleine 96		0	0
 L. Zerlang		0	0
 L.Max., Eden.		0	0
 L.Mnd. Frg., Eden.		0	0
+L.S. Block w/ Archimedes, Hypsiclavus, Huntsvillensis plate.		0	0
 L/E		0	0
 L/M TRIGONID		0	0
 L/M2		0	0
@@ -50547,9 +50904,11 @@ large footprint		0	0
 large fragment		0	0
 Large fragments		0	0
 LARGE FRAMED SPECIMEN, VERY WELL PRESERVED, A+B		0	0
+Large Gastropod Steinkern, covered with sponge borings		0	0
 LARGE HEAD		0	0
 LARGE HEAD WITH FRACTURED ROSTRUM		0	0
 LARGE HEAD, ETC, MACERATED, A+B		0	0
+Large horseshoe crab trace, broken in 2 pieces		0	0
 LARGE ILIUM, A+B		0	0
 large incisor frag		0	0
 large individual		0	0
@@ -50618,14 +50977,18 @@ LARGE SKULL LACKING RIGHT HORN; IN DORSAL VIEW; VERTEBR		0	0
 LARGE SKULL TABLE; PARTIAL PECTORAL GIRDLE & SOME VERTEBRAE; IN COUNTERPART		0	0
 LARGE SKULL, MACERATED		0	0
 LARGE SKULL; PECTORAL GIRDLE & STREWN VERTEBRAE; IN COUNTERPART		0	0
+Large slab of arthropod tracks		0	0
+Large slab of trace fossils		0	0
 Large slab w/ Cincosaurus Tracks		0	0
 Large slab w/ large Cincosaurus tracks		0	0
 Large Slab w/ Track		0	0
 Large Slab w/ Track and Gas Bubbles		0	0
 Large slab with Attenosaurus tracks, very fragile, broken into 3 pieces		0	0
+Large slab with bivalve traces		0	0
 Large slab with Cincosaurus tracks		0	0
 Large slab with Cincosaurus tracks and bivalve traces		0	0
 Large slab with faint tracks		0	0
+Large slab with multiple traces		0	0
 Large slab with Reptile and Fish tracks		0	0
 Large slab with reptile tracks and large Calamites impressions		0	0
 Large slab with tracks on both sides		0	0
@@ -51525,6 +51888,7 @@ left supraorbital process of frontal		0	0
 left supratemporal		0	0
 left tarsometatarsus		0	0
 left TBT+TMT, partial		0	0
+Left tergum and carina		0	0
 left tibia		0	0
 LEFT TIBIA COMPLETE		0	0
 Left Tibia distal shaft		0	0
@@ -51874,6 +52238,9 @@ Limbs + pectoral girdle + vertebrae + fragments		0	0
 Limbs + scapulae (part mounted)		0	0
 LIMBS VERTEBRAE (DRY)	limbs | vertebrae	0	1
 LIMBS+PELVIS		0	0
+Lime steinkerns of worm tubes or snail interiors		0	0
+Limestone		0	0
+Limestone block containing 1.5 brachiopods and 1 unidentified blastoid		0	0
 lingual half of RM1/		0	0
 Liquid Nitreogen		0	0
 Liquid Nitrogen		0	0
@@ -52207,6 +52574,9 @@ locomotion traces with burrows (Arenicolites longistriatus)		0	0
 locomotion traces with gas-escape structures		0	0
 locomotion traces with invertebrate (Treptichnus apsorum) traces		0	0
 locomotion traces with invertebrate traces		0	0
+locomotion traces, burrows (Treptichnus apsorum), and gas-escape structures		0	0
+locomotion traces; multiple trackways		0	0
+locomotion tracks		0	0
 loer premolar		0	0
 long bone		0	0
 long bone epiphyses		0	0
@@ -52228,6 +52598,7 @@ long mouthparts		0	0
 LONG POSTCRANIAL VERTEBRAL COLUMN, JUVENILE		0	0
 LONG SLENDER BONE		0	0
 LONG SPECIMEN MINUS FINS		0	0
+Long Tubular things		0	0
 LONG, NARROW SPINE, POOR IMPRESSION		0	0
 longbone		0	0
 Long-bone (sectioned)		0	0
@@ -52235,10 +52606,12 @@ Longbone fragment		0	0
 Longbone fragment (femur)		0	0
 Longbone fragment (large)		0	0
 longbone shaft frag		0	0
+longdelii		0	0
 Longitudinal half of phalanx I.		0	0
 Longitudinal half phalanx I.		0	0
 Longitudinal portion shaft, distal end.		0	0
 Longitudinal section of anterior portion (in spirit)		0	0
+Loose specimens of shale		0	0
 loose teeth		0	0
 LOPH		0	0
 LOPH, LOWER M?		0	0
@@ -54066,6 +54439,7 @@ MANDIBLE ANT		0	0
 MANDIBLE ANT TIP		0	0
 MANDIBLE ARTICULAR REGION L		0	0
 MANDIBLE BOTH SIDES ALL TEETH		0	0
+Mandible crushing surface		0	0
 MANDIBLE EXCEPT DENTARY L		0	0
 Mandible except dentary.		0	0
 MANDIBLE FRAG		0	0
@@ -54421,8 +54795,7 @@ Maser, C. 7409		0	0
 Maser, C. 7410		0	0
 Maser, C. 7411		0	0
 Maser, C.7408		0	0
-MASHED PIECE OF SPECIMEN, VENTRAL VIEW		0	0
-MASTODON TOOTH FRAG, DISTAL END RADIUS & ULNA OF CAMEL, ETC.		0	0
+MASHED PIECE OF SPECIMEN, VENTRAL VIEW		0	0MASTODON TOOTH FRAG, DISTAL END RADIUS & ULNA OF CAMEL, ETC.		0	0
 MASTOID		0	0
 MASTOID L		0	0
 MASTOID PROCESS		0	0
@@ -54472,7 +54845,8 @@ MAX & JAWS & HORN		0	0
 MAX & JAWS & LIMB BONES		0	0
 MAX & JAWS | Cast		0	0
 MAX & JAWS WITH M#/ & M/# | Cast		0	0
-MAX & JAWS, ATLAS, AXIS, SACRUM & LIMB BONES OF DIFFERENT INDIVIDUALMAX & JAWS, AXIS, ATLAS, LIMB & FOOT BONES OF DIFFERENT INDIVIDUALS		0	0
+MAX & JAWS, ATLAS, AXIS, SACRUM & LIMB BONES OF DIFFERENT INDIVIDUALS		0	0
+MAX & JAWS, AXIS, ATLAS, LIMB & FOOT BONES OF DIFFERENT INDIVIDUALS		0	0
 MAX & JAWS, FORE & HIND LIMBS; 2 OR MORE INDIVIDUALS		0	0
 MAX & JAWS, HORN, FOOT BONES; ASSOCIATION CONJECTURAL		0	0
 MAX & JAWS, HUMERUS FRAGS, PELVIS FRAGS, FEMORA, TIBIA FRAGS, CALCANEUM; ASSOCIATION CONJECTURAL		0	0
@@ -54545,8 +54919,7 @@ MAX FRAG, 2 T#/ & 1 BROKEN T#/		0	0
 MAX FRAG, 2 TEETH		0	0
 MAX FRAG, 3 T#/ | Cast		0	0
 MAX FRAG, DP4/-M1/ | Cast		0	0
-MAX FRAG, ISOLATED TOOTH		0	0
-MAX FRAG, JAW FRAG		0	0
+MAX FRAG, ISOLATED TOOTH		MAX FRAG, JAW FRAG		0	0
 MAX FRAG, L P3/		0	0
 MAX FRAG, L P3/-P4/		0	0
 MAX FRAG, L P4/, M1/-M3/		0	0
@@ -56754,6 +57127,7 @@ MILK MOLAR, TOE, LIMB BONES		0	0
 MILK TEETH		0	0
 MILK TOOTH		0	0
 Miller, R.		0	0
+millipede tracks		0	0
 Mills, G. H. 01		0	0
 MINERAL-STAINED IMPRESSION		0	0
 MINUS BRAINCASE; A+B		0	0
@@ -56878,6 +57252,9 @@ Misc. - 1; Skeleton - 1		0	0
 Misc. - 1; Skin - 1		0	0
 Misc. - 1; Study skin - 1		0	0
 Misc. - 1; Whole (EtOH) - 1		0	0
+Misc. Bivalve Fragments		0	0
+Misc. Bivalve shells		0	0
+Misc. Bivalve Steinkerns		0	0
 misc. bone		0	0
 Misc. bone + partial tooth		0	0
 Misc. bone fragments		0	0
@@ -56888,6 +57265,7 @@ Misc. Feathers only		0	0
 Misc. fragment		0	0
 misc. fragments		0	0
 misc. frags.		0	0
+Misc. Gastropod Steinkerns		0	0
 misc. including part jaw and skull of Tersomius in matrix		0	0
 misc. jaws		0	0
 misc. maxilla and edentulous jaw fragments		0	0
@@ -56899,10 +57277,12 @@ Misc. Shell Fragments		0	0
 Misc. Skull and Osteoderm fragments		0	0
 misc. small bones		0	0
 misc. small pieces (in assoc. with vp 3206)		0	0
+Misc. Steinkerns		0	0
 misc. teeth		0	0
 misc. teeth and jaws		0	0
 Misc. tooth fragments		0	0
 Misc. unidentified vertebrae		0	0
+Misc. Worm Tube Steinkerns		0	0
 Misc.; Misc.	miscellaneous	0	1
 Misc.; No data	miscellaneous	0	1
 Misc.; Skeleton	miscellaneous | skeleton	0	1
@@ -57341,6 +57721,7 @@ Molars.		0	0
 MOLARS/		0	0
 MOLARS/,PREMOLARS/		0	0
 MOLD OF VERTEBRA		0	0
+Molds of Sponge Borings		0	0
 Molec. voucher 28.iii.05-225		0	0
 molecular specimen		0	0
 molecular specimen, on slide		0	0
@@ -57392,6 +57773,7 @@ MOSTLY COMPLETE FISH A+B		0	0
 MOSTLY COMPLETE SKELETON		0	0
 MOSTLY COMPLETE SKULL		0	0
 MOSTLY RIBS & FRAGS		0	0
+Mostly small clams		0	0
 Mould of coracoid		0	0
 Mould of humerus		0	0
 Mould of jaw (lower)		0	0
@@ -57402,6 +57784,7 @@ Mould of premaxilla		0	0
 Mould of sternum		0	0
 Mould of vertebra (18th)		0	0
 Moulds of skull		0	0
+Mound-shaped chitin frags.		0	0
 mount	mount	1	1
 mount - 0		0	0
 Mount - 1		0	0
@@ -57635,13 +58018,17 @@ MULTICUSPED TOOTH		0	0
 Multiple Fragments		0	0
 Multiple otoliths		0	0
 Multiple reptile tracks		0	0
+Multiple resting traces		0	0
 Multiple scutes		0	0
+Multiple shells		0	0
 multiple skeletons	skeletons (multiple)	0	1
 Multiple Skulls - 1		0	0
 Multiple Skulls - 3		0	0
 Multiple Skulls - 4		0	0
 multiple skulls | multiple skulls		0	0
+Multiple specimens embedded in a rock		0	0
 Multiple teeth		0	0
+multiple trackways, locomotion traces		0	0
 MUMIFIED TAIL	mummified tail	0	1
 MUMMIFIED	mummy	0	1
 Mummified - 1		0	0
@@ -57770,6 +58157,7 @@ Mx/ worn		0	0
 Mx/, heavily worn		0	0
 Mx/, left		0	0
 Myhrman, H.		0	0
+myriapod locomotion traces		0	0
 N	round skin	0	1
 N | tissue	round skin | tissue	0	1
 N. A. Eddy		0	0
@@ -57832,6 +58220,7 @@ natural mold of skull+ant body + latex peel		0	0
 natural mold of vertebrae + latex peel		0	0
 natural mold of vertebrae+ribs + latex peel		0	0
 NAUGHTY BITS, A+B		0	0
+Nautiloid Fragments 		0	0
 Navelsträng		0	0
 NAVICUALR		0	0
 NAVICULAR		0	0
@@ -58036,6 +58425,7 @@ NEARLY COMPLETE PALATE; R P2/-M3/; R C1/ BROKEN; L P2/-M3/; L C1/ LYING ON PALAT
 NEARLY COMPLETE R COSTAL.		0	0
 NEARLY COMPLETE RIB		0	0
 NEARLY COMPLETE RIGHT FEMUR		0	0
+Nearly complete rudist		0	0
 NEARLY COMPLETE SHELL		0	0
 nearly complete skeleton		0	0
 NEARLY COMPLETE SKELETON & SKULL SHOWING TEETH, ON SLAB		0	0
@@ -58289,8 +58679,11 @@ NEUROCRANIUM, P+C		0	0
 NEUROCRANIUM, WHOLE, EXCELLENT		0	0
 new aenig. genus		0	0
 NICO		0	0
+Nine Bivalve Steinkerns		0	0
 nine isolated cheek teeth, maxillary frag w M		0	0
 Nine large teeth		0	0
+Nine Pieces		0	0
+Nine pieces of rock with bivalves embedded		0	0
 Nine skull frags		0	0
 Nine teeth		0	0
 Nine teeth (possibly associated)		0	0
@@ -58568,12 +58961,15 @@ one "great" tooth		0	0
 One "Large" Chunk		0	0
 One "small chunk"		0	0
 One "Thick" Bone		0	0
+One (almost) complete crab		0	0
 One ankle bone		0	0
 One antler core		0	0
+One aptychus		0	0
 One astragulus		0	0
 One Attenosaurus track		0	0
 One Back Plate Fragment (Costal)		0	0
 One bissected (mounted)		0	0
+One block with multiple specimens		0	0
 one bone		0	0
 one bone ( partial femur ? )		0	0
 one bone (in 3 pieces)		0	0
@@ -58587,7 +58983,10 @@ One bone frag.		0	0
 One bone fragment		0	0
 one bone fragment and one tooth		0	0
 one bone/ spine or jaw frag		0	0
+One brachiopod		0	0
 one broken tooth		0	0
+One burrow		0	0
+One calyx		0	0
 One carapace fragment		0	0
 one cast of the lower left tooth plate		0	0
 one cast of the lower right tooth plate		0	0
@@ -58599,8 +58998,13 @@ one caudal vertebra (terminal)		0	0
 One cervical vertebra 		0	0
 One cervical vertebrae		0	0
 One chunk		0	0
+One complete ammonite with nacre		0	0
+One complete shell		0	0
 One coprolite		0	0
+One coral		0	0
 One costal, 5 limb fragments		0	0
+One Crab		0	0
+One crinoid		0	0
 One denticle		0	0
 One Dermal Denticle		0	0
 one display quality cast		0	0
@@ -58609,9 +59013,11 @@ one distal caudal vertebra		0	0
 one dorsal vertebra		0	0
 one dorsal vertebra (eroded)		0	0
 One Dorsal Vertebra and One Tooth		0	0
+One echinoid		0	0
 One Egg		0	0
 one egg only		0	0
 One eight inch long rib fragment		0	0
+One endocast		0	0
 One eroded vertebra		0	0
 one eroded vertebrae		0	0
 One flipper bone		0	0
@@ -58619,16 +59025,19 @@ One flipper element		0	0
 One Frag.		0	0
 one fragment		0	0
 one giant "post" caudal vertebra		0	0
+One half of an insect wing impression in Mudstone		0	0
 One half R astragalus.		0	0
 One heavily barbed partial spine		0	0
 one horn		0	0
 One humerus fragment		0	0
 one hundred sixty-six isolated cheek teeth		0	0
+One Impression of test		0	0
 One incomplete		0	0
 One intermediate caudal vertebra		0	0
 One jaw		0	0
 One jaw bone frag		0	0
 One jaw fragment		0	0
+One large blastoid		0	0
 One Large Bone		0	0
 One large bone frag.		0	0
 one large chunk (~2 3/4 inches long)		0	0
@@ -58641,6 +59050,7 @@ One large shark tooth		0	0
 one large shell fragment		0	0
 One large shell fragments and "many" small fragments		0	0
 One large slab w/ Attenosaurus Track		0	0
+One large steinkern		0	0
 One large thoracic vert and lots of frags.		0	0
 one large tooth		0	0
 one large tooth, (excellent)		0	0
@@ -58663,62 +59073,91 @@ One Over Track		0	0
 one parietal bone		0	0
 One parital vertebra and two other bones		0	0
 One partial / large tooth		0	0
+One partial ammonite		0	0
 One partial bone		0	0
 One partial bone that is around 2 1/2 inches long		0	0
+One partial burrow		0	0
+One partial calyx		0	0
+One partial claw		0	0
+One partial crinoid		0	0
 One Partial Denticle		0	0
 One Partial jaw (with teeth) bone		0	0
 one partial limb bone		0	0
 One partial lower tooth plate and teeth fragments		0	0
+One partial pyritized ammonite		0	0
+One Partial Rudist		0	0
 One partial scute		0	0
 One Partial scute and one phalange		0	0
+One partial shell		0	0
+One partial shell and one Baculites frag		0	0
+One partial shell and one coral steinkern		0	0
+One partial shell and one worm tube		0	0
+One partial shell, one oyster, and one wormtube		0	0
+One partial shell, polychaete worm tubes, barnacle		0	0
+One partial shell, snail steinkern, and coral		0	0
 One partial spine		0	0
+One partial test		0	0
 One partial tooth		0	0
 One Partial Tooth Plate		0	0
+One partial tube		0	0
+One Partial Valve		0	0
 one partial vert.		0	0
 One partial vert. (Terminal Caudal)		0	0
 One partial vert. (thoracic?)		0	0
 one partial vertebra		0	0
 One partial vertebra in chalk		0	0
+One partial walking leg		0	0
 One phalange		0	0
 One Piece		0	0
 One piece (~2.5 cm long)		0	0
 One piece (~2.5 cm)		0	0
 One piece of a spine 		0	0
 One piece of cartilage		0	0
+One Piece of Valve		0	0
 One piece shark coprolite		0	0
 One piece with fish jaw embedded		0	0
+One Plate		0	0
 One propodial		0	0
 one protocetid Vertebra		0	0
+One Pyritized Ammonite		0	0
 one ramus/partial skel/fetal bones		0	0
 One Ray Spine Fragment		0	0
 One Ray Tooth Plate (Good Condition)		0	0
 One rib fragment		0	0
 one rostral denticle		0	0
 One rostral fragment		0	0
+One Rudist		0	0
 One scale		0	0
 One Scute		0	0
 One Scute Fragment		0	0
 One shark tooth		0	0
 One Shark Tooth (very good)		0	0
+One Shell		0	0
 one shell frag		0	0
 one shell frag.		0	0
 One shell fragment		0	0
+One shell impression with Calamites		0	0
+One Shell Steinkern		0	0
 One side distal half metapodial.		0	0
 One side lower mandible.		0	0
 ONE SIDE PELVIS, JUVENILE		0	0
 one skull		0	0
 One skull fragment		0	0
 one skull,  flipper, and 4 fused vertebrae		0	0
+One slab		0	0
 one slab containing a nearly complete skeleton		0	0
 One slab with swimming trace		0	0
 One slab with trace		0	0
+One slab with traces		0	0
 One slab with trackways		0	0
 One small and eroded vertebra		0	0
+One small boulder with many impressions		0	0
 one small caudal vertebra (terminal)		0	0
 One small frag.		0	0
 one small fragment		0	0
 one small piece		0	0
 one small piece (quarter size)		0	0
+One small slab		0	0
 one small thoracic (?) vertebra		0	0
 One small thoracic vert		0	0
 one small tooth		0	0
@@ -58731,13 +59170,19 @@ one small vertebra (badly eroded)		0	0
 one small vertebra (intermediate caudal)		0	0
 One small, eroded vertebra		0	0
 One small, partial vertebra		0	0
+One Solitary Coral		0	0
+One specimen		0	0
 One spine		0	0
 One spine (from fin)		0	0
 One spine fragment		0	0
 One spine with crinoids		0	0
+One sponge		0	0
+One starfish		0	0
+One Steinkern		0	0
 One Sting Ray spine		0	0
 One symphyseal tooth		0	0
 One terminal caudal vertebra and two neural arch fragments		0	0
+One Test		0	0
 One thoracic vert		0	0
 One Thoracic Vert.		0	0
 One thoracic vertebrae		0	0
@@ -58765,6 +59210,7 @@ One tooth and one tooth frag.		0	0
 One Tooth Fragment		0	0
 One tooth plate		0	0
 One toothplate		0	0
+One trilobite		0	0
 One tusk		0	0
 One two inch section containing embedded verts		0	0
 One Vert		0	0
@@ -58796,8 +59242,7 @@ one vertebra	vertebra	0	1
 One Vertebra & Three Misc. Bone Fragments 		0	0
 one vertebra (bad shape) and 13 rib fragments		0	0
 one vertebra (badly eroded)		0	0
-One Vertebra (badly eroded) and 2 tooth fragments		0	0
-one vertebra (dorsal)		0	0
+One Vertebra (badly eroded) and one vertebra (dorsal)		0	0
 one vertebra (medium sized/ thoracic or caudal)		0	0
 one vertebra (terminal caudal), and 4 small vertebra fragments		0	0
 One Vertebra (Very Badly Eroded)		0	0
@@ -58826,6 +59271,7 @@ One very small vert. (Caudal)		0	0
 One very small vert. (terminal caudal)		0	0
 one very small vertebra		0	0
 one very small vertebra (caudal)		0	0
+One whole crab		0	0
 one wing		0	0
 one wing only		0	0
 one wing only | tissue		0	0
@@ -58905,7 +59351,8 @@ originally: 10% Form+ Borax		0	0
 originally: 10% Form+Borax		0	0
 originally: 10% formailin		0	0
 originally: 10% formaldehyde; preservation: Osteo		0	0
-originally: 10% fooriginally: 10% formalin		0	0
+originally: 10% formaliin		0	0
+originally: 10% formalin		0	0
 originally: 10% formalin - frozen		0	0
 originally: 10% formalin & 95% ETOH		0	0
 originally: 10% formalin & 95% ETOH; preservation: 70% ETOH, otoliths		0	0
@@ -59650,6 +60097,12 @@ Ovary, cut open (in spirit)		0	0
 OVERSIZED JAR ON BOTTOM SHELF		0	0
 Överssiktsprep		0	0
 Oviduct with egg capsule (in spirit)		0	0
+Oyster juv. left valve		0	0
+Oyster shell fragment with encrusting Bryozoan		0	0
+Oyster shell fragments (note vesicular structure)		0	0
+Oyster Shells		0	0
+Oyster Shells (both valves)		0	0
+Oyster Valves (3)		0	0
 P	partial skeleton	0	1
 P ?		0	0
 P ? FRAG/		0	0
@@ -61691,6 +62144,7 @@ paleo:ulna fragment | tissue		0	0
 paleo:ungual phalanx		0	0
 paleo:ungual phalanx | tissue		0	0
 paleoniscoid fragments		0	0
+paleopterous wings		0	0
 paletal frag		0	0
 palpebral		0	0
 Pancreas (in spirit)		0	0
@@ -62090,6 +62544,7 @@ PARTIAL ARTICULATED FISH		0	0
 PARTIAL ARTICULATED FISH, A+B		0	0
 PARTIAL ARTICULATED SKELETON		0	0
 PARTIAL ARTICULATED SKELETON WITH MAX & JAWS		0	0
+Partial Associated Individual		0	0
 partial astragalus		0	0
 partial atlas		0	0
 partial axis		0	0
@@ -62159,6 +62614,7 @@ Partial cheek tooth.		0	0
 Partial cheektooth.		0	0
 PARTIAL CHONDROCRANIUM WITH ROSTRUM		0	0
 PARTIAL CLAVICULAR		0	0
+Partial Claw		0	0
 PARTIAL COJOINED DENTARIES		0	0
 PARTIAL COLUMN		0	0
 partial coracoid		0	0
@@ -63235,6 +63691,7 @@ partial occipitals only | partial occipitals only		0	0
 PARTIAL OCCIPUT		0	0
 Partial Organ System - 1		0	0
 partial osteoderm		0	0
+Partial Oyster Valve		0	0
 partial p/4		0	0
 PARTIAL P/4, M/1, IN L DENTARY		0	0
 partial P2		0	0
@@ -63761,6 +64218,7 @@ partial rostrum w l partial I1, I3, C1, P2-3		0	0
 partial rostrum; base of left maxilla and premaxilla		0	0
 partial rostrum; left maxilla and premaxilla		0	0
 partial rt dentary w /C alveolus, /P3-4, /M1		0	0
+Partial Rudist Valve		0	0
 Partial Sacral Vertebra		0	0
 PARTIAL SACRUM, FRAGS		0	0
 PARTIAL SCALE IMPRESSION, A+B		0	0
@@ -63847,8 +64305,8 @@ Partial Skeleton - 1; Skull - 5		0	0
 Partial Skeleton - 1; Tissue - 1		0	0
 Partial Skeleton - 1; Tissue - 1; Skull - 1		0	0
 Partial Skeleton - 1; Tissue; Skin		0	0
-Partial Skeleton - 2; Skull - 2		0Partial Skeleton - 3		0	0
-Partial Skeleton & Skin		0	0
+Partial Skeleton - 2; Skull - 2		0	0
+Partial SkPartial Skeleton & Skin		0	0
 Partial Skeleton & Spread Wing & Tail & Feet		0	0
 PARTIAL SKELETON (DRY)	partial skeleton	0	1
 partial skeleton (hind limb) | partial skeleton (hind limb)		0	0
@@ -64693,6 +65151,7 @@ Paul Crowen		0	0
 Pavement teeth		0	0
 paw only	paw	0	1
 pb	pb	0	1
+Pectinid Steinkerns (2) & rt. valve fragments		0	0
 PECTORAL APENDAGE PLATE FRAG		0	0
 PECTORAL APPENDAGE, EXCELLENT; MEDIUM-SIZE SPECIMEN		0	0
 pectoral element		0	0
@@ -65581,6 +66040,8 @@ PHARYNGEAL,PHARYNGEAL TOOTH,SKULL BONES		0	0
 PHARYNGEALS		0	0
 Phenoxyethanol		0	0
 PHLANGES		0	0
+Phosphatic pebbles (indicative of transgressive lag.)		0	0
+Phosphatic shell hash with phosphate grains		0	0
 Photo		0	0
 Photo - 1		0	0
 Photo - 1; Alcohol		0	0
@@ -65858,6 +66319,7 @@ Plates		0	0
 Plates (median ventral)		0	0
 Plates (miscellaneous)		0	0
 PLATES ?		0	0
+Plates from test on 2 chalk fragments		0	0
 PLATES, UNASSOCIATED		0	0
 PLATES; A+B		0	0
 PLATES+SCALES		0	0
@@ -65873,6 +66335,7 @@ PLEURALS		0	0
 Pleurocentrum		0	0
 Pleurocentrum + intercentrum		0	0
 Plevis		0	0
+Plicate Bivalve Shells		0	0
 Pln-fragm.		0	0
 plomes (sec)		0	0
 PLT		0	0
@@ -66097,6 +66560,7 @@ Portion neural.		0	0
 Portion of  innominate: ishium, acetabulum		0	0
 portion of a plural		0	0
 Portion of axis		0	0
+Portion of bivalve shell with a pearl		0	0
 Portion of carapace including nuchal		0	0
 PORTION OF COSTAL.		0	0
 Portion of dentary: Angular process, coronoid process, mandibular condyle, massenteric fossa		0	0
@@ -67018,6 +67482,7 @@ pota (sec)		0	0
 pota, crani (sec)		0	0
 pota, crani, ossos (sec)		0	0
 pota, ossos (sec)		0	0
+Pottsville Fm.		0	0
 Pouch (in spirit)		0	0
 Pouch and nipples (in spirit)		0	0
 Poximal scapula.		0	0
@@ -76369,12 +76834,16 @@ Rectrices of UAz-010484		0	0
 rectrix	rectrix	1	1
 rectrix 5 	rectrix 5	0	1
 rectrix 5 only	rectrix 5	0	1
+Reg. Echinoid Spine		0	0
+Reg. Echinoid test plates (2)		0	0
+Regular Echinoid Spines		0	0
 REM		0	0
 REM 04		0	0
 REM 05		0	0
 REMAINS OF INDIVIDUAL IN AESTIVATION BURROW		0	0
 Remains of specimen (in spirit)		0	0
 REMARKS	see remarks	0	1
+repeated xiphosuran resting traces		0	0
 replica		0	0
 rèplica (etílic 70 amb glicerina)		0	0
 rèplica (sec)		0	0
@@ -77519,6 +77988,7 @@ ROCK		0	0
 rock frags		0	0
 Rock sample		0	0
 Rock sample containing fragments		0	0
+Rock with many specimens		0	0
 rodent and lagomorph incisors		0	0
 RODENT CALCANEUS, FROG HUMERUS		0	0
 RODENT GNAWED TURTLE		0	0
@@ -77828,6 +78298,8 @@ Rt. premax. and associated fragments		0	0
 Rt. Radius		0	0
 rt. tarsomet		0	0
 Ruchty, A.		0	0
+Rudist Fragment		0	0
+Rudistid Bivalve Fragment		0	0
 rug with half head mount		0	0
 rump skin		0	0
 Ryan Perala		0	0
@@ -78082,6 +78554,9 @@ Salivary glands (in spirit)		0	0
 salted skin	wing (salted)	0	1
 Sam Waller		0	0
 Sam Weller		0	0
+Sample with 'wing blades'		0	0
+Sandstone		0	0
+Sandy Limestone		0	0
 saved		0	0
 SAWN SECTION OF LIMB? BONE FRAG, 16_ CM X 13 CM, THICKNESS RANGING FROM 2 TO 4 CM, SHOWING POSSIBLE CANCEROUS OVOID HOLE 11_ CM X 7_ CM.		0	0
 SB	body skeleton | skin | skull	0	1
@@ -78551,6 +79026,7 @@ SCUTES, VERTEBRAE ETC		0	0
 SCUTES, VERTEBRAE, RIBS		0	0
 SCUTES,VERTEBRA,PHALANX,LIMB BONE FRAGS		0	0
 SD		0	0
+Sea Urchin Spin frags.		0	0
 second carpale?		0	0
 SECOND PHALANX, LATERAL DIGIT, NO EPIPHYSIS.		0	0
 second trunk vertebra		0	0
@@ -78642,6 +79118,7 @@ series of articulated centra		0	0
 SERIES OF FINE VERTEBRAE		0	0
 series of setae on hind tibia		0	0
 SERIES OF VERTEBRAL ELEMENTS | Cast		0	0
+Serpulid worm tube		0	0
 serum|liver|Spleen|heart, kidney|liver|heart, kidney|skull		0	0
 sesamoid		0	0
 SESAMOID ?		0	0
@@ -78665,11 +79142,13 @@ SET OF ISOLATED CHEEK TEETH; INCLUDING P/4-M/3 & P4/-M3/		0	0
 SEVEN ARTICULATED VERTEBRAE, ULNA, RADIUS PARTIAL, RIGHT AND LEFT FEMORA PARTIAL, TIBIA, & FRAGMENTS		0	0
 Seven bone fragments		0	0
 seven cheek teeth		0	0
+Seven partial shells		0	0
 Seven pharyngeal teeth		0	0
 Seven Pieces		0	0
 Seven rostral teeth		0	0
 Seven Shell Frags.		0	0
 Seven small jaw fragments		0	0
+Seven starfish		0	0
 Seven teeth		0	0
 Seven tooth and two jaw fragments		0	0
 seven Verts.  + vert frags.		0	0
@@ -78698,6 +79177,7 @@ Several Flipper Bones		0	0
 several fragments		0	0
 several fragments (20) of jaw and skull		0	0
 several fragments of jaw with teeth and 2 vertebrae		0	0
+Several Gastropod Steinkern		0	0
 several individuals		0	0
 Several jaw and skull fragments with teeth		0	0
 several jaw fragments		0	0
@@ -78725,6 +79205,8 @@ Several palatine bones and teeth		0	0
 several partial maxillae+dentaries		0	0
 SEVERAL PARTIAL METATARSALS		0	0
 SEVERAL PARTIAL RIBS & VERTEBRAL FRAGS		0	0
+Several partial shells		0	0
+Several partial shells, worm tubes, bivalve		0	0
 Several pieces (mounted, in spirit)		0	0
 Several plastron frags		0	0
 SEVERAL POSTERIOR DORSALS ARTICULATED WITH SACRUM & R ILIUM		0	0
@@ -78805,6 +79287,8 @@ Shaft tibiotarsus.		0	0
 Shaft ulna; portion shaft radius.		0	0
 SHAFT, FRAGMENT		0	0
 SHAFT, FRAGMENT, SIDE UNDETERMINED		0	0
+Shale with shell fragments		0	0
+shallow U-shaped segments connected in zig-zag pattern		0	0
 shank of leg bone		0	0
 SHARK & ALLIGATOR TEETH, FISH VERTEBRAE, PARTIAL HORSE TEETH, ETC.		0	0
 shark cast, tooth, coprolites		0	0
@@ -78998,6 +79482,7 @@ shell frags,unassoc		0	0
 SHELL FRAGS,UNGUAL		0	0
 SHELL FRAGS,UNGUAL; 1 histo slide (peripheral) and cut blocks		0	0
 shell frags.		0	0
+Shell Frags. & 3 small Steinkerns		0	0
 SHELL FRAGS; 1 histo slide and cut blocks		0	0
 SHELL FRAGS; 3 histo slides (1 neural, 2 costal LS) and cut blocks		0	0
 SHELL FRAGS; 3 histo slides (1 peripheral; 1 plastron LS, XS) and cut blocks		0	0
@@ -79007,6 +79492,7 @@ shell frags+postcrania		0	0
 shell frags+vertebrae		0	0
 shell frgaments		0	0
 shell frgas		0	0
+Shell Hash		0	0
 SHELL IN ALCOHOL	shell in alcohol	0	1
 SHELL IN ALCOHOL, OVARIES IN FORMALIN	shell in alcohol | ovaries in formalin	0	1
 SHELL INCOMPLETE PLASTRON (DRY)	shell | incomplete plastron	0	1
@@ -79108,12 +79594,14 @@ Shugart, G. W. 1602		0	0
 Sick, J. 02		0	0
 Side Skin + Skeleton		0	0
 sighting		1	1
+Silicified Limestone		0	0
 SILICIFIED NUTS TOGETHER WITH PETRIFIED WOOD		0	0
 SILICIFIED SEEDS		0	0
 silicone mold of carapace		0	0
 Simon Fraser University		0	0
 Sin/wing/tissue		0	0
 single horn apparently - 1		0	0
+Single insect wing trackway		0	0
 single large neural (3.7" at midline; 3.5" at widest point means very low dorsal keel)		0	0
 single phalange		0	0
 Single plate		0	0
@@ -79124,6 +79612,7 @@ Six bone fragments		0	0
 Six boxes of bones.		0	0
 six incisors		0	0
 six mandibles w cheek teeth, 1 isolated cheek tooth		0	0
+Six partial shells		0	0
 Six Pieces		0	0
 Six scales		0	0
 Six shell fragments		0	0
@@ -108120,7 +108609,9 @@ SKULLT		0	0
 SKULT		0	0
 SKUT & limbs		0	0
 SL		0	0
+Slab containing death assemblage of crinoids		0	0
 SLAB CONTAINING MANY FISH		0	0
+Slab containing multiple traces		0	0
 SLAB MOUNT OF COMPLETE SKELETON | Cast		0	0
 SLAB OF MATRIX CONTAINING 3 FOSSIL FISH		0	0
 SLAB OF MORTALITY LAYER, A+B		0	0
@@ -108128,19 +108619,39 @@ SLAB OF ROCK WITH ARMORED FRESHWATER FISH		0	0
 slab of scales		0	0
 Slab w/ Amphian Tracks		0	0
 Slab w/ Cincosaurus Tracks		0	0
+Slab w/ Horseshoe Crab Tracks		0	0
 Slab w/ overtrack		0	0
 Slab w/ Undertrack		0	0
 slab with 1 track		0	0
+Slab with AMAZING traces		0	0
+Slab with bivalve trace		0	0
+Slab with bivalve traces		0	0
+Slab with bivalve traces on it		0	0
+Slab with faint bivalve traces		0	0
 Slab with faint tracks		0	0
 slab with fish swimming trace		0	0
 slab with five tracks		0	0
+Slab with horseshoe crab resting trace		0	0
+Slab with insect trace		0	0
+Slab with insect traces		0	0
+Slab with Invert traces		0	0
+Slab with invertebrate and bivalve traces		0	0
+Slab with Invertebrate Trace		0	0
+Slab with Invertebrate traces		0	0
+slab with Invertebrate tracks		0	0
+Slab with many specimens		0	0
+Slab with many trace fossils		0	0
+Slab with multiple Insect traces		0	0
 Slab with nice tracks		0	0
 Slab with reptile tracks		0	0
 Slab with swimming trace		0	0
 slab with three tracks		0	0
+Slab with traces		0	0
 slab with tracks		0	0
 Slab with tracks on both sides		0	0
 Slab with trackways		0	0
+Slab with Unidentified Invertebrate trace in the shape of an 'X'		0	0
+Slab with 'wingblades'		0	0
 Slabs with fossil fish.		0	0
 Slater, J. R.		0	0
 Slater, J. R. and M. L. Johnson		0	0
@@ -108180,6 +108691,7 @@ SMALL BONES		0	0
 SMALL BONES & JAW		0	0
 SMALL BONES IN NODULE		0	0
 SMALL BROAD BASED TOOTH		0	0
+Small Carapace		0	0
 SMALL CAUDAL		0	0
 SMALL CENTRUM		0	0
 SMALL CHEEK BONES		0	0
@@ -108198,6 +108710,8 @@ small fragments (several)		0	0
 SMALL FRAGS		0	0
 SMALL FRY		0	0
 small hollow bone fragment		0	0
+Small horeshoe crab trace		0	0
+Small horseshoe crab trace		0	0
 small incisors		0	0
 Small intestine (in spirit)		0	0
 Small intestine, Peyers patch (in spirit)		0	0
@@ -108239,10 +108753,17 @@ SMALL SKULL LACKING HORNS, IN COUNTERPART		0	0
 SMALL SKULL, A+B		0	0
 SMALL SKULL, IN COUNTERPART		0	0
 Small slab w/ Cincosaurus Tracks		0	0
+Small slab with bivalve trace		0	0
+Small slab with bivalve traces		0	0
 Small slab with fish trace		0	0
+Small slab with horseshoe crab trace		0	0
+Small slab with invertebrate trace		0	0
 Small slab with reptile tracks		0	0
 Small Slab with swimming trace		0	0
+Small slab with trace		0	0
+Small slab with trace fossils		0	0
 Small slab with tracks		0	0
+Small slab with unknown invertebrate trace		0	0
 SMALL SPECIMEN		0	0
 SMALL SPECIMEN, COMPLETE, A+B		0	0
 SMALL SPECIMEN, INCOMPLETE		0	0
@@ -108263,6 +108784,7 @@ Small turtle		0	0
 SMALL TURTLE FRAGS		0	0
 SMALL TURTLE SOMEWHAT CRUSHED		0	0
 Small turtle, coprolite		0	0
+Small Unidentified Invertebrate trace		0	0
 small vertebra		0	0
 SMALL VERTEBRAE ETC		0	0
 SMALL VIAL CONTAINING ABOUT 100 BADLY BROKEN JAWS, MAX, & A FEW LLIMB BONES OF VARIUS SORICIDS		0	0
@@ -108703,6 +109225,9 @@ Stapes		0	0
 Stapes (left)		0	0
 Stapes (proximal end)		0	0
 STAPES | Cast		0	0
+Steinkern & partial ext. mold		0	0
+Steinkern frags. (7 pieces)		0	0
+Steinkerns		0	0
 Stems only		0	0
 stenebra		0	0
 stenum fragment		0	0
@@ -110297,6 +110822,8 @@ TELEOST SKELETON NEARLY COMPLETE		0	0
 TEMPORAL & AUDITORY AREA FRAG L		0	0
 TEMPORAL CF		0	0
 Ten appendicular  bone fragments and two miscellaneous fish teeth		0	0
+Ten echinoids		0	0
+Ten partial shells		0	0
 Ten Ray Teeth		0	0
 Ten shell fragments		0	0
 Ten teeth		0	0
@@ -110350,6 +110877,7 @@ Thirty four bone fragments making up Humerus.		0	0
 Thirty nine Ray Teeth		0	0
 thirty-three isolated cheek teeth		0	0
 thirty-two isolated cheek teeth		0	0
+Thirty-Two pieces		0	0
 THIS SPECIMEN CONTAINS 61 VERTEBRAE & CAUDAL FIN ALL CONNECTED; THE FIN HAS BEEN PLACED IN THE MOUNT WITH CM 2101: CATALOG BOOK		0	0
 THIS SPECIMEN IS ALL 1 INDIVIDUAL WITH EXCEPTION OF LAST 11 VERTEBRAE & CAUDAL FIN WHICH BELONG TO CM 4102		0	0
 THORACIC		0	0
@@ -110399,10 +110927,12 @@ Three bone/tooth Fragments		0	0
 Three Bones		0	0
 three cheek teeth		0	0
 three cheek tooth frags		0	0
+Three Colonies		0	0
 THREE COPROLITES		0	0
 three dentary frags in concretion; r m1 and l p1?		0	0
 Three Dermal Denticles		0	0
 THREE DIMENSIONAL COMPOSITE CAST OF SKELETON | Cast		0	0
+Three echinoids		0	0
 Three fragmented vertebrae		0	0
 three fragments		0	0
 Three Frags.		0	0
@@ -110420,6 +110950,8 @@ three mandibular frags, no teeth		0	0
 three maxillary frags., 2 w M1/-M3/, 1 w P4/-M3/		0	0
 Three miscellaneous bone fragments		0	0
 Three Neural arch fragments		0	0
+Three partial shells		0	0
+Three partial shells and one oyster		0	0
 Three partial teeth		0	0
 THREE PARTIAL VERTEBRAE		0	0
 Three Partial Verts		0	0
@@ -110432,12 +110964,17 @@ Three rostral denticles		0	0
 Three Scutes		0	0
 Three Shark Teeth (Poor Condition)		0	0
 Three Shell Fragments		0	0
+Three shell frags		0	0
 Three Shell Frags.		0	0
+Three shells		0	0
 Three skull fragments		0	0
 Three skull frags		0	0
 Three small boxes with bone fragments, two boxes each with one tooth, one small box with jaw fragments, one small box with pterygoid fragment, Basisphenoid, Basioccipital, left proticsupratemporal, right prootic supratemporal		0	0
 Three small teeth		0	0
+Three solitary corals		0	0
+Three specimens		0	0
 THREE SPINE FRAGMENTS		0	0
+Three Steinkerns		0	0
 THREE TEETH		0	0
 Three Teeth (small)		0	0
 Three Teeth Fragments		0	0
@@ -112363,7 +112900,8 @@ TOOTH FRAGS; PHALANX		0	0
 TOOTH FRAGS?		0	0
 TOOTH FRAGS+DENTARY FRAGS		0	0
 TOOTH FRAGSS		0	0
-tooth frg.		0	0tooth impressions		0	0
+tooth frg.		0	0
+tooth impressions		0	0
 TOOTH IN ALVEOLUS		0	0
 TOOTH IN CONCRETION		0	0
 TOOTH IN COPROLITE		0	0
@@ -112413,8 +112951,7 @@ TOOTH PLATES, SPINES		0	0
 TOOTH PLATES, 'SYNTHETODUS' (OVER 1 LB.)		0	0
 tooth root		0	0
 TOOTH ROOT ?		0	0
-TOOTH root FRAG		0	0
-tooth root frag.		0	0
+TOtooth root frag.		0	0
 Tooth root fragment		0	0
 TOOTH ROOT I OR C		0	0
 TOOTH ROOTS		0	0
@@ -112637,6 +113174,7 @@ Tracks		0	0
 TRACKS | Cast		0	0
 tracks, hind feet only		0	0
 TRACKWAY		0	0
+trackway and gas-escape structures		0	0
 TRACKWAY OF AT LEAST TWO INDIVIDUALS		0	0
 TRACKWAY W 4 STEPS		0	0
 TRACKWAY W 5 STEPS		0	0
@@ -112680,6 +113218,7 @@ trigonid of left M/1 or M/2		0	0
 trigonid of left M/x		0	0
 TRIGONID R LOWER MOLARIFORM TOOTH		0	0
 TRIGONID R M/1		0	0
+Trilobite Resting Traces		0	0
 TRITOR		0	0
 TRITORAL PLATE		0	0
 TRITORAL PLATE THIN SECTION		0	0
@@ -112745,6 +113284,7 @@ TS, 70% EtOH	tissue | 70% alcohol	0	1
 Tuber caleis + metapodials + phalanges + sesamoids		0	0
 TUBER OF CALCANEUM		0	0
 Tuberculated bone fragment		0	0
+Tubes		0	0
 Tunga		0	0
 Tunga + trachea		0	0
 TURD WITH SCALES, NC		0	0
@@ -112816,6 +113356,7 @@ Twenty teeth		0	0
 Twenty two Shark teeh		0	0
 Twenty two small Shark Teeth		0	0
 twenty-eight isolated cheek teeth		0	0
+Twenty-five shells		0	0
 Twenty-four Teeth		0	0
 twenty-one Tooth Frags.		0	0
 Twenty-two large bone fragments, and one plastic bag containing miscellaneous items.		0	0
@@ -112828,6 +113369,7 @@ two articulated vertebrae and bone frags		0	0
 two articulated vertebrae in phosphate nodule		0	0
 two associated thoracic vertebrae with attached barnacles		0	0
 two associated vertebrae		0	0
+Two Bivalve Steinkerns		0	0
 Two bone fragments		0	0
 Two Bone Fragments and One Vertebra		0	0
 two bones		0	0
@@ -112837,12 +113379,20 @@ two centra, (one in matrix)		0	0
 TWO CERVICAL VERTEBRAE, JUVENILE		0	0
 two cheek teeth		0	0
 two cheek tooth frags		0	0
+Two Clam steinkerns		0	0
+Two Claw Frags.		0	0
+Two Claw Pieces		0	0
+Two corals		0	0
+Two crab leg parts and a small clam		0	0
+Two crinoids		0	0
 two dentaries and two maxillary frags		0	0
 Two dorsal vertebrae.		0	0
+Two echinoids		0	0
 TWO FEATHERS ON SAME SLAB		0	0
 Two Fish Teeth		0	0
 Two fragments		0	0
 Two fragments (teeth?)		0	0
+Two fragments and other inverts		0	0
 Two fragments humerus.		0	0
 Two Fragments/shell		0	0
 Two Frags.		0	0
@@ -112856,6 +113406,7 @@ two intercentra+fused intercalated hemicentrum		0	0
 two isolated cheek teeth		0	0
 Two Jaw Frags		0	0
 Two jaw frags with teeth		0	0
+Two juv. left valves and frags. of right valve.		0	0
 Two large segments of bone and thirty miscellaneous fragments.		0	0
 two lower cheek teeth+tooth fragments		0	0
 Two lower cheektooth.		0	0
@@ -112871,8 +113422,12 @@ Two Medium-Sized Vertebrae (Eroded)		0	0
 Two Metacarpals		0	0
 TWO METAPODIALS, ASSOCIATION UNCERTAIN		0	0
 Two pairs frontals; fragment frontal.		0	0
+Two partial carapaces		0	0
+Two Partial Claws		0	0
 TWO PARTIAL FISH, NC		0	0
 Two Partial Rostra		0	0
+Two partial shells		0	0
+Two partial shells, oyster, and worm tubes		0	0
 Two Partial tail spines 		0	0
 Two partial teeth		0	0
 Two Partial Teeth (Large)		0	0
@@ -112900,12 +113455,18 @@ Two Ray Spines		0	0
 two ribs, caudal vertebra		0	0
 two right incisors		0	0
 Two rostral fragments		0	0
+Two Samples		0	0
 TWO SCALES		0	0
 Two scute fragments		0	0
 Two scutes		0	0
+Two Sea Urchin Spines		0	0
 TWO SEGMENTS OF SCAPULA (WHICH FIT TOGETHER), CA. ONE AND ONE-QUARTER INCH WIDE.		0	0
+two sets of millipede tracks		0	0
+Two shell chambers		0	0
 Two Shell Fragments		0	0
 Two Shell/ Skull Fragments		0	0
+Two Shells		0	0
+Two Shells and A Piece of Coral		0	0
 Two Skull / Jaw Frags.		0	0
 TWO SKULL ELEMENTS.		0	0
 Two skull frags		0	0
@@ -112913,11 +113474,16 @@ Two skulls		0	0
 TWO SLABS OF MIOCENE DIATOM DEPOSIT CONTAINING FOSSIL REMAINS OF SEVERAL FISHES, HERRING & MACKEREL TYPES		0	0
 Two Slabs w/ Cincosaurus Tracks		0	0
 Two slabs with tracks		0	0
+Two snail shells		0	0
+Two specimens		0	0
 two specimens in piece		0	0
 TWO SPECIMENS WERE CATALOGED WITH THIS NUMBER. FOR CATALOGING PURPOSES MOROPUS IS NOW CM 1595A & ?RODENT IS NOW CM 1595B. BOTH ARE MISSING, 10/17/1984: EAH		0	0
 two spine fragments and a half tooth		0	0
 Two spines		0	0
 TWO SPINES, NC		0	0
+Two Spiny Bivalves		0	0
+Two starfish		0	0
+Two Steinkerns		0	0
 TWO TEETH		0	0
 Two teeth ("very small")		0	0
 Two Teeth (Partial)		0	0
@@ -112932,6 +113498,7 @@ two tibiae + bone frags		0	0
 Two tooth fragments		0	0
 Two Tooth Frags.		0	0
 Two tooth Plates		0	0
+Two Unassociated Frags.		0	0
 two upper cheek teeth, one lower cheek tooth, tooth fragments		0	0
 two upper incisor fragments		0	0
 two upper molars		0	0
@@ -113283,6 +113850,7 @@ Ungule Frag		0	0
 Uniciform (right)		0	0
 unident. cranial		0	0
 Unidentifiable tooth fragments		0	0
+Unidentified bivalves		0	0
 UNIDENTIFIED BONE		0	0
 UNIDENTIFIED BONES		0	0
 UNIDENTIFIED BONES ON 2 SEPARATE SLABS, 1 WITH A+B		0	0
@@ -113299,6 +113867,7 @@ UNIDIENTIFIED ELEMENT		0	0
 unk		1	0
 Unknown		0	0
 UNKNOWN ELEMENT.		0	0
+Unknown invertebrate		0	0
 unknown molar		0	0
 Unknown Tissue		0	0
 unknown tooth		0	0
@@ -113664,6 +114233,7 @@ Various, including two frontal pairs.		0	0
 Various.		0	0
 Vätska		0	0
 VAUGHN'S VERTEBRA		0	0
+Venericardia, Turitella, Gastropod Impressions		0	0
 vent R peripheral 5		0	0
 vent skull		0	0
 VENT SKULL FRAG		0	0
@@ -114564,6 +115134,7 @@ VERY SMALL ANTERIOR SKELETON WITH PARTIAL SKULL		0	0
 VERY SMALL BLOCK WITH SQUASHED HEAD		0	0
 very small bone frags		0	0
 VERY SMALL GOOD SPECIMEN		0	0
+very small horseshoe crab tracks		0	0
 VERY SMALL INSIGNIFIGANT TOOTH FRAG		0	0
 VERY SMALL PARTIAL SKELETON		0	0
 VERY SMALL TOOTH		0	0
@@ -114682,6 +115253,7 @@ Warburton, S. P18		0	0
 Warburton, S. P22		0	0
 Warburton, S. P4		0	0
 Warner & Cooke		0	0
+Washed and screened shell hash		0	0
 WATERWORN L INTERMEDIATE UPPER MOLARIFORM TOOTH		0	0
 waterworn limb bone		0	0
 WATERWORN R M3/?		0	0
@@ -114691,6 +115263,7 @@ Wayne, A.		0	0
 WEATHERED CARAPACE		0	0
 WEATHERED HEAD SHIELD WITH SEPARABLE NUCHAL PLATE		0	0
 weathered metapodial		0	0
+Weathered solitary corals		0	0
 Webarian ossicles (in spirit)		0	0
 Weberian apparatus		0	0
 WELL PRESERVED ARTICULATED SKULL & ANTERIOR VERTEBRAL COLUMN; A+B		0	0
@@ -115365,6 +115938,8 @@ With Skin		0	0
 WN		0	0
 WO	wings	0	1
 wood specimens		0	0
+Worm Tubes		0	0
+Worm tubes & coprolites		0	0
 worn M frag		0	0
 WORN M1 OR M2		0	0
 worn molars		0	0
@@ -115402,6 +115977,7 @@ Xiphiplastron.		0	0
 XIPHISTERNUM		0	0
 Xiphisternum.		0	0
 Xiphoid process		0	0
+xiphosuran locomotion traces		0	0
 X-ray - 0; Fluid - 1		0	0
 x-ray - 1		0	0
 X-SEC (MICROSLIDE)	cross-section (microslide)	0	1
