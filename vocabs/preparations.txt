@@ -23968,6 +23968,7 @@ Element: Cervical Vertebra, Portion: Body		0	0
 Element: Cervical Vertebra, Portion: Body Fragment		0	0
 Element: Cervical Vertebra, Portion: Centrum		0	0
 Element: Cervical Vertebra, Portion: Nearly Whole		0	0
+Element: cf. Longbone Shaft, ElementURI: UBERON:0002495, Portion: fragments		0	0
 Element: Cleithrum, ElementURI: UBERON:0004741, Portion: Posterior 1/4, Side: L		0	0
 Element: Cleithrum, Portion: Posterior 1/4, Side: L		0	0
 Element: Condyle, ElementURI: UBERON:0009979, Portion: Fragment		0	0
@@ -24444,6 +24445,7 @@ Element: Long Bone, ElementURI: UBERON:0002495, Portion: Shaft Fragment, Modifie
 Element: Long Bone, ElementURI: UBERON:0002495, Portion: Terminal Diaphysis Fragment, Fused: No, Burned Notes: Burned blue, Burned Notes: Burned blue		0	0
 Element: Longbone		0	0
 Element: Longbone , Portion: Fragment		0	0
+Element: Longbone Shaft, ElementURI: UBERON:0002495, Portion: fragment		0	0
 Element: Longbone, ElementURI: UBERON:0002495, Portion: Epiphyseal Fragment		0	0
 Element: Longbone, ElementURI: UBERON:0002495, Portion: Epiphysis		0	0
 Element: Longbone, ElementURI: UBERON:0002495, Portion: Fragment		0	0
@@ -24941,6 +24943,7 @@ Element: Phalanx, Portion: Fragment		0	0
 Element: Phalanx, Portion: Proximal Fragment		0	0
 Element: Phalanx, Portion: Whole		0	0
 Element: Pharyngeal Grinder, Portion: fragments		0	0
+Element: Phryngeal Grinder, Portion: fragments		0	0
 Element: Plastron		0	0
 Element: Plastron, Element URI: UBERON:0008276		0	0
 Element: Plastron, Element URI: UBERON:0008276, Portion: fragment		0	0
@@ -25306,6 +25309,8 @@ Element: Spine, Element URI: UBERON:0001130		0	0
 Element: spine, Element URI: UBERON:0001270		0	0
 Element: Spine, ElementURI: UBERON:0001130, Portion: Fragment		0	0
 Element: Spine, Portion: Fragment		0	0
+Element: Spine, Portion: fragments		0	0
+Element: Spine, Portion: fragments, Heat Alteration: 15 burned black		0	0
 Element: Spines, Portion: fragments		0	0
 Element: Spines, Portion: fragments, Heat Alteration: 15 burned black		0	0
 Element: Spinous/Transverse Process, ElementURI: UBERON:0001077, Portion: Fragment		0	0
@@ -25724,6 +25729,7 @@ Element: Unidentified Bone, ElementURI: UBERON:0001474, Portion: Fragment, Modif
 Element: Unidentified Bone, ElementURI: UBERON:0001474, Portion: fragments, Heat Alteration: burned black		0	0
 Element: Unidentified Bone, ElementURI: UBERON:0001474, Portion: fragments, Heat Alteration: burned black; burned grey		0	0
 Element: Unidentified Bone, Portion: Fragment		0	0
+Element: Unidentified Bone, Portion: fragments, Heat Alteration: burned black		0	0
 Element: Unidentified Cranium, ElementURI: UBERON:0003128, Portion: Fragment		0	0
 Element: Unidentified Cranium, ElementURI: UBERON:0003128, Portion: Fragment, Burned Notes: Calcined, Burned Notes: Calcined		0	0
 Element: Unidentified Shell, Portion: Fragment		0	0
@@ -25740,6 +25746,8 @@ Element: Upper Pharyngeal Grinder, Portion: fragment		0	0
 Element: Upper Pharyngeal Grinder, Portion: nearly whole, Side: cf. R		0	0
 Element: Upper Pharyngeal Grinding Mill		0	0
 Element: upper pharyngeal grinding mill, Element URI: UBERON:0001130		0	0
+Element: Upper Phyryngeal Grinder, Portion: fragment		0	0
+Element: Upper Phyryngeal Grinder, Portion: nearly whole, Side: cf. R		0	0
 Element: Valve		0	0
 Element: Valve, Portion: anterior dorsal fragment w/teeth, Side: R		0	0
 Element: Valve, Portion: dorsal 75%, Side: L		0	0
@@ -54922,7 +54930,8 @@ Marginal Scute		0	0
 MARGINAL TOOTH FRAG		0	0
 Marginal.		0	0
 Mark W. Moon		0	0
-Mary JohnsonMaryann Fagg		0	0
+Mary Johnson		0	0
+Maryann Fagg		0	0
 Maser, C.		0	0
 Maser, C. 7407		0	0
 Maser, C. 7409		0	0
@@ -55034,8 +55043,7 @@ MAX FRAG WITH 4 T#/; JAW FRAG WITH 1 T/#		0	0
 MAX FRAG WITH I#/		0	0
 MAX FRAG WITH L M1/-M2/ | Cast		0	0
 MAX FRAG WITH L P2/-P3/; M1/-M3/; JAW FRAG WITH P/2-M/2 | Cast		0	0
-MAX FRAG WITH M#/		0	0
-MAX FRAG WITH M1/-M3/, JAW FRAG WITH P/3-M/3 | Cast		0	0
+MAX FRAG WIMAX FRAG WITH M1/-M3/, JAW FRAG WITH P/3-M/3 | Cast		0	0
 MAX FRAG WITH M2/		0	0
 MAX FRAG WITH MILK & PERMANENT T#/		0	0
 MAX FRAG WITH P/1-P/4		0	0
@@ -59374,7 +59382,8 @@ One Vert.(Cervical)		0	0
 One vert..		0	0
 One vert./ badly eroded		0	0
 One vert./ crushed & eroded		0	0
-one vOne Vertebra & Three Misc. Bone Fragments 		0	0
+one vertebra	vertebra	0	1
+One Vertebra & Three Misc. Bone Fragments 		0	0
 one vertebra (bad shape) and 13 rib fragments		0	0
 one vertebra (badly eroded)		0	0
 One Vertebra (badly eroded) and 2 tooth fragments		0	0
@@ -59477,8 +59486,7 @@ originally: 10%  formalin		0	0
 originally: 10% fomalin		0	0
 originally: 10% Foraldehyde		0	0
 originally: 10% Foramlin		0	0
-originally: 10% FORM		0	0
-originally: 10% Form + Borax		0	0
+originally: 10% FORM		0originally: 10% Form + Borax		0	0
 originally: 10% form& 95%ETOH; preservation: 70&95% ETOH		0	0
 originally: 10% form.		0	0
 originally: 10% form. and borax		0	0
@@ -64424,8 +64432,7 @@ partial skel/tissue | tissue		0	0
 partial skel/vertebrae/ribs/ pelvis/leg bones		0	0
 partial skel/wing	partial skeleton | wing	0	1
 partial skel/x-rays R&L flippers/art. flipper		0	0
-partial skeleton	partial skeleton	1	1
-Partial skeleton - 1	partial skeleton - 1	0	1
+partial skeleton	partPartial skeleton - 1	partial skeleton - 1	0	1
 Partial Skeleton - 1; Carapace		0	0
 Partial Skeleton - 1; Fluid - 1		0	0
 Partial Skeleton - 1; Partial Skeleton - 1		0	0
@@ -64437,7 +64444,8 @@ Partial Skeleton - 1; Skin Patch; Skull - 1		0	0
 Partial Skeleton - 1; Skull		0	0
 Partial Skeleton - 1; Skull - 1		0	0
 Partial Skeleton - 1; Skull - 17		0	0
-Partial Skeleton - 1; SkuPartial Skeleton - 1; Tissue - 1		0	0
+Partial Skeleton - 1; Skull - 5		0	0
+Partial Skeleton - 1; Tissue - 1		0	0
 Partial Skeleton - 1; Tissue - 1; Skull - 1		0	0
 Partial Skeleton - 1; Tissue; Skin		0	0
 Partial Skeleton - 2; Skull - 2		0	0
@@ -113062,8 +113070,7 @@ Tooth plate (right, lower)		0	0
 Tooth plate (upper + lower)		0	0
 TOOTH PLATE | Cast		0	0
 tooth plate frag		0	0
-TOOTH PLATE FRAG ?		0	0
-Tooth plate fragment		0	0
+TOOTH PTooth plate fragment		0	0
 Tooth plate fragments		0	0
 TOOTH PLATE FRAGS		0	0
 tooth plate w remnants of a cyst		0	0
@@ -113080,7 +113087,8 @@ TOOTH PLATE; NC		0	0
 Tooth plates		0	0
 Tooth plates (3)		0	0
 tooth plates (5)		0	0
-Tooth Tooth plates (upper + lower)		0	0
+Tooth Plates (three)		0	0
+Tooth plates (upper + lower)		0	0
 TOOTH PLATES IN VIAL		0	0
 TOOTH PLATES, SPINES		0	0
 TOOTH PLATES, 'SYNTHETODUS' (OVER 1 LB.)		0	0
