@@ -21,6 +21,9 @@ All Topo Maps Alaska		0	1
 aNIS/HerpNET/ORNIS Georeferencing Guidelines	VertNet Georeferencing Guidelines	0	1
 Apple iPhone Compass	Apple iPhone Compass app	0	1
 Apple iPhone Compass app	Apple iPhone Compass app	0	1
+approximate		0	1
+approximate location		0	1
+approximation		0	1
 ArcView GNIS		0	1
 ArcView GNIS/DeLorme NV Gazetteer		0	1
 ArcView GNS & Atlas of Namibia data		0	1
@@ -76,6 +79,7 @@ EDG-M2		0	1
 Energy, Mine and Natural Resources Canada 1:50,000		0	1
 Energy, Mines and Resources Canada, Series A751, Westport, 31C09, 1:50,000, Edition 6, 1994		0	1
 eoreferencing Quick Reference Guide Version 2012-10-08	Georeferencing Quick Reference Guide Version 2012-10-08	0	1
+estimate		0	1
 estimation		0	1
 extent .25 mi, WGS84, Google Maos		0	1
 extent .25 mi, WGS84, Google Maps		0	1
@@ -163,9 +167,14 @@ GNIS gazetteer		0	1
 GNIS lookup Feb 2006		0	1
 Google Earch		0	1
 Google Earth		0	1
+Google Earth approximation		0	1
+Google Earth estimate		0	1
+Google Earth estimation		0	1
 Google Earth Sunset Blvd and Laurel Canyon		0	1
 Google Earth ver. 4.0.2091		0	1
+Google Earth, approximate		0	1
 Google Maps		0	1
+Google Maps estimate		0	1
 Google Maps, WGS84		0	1
 Google Maps, WGS84, extent .1 mi		0	1
 Google Maps, WGS84, July 2011		0	1
@@ -174,6 +183,8 @@ Government of the United Kingdom. Turks and Caicos Islands, 1/25,000		0	1
 gProt		0	1
 GPS		0	1
 GPS 204		0	1
+GPS receiver		0	1
+GPS unit		0	1
 GPS, extent .01 mi		0	1
 GPS204, WGS84, extent .01 mi		0	1
 GPS291, WGS84, extent .05 mi		0	1
@@ -279,9 +290,11 @@ Terrain Navigator 3.02 USGS 1:24,000; DeLorme Northern California Atlas and Gaze
 Terrain Navigator 5.03		0	1
 Terrain Navigator 5.03 USGS 1:100,000		0	1
 Terrain Navigator 5.03 USGS 1:24,000		0	1
+Texas Almanac		0	1
 The extent is (1005.5m) Georeferencing Quick Reference Guide Version 2012-10-08		0	1
 Topo USA 4.0		0	1
 Topo USA Pacific West v 3.0 DeLorme		0	1
+topographic map		0	1
 TOPOZONE		0	1
 Topozone 1:100,000		0	1
 Topozone 1:25,000		0	1
@@ -322,4 +335,5 @@ WGS84		0	1
 WGS-84		0	1
 WGS84 Geolocate		0	1
 WGS84, Google Maps		0	1
+Wikipedia		0	1
 WTS-84		0	1

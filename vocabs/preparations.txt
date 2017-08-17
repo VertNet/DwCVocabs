@@ -17486,6 +17486,7 @@ cleared and stained, wing, tissue		0	0
 Cleared and stained.		0	0
 CLEARED IN STAINED SPECIMEN, SOFT PARTS IN ALCOHOL	cleared and stained | soft parts in alcohol	0	1
 cleared skeleton in plexiglass block		0	0
+cleared stained - 1		0	0
 CLEITHRA		0	0
 cleithrum		0	0
 CLEITHRUM & FRAG ON 2 SLABS. PROBABLY FROM 2 FISH		0	0
@@ -22990,6 +22991,10 @@ Dry Skull+Aliz. Skel		0	0
 Dry Skull+Skin		0	0
 Dry specimen	dry specimen	1	1
 DRY STORAGE		0	0
+dry tissue - 1		0	0
+dry tissue - 2		0	0
+dry tissue - 45; skeleton		0	0
+dry tissue - 5; skeleton - 1		0	0
 Dry to alc		0	0
 Dry, C&S	cleared and stained | dry	0	1
 Dry, C&S, Fluid	cleared and stained | dry | fluid	0	1
@@ -26193,8 +26198,10 @@ Ethanol/Alcohol - 9		0	0
 ETHMOID		0	0
 EtOH	alcoholic	0	1
 EtOH - 1	alcoholic	0	1
+EtOH - 1; digital copy - 1		0	0
 EtOH - 1; EtOH - 1	alcoholic	0	1
 EtOH - 1; jar - 1		0	0
+EtOH - 1; skeleton - 1		0	0
 EtOH - 1; Skin only - 1; skeleton - 1		0	0
 EtOH - 10		0	0
 EtOH - 11		0	0
@@ -36859,6 +36866,8 @@ frozen (tiss) - 2; 70% EtOH - 3		0	0
 frozen (tiss) - 2; 70% EtOH - 6		0	0
 frozen (tiss) - 3; 70% EtOH - 4		0	0
 frozen carcass	frozen carcass	1	1
+frozen carcass - 1		0	0
+frozen carcass - 1; digital copy - 1		0	0
 frozen carcass, tissue	frozen carcass | tissue	0	1
 frozen in liquid N2		0	0
 frozen in liquid N2 | tissue		0	0
@@ -39535,6 +39544,7 @@ Glands, cutaneous (in spirit)		0	0
 Glans penis (in spirit)		0	0
 Glans, Skeleton, Skin, Skull	glans | skeleton | skin | skull	0	1
 Glans, Skin, Skull	glans | skin | skull	0	1
+Glans; Skull; Skel; Skin		0	0
 Glen Smart		0	0
 GLENOID		0	0
 GLENOID & SQUAMOSAL ROOT ZYGO L		0	0
@@ -44837,6 +44847,7 @@ Karyotype, Skin, Skull	karyotype | skin | skull	0	1
 Karyotype, Skin, Skull, tissue	karyotype | skin | skull | tissue	0	1
 Karyotype, Skull	karyotype | skull	0	1
 karyotype, tissue		0	0
+Karytype Only		0	0
 kb	study skin | body skeleton	0	1
 KB - 1		0	0
 KB | skeleton | skin		0	0
@@ -52094,6 +52105,7 @@ leg only		0	0
 leg, skull		0	0
 Leg, Wing & Tail    		0	0
 Leg/atlas		0	0
+Leg; Skull		0	0
 Legg, J.		0	0
 Legg, J. and M. L. Johnson		0	0
 Legs		0	0
@@ -54730,6 +54742,7 @@ MANDIBLE; A+B		0	0
 mandible; antlers		0	0
 MANDIBLE; OPERCULUM; SMALL SKULL BONES & SCALES; ASSOCIATED; BADLY PYRITIZED; A+B		0	0
 mandible; partial		0	0
+Mandible; Skin		0	0
 mandible; voucher not available ?		0	0
 MANDIBLE+SCUTE FRAGS		0	0
 MANDIBLE+TEETH		0	0
@@ -55033,8 +55046,8 @@ max frag w M1 or M2		0	0
 max frag w M1-M2		0	0
 max frag w Px/		0	0
 MAX FRAG WITH ?P3/ & PARTIAL ?M/1		0	0
-MAX FRAG WITH 1 COMPLETE & 2 BROKEN M#/		0	0
-MAX FRAG WITH 2 M#/		0	0
+MAX FRAG WITMAX FRAG WITH 2 M#/		0	0
+/		0	0
 MAX FRAG WITH 2 T#/		0	0
 MAX FRAG WITH 2 TEETH		0	0
 MAX FRAG WITH 3 T#/		0	0
@@ -55043,7 +55056,8 @@ MAX FRAG WITH 4 T#/; JAW FRAG WITH 1 T/#		0	0
 MAX FRAG WITH I#/		0	0
 MAX FRAG WITH L M1/-M2/ | Cast		0	0
 MAX FRAG WITH L P2/-P3/; M1/-M3/; JAW FRAG WITH P/2-M/2 | Cast		0	0
-MAX FRAG WIMAX FRAG WITH M1/-M3/, JAW FRAG WITH P/3-M/3 | Cast		0	0
+MAX FRAG WITH M#/		0	0
+MAX FRAG WITH M1/-M3/, JAW FRAG WITH P/3-M/3 | Cast		0	0
 MAX FRAG WITH M2/		0	0
 MAX FRAG WITH MILK & PERMANENT T#/		0	0
 MAX FRAG WITH P/1-P/4		0	0
@@ -55148,8 +55162,7 @@ MAX WITH ALMOST COMPLETE UPPER DENTITION, FRAGS		0	0
 MAX WITH ALVEOLI		0	0
 MAX WITH BROKEN DP2/-DP3/		0	0
 MAX WITH CHEEK T#/, R P1/-M3/; INCISOR		0	0
-MAX WITH DECIDUOUS P4/-M1/, C1/		0	0
-max with DP3/-DP4		0	0
+MAX WITH DECIDUOUS P4/-M1/, C1/max with DP3/-DP4		0	0
 MAX WITH DP3/-DP4/		0	0
 max with DP4/-M1/		0	0
 MAX WITH DP4/-M1/-M2/ WITH ERUPTING P4/		0	0
@@ -59477,8 +59490,7 @@ originally: 10 % formalin; preservation: C&S		0	0
 originally: 10 % formalin; preservation: ETOH		0	0
 originally: 10 % formalin; preservation: ETOH, C&S		0	0
 originally: 10 % formalin; preservation: ETOH, Osteo		0	0
-originally: 10 % Formalin; preservation: ETOH, otoliths		0	0
-originally: 10 % Formalin; preservation: Osteo		0	0
+originally: 10 % Formaoriginally: 10 % Formalin; preservation: Osteo		0	0
 originally: 10 % formol		0	0
 originally: 10 Formalin		0	0
 originally: 10' Formalin		0	0
@@ -59486,7 +59498,8 @@ originally: 10%  formalin		0	0
 originally: 10% fomalin		0	0
 originally: 10% Foraldehyde		0	0
 originally: 10% Foramlin		0	0
-originally: 10% FORM		0originally: 10% Form + Borax		0	0
+originally: 10% FORM		0	0
+originally: 10% Form + Borax		0	0
 originally: 10% form& 95%ETOH; preservation: 70&95% ETOH		0	0
 originally: 10% form.		0	0
 originally: 10% form. and borax		0	0
@@ -64424,15 +64437,15 @@ partial skel/one ramus/maxilla		0	0
 partial skel/pelvis/humerus		0	0
 partial skel/phalange/scapula		0	0
 partial skel/ribs/long bones/vertebrae		0	0
-partial skel/skull		0	0
-partial skel/teeth		0	0
+partial skel/skull		0partial skel/teeth		0	0
 partial skel/tibia/metatarsal		0	0
 partial skel/tissue		0	0
 partial skel/tissue | tissue		0	0
 partial skel/vertebrae/ribs/ pelvis/leg bones		0	0
 partial skel/wing	partial skeleton | wing	0	1
 partial skel/x-rays R&L flippers/art. flipper		0	0
-partial skeleton	partPartial skeleton - 1	partial skeleton - 1	0	1
+partial skeleton	partial skeleton	1	1
+Partial skeleton - 1	partial skeleton - 1	0	1
 Partial Skeleton - 1; Carapace		0	0
 Partial Skeleton - 1; Fluid - 1		0	0
 Partial Skeleton - 1; Partial Skeleton - 1		0	0
@@ -65567,6 +65580,7 @@ pelvis+limb bones+isol teeth		0	0
 PELVIS+SACRAL VERTEBRA		0	0
 pelvis+vertebrae		0	0
 Penis (in spirit)		0	0
+Penis; Fluid		0	0
 penis; wet		0	0
 penis; wet and dried		0	0
 penultimate phalanx		0	0
@@ -67941,6 +67955,8 @@ preserved head, two legs		0	0
 preserved head, two limbs		0	0
 Preserved in EtOH		0	0
 preserved R post limb		0	0
+preserved, fluid unknown - 1		0	0
+preserved, fluid unknown - 1; digital copy - 1		0	0
 preserved, tissue		0	0
 PRESUMED FIN ELEMENT (2 ARTICULATED UNITS).		0	0
 presumed skin + skull		0	0
@@ -76989,6 +77005,8 @@ Remains of specimen (in spirit)		0	0
 REMARKS	see remarks	0	1
 repeated xiphosuran resting traces		0	0
 replica		0	0
+replica - 1		0	0
+replica - 3		0	0
 rèplica (etílic 70 amb glicerina)		0	0
 rèplica (sec)		0	0
 Replica articulated skeleton		0	0
@@ -79450,6 +79468,7 @@ shattered molar frags		0	0
 Shayne Rohwer 014		0	0
 SHEAR BLADE		0	0
 SHEAR BLADE | Cast		0	0
+Shed		0	0
 Shed Skin		0	0
 Shed skin - 1		0	0
 SHED SKIN (DRY)	shed skin	0	1
@@ -80351,6 +80370,9 @@ Skel; Skin; Tissue		0	0
 Skel; Skin; Tissue; Syrinx		0	0
 Skel; Skin; Tissue; Syrinx; Fluid		0	0
 Skel; Skin; Wings_tail		0	0
+Skel; Skull		0	0
+Skel; Skull; Skel		0	0
+Skel; Skull; Skin		0	0
 Skel; Syrinx		0	0
 Skel; Syrinx; Feather		0	0
 Skel; Syrinx; Flat_skin		0	0
@@ -80595,6 +80617,37 @@ Skeleton - 1; Baleen		0	0
 Skeleton - 1; Baleen - 1		0	0
 Skeleton - 1; Baleen - 1; Skeleton - 1		0	0
 Skeleton - 1; Carapace		0	0
+skeleton - 1; cleared stained - 1		0	0
+skeleton - 1; cleared stained - 1; cleared stained - 1		0	0
+skeleton - 1; cleared stained - 1; EtOH - 0; digital copy - 1		0	0
+skeleton - 1; digital copy - 1		0	0
+skeleton - 1; digital copy - 1; digital copy - 1		0	0
+skeleton - 1; digital copy - 1; dry tissue - 90		0	0
+skeleton - 1; digital copy - 1; EtOH - 0		0	0
+skeleton - 1; dry tissue		0	0
+skeleton - 1; dry tissue - 1		0	0
+skeleton - 1; dry tissue - 10		0	0
+skeleton - 1; dry tissue - 100		0	0
+skeleton - 1; dry tissue - 14		0	0
+skeleton - 1; dry tissue - 15		0	0
+skeleton - 1; dry tissue - 18		0	0
+skeleton - 1; dry tissue - 2		0	0
+skeleton - 1; dry tissue - 20		0	0
+skeleton - 1; dry tissue - 24		0	0
+skeleton - 1; dry tissue - 3		0	0
+skeleton - 1; dry tissue - 30		0	0
+skeleton - 1; dry tissue - 4		0	0
+skeleton - 1; dry tissue - 5		0	0
+skeleton - 1; dry tissue - 50		0	0
+skeleton - 1; dry tissue - 6		0	0
+skeleton - 1; dry tissue - 60		0	0
+skeleton - 1; dry tissue - 7; EtOH - 0; digital copy - 1		0	0
+skeleton - 1; dry tissue - 70		0	0
+skeleton - 1; dry tissue - 8		0	0
+skeleton - 1; EtOH - 0; digital copy - 1		0	0
+skeleton - 1; EtOH - 1		0	0
+skeleton - 1; EtOH - 1; EtOH - 1; study skin - 1		0	0
+skeleton - 1; EtOH - 1; study skin - 1; EtOH - 1		0	0
 Skeleton - 1; Flat skin - 1		0	0
 Skeleton - 1; Fluid - 1		0	0
 Skeleton - 1; Fluid - 1; Tissue - 1; Skin		0	0
@@ -80604,6 +80657,8 @@ Skeleton - 1; Misc. - 1		0	0
 Skeleton - 1; Mounted - 1		0	0
 Skeleton - 1; No data - 1		0	0
 Skeleton - 1; Parasites - 1; Tissue - 1		0	0
+skeleton - 1; replica - 1		0	0
+skeleton - 1; reproduction - 1		0	0
 Skeleton - 1; Skeleton		0	0
 Skeleton - 1; Skeleton - 1	skeleton	0	1
 Skeleton - 1; Skeleton - 1; Skeleton - 1		0	0
@@ -80625,6 +80680,8 @@ Skeleton - 1; Skin; Tissue		0	0
 Skeleton - 1; Skull - 1		0	0
 skeleton - 1; Skull only - 1		0	0
 Skeleton - 1; Study skin - 1		0	0
+skeleton - 1; study skin - 1; EtOH - 1		0	0
+skeleton - 1; study skin - 1; EtOH - 1; EtOH - 1		0	0
 Skeleton - 1; Syrinx - 1		0	0
 Skeleton - 1; Syrinx - 1; Tissue - 100		0	0
 Skeleton - 1; Tanned Skin - 1; Tissue		0	0
@@ -80646,9 +80703,15 @@ Skeleton - 1; Wingspread - 1; Syrinx - 1; Tissue - 100		0	0
 Skeleton - 1; Wingspread - 1; Tissue - 100		0	0
 skeleton - 1|skin - 1		0	0
 Skeleton - 10		0	0
+skeleton - 100		0	0
+skeleton - 13		0	0
+skeleton - 17		0	0
+skeleton - 18		0	0
 Skeleton - 2	skeleton	0	1
 skeleton  2 wings & flattened skin	skeleton | wings | flat skin	0	1
 Skeleton - 2; Ancillary Material - 1		0	0
+skeleton - 20		0	0
+skeleton - 21		0	0
 Skeleton - 3		0	0
 Skeleton - 4		0	0
 Skeleton - 564	skeleton	0	1
@@ -104685,6 +104748,7 @@ skin; skull; mummy		0	0
 skin; skull; partial skeleton		0	0
 skin; skull; partial skeleton; baculum		0	0
 skin; skull; radius; ulna		0	0
+Skin; Skull; Skel		0	0
 skin; skull; skeleton		0	0
 skin; skull; skeleton ?		0	0
 skin; skull; skeleton; flat		0	0
@@ -108561,6 +108625,7 @@ skull; claws		0	0
 skull; claws; vertebrae (3)		0	0
 SKULL; COMPLETE EXCEPT FOR L HORN TIP; & AT LEAST 7 VERTEBRAE		0	0
 SKULL; ENDOCRANIAL CAST		0	0
+Skull; Ethanol		0	0
 Skull; Flat Skin	flat skin | skull	0	1
 skull; flipper		0	0
 skull; horn		0	0
@@ -108577,6 +108642,7 @@ SKULL; JAWS; VERTEBRAE & LIMB BONE FRAGS; L HIND FOOT COMPLETE		0	0
 SKULL; L JAW; R JAW; POSTCRANIAL; R TIBIA SURFACE FIND (S-192); ALL SAME INDIVIDUAL		0	0
 SKULL; L M1/-M2/-M3/; R M1/-M2/-M3/; L JAW; C/#; P/2; R JAW; P/3; M/3; ASSOCIATED		0	0
 SKULL; L MAX, R MAX		0	0
+Skull; Leg Skeleton		0	0
 skull; legs		0	0
 skull; long bones		0	0
 SKULL; MANDIBLE (2)		0	0
@@ -108598,6 +108664,9 @@ skull; pelt		0	0
 SKULL; R DENTARY		0	0
 SKULL; R JAW EDENTULOUS; ASSOCIATED		0	0
 SKULL; SHOULDER GIRDLE; FRONT LIMBS IN VENTRAL VIEW | Cast		0	0
+Skull; Skel		0	0
+Skull; Skel; Scales		0	0
+Skull; Skel; Skin		0	0
 skull; skeleton		0	0
 SKULL; SKELETON PARTIAL OF TWO INDS		0	0
 skull; skeleton; hide sample		0	0
@@ -108612,6 +108681,7 @@ Skull; Skin	skin | skull	0	1
 skull; skin ? tanned		0	0
 skull; skin of head		0	0
 skull; skin voucher not available		0	0
+Skull; Skin; Skel		0	0
 skull; skin; tanned		0	0
 Skull; Skull	skull	0	1
 Skull; Study skin	study skin | skull	0	1
@@ -112997,8 +113067,7 @@ TOOTH FRAGS & ASSOC ?TAPIR		0	0
 TOOTH FRAGS & ASSOC FRAGS		0	0
 TOOTH FRAGS & ASSOC POSTCRANIA		0	0
 TOOTH FRAGS & BONE		0	0
-Tooth Frags (3)		0	0
-tooth frags (deciduous?) and bone frags		0	0
+Tooth Fratooth frags (deciduous?) and bone frags		0	0
 tooth frags and appendicular elements		0	0
 TOOTH FRAGS AND ASSOC		0	0
 TOOTH FRAGS ASSOC.		0	0
@@ -113070,7 +113139,8 @@ Tooth plate (right, lower)		0	0
 Tooth plate (upper + lower)		0	0
 TOOTH PLATE | Cast		0	0
 tooth plate frag		0	0
-TOOTH PTooth plate fragment		0	0
+TOOTH PLATE FRAG ?		0	0
+Tooth plate fragment		0	0
 Tooth plate fragments		0	0
 TOOTH PLATE FRAGS		0	0
 tooth plate w remnants of a cyst		0	0
@@ -113992,6 +114062,7 @@ ungulate cheek tooth		0	0
 UNGULATE LIMB BONES		0	0
 Ungule Frag		0	0
 Uniciform (right)		0	0
+Unid bone; Skull; Skin		0	0
 unident. cranial		0	0
 Unidentifiable tooth fragments		0	0
 Unidentified bivalves		0	0

@@ -29,6 +29,7 @@ Waterbody	IslandGroup	Island
 		Carroll
 		Cat
 		Cedar
+		Cedros
 		Center
 		Chañaral
 		Channel
@@ -76,6 +77,7 @@ Waterbody	IslandGroup	Island
 		Green
 		Greenland
 		Griffith
+		Guadalupe
 		Guadelupe
 		Harker's
 		Heather
@@ -128,7 +130,6 @@ Waterbody	IslandGroup	Island
 		Ocracoke
 		Ono
 		Otter
-		Padre
 		Pelee
 		Point Lobos
 		Port George
@@ -146,6 +147,8 @@ Waterbody	IslandGroup	Island
 		Sakhalin
 		Salicornia
 		Samish
+		San Esteban
+		San José
 		Sandy Hook
 		Santa Rosa
 		Santo
@@ -209,7 +212,10 @@ Waterbody	IslandGroup	Island
 	Archipiélago Juan Fernández	Robinson Crusoe
 	Archipiélago Juan Fernández	Santa Clara
 	Bahamas	Grand Bahama
+	Bahamas	Great Ragged Island
 	Bahamas	Long Island
+	Bahamas	Ragged Island
+	Bahamas	San Salvador
 	Banda Islands	Banda
 	Banda Islands	Banda Besar
 	Bangka-Belitung Islands	Bangka
@@ -250,6 +256,7 @@ Waterbody	IslandGroup	Island
 	Greater Sunda Islands	Togian
 	Guadeloupe	Grand-Terre
 	Hoorn Islands	Alofi
+	Islas Coronados	Coronado
 	Islas de las Perlas	Pedro González
 	Islas de los Timbales	Timbales
 	Islas Desventuradas	San Ambrosio
@@ -303,6 +310,7 @@ Waterbody	IslandGroup	Island
 	Queen Elizabeth Islands	Bathurst
 	Queen Elizabeth Islands	Cornwallis
 	Queen Elizabeth Islands	Ellesmere
+	Queen Elizabeth Islands	Melville
 	Queen Elizabeth Islands	Pim
 	Queen Elizabeth Islands	Prince of Wales
 	Raja Ampat Islands	Batanta
@@ -336,6 +344,8 @@ Waterbody	IslandGroup	Island
 	Sula Islands	Mangole
 	Sula Islands	Sula Besi
 	Sula Islands	Taliabu
+	Sverdrup Islands	Ellef Ringnes
+	Texas Barrier Islands	Padre
 	Tierra del Fuego	Isla Grande de Tierra del Fuego
 	Upernavik Archipelago	Kittorsaq
 	Visayas	Negros
@@ -742,8 +752,6 @@ Gulf of Mexico		Horn
 Gulf of Mexico		Marco
 Gulf of Mexico		Matagorda
 Gulf of Mexico		Mustang Island
-Gulf of Mexico		Padre
-Gulf of Mexico		Padre Island
 Gulf of Mexico		Palmetto
 Gulf of Mexico		Paradise Key
 Gulf of Mexico		Pine
@@ -796,7 +804,6 @@ Gulf of Mexico	Florida Keys	Upper Matecumbe Key
 Gulf of Mexico	Florida Keys	Upper Sugarloaf Key
 Gulf of Mexico	Florida Keys	Water Key
 Gulf of Mexico	Texas Barrier Islands	Mustang
-Gulf of Mexico	Texas Barrier Islands	Padre
 Gulf of Panama	Las Perlas	Isla del Rey
 Gulf of Paria	Five Islands	Nelson
 Gulf of Saint Lawrence		Bonaventure
@@ -1245,7 +1252,6 @@ Northern Atlantic Ocean	Bahamas	Fanny Cay
 Northern Atlantic Ocean	Bahamas	Grand Bahama
 Northern Atlantic Ocean	Bahamas	Great Exuma
 Northern Atlantic Ocean	Bahamas	Great Inagua
-Northern Atlantic Ocean	Bahamas	Great Ragged Island
 Northern Atlantic Ocean	Bahamas	Highbourne Key
 Northern Atlantic Ocean	Bahamas	Inagua
 Northern Atlantic Ocean	Bahamas	Little Inagua
@@ -1380,7 +1386,6 @@ Northern Pacific Ocean		Nootka
 Northern Pacific Ocean		Ozette
 Northern Pacific Ocean		Palmyra Atoll
 Northern Pacific Ocean		Pilot Rock
-Northern Pacific Ocean		Princess Royal
 Northern Pacific Ocean		Rocas Alijos
 Northern Pacific Ocean		San Geronimo
 Northern Pacific Ocean		San Jeronimo
