@@ -102,6 +102,7 @@ GPS		0	1	1	Not a coordinate system.
 GPS coordinates		0	1	1	Not a coordinate system.
 GPS UTM	UTM	0	1	0	
 GPS-WGS84		0	1	1	Not a coordinate system.
+grados minutos segundos	degrees minutes seconds	0	1	0	
 In_Progress		0	1	0	
 Line		0	1	1	Not a coordinate system.
 NAD27		0	1	1	Not a coordinate system.

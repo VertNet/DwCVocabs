@@ -1,9 +1,15 @@
 verbatimTaxonRank	standardTaxonRank	standard	checked
 (Duméril & Bibron, 1836)		0	1
 (Merrem, 1820)		0	1
+Animalia	kingdom	0	1
 bicolor		0	1
+Clase	class	0	1
 class	class	1	1
+Especie	species	0	1
+Familia	family	0	1
 family	family	1	1
+Filo	phylum	0	1
+Género	genus	0	1
 genus	genus	1	1
 gigas		0	1
 hybrid sp	species	0	1
@@ -12,9 +18,11 @@ hybrid subspecies	subspecies	0	1
 indicus		0	1
 infrafrenata		0	1
 Infraorder	infraorder	1	1
+Orden	order	0	1
 order	order	1	1
 papuensis		0	1
 phylum	phylum	1	1
+Reino	kingdom	0	1
 species	species	1	1
 subclass	subclass	1	1
 subespecie	subspecies	0	1

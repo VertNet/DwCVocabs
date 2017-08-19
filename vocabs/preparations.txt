@@ -93,6 +93,8 @@ verbatimPreparations	standardPreparations	standard	checked
 "Partial Skel, Wing, DNA"	DNA | partial skeleton | wing	0	1
 "Partial Skeleton, Wing, DNA"	DNA | partial skeleton | wing	0	1
 "Partial Skeleton, Wing, Tissue"	partial skeleton | tissue | wing	0	1
+"Piel, oseo, en seco"		0	0
+"Piel, oseo, en seco" | Hígado| Corazón | Pulmón | Alcohol 96%		0	0
 "plastic, skel for mount"		0	0
 "skel, no skull"		0	0
 "skel, wing and tail"		0	0
@@ -109,10 +111,10 @@ verbatimPreparations	standardPreparations	standard	checked
 "Skin, Par Skeleton, Wing, DNA"	DNA | partial skeleton | skin | wing	0	1
 "skin, wing & DNA"	DNA | skin | wing	0	1
 "Skin, Wing"	skin | wing	0	1
-"skin, wing, DNA & partial skeleton"	DNA | partial skeleton | skin | wing	0	1
-"skin/skull, teaching"		0	0
+"skin, wing, DNA & partial skeleton"	DNA | partial skeleton | s"skin/skull, teaching"		0	0
 "skull, partial skeleton and carapace"		0	0
-"skull, pa"skull, partial/anlters"		0	0
+"skull, partial"		0	0
+"skull, partial/anlters"		0	0
 "skull, skeleton and carapace"		0	0
 "skull, skeleton and carapace" | "Tissue sent to Laura Bennett, Nova Scotia Leatherback Turtle Working Group"		0	0
 "tibia prox. art." from card cat		0	0
@@ -2286,12 +2288,13 @@ _ TOOTH		0	0
 1 tooth, 1 broken vertebra		0	0
 1 tooth, 1 partial tooth, 3 miscellaneous fragments		0	0
 1 tooth, 1 vert		0	0
-1 tooth, 1 vertebra		0	0
-1 tooth, 1 vertebra
+1 tooth, 1 vertebra		01 tooth, 1 vertebra
 `		0	0
 1 tooth, 2 bone fragments		0	0
 1 TOOTH, 2 FRAGS		0	0
-1 tooth, 21 tooth, 4 dental exotoses		0	0
+1 tooth, 2 partial claspers		0	0
+1 tooth, 3 various bones		0	0
+1 tooth, 4 dental exotoses		0	0
 1 tooth, 8+ verts., some cartilage		0	0
 1 Tooth, pathologically deformed		0	0
 1 tooth, pterygoid?		0	0
@@ -2389,8 +2392,7 @@ _ TOOTH		0	0
 1 whole body in 70 percent ethanol		0	0
 1- whole body in 70 percent ethanol		0	0
 1 whole body in 70 percent ethanol + dry tissue | "tissue sample removed for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 October 2005 to 24 April 2006"		0	0
-1 whole body in 70 percent ethanol + dry tissue | "tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|tissue  sample sent for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 Oc		0	0
-1 whole body in 70 percent ethanol + dry tissue | tissue sample removed for DNA analysis- on loan Z05-1 whole body in 70 percent ethanol + dry tissue | tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|tissue  sample sent for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 Oct		0	0
+1 whole body in 70 percent ethanol + dry tissue | "tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|tissue  sample sent for DNA analysis- on loan Z05-10 to Dr. R1 whole body in 70 percent ethanol + dry tissue | tissue sample sent for DNA analysis to Dr. Theresa Spradling, University of Northern Iowa March 8, 2005|tissue  sample sent for DNA analysis- on loan Z05-10 to Dr. R.J. Brooks University of Guelph,  24 Oct		0	0
 1 whole body in 70% ethanol		0	0
 1 Wing + Tail only		0	0
 1 Wing only		0	0
@@ -9748,6 +9750,7 @@ Alcohol 2 burkar		0	0
 Alcohol 2 rör		0	0
 Alcohol 2rör		0	0
 Alcohol 3 rör		0	0
+Alcohol 96% | Animal entero | Alcohol 96%		0	0
 alcohol apecimen | alcohol apecimen		0	0
 Alcohol burk		0	0
 alcohol collection		0	0
@@ -11540,6 +11543,15 @@ ANGULARS, NC		0	0
 Angulars.		0	0
 ANGULOSPLENIALS (LOT #)		0	0
 Animal burrows		0	0
+Animal completo (Alcohol 70%)		0	0
+Animal completo (Alcohol 70%) | Aleta | Alcohol 96%		0	0
+Animal completo (Alcohol 70%) | Músculo | Alcohol 96%		0	0
+Animal completo (ETOH 96%)		0	0
+Animal completo (ETOH)		0	0
+Animal completo (ETOH) | Hígado | ETOH (96%)		0	0
+Animal completo (ETOH) | Músculo caudal | ETOH (96%)		0	0
+Animal completo (ETOH) | Pata posterior izquierda completa | ETOH (96%)		0	0
+Animal completo (Formol)		0	0
 animal sencer		0	0
 animal sencer (alcohol etílic 100º)		0	0
 animal sencer (alcohol etílic 70º amb 4% glicerina)		0	0
@@ -13880,6 +13892,10 @@ BASICRANIUM,ATLAS,AXIS		0	0
 BASICRANIUM,M2-M3		0	0
 BASICRANIUM,M3,BULLAE		0	0
 BASICRANIUM,VERTEBRAE		0	0
+Basidiocarpo deshidratado		0	0
+Basidiocarpo deshidratado | Tejido de contexto de estípite para muestra de ADN | CTAB		0	0
+Basidiocarpo deshidratado | Tejido de contexto de estípite y tejido de micorrizas para muestra de ADN | CTAB		0	0
+Basidiocarpo deshidratado | Tejido de micorrizas para muestra de ADN | CTAB		0	0
 BASI-HYAL		0	0
 BASIOCCIPITAL	basioccipital	1	1
 BASIOCCIPITAL ?		0	0
@@ -14107,8 +14123,7 @@ Bone and vertebra fragments		0	0
 Bone and vertebrae fragments		0	0
 Bone bed (pieces)		0	0
 BONE BED FRAGS CONTAINING FISH, SCALES, ETC		0	0
-Bone bed sample		0	0
-bone bits and sediment		0	0
+Bone bed samplbone bits and sediment		0	0
 Bone breccia		0	0
 bone frag		0	0
 BONE FRAG ?		0	0
@@ -14136,7 +14151,8 @@ bone fragment, Rt. Astragulus		0	0
 bone fragment, tooth, other girdle element, large		0	0
 Bone fragment.		0	0
 bone fragments		0	0
-Bone fragments (Bone fragments (mammal) + teeth (right canine)		0	0
+Bone fragments (box)		0	0
+Bone fragments (mammal) + teeth (right canine)		0	0
 Bone fragments (ornamented)		0	0
 Bone fragments (unornamented)		0	0
 Bone fragments and crumbs		0	0
@@ -25900,6 +25916,7 @@ En Líquido, cráneo	fluid | skull	0	1
 En Líquido, Cráneo y Esqueleto	fluid | skeleton | skull	0	1
 en líquido, KLH Lysis buffer	fluid | KLH Lysis buffer	0	1
 En Líquido, quim 10	fluid | quim 10	0	1
+En sobre con algodón		0	0
 enamel		0	0
 Enamel frag		0	0
 enamel fragment		0	0
@@ -55015,8 +55032,7 @@ MAX & L DENTARY		0	0
 MAX & MOLAR FRAGS		0	0
 MAX & OTHER FRAGS		0	0
 MAX & PALATE		0	0
-MAX & PARTIAL SKULL		0	0
-MAX & PHALANGES | Cast		0	0
+MAXMAX & PHALANGES | Cast		0	0
 MAX & SIDE OF NASAL, JUVENILE		0	0
 MAX & SYMPHYSIS FRAG		0	0
 MAX & T#/		0	0
@@ -55046,8 +55062,8 @@ max frag w M1 or M2		0	0
 max frag w M1-M2		0	0
 max frag w Px/		0	0
 MAX FRAG WITH ?P3/ & PARTIAL ?M/1		0	0
-MAX FRAG WITMAX FRAG WITH 2 M#/		0	0
-/		0	0
+MAX FRAG WITH 1 COMPLETE & 2 BROKEN M#/		0	0
+MAX FRAG WITH 2 M#/		0	0
 MAX FRAG WITH 2 T#/		0	0
 MAX FRAG WITH 2 TEETH		0	0
 MAX FRAG WITH 3 T#/		0	0
@@ -55162,7 +55178,8 @@ MAX WITH ALMOST COMPLETE UPPER DENTITION, FRAGS		0	0
 MAX WITH ALVEOLI		0	0
 MAX WITH BROKEN DP2/-DP3/		0	0
 MAX WITH CHEEK T#/, R P1/-M3/; INCISOR		0	0
-MAX WITH DECIDUOUS P4/-M1/, C1/max with DP3/-DP4		0	0
+MAX WITH DECIDUOUS P4/-M1/, C1/		0	0
+max with DP3/-DP4		0	0
 MAX WITH DP3/-DP4/		0	0
 max with DP4/-M1/		0	0
 MAX WITH DP4/-M1/-M2/ WITH ERUPTING P4/		0	0
@@ -57888,6 +57905,8 @@ molecular voucher 9.x.02-74		0	0
 molecular voucher Vest. sp. 2		0	0
 molecular voucher Vest. sp.1		0	0
 Molly Hukari		0	0
+Montado en alfiler		0	0
+Montado en alfiler | Pata | Alcohol 96%		0	0
 Moon, M. and Shugart, G. W.		0	0
 Moore, T. J. 53		0	0
 Moore, T. J. 54		0	0
@@ -59463,8 +59482,7 @@ OPERCULUM, A+B		0	0
 operculum, associated fragments		0	0
 OPERCULUM, CLEITHRUM, A+B		0	0
 OPERCULUM, NC		0	0
-OPERCULUM,CLEITHRUM		0	0
-OPERCULUM; NC		0	0
+OPERCULUM,CLEITHRUM		0	OPERCULUM; NC		0	0
 OPISTHOTIC		0	0
 OPROX ULNA		0	0
 ORBITAL AREA OF VERY LARGE CHONDROCRANIUM		0	0
@@ -59490,7 +59508,8 @@ originally: 10 % formalin; preservation: C&S		0	0
 originally: 10 % formalin; preservation: ETOH		0	0
 originally: 10 % formalin; preservation: ETOH, C&S		0	0
 originally: 10 % formalin; preservation: ETOH, Osteo		0	0
-originally: 10 % Formaoriginally: 10 % Formalin; preservation: Osteo		0	0
+originally: 10 % Formalin; preservation: ETOH, otoliths		0	0
+originally: 10 % Formalin; preservation: Osteo		0	0
 originally: 10 % formol		0	0
 originally: 10 Formalin		0	0
 originally: 10' Formalin		0	0
@@ -64416,8 +64435,7 @@ partial shell, limb bones, skull frag		0	0
 partial shell, limb frags		0	0
 partial shell+postcrania		0	0
 PARTIAL SHELLS		0	0
-partial shells, at least 2 individuals mixed		0	0
-partial skel	partial skeleton	0	1
+partial shells, at leaspartial skel	partial skeleton	0	1
 partial skel (+ 1 dried foot for the teaching collection)		0	0
 partial skel (+ 1 dried foot for the teaching collection) | tissue		0	0
 partial skel (front leg & scapula)		0	0
@@ -64437,7 +64455,8 @@ partial skel/one ramus/maxilla		0	0
 partial skel/pelvis/humerus		0	0
 partial skel/phalange/scapula		0	0
 partial skel/ribs/long bones/vertebrae		0	0
-partial skel/skull		0partial skel/teeth		0	0
+partial skel/skull		0	0
+partial skel/teeth		0	0
 partial skel/tibia/metatarsal		0	0
 partial skel/tissue		0	0
 partial skel/tissue | tissue		0	0
@@ -66314,6 +66333,7 @@ Piel de estudio, riñon y ala	kidney | study skin | wing	0	1
 Piel de estudio, riñón, ala	kidney | study skin | wing	0	1
 Piel de estudio, Riñon, higado y esqueleto	kidney | liver | skeleton | study skin	0	1
 Piel de estudio,AK398, cráneo y esqueleto	skeleton | study skin | skull	0	1
+Piel en Seco; Cuerpo en Líquido | Músculo | Alcohol 96%		0	0
 piel y cráneo	skin | skull	0	1
 piel y cráneo | AK 25023		0	0
 piel y cráneo | AK 25024		0	0
@@ -67865,6 +67885,8 @@ PREMOLARS, ANTERIOR DENTITION		0	0
 PREMOLARS, INCISORS, SMALL CANINE, OTHER FRAGS		0	0
 PRENEURAL		0	0
 preneural, pathologic?		0	0
+Prensado y secado		0	0
+Prensado y secado | Hoja | Sílica gel		0	0
 PREOPERCULA		0	0
 PREOPERCULA (?).		0	0
 pre-operculae+spine		0	0
@@ -113067,7 +113089,8 @@ TOOTH FRAGS & ASSOC ?TAPIR		0	0
 TOOTH FRAGS & ASSOC FRAGS		0	0
 TOOTH FRAGS & ASSOC POSTCRANIA		0	0
 TOOTH FRAGS & BONE		0	0
-Tooth Fratooth frags (deciduous?) and bone frags		0	0
+Tooth Frags (3)		0	0
+tooth frags (deciduous?) and bone frags		0	0
 tooth frags and appendicular elements		0	0
 TOOTH FRAGS AND ASSOC		0	0
 TOOTH FRAGS ASSOC.		0	0
@@ -113164,8 +113187,7 @@ TOOTH PLATES, SPINES		0	0
 TOOTH PLATES, 'SYNTHETODUS' (OVER 1 LB.)		0	0
 tooth root		0	0
 TOOTH ROOT ?		0	0
-TOOTH root FRAG		0	0
-tooth root frag.		0	0
+TOOTH root FRtooth root frag.		0	0
 Tooth root fragment		0	0
 TOOTH ROOT I OR C		0	0
 TOOTH ROOTS		0	0

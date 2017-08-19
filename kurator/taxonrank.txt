@@ -1,9 +1,15 @@
 taxonrank	standard	vetted
 (DUMÉRIL & BIBRON, 1836)		1
 (MERREM, 1820)		1
+ANIMALIA	kingdom	1
 BICOLOR		1
+CLASE	class	1
 CLASS	class	1
+ESPECIE	species	1
+FAMILIA	family	1
 FAMILY	family	1
+FILO	phylum	1
+GÉNERO	genus	1
 GENUS	genus	1
 GIGAS		1
 HYBRID SP	species	1
@@ -12,9 +18,11 @@ HYBRID SUBSPECIES	subspecies	1
 INDICUS		1
 INFRAFRENATA		1
 INFRAORDER	infraorder	1
+ORDEN	order	1
 ORDER	order	1
 PAPUENSIS		1
 PHYLUM	phylum	1
+REINO	kingdom	1
 SPECIES	species	1
 SUBCLASS	subclass	1
 SUBESPECIE	subspecies	1
