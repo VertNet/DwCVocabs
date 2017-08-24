@@ -33851,6 +33851,13 @@ Five vertebra 		0	0
 Five vertebrae		0	0
 Five vertebrae from juvenile		0	0
 Five very small teeth		0	0
+fixed in: 50% ethyl / 50% methyl alcohol mix | preserved in: 50% ethyl / 50% methyl alcohol mix		0	0
+fixed in: CONTAMINATED ETOH SAMPLE		0	0
+fixed in: ethano | preserved in: ethanol		0	0
+fixed in: ethanol | preserved in: ethanol		0	0
+fixed in: formaldehyde | preserved in: formaldehyde		0	0
+fixed in: formaldehyde | preserved in: formaldehyde		0	0
+fixed in: NH4OH buffered ethanol | preserved in: NH4OH buffered ethanol		0	0
 Fjäderkarta		0	0
 Fjk		0	0
 Fjk(1983 0131)/Skel		0	0
@@ -55021,8 +55028,7 @@ MAX & JAWS | Cast		0	0
 MAX & JAWS WITH M#/ & M/# | Cast		0	0
 MAX & JAWS, ATLAS, AXIS, SACRUM & LIMB BONES OF DIFFERENT INDIVIDUALS		0	0
 MAX & JAWS, AXIS, ATLAS, LIMB & FOOT BONES OF DIFFERENT INDIVIDUALS		0	0
-MAX & JAWS, FORE & HIND LIMBS; 2 OR MORE INDIVIDUALS		0	0
-MAX & JAWS, HORN, FOOT BONES; ASSOCIATION CONJECTURAL		0	0
+MAX MAX & JAWS, HORN, FOOT BONES; ASSOCIATION CONJECTURAL		0	0
 MAX & JAWS, HUMERUS FRAGS, PELVIS FRAGS, FEMORA, TIBIA FRAGS, CALCANEUM; ASSOCIATION CONJECTURAL		0	0
 MAX & JAWS, MANY		0	0
 MAX & JAWS, PARTIAL SKULL		0	0
@@ -55032,7 +55038,8 @@ MAX & L DENTARY		0	0
 MAX & MOLAR FRAGS		0	0
 MAX & OTHER FRAGS		0	0
 MAX & PALATE		0	0
-MAXMAX & PHALANGES | Cast		0	0
+MAX & PARTIAL SKULL		0	0
+MAX & PHALANGES | Cast		0	0
 MAX & SIDE OF NASAL, JUVENILE		0	0
 MAX & SYMPHYSIS FRAG		0	0
 MAX & T#/		0	0
@@ -59467,8 +59474,7 @@ OPERCULA		0	0
 opercula+other assorted elements		0	0
 OPERCULAR		0	0
 OPERCULAR FRAG		0	0
-OPERCULAR PLATES		0	0
-Opercular.		0	0
+OPERCULAR PLATEOpercular.		0	0
 OPERCULARS		0	0
 operculum		0	0
 OPERCULUM & HAPLOLEPID CAUDAL, NC		0	0
@@ -59482,7 +59488,8 @@ OPERCULUM, A+B		0	0
 operculum, associated fragments		0	0
 OPERCULUM, CLEITHRUM, A+B		0	0
 OPERCULUM, NC		0	0
-OPERCULUM,CLEITHRUM		0	OPERCULUM; NC		0	0
+OPERCULUM,CLEITHRUM		0	0
+OPERCULUM; NC		0	0
 OPISTHOTIC		0	0
 OPROX ULNA		0	0
 ORBITAL AREA OF VERY LARGE CHONDROCRANIUM		0	0
@@ -64424,8 +64431,7 @@ PARTIAL SHELL AND FLUID PARTS	partial shell | fluid parts	0	1
 Partial shell and partial skeleton | Partial shell and partial skeleton		0	0
 partial shell and postcrania		0	0
 Partial shell and skeleton | Partial shell and skeleton		0	0
-PARTIAL SHELL OF SMALL INDIVIDUAL		0	0
-partial shell w/postcrania		0	0
+PARTIAL SHELL OF SMALpartial shell w/postcrania		0	0
 partial shell with almost complete, articulated anterior plastral lobe		0	0
 partial shell, dentary		0	0
 partial shell, juv		0	0
@@ -64435,7 +64441,8 @@ partial shell, limb bones, skull frag		0	0
 partial shell, limb frags		0	0
 partial shell+postcrania		0	0
 PARTIAL SHELLS		0	0
-partial shells, at leaspartial skel	partial skeleton	0	1
+partial shells, at least 2 individuals mixed		0	0
+partial skel	partial skeleton	0	1
 partial skel (+ 1 dried foot for the teaching collection)		0	0
 partial skel (+ 1 dried foot for the teaching collection) | tissue		0	0
 partial skel (front leg & scapula)		0	0
@@ -67976,6 +67983,7 @@ preserved	preserved	0	1
 preserved head, two legs		0	0
 preserved head, two limbs		0	0
 Preserved in EtOH		0	0
+preserved in: formaldehyde		0	0
 preserved R post limb		0	0
 preserved, fluid unknown - 1		0	0
 preserved, fluid unknown - 1; digital copy - 1		0	0
@@ -113171,8 +113179,7 @@ tooth plate with lesion		0	0
 TOOTH PLATE, CHIRODIPTERUS FORM		0	0
 TOOTH PLATE, LARGE, GOOD		0	0
 tooth plate, pathologic		0	0
-tooth plate, rib, longbone, vertebra dorsal, miscellaneous fragments		0	0
-tooth plate, sectioned		0	0
+tooth plate, rib, longbone, vertebra dorsal, miscellaneoutooth plate, sectioned		0	0
 TOOTH PLATE, SKULL ELEMENTS, JUVENILE		0	0
 TOOTH PLATE, VERY RARE		0	0
 Tooth plate.		0	0
@@ -113187,7 +113194,8 @@ TOOTH PLATES, SPINES		0	0
 TOOTH PLATES, 'SYNTHETODUS' (OVER 1 LB.)		0	0
 tooth root		0	0
 TOOTH ROOT ?		0	0
-TOOTH root FRtooth root frag.		0	0
+TOOTH root FRAG		0	0
+tooth root frag.		0	0
 Tooth root fragment		0	0
 TOOTH ROOT I OR C		0	0
 TOOTH ROOTS		0	0
