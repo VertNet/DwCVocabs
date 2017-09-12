@@ -1,4 +1,5 @@
 disposition	standard	vetted
+ E		1
  NO	missing	1
  YES	in collection	1
 "GIVEN TO NATIONAL MUSEUM & EXCHANGED JAN. '90 FOR	voucher elsewhere	1
@@ -247,6 +248,7 @@ DISCARDED: MAY 1925	discarded	1
 DISCARDED: SEP 1893	discarded	1
 DISCARDING MAY 7, 1936	discarded	1
 DISMOUNTED FOR THE STUDY COLLECTION	in collection	1
+DISP		1
 DONATED TO THEODORE ROOSEVELT ASSOC. FOR PERM. EXH	voucher elsewhere	1
 DONATED TO URBAN PARK RANGERS, BROOKLYN, N.Y. - JU	voucher elsewhere	1
 DONATED TO URBAN PARK RANGERS, BROOKLYN, N.Y.-JULY	voucher elsewhere	1
@@ -277,6 +279,14 @@ DUPLICATE SENT TO BOMBAY NAT. SOC., MARCH 1938	duplicate elsewhere	1
 DUPLICATE SENT TO BRISTISH MUSEUM, MARCH 1938	duplicate elsewhere	1
 DUPLICATE SENT TO BRITISH MUSEUM, MARCH 1938	duplicate elsewhere	1
 DUPLICATES ELSEWHERE	duplicate elsewhere	1
+E		1
+E, O		1
+E,0		1
+E,D		1
+E,G		1
+E,O		1
+E,O,D		1
+E,O,G		1
 EX WITH CLEVELAND MUS, FEB 192[ILLEG]	voucher elsewhere	1
 EX WITH S.I. NOV.27, 1889	voucher elsewhere	1
 EX. - TACKAPAUSHA MUSEUM	voucher elsewhere	1
@@ -2099,6 +2109,7 @@ FROM JOHN AKHURST	in collection	1
 FROM L.B. DAVENPORT	in collection	1
 FTA. ST. UNIVERSITY	in collection	1
 G		1
+G, O		1
 GA TO CSIRO, CANBERRA	voucher elsewhere	1
 GIFT - CITY COLLEGE - 1969	voucher elsewhere	1
 GIFT - CITY COLLEGE - MAR 1969	voucher elsewhere	1
@@ -2564,6 +2575,7 @@ GIVEN TO UNIV. KANSAS FEB. 2, '54	voucher elsewhere	1
 GIVEN TO VASSAR COLLEGE, MAR 1917	voucher elsewhere	1
 GIVEN TO W.H. PHELPS, IN EXCHANGE, 9 SEP 1941	voucher elsewhere	1
 GIVING IN EXCHANGE TO CORNELL UNIVERSITY, MAY 1972	voucher elsewhere	1
+H,E,O		1
 HOLOTYPE		1
 HOLOTYPEON LOAN		1
 HUMBOLDT	voucher elsewhere	1
@@ -2718,7 +2730,12 @@ NOV 1966;EXCHANGE H.B. HOUGH, ONTARIO, CANADA	voucher elsewhere	1
 NOV. 1903; EXCHANGED WITH J & J MAILLIARD	voucher elsewhere	1
 NYC AREA EXHIBIT, RETURNED TO COLLECTION 1-87	in collection	1
 NYC EXHIBIT, SEPT 1983	voucher elsewhere	1
-OE	voucher elsewhere	1
+O		1
+O, G		1
+O,D		1
+O,E		1
+O,G		1
+OE		1
 ON EXHIBIT	voucher elsewhere	1
 ON EXHIBIT - MOUNT TAKEN FROM BIOLOGY OF BIRDS HAL	voucher elsewhere	1
 ON EXHIBIT - MOUNTED FOR EXHIBITION IN BIODIVERSIT	voucher elsewhere	1

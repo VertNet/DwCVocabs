@@ -6,13 +6,16 @@ lifestage	standard	vetted
 -----		1
   JUV.	juvenile	1
  ?  JUV.	juvenile	1
+ 1/4		1
  ADULT	adult	1
  IMMATURE	immature	1
  NO DATA GIVEN	unknown	1
  NOT INDICATED	unknown	1
  NOT RECORDED	unknown	1
+ ONE FOURTH		1
  OR JUV.	juvenile	1
- SMALL EMBRYOS	embryos	1
+ SHOWING BLOOD, SMALL  EMBRYO	embro	1
+ SMALL EMBRYOS	embro	1
 "	unknown	1
 "AD"	adult	1
 "AD." [= IM.]	adult	1

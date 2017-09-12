@@ -21,7 +21,7 @@ COLLECTIONCODE	collectionCode	1	dwc
 COLLECTIONID	collectionID	1	dwc		
 COLLECTOR	recordedBy	1	dwc		
 CONTINENT	continent	1	dwc		
-CONTINENT/OCEAN		1	dwc		Maps to continent for continents and waterBody for oceans.
+CONTINENT/OCEAN		1			Maps to continent for continents and waterBody for oceans.
 COORDINATEPRECISION	coordinatePrecision	1	dwc		
 COORDINATES	verbatimCoordinates	1	dwc		
 COORDINATEUNCERTAINTYINMETERS	coordinateUncertaintyInMeters	1	dwc		

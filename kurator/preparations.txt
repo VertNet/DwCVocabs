@@ -1,10 +1,35 @@
 preparations	standard	vetted
+ 		1
+-		1
+--		1
  | TISSUE	tissue	1
+-- | TISSUE	tissue	1
+ ~25 VERTEBRAE	vertebrae	1
+ 1 TOOTH	tooth	1
+ 4 VERTEBRAE	vertebrae	1
+ 6 BONE FRAGMENTS	bone fragments	1
  70% ETOH	70% alcohol	1
+ 70% ETOH + C&S	70% alcohol | cleared and stained	1
+ 8 TEETH	teeth	1
+ ANTLER FRAGMENT	antler fragment	1
+ BONE FRAGMENT 	bone fragment	1
+ BONE FRAGMENTS	bone fragments	1
+ CA. HALF TIBIOFIBULA.	tibiofibula	1
+ CERVICAL VERTEBRA	cervical vertebra	1
+ COMPLETE SKELETON, TISSUE	complete skeleton | tissue	1
+ FLIPPER ELEMENT	flipper	1
+ FLIPPER ELEMENT ?	flipper	1
+ FOOT (PLASTER)	foot	1
+ IVORY FRAGMENT	ivory fragment	1
+ JAW FRAGMENT	jaw fragment	1
+ JAW FRAGMENTS	jaw fragments	1
  L	complete skeleton	1
  L | TISSUE	complete skeleton | tissue	1
  N	round skin	1
  N | TISSUE	round skin | tissue	1
+ NEURAL SPINE	neural spine	1
+ ONE FRAGMENT
+		1
  SKULL	skull	1
 SKULL, FLUID	fluid | skull	1
 "MOUNT, BLOOD"	mount | blood	1
