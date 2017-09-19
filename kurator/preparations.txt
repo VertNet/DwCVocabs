@@ -31,6 +31,8 @@ preparations	standard	vetted
  ONE FRAGMENT
 		1
  SKULL	skull	1
+ SKULL()	skull	1
+ TOOTH ()	tooth	1
 SKULL, FLUID	fluid | skull	1
 "MOUNT, BLOOD"	mount | blood	1
 "MOUNT, TISSUE"	mount | tissue	1

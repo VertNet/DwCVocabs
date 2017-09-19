@@ -1,4 +1,8 @@
 basisofrecord	standard	vetted
+CHECK-CHECK-CHANGE	test	1
+CHECK-CHECK-UNCHANGE	test	1
+CHECK-NEW	test	1
+CHECK-UNCHECK-UNCHANGE	test	1
 FOSSIL	FossilSpecimen	1
 FOSSIL SPECIMEN	FossilSpecimen	1
 FOSSILSPECIMEN	FossilSpecimen	1
@@ -20,6 +24,8 @@ SOUND	MachineObservation	1
 SPECIMEN	PreservedSpecimen	1
 STILLIMAGE	MachineObservation	1
 TEXT	HumanObservation	1
+UNCHECK-CHECK-CHANGE	test	1
+UNCHECK-CHECK-UNCHANGE	test	1
 VOUCHER	PreservedSpecimen	1
 W		1
 ZOOARCHAEOLOGICALSPECIMEN	ZooarchaeologicalSpecimen	1

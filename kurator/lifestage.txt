@@ -24,10 +24,12 @@ lifestage	standard	vetted
 "CHECK"	unknown	1
 "IM"	immature	1
 "IM"[AD?]	immature	1
+"IM."	immature	1
 "INCUB."	incubated	1
 "INCUBATED EGGS"	incubated	1
 "INCUBATED"	incubated	1
 "JUV"	juvenile	1
+"JUV. BY PLUMAGE"	juvenile	1
 "JUV."	juvenile	1
 "JUV." FIRST WINTER OF JUV.	juvenile	1
 "MATURE OR NEARLY SO, AT LEAST 2	adult	1
