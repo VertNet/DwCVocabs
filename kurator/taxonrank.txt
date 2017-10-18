@@ -6,9 +6,11 @@ BICOLOR		1
 CLASE	class	1
 CLASS	class	1
 ESPECIE	species	1
+ESPECIES	species	1
 FAMILIA	family	1
 FAMILY	family	1
 FILO	phylum	1
+GENERO	genus	1
 GÉNERO	genus	1
 GENUS	genus	1
 GIGAS		1
@@ -33,6 +35,7 @@ SUBGENUS	subgenus	1
 SUBORDER	suborder	1
 SUBPHYLUM	subphylum	1
 SUBSPECIES	subspecies	1
+SUPERCLASS	superclass	1
 SUPERFAMILY	superfamily	1
 SUPERORDER	superorder	1
 TRANK		1
