@@ -32,6 +32,7 @@ preparations	standard	vetted
 		1
  SKULL	skull	1
  SKULL()	skull	1
+ TEETH (12)	teeth	1
  TOOTH ()	tooth	1
 SKULL, FLUID	fluid | skull	1
 "MOUNT, BLOOD"	mount | blood	1
