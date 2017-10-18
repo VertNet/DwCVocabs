@@ -1,4 +1,7 @@
 basisofrecord	standard	vetted
+EJEMPLAR PRESERVADO	PreservedSpecimen	1
+ESPECIMEN PRESERVADO	PreservedSpecimen	1
+ESPÉCIMEN PRESERVADO	PreservedSpecimen	1
 FOSSIL	FossilSpecimen	1
 FOSSIL SPECIMEN	FossilSpecimen	1
 FOSSILSPECIMEN	FossilSpecimen	1
@@ -11,6 +14,7 @@ MATERIAL SAMPLE	MaterialSample	1
 MATERIALSAMPLE	MaterialSample	1
 MOVINGIMAGE	MachineObservation	1
 O		1
+OBSERVACIÓN HUMANA	HumanObservation	1
 PRESERVED SPECIMEN	PreservedSpecimen	1
 PRESERVEDSPECIMEN	PreservedSpecimen	1
 PRESERVEDSPECIMENS	PreservedSpecimen	1
