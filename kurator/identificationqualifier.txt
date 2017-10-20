@@ -194,6 +194,8 @@ AFF. PANICULATA	aff. paniculata	1
 AFF. RIPARIA	aff. riparia	1
 AFF. SMILACINUS	aff. smilacinus	1
 AFF. SORORCULA	aff. sororcula	1
+AFF. SP. 3A	aff.	1
+AFF. SP. OLIVER IN OLIVER ET AL. 1975	aff.	1
 AFF. UISAE	aff.	1
 ALONG WITH B548 & B549 SYNTYPE OF SERICORNIS MACULATUS HOUTMANENSIS, ZIETZ, 1921, (SEE SAOA 6(2): 44-5). W.D. DODD NO. 119.		1
 AMERICANA OR CRASSIDENS	species in question	1
@@ -220,6 +222,7 @@ BALANUSSP.	sp.	1
 BALSODICHTHYS X SP.	balsodichthys X sp.	1
 BELLENDENENSIS N.SP.	sp. nov.	1
 BIG		1
+BISACCATE SP. 1	sp.	1
 BOTULUM N. SP.	sp. nov.	1
 BROKEN		1
 BRYANTI N. SP.	sp. nov.	1
@@ -351,6 +354,9 @@ CF. SP	cf.	1
 CF. SP, SPP	cf.	1
 CF. SP.	cf.	1
 CF. SP. 2		1
+CF. SP. A	sp.	1
+CF. SP. G2	sp.	1
+CF. SP. II	sp.	1
 CF. SP., ?SP.	cf.	1
 CF. SP.; WORN	cf.	1
 CF. SPECIES	cf.	1
@@ -440,6 +446,15 @@ GEN NR	genus in question	1
 GEN. ?	genus in question	1
 GEN. A SP. A	Gen. A sp. A	1
 GEN. A, SP. A	gen. A, sp. A	1
+GEN. AND SP. INDET. C	indet.	1
+GEN. B, SP. A	indet.	1
+GEN. C, SP. A	indet.	1
+GEN. D, SP. A	indet.	1
+GEN. ET SP. IND. 2	indet.	1
+GEN. ET SP. INDET	indet.	1
+GEN. ET SP. INDET.	indet.	1
+GEN. ET SP.IND.4	indet.	1
+GEN. ET. SP. INDET	indet.	1
 GEN?	genus in question	1
 GENUS ?	genus in question	1
 GENUS AND SPECIES UNCERTAIN, FAMILY IDENTIFIED		1
@@ -475,12 +490,15 @@ HOLOTYPE OF ASTUR CLARUS ROBUSTUS, ZIETZ, 1914; GREY PHASE, SEE SAOA 1(1):13. W.
 HOLOTYPE OF CHRYSOCOCCYX MINUTILLUS MELVILLENSIS, ZIETZ, 1914 (SEE SAOA 1(1):14. W.D. DODD NO. 666).		1
 HOLOTYPE SAMA?? 300MM		1
 HYLA SP.	sp.	1
+I NOV. GEN. NOV. SP. (GINSBURG 1964)	gen. nov.	1
 I. SP. B	sp.	1
 IDENTIFIED		1
 INCERTAE SEDIS	incertae sedis	1
 INDET SP.	sp.	1
 INDET. SP.	sp.	1
 INDET. SP. 1	sp.	1
+INDET. SP. 2	indet.	1
+INDET. SP. B	indet.	1
 INFORMAL	informal	1
 INORNATUS X SP. UNIPARENS		1
 ISOLEPIS SP.1	sp.	1
@@ -558,6 +576,7 @@ N. SP. 7	sp. nov.	1
 N. SP. 8	sp. nov.	1
 N. SP. 9	sp. nov.	1
 N. SP. A	sp. nov.	1
+N. SP. A.	sp. nov.	1
 N. SP. B	sp. nov.	1
 N. SP. B (SHORT GLAND)	sp. nov.	1
 N. SP. C	sp. nov.	1
@@ -566,8 +585,15 @@ N. SP. D OF KLAPPER	n. sp. D of Klapper	1
 N. SP. E OF KLAPPER	n. sp. E of Klapper	1
 N. SP. F OF KLAPPER	n. sp. F of Klapper	1
 N. SP. J	sp. nov.	1
+N. SP. KUES & BATTEN 2001	sp. nov.	1
+N. SP. L	sp. nov.	1
+N. SP. M	sp. nov.	1
 N. SP. MS	sp. nov.	1
 N. SP. Q	sp. nov.	1
+N. SP. R	sp. nov.	1
+N. SP.2	sp. nov.	1
+N. SP.3	sp. nov.	1
+N. SP.4	sp. nov.	1
 N.SP.	sp. nov.	1
 N.SP. "COMMON"	sp. nov.	1
 N.SP. "TAVI"	sp. nov.	1
@@ -590,7 +616,9 @@ NEAR SP	cf.	1
 NEAR SP.	cf.	1
 NEW SP.	sp. nov.	1
 NOT ID-ABLE TO SP. (WEIL 2004)		1
+NOV GEN. NOV SP.2	gen. nov.	1
 NOV SP.1	sp. nov.	1
+NOV. GEN. NOV. SP.2	gen. nov.	1
 NOV. SUBSP.	ssp. nov.	1
 NOVECRINITA N.	sp. nov.	1
 NR	cf.	1
@@ -724,6 +752,7 @@ SP. (? N. SP.)	sp.	1
 SP. (? NEWNESI)	sp.	1
 SP. (? SINENSIS)	sp.	1
 SP. (?PALUMBUS)	sp.	1
+SP. (A)	sp.	1
 SP. (ALBINO)	sp.	1
 SP. (ALNORUM OR TRAILLI ?)	sp.	1
 SP. (ALTAMAZONICA COMPLEX)	sp.	1
@@ -731,11 +760,13 @@ SP. (AMMOCEOTES)	sp.	1
 SP. (AMMOCOETE)	sp.	1
 SP. (AMMOCOETES)	sp.	1
 SP. (ARFAKIANA GROUP)	sp.	1
+SP. (B)	sp.	1
 SP. (BASIN FORM)	sp.	1
 SP. (BICOLOR COMPLEX)	sp.	1
 SP. (BOGOTENSIS GROUP)	sp.	1
 SP. (BROAD HEAD)	sp.	1
 SP. (BROADTAIL MADTOM)	sp.	1
+SP. (C)	sp.	1
 SP. (C.F. EUROPAEUS)	sp.	1
 SP. (CALAMARINA-GROUP)	sp.	1
 SP. (CATHARINAE-GROUP)	sp.	1
@@ -757,10 +788,13 @@ SP. (CF. VEXILLARIS)	cf. vexillaris	1
 SP. (CHALCONOTA-GROUP)	sp.	1
 SP. (COCOS LONG-NOSE)	sp.	1
 SP. (COELOMYS)	sp.	1
+SP. (D)	sp.	1
 SP. (DENDRITICUS ?)	species in question	1
 SP. (DRACO GROUP)	cf. draco group	1
+SP. (E)	sp.	1
 SP. (E. UMBRINUS OR E. QUADRIVITTATUS)	sp.	1
 SP. (EBELINGI ?)	species in question	1
+SP. (F)	sp.	1
 SP. (FUSCOAURATUS-GROUP)	sp.	1
 SP. (FUSCUS COMPLEX)	sp.	1
 SP. (GRAMMICUS-GROUP)	sp.	1
@@ -882,9 +916,14 @@ SP. “WHITE DOTS”	sp. nov.	1
 SP. “WIDE LINE”	sp. nov.	1
 SP. “WIDE STRIPE”	sp. nov.	1
 SP. “YUPUKARI”	sp. nov.	1
+SP. <20 MICROMETERS	sp.	1
+SP. <29 MICROMETERS	sp.	1
 SP. 1	sp.	1
 SP. '1'	sp.	1
 SP. 1 (CF. MACROPHTHALMA)	cf. macrophthalma	1
+SP. 1 AFF. LIRATA	sp.	1
+SP. 1 AFF. RADIALIS	sp.	1
+SP. 1 GR. COSTATUM	sp.	1
 SP. 1.	sp.	1
 SP. 10	sp.	1
 SP. 11	sp.	1
@@ -898,6 +937,9 @@ SP. 18	sp. 18	1
 SP. 19	sp. 19	1
 SP. 2	sp.	1
 SP. '2'	sp.	1
+SP. 2 AFF EMARGINATA	sp.	1
+SP. 2 AFF. RADIALIS	sp.	1
+SP. 2 GR. COSTATUM	sp.	1
 SP. 20	sp. 20	1
 SP. 21	sp. 21	1
 SP. 22	sp. 22	1
@@ -939,6 +981,20 @@ SP. 36	sp.	1
 SP. 37	sp. 37	1
 SP. 38	sp. 38	1
 SP. 39	sp. 39	1
+SP. 3B	sp.	1
+SP. 3C	sp.	1
+SP. 3D	sp.	1
+SP. 3F	sp.	1
+SP. 3G	sp.	1
+SP. 3H	sp.	1
+SP. 3I	sp.	1
+SP. 3J	sp.	1
+SP. 3K	sp.	1
+SP. 3L	sp.	1
+SP. 3M	sp.	1
+SP. 3N	sp.	1
+SP. 3O	sp.	1
+SP. 3P	sp.	1
 SP. 4	sp.	1
 SP. 4 DFH	sp.	1
 SP. 40	sp. 40	1
@@ -974,9 +1030,12 @@ SP. 9 DFH	sp.	1
 SP. A	sp.	1
 SP. A  (N. SP.)	sp. nov.	1
 SP. A AFF. GRANULOSUS	sp. A aff. granulosus	1
+SP. A CASIER AND LETHIERS 1998	sp.	1
+SP. A CASIER AND LETHIERS, 1998	sp.	1
 SP. A CF. PSEUDOFORBESI	sp. a cf. pseudoforbesi	1
 SP. A JOHNSON	sp. A Johnson	1
 SP. A SENSU RISTEDT	sp. A sensu Ristedt	1
+SP. A SENSUS BECKER (1971)	sp.	1
 SP. A WITZKE 1976	sp. A Witzke 1976	1
 SP. A WITZKE AND STRIMPLE	sp. A Witzke and Strimple	1
 SP. A.	sp.	1
@@ -994,6 +1053,8 @@ SP. B	sp.	1
 SP. B (D?)	sp.	1
 SP. B AFF. GRANULOSUS	sp. B aff. granulosus	1
 SP. B CF. PARAFORBESI	sp. b cf. paraforbesi	1
+SP. B IMBRIE	sp.	1
+SP. B LETHIERS AND CASIER 1996	sp.	1
 SP. B SENSU RISTEDT	sp. B sensu Ristedt	1
 SP. B WITZKE 1976	sp. B Witzke 1976	1
 SP. B WITZKE AND STRIMPLE	sp. B Witzke and Strimple	1
@@ -1115,8 +1176,13 @@ SP. E WITZKE AND STRIMPLE	sp. E Witzke and Strimple	1
 SP. E.	sp. nov.	1
 SP. 'EBANO'	sp.	1
 SP. EGG CASES		1
+SP. ERECT FORM	sp.	1
 SP. F	sp.	1
+SP. FORME A	sp.	1
 SP. G	sp.	1
+SP. G PRIME	sp.	1
+SP. G1	sp.	1
+SP. G2	sp.	1
 SP. 'GRAMMARION' MS	sp.	1
 SP. GREEN	sp.	1
 SP. H		1
@@ -1131,9 +1197,16 @@ SP. INCERT	sp. incert.	1
 SP. INCERT.	sp. incert.	1
 SP. INDET	sp.	1
 SP. INDET.	sp. indet.	1
+SP. INDET. A	sp.	1
+SP. INDET. B	sp.	1
+SP. INDET. C	sp.	1
+SP. INDET. D	sp.	1
+SP. INDET. E	sp.	1
 SP. IV		1
 SP. J	sp.	1
 SP. J SENSU RISTEDT	sp. J sensu Ristedt	1
+SP. JUV.	sp.	1
+SP. JUVENILE	sp.	1
 SP. K	sp.	1
 SP. K SENSU RISTEDT	sp. K sensu Ristedt	1
 SP. KIM-2	sp.	1
@@ -1142,6 +1215,7 @@ SP. L260	sp. nov.	1
 SP. L333	sp. nov.	1
 SP. L340	sp. nov.	1
 SP. L66	sp. nov.	1
+SP. LARGE	sp.	1
 SP. LARGE TAIL NOV.SP.A	sp. large tail nov.sp.A	1
 SP. 'LAS FLORES'	sp.	1
 SP. LEMON	sp.	1
@@ -1152,6 +1226,7 @@ SP. 'LINEA'	sp.	1
 SP. LISSMANNI	sp.	1
 SP. M	sp. M	1
 SP. MAGNOSTIPES	sp.	1
+SP. MEDIUM	sp.	1
 SP. MISSING	sp.	1
 SP. MORPH A	sp. morph A	1
 SP. MORPH B	sp. morph B	1
@@ -1169,6 +1244,10 @@ SP. NOV. 1	sp. nov.	1
 SP. NOV. 2	sp. nov.	1
 SP. NOV. 2	sp. nov.	1
 SP. NOV. A	sp. nov. A	1
+SP. NOV. A CASIER AND LETHIERS 1998	sp. nov.	1
+SP. NOV. A CASIER AND LETHIERS 2000	sp. nov.	1
+SP. NOV. A CASIER AND LETHIERS, 2000	sp. nov.	1
+SP. NOV. A SENSU CASIER AND LETHIERS (1996)	sp. nov.	1
 SP. NOV. ANGUSTIROSTRIS HELLMAYRI	sp. nov.	1
 SP. NOV. B	sp. nov. B	1
 SP. NOV. BONARIENSIS	sp. nov.	1
@@ -1176,18 +1255,23 @@ SP. NOV. C	sp. nov. C	1
 SP. NOV. FITZPATRICK	sp. nov.	1
 SP. NOV. MS	sp. nov.	1
 SP. NZO	sp. nov.	1
+SP. O	sp.	1
 SP. OFFOUENSIS	sp.	1
 SP. OJO PEQUENO	sp.	1
 SP. OKANOENSIS	sp.	1
 SP. 'O-LUGUBRIS'	sp.	1
 SP. 'O-WALACII'	sp.	1
 SP. 'O-WALLACII'	sp.	1
+SP. P	sp.	1
 SP. PALIDA	sp.	1
 SP. PARSEGNIS	sp.	1
 SP. PUFFINUS	sp.	1
+SP. Q	sp.	1
+SP. R	sp.	1
 SP. ROBERTSI	sp.	1
 SP. RUFINA	sp.	1
 SP. RW-32	sp.	1
+SP. S	sp.	1
 SP. SCISSOR TAIL	sp.	1
 SP. 'SCISSOR TAIL'	sp.	1
 SP. 'SICKLEFIN'	sp.	1
@@ -1209,11 +1293,14 @@ SP. TENUICAUDA	sp.	1
 SP. TS2	sp.	1
 SP. TS3	sp.	1
 SP. TYPE 1	sp.	1
+SP. U	sp.	1
 SP. UNDET.	sp. incert.	1
 SP. UNNAMED	sp.	1
+SP. V	sp.	1
 SP. VADAMANS	sp.	1
 SP. VEL JUGLANS SP.	sp. vel Juglans sp.	1
 SP. VII		1
+SP. W	sp.	1
 SP. W1	sp.	1
 SP. W2	sp.	1
 SP. W4	sp.	1
@@ -1222,7 +1309,9 @@ SP. X	sp.	1
 SP. X SP.	sp. X sp.	1
 SP. X VENUSTUS	sp. X venustus	1
 SP. Y	sp.	1
+SP. Z	sp.	1
 SP.	sp.	1
+SP., LAGENID	sp.	1
 SP..	sp.	1
 SP.;	sp.	1
 SP.”VENTUARI”	sp. nov.	1
@@ -1269,6 +1358,7 @@ SP.K	sp.K	1
 SP.L	sp.L	1
 SP.M	sp.M	1
 SP.N	sp. nov.	1
+SP.N.	sp.	1
 SP.--NOT M. MOGOLLONENSIS	sp.	1
 SP.NOV.	sp. nov.	1
 SP.NOV.-LAETOLI	sp.nov.-Laetoli	1
@@ -1289,12 +1379,14 @@ SPARVERIA (SUBSP.)	ssp.	1
 SPCF	cf.	1
 SPECIES IN QUESTION	species in question	1
 SPECIES QUESTIONED	species in question	1
+SPECIES: "	sp.	1
 SPECIES: ?	species in question	1
 SPECIES: AFF.	aff.	1
 SPECIES: CF.	cf.	1
 SPECIES: EX GR.	ex gr.	1
 SPECIES: INFORMAL	informal	1
 SPECIES: N. SP.	sp. nov.	1
+SPECIES: SENSU LATO	sp.	1
 SPIRALOCUCULLATA SP. INED.	spiralocucullata sp. ined.	1
 SS ?	subspecies in question	1
 SS CF	cf.	1
@@ -1304,7 +1396,23 @@ STICTOS N.SP.	sp. nov.	1
 SUBADULT		1
 SUBADULT?		1
 SUBCL. ELASMOBRANCHII		1
+SUBGENUS: "		1
+SUBGENUS: " | AFF.		1
+SUBGENUS: " | CF.		1
 SUBGENUS: ?	subgenus in question	1
+SUBGENUS: ? | ?		1
+SUBGENUS: ? | AFF.		1
+SUBGENUS: ? | CF.		1
+SUBGENUS: ? | N. SP.		1
+SUBGENUS: AFF.		1
+SUBGENUS: AFF. | AFF.		1
+SUBGENUS: CF.		1
+SUBGENUS: CF. | CF.		1
+SUBGENUS: EX GR.		1
+SUBGENUS: INFORMAL		1
+SUBGENUS: N. SUBGEN.	subgen. nov.	1
+SUBGENUS: N. SUBGEN. | CF.	subgen. nov.	1
+SUBGENUS: N. SUBGEN. | N. SP.	subgen. nov.	1
 SUBORDER= ACANTHUROIDEI		1
 SUBSP CF	cf.	1
 SUBSP. 	ssp.	1
@@ -1331,6 +1439,7 @@ UNIDENTATA PARV		1
 UNIDENTATA PRAS		1
 UNIDENTATA SEBE		1
 UNIDENTIFIED		1
+V. LARGE SP.	sp.	1
 VENUSTA X SP.	venusta X sp.	1
 VESPERTILIONOIDEA CF FM	cf.	1
 VIVAX X SP.	vivax X sp.	1
