@@ -22,12 +22,14 @@ COLLECTIONID	collectionID	1	dwc
 COLLECTOR	recordedBy	1	dwc		
 CONTINENT	continent	1	dwc		
 CONTINENT/OCEAN		1			Maps to continent for continents and waterBody for oceans.
+CONTINENTE	continent	1	dwc		
 COORDINATEPRECISION	coordinatePrecision	1	dwc		
 COORDINATES	verbatimCoordinates	1	dwc		
 COORDINATEUNCERTAINTYINMETERS	coordinateUncertaintyInMeters	1	dwc		
 COUNTRY	country	1	dwc		
 COUNTRYCODE	countryCode	1	dwc		
 COUNTY	county	1	dwc		
+CUENCA	waterBody	1	dwc		
 DATAGENERALIZATIONS	dataGeneralizations	1	dwc		
 DATASETID	datasetID	1	dwc		
 DATASETNAME	datasetName	1	dwc		
@@ -48,6 +50,7 @@ DECIMALLATITUDE	decimalLatitude	1	dwc
 DECIMALLONGITUDE	decimalLongitude	1	dwc		
 DETERMINED BY	identifiedBy	1	dwc		
 DISPOSITION	disposition	1	dwc		
+DRAINAGE	waterBody	1	dwc		
 DWC:ACCEPTEDNAMEUSAGE	acceptedNameUsage	1	dwc		
 DWC:ACCEPTEDNAMEUSAGEID	acceptedNameUsageID	1	dwc		
 DWC:ASSOCIATEDMEDIA	associatedMedia	1	dwc		
@@ -217,6 +220,7 @@ EARLIESTERAORLOWESTERATHEM	earliestEraOrLowestErathem	1	dwc
 EARLIESTPERIODORLOWESTSYSTEM	earliestPeriodOrLowestSystem	1	dwc		
 ENDDAYOFYEAR	endDayOfYear	1	dwc		
 ESTABLISHMENTMEANS	establishmentMeans	1	dwc		
+ESTADO	stateProvince	1	dwc		
 EVENTDATE	eventDate	1	dwc		
 EVENTID	eventID	1	dwc		
 EVENTREMARKS	eventRemarks	1	dwc		
@@ -259,6 +263,7 @@ INFORMATIONWITHHELD	informationWithheld	1	dwc
 INFRASPECIFICEPITHET	infraspecificEpithet	1	dwc		
 INSTITUTIONCODE	institutionCode	1	dwc		
 INSTITUTIONID	institutionID	1	dwc		
+ISLA	island	1	dwc		
 ISLAND	island	1	dwc		
 ISLANDGROUP	islandGroup	1	dwc		
 KINGDOM	kingdom	1	dwc		
@@ -297,6 +302,7 @@ MONTH	month	1	dwc
 MONTHCOLLECTED	month	1	dwc		
 MONTHIDENTIFIED	monthIdentified	1	dwcloud		Contributes to dwc:dateIdentified
 MUNICIPALITY	municipality	1	dwc		
+MUNICIPIO	municipality	1	dwc		
 NAMEACCORDINGTO	nameAccordingTo	1	dwc		
 NAMEACCORDINGTOID	nameAccordingToID	1	dwc		
 NAMEPUBLISHEDIN	namePublishedIn	1	dwc		
@@ -307,6 +313,9 @@ NOMENCLATURALSTATUS	nomenclaturalStatus	1	dwc
 OCCURRENCEID	occurrenceID	1	dwc		
 OCCURRENCEREMARKS	occurrenceRemarks	1	dwc		
 OCCURRENCESTATUS	occurrenceStatus	1	dwc		
+OCEAN	waterBody	1	dwc		
+OCEANO	waterBody	1	dwc		
+OCÉANO	waterBody	1	dwc		
 ORDER	order	1	dwc		
 ORGANISMID	organismID	1	dwc		
 ORGANISMNAME	organismName	1	dwc		
@@ -318,6 +327,7 @@ ORIGINALNAMEUSAGE	originalNameUsage	1	dwc
 ORIGINALNAMEUSAGEID	originalNameUsageID	1	dwc		
 OTHERCATALOGNUMBERS	otherCatalogNumbers	1	dwc		
 OWNERINSTITUTIONCODE	ownerInstitutionCode	1	dwc		
+PAÍS	country	1	dwc		
 PARENTEVENTID	parentEventID	1	dwc		
 PARENTNAMEUSAGE	parentNameUsage	1	dwc		
 PARENTNAMEUSAGEID	parentNameUsageID	1	dwc		
@@ -332,11 +342,16 @@ PRESERVATIVE		1		FIMS	Contributes to dwc:preparations
 PREVIOUSIDENTIFICATIONS	previousIdentifications	1	dwc		
 PREVIOUSTISSUEID	otherCatalogNumbers	1	dwc	FIMS	Contributes "tissue" to dwc:preparations if present
 PRINCIPALINVESTIGATOR		1		FIMS	
+PROVINCE	stateProvince	1	dwc		
+PROVINCIA	stateProvince	1	dwc		
 RECORDEDBY	recordedBy	1	dwc		
 RECORDNUMBER	recordNumber	1	dwc		
 REFERENCES	references	1	dcterms		
 REPRODUCTIVECONDITION	reproductiveCondition	1	dwc		
 RIGHTSHOLDER	rightsHolder	1	dcterms		
+RIO	waterBody	1	dwc		
+RÍO	waterBody	1	dwc		
+RIVER	waterBody	1	dwc		
 SAMPLESIZEUNIT	sampleSizeUnit	1	dwc		
 SAMPLESIZEVALUE	sampleSizeValue	1	dwc		
 SAMPLINGEFFORT	samplingEffort	1	dwc		
@@ -348,6 +363,8 @@ SEX	sex	1	dwc
 SPECIES	specificEpithet	1	dwc		
 SPECIFICEPITHET	specificEpithet	1	dwc		
 STARTDAYOFYEAR	startDayOfYear	1	dwc		
+STATE	stateProvince	1	dwc		
+STATE/PROVINCE	stateProvince	1	dwc		
 STATEPROVINCE	stateProvince	1	dwc		
 SUBFAMILY		1			Can be mapped into dwc:higherClassification with other fields.
 SUBGENUS	subgenus	1	dwc		
