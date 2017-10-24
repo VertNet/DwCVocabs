@@ -2,6 +2,8 @@ fieldname	standard	vetted	namespace	source	comment
 ACCEPTEDNAMEUSAGE	acceptedNameUsage	1	dwc		
 ACCEPTEDNAMEUSAGEID	acceptedNameUsageID	1	dwc		
 ACCESSRIGHTS	accessRights	1	dcterms		
+ANO	year	1	dwc		
+AÑO	year	1	dwc		
 ASSOCIATEDMEDIA	associatedMedia	1	dwc		
 ASSOCIATEDOCCURRENCES	associatedOccurrences	1	dwc		
 ASSOCIATEDORGANISMS	associatedOrganisms	1	dwc		
@@ -16,13 +18,16 @@ BEHAVIOR	behavior	1	dwc
 BIBLIOGRAPHICCITATION	bibliographicCitation	1	dcterms		
 CATALOGNUMBER	catalogNumber	1	dwc		
 CATNUM	catalogNumber	1	dwc		
+CLASE	class	1	dwc		
 CLASS	class	1	dwc		
+COLECTOR	recordedBy	1	dwc		
 COLLECTIONCODE	collectionCode	1	dwc		
 COLLECTIONID	collectionID	1	dwc		
 COLLECTOR	recordedBy	1	dwc		
 CONTINENT	continent	1	dwc		
 CONTINENT/OCEAN		1			Maps to continent for continents and waterBody for oceans.
 CONTINENTE	continent	1	dwc		
+COORDENADAS	verbatimCoordinates	1	dwc		
 COORDINATEPRECISION	coordinatePrecision	1	dwc		
 COORDINATES	verbatimCoordinates	1	dwc		
 COORDINATEUNCERTAINTYINMETERS	coordinateUncertaintyInMeters	1	dwc		
@@ -35,6 +40,7 @@ DATASETID	datasetID	1	dwc
 DATASETNAME	datasetName	1	dwc		
 DATE		1			Could be one of many fields.
 DATEIDENTIFIED	dateIdentified	1	dwc		
+DATUM	geodeticDatum	1	dwc		
 DAY	day	1	dwc		
 DAYCOLLECTED	day	1	dwc		
 DAYIDENTIFIED	dayIdentified	1	dwcloud		Contributes to dwc:dateIdentified
@@ -49,6 +55,8 @@ DCTERMS:TYPE	type	1	dcterms
 DECIMALLATITUDE	decimalLatitude	1	dwc		
 DECIMALLONGITUDE	decimalLongitude	1	dwc		
 DETERMINED BY	identifiedBy	1	dwc		
+DIA	day	1	dwc		
+DÍA	day	1	dwc		
 DISPOSITION	disposition	1	dwc		
 DRAINAGE	waterBody	1	dwc		
 DWC:ACCEPTEDNAMEUSAGE	acceptedNameUsage	1	dwc		
@@ -219,6 +227,7 @@ EARLIESTEPOCHORLOWESTSERIES	earliestEpochOrLowestSeries	1	dwc
 EARLIESTERAORLOWESTERATHEM	earliestEraOrLowestErathem	1	dwc		
 EARLIESTPERIODORLOWESTSYSTEM	earliestPeriodOrLowestSystem	1	dwc		
 ENDDAYOFYEAR	endDayOfYear	1	dwc		
+ESPECIE	specificEpithet	1	dwc		
 ESTABLISHMENTMEANS	establishmentMeans	1	dwc		
 ESTADO	stateProvince	1	dwc		
 EVENTDATE	eventDate	1	dwc		
@@ -226,15 +235,20 @@ EVENTID	eventID	1	dwc
 EVENTREMARKS	eventRemarks	1	dwc		
 EVENTTIME	eventTime	1	dwc		
 EXTRACTIONID		1		FIMS	
+FAMILIA	family	1	dwc		
 FAMILY	family	1	dwc		
+FECHA DE COLECTA	eventDate	1	dwc		
 FIELD #		1			Could be a recordNumber or a fieldNumber.
 FIELDNOTES	fieldNotes	1	dwc		
 FIELDNUMBER	fieldNumber	1	dwc		
+FILO	phylum	1	dwc		
 FOOTPRINTSPATIALFIT	footprintSpatialFit	1	dwc		
 FOOTPRINTSRS	footprintSRS	1	dwc		
 FOOTPRINTWKT	footprintWKT	1	dwc		
 FORMATION	formation	1	dwc		
 FUNDINGSOURCE		1		FIMS	
+GENERO	genus	1	dwc		
+GÉNERO	genus	1	dwc		
 GENETICTISSUETYPE		1		FIMS	Contributes "tissue" to dwc:preparations if present
 GENUS	genus	1	dwc		
 GEODETICDATUM	geodeticDatum	1	dwc		
@@ -274,17 +288,20 @@ LATESTEONORHIGHESTEONOTHEM	latestEonOrHighestEonothem	1	dwc
 LATESTEPOCHORHIGHESTSERIES	latestEpochOrHighestSeries	1	dwc		
 LATESTERAORHIGHESTERATHEM	latestEraOrHighestErathem	1	dwc		
 LATESTPERIODORHIGHESTSYSTEM	latestPeriodOrHighestSystem	1	dwc		
+LATITUD	verbatimLatitude	1	dwc		
 LATITUDE	verbatimLatitude	1	dwc		If dwc:verbatimLatitude not populated
 LENGTH	length	1	dwcloud		dynamicProperties as length, or MeasurementOrFact
 LICENSE	license	1	dcterms		
 LIFESTAGE	lifeStage	1	dwc		
 LITHOSTRATIGRAPHICTERMS	lithostratigraphicTerms	1	dwc		
+LOCALIDAD	locality	1	dwc		
 LOCALITY	locality	1	dwc		
 LOCATIONACCORDINGTO	locationAccordingTo	1	dwc		
 LOCATIONID	locationID	1	dwc		
 LOCATIONREMARKS	locationRemarks	1	dwc		
 LON	verbatimLongitude	1	dwc		If dwc:verbatimLongitude not populated
 LONG	verbatimLongitude	1	dwc		If dwc:verbatimLongitude not populated
+LONGITUD	verbatimLongitude	1	dwc		
 LONGITUDE	verbatimLongitude	1	dwc		If dwc:verbatimLongitude not populated
 LOT COUNT	individualCount	1	dwc		
 LOWESTBIOSTRATIGRAPHICZONE	lowestBiostratigraphicZone	1	dwc		
@@ -293,6 +310,7 @@ MAXIMUMDEPTHINMETERS	maximumDepthInMeters	1	dwc
 MAXIMUMDISTANCEABOVESURFACEINMETERS	maximumDistanceAboveSurfaceInMeters	1	dwc		
 MAXIMUMELEVATIONINMETERS	maximumElevationInMeters	1	dwc		
 MEMBER	member	1	dwc		
+MES	month	1	dwc		
 MICROHABITAT		1		FIMS	
 MINIMUMDEPTHINMETERS	minimumDepthInMeters	1	dwc		
 MINIMUMDISTANCEABOVESURFACEINMETERS	minimumDistanceAboveSurfaceInMeters	1	dwc		
@@ -308,14 +326,18 @@ NAMEACCORDINGTOID	nameAccordingToID	1	dwc
 NAMEPUBLISHEDIN	namePublishedIn	1	dwc		
 NAMEPUBLISHEDINID	namePublishedInID	1	dwc		
 NAMEPUBLISHEDINYEAR	namePublishedInYear	1	dwc		
+NOMBRE CIENTIFICO	scientificName	1	dwc		
+NOMBRE CIENTÍFICO	scientificName	1	dwc		
 NOMENCLATURALCODE	nomenclaturalCode	1	dwc		
 NOMENCLATURALSTATUS	nomenclaturalStatus	1	dwc		
+NUMCAT	catalogNumber	1	dwc		
 OCCURRENCEID	occurrenceID	1	dwc		
 OCCURRENCEREMARKS	occurrenceRemarks	1	dwc		
 OCCURRENCESTATUS	occurrenceStatus	1	dwc		
 OCEAN	waterBody	1	dwc		
 OCEANO	waterBody	1	dwc		
 OCÉANO	waterBody	1	dwc		
+ORDEN	order	1	dwc		
 ORDER	order	1	dwc		
 ORGANISMID	organismID	1	dwc		
 ORGANISMNAME	organismName	1	dwc		
@@ -347,6 +369,7 @@ PROVINCIA	stateProvince	1	dwc
 RECORDEDBY	recordedBy	1	dwc		
 RECORDNUMBER	recordNumber	1	dwc		
 REFERENCES	references	1	dcterms		
+REINO	kingdom	1	dwc		
 REPRODUCTIVECONDITION	reproductiveCondition	1	dwc		
 RIGHTSHOLDER	rightsHolder	1	dcterms		
 RIO	waterBody	1	dwc		
@@ -360,12 +383,14 @@ SCIENTIFICNAME	scientificName	1	dwc
 SCIENTIFICNAMEAUTHORSHIP	scientificNameAuthorship	1	dwc		
 SCIENTIFICNAMEID	scientificNameID	1	dwc		
 SEX	sex	1	dwc		
+SEXO	sex	1	dwc		
 SPECIES	specificEpithet	1	dwc		
 SPECIFICEPITHET	specificEpithet	1	dwc		
 STARTDAYOFYEAR	startDayOfYear	1	dwc		
 STATE	stateProvince	1	dwc		
 STATE/PROVINCE	stateProvince	1	dwc		
 STATEPROVINCE	stateProvince	1	dwc		
+SUBESPECIE	infraspecificEpithet	1	dwc		
 SUBFAMILY		1			Can be mapped into dwc:higherClassification with other fields.
 SUBGENUS	subgenus	1	dwc		
 SUBSPECIES	infraspecificEpithet	1	dwc		
