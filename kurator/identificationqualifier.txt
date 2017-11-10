@@ -185,20 +185,35 @@ AFF SP	aff.	1
 AFF.	aff.	1
 AFF.  BOGOTENSIS	aff. bogotensi	1
 AFF.  SAVAGEI	aff. savagei	1
+AFF. AMARONENSIS	aff. amaronensis	1
 AFF. AMETHYSTINA	aff. amethystina	1
 AFF. AUREOPIGMENTATUS	aff. aureopigmentatus	1
 AFF. BOGOTENSIS	aff. bogotensi	1
+AFF. CEROS	aff. ceros	1
 AFF. EMETICA	aff. emetica	1
+AFF. EPICHARIS	aff. epicharis	1
+AFF. FASCIATUS	aff. fasciatus	1
+AFF. FRIDERICI	aff. friderici	1
 AFF. HUMIDICOLA	aff. humidicola	1
+AFF. INTERMEDIA	aff. intermedia	1
 AFF. LACCATA	aff. laccata	1
 AFF. LENTIGINOSA	aff. lentiginosa	1
+AFF. LEPIDURA	aff. lepidura	1
+AFF. MAGDALENAE	aff. magdalenae	1
+AFF. MEDEMI	aff. medemi	1
+AFF. MINIMUS	aff. minimus	1
+AFF. MIRIFICUS	aff. mirificus	1
 AFF. NERVOSA	aff. nervosa	1
 AFF. OBSCURATUS	aff. obscuratus	1
 AFF. OLIGOPORPA	aff. oligoporpa	1
+AFF. ORNATUS	aff. ornatus	1
 AFF. OVATA	aff. ovata	1
 AFF. PALMATA	aff. palmata	1
 AFF. PANICULATA	aff. paniculata	1
+AFF. PECTINATUS	aff. pectinatus	1
+AFF. PULCHER	aff. pulcher	1
 AFF. RIPARIA	aff. riparia	1
+AFF. SEPTENTRIONALIS	aff. septentrionalis	1
 AFF. SMILACINUS	aff. smilacinus	1
 AFF. SORORCULA	aff. sororcula	1
 AFF. SP. 3A	aff.	1
@@ -336,34 +351,200 @@ CF VIRIDIS	cf. viridis	1
 CF, SO,	cf.	1
 CF.	cf.	1
 CF. A. NOBILIS	cf. A. nobilis	1
+CF. ABALIOS	cf. abalios	1
 CF. ACUMINATA	cf. acuminata	1
+CF. ADUJAI	cf. adujai	1
 CF. AETIOCETIDAE	cf. Aetiocetidae	1
+CF. AFFINIS	cf. affinis	1
+CF. ALBOFASCIATUS	cf. albofasciatus	1
+CF. ALBURNUS	cf. alburnus	1
+CF. ALPHA	cf. alpha	1
+CF. ALTA	cf. alta	1
+CF. ALTUVEI	cf. altuvei	1
+CF. AMBYIACUS	cf. ambyiacus	1
+CF. ANALIS	cf. analis	1
+CF. ANGULATUS	cf. angulatus	1
+CF. APURENSIS	cf. apurensis	1
+CF. ARNOLDI	cf. arnoldi	1
+CF. ATRATUS	cf. atratus	1
+CF. AULOPYGIA	cf. aulopygia	1
+CF. AXELRODI	cf. axelrodi	1
+CF. BANNEAUI	cf. banneaui	1
+CF. BARRIGONAE	cf. barrigonae	1
+CF. BELLOTTII	cf. bellottii	1
+CF. BENTOSI	cf. bentosi	1
+CF. BIMACULATUS	cf. bimaculatus	1
+CF. BITAENIATA	cf. bitaeniata	1
+CF. BLOCHII	cf. blochii	1
+CF. BOGOTENSIS	cf. bogotensis	1
+CF. BOLIVARI	cf. bolivari	1
+CF. BREVICEPS	cf. breviceps	1
+CF. BRUNNEUS	cf. brunneus	1
 CF. BUROLETTI	cf. buroletti	1
 CF. C. OCCIDENTALIS	cf. C. occidentalis	1
+CF. CALMONI	cf. calmoni	1
 CF. CARACASANUM	cf. caracasanum	1
+CF. CARAPO	cf. carapo	1
+CF. CAREOSPINUS	cf. careospinus	1
+CF. CARIBA	cf. cariba	1
+CF. CATAPHRACTA	cf. cataphracta	1
+CF. CATAPHRACTUS	cf. cataphractus	1
+CF. CAUCANA	cf. caucana	1
+CF. CAUCANUS	cf. caucanus	1
+CF. CAUDOMACULATUS	cf. caudomaculatus	1
+CF. CEROS	cf. ceros	1
+CF. CHAGRESI	cf. chagresi	1
+CF. CHRYSARGYREA	cf. chrysargyrea	1
+CF. CISANDINA	cf. cisandina	1
+CF. CISMONTANUS	cf. cismontanus	1
+CF. COLLETTII	cf. collettii	1
+CF. COMMA	cf. comma	1
+CF. CONDEI	cf. condei	1
+CF. CONSTELLATA	cf. constellata	1
+CF. COPEI	cf. copei	1
+CF. COPELANDI	cf. copelandi	1
+CF. COPROPHAGUS	cf. coprophagus	1
+CF. CORACOIDEUS	cf. coracoideus	1
+CF. CUVIERI	cf. cuvieri	1
+CF. CYANOPTERUS	cf. cyanopterus	1
+CF. DELALANDII	cf. delalandii	1
+CF. DIADEMA	cf. diadema	1
+CF. DICHROURA	cf. dichroura	1
 CF. DIPLOSTEMONA	cf. diplostemona	1
+CF. DIQUENSIS	cf. diquensis	1
+CF. DORSALIS	cf. dorsalis	1
+CF. EIGENMANNI	cf. eigenmanni	1
+CF. ELEANORAE	cf. eleanorae	1
+CF. ELEGANS	cf. elegans	1
+CF. ELONGATA	cf. elongata	1
+CF. EQUES	cf. eques	1
+CF. ESPERANZAE	cf. esperanzae	1
+CF. FALCIROSTRIS	cf. falcirostris	1
 CF. FAM.	cf.	1
 CF. FAMILY	cf.	1
 CF. FAMILY, CF. GENUS	cf.	1
 CF. FAMILY, GE. CF.	cf.	1
 CF. FAMILY, SUBFAMILY	cf.	1
+CF. FASCIATUS	cf. fasciatus	1
+CF. FESTIVUM	cf. festivum	1
+CF. FESTIVUS	cf. festivus	1
+CF. FILAMENTOSUS	cf. filamentosus	1
+CF. FOWLERI	cf. fowleri	1
+CF. FRIDERICI	cf. friderici	1
 CF. FRONDOSA	cf. frondosa	1
 CF. G. MORINGA	cf. G. moringa	1
+CF. GABRIELENSIS	cf. gabrielensis	1
+CF. GALEATUS	cf. galeatus	1
+CF. GAMEROI	cf. gameroi	1
+CF. GEISLERI	cf. geisleri	1
 CF. GEN	cf.	1
 CF. GEN.	cf.	1
 CF. GENUS	cf.	1
+CF. GEORGIAE	cf. georgiae	1
+CF. GIACOPINII	cf. giacopinii	1
+CF. GILLII	cf. gillii	1
+CF. GISLENI	cf. gisleni	1
+CF. GRACILIS	cf. gracilis	1
+CF. GRISEUS	cf. griseus	1
+CF. HALECINUS	cf. halecinus	1
+CF. HANCOCKII	cf. hancockii	1
+CF. HEPSETUS	cf. hepsetus	1
+CF. HESPERUS	cf. hesperus	1
+CF. HOIGNEI	cf. hoignei	1
+CF. HOMODON	cf. homodon	1
+CF. HUILAE	cf. huilae	1
+CF. HUMERALIS	cf. humeralis	1
 CF. HYLOPHILUS	cf. hylophilus	1
+CF. IHERINGI	cf. iheringi	1
+CF. IMMACULATUS	cf. immaculatus	1
+CF. INCOMPTA	cf. incompta	1
+CF. INERMIS	cf. inermis	1
+CF. INIRIDAE	cf. iniridae	1
+CF. INTEGER	cf. integer	1
+CF. INTERMEDIA	cf. intermedia	1
 CF. IRIDOLEPIS	cf. iridolepis	1
+CF. JAMESI	cf. jamesi	1
+CF. JURUPARI	cf. jurupari	1
+CF. LACUSTRIS	cf. lacustris	1
+CF. LANCEOLATA	cf. lanceolata	1
+CF. LATA	cf. lata	1
+CF. LATOFASCIATUS	cf. latofasciatus	1
 CF. LATRANS	cf. latrans	1
+CF. LEPIDURA	cf. lepidura	1
+CF. LEUCOMELAS	cf. leucomelas	1
+CF. LEUCOSTICTA	cf. leucosticta	1
+CF. LINAMI	cf. linami	1
+CF. LINEATUS	cf. lineatus	1
+CF. LINEOLATUS	cf. lineolatus	1
+CF. LIPPINCOTTIANUS	cf. lippincottianus	1
+CF. LUGUBRIS	cf. lugubris	1
+CF. MACCUS	cf. maccus	1
+CF. MACMASTERI	cf. macmasteri	1
+CF. MACROSTOMUS	cf. macrostomus	1
+CF. MACULATA	cf. maculata	1
+CF. MAGDALENAE	cf. magdalenae	1
 CF. MAJOR	cf. major	1
+CF. MANUELI	cf. manueli	1
+CF. MAPIRITENSIS	cf. mapiritensis	1
+CF. MARACAIBOENSIS	cf. maracaiboensis	1
+CF. MARIAE	cf. mariae	1
+CF. MEDEMI	cf. medemi	1
+CF. MELANISTIUS	cf. melanistius	1
+CF. MELANOTUS	cf. melanotus	1
 CF. MERIDENSIS	cf. meridensis	1
+CF. METAE	cf. metae	1
+CF. MICROLEPIS	cf. microlepis	1
+CF. MIRIFICUS	cf. mirificus	1
+CF. MORALESI	cf. moralesi	1
 CF. MORETONENSIS (SP. B)	cf. moretonensis	1
 CF. N. SP. F OF KLAPPER	sp.	1
+CF. NATTERERI	cf. nattereri	1
+CF. NEWBOLDI	cf. newboldi	1
+CF. NIGRUM	cf. nigrum	1
 CF. OBSCURIFOLIA	cf. obscurifolia	1
+CF. ODYNEA	cf. odynea	1
+CF. OLIGOLEPIS	cf. oligolepis	1
+CF. OLIVERAI	cf. oliverai	1
+CF. ORBIGNYI	cf. orbignyi	1
 CF. ORDER	cf.	1
+CF. ORINOCO	cf. orinoco	1
+CF. ORINOCOENSE	cf. orinocoense	1
+CF. ORNATUS	cf. ornatus	1
+CF. ORRI	cf. orri	1
 CF. OTHER_ID	cf.	1
 CF. OTHERID	cf.	1
+CF. PARVULUS	cf. parvulus	1
+CF. PECTINIFRONS	cf. pectinifrons	1
+CF. PEJERATON	cf. pejeraton	1
+CF. PELLUCIDUM	cf. pellucidum	1
+CF. PERUANUS	cf. peruanus	1
+CF. PHOXOCEPHALUM	cf. phoxocephalum	1
+CF. PICKLEI	cf. picklei	1
+CF. PICTA	cf. picta	1
+CF. PLECOSTOMOIDES	cf. plecostomoides	1
+CF. PROOPS	cf. proops	1
+CF. PROTEUS	cf. proteus	1
+CF. PTEROIDES	cf. pteroides	1
+CF. PULCHER	cf. pulcher	1
 CF. PULCHRA	cf. pulchra	1
+CF. QUELEN	cf. quelen	1
+CF. RANINUS	cf. raninus	1
+CF. RAQUELIAE	cf. raqueliae	1
+CF. RETICULATA	cf. reticulata	1
+CF. ROBINII	cf. robinii	1
+CF. RUBRICAUDA	cf. rubricauda	1
+CF. RUBROTAENIATUS	cf. rubrotaeniatus	1
+CF. RUTILOIDES	cf. rutiloides	1
+CF. SAIZI	cf. saizi	1
+CF. SANCTAELUCIAE	cf. sanctaeluciae	1
+CF. SAXATILIS	cf. saxatilis	1
+CF. SCHERERI	cf. schereri	1
+CF. SCINTILLANS	cf. scintillans	1
+CF. SEMITAENIATUS	cf. semitaeniatus	1
+CF. SEPTENARIUS	cf. septenarius	1
+CF. SETIGER	cf. setiger	1
+CF. SEVERUS	cf. severus	1
+CF. SIMILLIMA	cf. simillima	1
 CF. SP	sp.	1
 CF. SP, SPP	sp.	1
 CF. SP.	sp.	1
@@ -379,9 +560,33 @@ CF. SP. NOV.	sp.	1
 CF. SP., ?SP.	sp.	1
 CF. SP.; WORN	sp.	1
 CF. SPECIES	sp.	1
+CF. SPILOSOMA	cf. spilosoma	1
+CF. SPILURUS	cf. spilurus	1
 CF. SPIRALIS	cf. spiralis	1
+CF. SPLENDIDA	cf. splendida	1
+CF. STEINDACHNERI	cf. steindachneri	1
+CF. STIGMATIAS	cf. stigmatias	1
+CF. STIGMATURUS	cf. stigmaturus	1
+CF. STRIOLATUS	cf. striolatus	1
 CF. SUBFAMILY	cf.	1
+CF. SUBNIGER	cf. subniger	1
+CF. SUPERBUS	cf. superbus	1
+CF. TACHIRAENSE	cf. tachiraense	1
+CF. TAPHORNI	cf. taphorni	1
+CF. TATAUAIA	cf. tatauaia	1
+CF. TEMENSIS	cf. temensis	1
+CF. TRIRADIATUS	cf. triradiatus	1
 CF. UMBRATUS	cf. umbratus	1
+CF. UNIMACULATUS	cf. unimaculatus	1
+CF. VALENCIA	cf. valencia	1
+CF. VENEZUELAE	cf. venezuelae	1
+CF. VERRUCOSUS	cf. verrucosus	1
+CF. VILLOSUS	cf. villosus	1
+CF. VITTATA	cf. vittata	1
+CF. VORDERWINKLERI	cf. vorderwinkleri	1
+CF. WALLACEI	cf. wallacei	1
+CF. XYREKES	cf. xyrekes	1
+CF. ZEBRA	cf. zebra	1
 CF.GN	cf.	1
 CF.GN SP	cf.	1
 CF.SP	sp.	1
@@ -589,6 +794,8 @@ GN CF	cf.	1
 GN CF SG CF	cf.	1
 GN CF SP CF	cf.	1
 GN?	genus in question	1
+GR. EMANUELI	gr. emanueli	1
+GR. SPILOSOMA	gr. spilosoma	1
 GRANDMARIAE N. SP.	sp. nov.	1
 GRAY, 1842		1
 GS ?	genus in question	1

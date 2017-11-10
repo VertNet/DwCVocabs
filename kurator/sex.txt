@@ -1047,6 +1047,7 @@ HEMBRA MAMAS	female	1
 HEMBRA NO LAC	female	1
 HEMBRA PREG 2-2 EMB 15MM	female	1
 HEMBRA SA	female	1
+HEMBRA, INDETERMINADO	female, unknown	1
 HEMBRA?	female	1
 HERMAPHRODI	hermaphrodite	1
 HERMAPHRODIDIC	hermaphrodite	1
@@ -1487,6 +1488,8 @@ MACHO TEST 5X3	male	1
 MACHO TEST 5X4	male	1
 MACHO TEST 8X4	male	1
 MACHO TEST ESC	male	1
+MACHO, HEMBRA	male, female	1
+MACHO, INDETERMINADO	male, unknown	1
 MACHO?	in question	1
 MAKE	male	1
 MALE	male	1
