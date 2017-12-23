@@ -886,6 +886,7 @@ FEMALE [IMMATURE]	female	1
 FEMALE [MALE ?]	in question	1
 FEMALE [MALE?]	in question	1
 FEMALE [MALE]	female | male	1
+FEMALE | MALE	female | male	1
 FEMALE + MALE + NEST	female | male	1
 FEMALE 23	female	1
 FEMALE 42 MM SVL	female	1
