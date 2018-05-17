@@ -897,6 +897,7 @@ FEMALE BR.	female	1
 FEMALE BY PLUMAGE	female	1
 FEMALE EGGS N=11	female	1
 FEMALE EGGS N=15	female	1
+FEMALE EMBRYO PRESENT	female	1
 FEMALE FEMALE	female	1
 FEMALE FLEDGLING	female	1
 FEMALE FULL OD WELL DEVELOPED EG	female	1
@@ -1531,6 +1532,7 @@ MALE (SUMMER)	male	1
 MALE (T=10MM)	male	1
 MALE (T=4MM)	male	1
 MALE (YOUNG)	male	1
+MALE , FEMALE	female | male	1
 MALE , MALE	male	1
 MALE ?	in question	1
 MALE ?, TESTES 3MM???	male	1

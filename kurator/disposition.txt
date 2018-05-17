@@ -36,6 +36,7 @@ disposition	standard	vetted
 ABSENT	missing	1
 ALEXANDER MUS., NETH	voucher elsewhere	1
 ANCIENT DNA		1
+ANDES		1
 APPARENTLY IT WAS THIS SPECIMEN SENT TO CLEVELAND.	voucher elsewhere	1
 ATTACKED BY INSECTS, 1920		1
 AUSTRALIAN MUS. 1953	voucher elsewhere	1
@@ -66,6 +67,9 @@ COLLECTIONS	in collection	1
 D		1
 DAMAGED FOR C4 SAMPLE		1
 DEACCESSIONED	discarded	1
+DEACCESSIONED - DISCARDED	discarded	1
+DEACCESSIONED - EXCHANGED	voucher elsewhere	1
+DEACCESSIONED - OTHER		1
 DEP. BY L.I. HIST. SOC.	in collection	1
 DEP. BY L.I. HISTORICAL SOC.	in collection	1
 DESTROYED	destroyed	1
@@ -259,6 +263,8 @@ DR. HERMAN TO D.G. ELLIOT & AUS. MUS.	voucher elsewhere	1
 DUBLICATE SENT TO BOMBAY NAT. HIST. SOC. MARCH 193	duplicate elsewhere	1
 DUBLICATE SENT TO BOMBAY NAT. HIST. SOC., MARCH 19	duplicate elsewhere	1
 DUBLICATE SENT TO BRITISH MUSEUM, MARCH 1938	duplicate elsewhere	1
+DUPLICADO	duplicate	1
+DUPLICADO EN OTRA COLECCIÓN BIOLÓGICA	duplicate	1
 DUPLICATE FOR NAT. MUSEUM	duplicate elsewhere	1
 DUPLICATE FOR U.S. MUS. FEB 1913	duplicate elsewhere	1
 DUPLICATE FOR U.S. NAT. MUS. FEB 1913	duplicate elsewhere	1
@@ -2579,6 +2585,7 @@ H,E,O		1
 HOLOTYPE		1
 HOLOTYPEON LOAN		1
 HUMBOLDT	voucher elsewhere	1
+IAVH	in collection	1
 IN COLLECTION	in collection	1
 IN COLLECTION; WING MISSING	in collection	1
 IN EXCHANGE E.B. SENNELT	voucher elsewhere	1
@@ -3389,6 +3396,7 @@ TRADED WITH MR. SHERWOOD FOR FLORIDA BIRD	voucher elsewhere	1
 TRADED, THAYER, 22 JUL 1907	voucher elsewhere	1
 TRANSF. DARTMOUTH MUSEUM, 14 FEB 1944	voucher elsewhere	1
 TRANSFERRED	voucher elsewhere	1
+TRANSFERRED ELSEWHERE	voucher elsewhere	1
 TRANSFERRED TO CORNELL UNIV, 28 OCT 1943	voucher elsewhere	1
 TRANSFERRED TO L.C. SANFORD COLLECTION	voucher elsewhere	1
 TUCUMEN, ARGENTINA, DR. C.C. OLROG EXCH. TO MIGUEL	voucher elsewhere	1

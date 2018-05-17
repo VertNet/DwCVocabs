@@ -1,8 +1,17 @@
 day	standard	vetted
+-		1
+(?)		1
 (8?)		1
+(APRIL?)		1
+/		1
 ?		1
+??		1
+?2		1
+[ILLEGIBLE]		1
 [NO		1
+~		1
 ~20		1
+0		1
 00		1
 01	1	1
 02	2	1
@@ -28,28 +37,37 @@ day	standard	vetted
 17-	17	1
 18	18	1
 18-19-20		1
+18-23		1
+1875		1
 19	19	1
 19-		1
+1922		1
 1941		1
 1968		1
 1970		1
 1976		1
 1977		1
+1985		1
 1989		1
 1ST	1	1
 2	2	1
 2 AND 3		1
 20	20	1
 20-	20	1
+2013 - 07		1
 21	21	1
 22	22	1
 23	23	1
 24	24	1
+24/25		1
 25	25	1
 25-6		1
+25TH	25	1
 26	26	1
 26-		1
+26/27		1
 27	27	1
+27/28		1
 28	28	1
 2829		1
 29	29	1
@@ -66,6 +84,7 @@ day	standard	vetted
 6	6	1
 68		1
 7	7	1
+72;		1
 79		1
 8	8	1
 8-	8	1
@@ -75,9 +94,13 @@ day	standard	vetted
 9-	9	1
 90		1
 99		1
+ABOUT		1
+ABR		1
+APL		1
 APPROX		1
 APR		1
 APRIL		1
+AROUND		1
 AUG		1
 AUGUST		1
 BEFORE		1
@@ -85,41 +108,74 @@ BETWEEN		1
 BETWN		1
 BORN		1
 BTWN		1
+C		1
 CA		1
 CIRCA		1
+COLL		1
 DEC		1
 DECEMBER		1
+DIED		1
+EARLT		1
 EARLY		1
 EASTER		1
 EM		1
 END		1
+EUTH		1
 FALL		1
 FEB		1
+FEBRUARY		1
+FEBY		1
 FIRST	1	1
+FOUND		1
+FROM		1
+GEAY		1
+IV		1
+JAN		1
+JANUARY		1
 JUL		1
 JULY		1
+JUN		1
 JUNE		1
 KILLED		1
 LAST		1
 LATE		1
+LATER		1
+LATTER		1
 LT		1
+M		1
 MAR		1
 MARCH		1
 MAY		1
+MAYO		1
+MCH		1
 MID		1
 MIDDLE		1
 NECROPCIED		1
 NO		1
 NOV		1
+NOVIEMBRE		1
 OCT		1
+OCTOBER		1
 OUT		1
 PARENTS:		1
+PRIOR		1
+PROB		1
 PROBABLY		1
 PURCHASED		1
 RC'D		1
+REC		1
+SENT		1
+SEP		1
 SEPT		1
+SEPTEMBER		1
+SEPTEMBRE		1
+SET		1
 SPRING		1
 SUMMER		1
 VII		1
+VIII		1
+WINTER		1
 WK		1
+X		1
+XII		1
 XX		1

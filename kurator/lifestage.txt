@@ -133,12 +133,16 @@ lifestage	standard	vetted
 2ND YEAR MALE	second year	1
 3 YEAR OLD	3 year old	1
 31.2	31.2	1
+33 YEARS	adult	1
 3-5 DAYS OLD	3-5 days old	1
 3RD WINTER	3rd winter	1
 4 DAYS	4 days	1
 4 MONTHS OLD	4 months old	1
 4.3	4.3	1
+8-10 WEEKS OLD		1
+8Y		1
 9.3	9.3	1
+9Y		1
 A	adult	1
 A M	adult	1
 AD	adult	1
@@ -182,6 +186,9 @@ ADULTA	adult	1
 ADULTBY PLUMAGE	adult	1
 ADULTL	adult	1
 ADULTO	adult	1
+ADULTO (13)	adult	1
+ADULTO (19)	adult	1
+ADULTO (20)	adult	1
 ADULTO; EN MUDA	adult, in molt	1
 ADULTS + NESTLINGS	adults | nestlings	1
 ADULTS, EGGS	adult, egg	1
@@ -555,6 +562,8 @@ JUV. MALE	juvenile	1
 JUV. SNO	juvenile	1
 JUV. TO SMALL AD.	juvenile, young adult	1
 JUVENIL	juvenile	1
+JUVENIL (SEMIADULTO)	juvenile	1
+JUVENIL CON SACO VITELINO	juvenile	1
 JUVENIL, EN MUDA	juvenile, in molt	1
 JUVENIL;E	juvenile	1
 JUVENILE	juvenile	1
@@ -821,6 +830,7 @@ NA/SUB-ADULT	subadult	1
 NATAL	natal	1
 ND	unknown	1
 NEONATE	neonate	1
+NEONATO	neonate	1
 NESTING COLONY	nesting colony	1
 NESTLING	nestling	1
 NESTLING [FEMALE ?]	nestling	1
@@ -845,6 +855,7 @@ POSSIBLY ADULT	adult	1
 POSSIBLY IMMATURE	immature	1
 POSSIBLY JUVENILE	juvenile	1
 POST LARVAEJUVENILES	juvenile	1
+PREADULTO	juvenile	1
 PROBABLY ADULT	adult	1
 PROBABLY FEMALE		1
 PROBABLY IMMATURE	immature	1
