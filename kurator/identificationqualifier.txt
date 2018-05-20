@@ -3,6 +3,7 @@ identificationqualifier	standard	vetted
  N. SP.	sp. nov.	1
  SP.	sp.	1
  SYNTYPE OF RHIPIDURA MAYI, ASHBY, 1911 (SEE EMU 11:41)		1
+ X		1
 "		1
 "SP. 1"	sp.	1
 "SP. 2"	sp.	1
@@ -268,6 +269,7 @@ C.F. NEOTOMA	cf. Neotoma	1
 C.F. OVIS C.F. CANADENSIS	cf. canadensis	1
 C.F. SPILOGALE	cf. Spilogale	1
 C.F. TIGRIS	cf. tigris	1
+C.V.		1
 CACTORUM SP. NOV.	sp. nov.	1
 CANDICHORUM (SP.?)	sp.	1
 CF	cf.	1
@@ -611,6 +613,7 @@ COLOBRI AFF. THALASSINUS	aff. thalassinus	1
 CRASSUM SP. NOV	sp. nov.	1
 CRYPTODIRA		1
 CURIOSUS SP. NO	sp. nov.	1
+CV		1
 CYANELLUS X L. SP.	cyanellus x L. sp.	1
 CYANELLUS X SP.	cyanellus X sp.	1
 DARWINI N.SP.	sp. nov.	1
@@ -626,6 +629,7 @@ DFH SP.4	sp.	1
 DFH SP.6	sp.	1
 DFH SP.8	sp.	1
 DFH SP.9	sp.	1
+DIOICA SSP. GRACILIS	ssp.	1
 DIV. 1 SP.	sp.	1
 DR GLENN SHEA - AUSTRALIAN MUSEUM		1
 DR PAUL OLIVER - MUSEUM VICTORIA		1
@@ -642,6 +646,7 @@ ERINACEOIDEA		1
 ERYOPS ALSO		1
 EURYODUS ALSO		1
 EX. GR.	ex. gr.	1
+F.		1
 FA ?	family in question	1
 FA ? ;GE ?	family, genus in question	1
 FA ? ;GE ? ;SP ?	family, genus, species in question	1
@@ -660,6 +665,7 @@ FM ?	family in question	1
 FM CF	cf.	1
 FM GN ?	family, genus in question	1
 FM?	family in question	1
+FRUTICOSA SSP. FLORIBUNDA	ssp.	1
 FUSCA N. SP.	sp. nov.	1
 G J. WITTEN		1
 GALBULA SSP. BULLOCKII	ssp.	1
@@ -2011,7 +2017,9 @@ SS CF	cf.	1
 SSP	ssp.	1
 SSP.	ssp.	1
 SSP.A	ssp.	1
+STARKEANA SUBSP. MINUTULA	ssp.	1
 STICTOS N.SP.	sp. nov.	1
+STRICTA SUBSP. INEXPANSA	ssp.	1
 SUBADULT		1
 SUBADULT?		1
 SUBCL. ELASMOBRANCHII		1
@@ -2062,6 +2070,7 @@ TENUE SP. NOV.	sp. nov.	1
 TRIBE: MICROTINI		1
 TRIMERORHACHIS ALSO		1
 UINTASORICINAE		1
+UMBELLATA SSP. CISATLANTICA	ssp.	1
 UNIDENTATA PARV		1
 UNIDENTATA PRAS		1
 UNIDENTATA SEBE		1
@@ -2069,6 +2078,8 @@ UNIDENTIFIED		1
 UNIDENTIFIED GEN. ET SP. 1	gen. indet.	1
 UNIDENTIFIED GEN. ET SP. 2	gen. indet.	1
 V. LARGE SP.	sp.	1
+VAR		1
+VAR.		1
 VENTRITE SP. 1	sp.	1
 VENUSTA X SP.	venusta X sp.	1
 VERY LARGE SP.	sp.	1
@@ -2082,6 +2093,7 @@ WILLII GEN & SP		1
 WOOD-MASONI N.	sp. nov.	1
 WORN		1
 WORN, NOT ID-ABLE (WEIL 2004)		1
+X		1
 X "HYBRID"	x hybrid	1
 X AMERICANA	x americana	1
 X CAERULESCENS	x caerulescens	1
