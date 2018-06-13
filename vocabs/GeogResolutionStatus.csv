@@ -1,5 +1,5 @@
 "country","continent","records resolved","total records","percent complete"
-"[none]",,3910,3910,100.00
+"[none]",,3911,3911,100.00
 "Afghanistan","Asia",76,86,88.30
 "Åland Islands","Europe",1,1,100.00
 "Albania","Europe",17,18,94.40
@@ -29,7 +29,7 @@
 "Bolivia","South America",605,676,89.40
 "Bonaire, Sint Eustatius and Saba","South America",26,49,53.00
 "Bosnia and Herzegovina","Europe",28,40,70.00
-"Botswana","Africa",59,127,46.40
+"Botswana","Africa",60,128,46.80
 "Brazil","South America",3992,4353,91.70
 "British Indian Ocean Territory",,3,12,25.00
 "British Virgin Islands","North America",54,108,50.00
@@ -115,7 +115,7 @@
 "Jersey","Europe",13,13,100.00
 "Jordan","Asia",12,29,41.30
 "Kazakhstan","Asia",64,190,33.60
-"Kenya","Africa",526,1341,39.20
+"Kenya","Africa",527,1342,39.20
 "Kiribati","Oceania",31,148,20.90
 "Kosovo","Europe",1,1,100.00
 "Kuwait","Asia",12,33,36.30
@@ -132,7 +132,7 @@
 "Macao","Asia",2,3,66.60
 "Macedonia","Europe",12,20,60.00
 "Madagascar","Africa",417,545,76.50
-"Malawi","Africa",10,246,4.00
+"Malawi","Africa",241,241,100.00
 "Malaysia","Asia",178,923,19.20
 "Maldives","Asia",6,33,18.10
 "Mali","Africa",15,79,18.90
@@ -205,7 +205,7 @@
 "Slovenia","Europe",10,29,34.40
 "Solomon Islands","Oceania",61,404,15.00
 "Somalia","Africa",13,164,7.90
-"South Africa","Africa",421,1006,41.80
+"South Africa","Africa",423,1008,41.90
 "South Georgia and the South Sandwich Islands","South America",52,67,77.60
 "South Korea","Asia",53,187,28.30
 "South Sudan","Africa",6,10,60.00
