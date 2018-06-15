@@ -392,9 +392,11 @@ _	unknown	1
 58	unknown	1
 5M,2F	female | male	1
 6	unknown	1
+6/24/1979		1
 6F	female	1
 7		1
 7 FEMALE,	female	1
+7/5/1979		1
 7M,6F	female | male	1
 9+ YEARS OLD		1
 A	unknown	1
@@ -1701,6 +1703,7 @@ PROBABLY FEMALE	female	1
 PROBABLY MALE	male	1
 PROP. F.	female	1
 Q		1
+RECORDED AS UNKNOWN	Unknown	1
 S&S		1
 SEE NOTES		1
 SEE SPEC. LABEL!	unknown	1

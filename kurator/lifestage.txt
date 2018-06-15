@@ -39,6 +39,7 @@ lifestage	standard	vetted
 "YG"[?]	young	1
 "YNG OF YEAR"	young	1
 "YNG"	young	1
+#NAME?		1
 (AD ?)	adult	1
 (AD)	adult	1
 (AD. ?)	adult	1
@@ -109,45 +110,180 @@ lifestage	standard	vetted
 [SEX ?]		1
 [SUBADULT ?] MALE	subadult	1
 [SUB-ADULT FEMALE ?]	subadult	1
+~ 9 MOS		1
+~1.9 YRS		1
+~2 YRS		1
+~5 YRS		1
 0		1
 0?		1
+0-1 DAYS		1
+1 1/3 YRS		1
+1 3/4 YRS		1
 1 AD.	adult	1
 1 DAY OLD	1 day old	1
 1 YG.	yearling	1
+1 YR PLUS		1
+1. 5 YRS		1
+1.33 YRS		1
+1.5 MOS		1
+1.5-3 YRS		1
+1.6 YRS		1
+1.7 YRS		1
 10 DAYS OLD	10 days old	1
 10 LARVAE	larva	1
+10 MOS		1
+10.5 MOS		1
+10.8 YRS		1
+100 MOS		1
+101 MOS		1
+102.5 MOS		1
+105 MOS		1
+10YRS		1
+11 MO		1
+11.5 MOS		1
+11.5 YRS		1
+112 MOS		1
+113 MOS		1
 12 DAYS OLD	12 days old	1
+12PLUS  YRS		1
+13.5 MOS		1
+13.5 YRS		1
+13-14 MOS		1
 1360		1
+14 YRS		1
+14.5 YRS		1
+14-21 DAYS		1
+15.5 YRS		1
+15-16 DAYS		1
+16 MOS		1
 16 YEAR OLD FEMALE		1
+16.5 MOS		1
+16.5 YRS		1
+160 MOS		1
+17 MOS		1
+17 YRS		1
 18 DAYS	18 days	1
 18 DAYS OLD	18 days old	1
+18 MO		1
+18.5 YRS		1
+184 MOS		1
+19-20 DAYS		1
+1-MAYBE		1
 1ST SPRING	1st spring	1
 1ST WINTER	1st winter	1
 1ST YEAR FEMALE	first year	1
 1ST YEAR MALE	first year	1
+1YR		1
+2 1/3 YRS		1
 2 NESTLINGS	nestlings	1
 2 NESTLINGS [SEX ?]	nestling	1
+2.5  YEARS		1
 2.5 YEARS OLD	2.5 years old	1
+2.7 YRS		1
+20.5 MOS		1
+20.5 YRS		1
+204 MOS		1
 21 DAYS	21 days	1
+21 MOS		1
+21.5  YRS		1
+22 MOS		1
+23 MO		1
+23 MOS		1
+23 YRS		1
+23.5 MON		1
+2-4 YRS		1
 25 DAYS OLD	25 days old	1
+25 MOS		1
+28 MOS		1
+28.5 MOS		1
+28-35 DAYS		1
+29.5 MOS		1
 2ND YEAR MALE	second year	1
+2YRS 3 MO		1
+3 MONTHS; JUV.		1
+3 MOS		1
 3 YEAR OLD	3 year old	1
+3 YR OLD OR OLDER		1
+3.5		1
+3.5-4.5 YRS		1
+3.7 YRS		1
+30 MOS		1
+31 MO		1
 31.2	31.2	1
+32.5 MOS		1
+33 MOS		1
 33 YEARS	adult	1
+3-4 YRS		1
 3-5 DAYS OLD	3-5 days old	1
+36 MO		1
 3RD WINTER	3rd winter	1
+3YRS		1
 4 DAYS	4 days	1
 4 MONTHS OLD	4 months old	1
+4 MOS		1
 4.3	4.3	1
+4.5 MOS		1
+4.7 YRS		1
+40 MO		1
+40 MOS		1
+41 MOS		1
+44.5 MOS		1
+45 MOS		1
+4-5 YRS		1
+4-6 YRS		1
+5 MOS		1
+5 OR 6 YRS OLD		1
+5.33 YRS -MAYBE		1
+5.33YRS		1
+5.5		1
+5.5 YRS		1
+52 MOS		1
+53 MOS		1
+53.5 MOS		1
+5-6 MOS		1
+57 MOS		1
+5PLUS YRS		1
+6 MOS		1
+6.5 YEARS OLD		1
+6.7 YRS		1
+64 MOS		1
+65 MOS		1
+67 MOS		1
+6-7 YRS		1
+69 MOS		1
+6YRS		1
+7 YRS EST		1
+7.5		1
+7.5 YEARS OLD		1
+7.7 YRS		1
+70 MOS		1
+71 MOS		1
+7-10 YEARS		1
+73.5 MOS		1
+7-8 YRS		1
+8 MOS		1
+8 YRS		1
+8.5		1
+80.5 MOS		1
 8-10 WEEKS OLD		1
+8-10 YRS OLD		1
+8-9 YRS		1
 8Y		1
+9 MONTH OLD		1
 9.3	9.3	1
+9.5		1
+93 MOS		1
+94 MOS		1
 9Y		1
 A	adult	1
 A M	adult	1
+ABOUT 4 WKS		1
 AD	adult	1
 AD.	adult	1
+AD.; 17-18 YEARS		1
 ADFULT	adult	1
+AD-MAYBE		1
+ADT & 3 YOUNG		1
 ADULR	adult	1
 ADULT	adult	1
 ÀDULT	adult	1
@@ -204,7 +340,12 @@ AHY MALE	AHY	1
 AHY/ASY	adult	1
 AN	adult	1
 APPARENTLY ADULT	adult	1
+APPROX 8 MO.		1
+APPROX 9 MO		1
+AS LEAST A 2 YR OLD		1
 ASY	adult	1
+AT LEAST 3 YRS		1
+AUB-ADT		1
 BASIC 2	Basic 2	1
 BASIC 4	Basic 4	1
 BREDDING	adult	1
@@ -249,6 +390,7 @@ EMBRYO DIED EARLY.	embryo	1
 EMBRYO, EGGS	embryo, egg	1
 EMBRYONIC	embryo	1
 EMBRYOS	embryo	1
+EST 7 YRS		1
 F	unknown	1
 F-	unknown	1
 F  ADULT	adult	1
@@ -415,6 +557,8 @@ FEMALE-HY		1
 FEMALE-IMM.	immature	1
 FEMALE-JUV	juvenile	1
 FESH	fresh	1
+FETAL/NEONATE		1
+FETAL-NEWBORN		1
 FETHERED EMBRYOS	feathered embryos	1
 FETUS	fetus	1
 FIRST YEAR	juvenile	1
@@ -443,6 +587,7 @@ GF(8)	adult	1
 GF(9)	adult	1
 H	unknown	1
 HATCH YEAR	juvenile	1
+HATCH YR		1
 HATCHING EGG	hatching egg	1
 HEMBRA	unknown	1
 HEMBRA 2 PARES MA	adult	1
@@ -477,6 +622,7 @@ IMM	immature	1
 IMM MALE	immature	1
 IMM.	immature	1
 IMM. M	immature	1
+IMM; 1 WK OLD		1
 IMMATURE	immature	1
 IMMATURE (?)	immature	1
 IMMATURE (1ST YR)	immature	1
@@ -544,6 +690,7 @@ IMMATURE; SKULL PARTLY OSS.	immature	1
 IMMATURE; SKULL UNOSSIFIED	immature	1
 IMMATURE?	immature	1
 IMMATURE? SKULL SINGLE	immature	1
+IM-MAYBE		1
 J	juvenile	1
 J/A	juvenile, adult	1
 J?	juvenile	1
@@ -555,6 +702,7 @@ JUNVILE	juvenile	1
 JUV	juvenile	1
 JUV ?	juvenile	1
 JUV NOT OSSIFIED	juvenile	1
+JUV OR SUB-AD		1
 JUV SFO	juvenile	1
 JUV SNO	juvenile	1
 JUV.	juvenile	1
@@ -829,6 +977,7 @@ NA/NESTLING	nestling	1
 NA/SUB-ADULT	subadult	1
 NATAL	natal	1
 ND	unknown	1
+NEONATAL		1
 NEONATE	neonate	1
 NEONATO	neonate	1
 NESTING COLONY	nesting colony	1
@@ -849,6 +998,7 @@ NONE		1
 NT	natal	1
 O~	unknown	1
 OLDER JUVENILE	juvenile	1
+OMM		1
 OVARIAN EGGS	ovarian egg	1
 PIMA		1
 POSSIBLY ADULT	adult	1
@@ -856,15 +1006,20 @@ POSSIBLY IMMATURE	immature	1
 POSSIBLY JUVENILE	juvenile	1
 POST LARVAEJUVENILES	juvenile	1
 PREADULTO	juvenile	1
+PROB		1
+PROBABLY		1
+PROBABLY AD		1
 PROBABLY ADULT	adult	1
 PROBABLY FEMALE		1
 PROBABLY IMMATURE	immature	1
 PROBABLY JUVENILE	juvenile	1
 PROBABLY MALE		1
 PROBABLY SECOND YEAR	second year	1
+PROBABLY YEARLING OR OLDER		1
 PUPS	juvenile	1
 S&S		1
 SECOND YEAR	Second year	1
+SEN		1
 SEX	unknown	1
 SEX ?		1
 SEX ? - MALE PLUMAGE		1
@@ -873,8 +1028,12 @@ SKEL.		1
 SKELETAL ELEMENTS		1
 SL	juvenile	1
 SMALL AD.	young adult	1
+SOME FRESH, SOMES PARTLY.		1
 SS		1
+SUB ADT		1
 SUB ADULT?	subadult	1
+SUB-ADT		1
+SUB-ADT-MAYBE		1
 SUBADULT	subadult	1
 SUB-ADULT [MALE ?]	subadult	1
 SUB-ADULT [SEX ?]	subadult	1
@@ -922,9 +1081,12 @@ UNKNOWN/ADULT	adult	1
 UNKOWN	unknown	1
 UR	unknown	1
 XXX	unknown	1
+Y		1
 Y.O.Y. FEMALE	young	1
+YEAR		1
 YEARLING	yearling	1
 YEARLING TO AD.	yearling, adult	1
+YEARLING-MAYBE		1
 YES		1
 YES (CHECKMARK)		1
 YES, ADVANCED		1
@@ -937,5 +1099,8 @@ YOUNG ADULT MALE	young adult	1
 YOUNG ADULTS	young adult	1
 YOUNG FEMALE	young	1
 YOUNG MALE	young	1
+YOUNG OF LITTER		1
+YRLING		1
+YRLNG		1
 YS	yolk sac	1
 YY MALE		1
