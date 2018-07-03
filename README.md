@@ -7,6 +7,8 @@ This repository contains files containing lists of distinct combinations of verb
 We try to resolve verbatim values to standard values for terms in Darwin Core that recommend a controlled vocabulary.
 We try to resolve verbatim values to fully spelled out standard equivalents in English.
 Standardized values for items in a list are separated by " | ".
+We use the geopolitical concept of continents following the seven continent model, which include Africa, Antarctica, Asia, Europe, North America (with Central America and the Caribbean), Oceania (with Australasia) and South America. 
+A water bodies wholly surrounded by a geopolitical continent is considered to be part of that continent.
 
 
 ## Geography
