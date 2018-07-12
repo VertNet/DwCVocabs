@@ -8,7 +8,7 @@ We try to resolve verbatim values to standard values for terms in Darwin Core th
 We try to resolve verbatim values to fully spelled out standard equivalents in English.<br>
 Standardized values for items in a list are separated by " | ".<br>
 We use the geopolitical concept of continents following the seven continent model, which include Africa, Antarctica, Asia, Europe, North America (with Central America and the Caribbean), Oceania (with Australasia) and South America.<br>
-A water bodies wholly surrounded by a geopolitical continent is considered to be part of that continent.<br>
+A water body wholly surrounded by a geopolitical continent is considered to be part of that continent.<br>
 
 ## Geography
 Darwin Core geography consists of the terms continent, country, countryCode, stateProvince, county, municipality, waterbody, islandGroup, and island. Geography is reconciled as the combination of all of these terms at once, rather than individually. This is to avoid introduction of incorrect standardization when there are ambiguities, inconsistencies, or other errors within the content of the geography fields. Standardized geography is intended to reflect current administrative divisions. Multiple sources have been used to reconcile these geographic combinations, and the sources are not cited in the file. More often than not, Wikipedia has been used, though the Global Administrative Areas data set (GADM, http://www.gadm.org/) and The Getty Thesaurus of Geographic Names (TGN, http://www.getty.edu/research/tools/vocabularies/tgn/), and Google Maps have also been commonly consulted sources.
