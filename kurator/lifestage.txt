@@ -314,6 +314,9 @@ ADULT MALE BY PLUMAGE	adult	1
 ADULT MALE(?), GONAD SHOT	adult	1
 ADULT N/A	adult	1
 ADULT(?)	adult	1
+ADULT, EGG	adult | egg	1
+ADULT, EMBRYO	adult | embryo	1
+ADULT, LARVA	adult | larva	1
 ADULT/FEMALE	adult	1
 ADULT?	adult	1
 ADULT`	adult	1
@@ -370,6 +373,11 @@ EGG AND LARVAE	egg, larva	1
 EGG CASE	egg case	1
 EGG CASES	egg case	1
 EGG- CASES	egg case	1
+EGG, ADULT	adult | egg	1
+EGG, JUVENILE	egg | juvenile	1
+EGG, JUVENILE, ADULT	adult | egg | juvenile	1
+EGG, LARVA	egg | larva	1
+EGG, LARVA, ADULT	adult | egg | larva	1
 EGGCASE	egg case	1
 EGGCASES	egg case	1
 EGGS	eggs	1
@@ -387,6 +395,8 @@ EMBRYO	embryo	1
 EMBRYO + EGGS	embryo, egg	1
 EMBRYO DEAD	embryo	1
 EMBRYO DIED EARLY.	embryo	1
+EMBRYO, ADULT	adult | embryo	1
+EMBRYO, EGG	egg | embryo	1
 EMBRYO, EGGS	embryo, egg	1
 EMBRYONIC	embryo	1
 EMBRYOS	embryo	1
@@ -733,6 +743,7 @@ JUVENILE MALE (?)	juvenile	1
 JUVENILE, 1/3 OSSIFICATION	juvenile	1
 JUVENILE, 60% OSS.	juvenile	1
 JUVENILE, ABOUT 1/4 FULL SIZE	juvenile	1
+JUVENILE, LARVA	juvenile | larva	1
 JUVENILE, SKULL ~1/2 OSSIFIED	juvenile	1
 JUVENILE, SKULL 5% OSSIFIED	juvenile	1
 JUVENILE, SKULL NOT FULLY OSSIFI	juvenile	1
@@ -754,6 +765,9 @@ JV	juvenile	1
 L	larva	1
 LAR.SER.(JUVENILES)	larva, juvenile	1
 LARVA	larva	1
+LARVA(E)	larvae	1
+LARVA, ADULT	adult | larva	1
+LARVA, METAMORPH	larva | metamorph	1
 LARVAE	larva	1
 LARVAE CELL	larva cell	1
 LARVAE REF.	larva	1
@@ -947,6 +961,7 @@ MALE?		1
 MALE[		1
 MALE6		1
 MALES + FEMALES		1
+METAMORPH, ADULT	adult | metamorph	1
 MIXED SEXES		1
 MLE		1
 MM	unknown	1

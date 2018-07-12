@@ -1,86 +1,86 @@
 "country","continent","records resolved","total records","percent complete"
-"[none]",,3951,3951,100.00
-"Afghanistan","Asia",76,86,88.30
+"[none]",,3956,3956,100.00
+"Afghanistan","Asia",77,87,88.50
 "Åland Islands","Europe",1,1,100.00
 "Albania","Europe",17,18,94.40
-"Algeria","Africa",151,221,68.30
-"American Samoa","Oceania",88,100,88.00
+"Algeria","Africa",152,222,68.40
+"American Samoa","Oceania",89,101,88.10
 "Andorra","Europe",4,11,36.30
-"Angola","Africa",114,214,53.20
+"Angola","Africa",117,217,53.90
 "Anguilla","North America",24,26,92.30
 "Antarctica","Antarctica",206,241,85.40
-"Antigua and Barbuda","North America",84,87,96.50
-"Argentina","South America",1484,1520,97.60
+"Antigua and Barbuda","North America",86,89,96.60
+"Argentina","South America",1485,1521,97.60
 "Armenia","Asia",28,60,46.60
 "Aruba","South America",24,38,63.10
-"Australia","Oceania",1430,1757,81.30
-"Austria","Europe",178,290,61.30
+"Australia","Oceania",1431,1758,81.30
+"Austria","Europe",179,291,61.50
 "Azerbaijan","Asia",75,75,100.00
-"Bahamas","North America",202,750,26.90
+"Bahamas","North America",208,756,27.50
 "Bahrain","Asia",13,14,92.80
 "Bangladesh","Asia",20,75,26.60
-"Barbados","North America",23,98,23.40
+"Barbados","North America",24,99,24.20
 "Belarus","Europe",9,11,81.80
 "Belgium","Europe",68,171,39.70
 "Belize","North America",165,217,76.00
 "Benin","Africa",38,39,97.40
 "Bermuda","North America",43,115,37.30
 "Bhutan","Asia",3,13,23.00
-"Bolivia","South America",605,676,89.40
+"Bolivia","South America",606,677,89.50
 "Bonaire, Sint Eustatius and Saba","South America",26,49,53.00
 "Bosnia and Herzegovina","Europe",28,40,70.00
 "Botswana","Africa",60,128,46.80
-"Brazil","South America",3992,4353,91.70
+"Brazil","South America",3993,4354,91.70
 "British Indian Ocean Territory",,3,12,25.00
 "British Virgin Islands","North America",54,108,50.00
-"Brunei Darussalam","Asia",6,27,22.20
-"Bulgaria","Europe",15,43,34.80
+"Brunei Darussalam","Asia",7,28,25.00
+"Bulgaria","Europe",16,43,37.20
 "Burkina Faso","Africa",3,37,8.10
-"Burundi","Africa",29,47,61.70
+"Burundi","Africa",30,47,63.80
 "Cabo Verde","Africa",39,83,46.90
 "Cambodia","Asia",22,68,32.30
-"Cameroon","Africa",324,463,69.90
-"Canada","North America",5338,5338,100.00
+"Cameroon","Africa",329,468,70.20
+"Canada","North America",5373,5373,100.00
 "Cayman Islands","North America",14,94,14.80
-"Central African Republic","Africa",10,81,12.30
+"Central African Republic","Africa",15,85,17.60
 "Chad","Africa",15,50,30.00
-"Chile","South America",661,862,76.60
-"China","Asia",150,2209,6.70
+"Chile","South America",665,866,76.70
+"China","Asia",158,2218,7.10
 "Christmas Island","Asia",9,10,90.00
 "Cocos (Keeling) Islands","Asia",14,16,87.50
-"Colombia","South America",1457,1576,92.40
+"Colombia","South America",1458,1577,92.40
 "Comoros","Africa",39,70,55.70
-"Congo","Africa",42,42,100.00
+"Congo","Africa",44,44,100.00
 "Cook Islands","Oceania",26,61,42.60
-"Costa Rica","North America",454,930,48.80
+"Costa Rica","North America",455,931,48.80
 "Côte d'Ivoire","Africa",27,117,23.00
 "Croatia","Europe",29,69,42.00
-"Cuba","North America",117,499,23.40
+"Cuba","North America",125,507,24.60
 "Curaçao","South America",43,43,100.00
-"Cyprus","Asia",23,37,62.10
-"Czechia","Europe",54,230,23.40
-"Democratic Republic of the Congo","Africa",730,730,100.00
+"Cyprus","Asia",24,38,63.10
+"Czechia","Europe",55,231,23.80
+"Democratic Republic of the Congo","Africa",735,735,100.00
 "Denmark","Europe",25,222,11.20
 "Djibouti","Africa",8,17,47.00
-"Dominica","North America",44,150,29.30
-"Dominican Republic","North America",544,640,85.00
+"Dominica","North America",45,151,29.80
+"Dominican Republic","North America",553,649,85.20
 "Ecuador","South America",1160,1206,96.10
 "Egypt","Africa",117,402,29.10
 "El Salvador","North America",71,265,26.70
-"Equatorial Guinea","Africa",30,80,37.50
+"Equatorial Guinea","Africa",31,81,38.20
 "Eritrea","Africa",27,40,67.50
 "Estonia","Europe",8,146,5.40
-"Ethiopia","Africa",155,303,51.10
+"Ethiopia","Africa",158,304,51.90
 "Falkland Islands (Malvinas)","South America",60,111,54.00
 "Faroe Islands","Europe",23,32,71.80
-"Federated States of Micronesia","Oceania",59,233,25.30
-"Fiji","Oceania",382,382,100.00
-"Finland","Europe",38,223,17.00
-"France","Europe",1310,1891,69.20
+"Federated States of Micronesia","Oceania",60,234,25.60
+"Fiji","Oceania",383,383,100.00
+"Finland","Europe",39,224,17.40
+"France","Europe",1325,1906,69.50
 "French Guiana","South America",112,116,96.50
 "French Polynesia","Oceania",51,474,10.70
 "French Southern Territories","Antarctica",42,72,58.30
-"Gabon","Africa",79,182,43.40
+"Gabon","Africa",85,190,44.70
 "Gambia","Africa",22,36,61.10
 "Georgia","Europe",22,128,17.10
 "Germany","Europe",261,1107,23.50
@@ -88,34 +88,34 @@
 "Gibraltar","Europe",13,13,100.00
 "Greece","Europe",35,245,14.20
 "Greenland","North America",82,161,50.90
-"Grenada","North America",25,93,26.80
+"Grenada","North America",27,95,28.40
 "Guadeloupe","North America",31,106,29.20
 "Guam","Oceania",32,76,42.10
 "Guatemala","North America",347,740,46.80
 "Guernsey","Europe",7,7,100.00
-"Guinea","Africa",14,109,12.80
+"Guinea","Africa",26,121,21.40
 "Guinea-Bissau","Africa",17,23,73.90
 "Guyana","South America",212,268,79.10
-"Haiti","North America",57,241,23.60
+"Haiti","North America",59,243,24.20
 "Heard Island and McDonald Islands","Antarctica",5,5,100.00
-"Honduras","North America",298,623,47.80
+"Honduras","North America",309,634,48.70
 "Hong Kong","Asia",11,33,33.30
 "Hungary","Europe",24,140,17.10
 "Iceland","Europe",138,191,72.20
-"India","Asia",623,1637,38.00
-"Indonesia","Asia",1171,2312,50.60
-"Iran","Asia",40,283,14.10
+"India","Asia",624,1637,38.10
+"Indonesia","Asia",1184,2325,50.90
+"Iran","Asia",42,285,14.70
 "Iraq","Asia",13,57,22.80
-"Ireland","Europe",307,307,100.00
+"Ireland","Europe",314,314,100.00
 "Isle of Man","Europe",10,14,71.40
 "Israel","Asia",22,100,22.00
-"Italy","Europe",419,781,53.60
-"Jamaica","North America",69,417,16.50
-"Japan","Asia",166,1642,10.10
+"Italy","Europe",426,788,54.00
+"Jamaica","North America",70,418,16.70
+"Japan","Asia",179,1655,10.80
 "Jersey","Europe",13,13,100.00
 "Jordan","Asia",12,29,41.30
 "Kazakhstan","Asia",64,190,33.60
-"Kenya","Africa",527,1342,39.20
+"Kenya","Africa",529,1344,39.30
 "Kiribati","Oceania",31,148,20.90
 "Kosovo","Europe",1,1,100.00
 "Kuwait","Asia",12,33,36.30
@@ -131,123 +131,121 @@
 "Luxembourg","Europe",9,13,69.20
 "Macao","Asia",2,3,66.60
 "Macedonia","Europe",12,20,60.00
-"Madagascar","Africa",417,545,76.50
+"Madagascar","Africa",421,548,76.80
 "Malawi","Africa",241,241,100.00
-"Malaysia","Asia",178,923,19.20
+"Malaysia","Asia",187,932,20.00
 "Maldives","Asia",6,33,18.10
-"Mali","Africa",15,79,18.90
+"Mali","Africa",17,81,20.90
 "Malta","Europe",12,29,41.30
-"Marshall Islands","Oceania",38,210,18.00
+"Marshall Islands","Oceania",39,211,18.40
 "Martinique","North America",20,60,33.30
 "Mauritania","Africa",13,50,26.00
-"Mauritius","Africa",30,91,32.90
+"Mauritius","Africa",31,92,33.60
 "Mayotte","Africa",3,9,33.30
-"Mexico","North America",6796,6796,100.00
+"Mexico","North America",6805,6805,100.00
 "Moldova","Europe",11,17,64.70
 "Monaco","Europe",2,2,100.00
 "Mongolia","Asia",176,296,59.40
 "Montenegro","Europe",19,20,95.00
 "Montserrat","North America",10,42,23.80
-"Morocco","Africa",106,358,29.60
+"Morocco","Africa",107,359,29.80
 "Mozambique","Africa",144,155,92.90
-"Myanmar","Asia",36,428,8.40
+"Myanmar","Asia",37,429,8.60
 "Namibia","Africa",151,318,47.40
 "Nauru","Oceania",3,12,25.00
-"Nepal","Asia",90,157,57.30
-"Netherlands","Europe",56,218,25.60
+"Nepal","Asia",91,157,57.90
+"Netherlands","Europe",66,228,28.90
 "New Caledonia","Oceania",48,181,26.50
-"New Zealand","Oceania",112,617,18.10
+"New Zealand","Oceania",115,620,18.50
 "Nicaragua","North America",111,383,28.90
 "Niger","Africa",24,65,36.90
 "Nigeria","Africa",27,227,11.80
 "Niue","Oceania",6,6,100.00
 "Norfolk Island","Oceania",26,26,100.00
 "North Korea","Asia",6,27,22.20
-"Northern Mariana Islands","Oceania",22,135,16.20
-"Norway","Europe",41,289,14.10
+"Northern Mariana Islands","Oceania",23,136,16.90
+"Norway","Europe",51,299,17.00
 "Oman","Asia",12,57,21.00
-"Pakistan","Asia",94,760,12.30
+"Pakistan","Asia",95,761,12.40
 "Palau","Asia",29,136,21.30
-"Palestine","Asia",21,32,65.60
-"Panama","North America",375,759,49.40
-"Papua New Guinea","Oceania",255,1711,14.90
+"Palestine","Asia",22,33,66.60
+"Panama","North America",377,760,49.60
+"Papua New Guinea","Oceania",264,1720,15.30
 "Paraguay","South America",315,426,73.90
-"Peru","South America",1151,1300,88.50
-"Philippines","Asia",41,2515,1.60
+"Peru","South America",1153,1302,88.50
+"Philippines","Asia",63,2537,2.40
 "Pitcairn","Oceania",45,45,100.00
 "Poland","Europe",18,227,7.90
-"Portugal","Europe",185,267,69.20
-"Puerto Rico","North America",932,1046,89.10
+"Portugal","Europe",187,269,69.50
+"Puerto Rico","North America",939,1053,89.10
 "Qatar","Asia",4,7,57.10
 "Réunion","Africa",18,36,50.00
 "Romania","Europe",17,211,8.00
-"Russia",,1055,1624,64.90
-"Rwanda","Africa",5,53,9.40
+"Russia",,1056,1625,64.90
+"Rwanda","Africa",6,54,11.10
 "Saint Barthélemy","North America",8,16,50.00
 "Saint Helena, Ascension and Tristan da Cunha",,44,88,50.00
-"Saint Kitts and Nevis","North America",23,72,31.90
+"Saint Kitts and Nevis","North America",25,74,33.70
 "Saint Lucia","North America",29,98,29.50
-"Saint Martin",,1,1,100.00
 "Saint Pierre and Miquelon","North America",5,5,100.00
-"Saint Vincent and the Grenadines","North America",53,167,31.70
-"Saint-Martin","North America",1,3,33.30
+"Saint Vincent and the Grenadines","North America",54,168,32.10
+"Saint-Martin","North America",2,4,50.00
 "Samoa","Oceania",42,108,38.80
 "San Marino","Europe",1,1,100.00
-"São Tomé and Príncipe","Africa",77,81,95.00
+"São Tomé and Príncipe","Africa",78,82,95.10
 "Saudi Arabia","Asia",32,67,47.70
-"Senegal","Africa",30,144,20.80
+"Senegal","Africa",31,145,21.30
 "Serbia","Europe",19,31,61.20
-"Seychelles","Africa",194,204,95.00
+"Seychelles","Africa",195,204,95.50
 "Sierra Leone","Africa",15,66,22.70
 "Singapore","Asia",22,49,44.80
 "Sint Maarten","North America",6,6,100.00
 "Slovakia","Europe",8,38,21.00
 "Slovenia","Europe",10,29,34.40
-"Solomon Islands","Oceania",61,404,15.00
-"Somalia","Africa",13,164,7.90
-"South Africa","Africa",423,1008,41.90
+"Solomon Islands","Oceania",63,406,15.50
+"Somalia","Africa",14,165,8.40
+"South Africa","Africa",425,1010,42.00
 "South Georgia and the South Sandwich Islands","South America",52,67,77.60
-"South Korea","Asia",53,187,28.30
+"South Korea","Asia",58,192,30.20
 "South Sudan","Africa",6,10,60.00
 "Spain",,1605,2015,79.60
-"Sri Lanka","Asia",45,334,13.40
+"Sri Lanka","Asia",48,337,14.20
 "Sudan","Africa",24,247,9.70
 "Suriname","South America",154,171,90.00
 "Svalbard and Jan Mayen","Europe",24,27,88.80
 "Swaziland","Africa",13,15,86.60
-"Sweden","Europe",186,767,24.20
-"Switzerland","Europe",63,297,21.20
+"Sweden","Europe",195,776,25.10
+"Switzerland","Europe",66,300,22.00
 "Syria","Asia",13,36,36.10
 "Taiwan","Asia",14,372,3.70
 "Tajikistan","Asia",13,47,27.60
-"Tanzania","Africa",206,812,25.30
+"Tanzania","Africa",209,815,25.60
 "Thailand","Asia",54,738,7.30
 "Timor-Leste","Asia",19,47,40.40
 "Togo","Africa",5,8,62.50
-"Tokelau","Oceania",7,7,100.00
-"Tonga","Oceania",50,137,36.40
-"Trinidad and Tobago","South America",127,536,23.60
-"Tunisia","Africa",99,203,48.70
+"Tokelau","Oceania",7,8,87.50
+"Tonga","Oceania",51,138,36.90
+"Trinidad and Tobago","South America",133,542,24.50
+"Tunisia","Africa",100,204,49.00
 "Turkey","Asia",62,225,27.50
 "Turkmenistan","Asia",38,98,38.70
 "Turks and Caicos Islands","North America",14,73,19.10
 "Tuvalu","Oceania",8,11,72.70
-"Uganda","Africa",163,675,24.10
+"Uganda","Africa",168,680,24.70
 "Ukraine","Europe",38,245,15.50
 "United Arab Emirates","Asia",11,33,33.30
-"United Kingdom","Europe",2762,2762,100.00
-"United States",,79009,79009,100.00
+"United Kingdom","Europe",2808,2808,100.00
+"United States",,80682,80682,100.00
 "United States Minor Outlying Islands","Oceania",86,107,80.30
-"Uruguay","South America",163,209,77.90
+"Uruguay","South America",167,213,78.40
 "Uzbekistan","Asia",65,105,61.90
 "Vanuatu","Oceania",10,202,4.90
 "Vatican City","Europe",1,1,100.00
-"Venezuela","South America",874,1076,81.20
+"Venezuela","South America",880,1082,81.30
 "Vietnam","Asia",29,384,7.50
-"Virgin Islands of the United States","North America",88,218,40.30
+"Virgin Islands of the United States","North America",91,221,41.10
 "Wallis and Futuna","Oceania",13,21,61.90
-"West Bank",,1,1,100.00
 "Western Sahara","Africa",9,10,90.00
 "Yemen","Asia",38,64,59.30
-"Zambia","Africa",50,309,16.10
-"Zimbabwe","Africa",188,345,54.40
+"Zambia","Africa",51,309,16.50
+"Zimbabwe","Africa",189,346,54.60
