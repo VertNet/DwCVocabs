@@ -613,6 +613,7 @@ COLOBRI AFF. THALASSINUS	aff. thalassinus	1
 CRASSUM SP. NOV	sp. nov.	1
 CRYPTODIRA		1
 CURIOSUS SP. NO	sp. nov.	1
+CURVILOBULA SP. NOV.	sp. nov.	1
 CV		1
 CYANELLUS X L. SP.	cyanellus x L. sp.	1
 CYANELLUS X SP.	cyanellus X sp.	1
@@ -1035,6 +1036,7 @@ NR.	cf.	1
 NSP. 6	sp. nov.	1
 NYMPH SP. 1	sp.	1
 NYMPH SP. 2	sp.	1
+OFFICINARUM X AURANTIACA SUBSP. AURANTIACA	officinarum x aurantiaca subsp. aurantiaca	1
 OI ?	id in question	1
 OI CF	id in question	1
 OKADAI N. SP.	sp. nov.	1
@@ -1283,6 +1285,7 @@ SP. (TEMPORARIA-GROUP)	sp.	1
 SP. (TRAILII / ALNORUM [?])	sp.	1
 SP. (TYPE A)	sp.	1
 SP. (TYPE B)	sp.	1
+SP. (UNDETERMINED)	sp.	1
 SP. (URUNGUENSIS-GROUP)	sp.	1
 SP. (VARIEGATUS-GROUP)	sp.	1
 SP. (VIPERA ASPIS COMPLEX)	sp.	1
@@ -1933,6 +1936,9 @@ SP. Y	sp.	1
 SP. Z	sp.	1
 SP. Z0	sp.	1
 SP.	sp.	1
+SP.#	sp.	1
+SP.#{U	sp.	1
+SP.#{UANIDENTIFIED}	sp.	1
 SP., LAGENID	sp.	1
 SP..	sp.	1
 SP.;	sp.	1
