@@ -38,7 +38,10 @@ Example: "There is more than one Washington County in the United States."
 Any part of the record that cannot be found should be noted in the field "error" using the pattern "Unable to locate [named place] in [most specific region that could be resolved]".
 Example: "Unable to locate Bird Island in Barnstable County."
 
-Waterbodies are not provided for records in which they are not given. For example, though the Hawaiian Islands are in the North Pacific Ocean, "North Pacific Ocean" is not included in records where a reference to the waterbodyis not given. The principle is that locations not in the waterbody should not include the waterbody. 
+The principles that govern the standardization of waterbody are 1) locations not in water should not include the waterbody, 2) locations in water are expected to provide the waterbody in the original data, 3) the standardized waterbody should to be the most specific waterbody that applies. Following these principles, waterbodies are not added for records in which they are not given. For example, though the Hawaiian Islands are in the North Pacific Ocean, "North Pacific Ocean" is not included in records if a reference to the waterbody is not given in the original.
+
+The concepts of the worlds oceans follow the five-ocean model of the IHO (see https://en.wikipedia.org/wiki/Borders_of_the_oceans) and include the Pacific, Atlantic, Indian, Southern, and Arctic Oceans. The Pacific and Atlantic Oceans may be subdivided into "North" and "South" based on the equator (e.g., "North Pacific Ocean"). The Pacific, Atlantic, and Indian Oceans may be further subdivided into "Western" and "Eastern" regions (e.g., "Eastern South Pacific Ocean").
+
 ## Classification
 Classification provides higher classifications (according to Catalog of Life wherever possible) based on genus only. The authority used to reconcile the standardized value is given in the file.
 
