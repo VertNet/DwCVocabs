@@ -10,6 +10,8 @@ sex	standard	vetted
 -- [APPARANTLY M]	male	1
  F	female	1
  M	male	1
+
+M	male	1
 "		1
 "?"	in question	1
 "?"[=M]	in question	1
@@ -399,6 +401,7 @@ _	unknown	1
 7/5/1979		1
 7M,6F	female | male	1
 9+ YEARS OLD		1
+-98.71878		1
 A	unknown	1
 A M	male	1
 A: FEMALE	female	1
@@ -1002,6 +1005,7 @@ FROGLET		1
 F'S	female	1
 G	unknown	1
 G ?	unknown	1
+G.N.E.		1
 GF	unknown	1
 GF(3)	female	1
 GF(4)	female	1
@@ -1099,6 +1103,7 @@ INDETERMINADO	unknown	1
 INDETERMINATE	unknown	1
 J	unknown	1
 J?	unknown	1
+JM		1
 JU?. MALE?	in question	1
 JUEVENILE		1
 JUL-76	unknown	1

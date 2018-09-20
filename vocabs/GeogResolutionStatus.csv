@@ -1,5 +1,5 @@
 "country","continent","records resolved","total records","percent complete"
-"[none]",,3975,3975,100.00
+"[none]",,3977,3977,100.00
 "Afghanistan","Asia",77,87,88.50
 "Åland Islands","Europe",1,1,100.00
 "Albania","Europe",17,18,94.40
@@ -8,7 +8,7 @@
 "Andorra","Europe",4,11,36.30
 "Angola","Africa",118,218,54.10
 "Anguilla","North America",24,26,92.30
-"Antarctica","Antarctica",206,241,85.40
+"Antarctica","Antarctica",207,242,85.50
 "Antigua and Barbuda","North America",86,89,96.60
 "Argentina","South America",1485,1521,97.60
 "Armenia","Asia",28,60,46.60
@@ -23,7 +23,7 @@
 "Belarus","Europe",9,11,81.80
 "Belgium","Europe",68,171,39.70
 "Belize","North America",165,217,76.00
-"Benin","Africa",38,39,97.40
+"Benin","Africa",39,40,97.50
 "Bermuda","North America",43,115,37.30
 "Bhutan","Asia",3,13,23.00
 "Bolivia","South America",606,677,89.50
@@ -44,11 +44,11 @@
 "Cayman Islands","North America",14,94,14.80
 "Central African Republic","Africa",15,85,17.60
 "Chad","Africa",15,50,30.00
-"Chile","South America",665,866,76.70
-"China","Asia",161,2221,7.20
+"Chile","South America",666,867,76.80
+"China","Asia",163,2223,7.30
 "Christmas Island","Asia",10,11,90.90
 "Cocos (Keeling) Islands","Asia",17,17,100.00
-"Colombia","South America",1458,1577,92.40
+"Colombia","South America",1459,1578,92.40
 "Comoros","Africa",39,70,55.70
 "Congo","Africa",44,44,100.00
 "Cook Islands","Oceania",26,61,42.60
@@ -59,10 +59,10 @@
 "Curaçao","South America",43,43,100.00
 "Cyprus","Asia",24,38,63.10
 "Czechia","Europe",55,231,23.80
-"Democratic Republic of the Congo","Africa",736,736,100.00
+"Democratic Republic of the Congo","Africa",737,737,100.00
 "Denmark","Europe",25,222,11.20
 "Djibouti","Africa",8,17,47.00
-"Dominica","North America",45,151,29.80
+"Dominica","North America",49,155,31.60
 "Dominican Republic","North America",553,649,85.20
 "Ecuador","South America",1161,1207,96.10
 "Egypt","Africa",117,402,29.10
@@ -71,11 +71,11 @@
 "Eritrea","Africa",27,40,67.50
 "Estonia","Europe",8,146,5.40
 "Eswatini","Africa",13,15,86.60
-"Ethiopia","Africa",160,306,52.20
+"Ethiopia","Africa",161,307,52.40
 "Falkland Islands (Malvinas)","South America",60,111,54.00
 "Faroe Islands","Europe",23,32,71.80
 "Federated States of Micronesia","Oceania",60,234,25.60
-"Fiji","Oceania",383,383,100.00
+"Fiji","Oceania",384,384,100.00
 "Finland","Europe",39,224,17.40
 "France","Europe",1326,1907,69.50
 "French Guiana","South America",112,116,96.50
@@ -99,18 +99,18 @@
 "Guyana","South America",212,268,79.10
 "Haiti","North America",59,243,24.20
 "Heard Island and McDonald Islands","Antarctica",5,5,100.00
-"Honduras","North America",309,634,48.70
+"Honduras","North America",310,635,48.80
 "Hong Kong","Asia",11,33,33.30
 "Hungary","Europe",24,140,17.10
 "Iceland","Europe",138,191,72.20
-"India","Asia",625,1638,38.10
+"India","Asia",629,1642,38.30
 "Indonesia","Asia",1189,2330,51.00
 "Iran","Asia",42,285,14.70
 "Iraq","Asia",13,57,22.80
 "Ireland","Europe",319,319,100.00
 "Isle of Man","Europe",10,14,71.40
 "Israel","Asia",22,100,22.00
-"Italy","Europe",430,792,54.20
+"Italy","Europe",433,795,54.40
 "Jamaica","North America",70,418,16.70
 "Japan","Asia",180,1656,10.80
 "Jersey","Europe",13,13,100.00
@@ -143,7 +143,7 @@
 "Mauritania","Africa",13,50,26.00
 "Mauritius","Africa",93,93,100.00
 "Mayotte","Africa",3,9,33.30
-"Mexico","North America",6805,6805,100.00
+"Mexico","North America",6814,6814,100.00
 "Moldova","Europe",11,17,64.70
 "Monaco","Europe",2,2,100.00
 "Mongolia","Asia",176,296,59.40
@@ -156,9 +156,9 @@
 "Nauru","Oceania",3,12,25.00
 "Nepal","Asia",91,157,57.90
 "Netherlands","Europe",66,228,28.90
-"New Caledonia","Oceania",48,181,26.50
+"New Caledonia","Oceania",49,182,26.90
 "New Zealand","Oceania",115,620,18.50
-"Nicaragua","North America",111,383,28.90
+"Nicaragua","North America",112,384,29.10
 "Niger","Africa",25,66,37.80
 "Nigeria","Africa",28,229,12.20
 "Niue","Oceania",6,6,100.00
@@ -173,16 +173,16 @@
 "Panama","North America",377,760,49.60
 "Papua New Guinea","Oceania",265,1723,15.30
 "Paraguay","South America",315,426,73.90
-"Peru","South America",1153,1302,88.50
+"Peru","South America",1155,1304,88.50
 "Philippines","Asia",64,2538,2.50
 "Pitcairn","Oceania",45,45,100.00
 "Poland","Europe",18,227,7.90
 "Portugal","Europe",187,269,69.50
-"Puerto Rico","North America",939,1053,89.10
+"Puerto Rico","North America",950,1064,89.20
 "Qatar","Asia",4,7,57.10
 "Réunion","Africa",19,37,51.30
 "Romania","Europe",17,211,8.00
-"Russia",,1057,1626,65.00
+"Russia",,1058,1627,65.00
 "Rwanda","Africa",6,54,11.10
 "Saint Barthélemy","North America",8,16,50.00
 "Saint Helena, Ascension and Tristan da Cunha",,90,90,100.00
@@ -205,11 +205,11 @@
 "Slovenia","Europe",10,29,34.40
 "Solomon Islands","Oceania",63,407,15.40
 "Somalia","Africa",14,165,8.40
-"South Africa","Africa",432,1015,42.50
+"South Africa","Africa",435,1018,42.70
 "South Georgia and the South Sandwich Islands","South America",52,67,77.60
 "South Korea","Asia",58,192,30.20
 "South Sudan","Africa",6,10,60.00
-"Spain",,1617,2028,79.70
+"Spain",,1618,2029,79.70
 "Sri Lanka","Asia",48,337,14.20
 "Sudan","Africa",24,247,9.70
 "Suriname","South America",154,171,90.00
@@ -225,7 +225,7 @@
 "Togo","Africa",5,8,62.50
 "Tokelau","Oceania",7,8,87.50
 "Tonga","Oceania",51,138,36.90
-"Trinidad and Tobago","South America",133,542,24.50
+"Trinidad and Tobago","South America",135,544,24.80
 "Tunisia","Africa",100,204,49.00
 "Turkey","Asia",63,226,27.80
 "Turkmenistan","Asia",39,99,39.30
@@ -235,15 +235,15 @@
 "Ukraine","Europe",38,245,15.50
 "United Arab Emirates","Asia",11,33,33.30
 "United Kingdom","Europe",2847,2847,100.00
-"United States",,80683,80683,100.00
+"United States",,81067,81067,100.00
 "United States Minor Outlying Islands","Oceania",86,107,80.30
 "Uruguay","South America",167,213,78.40
 "Uzbekistan","Asia",65,105,61.90
 "Vanuatu","Oceania",10,202,4.90
 "Vatican City","Europe",1,1,100.00
-"Venezuela","South America",880,1082,81.30
-"Vietnam","Asia",29,384,7.50
-"Virgin Islands of the United States","North America",91,221,41.10
+"Venezuela","South America",885,1087,81.40
+"Vietnam","Asia",30,385,7.70
+"Virgin Islands of the United States","North America",92,222,41.40
 "Wallis and Futuna","Oceania",13,21,61.90
 "Western Sahara","Africa",9,10,90.00
 "Yemen","Asia",38,64,59.30

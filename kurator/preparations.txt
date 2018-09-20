@@ -928,6 +928,7 @@ HORNS AND HORN CORES ONLY	horns | horn cores	1
 HORNS O.	horns	1
 HP	shmoo | partial skeleton	1
 HP | TISSUE	partial skeleton | shmoo | tissue	1
+HS		1
 HT	head | skin | tail	1
 HUMERUS O.	humeris	1
 HYOID (GLYCERIN)	hyoid (glycerin)	1
@@ -976,6 +977,7 @@ KARYOTYPE, SKIN, SKULL	karyotype | skin | skull	1
 KARYOTYPE, SKIN, SKULL, TISSUE	karyotype | skin | skull | tissue	1
 KARYOTYPE, SKULL	karyotype | skull	1
 KB	study skin | body skeleton	1
+KK | MUSCLE	muscle | skull	1
 L	complete skeleton	1
 L | TISSUE	complete skeleton | tissue	1
 L WING	left wing	1
@@ -1579,6 +1581,8 @@ SHELL+PARTIAL SKELETON (DRY)	shell | partial skeleton	1
 SIGHTING		1
 SISL	sisl	1
 SK	skull	1
+SK | HEART	heart | skull	1
+SK | MUSCLE	muscle | skull	1
 SK +T	skeleton | skin | tissue	1
 SK, TISSUE	skull | tissue	1
 SKE/WING	skeleton | wing	1
@@ -2230,6 +2234,7 @@ SM	skin | skull | baculum	1
 SN	skeleton	1
 SN (2)	skeletons	1
 SN (PART.)	partial skeleton	1
+SN | MUSCLE	muscle | skeleton	1
 SN +BAC	baculum | skeleton	1
 SN +T	skeleton | tissue	1
 SN +T+ECTO	ectoparasite | skeleton | tissue	1
@@ -2249,6 +2254,11 @@ SO  AD.	skin in alcohol	1
 SO  IM.	skin in alcohol	1
 SO  JUV.	skin in alcohol	1
 SO  YG.	skin in alcohol	1
+SO | BLOOD SAMPLE | HEART	blood sample | heart | skin in alcohol	1
+SO | BLOOD SAMPLE | MUSCLE	blood sample | muscle | skin in alcohol	1
+SO | ECTOPARASITES | HEART	ectosparasites | heart | skin in alcohol	1
+SO | HEART	heart | skin in alcohol	1
+SO | MUSCLE	muscle | skin in alcohol	1
 SO +T	skin in alcohol | tissue	1
 SO AD	skin in alcohol	1
 SO IM	skin in alcohol	1
@@ -2297,6 +2307,7 @@ SPREAD WING - 1	spread wing - 1	1
 SPREAD WING AND TAIL, TISSUE	spread wing | tail | tissue	1
 SPREAD WING, TISSUE	spread wing | tissue	1
 SS	skin | skull	1
+SS | MUSCLE	muscle | skin | skull	1
 SS, TISSUE	skin | skull | tissue	1
 ST	st	1
 STICK BIRD	stick bird	1
@@ -2674,6 +2685,7 @@ WING ,TISSUE ,FEATHERS ,SKEL	feathers | skeleton | tissue | wing	1
 WING ,TISSUE ,SKEL	skeleton | tissue | wing	1
 WING ,TISSUE ,SKEL ,FEATHERS	feathers | skeleton | tissue | wing	1
 WING ,WING	wing	1
+WING | MUSCLE	muscle | wing	1
 WING + PAR SKELETON	partial skeleton | wing	1
 WING + PAR SKELETON + DNA	DNA | partial skeleton | wing	1
 WING + PARTIAL SKEL	partial skeleton | wing	1
@@ -2697,6 +2709,7 @@ WING, PAR SKELETON	partial skeleton | wing	1
 WING, PART SKELETON, FEATHERS	feathers | partial skeleton | wing	1
 WING, PARTIAL SKEL, TISSUE - 1	partial skeleton | tissue - 1 | wing	1
 WING, TAIL	tail | wing	1
+WING, TAIL | MUSCLE	muscle | tail | wing	1
 WING, TAIL FEATHERS	tail feathers | wing	1
 WING, TAIL, SKELETON - 1	skeleton - 1 | tail | wing	1
 WING, TAIL, SKELETON, TISSUE - 1	skeleton | tail | tissue - 1 | wing	1
