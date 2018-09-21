@@ -364,6 +364,7 @@ DRY EGGSHELLS	dry eggshells	1
 DRY SHELL	dry eggshell	1
 DRY SHELL, HEAD, TAIL AND LEG SKINS IN ALCOHOL, GONADS IN FORMALIN	dried shell | dried head | alcoholic tail and legs skins | gonads in formalin	1
 DRY SKEL.	dry skeleton	1
+DRY SKELEOTN	skeleton	1
 DRY SKELETON	dry skeleton	1
 DRY SKELETON, SKIN	dry skeleton | skin	1
 DRY SKELETON; EMBRYO	dry skeleton | embryo	1
@@ -372,6 +373,7 @@ DRY SKULL	dry skull	1
 DRY SKULL AND CLEARED AND STAINED BODY	cleared and stained | dried skull	1
 DRY SKULL, C&S 	cleared and stained | dry skull	1
 DRY SPECIMEN	dry specimen	1
+DRY WHOLE BODY	whole body (dry)	1
 DRY, C&S	cleared and stained | dry	1
 DRY, C&S, FLUID	cleared and stained | dry | fluid	1
 DRY, C&S, HEMIPENIS, FLUID	cleared and stained | dry | fluid | hemipenis	1
@@ -1362,6 +1364,7 @@ PELT/SKULL	pelt | skull	1
 PELVIS & VERTEBRA ONLY	pelvis | vertebra	1
 PELVIS LEG (DRY)	leg | pelvis	1
 PERIOTIC BONE	periotic bone	1
+PHOTO AND TISSUE	photo | tissue	1
 PHOTO VOUCHER	photo voucher	1
 PICK UP HORNS	horns	1
 PICKLED EMBRYO	pickled embryo	1
@@ -2076,6 +2079,7 @@ SKIN; SKIN/TOE CLIP; TISSUE; SKEL	skin | tissue | skel	1
 SKIN; SKIN/TOE CLIP; WINGS_TAIL	skin | wings_tail	1
 SKIN; TISSUE	skin | tissue	1
 SKIN\BODY SKELETON	skin | body skeleton	1
+SKIN+DRY SKEL	skeleton | skin	1
 SKIN+WING	skin | wing	1
 SKIN+WING+PARTIAL SKEL.+DNA (MUSCLE ONLY)	DNA (muscle) | partial skeleton | skin | wing	1
 SKINK/SKELETON/FEATHERS	feathers | skeleton | skin	1
@@ -2587,6 +2591,7 @@ TISSUE, FLUID, RECORDING	fluid | recording | tissue	1
 TISSUE, MICROTECHNIQUE, FLUID	fluid | microtechnique | tissue	1
 TISSUE, MICROTECHNIQUE, FLUID, MICROTECHNIQUE, MICROTECHNIQUE	fluid | microtechnique | tissue	1
 TISSUE, MICROTECHNIQUE, MICROTECHNIQUE, FLUID, MICROTECHNIQUE	fluid | microtechnique | tissue	1
+TISSUE, PHOTO	photo | tissue	1
 TISSUE, RECORDING, FLUID	fluid | recording | tissue	1
 TISSUE, TISSUE	tissue	1
 TISSUE, WING	tissue | wing	1
@@ -2655,6 +2660,8 @@ VERTEBRAE+RIBS (DRY)	ribs | vertebrae	1
 VERTEBRAL CENTRUM.	vertebral centrum	1
 VERTEBRAL COLUMN - PART	partial vertebral column	1
 VERTEBRAL EPIPHYSIS	vertebral epiphysis	1
+VIDEO VOUCHER	video	1
+VISCERA	viscera	1
 WAX CAST	wax cast	1
 WHOLE	whole animal	1
 WHOLE - 1	whole - 1	1

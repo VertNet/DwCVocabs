@@ -1,5 +1,5 @@
 "country","continent","records resolved","total records","percent complete"
-"[none]",,3977,3977,100.00
+"[none]",,3978,3978,100.00
 "Afghanistan","Asia",77,87,88.50
 "Åland Islands","Europe",1,1,100.00
 "Albania","Europe",17,18,94.40
@@ -92,7 +92,7 @@
 "Grenada","North America",27,95,28.40
 "Guadeloupe","North America",31,106,29.20
 "Guam","Oceania",32,76,42.10
-"Guatemala","North America",347,740,46.80
+"Guatemala","North America",348,741,46.90
 "Guernsey","Europe",7,7,100.00
 "Guinea","Africa",26,121,21.40
 "Guinea-Bissau","Africa",18,24,75.00
@@ -112,7 +112,7 @@
 "Israel","Asia",22,100,22.00
 "Italy","Europe",433,795,54.40
 "Jamaica","North America",70,418,16.70
-"Japan","Asia",180,1656,10.80
+"Japan","Asia",180,1657,10.80
 "Jersey","Europe",13,13,100.00
 "Jordan","Asia",12,29,41.30
 "Kazakhstan","Asia",64,190,33.60
@@ -143,7 +143,7 @@
 "Mauritania","Africa",13,50,26.00
 "Mauritius","Africa",93,93,100.00
 "Mayotte","Africa",3,9,33.30
-"Mexico","North America",6814,6814,100.00
+"Mexico","North America",6836,6836,100.00
 "Moldova","Europe",11,17,64.70
 "Monaco","Europe",2,2,100.00
 "Mongolia","Asia",176,296,59.40
@@ -160,7 +160,7 @@
 "New Zealand","Oceania",115,620,18.50
 "Nicaragua","North America",112,384,29.10
 "Niger","Africa",25,66,37.80
-"Nigeria","Africa",28,229,12.20
+"Nigeria","Africa",32,233,13.70
 "Niue","Oceania",6,6,100.00
 "Norfolk Island","Oceania",26,26,100.00
 "North Korea","Asia",6,27,22.20
@@ -229,13 +229,13 @@
 "Tunisia","Africa",100,204,49.00
 "Turkey","Asia",63,226,27.80
 "Turkmenistan","Asia",39,99,39.30
-"Turks and Caicos Islands","North America",14,73,19.10
+"Turks and Caicos Islands","North America",15,74,20.20
 "Tuvalu","Oceania",8,11,72.70
 "Uganda","Africa",170,682,24.90
 "Ukraine","Europe",38,245,15.50
 "United Arab Emirates","Asia",11,33,33.30
 "United Kingdom","Europe",2847,2847,100.00
-"United States",,81067,81067,100.00
+"United States",,81104,81104,100.00
 "United States Minor Outlying Islands","Oceania",86,107,80.30
 "Uruguay","South America",167,213,78.40
 "Uzbekistan","Asia",65,105,61.90
