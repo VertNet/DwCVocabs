@@ -1,4 +1,8 @@
 "verbatimVerbatimCoordinateSystem","standardVerbatimCoordinateSystem","uri","checked","opinionBy","opinionDate"
+"
+decimal degrees","decimal degrees",,1,"John Wieczorek","2018-10-10"
+"
+WGS84",,,1,"John Wieczorek","2018-10-10"
 """degrees minutes seconds, nearest minute""","degrees minutes seconds",,1,"John Wieczorek","2017-08-25"
 """Township, section, range""","PLSS",,1,"John Wieczorek","2017-08-25"
 "#NAME?",,,1,"John Wieczorek","2017-08-25"
