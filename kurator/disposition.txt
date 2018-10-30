@@ -34,6 +34,7 @@ disposition	standard	vetted
 67602 EXCHANGED RC MURPHY JULY 1907	voucher elsewhere	1
 691		1
 ABSENT	missing	1
+ADULT		1
 ALEXANDER MUS., NETH	voucher elsewhere	1
 ANCIENT DNA		1
 ANDES		1
@@ -59,6 +60,7 @@ BUFFALO, MUSEUM OF SCI.	voucher elsewhere	1
 BY EXCHANGE WITH M.C.Z.	voucher elsewhere	1
 BYU	voucher elsewhere	1
 C.Z. EUSTARGIO MENCHEZ EXCHANGE TO CORGAS MEM. LAB	voucher elsewhere	1
+CAPTIVE		1
 CIBNOR	voucher elsewhere	1
 CLEARED AND STAINED		1
 CLEARED AND STAINEDON LOAN		1
@@ -260,6 +262,7 @@ DONATED TO URBAN PARK RANGERS, BROOKLYN, NY-JULY 1	voucher elsewhere	1
 DR. GEORGE H. LOWERY, EXCH. TO LOUISIANA STATE UNI	voucher elsewhere	1
 DR. GEORGE M. LOWERY, EXCH. TO LOUISIANA STATE UNI	voucher elsewhere	1
 DR. HERMAN TO D.G. ELLIOT & AUS. MUS.	voucher elsewhere	1
+DRY BUSH.		1
 DUBLICATE SENT TO BOMBAY NAT. HIST. SOC. MARCH 193	duplicate elsewhere	1
 DUBLICATE SENT TO BOMBAY NAT. HIST. SOC., MARCH 19	duplicate elsewhere	1
 DUBLICATE SENT TO BRITISH MUSEUM, MARCH 1938	duplicate elsewhere	1
@@ -275,6 +278,8 @@ DUPLICATE FOR U.S. NATIONAL MUS. FEB 1913	duplicate elsewhere	1
 DUPLICATE FOR U.S. NATIONAL MUS. NOV 1912	duplicate elsewhere	1
 DUPLICATE FOR U.S. NATIONAL MUS. NOV. 1912	duplicate elsewhere	1
 DUPLICATE FOR U.S. NBAT. MUS. NOV 1912	duplicate elsewhere	1
+DUPLICATE INFO (48300)		1
+DUPLICATE INFO (48308)		1
 DUPLICATE SENT TO BOMBAY NAT. HIST. COC., MARCH 19	duplicate elsewhere	1
 DUPLICATE SENT TO BOMBAY NAT. HIST. SO., MARCH 193	duplicate elsewhere	1
 DUPLICATE SENT TO BOMBAY NAT. HIST. SOC. 1938	duplicate elsewhere	1
@@ -974,9 +979,12 @@ EXCH. U.S. NAT. MUS. JULY 1921	voucher elsewhere	1
 EXCH. U.S. NAT. MUSEUM JULY 1921	voucher elsewhere	1
 EXCH. U.S. NAT. MUSEUM, JULY 1921	voucher elsewhere	1
 EXCH. U.S.N.M. JULY 1921	voucher elsewhere	1
+EXCH. UCR	voucher elsewhere	1
 EXCH. UNIV. OF OKLAHOMA 3 JAN 1955 J.F.	voucher elsewhere	1
 EXCH. UNIV. OF OKLAHOMA, 3 JAN 1955	voucher elsewhere	1
 EXCH. UNIVERSITY OF DAKOTA JUNE 15, 1920	voucher elsewhere	1
+EXCH. V.V.	voucher elsewhere	1
+EXCH. VPI	voucher elsewhere	1
 EXCH. W. NETTERSTROM OSTERSUND SWEDEN 1-6-54	voucher elsewhere	1
 EXCH. W.[ILLEG][ILLEG] ROSENBERG, SEP 192[ILLEG]	voucher elsewhere	1
 EXCH. W.F. H. ROSENBERG, SEPT 1921	voucher elsewhere	1
@@ -2103,6 +2111,7 @@ FLA. ST. UNIV. EXCHANGED U. FLORIDA 7/19/63	voucher elsewhere	1
 FLA. ST. UNIV., EXCHANGED U. FLA. 7/11/63	voucher elsewhere	1
 FLA. ST. UNIVERSITY	voucher elsewhere	1
 FLA. STATE UNIVERSITY	voucher elsewhere	1
+FLAT SKIN		1
 FLUID ROOM	in collection	1
 FOUND	in collection	1
 FOUND - DISCOVERED BY AMCC INVENTORY	in collection	1
@@ -2712,6 +2721,7 @@ MTD FOR NEW GUINEA MT. GROUP-APRIL 1940	voucher elsewhere	1
 N		1
 N.Y.C. AREA EXHIBIT	voucher elsewhere	1
 N.Y.C. AREA EXHIBIT - RETURNED TO COLLECTION	in collection	1
+N/A		1
 NAT. MUS. M. IRWIN	voucher elsewhere	1
 NAT. MUSE. M. IRWIN	voucher elsewhere	1
 NAT. MUSEUM M. IRWIN	voucher elsewhere	1
@@ -2719,9 +2729,14 @@ NAT. MUSEUM OF SCI.	voucher elsewhere	1
 NAT. MUSEUM, M. IRWIN	voucher elsewhere	1
 NAT. MUSEUM., M. IRWIN	voucher elsewhere	1
 NATURALIST C	voucher elsewhere	1
+NETTED IN PRIMARY FOREST		1
 NO	voucher elsewhere	1
+NO  ADDITIONAL INFO		1
+NO ADDITIONAL INFO.		1
+NO ADDITIONAL INFORMATION		1
 NO DATA, DISCARDED 7 APR 1941 (THIS OUTGOING NOTE 	discarded	1
 NO DATA, DISCARDED 9 APR 1941	discarded	1
+NO OTHER INFORMATION GIVE		1
 NO.		1
 NO. 133 EXCHANGE COLL. OF E.A. MEARNS	voucher elsewhere	1
 NO. 421051 SENT IN EXCHANGE WITH LEIDEN MUSEUM, NO	voucher elsewhere	1
@@ -2733,6 +2748,9 @@ NO=O	voucher elsewhere	1
 NONPOISONED, FLAT; SKIN DISCARDED	discarded	1
 NORMAL	in collection	1
 NOT APPLICABLE		1
+NOT RECORDED		1
+NOT RECORDED.		1
+NOT REPORTED		1
 NOTE: 18 JUL 1910 THIS BIRD RETURNED TO THE DEALER	voucher elsewhere	1
 NOV 1966;EXCHANGE H.B. HOUGH, ONTARIO, CANADA	voucher elsewhere	1
 NOV. 1903; EXCHANGED WITH J & J MAILLIARD	voucher elsewhere	1
@@ -3316,6 +3334,7 @@ SKELETONPARATYPE		1
 SKIN DESTROYED, AUG 1920	destroyed	1
 SKIN SPOILED - DISCARDED	discarded	1
 SKIN SPOILED, DISCARDED	discarded	1
+SKULL OSSIFIED		1
 SOLD TO FRED BARKER, 22 JUL 1913	voucher elsewhere	1
 SOLD TO FRED BARKER, PARKERS PRAIRIE, MINN., 22 JU	voucher elsewhere	1
 SPEC. EXCH. TO ROTHSCHILD & RENUMBERED 594910 WHEN	voucher elsewhere	1
@@ -3346,6 +3365,8 @@ TAKEN TO EUROPE BY DR. SANFORD, JUNE 1929	voucher elsewhere	1
 TAKEN TO EUROPE BY DR. SANFORD, JUNE 29, 1929	voucher elsewhere	1
 TAKEN TO EUROPE BY DR. SANFORD, JUNE 9, 1929	voucher elsewhere	1
 TANK		1
+TC	in collection	1
+TEACH. COLL.	in collection	1
 TEMPORARILY REMOVED FOR REPAIR		1
 THIS SPEC. SENT ON LOAN TO DR. GARRIDO IN CUBA IN 	voucher elsewhere	1
 TISSUE ONLY		1
