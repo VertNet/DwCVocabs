@@ -1,5 +1,5 @@
 "country","continent","records resolved","total records","percent complete"
-"[none]",,3991,3991,100.00
+"[none]",,3993,3993,100.00
 "Afghanistan","Asia",77,87,88.50
 "Åland Islands","Europe",1,1,100.00
 "Albania","Europe",17,18,94.40
@@ -104,7 +104,7 @@
 "Hungary","Europe",24,140,17.10
 "Iceland","Europe",138,191,72.20
 "India","Asia",638,1647,38.70
-"Indonesia","Asia",1190,2331,51.00
+"Indonesia","Asia",1191,2332,51.00
 "Iran","Asia",42,285,14.70
 "Iraq","Asia",13,57,22.80
 "Ireland","Europe",320,320,100.00
@@ -173,7 +173,7 @@
 "Panama","North America",377,760,49.60
 "Papua New Guinea","Oceania",265,1723,15.30
 "Paraguay","South America",315,426,73.90
-"Peru","South America",1156,1306,88.50
+"Peru","South America",1157,1307,88.50
 "Philippines","Asia",64,2538,2.50
 "Pitcairn","Oceania",45,45,100.00
 "Poland","Europe",19,228,8.30
@@ -187,7 +187,7 @@
 "Saint Barthélemy","North America",8,16,50.00
 "Saint Helena, Ascension and Tristan da Cunha",,90,90,100.00
 "Saint Kitts and Nevis","North America",25,74,33.70
-"Saint Lucia","North America",29,98,29.50
+"Saint Lucia","North America",98,98,100.00
 "Saint Pierre and Miquelon","North America",5,5,100.00
 "Saint Vincent and the Grenadines","North America",54,168,32.10
 "Saint-Martin","North America",2,4,50.00
@@ -225,7 +225,7 @@
 "Togo","Africa",5,8,62.50
 "Tokelau","Oceania",7,8,87.50
 "Tonga","Oceania",51,138,36.90
-"Trinidad and Tobago","South America",136,545,24.90
+"Trinidad and Tobago","South America",136,555,24.50
 "Tunisia","Africa",101,205,49.20
 "Turkey","Asia",65,228,28.50
 "Turkmenistan","Asia",39,99,39.30
