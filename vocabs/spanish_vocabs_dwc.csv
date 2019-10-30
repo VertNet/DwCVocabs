@@ -1,30 +1,30 @@
 verbatimFieldName,standardFieldName,namespace,uri,checked,source,comment,opinionBy,opinionDate
-ID del registro biol骻ico,occurrenceID,dwc,http://rs.tdwg.org/dwc/terms/occurrenceID,,,,Marcelo Oyaneder,29/10/2019
-Base del registro,basisOfRecord,dwc,http://rs.tdwg.org/dwc/terms/basisOfRecord,,,,Marcelo Oyaneder,
-C骴igo de la instituci髇,institutionCode,dwc,http://rs.tdwg.org/dwc/terms/institutionCode,,,,Marcelo Oyaneder,29/10/2019
-C骴igo de la colecci髇,collectionCode,dwc,http://rs.tdwg.org/dwc/terms/collectionCode,,,,Marcelo Oyaneder,29/10/2019
-N鷐ero de cat醠ogo,catalogNumber,dwc,http://rs.tdwg.org/dwc/terms/catalogNumber,,,,Marcelo Oyaneder,29/10/2019
+ID del registro biol贸gico,occurrenceID,dwc,http://rs.tdwg.org/dwc/terms/occurrenceID,,,,Marcelo Oyaneder,29/10/2019
+Base del registro,basisOfRecord,dwc,http://rs.tdwg.org/dwc/terms/basisOfRecord,,,,Marcelo Oyaneder,29/10/2019
+C贸digo de la instituci贸n,institutionCode,dwc,http://rs.tdwg.org/dwc/terms/institutionCode,,,,Marcelo Oyaneder,29/10/2019
+C贸digo de la colecci贸n,collectionCode,dwc,http://rs.tdwg.org/dwc/terms/collectionCode,,,,Marcelo Oyaneder,29/10/2019
+N煤mero de cat谩logo,catalogNumber,dwc,http://rs.tdwg.org/dwc/terms/catalogNumber,,,,Marcelo Oyaneder,29/10/2019
 Tipo,type,dcterms,http://purl.org/dc/terms/type,,,,Marcelo Oyaneder,29/10/2019
 Modificado,modified,dcterms,http://purl.org/dc/terms/modified,,,,Marcelo Oyaneder,29/10/2019
 Idioma,language,dcterms,http://purl.org/dc/terms/language,,,,Marcelo Oyaneder,29/10/2019
 Licencia,license,dcterms,http://purl.org/dc/terms/license,,,,Marcelo Oyaneder,29/10/2019
 Titular de los derechos,rightsHolder,dcterms,http://purl.org/dc/terms/rightsHolder,,,,Marcelo Oyaneder,29/10/2019
 Derechos de acceso,accessRights,dcterms,http://purl.org/dc/terms/accessRights,,,,Marcelo Oyaneder,29/10/2019
-Citaci髇 bibliogr醘ica,bibliographicCitation,dcterms,http://purl.org/dc/terms/bibliographicCitation,,,,Marcelo Oyaneder,29/10/2019
+Citaci贸n bibliogr谩fica,bibliographicCitation,dcterms,http://purl.org/dc/terms/bibliographicCitation,,,,Marcelo Oyaneder,29/10/2019
 Referencias,references,dcterms,http://purl.org/dc/terms/references,,,,Marcelo Oyaneder,29/10/2019
-ID de la instituci髇,institutionID,dwc,http://rs.tdwg.org/dwc/terms/institutionID,,,,Marcelo Oyaneder,29/10/2019
-ID de la colecci髇,collectionID,dwc,http://rs.tdwg.org/dwc/terms/collectionID,,,,Marcelo Oyaneder,29/10/2019
+ID de la instituci贸n,institutionID,dwc,http://rs.tdwg.org/dwc/terms/institutionID,,,,Marcelo Oyaneder,29/10/2019
+ID de la colecci贸n,collectionID,dwc,http://rs.tdwg.org/dwc/terms/collectionID,,,,Marcelo Oyaneder,29/10/2019
 ID del conjunto de datos,datasetID,dwc,http://rs.tdwg.org/dwc/terms/datasetID,,,,Marcelo Oyaneder,29/10/2019
 Nombre del conjunto de datos,datasetName,dwc,http://rs.tdwg.org/dwc/terms/datasetName,,,,Marcelo Oyaneder,29/10/2019
-C骴igo de la instituci髇 propietaria,ownerInstitutionCode,dwc,http://rs.tdwg.org/dwc/terms/ownerInstitutionCode,,,,Marcelo Oyaneder,29/10/2019
-Informaci髇 retenida,informationWithheld,dwc,http://rs.tdwg.org/dwc/terms/informationWithheld,,,,Marcelo Oyaneder,29/10/2019
-Generalizaci髇 de los datos,dataGeneralizations,dwc,http://rs.tdwg.org/dwc/terms/dataGeneralizations,,,,Marcelo Oyaneder,29/10/2019
-Propiedades din醡icas,dynamicProperties,dwc,http://rs.tdwg.org/dwc/terms/dynamicProperties,,,,Marcelo Oyaneder,29/10/2019
-Comentarios del registro biol骻ico,occurrenceRemarks,dwc,http://rs.tdwg.org/dwc/terms/occurrenceRemarks,,,,Marcelo Oyaneder,29/10/2019
-N鷐ero de registro,recordNumber,dwc,http://rs.tdwg.org/dwc/terms/recordNumber,,,,Marcelo Oyaneder,29/10/2019
+C贸digo de la instituci贸n propietaria,ownerInstitutionCode,dwc,http://rs.tdwg.org/dwc/terms/ownerInstitutionCode,,,,Marcelo Oyaneder,29/10/2019
+Informaci贸n retenida,informationWithheld,dwc,http://rs.tdwg.org/dwc/terms/informationWithheld,,,,Marcelo Oyaneder,29/10/2019
+Generalizaci贸n de los datos,dataGeneralizations,dwc,http://rs.tdwg.org/dwc/terms/dataGeneralizations,,,,Marcelo Oyaneder,29/10/2019
+Propiedades din谩micas,dynamicProperties,dwc,http://rs.tdwg.org/dwc/terms/dynamicProperties,,,,Marcelo Oyaneder,29/10/2019
+Comentarios del registro biol贸gico,occurrenceRemarks,dwc,http://rs.tdwg.org/dwc/terms/occurrenceRemarks,,,,Marcelo Oyaneder,29/10/2019
+N煤mero de registro,recordNumber,dwc,http://rs.tdwg.org/dwc/terms/recordNumber,,,,Marcelo Oyaneder,29/10/2019
 Registrado por,recordedBy,dwc,http://rs.tdwg.org/dwc/terms/recordedBy,,,,Marcelo Oyaneder,29/10/2019
 ID del organismo,organismID,dwc,http://rs.tdwg.org/dwc/terms/organismID,,,,Marcelo Oyaneder,29/10/2019
-N鷐ero de individuos,individualCount,dwc,http://rs.tdwg.org/dwc/terms/individualCount,,,,Marcelo Oyaneder,29/10/2019
+N煤mero de individuos,individualCount,dwc,http://rs.tdwg.org/dwc/terms/individualCount,,,,Marcelo Oyaneder,29/10/2019
 Cantidad del organismo,organismQuantity,dwc,http://rs.tdwg.org/dwc/terms/organismQuantity,,,,Marcelo Oyaneder,29/10/2019
 Tipo de cantidad del organismo,organismQuantityType,dwc,http://rs.tdwg.org/dwc/terms/organismQuantityType,,,,Marcelo Oyaneder,29/10/2019
 Nombre del organismo,organismName,dwc,http://rs.tdwg.org/dwc/terms/organismName,,,,Marcelo Oyaneder,29/10/2019
@@ -33,62 +33,62 @@ Organismos asociados,associatedOrganisms,dwc,http://rs.tdwg.org/dwc/terms/associ
 Comentarios del organismo,organismRemarks,dwc,http://rs.tdwg.org/dwc/terms/organismRemarks,,,,Marcelo Oyaneder,29/10/2019
 Sexo,sex,dwc,http://rs.tdwg.org/dwc/terms/sex,,,,Marcelo Oyaneder,29/10/2019
 Etapa de vida,lifeStage,dwc,http://rs.tdwg.org/dwc/terms/lifeStage,,,,Marcelo Oyaneder,29/10/2019
-Condici髇 reproductiva,reproductiveCondition,dwc,http://rs.tdwg.org/dwc/terms/reproductiveCondition,,,,Marcelo Oyaneder,29/10/2019
+Condici贸n reproductiva,reproductiveCondition,dwc,http://rs.tdwg.org/dwc/terms/reproductiveCondition,,,,Marcelo Oyaneder,29/10/2019
 Comportamiento,behavior,dwc,http://rs.tdwg.org/dwc/terms/behavior,,,,Marcelo Oyaneder,29/10/2019
 Medios de establecimiento,establishmentMeans,dwc,http://rs.tdwg.org/dwc/terms/establishmentMeans,,,,Marcelo Oyaneder,29/10/2019
-Estado del registro biol骻ico,occurrenceStatus,dwc,http://rs.tdwg.org/dwc/terms/occurrenceStatus,,,,Marcelo Oyaneder,29/10/2019
+Estado del registro biol贸gico,occurrenceStatus,dwc,http://rs.tdwg.org/dwc/terms/occurrenceStatus,,,,Marcelo Oyaneder,29/10/2019
 Preparaciones,preparations,dwc,http://rs.tdwg.org/dwc/terms/preparations,,,,Marcelo Oyaneder,29/10/2019
-Disposici髇,disposition,dwc,http://rs.tdwg.org/dwc/terms/disposition,,,,Marcelo Oyaneder,29/10/2019
-Otros n鷐eros de cat醠ogo,otherCatalogNumbers,dwc,http://rs.tdwg.org/dwc/terms/otherCatalogNumbers,,,,Marcelo Oyaneder,29/10/2019
+Disposici贸n,disposition,dwc,http://rs.tdwg.org/dwc/terms/disposition,,,,Marcelo Oyaneder,29/10/2019
+Otros n煤meros de cat谩logo,otherCatalogNumbers,dwc,http://rs.tdwg.org/dwc/terms/otherCatalogNumbers,,,,Marcelo Oyaneder,29/10/2019
 Identificaciones Previas,previousIdentifications,dwc,http://rs.tdwg.org/dwc/terms/previousIdentifications,,,,Marcelo Oyaneder,29/10/2019
 Medios asociados,associatedMedia,dwc,http://rs.tdwg.org/dwc/terms/associatedMedia,,,,Marcelo Oyaneder,29/10/2019
 Referencias asociadas,associatedReferences,dwc,http://rs.tdwg.org/dwc/terms/associatedReferences,,,,Marcelo Oyaneder,29/10/2019
-Registros biol骻icos asociados,associatedOccurrences,dwc,http://rs.tdwg.org/dwc/terms/associatedOccurrences,,,,Marcelo Oyaneder,29/10/2019
+Registros biol贸gicos asociados,associatedOccurrences,dwc,http://rs.tdwg.org/dwc/terms/associatedOccurrences,,,,Marcelo Oyaneder,29/10/2019
 Secuencias asociadas,associatedSequences,dwc,http://rs.tdwg.org/dwc/terms/associatedSequences,,,,Marcelo Oyaneder,29/10/2019
 Taxones asociados,associatedTaxa,dwc,http://rs.tdwg.org/dwc/terms/associatedTaxa,,,,Marcelo Oyaneder,29/10/2019
 ID de muestra del ejemplar,materialSampleID,dwc,http://rs.tdwg.org/dwc/terms/materialSampleID,,,,Marcelo Oyaneder,29/10/2019
 ID del evento parental,parentEventID,dwc,http://rs.tdwg.org/dwc/terms/parentEventID,,,,Marcelo Oyaneder,29/10/2019
 ID del evento,eventID,dwc,http://rs.tdwg.org/dwc/terms/eventID,,,,Marcelo Oyaneder,29/10/2019
 Protocolo de muestreo,samplingProtocol,dwc,http://rs.tdwg.org/dwc/terms/samplingProtocol,,,,Marcelo Oyaneder,29/10/2019
-Tama駉 de la muestra,sampleSizeValue,dwc,http://rs.tdwg.org/dwc/terms/sampleSizeValue,,,,Marcelo Oyaneder,29/10/2019
-Unidad del tama駉 de la muestra,sampleSizeUnit,dwc,http://rs.tdwg.org/dwc/terms/sampleSizeUnit,,,,Marcelo Oyaneder,29/10/2019
+Tama帽o de la muestra,sampleSizeValue,dwc,http://rs.tdwg.org/dwc/terms/sampleSizeValue,,,,Marcelo Oyaneder,29/10/2019
+Unidad del tama帽o de la muestra,sampleSizeUnit,dwc,http://rs.tdwg.org/dwc/terms/sampleSizeUnit,,,,Marcelo Oyaneder,29/10/2019
 Esfuerzo de muestreo,samplingEffort,dwc,http://rs.tdwg.org/dwc/terms/samplingEffort,,,,Marcelo Oyaneder,29/10/2019
 Fecha del evento,eventDate,dwc,http://rs.tdwg.org/dwc/terms/eventDate,,,,Marcelo Oyaneder,29/10/2019
 Hora del evento,eventTime,dwc,http://rs.tdwg.org/dwc/terms/eventTime,,,,Marcelo Oyaneder,29/10/2019
-D韆 inicial del a駉,startDayOfYear,dwc,http://rs.tdwg.org/dwc/terms/startDayOfYear,,,,Marcelo Oyaneder,29/10/2019
-D韆 final del a駉,endDayOfYear,dwc,http://rs.tdwg.org/dwc/terms/endDayOfYear,,,,Marcelo Oyaneder,29/10/2019
-A駉,year,dwc,http://rs.tdwg.org/dwc/terms/year,,,,Marcelo Oyaneder,29/10/2019
+D铆a inicial del a帽o,startDayOfYear,dwc,http://rs.tdwg.org/dwc/terms/startDayOfYear,,,,Marcelo Oyaneder,29/10/2019
+D铆a final del a帽o,endDayOfYear,dwc,http://rs.tdwg.org/dwc/terms/endDayOfYear,,,,Marcelo Oyaneder,29/10/2019
+A帽o,year,dwc,http://rs.tdwg.org/dwc/terms/year,,,,Marcelo Oyaneder,29/10/2019
 Mes,month,dwc,http://rs.tdwg.org/dwc/terms/month,,,,Marcelo Oyaneder,29/10/2019
-D韆,day,dwc,http://rs.tdwg.org/dwc/terms/day,,,,Marcelo Oyaneder,29/10/2019
+D铆a,day,dwc,http://rs.tdwg.org/dwc/terms/day,,,,Marcelo Oyaneder,29/10/2019
 Fecha original del evento,verbatimEventDate,dwc,http://rs.tdwg.org/dwc/terms/verbatimEventDate,,,,Marcelo Oyaneder,29/10/2019
-H醔itat,habitat,dwc,http://rs.tdwg.org/dwc/terms/habitat,,,,Marcelo Oyaneder,29/10/2019
-N鷐ero de campo,fieldNumber,dwc,http://rs.tdwg.org/dwc/terms/fieldNumber,,,,Marcelo Oyaneder,29/10/2019
+H谩bitat,habitat,dwc,http://rs.tdwg.org/dwc/terms/habitat,,,,Marcelo Oyaneder,29/10/2019
+N煤mero de campo,fieldNumber,dwc,http://rs.tdwg.org/dwc/terms/fieldNumber,,,,Marcelo Oyaneder,29/10/2019
 Notas de campo,fieldNotes,dwc,http://rs.tdwg.org/dwc/terms/fieldNotes,,,,Marcelo Oyaneder,29/10/2019
 Comentarios del evento,eventRemarks,dwc,http://rs.tdwg.org/dwc/terms/eventRemarks,,,,Marcelo Oyaneder,29/10/2019
-ID de la ubicaci髇,locationID,dwc,http://rs.tdwg.org/dwc/terms/locationID,,,,Marcelo Oyaneder,29/10/2019
-ID de la geograf韆 superior,higherGeographyID,dwc,http://rs.tdwg.org/dwc/terms/higherGeographyID,,,,Marcelo Oyaneder,29/10/2019
-Geograf韆 superior,higherGeography,dwc,http://rs.tdwg.org/dwc/terms/higherGeography,,,,Marcelo Oyaneder,29/10/2019
+ID de la ubicaci贸n,locationID,dwc,http://rs.tdwg.org/dwc/terms/locationID,,,,Marcelo Oyaneder,29/10/2019
+ID de la geograf铆a superior,higherGeographyID,dwc,http://rs.tdwg.org/dwc/terms/higherGeographyID,,,,Marcelo Oyaneder,29/10/2019
+Geograf铆a superior,higherGeography,dwc,http://rs.tdwg.org/dwc/terms/higherGeography,,,,Marcelo Oyaneder,29/10/2019
 Continente,continent,dwc,http://rs.tdwg.org/dwc/terms/continent,,,,Marcelo Oyaneder,29/10/2019
 Cuerpo de agua,waterBody,dwc,http://rs.tdwg.org/dwc/terms/waterBody,,,,Marcelo Oyaneder,29/10/2019
 Grupo de islas,islandGroup,dwc,http://rs.tdwg.org/dwc/terms/islandGroup,,,,Marcelo Oyaneder,29/10/2019
 Isla,island,dwc,http://rs.tdwg.org/dwc/terms/island,,,,Marcelo Oyaneder,29/10/2019
-Pa韘,country,dwc,http://rs.tdwg.org/dwc/terms/country,,,,Marcelo Oyaneder,29/10/2019
-C骴igo del pa韘,countryCode,dwc,http://rs.tdwg.org/dwc/terms/countryCode,,,,Marcelo Oyaneder,29/10/2019
+Pa铆s,country,dwc,http://rs.tdwg.org/dwc/terms/country,,,,Marcelo Oyaneder,29/10/2019
+C贸digo del pa铆s,countryCode,dwc,http://rs.tdwg.org/dwc/terms/countryCode,,,,Marcelo Oyaneder,29/10/2019
 Departamento,stateProvince,dwc,http://rs.tdwg.org/dwc/terms/stateProvince,,,,Marcelo Oyaneder,29/10/2019
 Municipio,county,dwc,http://rs.tdwg.org/dwc/terms/county,,,,Marcelo Oyaneder,29/10/2019
 Centro poblado / Cabecera municipal,municipality,dwc,http://rs.tdwg.org/dwc/terms/municipality,,,,Marcelo Oyaneder,29/10/2019
 Localidad,locality,dwc,http://rs.tdwg.org/dwc/terms/locality,,,,Marcelo Oyaneder,29/10/2019
 Localidad original,verbatimLocality,dwc,http://rs.tdwg.org/dwc/terms/verbatimLocality,,,,Marcelo Oyaneder,29/10/2019
-Elevaci髇 original,verbatimElevation,dwc,http://rs.tdwg.org/dwc/terms/verbatimElevation,,,,Marcelo Oyaneder,29/10/2019
-Elevaci髇 m韓ima en metros,minimumElevationInMeters,dwc,http://rs.tdwg.org/dwc/terms/minimumElevationInMeters,,,,Marcelo Oyaneder,29/10/2019
-Elevaci髇 m醲ima en metros,maximumElevationInMeters,dwc,http://rs.tdwg.org/dwc/terms/maximumElevationInMeters,,,,Marcelo Oyaneder,29/10/2019
+Elevaci贸n original,verbatimElevation,dwc,http://rs.tdwg.org/dwc/terms/verbatimElevation,,,,Marcelo Oyaneder,29/10/2019
+Elevaci贸n m铆nima en metros,minimumElevationInMeters,dwc,http://rs.tdwg.org/dwc/terms/minimumElevationInMeters,,,,Marcelo Oyaneder,29/10/2019
+Elevaci贸n m谩xima en metros,maximumElevationInMeters,dwc,http://rs.tdwg.org/dwc/terms/maximumElevationInMeters,,,,Marcelo Oyaneder,29/10/2019
 Profundidad original,verbatimDepth,dwc,http://rs.tdwg.org/dwc/terms/verbatimDepth,,,,Marcelo Oyaneder,29/10/2019
-Profundidad m韓ima en metros,minimumDepthInMeters,dwc,http://rs.tdwg.org/dwc/terms/minimumDepthInMeters,,,,Marcelo Oyaneder,29/10/2019
-Profundidad m醲ima en metros,maximumDepthInMeters,dwc,http://rs.tdwg.org/dwc/terms/maximumDepthInMeters,,,,Marcelo Oyaneder,29/10/2019
-Distancia m韓ima de la superficie metros,minimumDistanceAboveSurfaceInMeters,dwc,http://rs.tdwg.org/dwc/terms/minimumDistanceAboveSurfaceInMeters,,,,Marcelo Oyaneder,29/10/2019
-Distancia m醲ima de la superficie metros,maximumDistanceAboveSurfaceInMeters,dwc,http://rs.tdwg.org/dwc/terms/maximumDistanceAboveSurfaceInMeters,,,,Marcelo Oyaneder,29/10/2019
-Ubicaci髇 de acuerdo con,locationAccordingTo,dwc,http://rs.tdwg.org/dwc/terms/locationAccordingTo,,,,Marcelo Oyaneder,29/10/2019
-Comentarios de la ubicaci髇,locationRemarks,dwc,http://rs.tdwg.org/dwc/terms/locationRemarks,,,,Marcelo Oyaneder,29/10/2019
+Profundidad m铆nima en metros,minimumDepthInMeters,dwc,http://rs.tdwg.org/dwc/terms/minimumDepthInMeters,,,,Marcelo Oyaneder,29/10/2019
+Profundidad m谩xima en metros,maximumDepthInMeters,dwc,http://rs.tdwg.org/dwc/terms/maximumDepthInMeters,,,,Marcelo Oyaneder,29/10/2019
+Distancia m铆nima de la superficie metros,minimumDistanceAboveSurfaceInMeters,dwc,http://rs.tdwg.org/dwc/terms/minimumDistanceAboveSurfaceInMeters,,,,Marcelo Oyaneder,29/10/2019
+Distancia m谩xima de la superficie metros,maximumDistanceAboveSurfaceInMeters,dwc,http://rs.tdwg.org/dwc/terms/maximumDistanceAboveSurfaceInMeters,,,,Marcelo Oyaneder,29/10/2019
+Ubicaci贸n de acuerdo con,locationAccordingTo,dwc,http://rs.tdwg.org/dwc/terms/locationAccordingTo,,,,Marcelo Oyaneder,29/10/2019
+Comentarios de la ubicaci贸n,locationRemarks,dwc,http://rs.tdwg.org/dwc/terms/locationRemarks,,,,Marcelo Oyaneder,29/10/2019
 Coordenadas originales,verbatimCoordinates,dwc,http://rs.tdwg.org/dwc/terms/verbatimCoordinates,,,,Marcelo Oyaneder,29/10/2019
 Latitud original,verbatimLatitude,dwc,http://rs.tdwg.org/dwc/terms/verbatimLatitude,,,,Marcelo Oyaneder,29/10/2019
 Longitud original,verbatimLongitude,dwc,http://rs.tdwg.org/dwc/terms/verbatimLongitude,,,,Marcelo Oyaneder,29/10/2019
@@ -96,75 +96,75 @@ Sistema original de coordenadas,verbatimCoordinateSystem,dwc,http://rs.tdwg.org/
 SRS original,verbatimSRS,dwc,http://rs.tdwg.org/dwc/terms/verbatimSRS,,,,Marcelo Oyaneder,29/10/2019
 Latitud decimal,decimalLatitude,dwc,http://rs.tdwg.org/dwc/terms/decimalLatitude,,,,Marcelo Oyaneder,29/10/2019
 Longitud decimal,decimalLongitude,dwc,http://rs.tdwg.org/dwc/terms/decimalLongitude,,,,Marcelo Oyaneder,29/10/2019
-Datum geod閟ico,geodeticDatum,dwc,http://rs.tdwg.org/dwc/terms/geodeticDatum,,,,Marcelo Oyaneder,29/10/2019
+Datum geod茅sico,geodeticDatum,dwc,http://rs.tdwg.org/dwc/terms/geodeticDatum,,,,Marcelo Oyaneder,29/10/2019
 Incertidumbre de las coordenadas en metros,coordinateUncertaintyInMeters,dwc,http://rs.tdwg.org/dwc/terms/coordinateUncertaintyInMeters,,,,Marcelo Oyaneder,29/10/2019
-Precisi髇 de las coordenadas,coordinatePrecision,dwc,http://rs.tdwg.org/dwc/terms/coordinatePrecision,,,,Marcelo Oyaneder,29/10/2019
+Precisi贸n de las coordenadas,coordinatePrecision,dwc,http://rs.tdwg.org/dwc/terms/coordinatePrecision,,,,Marcelo Oyaneder,29/10/2019
 Ajuste espacial del radio-punto,pointRadiusSpatialFit,dwc,http://rs.tdwg.org/dwc/terms/pointRadiusSpatialFit,,,,Marcelo Oyaneder,29/10/2019
 WKT footprint,footprintWKT,dwc,http://rs.tdwg.org/dwc/terms/footprintWKT,,,,Marcelo Oyaneder,29/10/2019
 SRS footprint,footprintSRS,dwc,http://rs.tdwg.org/dwc/terms/footprintSRS,,,,Marcelo Oyaneder,29/10/2019
 Ajuste espacial de footprint,footprintSpatialFit,dwc,http://rs.tdwg.org/dwc/terms/footprintSpatialFit,,,,Marcelo Oyaneder,29/10/2019
 Georreferenciado por,georeferencedBy,dwc,http://rs.tdwg.org/dwc/terms/georeferencedBy,,,,Marcelo Oyaneder,29/10/2019
-Fecha de georreferenciaci髇,georeferencedDate,dwc,http://rs.tdwg.org/dwc/terms/georeferencedDate,,,,Marcelo Oyaneder,29/10/2019
-Protocolo de georreferenciaci髇,georeferenceProtocol,dwc,http://rs.tdwg.org/dwc/terms/georeferenceProtocol,,,,Marcelo Oyaneder,29/10/2019
-Fuentes de georreferenciaci髇,georeferenceSources,dwc,http://rs.tdwg.org/dwc/terms/georeferenceSources,,,,Marcelo Oyaneder,29/10/2019
-Estado de la verificaci髇 de la georreferenciaci髇,georeferenceVerificationStatus,dwc,http://rs.tdwg.org/dwc/terms/georeferenceVerificationStatus,,,,Marcelo Oyaneder,29/10/2019
-Comentarios de la georreferenciaci髇,georeferenceRemarks,dwc,http://rs.tdwg.org/dwc/terms/georeferenceRemarks,,,,Marcelo Oyaneder,29/10/2019
-ID del contexto geol骻ico,geologicalContextID,dwc,http://rs.tdwg.org/dwc/terms/geologicalContextID,,,,Marcelo Oyaneder,29/10/2019
-E髇 temprano o eonotema inferior,earliestEonOrLowestEonothem,dwc,http://rs.tdwg.org/dwc/terms/earliestEonOrLowestEonothem,,,,Marcelo Oyaneder,29/10/2019
-E髇 tard韔 o eonotema superior,latestEonOrHighestEonothem,dwc,http://rs.tdwg.org/dwc/terms/latestEonOrHighestEonothem,,,,Marcelo Oyaneder,29/10/2019
+Fecha de georreferenciaci贸n,georeferencedDate,dwc,http://rs.tdwg.org/dwc/terms/georeferencedDate,,,,Marcelo Oyaneder,29/10/2019
+Protocolo de georreferenciaci贸n,georeferenceProtocol,dwc,http://rs.tdwg.org/dwc/terms/georeferenceProtocol,,,,Marcelo Oyaneder,29/10/2019
+Fuentes de georreferenciaci贸n,georeferenceSources,dwc,http://rs.tdwg.org/dwc/terms/georeferenceSources,,,,Marcelo Oyaneder,29/10/2019
+Estado de la verificaci贸n de la georreferenciaci贸n,georeferenceVerificationStatus,dwc,http://rs.tdwg.org/dwc/terms/georeferenceVerificationStatus,,,,Marcelo Oyaneder,29/10/2019
+Comentarios de la georreferenciaci贸n,georeferenceRemarks,dwc,http://rs.tdwg.org/dwc/terms/georeferenceRemarks,,,,Marcelo Oyaneder,29/10/2019
+ID del contexto geol贸gico,geologicalContextID,dwc,http://rs.tdwg.org/dwc/terms/geologicalContextID,,,,Marcelo Oyaneder,29/10/2019
+E贸n temprano o eonotema inferior,earliestEonOrLowestEonothem,dwc,http://rs.tdwg.org/dwc/terms/earliestEonOrLowestEonothem,,,,Marcelo Oyaneder,29/10/2019
+E贸n tard铆o o eonotema superior,latestEonOrHighestEonothem,dwc,http://rs.tdwg.org/dwc/terms/latestEonOrHighestEonothem,,,,Marcelo Oyaneder,29/10/2019
 Era temprana o eratema inferior,earliestEraOrLowestErathem,dwc,http://rs.tdwg.org/dwc/terms/earliestEraOrLowestErathem,,,,Marcelo Oyaneder,29/10/2019
-Era tard韆 o eratema superior,latestEraOrHighestErathem,dwc,http://rs.tdwg.org/dwc/terms/latestEraOrHighestErathem,,,,Marcelo Oyaneder,29/10/2019
+Era tard铆a o eratema superior,latestEraOrHighestErathem,dwc,http://rs.tdwg.org/dwc/terms/latestEraOrHighestErathem,,,,Marcelo Oyaneder,29/10/2019
 Periodo temprano o sistema inferior,earliestPeriodOrLowestSystem,dwc,http://rs.tdwg.org/dwc/terms/earliestPeriodOrLowestSystem,,,,Marcelo Oyaneder,29/10/2019
-Periodo tard韔 o sistema superior,latestPeriodOrHighestSystem,dwc,http://rs.tdwg.org/dwc/terms/latestPeriodOrHighestSystem,,,,Marcelo Oyaneder,29/10/2019
-蓀oca temprana o serie inferior,earliestEpochOrLowestSeries,dwc,http://rs.tdwg.org/dwc/terms/earliestEpochOrLowestSeries,,,,Marcelo Oyaneder,29/10/2019
-蓀oca tard韆 o serie superior,latestEpochOrHighestSeries,dwc,http://rs.tdwg.org/dwc/terms/latestEpochOrHighestSeries,,,,Marcelo Oyaneder,29/10/2019
+Periodo tard铆o o sistema superior,latestPeriodOrHighestSystem,dwc,http://rs.tdwg.org/dwc/terms/latestPeriodOrHighestSystem,,,,Marcelo Oyaneder,29/10/2019
+脡poca temprana o serie inferior,earliestEpochOrLowestSeries,dwc,http://rs.tdwg.org/dwc/terms/earliestEpochOrLowestSeries,,,,Marcelo Oyaneder,29/10/2019
+脡poca tard铆a o serie superior,latestEpochOrHighestSeries,dwc,http://rs.tdwg.org/dwc/terms/latestEpochOrHighestSeries,,,,Marcelo Oyaneder,29/10/2019
 Edad temprana o piso inferior,earliestAgeOrLowestStage,dwc,http://rs.tdwg.org/dwc/terms/earliestAgeOrLowestStage,,,,Marcelo Oyaneder,29/10/2019
-Edad tard韆 o piso superior,latestAgeOrHighestStage,dwc,http://rs.tdwg.org/dwc/terms/latestAgeOrHighestStage,,,,Marcelo Oyaneder,29/10/2019
-Zona bioestratigr醘ica inferior,lowestBiostratigraphicZone,dwc,http://rs.tdwg.org/dwc/terms/lowestBiostratigraphicZone,,,,Marcelo Oyaneder,29/10/2019
-Zona bioestratigr醘ica superior,highestBiostratigraphicZone,dwc,http://rs.tdwg.org/dwc/terms/highestBiostratigraphicZone,,,,Marcelo Oyaneder,29/10/2019
-T閞minos litoestratigr醘icos,lithostratigraphicTerms,dwc,http://rs.tdwg.org/dwc/terms/lithostratigraphicTerms,,,,Marcelo Oyaneder,29/10/2019
+Edad tard铆a o piso superior,latestAgeOrHighestStage,dwc,http://rs.tdwg.org/dwc/terms/latestAgeOrHighestStage,,,,Marcelo Oyaneder,29/10/2019
+Zona bioestratigr谩fica inferior,lowestBiostratigraphicZone,dwc,http://rs.tdwg.org/dwc/terms/lowestBiostratigraphicZone,,,,Marcelo Oyaneder,29/10/2019
+Zona bioestratigr谩fica superior,highestBiostratigraphicZone,dwc,http://rs.tdwg.org/dwc/terms/highestBiostratigraphicZone,,,,Marcelo Oyaneder,29/10/2019
+T茅rminos litoestratigr谩ficos,lithostratigraphicTerms,dwc,http://rs.tdwg.org/dwc/terms/lithostratigraphicTerms,,,,Marcelo Oyaneder,29/10/2019
 Grupo,group,dwc,http://rs.tdwg.org/dwc/terms/group,,,,Marcelo Oyaneder,29/10/2019
-Formaci髇,formation,dwc,http://rs.tdwg.org/dwc/terms/formation,,,,Marcelo Oyaneder,29/10/2019
+Formaci贸n,formation,dwc,http://rs.tdwg.org/dwc/terms/formation,,,,Marcelo Oyaneder,29/10/2019
 Miembro,member,dwc,http://rs.tdwg.org/dwc/terms/member,,,,Marcelo Oyaneder,29/10/2019
 Capa,bed,dwc,http://rs.tdwg.org/dwc/terms/bed,,,,Marcelo Oyaneder,29/10/2019
-ID de la identificaci髇,identificationID,dwc,http://rs.tdwg.org/dwc/terms/identificationID,,,,Marcelo Oyaneder,29/10/2019
+ID de la identificaci贸n,identificationID,dwc,http://rs.tdwg.org/dwc/terms/identificationID,,,,Marcelo Oyaneder,29/10/2019
 Identificado por,identifiedBy,dwc,http://rs.tdwg.org/dwc/terms/identifiedBy,,,,Marcelo Oyaneder,29/10/2019
-Fecha de identificaci髇,dateIdentified,dwc,http://rs.tdwg.org/dwc/terms/dateIdentified,,,,Marcelo Oyaneder,29/10/2019
-Referencias de la identificaci髇,identificationReferences,dwc,http://rs.tdwg.org/dwc/terms/identificationReferences,,,,Marcelo Oyaneder,29/10/2019
-Estado de la verificaci髇 de la identificaci髇,identificationVerificationStatus,dwc,http://rs.tdwg.org/dwc/terms/identificationVerificationStatus,,,,Marcelo Oyaneder,29/10/2019
-Comentarios de la Identificaci髇,identificationRemarks,dwc,http://rs.tdwg.org/dwc/terms/identificationRemarks,,,,Marcelo Oyaneder,29/10/2019
-Calificador de la identificaci髇,identificationQualifier,dwc,http://rs.tdwg.org/dwc/terms/identificationQualifier,,,,Marcelo Oyaneder,29/10/2019
+Fecha de identificaci贸n,dateIdentified,dwc,http://rs.tdwg.org/dwc/terms/dateIdentified,,,,Marcelo Oyaneder,29/10/2019
+Referencias de la identificaci贸n,identificationReferences,dwc,http://rs.tdwg.org/dwc/terms/identificationReferences,,,,Marcelo Oyaneder,29/10/2019
+Estado de la verificaci贸n de la identificaci贸n,identificationVerificationStatus,dwc,http://rs.tdwg.org/dwc/terms/identificationVerificationStatus,,,,Marcelo Oyaneder,29/10/2019
+Comentarios de la Identificaci贸n,identificationRemarks,dwc,http://rs.tdwg.org/dwc/terms/identificationRemarks,,,,Marcelo Oyaneder,29/10/2019
+Calificador de la identificaci贸n,identificationQualifier,dwc,http://rs.tdwg.org/dwc/terms/identificationQualifier,,,,Marcelo Oyaneder,29/10/2019
 Estado del tipo,typeStatus,dwc,http://rs.tdwg.org/dwc/terms/typeStatus,,,,Marcelo Oyaneder,29/10/2019
-ID del tax髇,taxonID,dwc,http://rs.tdwg.org/dwc/terms/taxonID,,,,Marcelo Oyaneder,29/10/2019
-ID del nombre cient韋ico,scientificNameID,dwc,http://rs.tdwg.org/dwc/terms/scientificNameID,,,,Marcelo Oyaneder,29/10/2019
+ID del tax贸n,taxonID,dwc,http://rs.tdwg.org/dwc/terms/taxonID,,,,Marcelo Oyaneder,29/10/2019
+ID del nombre cient铆fico,scientificNameID,dwc,http://rs.tdwg.org/dwc/terms/scientificNameID,,,,Marcelo Oyaneder,29/10/2019
 ID del nombre aceptado usado,acceptedNameUsageID,dwc,http://rs.tdwg.org/dwc/terms/acceptedNameUsageID,,,,Marcelo Oyaneder,29/10/2019
 ID del nombre parental usado,parentNameUsageID,dwc,http://rs.tdwg.org/dwc/terms/parentNameUsageID,,,,Marcelo Oyaneder,29/10/2019
 ID del nombre original usado,originalNameUsageID,dwc,http://rs.tdwg.org/dwc/terms/originalNameUsageID,,,,Marcelo Oyaneder,29/10/2019
 ID del nombre de acuerdo con,nameAccordingToID,dwc,http://rs.tdwg.org/dwc/terms/nameAccordingToID,,,,Marcelo Oyaneder,29/10/2019
 ID del nombre publicado en,namePublishedInID,dwc,http://rs.tdwg.org/dwc/terms/namePublishedInID,,,,Marcelo Oyaneder,29/10/2019
-ID del concepto del tax髇,taxonConceptID,dwc,http://rs.tdwg.org/dwc/terms/taxonConceptID,,,,Marcelo Oyaneder,29/10/2019
-Nombre cient韋ico,scientificName,dwc,http://rs.tdwg.org/dwc/terms/scientificName,,,,Marcelo Oyaneder,29/10/2019
+ID del concepto del tax贸n,taxonConceptID,dwc,http://rs.tdwg.org/dwc/terms/taxonConceptID,,,,Marcelo Oyaneder,29/10/2019
+Nombre cient铆fico,scientificName,dwc,http://rs.tdwg.org/dwc/terms/scientificName,,,,Marcelo Oyaneder,29/10/2019
 Nombre aceptado usado,acceptedNameUsage,dwc,http://rs.tdwg.org/dwc/terms/acceptedNameUsage,,,,Marcelo Oyaneder,29/10/2019
 Nombre parental usado,parentNameUsage,dwc,http://rs.tdwg.org/dwc/terms/parentNameUsage,,,,Marcelo Oyaneder,29/10/2019
 Nombre original usado,originalNameUsage,dwc,http://rs.tdwg.org/dwc/terms/originalNameUsage,,,,Marcelo Oyaneder,29/10/2019
 Nombre de acuerdo con,nameAccordingTo,dwc,http://rs.tdwg.org/dwc/terms/nameAccordingTo,,,,Marcelo Oyaneder,29/10/2019
 Nombre publicado en,namePublishedIn,dwc,http://rs.tdwg.org/dwc/terms/namePublishedIn,,,,Marcelo Oyaneder,29/10/2019
-Nombre publicado en el a駉,namePublishedInYear,dwc,http://rs.tdwg.org/dwc/terms/namePublishedInYear,,,,Marcelo Oyaneder,29/10/2019
-Clasificaci髇 superior,higherClassification,dwc,http://rs.tdwg.org/dwc/terms/higherClassification,,,,Marcelo Oyaneder,29/10/2019
+Nombre publicado en el a帽o,namePublishedInYear,dwc,http://rs.tdwg.org/dwc/terms/namePublishedInYear,,,,Marcelo Oyaneder,29/10/2019
+Clasificaci贸n superior,higherClassification,dwc,http://rs.tdwg.org/dwc/terms/higherClassification,,,,Marcelo Oyaneder,29/10/2019
 Reino,kingdom,dwc,http://rs.tdwg.org/dwc/terms/kingdom,,,,Marcelo Oyaneder,29/10/2019
 Filo,phylum,dwc,http://rs.tdwg.org/dwc/terms/phylum,,,,Marcelo Oyaneder,29/10/2019
 Clase,class,dwc,http://rs.tdwg.org/dwc/terms/class,,,,Marcelo Oyaneder,29/10/2019
 Orden,order,dwc,http://rs.tdwg.org/dwc/terms/order,,,,Marcelo Oyaneder,29/10/2019
 Familia,family,dwc,http://rs.tdwg.org/dwc/terms/family,,,,Marcelo Oyaneder,29/10/2019
-G閚ero,genus,dwc,http://rs.tdwg.org/dwc/terms/genus,,,,Marcelo Oyaneder,29/10/2019
-Subg閚ero,subgenus,dwc,http://rs.tdwg.org/dwc/terms/subgenus,,,,Marcelo Oyaneder,29/10/2019
-Ep韙eto espec韋ico,specificEpithet,dwc,http://rs.tdwg.org/dwc/terms/specificEpithet,,,,Marcelo Oyaneder,29/10/2019
-Ep韙eto infraespec韋ico,infraspecificEpithet,dwc,http://rs.tdwg.org/dwc/terms/infraspecificEpithet,,,,Marcelo Oyaneder,29/10/2019
-Categor韆 del tax髇,taxonRank,dwc,http://rs.tdwg.org/dwc/terms/taxonRank,,,,Marcelo Oyaneder,29/10/2019
-Categor韆 original del tax髇,verbatimTaxonRank,dwc,http://rs.tdwg.org/dwc/terms/verbatimTaxonRank,,,,Marcelo Oyaneder,29/10/2019
-Autor韆 del nombre cient韋ico,scientificNameAuthorship,dwc,http://rs.tdwg.org/dwc/terms/scientificNameAuthorship,,,,Marcelo Oyaneder,29/10/2019
-Nombre com鷑,vernacularName,dwc,http://rs.tdwg.org/dwc/terms/vernacularName,,,,Marcelo Oyaneder,29/10/2019
-C骴igo nomenclatural,nomenclaturalCode,dwc,http://rs.tdwg.org/dwc/terms/nomenclaturalCode,,,,Marcelo Oyaneder,29/10/2019
-Estado taxon髆ico,taxonomicStatus,dwc,http://rs.tdwg.org/dwc/terms/taxonomicStatus,,,,Marcelo Oyaneder,29/10/2019
+G茅nero,genus,dwc,http://rs.tdwg.org/dwc/terms/genus,,,,Marcelo Oyaneder,29/10/2019
+Subg茅nero,subgenus,dwc,http://rs.tdwg.org/dwc/terms/subgenus,,,,Marcelo Oyaneder,29/10/2019
+Ep铆teto espec铆fico,specificEpithet,dwc,http://rs.tdwg.org/dwc/terms/specificEpithet,,,,Marcelo Oyaneder,29/10/2019
+Ep铆teto infraespec铆fico,infraspecificEpithet,dwc,http://rs.tdwg.org/dwc/terms/infraspecificEpithet,,,,Marcelo Oyaneder,29/10/2019
+Categor铆a del tax贸n,taxonRank,dwc,http://rs.tdwg.org/dwc/terms/taxonRank,,,,Marcelo Oyaneder,29/10/2019
+Categor铆a original del tax贸n,verbatimTaxonRank,dwc,http://rs.tdwg.org/dwc/terms/verbatimTaxonRank,,,,Marcelo Oyaneder,29/10/2019
+Autor铆a del nombre cient铆fico,scientificNameAuthorship,dwc,http://rs.tdwg.org/dwc/terms/scientificNameAuthorship,,,,Marcelo Oyaneder,29/10/2019
+Nombre com煤n,vernacularName,dwc,http://rs.tdwg.org/dwc/terms/vernacularName,,,,Marcelo Oyaneder,29/10/2019
+C贸digo nomenclatural,nomenclaturalCode,dwc,http://rs.tdwg.org/dwc/terms/nomenclaturalCode,,,,Marcelo Oyaneder,29/10/2019
+Estado taxon贸mico,taxonomicStatus,dwc,http://rs.tdwg.org/dwc/terms/taxonomicStatus,,,,Marcelo Oyaneder,29/10/2019
 Estado nomenclatural,nomenclaturalStatus,dwc,http://rs.tdwg.org/dwc/terms/nomenclaturalStatus,,,,Marcelo Oyaneder,29/10/2019
-Comentarios del tax髇,taxonRemarks,dwc,http://rs.tdwg.org/dwc/terms/taxonRemarks,,,,Marcelo Oyaneder,29/10/2019
+Comentarios del tax贸n,taxonRemarks,dwc,http://rs.tdwg.org/dwc/terms/taxonRemarks,,,,Marcelo Oyaneder,29/10/2019
