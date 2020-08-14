@@ -1,92 +1,352 @@
 georeferenceverificationstatus	standard	vetted
 '	requires verification	1
-	LINDSEY MERCER	verified by curator	1
+- HIGH CONFERENCED	verified by data custodian	1
+	LINDSEY MERCER	verified by data custodian	1
+" NEIL LANDMAN VERIFIED THAT THESE SPECIMENS ARE INCLUDED IN WIS COLLECTION.GEOREFERENCED BASED ON FORMATION INFORMATION FROM GEOLOGICAL SURVEY PROFESSIONAL PAPER 1232, IMLAY, 1982. JURASSIC AMMONITES FROM THE WESTERN INTERIOR REGION OF THE UNITED STATES.	verified by contributor	1
+"3/15/17 VERIFIED BY LANDMAN THAT THE TRS IS INCORRECT AND THIS LOC IS NEAR CHRIST EPISCOPAL CHURCH, RED SHIRT TABLE AND IT IS GEOREFERENCED WITH THE INFORMATION HE PROVIDED, TRS CORRECTED TO T42N"	verified by contributor	1
+"BUSHRA FOUND PAPER IN WHICH LOCALITY IS DESCRIBED. GSPP 274-C; BASAL EAGLE FORD FAUNA (CENOMANIAN) IN JOHNSON AND TARRANT COUNTY,STEPHENSON."	requires verification	1
+"GEOREFERENCED BASED ON COBBAN, 1969. GEOLOGICAL SURVEY PAPER 619. THE LATE CRETACEOUS AMMONITES SCAPHITES LEEI REESIDE AND SCAPHITES HIPPOCREPIS (DEKAY) IN THE WESTERN INTERIOR OF THE UNITED STATES. "	requires verification	1
+"HOUNDROCK IS NOT COMING UP IN WILLIAMSON CO, TX COULD THE LOCALITY BE ROUND ROCK, TEXAS? 12/5/17"	requires verification	1
+"LOCALITY INFORMATION COMES FROM LANDMAN AND WAAGE, 1993. SCAPHITID AMMONITES OF THE UPPER CRETACEOUS (MAASTRICHTIAN) FOX HILLS FORMATION IN SOUTH DAKOTA AND WYOMING. VERIFIED BY NEIL LANDMAN ON 1/30/18. "	verified by contributor	1
+"LOCALITY WAS IN NEW MEXICO, ERROR IN TRANSCRIBING. "	requires verification	1
+"RESOLVED USING PUBLICATION. I.PAL.1942, V.16, P205. "	verified by data custodian	1
+"TRS INFORMATION ENTERED FROM LANDMAN 1987, AMNH BULLETIN 185. LOCALITY 3163 IS EQUIVALENT TO YALE PEABODY LOCALITY B175, B176. 1/26/18. VERIFIED WITH NEIL LANDMAN. "	verified by contributor	1
+"TRS INFORMATION IS FROM COBBAN, 1969. GEOLOGICAL SURVEY PAPER 619. THE LATE CRETACEOUS AMMONITES SCAPHITES LEEI REESIDE AND SCAPHITES HIPPOCREPIS (DEKAY) IN THE WESTERN INTERIOR OF THE UNITED STATES. "	requires verification	1
+"TRS INFORMATION IS FROM COBBAN, 1977. GEOLOGICAL SURVEY PROFESSIONAL PAPER 1009. CHARACTERISTIC MARINE MOLLUSCAN FOSSILS FROM THE DAKOTA SANDSTONE AND INTERTONGUED MANCOS SHALE, WEST CENTRAL NM. "	requires verification	1
 [ORNIS]GEOREFERENCEVERIFICATIONS	requires verification	1
+\\	requires verification	1
 `	requires verification	1
++-5000 M ACCURACY	requires verification	1
+02/05/2020	requires verification	1
+12/04/17 NEIL LANDMAN SUGGESTED TO GEOREFERENCE AS WHOLE COUNTY.	verified by contributor	1
+1509	requires verification	1
+2	requires verification	1
+2/5/2020	requires verification	1
+2018-04-03	requires verification	1
+3	requires verification	1
+4	requires verification	1
+5	requires verification	1
 7	requires verification	1
-C HECKED, KC	verified by curator	1
-CHECK KC	verified by curator	1
-CHECKED	verified by curator	1
-CHECKED  BY KC	verified by curator	1
-CHECKED BY COLLECTOR	verified by collector	1
-CHECKED BY CURATOR	verified by curator	1
-CHECKED BY KC	verified by curator	1
-CHECKED DEK	verified by curator	1
-CHECKED DEK, KC	verified by curator	1
-CHECKED JLW	verified by curator	1
-CHECKED KC	verified by curator	1
-CHECKED RC	verified by curator	1
-CHECKED RS	verified by curator	1
-CHECKED RS & KC	verified by curator	1
-CHECKED RS, KC	verified by curator	1
-CHECKED, JLW	verified by curator	1
-CHECKED, KC	verified by curator	1
-CHECKED, RS	verified by curator	1
-CHECVERIFIED BY LOCALITY MATCHUP	verified by curator	1
-COGE_CORRECTED_2015-02-04	verified by curator	1
+800 FT.	requires verification	1
+9000 FEET	requires verification	1
+975	requires verification	1
+ACCEPTED	verified by data custodian	1
+ADDED DECIMAL LAT/LONG	requires verification	1
+ADDED DECIMAL LAT/LONG FROM BINDER	requires verification	1
+ADDED DECIMAL LAT/LONG FROM BINDER.	requires verification	1
+ADDED DETAILED LOCALITY INFO FROM BINDER.	requires verification	1
+AKPAN GLORIA	requires verification	1
+AZEEZ KAZEEM	requires verification	1
+BENEDICT MONDAY	requires verification	1
+BUSHRA AND NEIL LANDMAN RESOLVED. 10/3/2017	verified by contributor	1
+C HECKED, KC	verified by data custodian	1
+CERIFIED BY CURATOR	verified by data custodian	1
+CERTAINTY CODE: 5"""	requires verification	1
+CHANGED VERBATIM LAT/LONG FROM 41 49 01N 104 08 30.8W TO 43 49 01N 104 08 30.8W BASED ON LOCALITY BINDER	requires verification	1
+CHAPMAN, A.D. AND J. WIECZOREK (EDS). 2006. GUIDE TO BEST PRACTICES FOR GEOREFERENCING. COPENHAGEN: GLOBAL BIODIVERSITY INFORMATION FACILITY.	requires verification	1
+CHECK KC	verified by data custodian	1
+CHECKED	verified by data custodian	1
+CHECKED  BY KC	verified by data custodian	1
+CHECKED BUT UNCERTAIN	requires verification	1
+CHECKED BY COLLECTOR	verified by contributor	1
+CHECKED BY CURATOR	verified by data custodian	1
+CHECKED BY KC	verified by data custodian	1
+CHECKED DEK	verified by data custodian	1
+CHECKED DEK, KC	verified by data custodian	1
+CHECKED IN GOOGLE EARTH	requires verification	1
+CHECKED JLW	verified by data custodian	1
+CHECKED KC	verified by data custodian	1
+CHECKED RC	verified by data custodian	1
+CHECKED RS	verified by data custodian	1
+CHECKED RS & KC	verified by data custodian	1
+CHECKED RS, KC	verified by data custodian	1
+CHECKED, JLW	verified by data custodian	1
+CHECKED, KC	verified by data custodian	1
+CHECKED, RS	verified by data custodian	1
+CHECVERIFIED BY LOCALITY MATCHUP	verified by data custodian	1
+CHEKED BY COLLECTOR	verified by contributor	1
+CHUKWUMA E.C.	requires verification	1
+COGE_CORRECTED_2015-02-04	verified by data custodian	1
 COGE_SKIPPED_2015-02-04	requires verification	1
-COLLECTOR VERIFIED	verified by collector	1
+COLLECTOR VERIFIED	verified by contributor	1
 COLLECTOR'S INPUT REQUIRED	requires verification	1
-CURATOR VERIFIED	verified by curator	1
+CONFIRMADA	verified by data custodian	1
+CONFIRMED WITH AUTHORITY	verified by data custodian	1
+CONVERTED UTM COORDINATES AND VERIFIED LOCALITY.	verified by data custodian	1
+COOR	requires verification	1
+COORDENADA AFERIDA	requires verification	1
+COORDENADA NÃO AFERIDA	requires verification	1
+CORRECT	verified by data custodian	1
+CORRECTED	verified by data custodian	1
+CORRECTED BY COLLECTOR	verified by contributor	1
+CURATOR VERIFIED	verified by data custodian	1
+DATA CUSTODIAN	verified by data custodian	1
+DATA FROM GEOREFERENCED LOCALITY DB	requires verification	1
+DAZI JOSHAUA	requires verification	1
+DETAILED LOCALITY VERIFIED BY NEIL LANDMAN 11/14/17	verified by contributor	1
+E	requires verification	1
 E=REQUIRES VERIFICATION	requires verification	1
+ED	requires verification	1
+EMEKA OGE	requires verification	1
+ERRO DE AFERIÇÃO DE COORDENADA	requires verification	1
+ETRS89	requires verification	1
+FOLUSHO ALEGE	requires verification	1
+FOUND LOCALITY NUMBER WITH SPECIMEN IN DRAWER.	requires verification	1
 FROM BIOGEOMANCER	requires verification	1
-GVS		1
+GENERAL AREA VERIFIED	requires verification	1
+GENERATED FROM COLLECTOR	verified by contributor	1
+GEOLOCATE	requires verification	1
+GEOLOCATE, USGS TOPO MAP, 1930, CALIFORNIA, SAN DIEGO COUNTY, LA JOLLA QUADRANGLE	requires verification	1
+GEOLOCATE,GOOGLE EARTH	requires verification	1
+GEOLOCATE: GOOGLE	requires verification	1
+GEOLOCATE; GOOGLE STREET	requires verification	1
+GEOLOCATE; GOOGLE STREETS	requires verification	1
+GEOLOCATE; GOOGLE STREETS;GAZETEERS	requires verification	1
+GEOLOCATE;GOOGLE EARTH	requires verification	1
+GEOLOCATE;GOOGLE STREET;GOOGLE;GOOGLE EARTH	requires verification	1
+GEOLOCATE;GOOGLE STREETS	requires verification	1
+GEOREF BATCH TOOL 2014-05-02; GEOLOCATE	requires verification	1
+GEOREF DATA IS FROM THE GEOREFERENCED LOCALITY DATABASE.	requires verification	1
+GEOREF DATA IS FROM THE GEOREFERENCED LOCALITY DATABASE. THE NUMBER OF SPECIMENS ARE NOT IN THE DATABASE 12/5/17	requires verification	1
+GEOREFERENCE DATA FROM GEOREFERENCED LOCALITY DATABASE.	requires verification	1
+GEOREFERENCE DATA FROM GEOREFERENCED LOCALITY DATABASE. GEOREFERENCED SAME WAY AS NEWELL LOCALITY ACCORDING TO NEIL LANDMAN. 2/6/18.	verified by contributor	1
+GEOREFERENCE DATA FROM GEOREFERENCED LOCALITY DATABASE. GEOREFERENCED TO COUNTY LEVEL AS PER JOYCE GRIERS REQUEST.	verified by data custodian	1
+GEOREFERENCE DATA FROM GEOREFERENCED LOCALITY DATABASE. GEOREFERENCED TO COUNTY LEVEL.	requires verification	1
+GEOREFERENCE DATA FROM GEOREFERENCED LOCALITY DATABASE. SAME LOCATION AS 3190.	requires verification	1
+GEOREFERENCE DATA IS FROM THE GEOREFERENCED LOCALITY DATABASE.	requires verification	1
+GEOREFERENCED BASED ON GPS COORDINATES.	requires verification	1
+GEOREFERENCED BASED ON VERBATIM LAT/LONG VERIFIED BY NEIL LANDMAN ON 11/21/17.	verified by contributor	1
+GEOREFERENCED ORIGINAL LOCALITY INFO AND CHANGED THE TRS COPIED 11/13/17        JP 57 IS JG 57	requires verification	1
+GEOREFERENCED TO APPROXIMATE CEN	requires verification	1
+GEOREFERENCED TO ZANDERS WOODS W	requires verification	1
+GEOREFERENCING CALCULATOR	requires verification	1
+GEOREFERENCING COMPLETE	requires verification	1
+GEOREFERNCING VERIFIED BY NEIL LANDMAN ON 2/6/18.	verified by contributor	1
+GNIS LATLONG DOWNLOAD OCT 07 FOR PLACENAME, SOME ADJUSTED IN BIOGEOMANCER, IF OFFSET, CALCULATED AIR MI FROM PLACENAME LATLONG	requires verification	1
+GOOGLE EARTH	requires verification	1
+GOOGLE EARTH,GEOREFERENCING CALCULATOR;GAZETEERS	requires verification	1
+GOOGLE EARTH; GAZETEERS,	requires verification	1
+GOOGLE EARTH; GEOLOCATE	requires verification	1
+GOOGLE MAPS	requires verification	1
+GOOGLE;GOOGLE EARTH; GAZETEERS	requires verification	1
+GPS	requires verification	1
+GVS	requires verification	1
+HIGH CONFIDENCE	verified by data custodian	1
+HIGH CONFIDENCE.	verified by data custodian	1
+I PLOTTED THE POINT ON COUNTY RO	requires verification	1
+I PLOTTED THE POINT ON THE GIVEN	requires verification	1
+INCORRECT	requires verification	1
+INNOCENT ATTAH	requires verification	1
+INNOCENT IYASE	requires verification	1
+ISSAC OSAYOMWANBOR	requires verification	1
+JP 11 IS JG 11.	requires verification	1
+JP 57 IS JG 57	requires verification	1
+JP 58 IS JG 58	requires verification	1
+JP 68 IS JG 68	requires verification	1
+JP 9 IS JG 9	requires verification	1
+JUSTIN WILLIAMS	requires verification	1
+KELECHI NWIGWE	requires verification	1
+KEVIN OKONKWO	requires verification	1
+L	requires verification	1
+LABEL	requires verification	1
+LAT/LONG = 33.75 KM ALONG ROUTE	requires verification	1
+LAT/LONG = 5 KM N OF PUNTA PRIET	requires verification	1
+LAT/LONG = CENTER OF CERRO GORDO	requires verification	1
+LAT/LONG = CENTER OF CERRO JICOT	requires verification	1
+LAT/LONG = CENTER OF CERRO ZAMOR	requires verification	1
+LAT/LONG = CENTER OF SAN CRISTOB	requires verification	1
+LAT/LONG = CENTER OF VOLCAN DE S	requires verification	1
+LIZ	requires verification	1
+LOCALITY INFORMATION USED FROM GEOREFERENCED LOCALITY DB	requires verification	1
+LOCALITY NEEDS REVIEW	requires verification	1
+LUCANUS FIELD NOTES	requires verification	1
+MANUAL VERIFICATION	verified by data custodian	1
+MAP CERTAINTY	requires verification	1
+MAY BE WRONG	requires verification	1
+MIGRATION	requires verification	1
+MIKE OIWOH	requires verification	1
+N	requires verification	1
+NARROW UNCERTAINTY TO THE NO	requires verification	1
+NATIONAL GEOGRAPHIC TOPO!	requires verification	1
+NCE	requires verification	1
+NECESITA VERIFICACION	requires verification	1
+NEED GEOREFERENCING	requires georeference	1
 NEED VERIFICATION	requires verification	1
-NEEDS GEOREFERENCING		1
-NEEDS GEOREFRENCING		1
+NEEDS CHECKING	requires verification	1
+NEEDS EXPERT	requires verification	1
+NEEDS GEOREFERECING	requires verification	1
+NEEDS GEOREFERENCING	requires georeference	1
+NEEDS GEOREFRENCING	requires verification	1
+NEEDS REVEIW	requires verification	1
+NEEDS REVIEW	requires verification	1
+NEEDS REVIEW - FIND SPECIMEN	requires verification	1
+NEEDS REVIEW BY PERSON FAMILIAR	requires verification	1
 NEEDS VALIDATION	requires verification	1
 NEEDS VERIFICATION	requires verification	1
 NO	requires verification	1
-NOT GEOREFERENCED		1
+NO CONFIRMADA	requires verification	1
+NOT CHECKED	requires verification	1
+NOT CHECKED - NOT GEOREFERENCED	requires verification	1
+NOT GEOREFERENCED	requires georeference	1
 NOT RECORDED	requires verification	1
+NOT REVIEWED	requires verification	1
 NOT VERIDIED	requires verification	1
 NOT VERIFIED	requires verification	1
+OK	verified by data custodian	1
+OKECHUKWU EGONU	requires verification	1
+OKON E.I	requires verification	1
 ORNIS GEOREF DATA EXISTS BUT HAS	requires verification	1
-RCHECKED RS	verified by curator	1
-REBECCA GRIDLEY	verified by curator	1
-REQUCHECKED DEK	verified by curator	1
+ORNIS GEOREF DATA EXISTS BUT HAS NOT BEEN UPDATED	requires georeference	1
+POINT FALLS WITHIN PROVINCE OR COUNTRY NAME ON LABEL	requires verification	1
+POOL CREEK MEMBER OF THE CARLILE SHALE. SAME LOCALITY AS EDGEMONT ACCORDING TO NEIL LANDMAN. 12/5/17.	verified by contributor	1
+POR VERIFICAR	requires verification	1
+QUESTIONED BY TEICHLER	requires verification	1
+RCHECKED RS	verified by data custodian	1
+RE	requires verification	1
+REASONABLE	verified by data custodian	1
+REBECCA GRIDLEY	verified by data custodian	1
+REJECTED BY MCZ COLLECTION	requires verification	1
+REQUCHECKED DEK	verified by data custodian	1
+REQUIERE VERIFIACIÓN	requires verification	1
+REQUIERE VERIFICACIÓN	requires verification	1
+REQUIRE VERIFICATION	requires verification	1
+REQUIRED VERIFICATION	requires verification	1
 REQUIRES INPUT	requires verification	1
+REQUIRES VARIFICATION	requires verification	1
+REQUIRES VEREIFICATION	requires verification	1
+REQUIRES VERFICATION	requires verification	1
+REQUIRES VERIFACATION	requires verification	1
+REQUIRES VERIFIATION	requires verification	1
+REQUIRES VERIFICATIO	requires verification	1
 REQUIRES VERIFICATION	requires verification	1
+REQUIRES VERIFICATON	requires verification	1
 REQUIRES VERRIFICATION	requires verification	1
 REQURES VERIFICATION	requires verification	1
-TYNER, MEGAN	verified by curator	1
+RESOLVED USING THE USGS DATABASE.	requires verification	1
+REVIEWE=D - HIGH CONFIDENCE	verified by data custodian	1
+REVIEWED	verified by data custodian	1
+REVIEWED - EGBOT (2012-08-16)	verified by data custodian	1
+REVIEWED - HIGH CONFIDENCE	verified by data custodian	1
+REVIEWED - HIGH CONFIDENCE.	verified by data custodian	1
+REVIEWED – HIGH CONFIDENCE.	verified by data custodian	1
+REVIEWED - LOW CONFIDENCE	requires verification	1
+REVIEWED - MED CONFIDENCE	verified by data custodian	1
+REVIEWED - MEDIUM	verified by data custodian	1
+REVIEWED - MEDIUM CONFIDENCE	verified by data custodian	1
+REVIEWED - MODERATE CONFIDENCE	verified by data custodian	1
+REVIEWED - UNCERTAIN CONFIDENCE	requires verification	1
+REVIEWED & DELETED BAD GEOREFERE	requires georeference	1
+REVIEWED 2018	verified by data custodian	1
+REVIEWED BY COLLECTOR	verified by contributor	1
+REVIEWED BY CURATOR	verified by data custodian	1
+REVIEWED CE	verified by data custodian	1
+REVIEWED- HIGH CONFIDENCE	verified by data custodian	1
+REVIEWED -HIGH CONFIDENCE	verified by data custodian	1
+REVIEWED- LOW CONFIDENCE	verified by data custodian	1
+REVIEWED -LOW CONFIDENCE	verified by data custodian	1
+REVIEWED -MEDIUM CONFIDENCE	verified by data custodian	1
+REVIEWEDE	verified by data custodian	1
+REVIEWED-HIGH CONFIDENCE	verified by data custodian	1
+REVIEWEE	verified by data custodian	1
+REVIEWS	requires verification	1
+SHANNON BROPHY BULK MATERIAL	requires verification	1
+SIN VERIFICACIÓN	requires verification	1
+SULEIMAN ZUBAIRU	requires verification	1
+T02N R14W S21 SE1/4 OF SW1/4; N§ 118M 21S 26; W§ NAD 1983M YESS 0.125	requires verification	1
+TERRAIN NAVIGATOR 3.02 USGS 1:100000	requires verification	1
+TIJUANA ESTUARY NWR SEEMS TO GO	requires verification	1
+TRS DATA USED TO GEOREF.	requires verification	1
+TRS INFORMATION ENTERED FROM LANDMAN AND WAAGE: SCAPHITID AMMONITES 1992. AMNH BULLETIN 215. 01/26/18	requires verification	1
+TRS INFORMATION FROM OTTO HAAS DATASET	requires verification	1
+TRS INFORMATION FROM THE GEOREFERENCED LOCALITY DATABASE.	requires verification	1
+TYNER, MEGAN	verified by data custodian	1
+UGBOGU O.A.	requires verification	1
+UNABLE TO GEOREFERENCE	unable to georeference	1
 UNAVAILABLE	requires verification	1
+UNCHECKED	requires verification	1
+UNKNOWN	requires verification	1
+UNREVIEWED	requires verification	1
 UNVERFIED	requires verification	1
 UNVERIFED	requires verification	1
 UNVERIFIED	requires verification	1
 UNVERRIFED	requires verification	1
 UNVERRIFIED	requires verification	1
 UNVERRRIFIED	requires verification	1
-VCHECKED, KC	verified by curator	1
-VEREFIED	verified by curator	1
-VERFIED	verified by curator	1
-VERFIED BY KC	verified by curator	1
-VERIFED	verified by curator	1
-VERIFED BY LOCALITY MATCHUP	verified by curator	1
+USED CODY 1962 MAP TO CONFIRM HUSKY OIL REFINERY LOCATION.	requires verification	1
+USED THE TRS DATA TO GEOREF.	requires verification	1
+USED TRS DATA TO GEOREF.	requires verification	1
+USMN 23021 IS A LOCALITY NUMBER FROM A PAPER TITLED MAWRY SHALE AND CONTEMPORARY FORMATIONS IN THE UNITED STATES AND CANADA BY REESIDE AND COBBAN GSPP 355.	requires verification	1
+VALIDATION REQUIRED	requires verification	1
+VCHECKED, KC	verified by data custodian	1
+VERBATIMCOORDINATE SOURCE	requires verification	1
+VEREFIED	verified by data custodian	1
+VERFICATAION REQUIRED	requires verification	1
+VERFIED	verified by data custodian	1
+VERFIED BY CURATOR	verified by data custodian	1
+VERFIED BY KC	verified by data custodian	1
+VERIDIED	verified by data custodian	1
+VERIFED	verified by data custodian	1
+VERIFED BY LOCALITY MATCHUP	verified by data custodian	1
+VERIFICADA	verified by data custodian	1
+VERIFICADO POR COLECTOR	verified by contributor	1
+VERIFICADO POR CURADOR	verified by data custodian	1
+VERIFICADO POR EL COLECTOR	verified by contributor	1
+VERIFICADO POR EL COLECTOR. SE INCLUYE EL VERBATIMSRS POR LO QUE SE REDUCE LA INCERTIDUMBRE	verified by contributor	1
+VERIFICADO POR EL CURADOR	verified by data custodian	1
+VERIFICADO POR EL CURATOR	verified by data custodian	1
+VERIFICADO POR EL CUSTODIO DE DATOS	verified by data custodian	1
+VERIFICADO POR EL CUSTODIO DE LO	verified by data custodian	1
+VERIFICADO POR EL CUSTODIO DE LOS DATOS	verified by data custodian	1
+VERIFICADO POR EL PROVEEDOR DE DATOS	verified by data custodian	1
+VERIFICADO POR EL PROVEEDOR DE LOS DATOS	verified by data custodian	1
+VERIFICADO POR ESPECIALISTA	verified by data custodian	1
+VERIFICADO POR PROVEEDOR DE DATOS	verified by data custodian	1
+VERIFICADO POR RECOLECTOR	verified by contributor	1
 VERIFICATION REQUIRED	requires verification	1
-VERIFIED	verified by curator	1
-VERIFIED 20030729	verified by curator	1
-VERIFIED BY ALLEN CHARTIER	verified by curator	1
-VERIFIED BY COLLECTION MANAGER	verified by curator	1
-VERIFIED BY COLLECTOR	verified by collector	1
-VERIFIED BY COLLECTOR APR 2007	verified by collector	1
+VERIFIED	verified by data custodian	1
+VERIFIED 20030729	verified by data custodian	1
+VERIFIED AND LOCKED	verified by data custodian	1
+VERIFIED BY ALLEN CHARTIER	verified by data custodian	1
+VERIFIED BY COLLECTION MANAGER	verified by data custodian	1
+VERIFIED BY COLLECTOR	verified by contributor	1
+VERIFIED BY COLLECTOR APR 2007	verified by contributor	1
+VERIFIED BY COLLECTOR, VERIFIED	verified by contributor	1
 VERIFIED BY CONTRIBUTOR	requires verification	1
-VERIFIED BY CURATOR	verified by curator	1
+VERIFIED BY CONTRIBUTOR (COLLECTOR)	verified by contributor	1
+VERIFIED BY CURATOR	verified by data custodian	1
+VERIFIED BY CURATOR.	verified by data custodian	1
 VERIFIED BY DATA CONTRIBUTOR	requires verification	1
-VERIFIED BY DATA CUSTODIAN	verified by curator	1
-VERIFIED BY INSTITUTION	verified by curator	1
-VERIFIED BY KC	verified by curator	1
-VERIFIED BY LOCALITY LOOKUP	verified by curator	1
-VERIFIED BY LOCALITY MATCHP	verified by curator	1
-VERIFIED BY LOCALITY MATCHUP	verified by curator	1
-VERIFIED BY MATCH	verified by curator	1
-VERIFIED BY RENE	verified by curator	1
-VERIFIED BY STAFF	verified by curator	1
+VERIFIED BY DATA CUSTODIAN	verified by data custodian	1
+VERIFIED BY DATA CUSTODIN	verified by data custodian	1
+VERIFIED BY DEK	verified by data custodian	1
+VERIFIED BY DEK, KC	verified by data custodian	1
+VERIFIED BY INSTITUTION	verified by data custodian	1
+VERIFIED BY JLW	verified by data custodian	1
+VERIFIED BY KC	verified by data custodian	1
+VERIFIED BY KC, RS	verified by data custodian	1
+VERIFIED BY LOCALITY LOOKUP	verified by data custodian	1
+VERIFIED BY LOCALITY MATCHP	verified by data custodian	1
+VERIFIED BY LOCALITY MATCHUP	verified by data custodian	1
+VERIFIED BY MATCH	verified by data custodian	1
+VERIFIED BY MCZ COLLECTION	verified by data custodian	1
+VERIFIED BY PIEP	verified by data custodian	1
+VERIFIED BY PIEP, 2012	verified by data custodian	1
+VERIFIED BY RC	verified by data custodian	1
+VERIFIED BY RENE	verified by data custodian	1
+VERIFIED BY RESEARCHER	verified by data custodian	1
+VERIFIED BY RS	verified by data custodian	1
+VERIFIED BY STAFF	verified by data custodian	1
 VERIFIED BY VOLUNTEER	requires verification	1
-VERIFIED JLW	verified by curator	1
-VERIFIED RS	verified by curator	1
-VERIFIED, 20081023	verified by curator	1
-VERIFIED, KC	verified by curator	1
-VERIFIIED	verified by curator	1
+VERIFIED JLW	verified by data custodian	1
+VERIFIED RS	verified by data custodian	1
+VERIFIED W/ HIGH CONFIDENCE	verified by data custodian	1
+VERIFIED W/ MEDIUM CONFIDENCE	verified by data custodian	1
+VERIFIED W/ REASONABLE CERTAINTY	verified by data custodian	1
+VERIFIED, 20081023	verified by data custodian	1
+VERIFIED, KC	verified by data custodian	1
+VERIFIEDNEEDS GEOREFERENCING BY DATA CUSTODIAN	requires verification	1
+VERIFIIED	verified by data custodian	1
 WGS84	requires verification	1
-Y	verified by curator	1
+WILLIAM RAIK	requires verification	1
+Y	verified by data custodian	1
+YES	verified by data custodian	1
