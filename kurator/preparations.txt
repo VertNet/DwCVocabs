@@ -543,6 +543,7 @@ EN LÍQUIDO, CRÁNEO Y ESQUELETO	fluid | skeleton | skull	1
 EN LÍQUIDO, KLH LYSIS BUFFER	fluid | KLH Lysis buffer	1
 EN LÍQUIDO, QUIM 10	fluid | quim 10	1
 ENEST	nest	1
+ES | TISSUE	egg | tissue	1
 ESQUELETO	skeleton	1
 ESQUELETO Y CRÁNEO	skeleton | skull	1
 ESQUELETO, PENDIENTE DE LIMPIAR	skeleton	1
@@ -3277,6 +3278,7 @@ SO*	skin in alcohol	1
 SO, & PART	skin in alcohol | partial skeleton	1
 SO, & PART. SKELETON	skin in alcohol | partial skeleton	1
 SO, EG, OT	skin in alcohol | egg | other	1
+SO, ES	skin in alcohol | egg	1
 SO, TISSUE	skin in alcohol | tissue	1
 SO+T	skin in alcohol | tissue	1
 SOFT PARTS REMOVED DURING PREPARATION	soft parts	1
@@ -8084,6 +8086,7 @@ WINGS_TAIL - 30; FLAT_SKIN - 1	wings_tail - 30 | flat skin - 1	1
 WINGS_TAIL - NULL; SKEL - 1; SYRINX - 1	wings_tail - null | skeleton - 1 | syrinx - 1	1
 WINGS_TAIL; SKIN/TOE CLIP	wings_tail	1
 WINGS+TAIL	tail | wings	1
+WN | TISSUE	wing | tissue	1
 WO	wings	1
 X-SEC (MICROSLIDE)	cross-section (microslide)	1
 X-SEC (WAX MOUNT+MICROSLIDES)	cross-section (wax mount, microslides)	1

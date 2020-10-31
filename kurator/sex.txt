@@ -10,6 +10,7 @@ sex	standard	vetted
 -- [APPARANTLY M]	male	1
  F	female	1
  M	male	1
+ N/A		1
 
 M	male	1
 "		1
@@ -726,6 +727,7 @@ F, 1ST YEAR	female	1
 F, ADULT	female	1
 F, ÄGG	female	1
 F, BY DISSECTION	female	1
+F, BY PLUMAGE	female	1
 F, IMM.	female	1
 F, IMMATURE	female	1
 F, JUVENILE	female	1
