@@ -326,6 +326,7 @@ _	unknown	1
 10 FEMALES, 64 MALES	female | male	1
 11	unknown	1
 11 F, 1 M	female | male	1
+1126		1
 13	unknown	1
 1360		1
 152	unknown	1
@@ -991,6 +992,7 @@ FF	female	1
 FG	unknown	1
 FIRST YEAR MALE	male	1
 FIRST YEAR SUBADULT		1
+FJ	female	1
 FLAT SKIN		1
 FLEDGLING [FEMALE ?]	in question	1
 FLEDGLING [SEX ?]	in question	1
@@ -1105,6 +1107,7 @@ INDETERMINADO	unknown	1
 INDETERMINATE	unknown	1
 J	unknown	1
 J?	unknown	1
+JF	female	1
 JM		1
 JU?. MALE?	in question	1
 JUEVENILE		1
@@ -1620,6 +1623,7 @@ MID-VENTRAL WHITE LINE, BROWN VE		1
 MISSING		1
 MISSING TAIL AND LEGS		1
 MIXED SEXES	female | male	1
+MJ	male	1
 M-JUV.	male	1
 MLE	male	1
 M--LOOKS F 4/2011CEO	male	1
