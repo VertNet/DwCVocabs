@@ -7,6 +7,8 @@ geodeticdatum	standard	vetted
 WGS84	WGS 84	1
 !196	not recorded	1
 ""ZAIRE""	not recorded	1
+"54° 45' 56"" S"	not recorded	1
+"54° 49' 56"" S"	not recorded	1
 "INTERNATIONAL SPHEROID"	Unknown datum based upon the International 1924 el	1
 #D50	not recorded	1
 #N/D	not recorded	1
@@ -48,6 +50,7 @@ WGS84	WGS 84	1
 ?	not recorded	1
 ?WAY OFF	not recorded	1
 @GS84	WGS84	1
+[NOT RECORDED].	not recorded	1
 [ORNIS]GEODETICDATUM]	not recorded	1
 [REDACTED]	not recorded	1
 [WGS 84] CA 1132 M (ESTIMATE)	WGS 84	1
@@ -73,11 +76,20 @@ WGS84	WGS 84	1
 0.7333333	not recorded	1
 -0.996812218	not recorded	1
 -0.9992	not recorded	1
+01/10/1959	not recorded	1
+04/06/1949	not recorded	1
+04/07/1949	not recorded	1
+04/10/1959	not recorded	1
+05/09/1949	not recorded	1
 0588664E, 4465040N	not recorded	1
+06/09/1949	not recorded	1
 0602338E, 4533089N	not recorded	1
 0602368E, 4532830N	not recorded	1
 0623918E, 4495836N	not recorded	1
+07.03.2015	not recorded	1
 0731100 5178800	not recorded	1
+08/07/1935	not recorded	1
+08/07/1949	not recorded	1
 1	not recorded	1
 1.145875	not recorded	1
 1.176619	not recorded	1
@@ -92,6 +104,7 @@ WGS84	WGS 84	1
 10.03448	not recorded	1
 -10.06333	not recorded	1
 -10.0925	not recorded	1
+10.1.2009	not recorded	1
 -10.10892	not recorded	1
 -10.12839	not recorded	1
 10.25088	not recorded	1
@@ -106,6 +119,7 @@ WGS84	WGS 84	1
 10.75	not recorded	1
 10.78333	not recorded	1
 -10.8078333333333	not recorded	1
+10/07/1949	not recorded	1
 100	not recorded	1
 -100.0523890000	not recorded	1
 -100.1067760000	not recorded	1
@@ -470,6 +484,7 @@ WGS84	WGS 84	1
 -11.8	not recorded	1
 -11.83667	not recorded	1
 -11.85	not recorded	1
+11/09/1949	not recorded	1
 -110.854167	not recorded	1
 11069	not recorded	1
 1118	not recorded	1
@@ -554,6 +569,8 @@ WGS84	WGS 84	1
 -13.955384311	not recorded	1
 -13.9554883	not recorded	1
 -13.961389	not recorded	1
+13/05/1949	not recorded	1
+13/08/1936	not recorded	1
 1313	not recorded	1
 13194	not recorded	1
 13277	not recorded	1
@@ -573,6 +590,7 @@ WGS84	WGS 84	1
 14.31168	not recorded	1
 -14.40812	not recorded	1
 -14.4667	not recorded	1
+14.654933	not recorded	1
 14.76791	not recorded	1
 141	not recorded	1
 141.0205080000	not recorded	1
@@ -632,6 +650,7 @@ WGS84	WGS 84	1
 -15.9167	not recorded	1
 -15.95699	not recorded	1
 -15.98333	not recorded	1
+15/07/1949	not recorded	1
 1500	not recorded	1
 15067	not recorded	1
 15112	not recorded	1
@@ -716,6 +735,8 @@ WGS84	WGS 84	1
 -16.91549	not recorded	1
 -16.93717	not recorded	1
 16.9666666666667	not recorded	1
+16/08/1958	not recorded	1
+16/08/1972	not recorded	1
 161	not recorded	1
 1628.192	not recorded	1
 16404	not recorded	1
@@ -760,6 +781,7 @@ WGS84	WGS 84	1
 -17.82281	not recorded	1
 17.8666666666667	not recorded	1
 -17.86996	not recorded	1
+17/06/1949	not recorded	1
 1700	not recorded	1
 17061	not recorded	1
 17083	not recorded	1
@@ -963,11 +985,14 @@ WGS84	WGS 84	1
 -19.606333	not recorded	1
 -19.9	not recorded	1
 -19.96829	not recorded	1
+19/07/1981	not recorded	1
+19/09/1949	not recorded	1
 191	not recorded	1
 19175	not recorded	1
 19179	not recorded	1
 1927	not recorded	1
 19326	not recorded	1
+1934-09-06	not recorded	1
 1935	not recorded	1
 19383	not recorded	1
 19445	not recorded	1
@@ -996,9 +1021,15 @@ WGS84	WGS 84	1
 20.5	not recorded	1
 20.50139	not recorded	1
 -20.65	not recorded	1
+20/07/1949	not recorded	1
 200	not recorded	1
 2000	not recorded	1
 20065	not recorded	1
+2010	not recorded	1
+2010 09 30	not recorded	1
+2013-10-30	not recorded	1
+2013-10-31	not recorded	1
+2013-11-04	not recorded	1
 20150	not recorded	1
 2017/02/17	not recorded	1
 20406	not recorded	1
@@ -1019,6 +1050,7 @@ WGS84	WGS 84	1
 -21.48069	not recorded	1
 -21.77769	not recorded	1
 -21.99979	not recorded	1
+21/10/1969	not recorded	1
 210	not recorded	1
 21119	not recorded	1
 2132	not recorded	1
@@ -1061,6 +1093,7 @@ WGS84	WGS 84	1
 -23.43836	not recorded	1
 -23.48722222	not recorded	1
 -23.5333	not recorded	1
+23/06/1982	not recorded	1
 2300	not recorded	1
 23019	not recorded	1
 2309	not recorded	1
@@ -1088,6 +1121,7 @@ WGS84	WGS 84	1
 -24.8667	not recorded	1
 -24.91005	not recorded	1
 -24.9101	not recorded	1
+24/05/1949	not recorded	1
 2404	not recorded	1
 24041	not recorded	1
 242	not recorded	1
@@ -1160,6 +1194,7 @@ WGS84	WGS 84	1
 -26.84585	not recorded	1
 -26.86	not recorded	1
 -26.90167	not recorded	1
+26/05/1949	not recorded	1
 260	not recorded	1
 26117	not recorded	1
 26127	not recorded	1
@@ -1197,6 +1232,7 @@ WGS84	WGS 84	1
 -27.93345	not recorded	1
 -27.94917	not recorded	1
 -27.96788	not recorded	1
+27/07/1956	not recorded	1
 270	not recorded	1
 -270.833.333	not recorded	1
 270A	not recorded	1
@@ -1224,6 +1260,8 @@ WGS84	WGS 84	1
 -28.84248	not recorded	1
 -28.84521	not recorded	1
 -28.98811	not recorded	1
+28/07/1971	not recorded	1
+28/09/1979	not recorded	1
 282	not recorded	1
 28556	not recorded	1
 28557	not recorded	1
@@ -1674,6 +1712,8 @@ WGS84	WGS 84	1
 -29.27631	not recorded	1
 -29.41667	not recorded	1
 -29.93167	not recorded	1
+29/05/1949	not recorded	1
+29/09/1979	not recorded	1
 29000	not recorded	1
 29001	not recorded	1
 29002	not recorded	1
@@ -2693,6 +2733,8 @@ WGS84	WGS 84	1
 -30.66613	not recorded	1
 -30.86667	not recorded	1
 -30.9861	not recorded	1
+30/06/1971	not recorded	1
+30/09/1979	not recorded	1
 300	not recorded	1
 3000	not recorded	1
 3000 M	not recorded	1
@@ -13639,6 +13681,62 @@ WGS84	WGS 84	1
 -41.10092	not recorded	1
 -41.16003	not recorded	1
 -41.21633	not recorded	1
+41.22026	not recorded	1
+41.22471	not recorded	1
+41.22777	not recorded	1
+41.23421	not recorded	1
+41.23626	not recorded	1
+41.23860	not recorded	1
+41.23925	not recorded	1
+41.23997	not recorded	1
+41.24100	not recorded	1
+41.24105	not recorded	1
+41.24935	not recorded	1
+41.25009	not recorded	1
+41.25791	not recorded	1
+41.25844	not recorded	1
+41.26361	not recorded	1
+41.27500	not recorded	1
+41.27555	not recorded	1
+41.27879	not recorded	1
+41.28098	not recorded	1
+41.28591	not recorded	1
+41.28628	not recorded	1
+41.28737	not recorded	1
+41.28941	not recorded	1
+41.29234	not recorded	1
+41.29812	not recorded	1
+41.30852	not recorded	1
+41.31374	not recorded	1
+41.31466	not recorded	1
+41.31678	not recorded	1
+41.32262	not recorded	1
+41.32296	not recorded	1
+41.32326	not recorded	1
+41.32359	not recorded	1
+41.32874	not recorded	1
+41.33003	not recorded	1
+41.33150	not recorded	1
+41.33498	not recorded	1
+41.33632	not recorded	1
+41.33700	not recorded	1
+41.33903	not recorded	1
+41.33985	not recorded	1
+41.34062	not recorded	1
+41.34172	not recorded	1
+41.34295	not recorded	1
+41.34602	not recorded	1
+41.34705	not recorded	1
+41.35152	not recorded	1
+41.36326	not recorded	1
+41.36426	not recorded	1
+41.36512	not recorded	1
+41.36659	not recorded	1
+41.36763	not recorded	1
+41.36908	not recorded	1
+41.38247	not recorded	1
+41.38395	not recorded	1
+41.38728	not recorded	1
 41.62	not recorded	1
 410	not recorded	1
 41000	not recorded	1
@@ -13939,6 +14037,7 @@ WGS84	WGS 84	1
 41297	not recorded	1
 41298	not recorded	1
 41299	not recorded	1
+413	not recorded	1
 41300	not recorded	1
 41301	not recorded	1
 41302	not recorded	1
@@ -19545,8 +19644,10 @@ WGS84	WGS 84	1
 46999	not recorded	1
 -47,55	not recorded	1
 47.00305556	not recorded	1
+47.02	not recorded	1
 47.13569444	not recorded	1
 47.15138889	not recorded	1
+47.19	not recorded	1
 47.20111111	not recorded	1
 -47.40861	not recorded	1
 47.86397222	not recorded	1
@@ -20530,6 +20631,7 @@ WGS84	WGS 84	1
 47998	not recorded	1
 47999	not recorded	1
 -48,62	not recorded	1
+48.47	not recorded	1
 -48.66667	not recorded	1
 48.8444	not recorded	1
 4800 FT	not recorded	1
@@ -21522,6 +21624,7 @@ WGS84	WGS 84	1
 -49,35	not recorded	1
 49.15	not recorded	1
 49.20416667	not recorded	1
+49.4	not recorded	1
 49.96722222	not recorded	1
 49.99222222	not recorded	1
 49000	not recorded	1
@@ -22146,12 +22249,14 @@ WGS84	WGS 84	1
 -5.965	not recorded	1
 -5.98	not recorded	1
 50	not recorded	1
+50.34	not recorded	1
 500	not recorded	1
 5000	not recorded	1
 50000	not recorded	1
 5047	not recorded	1
 -51,70	not recorded	1
 -51,73	not recorded	1
+51.57	not recorded	1
 5108	not recorded	1
 5162	not recorded	1
 5165	not recorded	1
@@ -22159,14 +22264,18 @@ WGS84	WGS 84	1
 5192	not recorded	1
 -52.01667	not recorded	1
 -52.25	not recorded	1
+52.38	not recorded	1
+52.7	not recorded	1
 -52.99833	not recorded	1
 5208	not recorded	1
+522	not recorded	1
 5226	not recorded	1
 5227	not recorded	1
 5254	not recorded	1
 5270	not recorded	1
 -53,58	not recorded	1
 -53.70667	not recorded	1
+53.81	not recorded	1
 -53.91167	not recorded	1
 5320	not recorded	1
 538978E 4578744N	not recorded	1
@@ -22177,6 +22286,9 @@ WGS84	WGS 84	1
 -54.59667	not recorded	1
 -54.65	not recorded	1
 -54.70167	not recorded	1
+54.74	not recorded	1
+54.79	not recorded	1
+54.85	not recorded	1
 -54.89667	not recorded	1
 -54.91667	not recorded	1
 54.9643	not recorded	1
@@ -22193,10 +22305,12 @@ WGS84	WGS 84	1
 -55.5225833	not recorded	1
 55.55543	not recorded	1
 55.55876	not recorded	1
+55.57	not recorded	1
 55.57479	not recorded	1
 55.58468	not recorded	1
 55.58507	not recorded	1
 55.59205	not recorded	1
+55.6	not recorded	1
 55.60733	not recorded	1
 55.60862	not recorded	1
 55.61606	not recorded	1
@@ -22218,6 +22332,7 @@ WGS84	WGS 84	1
 55.71743	not recorded	1
 55.71994	not recorded	1
 55.76757	not recorded	1
+55.77	not recorded	1
 55.79575	not recorded	1
 55.81192	not recorded	1
 5500FT	not recorded	1
@@ -22226,6 +22341,10 @@ WGS84	WGS 84	1
 -56,38	not recorded	1
 56.00685	not recorded	1
 -56.15	not recorded	1
+56.24	not recorded	1
+56.35	not recorded	1
+56.52	not recorded	1
+56.87	not recorded	1
 5639	not recorded	1
 57.15735	not recorded	1
 57.55889	not recorded	1
@@ -22233,7 +22352,9 @@ WGS84	WGS 84	1
 -57.65333	not recorded	1
 -57.7	not recorded	1
 -57.70142	not recorded	1
+57.82	not recorded	1
 -57.82308	not recorded	1
+57.85	not recorded	1
 -57.9263	not recorded	1
 -578.275.028	not recorded	1
 -58.06363	not recorded	1
@@ -22245,6 +22366,7 @@ WGS84	WGS 84	1
 -58.7000000000	not recorded	1
 -58.71982	not recorded	1
 -58.81167	not recorded	1
+58.82	not recorded	1
 -58.83415	not recorded	1
 -58.85027	not recorded	1
 -58.875	not recorded	1
@@ -22256,6 +22378,7 @@ WGS84	WGS 84	1
 -59.1641670000	not recorded	1
 -59.2657694	not recorded	1
 59.33333	not recorded	1
+59.42	not recorded	1
 -59.48743	not recorded	1
 -59.66422	not recorded	1
 -59.9163889	not recorded	1
@@ -22331,6 +22454,7 @@ WGS84	WGS 84	1
 6.833333	not recorded	1
 -6.8833	not recorded	1
 -60.09922	not recorded	1
+60.11	not recorded	1
 -60.15915	not recorded	1
 -60.21195	not recorded	1
 -60.3569444	not recorded	1
@@ -22372,6 +22496,7 @@ WGS84	WGS 84	1
 622	not recorded	1
 -63,00	not recorded	1
 -63,28	not recorded	1
+63.76	not recorded	1
 -63.8841389	not recorded	1
 6433	not recorded	1
 6436	not recorded	1
@@ -22383,7 +22508,12 @@ WGS84	WGS 84	1
 -66,17	not recorded	1
 -66,42	not recorded	1
 -66.0667	not recorded	1
+66.417	not recorded	1
+66.483	not recorded	1
+66.94	not recorded	1
+67.14	not recorded	1
 -68,5	not recorded	1
+68.42243	not recorded	1
 6824	not recorded	1
 -69,400714	not recorded	1
 696	not recorded	1
@@ -22445,14 +22575,17 @@ WGS84	WGS 84	1
 -73.8264060000	not recorded	1
 -73.8849000000	not recorded	1
 7341	not recorded	1
+-74,68	not recorded	1
 -74.0847060000	not recorded	1
 -74.4375780000	not recorded	1
 -74.4543450000	not recorded	1
 -74.5257570000	not recorded	1
+-74.674722	not recorded	1
 -74.8401810000	not recorded	1
 7417	not recorded	1
 745532E 3970327N	not recorded	1
 7479	not recorded	1
+-75.2106667	not recorded	1
 750	not recorded	1
 7519	not recorded	1
 76.137987	not recorded	1
@@ -22501,6 +22634,7 @@ WGS84	WGS 84	1
 8.72203	not recorded	1
 8.749742	not recorded	1
 8.807064	not recorded	1
+-8.818611	not recorded	1
 -8.81907	not recorded	1
 -8.8595	not recorded	1
 -8.86983	not recorded	1
@@ -22566,6 +22700,7 @@ WGS84	WGS 84	1
 8000	not recorded	1
 8184	not recorded	1
 -82.3798	not recorded	1
+82.391614	not recorded	1
 -82.9789360000	not recorded	1
 83	not recorded	1
 8300 FT.	not recorded	1
@@ -22589,6 +22724,8 @@ WGS84	WGS 84	1
 -9.03578	not recorded	1
 -9.07717	not recorded	1
 -9.1	not recorded	1
+-9.151111	not recorded	1
+-9.151667	not recorded	1
 -9.24767	not recorded	1
 -9.27583	not recorded	1
 9.4	not recorded	1
@@ -22867,8 +23004,10 @@ CLARKE 1858 ELLIPSOID	Unknown datum based upon the Clarke 1858 ellipsoid	1
 CLARKE 1866 ELLIPSOID	Unknown datum based upon the Clarke 1866 ellipsoid	1
 CLARKE 1880 ELLIPSOID	Unknown datum based upon the Clarke 1880 ellipsoid	1
 COLCHESTER	not recorded	1
+COLLECTION LABEL	not recorded	1
 CO-ORDINATE SYSTEM 1937 OF ESTONIA	Estonia 1937	1
 COORDINATES PROVIDED ON LABEL	not recorded	1
+COORDINATES PROVIDED ON LABEL.	not recorded	1
 CORREGO ALEGRE	Corrego Alegre	1
 D	not recorded	1
 D. HARDCASTLE	not recorded	1
@@ -22884,6 +23023,7 @@ DATUM AUST. GEOD. 1966	AGD66	1
 DATUM AUST. GEOD. 66.	AGD66	1
 DATUM NO INDICADO	not recorded	1
 DATUM NOT RECORDED	not recorded	1
+DATUM NOT SPECIFIED.	not recorded	1
 DAVE LAFEVER	not recorded	1
 DD	not recorded	1
 DECEPTION ISLAND	Deception Island	1
@@ -22893,6 +23033,7 @@ DECIMAL DEGREES
 WGS84	WGS 84	1
 DECIMALDEGREES	not recorded	1
 DEG DEC WGS84	WGS 84	1
+DELORME TOPO USA	not recorded	1
 DER	not recorded	1
 DESCONHECIDO	not recorded	1
 DESCONOCIDO	not recorded	1
@@ -22921,6 +23062,8 @@ ENT.30851	not recorded	1
 EPSG(25830)	ETRS89 / UTM zone 30N	1
 EPSG: 4326	WGS 84	1
 EPSG:25830	ETRS89 / UTM zone 30N	1
+EPSG:3006	SWEREF99 TM	1
+EPSG:32633	WGS84 / UTM zone 33N	1
 EPSG:32736	WGS 84 / UTM zone 36S	1
 EPSG:3857	WGS 84 / Pseudo-Mercator	1
 EPSG:4202	AGD66	1
@@ -22975,11 +23118,13 @@ FALSE	not recorded	1
 FAP777	not recorded	1
 FND. OCOTEPEQUE	Ocotepeque 1935	1
 FORT THOMAS 1955	St. Kitts 1955	1
+FUBAR	not recorded	1
 FUNDAMENTAL DE OCOTEPEQUE	Ocotepeque 1935	1
 G9	not recorded	1
 GAD 94	GDA94	1
 GAD94	AGD84	1
 GAN 1970	Gan 1970	1
+GARMIN ETREX GPS	not recorded	1
 GARMIN GPSMAP65	not recorded	1
 GAZETTEER	not recorded	1
 GAZETTER	not recorded	1
@@ -22995,6 +23140,7 @@ GDA64	not recorded	1
 GDA66	AGD66	1
 GDA84	GDA94	1
 GDA92	not recorded	1
+GDA93	not recorded	1
 GDA94	GDA94	1
 GDA-94	GDA94	1
 GDA94 - AGD84	GDA94	1
@@ -23017,6 +23163,7 @@ GDA94-AGD84	GDA94	1
 GDA94-AGD84.	GDA94	1
 GDA94-WGS84	WGS84	1
 GDA94-WGS-84	GDA94	1
+GDA95	not recorded	1
 GDA96	not recorded	1
 GDA974	GDA94	1
 GDA984	AGD84	1
@@ -23736,6 +23883,7 @@ H	not recorded	1
 HAD83	NAD83	1
 HD ATHEARN, B WALKER COLLECTION, MUSEUM OF COMPARATIVE ZOOLOGY	not recorded	1
 HELMERT 1906 ELLIPSOID	Unknown datum based upon the Helmert 1906 ellipsoi	1
+HEMIPTERA	not recorded	1
 HERAT NORTH	Herat North	1
 HERBERT D ATHEARN, B WALKER COLLECTION, MUSEUM OF COMPARATIVE ZOOLOGY	not recorded	1
 HERMANNSKOGEL	Hermannskogel	1
@@ -23745,8 +23893,10 @@ HITO XVIII 1963	Hito XVIII 1963	1
 HJORSEY 1955	Hjorsey 1955	1
 HONG KONG 1963	Hong Kong 1963	1
 HOUGH 1960 ELLIPSOID	Hough 1960 ellipsoid	1
+HTTP://CCH2.ORG/PORTAL/COLLECTIONS/EDITOR/OCCURRENCEEDITOR.PHP?CSMODE=0&OCCINDEX=0&OCCID=1375979&COLLID=39#	not recorded	1
 HTTP://LICHENPORTAL.ORG/PORTAL/COLLECTIONS/EDITOR/OCCURRENCEEDITOR.PHP?Q_RECORDEDBY=&Q_RECORDNUMBER=&Q_EVENTDATE=&Q_IDENTIFIER=&Q_OTHERCATALOGNUMBERS=&Q_OBSERVERUID=&Q_ENTEREDBY=&Q_DATELASTMODIFIED=&Q_PROCESSINGSTATUS=UNPROCESSED&Q_CUSTOMFIELD1=STATEPROVI	not recorded	1
 HTTPS://CREATIVECOMMONS.ORG/LICENSES/BY-NC/4.0/	not recorded	1
+HTTPS://EPSG.IO/4326	WGS84	1
 HU-TZU-SHAN	Hu Tzu Shan 1950	1
 ICH.02847	not recorded	1
 ID 1974	ID74	1
@@ -23929,6 +24079,7 @@ IZS.26967	not recorded	1
 IZS.28749	not recorded	1
 IZS.29006	not recorded	1
 IZS.30720	not recorded	1
+J	not recorded	1
 JAPANESE GEODETIC DATUM 2000	JGD2000	1
 JGD2000	JGD2000	1
 JOHNSTON ISLAND 1961	Johnston Island 1961	1
@@ -24042,6 +24193,7 @@ NAD 27	NAD27	1
 NAD 27  (UTM DATUM: NAD 27 CONUS)	NAD27	1
 NAD 27  (UTM DATUM: NAD27 CONUS)	NAD27	1
 NAD 27  (UTM DATUM: NAD27)	NAD27	1
+NAD 27 (UTM DATUM: NAD27 CONUS)	NAD27	1
 NAD 27 +/- 14 FEET	NAD27	1
 NAD 27 ALASKA DATUM	NAD27	1
 NAD 27 CONUS	NAD27	1
@@ -24062,7 +24214,7 @@ NAD 83/WGS84	WGS 84	1
 NAD 83:	NAD83	1
 NAD 84	NAD83	1
 NAD 85	NAD83	1
-NAD 86	not recorded	1
+NAD 86	NAD83	1
 NAD 87	not recorded	1
 NAD 93	NAD83	1
 NAD, WGS84	WGS 84	1
@@ -24071,70 +24223,70 @@ NAD_83	NAD83	1
 NAD100	NAD83	1
 NAD101	NAD83	1
 NAD102	NAD83	1
-NAD103	not recorded	1
-NAD104	not recorded	1
-NAD105	not recorded	1
-NAD106	not recorded	1
-NAD107	not recorded	1
-NAD108	not recorded	1
-NAD109	not recorded	1
-NAD110	not recorded	1
-NAD111	not recorded	1
-NAD112	not recorded	1
-NAD113	not recorded	1
-NAD114	not recorded	1
-NAD115	not recorded	1
-NAD116	not recorded	1
-NAD117	not recorded	1
-NAD118	not recorded	1
-NAD119	not recorded	1
-NAD120	not recorded	1
-NAD121	not recorded	1
-NAD122	not recorded	1
-NAD123	not recorded	1
-NAD124	not recorded	1
-NAD125	not recorded	1
-NAD126	not recorded	1
-NAD127	not recorded	1
-NAD128	not recorded	1
-NAD129	not recorded	1
-NAD130	not recorded	1
-NAD131	not recorded	1
+NAD103	NAD83	1
+NAD104	NAD83	1
+NAD105	NAD83	1
+NAD106	NAD83	1
+NAD107	NAD83	1
+NAD108	NAD83	1
+NAD109	NAD83	1
+NAD110	NAD83	1
+NAD111	NAD83	1
+NAD112	NAD83	1
+NAD113	NAD83	1
+NAD114	NAD83	1
+NAD115	NAD83	1
+NAD116	NAD83	1
+NAD117	NAD83	1
+NAD118	NAD83	1
+NAD119	NAD83	1
+NAD120	NAD83	1
+NAD121	NAD83	1
+NAD122	NAD83	1
+NAD123	NAD83	1
+NAD124	NAD83	1
+NAD125	NAD83	1
+NAD126	NAD83	1
+NAD127	NAD83	1
+NAD128	NAD83	1
+NAD129	NAD83	1
+NAD130	NAD83	1
+NAD131	NAD83	1
 NAD132	NAD83	1
-NAD133	not recorded	1
-NAD134	not recorded	1
-NAD135	not recorded	1
-NAD136	not recorded	1
-NAD137	not recorded	1
-NAD138	not recorded	1
-NAD139	not recorded	1
-NAD140	not recorded	1
-NAD141	not recorded	1
-NAD142	not recorded	1
-NAD143	not recorded	1
-NAD144	not recorded	1
-NAD145	not recorded	1
-NAD146	not recorded	1
-NAD147	not recorded	1
-NAD148	not recorded	1
-NAD149	not recorded	1
-NAD150	not recorded	1
-NAD151	not recorded	1
-NAD152	not recorded	1
-NAD153	not recorded	1
-NAD154	not recorded	1
-NAD155	not recorded	1
-NAD156	not recorded	1
-NAD157	not recorded	1
-NAD158	not recorded	1
-NAD159	not recorded	1
-NAD160	not recorded	1
-NAD161	not recorded	1
-NAD162	not recorded	1
-NAD163	not recorded	1
-NAD164	not recorded	1
-NAD165	not recorded	1
-NAD166	not recorded	1
+NAD133	NAD83	1
+NAD134	NAD83	1
+NAD135	NAD83	1
+NAD136	NAD83	1
+NAD137	NAD83	1
+NAD138	NAD83	1
+NAD139	NAD83	1
+NAD140	NAD83	1
+NAD141	NAD83	1
+NAD142	NAD83	1
+NAD143	NAD83	1
+NAD144	NAD83	1
+NAD145	NAD83	1
+NAD146	NAD83	1
+NAD147	NAD83	1
+NAD148	NAD83	1
+NAD149	NAD83	1
+NAD150	NAD83	1
+NAD151	NAD83	1
+NAD152	NAD83	1
+NAD153	NAD83	1
+NAD154	NAD83	1
+NAD155	NAD83	1
+NAD156	NAD83	1
+NAD157	NAD83	1
+NAD158	NAD83	1
+NAD159	NAD83	1
+NAD160	NAD83	1
+NAD161	NAD83	1
+NAD162	NAD83	1
+NAD163	NAD83	1
+NAD164	NAD83	1
+NAD165	NAD83	1
+NAD166	NAD83	1
 NAD19	not recorded	1
 NAD1927	NAD27	1
 NAD1927.00	NAD27	1
@@ -24143,7 +24295,7 @@ NAD1983	NAD83	1
 NAD1983?	NAD83	1
 NAD2	NAD27	1
 NAD227	NAD27	1
-NAD23	NAD83	1
+NAD23	not recorded	1
 NAD237	NAD27	1
 NAD24	NAD27	1
 NAD27	NAD27	1
@@ -24263,7 +24415,7 @@ NAPARIMA, BWI	Naparima, BWI	1
 NAS 27	NAD27	1
 NAS27	NAD27	1
 NAS3	NAD83	1
-NAVD88	not recorded	1
+NAVD88	NAD83	1
 ND	not recorded	1
 NDA83	NAD83	1
 ÑÊÅÐÄÀ	not recorded	1
@@ -24283,6 +24435,7 @@ NOT APPLICABLE (NO COORDINATES)	not recorded	1
 NOT GEOREF	not recorded	1
 NOT GIVEN	not recorded	1
 NOT KNOWN	not recorded	1
+NOT PRESENT	not recorded	1
 NOT PROVIDED	not recorded	1
 NOT REC.	not recorded	1
 NOT RECORDED	not recorded	1
@@ -24332,6 +24485,7 @@ PROVISIONAL LA CONOA 1956 (VENEZUELA)	La Canoa	1
 PROVISIONAL SOUTH AMERICAN 1956	PSAD56	1
 PROVISIONAL SOUTH CHILEAN 1963	Hito XVIII 1963	1
 PRP_M	PSAD56	1
+PRPM	not recorded	1
 PRP-M	PSAD56	1
 PRYOR MTNS	not recorded	1
 PSAD56	PSAD56	1
@@ -24421,10 +24575,12 @@ TRISTAN ASTRO 1968	Tristan 1968	1
 TRS	not recorded	1
 TRS2LL	not recorded	1
 TWD67	TWD67	1
+TWD97	TWD97	1
 TWD97/WGS84	WGS 84	1
 U	not recorded	1
 U.T.M.	not recorded	1
 UGS84	WGS 84	1
+UKJENT	not recorded	1
 UKNOWN	not recorded	1
 UNDET	not recorded	1
 UNDET.	not recorded	1
@@ -24442,10 +24598,13 @@ USD 83	NAD83	1
 USD83	NAD83	1
 USGA 7.5"" WOLF GAP WV/VA QUAD	not recorded	1
 USGS 7.5 ""WOLF GAP"" WV/VA QUAD (1966)	not recorded	1
+USGS 7.5 MINUTE FALLBROOK QUADRANGLE SEC.14, T.9 S., R.4 W	NAD83	1
+USGS QUADRANGLE: SALSBURY POTRERO 7.5'	WGS84	1
 UTC	not recorded	1
 UTM	not recorded	1
 UTM 10 KM CELL: MJ-9E, 0N. RATTLESNAKE MTN.	not recorded	1
 UTM 11	not recorded	1
+UTM 15	not recorded	1
 UTM 176 LU19	not recorded	1
 UTM 241154	not recorded	1
 UTM 32 T 0361680 4893858	not recorded	1
@@ -24469,6 +24628,7 @@ UTM ZONE 10, 717595E 5066560N	not recorded	1
 UTM ZONE 10T 526410 EAST 4657296 NORTH +/- 33 FT WGS84	WGS84	1
 UTM ZONE 11	not recorded	1
 UTM ZONE 11; WGS84	WGS84	1
+UTM ZONE 12	not recorded	1
 UTM ZONE 16	not recorded	1
 UTM ZONE 17	not recorded	1
 UTM ZONE 17M	not recorded	1
@@ -24504,6 +24664,7 @@ WAKE ISLAND ASTRO 1952	Wake Island 1952	1
 WAKE-ENIWETOK 1960	Marshall Islands 1960	1
 WALDO	not recorded	1
 WAS84	WGS84	1
+WBS84	WGS84	1
 WBS84/NAD83	WGS 84	1
 WCR 13	not recorded	1
 WDS 84	WGS 84	1
@@ -32942,7 +33103,7 @@ WGS8397	WGS 84	1
 WGS8398	WGS 84	1
 WGS8399	WGS 84	1
 WGS84	WGS 84	1
-WGS84	WGS 84	1
+WGS84	WGS84	1
 WGS-84	WGS 84	1
 WGS84  (UTM DATUM: N/A)	WGS 84	1
 WGS84  (UTM DATUM: NAD 27 CONUS)	WGS 84	1
@@ -32992,6 +33153,7 @@ WGS84/NAS83	WGS84	1
 WGS84/WGS83	WGS 84	1
 WGS84; ACCURACY IN FT	WGS 84	1
 WGS84; LONGITUDE ZONE 3	WGS 84	1
+WGS84_DEC	WGS84	1
 WGS84`	WGS 84	1
 WGS840	WGS 84	1
 WGS8400	WGS 84	1
@@ -34822,6 +34984,7 @@ WUPA	not recorded	1
 WWGS 84	WGS 84	1
 WWGS84	WGS 84	1
 X	not recorded	1
+XX	not recorded	1
 YACARE	Yacare	1
 ZANDERIJ	Zanderij	1
 ZNP	not recorded	1
