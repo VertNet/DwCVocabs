@@ -2085,6 +2085,7 @@ SHELL+PARTIAL SKELETON (DRY)	shell | partial skeleton	1
 SIGHTING		1
 SISL	sisl	1
 SK	skull	1
+SK - 1; SO - 1	skeleton, skin	1
 SK | HEART	heart | skull	1
 SK | MUSCLE	muscle | skull	1
 SK +T	skeleton | skin | tissue	1
@@ -3256,31 +3257,47 @@ SN+T +ECTO	ectoparasite | skeleton | tissue	1
 SN+T+BAC	baculum | skeleton | tissue	1
 SN+T+ECTO	ectoparasite | skeleton | tissue	1
 SN+T+ECTO+CH	chromosomes | ectoparasite | skeleton | tissue	1
-SO	skin in alcohol	1
-SO    AD.	skin in alcohol	1
-SO   AD.	skin in alcohol	1
-SO   IM.	skin in alcohol	1
-SO   JUV.	skin in alcohol	1
-SO  AD	skin in alcohol	1
-SO  AD.	skin in alcohol	1
-SO  IM.	skin in alcohol	1
-SO  JUV.	skin in alcohol	1
-SO  YG.	skin in alcohol	1
-SO | BLOOD SAMPLE | HEART	blood sample | heart | skin in alcohol	1
-SO | BLOOD SAMPLE | MUSCLE	blood sample | muscle | skin in alcohol	1
-SO | ECTOPARASITES | HEART	ectosparasites | heart | skin in alcohol	1
-SO | HEART	heart | skin in alcohol	1
-SO | MUSCLE	muscle | skin in alcohol	1
-SO +T	skin in alcohol | tissue	1
-SO AD	skin in alcohol	1
-SO IM	skin in alcohol	1
-SO*	skin in alcohol	1
-SO, & PART	skin in alcohol | partial skeleton	1
-SO, & PART. SKELETON	skin in alcohol | partial skeleton	1
-SO, EG, OT	skin in alcohol | egg | other	1
-SO, ES	skin in alcohol | egg	1
-SO, TISSUE	skin in alcohol | tissue	1
-SO+T	skin in alcohol | tissue	1
+SO	skin	1
+SO    AD.	skin	1
+SO   AD.	skin	1
+SO   IM.	skin	1
+SO   JUV.	skin	1
+SO - 1	skin	1
+SO - 1 | TISSUE	skin | tissue	1
+SO - 1; SO - 1	skin | skin	1
+SO - 1; SS - 1	skin | partial skeleton	1
+SO  AD	skin	1
+SO  AD.	skin	1
+SO  IM.	skin	1
+SO  JUV.	skin	1
+SO  YG.	skin	1
+SO | BLOOD SAMPLE | BLOOD SAMPLE	blood sample | blood sample | skin	1
+SO | BLOOD SAMPLE | BLOOD SAMPLE | TISSUE	blood sample | blood sample | skin | tissue	1
+SO | BLOOD SAMPLE | HEART	blood sample | heart | skin	1
+SO | BLOOD SAMPLE | MUSCLE	blood sample | muscle | skin	1
+SO | ECTOPARASITES | HEART	ectosparasites | heart | skin	1
+SO | HEART	heart | skin	1
+SO | MUSCLE	muscle | skin	1
+SO | NO	skin	1
+SO | OTHER PREPARATION | SKIN	other preparation | skin	1
+SO | OTHER PREPARATION | SKIN | TISSUE	other preparation | skin | tissue	1
+SO | SKELETON AT TTU #44723	skeleton | skin	1
+SO | SKIN	skin	1
+SO | SKIN | TISSUE	skin | tissue	1
+SO | TISSUE	skin | tissue	1
+SO | YES	skin	1
+SO +T	skin | tissue	1
+SO AD	skin	1
+SO IM	skin	1
+SO*	skin	1
+SO* - 1	skin	1
+SO, & PART	skin | partial skeleton	1
+SO, & PART. SKELETON	partial skeleton | skin	1
+SO, EG, OT	egg | other preparation | skin	1
+SO, ES	egg | skin	1
+SO, TISSUE	skin | tissue	1
+SO?	skin	1
+SO+T	skin | tissue	1
 SOFT PARTS REMOVED DURING PREPARATION	soft parts	1
 SOME LIMB ELEMENTS O.	limb elements	1
 SOUND - 1; SKIN - 1	sound - 1 | skin - 1	1
@@ -3320,6 +3337,7 @@ SPREAD WING - 1	spread wing - 1	1
 SPREAD WING AND TAIL, TISSUE	spread wing | tail | tissue	1
 SPREAD WING, TISSUE	spread wing | tissue	1
 SS	skin | skull	1
+SS - 1; SO - 1	partial skeleton | skin	1
 SS | MUSCLE	muscle | skin | skull	1
 SS, TISSUE	skin | skull | tissue	1
 ST	st	1
