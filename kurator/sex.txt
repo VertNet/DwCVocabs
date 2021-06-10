@@ -320,6 +320,7 @@ _	unknown	1
 1 FEMALE	female	1
 1 FEMALE,	female	1
 1 HEMIPENE, THROAT WHITE, SCALES		1
+1 M, 2 F ?	female | male	1
 1 M,1 F SUBAD, 21 U	female | male	1
 1 MALE	male	1
 1 MALE, 1 FEMALE	female | male	1
@@ -363,6 +364,7 @@ _	unknown	1
 2 MALES, 2 FEMALES	female | male	1
 2 NESTLINGS		1
 2 NESTLINGS [SEX ?]	in question	1
+21 FEMALES	female	1
 223	unknown	1
 227	unknown	1
 239	unknown	1
@@ -1147,6 +1149,7 @@ JUVENILE, TISSUE- SCALE CLIP		1
 JUVENILE, TISSUE-LIVER SAMPLE		1
 JUVENILE, TISSUE-SCALE CLIP		1
 JUVENILE/NEONATE		1
+JUVENILES	unknown	1
 JUVENILES AND EGGS	unknown	1
 JV		1
 K?	in question	1
@@ -1605,6 +1608,7 @@ MALE, TISSUE-LIVER SAMPLE TAKEN	male	1
 MALE, TISSUE-SCALE CLIP	male	1
 MALE, TISSUE-SCALE CLIPS	male	1
 MALE, YY	male	1
+MALE,FEMALE	female | male	1
 MALE.FEMALE	female | male	1
 MALE/ADULT	male	1
 MALE/FEMALE	female | male	1
@@ -1734,6 +1738,7 @@ SEX ?	in question	1
 SEX ? - MALE PLUMAGE	in question	1
 SEX UNKNOWN	unknown	1
 SEX UNKNOWN, POSSIBLE FEMALE	unknown	1
+SEX UNKNOWN, POSSIBLY MALE	unknown	1
 SEX?	in question	1
 SIN DATOS	unknown	1
 SKIN TISSUE SAMPLE TAKEN		1
@@ -1810,6 +1815,8 @@ UNDET..MALE	male | unknown	1
 UNDETERMINABLE	indeterminable	1
 UNDETERMINED	unknown	1
 UNDETERMINED (SHOT IN ABDOMEN)		1
+UNDETERMINED FEMALE	in question	1
+UNDETERMINED MALE	in question	1
 UNK	unknown	1
 UNK  JUV.	unknown	1
 UNK - JUV. OR NEONATAL	unknown	1
