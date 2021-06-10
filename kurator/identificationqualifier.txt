@@ -500,6 +500,7 @@ CF. MICROLEPIS	cf. microlepis	1
 CF. MIRIFICUS	cf. mirificus	1
 CF. MORALESI	cf. moralesi	1
 CF. MORETONENSIS (SP. B)	cf. moretonensis	1
+CF. N. GEN. ET SP.	gen. indet.	1
 CF. N. SP. F OF KLAPPER	sp.	1
 CF. NATTERERI	cf. nattereri	1
 CF. NEWBOLDI	cf. newboldi	1
@@ -966,6 +967,7 @@ N. SP. A.	sp. nov.	1
 N. SP. B	sp. nov.	1
 N. SP. B (SHORT GLAND)	sp. nov.	1
 N. SP. B.	sp. nov.	1
+N. SP. �BIMACULATUS�	sp. nov.	1
 N. SP. C	sp. nov.	1
 N. SP. CF. INCONSPICUA	sp. nov.	1
 N. SP. CF. MACKAYI	sp. nov.	1
@@ -982,11 +984,13 @@ N. SP. L	sp. nov.	1
 N. SP. M	sp. nov.	1
 N. SP. MS	sp. nov.	1
 N. SP. N	sp. nov.	1
+N. SP. �NEGRO/ALTO ORINOCO�	sp. nov.	1
 N. SP. OF KUES 1984	sp. nov	1
 N. SP. Q	sp. nov.	1
 N. SP. QUE. CHARANAL	sp. nov.	1
 N. SP. R	sp. nov.	1
 N. SP. SALOTTI ET AL. 1997	sp. nov.	1
+N. SP. �TAILSPOT�	sp. nov.	1
 N. SP.2	sp. nov.	1
 N. SP.3	sp. nov.	1
 N. SP.4	sp. nov.	1
@@ -1064,6 +1068,7 @@ PANDORA X R. SP.	pandora X R. sp.	1
 PATZNERI N. SP.	sp. nov.	1
 PAULSONI SSP. TASMAI	ssp.	1
 PERLATES (SUBSP.)	ssp.	1
+PIPIENS (COMPLEX) SP.	sp.	1
 PIPILODRYAS SP.	sp.	1
 PLEXA SSP. S	ssp.	1
 POSSIBLY GEN	genus in question	1
@@ -1148,6 +1153,7 @@ SP. "BLOTCH"	sp.	1
 SP. "BROAD STRIPE"	sp.	1
 SP. "C"	sp.	1
 SP. "CORTA"	sp.	1
+SP. "D"	sp.	1
 SP. "DARK SPOTS"	sp.	1
 SP. "FLAT"	sp.	1
 SP. "FRECKLED"	sp.	1
@@ -1512,6 +1518,7 @@ SP. A5	sp.	1
 SP. A6	sp.	1
 SP. A-C	sp.	1
 SP. A-D	sp.	1
+SP. �ADIPOSA LARGA�	sp.	1
 SP. AFF. ATTENUATUM TYPE 2	sp.	1
 SP. AFF. FURCATUM TYPE 1	sp.	1
 SP. AFF. GALAXIAS	aff. galaxias	1
@@ -1542,6 +1549,7 @@ SP. B2	sp.	1
 SP. B3	sp.	1
 SP. B4	sp.	1
 SP. B5	sp.	1
+SP. �BANDED�	sp.	1
 SP. BBN1	sp.	1
 SP. BBP1	sp.	1
 SP. BBP2	sp.	1
@@ -1551,6 +1559,8 @@ SP. 'BLUESTONE SCULPIN'	sp.	1
 SP. BONGOLONENSIS	sp.	1
 SP. 'BRINDISI'	sp.	1
 SP. 'BROADTAIL'	sp.	1
+SP. �BROWN�	sp.	1
+SP. �BRYCONAMERICUS�	sp.	1
 SP. BSN1	sp.	1
 SP. BSN2	sp.	1
 SP. BSN9	sp.	1
@@ -1558,6 +1568,7 @@ SP. BSNX	sp.	1
 SP. BSP1	sp.	1
 SP. BSP2	sp.	1
 SP. BSP4	sp.	1
+SP. �BULLOCKI�	sp.	1
 SP. BUTLER	sp.	1
 SP. 'BUTTERFLY'	sp.	1
 SP. C	sp.	1
@@ -1573,6 +1584,7 @@ SP. C1	sp.	1
 SP. C2	sp.	1
 SP. C3	sp.	1
 SP. CF PTEROIDES	cf. pteroides	1
+SP. CF WINCHELLI	sp.	1
 SP. CF.	cf.	1
 SP. CF. AESTIVALIS	cf. aestivalis	1
 SP. CF. AESTIVALIS “A”	cf. aestivalis	1
@@ -1663,8 +1675,13 @@ SP. CG	sp.	1
 SP. CG-1	sp.	1
 SP. CG-2	sp.	1
 SP. 'CHACAMAX'	sp.	1
+SP. �CHATA�	sp.	1
+SP. �CHATTA�	sp.	1
+SP. �CHEIRODON�	sp.	1
 SP. 'CHOMBA'	sp.	1
 SP. 'CLINCH SCULPIN'	sp.	1
+SP. �COMMA�	sp.	1
+SP. �COMMON�	sp.	1
 SP. D	sp.	1
 SP. D WITZKE AND STRIMPLE	sp.	1
 SP. D.	sp.	1
@@ -1672,9 +1689,13 @@ SP. D0	sp.	1
 SP. D1	sp.	1
 SP. D2	sp.	1
 SP. D3	sp.	1
+SP. �DARK�	sp.	1
+SP. �DEEP BODY�	sp.	1
 SP. DEEPLY CONVEX	sp.	1
 SP. DELTA	sp.	1
+SP. �DITTO�	sp.	1
 SP. DIV.	sp.	1
+SP. �DORSAL SPOT�	sp.	1
 SP. E	sp.	1
 SP. E WITZKE AND STRIMPLE	sp.	1
 SP. E.	sp.	1
@@ -1683,10 +1704,12 @@ SP. E2	sp.	1
 SP. 'EBANO'	sp.	1
 SP. EGG CASES	sp.	1
 SP. ERECT FORM	sp.	1
+SP. �ESSEQUIBO�	sp.	1
 SP. F	sp.	1
 SP. F.	sp.	1
 SP. F2	sp.	1
 SP. FORME A	sp.	1
+SP. �FUSED SADDLES�	sp.	1
 SP. G	sp.	1
 SP. G PRIME	sp.	1
 SP. G.	sp.	1
@@ -1694,6 +1717,7 @@ SP. G0	sp.	1
 SP. G1	sp.	1
 SP. G2	sp.	1
 SP. GAMMA	sp.	1
+SP. �GHOST�	sp.	1
 SP. GP.	sp.	1
 SP. GP. 1	sp.	1
 SP. GP. 2	sp.	1
@@ -1707,7 +1731,9 @@ SP. H SENSU RISTEDT	sp.	1
 SP. H.	sp.	1
 SP. H0	sp.	1
 SP. H2	sp.	1
+SP. �HALF STRIPE�	sp.	1
 SP. 'HOLSTON SCULPIN'	sp.	1
+SP. �HUGE SCALES�	sp.	1
 SP. HYBRID	sp.	1
 SP. I	sp.	1
 SP. I OF LINDSTROM	sp.	1
@@ -1719,6 +1745,7 @@ SP. II-A	sp.	1
 SP. III	sp.	1
 SP. INCERT	sp. incert.	1
 SP. INCERT.	sp. incert.	1
+SP. �INCOMPLETE�	sp.	1
 SP. INDET	sp.	1
 SP. INDET.	sp. indet.	1
 SP. INDET. 1	sp.	1
@@ -1738,6 +1765,7 @@ SP. INDET.11	sp.	1
 SP. INDET.2	sp.	1
 SP. INDET.4	sp.	1
 SP. INDET.8	sp.	1
+SP. �IRENG�	sp.	1
 SP. IV	sp.	1
 SP. J	sp.	1
 SP. J SENSU RISTEDT	sp.	1
@@ -1768,19 +1796,23 @@ SP. 'LAS FLORES'	sp.	1
 SP. LEMON	sp.	1
 SP. 'LEMON'	sp.	1
 SP. LENTIGRIOSUM	sp.	1
+SP. �LINE�	sp.	1
 SP. LINEA	sp.	1
 SP. 'LINEA'	sp.	1
 SP. LISSMANNI	sp.	1
+SP. �LONG�	sp.	1
 SP. M	sp.	1
 SP. M.	sp.	1
 SP. M2	sp.	1
 SP. MAGNOSTIPES	sp.	1
 SP. MEDIUM	sp.	1
+SP. �MEMBRANE�	sp.	1
 SP. MISSING	sp.	1
 SP. MORPH A	sp.	1
 SP. MORPH B	sp.	1
 SP. MORPHOTYPE 15	sp.	1
 SP. MORPHOTYPE 16	sp.	1
+SP. �MUSCADINE DARTER�	sp.	1
 SP. N	sp.	1
 SP. N.	sp.	1
 SP. N. 1	sp. nov.	1
@@ -1790,6 +1822,8 @@ SP. N. LARGE FORM	sp. nov.	1
 SP. NEW	sp. nov.	1
 SP. NGOUNIENSIS	sp.	1
 SP. NIGRUM	sp.	1
+SP. �NO SPOTS�	sp.	1
+SP. �NO STRIPE�	sp.	1
 SP. NO. 4	sp.	1
 SP. NOV	sp. nov.	1
 SP. NOV 2	sp. nov.	1
@@ -1823,11 +1857,15 @@ SP. OFFOUENSIS	sp.	1
 SP. OJO PEQUENO	sp.	1
 SP. OKANOENSIS	sp.	1
 SP. 'O-LUGUBRIS'	sp.	1
+SP. �ORANGE HUMERAL�	sp.	1
 SP. 'O-WALACII'	sp.	1
 SP. 'O-WALLACII'	sp.	1
 SP. P	sp.	1
 SP. PALIDA	sp.	1
 SP. PARSEGNIS	sp.	1
+SP. �PLAIN�	sp.	1
+SP. �PSEUDO-BROWNI�	sp.	1
+SP. �PSEUDOGEPHYROCHARAX�	sp.	1
 SP. PUFFINUS	sp.	1
 SP. Q	sp.	1
 SP. Q0	sp.	1
@@ -1840,18 +1878,24 @@ SP. S. 152	sp.	1
 SP. S.CI. 124	sp.	1
 SP. S.CL. 428	sp.	1
 SP. S2	sp.	1
+SP. �SAWFIN SHINER�	sp.	1
 SP. SCI 170	sp.	1
 SP. SCI.124	sp.	1
 SP. SCISSOR TAIL	sp.	1
 SP. 'SCISSOR TAIL'	sp.	1
 SP. SDL.124	sp.	1
+SP. �SHORT�	sp.	1
+SP. �SHORT ANAL FIN�	sp.	1
 SP. SHORT SPINED	sp.	1
 SP. 'SICKLEFIN'	sp.	1
+SP. �SILVER STRIPE�	sp.	1
 SP. 'SINUOUS'	sp.	1
 SP. SLENDER	sp.	1
 SP. 'SLENDER'	sp.	1
+SP. �SLIM�	sp.	1
 SP. SMALL	sp.	1
 SP. SMALL EYE	sp.	1
+SP. �SMALL SADDLE�	sp.	1
 SP. 'SMALL TEETH'	sp.	1
 SP. SMOOTH	sp.	1
 SP. 'SMOOTH'	sp.	1
@@ -1860,6 +1904,7 @@ SP. SN4	sp.	1
 SP. SN9	sp.	1
 SP. 'SPOTTED'	sp.	1
 SP. STRIPED	sp.	1
+SP. �STRIPETAIL�	sp.	1
 SP. SUBSP. A	sp.	1
 SP. SUBSP. B	sp.	1
 SP. SY01	sp.	1
@@ -1902,8 +1947,11 @@ SP. T029	sp.	1
 SP. T030	sp.	1
 SP. T032	sp.	1
 SP. TAIL MOYENNE,NOV.SP.B	sp. nov.	1
+SP. �TAKUTU�	sp.	1
+SP. �TAKUTU 2�	sp.	1
 SP. 'TALLAPOOSA SCULPIN'	sp.	1
 SP. 'TEAPA'	sp.	1
+SP. �TENCUANENSIS�	sp.	1
 SP. TENUICAUDA	sp.	1
 SP. 'THICK'	sp.	1
 SP. TINY	sp.	1
@@ -1919,6 +1967,7 @@ SP. U	sp.	1
 SP. UNDET.	sp.	1
 SP. UNDET. 1	sp.	1
 SP. UNNAMED	sp.	1
+SP. �UPPER CAUDAL SPOT�	sp.	1
 SP. V	sp.	1
 SP. VADAMANS	sp.	1
 SP. VARIANT	sp.	1
@@ -1929,10 +1978,13 @@ SP. W1	sp.	1
 SP. W2	sp.	1
 SP. W4	sp.	1
 SP. WHITE-CHEST	sp.	1
+SP. �WIDE LINE�	sp.	1
+SP. �WIDE STRIPE�	sp.	1
 SP. X	sp.	1
 SP. X SP.	sp. X sp.	1
 SP. X VENUSTUS	sp. X venustus	1
 SP. Y	sp.	1
+SP. �YUPUKARI�	sp.	1
 SP. Z	sp.	1
 SP. Z0	sp.	1
 SP.	sp.	1

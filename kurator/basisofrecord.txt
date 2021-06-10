@@ -1,4 +1,5 @@
 basisofrecord	standard	vetted
+5		1
 EJEMPLAR PRESERVADO	PreservedSpecimen	1
 ESPECIMEN PRESERVADO	PreservedSpecimen	1
 ESPÉCIMEN PRESERVADO	PreservedSpecimen	1
@@ -6,7 +7,9 @@ FOSSIL	FossilSpecimen	1
 FOSSIL SPECIMEN	FossilSpecimen	1
 FOSSILSPECIMEN	FossilSpecimen	1
 HUMAN OBSERVATION	HumanObservation	1
+HUMANOBSERVAITON	HumanObservation	1
 HUMANOBSERVATION	HumanObservation	1
+HUMANOBSEVATION	HumanObservation	1
 LITERATURE	HumanObservation	1
 LIVINGSPECIMEN	LivingSpecimen	1
 MACHINEOBSERVATION	MachineObservation	1

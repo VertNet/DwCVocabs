@@ -634,6 +634,7 @@ F [PERHAPS M ?]	in question	1
 F [SIGN NOT VERY LEGIBLE]	female	1
 F [SURE=M]	male	1
 F +	female	1
+F + 2 JUV.	female	1
 F ++	female	1
 F =	female	1
 F = [M JUV.]?	in question	1
@@ -789,6 +790,7 @@ F; CONFIRMED BY DISSECTION	female	1
 F; IMM.	female	1
 F?	in question	1
 F-?	in question	1
+F? JUVENILE?	in question	1
 F? M JUV	in question	1
 F? M? [M]		1
 F?(M JUV)	in question	1
@@ -983,6 +985,7 @@ FEMALE-GRAVID	female	1
 FEMALE-HY	female	1
 FEMALE-IMM.	female	1
 FEMALE-JUV	female	1
+FEMALE-PLUMAGED	female	1
 FEMALES	female	1
 FEMAMLE	female	1
 FEMELLA	female	1
@@ -1228,8 +1231,10 @@ M (GRAN)	male	1
 M (HY)	male	1
 M (IMM 3.9X1.2)	male	1
 M (IMM.?)	male	1
+M (IMMATURE)	male	1
 M (INFO FROM TISSUE TUBE)	male	1
 M (JUV.)	male	1
+M (JUVENILE)	male	1
 M (LAP)	male	1
 M (LIGHT)	male	1
 M (LT:1X1)	male	1
@@ -1370,6 +1375,8 @@ M YG,	male	1
 M YNG	male	1
 M YOUNG	male	1
 M YY	male	1
+M
+	male	1
 MMALE	male	1
 M!	male	1
 M(?)	in question	1
@@ -1397,6 +1404,7 @@ M, JUVENILE?	male	1
 M,F	unknown	1
 M.	male	1
 M. ADULT	male	1
+M. JUV.	male	1
 M/08 DAYS OLD	male	1
 M/1 DAY	male	1
 M/1 DAY OLD	male	1
@@ -1586,6 +1594,7 @@ MALE, IMMATURE	male	1
 MALE, LIVER TISSUE COLLECTED	male	1
 MALE, LIVER TISSUE TAKEN	male	1
 MALE, NEST	male	1
+MALE, SEE NOTES	male	1
 MALE, SVL 319MM, TAIL 64 MM	male	1
 MALE, SVL 436 MM, TAIL 157	male	1
 MALE, SVL 75 MM, TAIL 87 MM W/ 2	male	1
@@ -1663,6 +1672,7 @@ NA/JUV.	unknown	1
 NA/NESTLING	unknown	1
 NA/SUB-ADULT	unknown	1
 NEONATE		1
+NEST		1
 NEST. JUV.		1
 NESTING COLONY		1
 NESTLING [FEMALE ?]	in question	1
@@ -1698,6 +1708,7 @@ O/P	unknown	1
 O?	unknown	1
 O~	unknown	1
 O'B	unknown	1
+ORANGE AND BLACK		1
 ORANGE HEAD		1
 PIMA		1
 PINK TAIL		1
@@ -1722,6 +1733,7 @@ SEX	unknown	1
 SEX ?	in question	1
 SEX ? - MALE PLUMAGE	in question	1
 SEX UNKNOWN	unknown	1
+SEX UNKNOWN, POSSIBLE FEMALE	unknown	1
 SEX?	in question	1
 SIN DATOS	unknown	1
 SKIN TISSUE SAMPLE TAKEN		1
@@ -1843,6 +1855,7 @@ VENTRAL SCALES BLACK WITH POWDER		1
 VENTRAL SCALES POWDER BLUE; WHIT		1
 VENTRAL SCALES YELLOWISH-CREAM W		1
 VENTRALS WHITE & POWDER BLUE ON 		1
+WHITE AND BLACK		1
 WINTER PHASE		1
 WITH LIGHT TURQUOISE DORSAL SPEC		1
 X		1
