@@ -64,6 +64,7 @@ preparations	standard	vetted
 ?????	unknown	1
 [GIVEN TO U OF N ARIZONA]		1
 [NO SPECIMEN]		1
+[PINNED?]		1
 [SEE COMMENTS]		1
 `EGGS	eggs	1
 +SK	skeleton | skin	1
@@ -204,6 +205,7 @@ preparations	standard	vetted
 50% ISOPROPYL | NO		1
 5EGGS	eggs	1
 6 VERTEBRAE (DRY)	6 vertebrae	1
+6/20/2013 JAS.		1
 64 | GOOD | TISSUE: NO		1
 6699		1
 7 - 70% ETHANOL; 2 - DRY | UNSPECIFIED | TISSUE: NO		1
@@ -1454,6 +1456,12 @@ DRIED/ HALF GALLON JAR | GOOD | TISSUE: YES		1
 DRIED/ SMALL JAR | GOOD | TISSUE: YES		1
 DRIED?		1
 DRY	dry	1
+DRY | DESCRIPTION: PINNED WHOLE
+DORSAL		1
+DRY | DESCRIPTION: PINNED WHOLE
+LATERAL		1
+DRY | DESCRIPTION: PINNED WHOLE
+VENTRAL		1
 DRY | DESICCATED | TISSUE: NO		1
 DRY | DRY SKELETON | TISSUE: NO		1
 DRY | DRY SKELETON: INCOMPLETE SPECIMEN(S) | TISSUE: NO		1
@@ -2811,6 +2819,7 @@ INCOMPLETE: SKULL AND WING(S) ONLY, TISSUE	skull | wings | tissue	1
 INCOMPLETE: SKULL ONLY	skull	1
 INCOMPLETE: SKULL ONLY, TISSUE	skull | tissue	1
 INFILTRATED SPECIMEN	infiltrated specimen	1
+INNED		1
 INTENTIONALLY COMBINED WITH UW 014982 | GOOD | TISSUE: NO		1
 INTENTIONALLY COMBINED WITH UW 015127 | GOOD | TISSUE: NO		1
 ISOLATED LIMB BONE	limb bone	1
@@ -3011,6 +3020,8 @@ METACARPAL O.	metacarpal	1
 METACARPALS OR METATARSALS		1
 METATARSAL AND METACARPELS		1
 METATARSALS, TARSAL		1
+MICROPIN		1
+MICROPINNED		1
 MICROTECHNIQUE, DRY	dry | microtechnique	1
 MICROTECHNIQUE, FLUID	fluid | microtechnique	1
 MICROTECHNIQUE, FLUID, HEMIPENIS	fluid | hemipenis | microtechnique	1
@@ -3163,6 +3174,7 @@ NP | TISSUE	partial skeleton | round skin | tissue	1
 O	other prep	1
 O | TISSUE	other prep | tissue	1
 OCCIPITALS ONLY (DRY)	occipitals	1
+OINNED		1
 OK  - 4		1
 OK - 1; OK		1
 OK - 3		1
@@ -3360,6 +3372,17 @@ PIEL Y CRÁNEO, AK 25093	skin | skull	1
 PIEL Y CRÁNEO, AK25022	skin | skull	1
 PIEL, CRÁNEO Y ESQUELETO	skeleton | skin | skull	1
 PIEL, LÍQUIDO, CRÁNEO Y ESQUELETO	fluid | skeleton | skin | skull	1
+PINED		1
+PINEED		1
+PINNE		1
+PINNED		1
+PINNED POINT		1
+PINNED.		1
+PINNED/CASING		1
+PINNED+		1
+PINNEDNED		1
+PINNEDNTED		1
+PINNEDPINNED		1
 PLASTIC	plastic	1
 PLASTIC GI	plastic gastro-intestinal tract	1
 PLASTIC GI TRACT	plastic gastro-intestinal tract	1
@@ -3480,6 +3503,8 @@ RIGHT DENTARY O.	right dentary	1
 RIGHT DENTARY ONLY	right dentary	1
 RIGHT MANDIBLE ONLY	right mandible	1
 RIGHT MAXILLARY O.	right maxillary	1
+RIKER MOUNT		1
+RIKER MOUNTED		1
 ROLLED SKIN		1
 ROUND	round skin	1
 ROUND SKIN	round skin	1
@@ -3517,6 +3542,8 @@ ROUND/WING/PART SKEL	partial skeleton | round skin | wing	1
 ROUND/WING/PART SKEL, TISSUE	partial skeleton | round skin | tissue | wing	1
 ROUND/WING/SKEL	skeleton | round skin | wing	1
 ROUND/WING/SKEL, TISSUE	skeleton | round skin | tissue | wing	1
+RYKER MOUNT		1
+RYKER MOUNTED		1
 S0	skin in alcohol	1
 SA	alcoholic carcass	1
 SALTED SKIN	wing (salted)	1
