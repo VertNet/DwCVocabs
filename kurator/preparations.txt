@@ -1243,6 +1243,7 @@ BACULUM, SKULL, COMPLETE SKELETON	baculum | skull | complete skeleton	1
 BACULUM, SKULL, PARTIAL SKELETON	baculum | skull | partial skeleton	1
 BACULUM, SKULL, SKIN, COMPLETE SKELETON	baculum | complete skeleton | skin | skull	1
 BACULUM.	baculum	1
+BALEEEN		1
 BALEEN	baleen	1
 BALEEN PLATE	baleen plate	1
 BALEEN, SKELETON		1
@@ -1636,8 +1637,10 @@ ESQUELETO	skeleton	1
 ESQUELETO Y CRÁNEO	skeleton | skull	1
 ESQUELETO, PENDIENTE DE LIMPIAR	skeleton	1
 ET	alcoholic	1
+ETHANOL & FORMALIN		1
 ETHANOL | NO		1
 ETHANOL/ SMALL JAR | GOOD | TISSUE: YES		1
+ETHANOL; KARYOTYPE SLIDE - 4		1
 ETOH	alcoholic	1
 ETOH - 1	alcoholic	1
 ETOH - 1; ETOH - 1	alcoholic	1
@@ -2824,11 +2827,13 @@ INTENTIONALLY COMBINED WITH UW 014982 | GOOD | TISSUE: NO		1
 INTENTIONALLY COMBINED WITH UW 015127 | GOOD | TISSUE: NO		1
 ISOLATED LIMB BONE	limb bone	1
 ISOPROPANOL | NO		1
+ISOPROPYL		1
 JAW	jaw	1
 JAW & FORELIMB O.	jaw | forelimb	1
 JAW BONE, RIBS, SKULL, VERTEBRAE		1
 JAW BONES (DRY)	jaw bones	1
 JAWS ONLY	jaws	1
+KARYOTYPE SLIDE - 4		1
 KARYOTYPE, SKELETON, SKIN, SKULL	karyotype | skeleton | skin | skull	1
 KARYOTYPE, SKELETON, SKIN, SKULL, TISSUE	karyotype | skeleton | skin | skull | tissue	1
 KARYOTYPE, SKELETON, SKULL	karyotype | skeleton | skull	1
@@ -3326,6 +3331,7 @@ PELVIS & VERTEBRA ONLY	pelvis | vertebra	1
 PELVIS (HALF), SKULL		1
 PELVIS LEG (DRY)	leg | pelvis	1
 PELVIS, SKIN, SKULL		1
+PENIS; FLUID; KARYOTYPE SLIDE - 5		1
 PERIOTIC BONE	periotic bone	1
 PHLANGES, RIB		1
 PHOTO AND TISSUE	photo | tissue	1
@@ -3726,6 +3732,7 @@ SKEL/WING/TAIL, TISSUE	skeleton | tail | tissue | wing	1
 SKEL/WING/TAIL/FOOT	foot | skeleton | tail | wing	1
 SKEL/WINGS	skeleton | wings	1
 SKEL/WINGS/TAIL	skeleton | tail | wings	1
+SKEL; CHEEK POUCH CONTENTS - 1		1
 SKEL; SKIN/TOE CLIP	skel	1
 SKEL; SKIN; SKIN/TOE CLIP	skeleton | skin	1
 SKEL; TISSUE	skeleton | tissue	1
@@ -4727,6 +4734,7 @@ SKIN/WING	skin | wing	1
 SKIN/WING, TISSUE	skin | tissue | wing	1
 SKIN/WING/SKELETON	skin | wing | skeleton	1
 SKIN; FEATHER; SKIN/TOE CLIP	skin | feather	1
+SKIN; KARYOTYPE SLIDE - 4		1
 SKIN; SKEL; SKIN/TOE CLIP	skin | skel	1
 SKIN; SKIN/TOE CLIP	skin	1
 SKIN; SKIN/TOE CLIP; SKEL; FEATHER	skin | skeleton | feather	1
@@ -4969,6 +4977,14 @@ SKULL; FLAT SKIN	flat skin | skull	1
 SKULL; MISC.	miscellaneous | skull	1
 SKULL; MOUNTED	mounted skull	1
 SKULL; SKIN	skin | skull	1
+SKULL; SKIN; KARYOTYPE SLIDE - 11		1
+SKULL; SKIN; KARYOTYPE SLIDE - 13		1
+SKULL; SKIN; KARYOTYPE SLIDE - 15		1
+SKULL; SKIN; KARYOTYPE SLIDE - 3		1
+SKULL; SKIN; KARYOTYPE SLIDE - 4		1
+SKULL; SKIN; KARYOTYPE SLIDE - 5		1
+SKULL; SKIN; KARYOTYPE SLIDE - 6		1
+SKULL; SKIN; KARYOTYPE SLIDE - 8		1
 SKULL; SKULL	skull	1
 SKULL; STUDY SKIN	study skin | skull	1
 SKULL+AXIAL SKELETON (GLYCERIN)	axial skeleton (glycerin) | skull (glycerin)	1
@@ -9668,6 +9684,8 @@ TISSUE 8305	tissue	1
 TISSUE 8309	tissue	1
 TISSUE 8748	tissue	1
 TISSUE SAMPLE IN BRINE | GOOD | TISSUE: YES		1
+TISSUE VOUCHER / FREEZER TUBE		1
+TISSUE VOUCHER / SHELF JAR		1
 TISSUE, AND FEET IN ETOH		1
 TISSUE, C&S	cleared and stained | tissue	1
 TISSUE, C&S, FLUID	cleared and stained | fluid | tissue	1
@@ -9700,6 +9718,7 @@ TISSUES	tissues	1
 TK	tusk	1
 TN	skin in alcohol | skeleton | tissue	1
 TO	skeleton | tissue	1
+TONGUE; SKULL; SKIN		1
 TOOTH	tooth	1
 TOOTH (DRY)	tooth	1
 TOOTH (TEETH) ONLY		1
@@ -9764,6 +9783,11 @@ VIAL BROKEN | DESTROYED | TISSUE: NO		1
 VIDEO VOUCHER	video	1
 VISCERA	viscera	1
 WAX CAST	wax cast	1
+WET		1
+WET | 40% ISOPROPANOL		1
+WET | 45% ISOPROPYL		1
+WET | 70% ETOH		1
+WET | 70% ISOPROPANOL		1
 WET PRESERVED IN ALCOHOL		1
 WHOLE	whole animal	1
 WHOLE - 1	whole - 1	1
