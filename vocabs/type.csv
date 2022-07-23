@@ -1,14 +1,3 @@
-"verbatimType","standardType","uri","checked","opinionBy","opinionDate"
-"Ejemplar preservado","PhysicalObject","http://purl.org/dc/dcmitype/PhysicalObject",1,"David Bloom","2017-08-26"
-"Especimen preservado","PhysicalObject","http://purl.org/dc/dcmitype/PhysicalObject",1,"David Bloom","2017-08-26"
-"Espécimen Preservado","PhysicalObject","http://purl.org/dc/dcmitype/PhysicalObject",1,"David Bloom","2017-08-26"
-"Event","Event","http://purl.org/dc/dcmitype/Event",1,"John Wieczorek","2017-08-25"
-"hysicalObject","PhysicalObject","http://purl.org/dc/dcmitype/PhysicalObject",1,"John Wieczorek","2017-08-25"
-"Literature","Text","http://purl.org/dc/dcmitype/Text",1,"John Wieczorek","2017-08-25"
-"MovingImage","MovingImage","http://purl.org/dc/dcmitype/MovingImage",1,"John Wieczorek","2017-08-25"
-"Observación Humana","Event","http://purl.org/dc/dcmitype/Event",1,"David Bloom","2017-08-26"
-"PhysicalObject","PhysicalObject","http://purl.org/dc/dcmitype/PhysicalObject",1,"John Wieczorek","2017-08-25"
-"Sound","Sound","http://purl.org/dc/dcmitype/Sound",1,"John Wieczorek","2017-08-25"
-"specimen","PhysicalObject","http://purl.org/dc/dcmitype/PhysicalObject",1,"John Wieczorek","2017-08-25"
-"StillImage","StillImage","http://purl.org/dc/dcmitype/StillImage",1,"John Wieczorek","2017-08-25"
-"Text","Text","http://purl.org/dc/dcmitype/Text",1,"John Wieczorek","2017-08-25"
+version https://git-lfs.github.com/spec/v1
+oid sha256:3129baaf9dea65190e1765cb51c0d7f51d19971b2624657dd459d4061e943e99
+size 1386
